@@ -1,0 +1,104 @@
+<!-- 
+Needs one of those DTD header thingies
+Change TEI.2 to TEI
+Get rid of IDs in TEI and TEXT
+Remove unmatched close title tag
+Extensive refactoring of the TEI header.  Some elements 
+need to go into titleStmt, some into profileStmt, some 
+into publicationStmt.  In many cases the underscores should be 
+converted into nesting elements
+
+Text section notes:
+P apparently used in place of a place_mentioned tag
+location_mentioned needs to be converted, likely to placeName
+date_mentioned n needs to be converted to date when
+dates need to be converted to YYYY-MM-DD
+person_mentioned needs to be converted to persName
+barker_pb needs to be converted to pb
+
+
+-->
+<TEI.2 id="APB1455">
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>11-08-1827</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1709-1710</document_citation>
+<document_language>English</document_language>
+<document_status>Private</document_status>
+<document_type>Letter</document_type>
+<document_author>J. F. Buchetti</document_author>
+<document_sender></document_sender>
+<document_recipient>S. M. Williams</document_recipient>
+<document_title>J. F. Buchetti to S. M. Williams, 11-08-1827</document_title>
+<document_location>
+	<sent_from>Hacienda de Carrizal, </sent_from>
+	<sent_to>Unknown</sent_to>
+</document_location>
+<barker_notes>
+	<barker_summary>Will not be priest for the colony, but Austin wishes him to teach Spanish there.</barker_summary>
+	<barker_footnotes></barker_footnotes>
+	<barker_citation>Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1709-1710</barker_citation>
+</barker_notes>
+<document_digital_creation>07-26-2010</document_digital_creation>
+
+<respStmt>
+<resp>Project Director and Editor: </resp> 
+<name>Andrew J. Torget</name>
+<resp>Creation of XML version: </resp>
+<name>Debbie Liles</name>
+</respStmt>
+
+<text id="APB1455T">
+
+<body>
+<div1 type="summary">
+<p>Will not be priest for the colony, but Austin wishes him to teach Spanish there.</p>
+</div1>
+
+<div1 type="body">
+
+<p><placeName>Hacienda de Carrizal</placeName>, the <date when="1827-09-08">8th 9ber 1827</date></p>
+<p><persName>Mr. Samuel W. Williams</persName>,</p>
+
+<p>Dear Sir I have received your esteemed of the<date when="1827-09-10"> 10th of 
+September</date> by the way of <persName>Mr. Ybarra </persName>and to which I answer albut 
+immediately. I learn in it, that you are very busy, and that the <placeName>colony</placeName>
+has sufered a good deal of feaver, and that you have wrote to your
+<persName>friends </persName>for the seeds in question etc <persName>Colonel Austin</persName> is here, en
+<placeName>Saltillo</placeName>, and has talked with <persName>Ybarra </persName>on the subject of the seeds, and
+I too, I had three large conversations with him on the subject of my
+former letters to him advising him that I had renounced my project
+of going to the <placeName>brazos</placeName>, as a <persName>minister</persName>, etc he upon the whole, was very
+satisfied with me. But he told me that he should be glad if I would
+go thither to establish a <placeName>Spanish school,</placeName> that he had solicited a
+<persName>Spanish Master </persName>for that purpose in the <placeName>U. S.</placeName> and could obtain none,
+that, at his arrival, he will try, (according to his wishes) to form a
+<placeName>school</placeName>, to Justify a <persName>teacher</persName>, and he would write me the result, and
+that in the meantime I would continue to write you both from time
+to time. As he has told me that you take the <placeName>News paper called the
+Eagle</placeName>, I shall tell you nothing of politics because you will see in<pb n="1710"/>
+that paper all what is passing of interesting; altho I might advise
+you to discontinue the subscription of that one to subscribe to <placeName>the
+Sun</placeName> which is better and cheaper.</p>
+
+<p>Since I have left <placeName>Saltillo </placeName>I was told by a good <persName>authority </persName>that the
+<persName>Provisor </persName>has named a <persName>priest </persName>to go to yours parts, and the <persName>Colonel</persName>
+told me he would go and see him on the subject.</p>
+
+<p>This, Dear sir, is all what I can write worth of your notice, seing
+that the <persName>Colonel </persName>will inform you of all and he will not difer his
+return. in the meantime I remain your very respectfull and 
+obedient servant</p>
+
+<p><persName>Juan Francisco Buchetti</persName>.</p>
+
+<p>N. B. if through leasure you oblige me to write me again Dirrect
+me your letters through <persName>Mr Ybarra</persName> as you have done this last one</p>
+<p><persName>J. F. B.</persName></p>
+
+
+</div1>
+</body>
+</text>
+</TEI.2>
