@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0011">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Stephen Austin, 03-16-1795</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-11">06-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 19-20
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1795-03-16">03-16-1795</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Statement of account with Blanchard and Lauman.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Memorandum of Land Deliver'd <persName>John D Blanchard</persName> and <persName>Geo Lauman</persName>
+on acct of a Contract Made with them on <date when="1795-03-16">March 16 1795</date>—</p>
+
+<p>To My part of the survey in <placeName>Grayson</placeName>______________________________    52.000</p>
+
+<p>To A Survey in <placeName>Wythe County</placeName> of__________________________________    22.000</p>
+
+<p>To A Survey in     do       do______________________________________     3.000</p>
+
+<p>To a Survey in     do       do______________________________________     2 930</p>
+
+<p>To a      do    in     do       do______________________________________    10 000</p>
+
+<p>To          do    in     do       do______________________________________    24.099</p>
+
+<p>To          do    in     do       do______________________________________     7 000</p>
+
+<p>121,029</p>
+
+<p>NB All the above Lands have been Deliverd to <persName>John D Blanchard</persName>
+and <persName>Geo Lauman</persName> in discharge of the Contract made with them in
+<date when="1795-03-16">March 16./'95</date> which Contract Calls for 120 thousind Acres of Land
+so that he has recd nine Hundred and Ninety nine Acres of Land
+which is to be accountd for in an other Contract all the money I have
+ever recd from <persName>Blanchard </persName>and <persName>Lauman </persName>for the Land Business is
+accounted for in the above 120 thousand and the lands taken up for
+them in <placeName>Grayson </placeName>except the money paid me for the takeing up the
+last land these Lands I with hold as a security for a quantity of
+goods Put into the hands of <persName>John D Blanchard</persName> which he was to
+have rec'd from <persName>Geo Lauman</persName> and to pay over to <persName><hi rend="italic">Stephen Austin</hi>
+and Co</persName> when the Amount of said goods are accounted for I am
+then willing to Deliver up the Lands which may be Due them on said
+Contract and not before If any Dispute should arrise as to the
+Delivery of the above Land recose may be had to <persName>Mr. Jos Burr</persName> to
+prove the <placeName>52 thousand acres in Grayson </placeName>and to the <placeName>Land office in
+Richmond</placeName> where all the other Survey in my name and in the name
+of <persName>John D Blanchard</persName> may be found all of which I have Convey to
+the Said <persName>John D and Geo Lauman</persName> by reference to the acct. filed with
+this statement It will be found how much money is now in my
+hand.</p>
+
+<p>It will be found that this Acct. will exactly Tally with my 
+Contract made with them in <date when="1795-03-16">March 16. 1795</date> and the Balence of the
+money is now invested in a Survey of land to be returnd by <persName>James
+Newell</persName> of 43 thousend Acres of Land—<persName>Mr Blanchard</persName> has taken<pb n="20"/>
+an oath that I am indebted to him $6514 52 which is the whole
+amount of all the money which has come into my hands on all the
+Land business that I have don for <persName>Blanchard </persName>and <persName>Lauman </persName>and to
+prove that he has taken an oath not founded in Truth t° Injur me
+and to hold me to Baile to prove this Business I wish <persName>Blanchard</persName>
+to be asked the following questions in Presence of some man that
+can witness the same has not all the money stated to have been
+recd. been accounted for Excep the money advanced on the 
+Memorandum No 3 for the takeing up of Land for the Joint acct. of
+<persName>Blanchard Lauman and Stephen and M Austin</persName>, have not you recd.
+the 120 thousend acres sold you under Contract <date when="1795-03-16">16 March</date> and are
+not you and <persName>Lauman </persName>accountable for the expence on the said 120
+thousend acres is not all the money paid <persName>M Austin</persName> for lands
+Survy'd for your self and <persName>Geo Lauman</persName> included in the General
+acct furnish'd you and have you any demand except for the money
+on the last 100 thousend out of which you are to have 33 1/3 thousend
+Acres and <persName>Lauman </persName>33 1/3 thousand acres when these Lands are 
+returned have you any Clame on<persName> M Austin</persName> for any thing more and
+Is <persName>M Austin</persName> oblig'd to return the Land unless he hes money in his
+hands to pay the Expences.</p>
+
+<p>[Endorsed:] Memorandum of Land Business with <persName>Blanchard and
+Lauman</persName>   Deliver d <persName>Mr Stephen Austin</persName></p>
+
+<p>Dr John D Blanchard in a/c with Moses Austin</p>
+
+<p>1795 To Sundry goods put into your hands which you have not Ac-
+counted for____________________________________________    2020</p>
+
+<p>To 43 thousend Acres Land warrents @ 20 Doll_______________     860</p>
+
+<p>To Expence of Surveying 43 thousend acres__________________     112. 50</p>
+
+<p>To Regester fee on 43 thousend______________________________       89. 50</p>
+
+<p>3087.0</p>
+<p>To Cash allow James Newell as stated in N° 3______________     400</p>
+
+<p>$3482</p>
+<p>Cr</p>
+
+<p>By Amount Cash paid me to take up 100 000 acres of Land____ $2888</p>
+<p>Balence Due M A  ________________________________  594</p>
+
+<p>$3482</p>
+<p>[Endorsed:] Memorandum a/c furnished S. Austin</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

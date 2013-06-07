@@ -1,5 +1,7 @@
 #!/usr/bin/perl
-my $outDir = "./output/";
+use File::Basename;
+
+my $outDir = shift(@ARGV);;
 sub getPersonKey
 {
     my $name = shift(@_);
@@ -56,7 +58,8 @@ sub createDateTag
 
 if (scalar(@ARGV) == 0)
 {
-    print "No file given\n";
+    print "Error: No file given\n";
+    print "\nUsage: xml2tei.pl <output directory> <xml file 1> <xml file 2> <xml file 3> ...\n";
     exit();
 }
 
@@ -306,7 +309,7 @@ SGMR29HEREDOCTOKEN124
 
 #print $newContents;
 #print "$title\n";
-my $outFilePath = $outDir . $fileName;
+my $outFilePath = $outDir . basename($fileName);
 print "$outFilePath\n";
 open (OUTFILE, ">$outFilePath");
 print OUTFILE $newContents;
