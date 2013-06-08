@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0109">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Public, xx-xx-1806</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-27">06-27-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Public
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Burton Mine, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 123
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Notice</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1806">xx-xx-1806</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Warning public that his Mine á Breton grant was confirmed, and that John Smith T could not give title for it.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>[1806] </p>
+
+<p>NOTICE</p>
+
+<p>Where as I have been repeatedly Informed that <persName>John Smith T.</persName>
+has reported that he has a Concession for some <placeName>thousand Acres of
+Land</placeName>, which he is Authorized to locate on any land in this <placeName>Territory</placeName>
+and that the said <persName>John Smith T</persName>. has declar'd his Intention to 
+Include my <placeName>Mine a Burton</placeName> tract of Land with in his location&#8212;</p>
+
+<p>Now be it Known that I shall prosecute to the utmost Extent of
+the Law, all persons that Commit a Trespass on any part of my
+Land. Either by cuting timber marking trees or Diging Mineral.
+I also Declare to all and Every person now Diging Mineral on my
+Land by permission that I will protect them in the privileges I have
+promis'd them, Against <persName>John Smith T</persName>. or any man Acting under
+his Orders. Also against all and Every person what so Ever, and
+should the said <persName>John Smith T</persName>. make any attempt to molest or give
+any hindrance or to interfear in any wise with the people now 
+Diging on my Land Either by writing personal action or by <persName>agent</persName>. I
+will take on myself to Answer the consequence that may arise by
+treating said notice with silent neglect&#8212; I also think proper to
+notify the Public that I have a Patent right to Three Miles square
+of Land at the <placeName>Mine a Burton</placeName> and that said Title has been 
+acknowledge Complete by the <persName>Government of the <placeName>U States</placeName></persName> and as such 
+translated by the <persName>secretary of the Treasury of the <placeName>U states</placeName></persName> to <persName>William C
+Carr Esq. Governmental Agent for Land Claims</persName></p>
+
+<p>[Endorsed.] Notice respecting Trespass on the <persName>Mine a Burton</persName>
+Tract Land&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

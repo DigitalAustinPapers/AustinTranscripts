@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0127">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Frederick Bates to Moses Austin, 09-12-1807</title>
+            <author>
+                <persName>Frederick Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Louis, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 137-138
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1807-09-12">09-12-1807</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Relations with John Smith.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>St. Louis</persName> <date when="1807-09-12">Sep 12 1807</date></p>
+<p>Sir,</p>
+
+<p>I have delayed very long to answer your letter of the <date when="1807-08-02">2d of Aug</date>,-
+neither do I know at this moment, in what manner it should be
+answered.</p>
+
+<p>It is pretty generally agreed that you and <persName>Col° Smith</persName> have been
+at the head of the two great <persName>parties</persName>, which have heretofore divided
+the district of <placeName>St Genevieve</placeName>.&#8212; Your opponent has been dismissed<pb n="138"/>
+from office with as much abruptness as the decorums of such a 
+measure would justify; and it appeared to me correct and proper, that
+your several friends, should be no longer known, as the <persName>partizans </persName>of
+their respective <persName>leaders</persName>.</p>
+
+<p>With respect to the disaffection of certain <persName>persons in your <placeName>quarter
+of the Country</placeName></persName>, you must be very sensible&#8212;that I have no proofs.</p>
+
+<p>The conduct of <persName>Colo, S------</persName>has been before the <persName>Grand Jury</persName>&#8212; Against
+him there were stronger presumptions than against others, and yet
+nothing was established.</p>
+
+<p>When a <persName>Public Agent</persName> proscribes a <persName>Citizen </persName>and declares him 
+unworthy of public trust the world will expect to be told of what he
+has been guilty.&#8212; I have nothing but the surmises of 
+[undecipherable] <persName>enemies </persName>to offer.&#8212;</p>
+
+<p><persName>Major Cook</persName> has been with me&#8212;He recriminates, tho' he knows
+nothing of your accusations&#8212;but permit me to assure you, that I
+entertain the same high opinions of your purity of character and
+conduct that I ever did&#8212;</p>
+
+<p>With respect to a <persName>Legionary Corps</persName>&#8212;I approve the idea, and
+should certainly be gratified by sanctioning such an arrangements&#8212;
+but it cannot at this time be carried into effect, It shall not be 
+forgotten</p>
+
+<p><persName>Mr. James Austin</persName> is so fully possessed of my feelings on these
+subjects that he will carry them to you more satisfactorily than I
+have now leisure to do&#8212;</p>
+
+<p>F<persName>rederick: Bates</persName></p>
+
+<p>[Addressed:] <persName>Moses Austin Esquire</persName> <placeName>Mine a Burton</placeName>, <persName>Jas. Austin
+Esquire</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

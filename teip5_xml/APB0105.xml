@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0104">
+xml:id="APB0105">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>H. Austin to J. Bryant, 07-xx-1806</title>
+            <title>James Gallagher and Sons  to Moses Austin, 07-16-1806</title>
             <author>
-                <persName>H. Austin</persName>
+                <persName>James Gallagher and Sons </persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB0104">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-06-24">06-24-2011</date>
+            <date when="201-06-24">06-24-201</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J. Bryant
+                        Moses Austin
                     </persName>
                 </person>
 
@@ -69,40 +69,53 @@ xml:id="APB0104">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1806-07">07-xx-1806</date>
+            <date when="1806-07-16">07-16-1806</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+        <change when="201-06-24" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Concerning the attack on Austin's house on the 4th.</add></p>
+            <p><add hand="#barker">Concerning debt.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[July, 1806]</p>
+<p><placeName>Philad</placeName>. <date when="1806-07-16">July 16th 1806</date></p>
+<p><persName>Mr Moses Austin</persName></p>
 <p>Sir</p>
 
-<p>If you have not given your deposition (respecting the attack <placeName>Mr
-<persName>M Austin</persName>s house</placeName>) at the <placeName>Mine A Burton</placeName>, you will oblige me and
-also <persName>Mr M Austin</persName> by coming to <placeName><persName>Mr Andrews</persName></placeName><date n="07-xx-1806"> to-night</date> or early 
-<date n="07-xx-1806">tomorrow morning</date> it is important that we should have abundant
-evidence on this subject and I trust Sir you will with pleasure give
-us yours.</p>
+<p>We have been waiting with patience for the amount of
+your debt due to <persName>James Gallagher (decd)</persName> which you promis'd to
+pay at <placeName>Orleans </placeName>or forward a draft on <placeName>Philaa </placeName>as you mention'd in
+your letter of the <date when="1805-10-26">26th of October 1805</date>. The business with us is this
+that there is to be a settlement of the <persName>Estate of James Gallagher
+(decd)</persName> to take place in <date n="08-xx-1806">next month</date> so that if the account is not paid
+by that time we must resort to means which would be very 
+disagreeable to your Humble Servants</p>
 
-<p>Sunday evening</p>
+<p>for the <persName>Eexecutors of the Estate of James 
+Gallagher</persName></p>
 
-<p><persName>H. Austin</persName></p>
+<p><persName>James Gallagher and Sons </persName>   [Rubric]</p>
+<p>N B On the other side is your account current</p>
 
-<p>[addressed:] <persName>Mr. J Bryant [Bryan?]</persName></p>
+<p><persName>Mr Moses Austin</persName></p>
 
-<p>Present</p>
+<p>To the <persName>Estate or James Gallagher</persName> Dr</p>
+<p><date when="1796-03-12">1796 March 12th</date> To 6 Crates of ware_______________  £120.12.0</p>
+
+<p><date when="1796-03-12">"</date>    By Or <persName>P. W. Gallandet</persName>s note__________________   £39.10-0</p>
+
+<p>To interest Payable after 6 Months</p>
+
+<p>£81.20</p>
+
 
         </div1>
     </body>

@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0104">
+xml:id="APB0126">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>H. Austin to J. Bryant, 07-xx-1806</title>
+            <title>Frederick Bates to Moses Austin, 09-11-1807</title>
             <author>
-                <persName>H. Austin</persName>
+                <persName>Frederick Bates</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB0104">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-06-24">06-24-2011</date>
+            <date when="2011-06-28">06-28-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J. Bryant
+                        Moses Austin
                     </persName>
                 </person>
 
@@ -48,7 +48,7 @@ xml:id="APB0104">
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 110
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 137
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0104">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Commission to Administer Oath</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,40 +69,47 @@ xml:id="APB0104">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1806-07">07-xx-1806</date>
+            <date when="1807-09-11">09-11-1807</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Concerning the attack on Austin's house on the 4th.</add></p>
+            <p><add hand="#barker">Commission to administer oath.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[July, 1806]</p>
-<p>Sir</p>
+<p><persName>Frederick Bates, Secretary of the <placeName>Territory of Louisiana</placeName></persName>, and 
+exercising the <persName>Government </persName>thereof To all who shall see these presents
+greeting</p>
 
-<p>If you have not given your deposition (respecting the attack <placeName>Mr
-<persName>M Austin</persName>s house</placeName>) at the <placeName>Mine A Burton</placeName>, you will oblige me and
-also <persName>Mr M Austin</persName> by coming to <placeName><persName>Mr Andrews</persName></placeName><date n="07-xx-1806"> to-night</date> or early 
-<date n="07-xx-1806">tomorrow morning</date> it is important that we should have abundant
-evidence on this subject and I trust Sir you will with pleasure give
-us yours.</p>
+<p>Whereas, by an act of the <persName>Congress of the <placeName>United States</placeName></persName>, entitled
+can act further providing for the <persName>government of the <placeName>district of
+Louisiana</placeName></persName>' it is provided, that Oaths of office, (except by persons
+in the said act specially enumerated) shall be taken before such 
+persons as the <persName>governor </persName>shall direct. Now therefore, reposing especial
+trust and confidence in the ability diligence and provident 
+circumspection of <persName>MOSES AUSTIN Esquire</persName>, I do empower him to 
+administer Oaths to support the constitution of the <placeName>United States</placeName>,
+and oaths of office, to any, and all persons, appointed to office, by
+the <persName>Governors of this <placeName>territory</placeName></persName>, within and for the <placeName>District of Saint
+Genevieve</placeName>.&#8212;</p>
 
-<p>Sunday evening</p>
+<p>In testimony whereof I have hereunto affixed the seal of the 
+<placeName>Territory</placeName>, and subscribed my name at <placeName>Saint Louis</placeName>, the <date when="1807-09-11">eleventh day of
+September, In the year of our Lord, one thousand, eight hundred
+and seven</date> and of the Independence of the <placeName>United States of America
+</placeName>the thirty second.</p>
 
-<p><persName>H. Austin</persName></p>
+<p><persName>Frederick Bates</persName></p>
 
-<p>[addressed:] <persName>Mr. J Bryant [Bryan?]</persName></p>
-
-<p>Present</p>
 
         </div1>
     </body>

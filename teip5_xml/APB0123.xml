@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0123">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Horace Austin to Moses Austin, 08-24-1807</title>
+            <author>
+                <persName>Horace Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 135-136
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1807-08-24">08-24-1807</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Prospect of war with England.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1807-08-24">Augt 24th [1807</date>]</p>
+<p>I <date when="1807-08-23">yesterday </date>received your letter by <persName>Mr Ruggles</persName>&#8212;yours which you
+mention as having sent by Mail, has not yet come to hand&#8212;</p>
+
+<p>I have not yet heard anything from <persName>Austin Elliot</persName>&#8212; I shall 
+expect him daily&#8212;<persName>Aunt </persName>has not yet arrived here&#8212; I hope to see her
+very soon. When <persName>Austin </persName>arrives, it will take but a short time for me
+to get ready to go on&#8212;I should have been ready before this time, if
+I had had anything to do with. I shall endeavour to procure the
+articles you mentioned&#8212;I think I shall be able to get them all, and
+shall have them [put up in] the best manner possible&#8212;</p>
+
+<p>I have written to <persName>Stephen </persName>this day, and requested him to write you
+immediately.&#8212;I have been cautious not to mention to anyone, 
+(except <persName>Mrs A.</persName> <persName>Mrs Richard</persName>, and her <persName>Son</persName>,) what my expectations are in<pb n="136"/>
+moving to <placeName>Louisiana</placeName>.&#8212; <persName>Charles </persName>appears very friendly, but it is
+possible (as you mention) that he may endeavour to stop any funds
+he may know came from you&#8212;I shall endeaveour that he shall know
+nothing about it&#8212; He is at present in very ill health, and has gone
+in the <placeName>Country </placeName>to recruit&#8212; I dont think he will trouble anybody
+much longer&#8212;I received a letter some time since from <persName>Capt. Bissel</persName>,&#8212;
+He had not been able to obtain a furlough, and did not expect to come
+on this <date n="Summer-1807">Summer </date>with <persName>Mrs B</persName>&#8212; He informed me that <persName>Capt Smith
+</persName>had sold his claims at the <placeName>Mines</placeName>, for Ten thousand Dollars&#8212; If
+so, ho did not make so much disturbance last Winter for nothing
+he got well paid for it&#8212; I shall inform you from time to time, of
+our progress in getting away</p>
+
+<p><persName>H. Austin</persName>    [Rubric]</p>
+
+<p><persName>Mrs Richards</persName> desires to be particularly remem'd to you.&#8212;
+We shall undoubtedly have a War with <placeName>England</placeName>.&#8212;   They are
+fortifying the <placeName>Harbour of New York</placeName>, and putting all the <placeName>Sea Ports</placeName>
+in the best state of defense</p>
+
+<p>The <persName>British in <placeName>Canada</placeName></persName>, are Sending all their Artillery and sloops
+to <placeName>Quebec</placeName>, and are determined to defend it to the last, expecting that
+the first attack from the <placeName>United States </placeName>will be in that <placeName>Quarter</placeName>&#8212; It
+is unnecessary for me to say more, as you will probably get all the
+newes through the <placeName>Papers</placeName>.&#8212; I see by the <placeName>Papers </placeName>that <persName>Major Wescot
+</persName>is arrested as a <persName>Burrite</persName>.&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

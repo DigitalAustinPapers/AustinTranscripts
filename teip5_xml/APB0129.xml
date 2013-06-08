@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0104">
+xml:id="APB0129">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>H. Austin to J. Bryant, 07-xx-1806</title>
+            <title>Unknown to Moses Austin, 09-30-1807</title>
             <author>
-                <persName>H. Austin</persName>
+                <persName>Unknown</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB0104">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-06-24">06-24-2011</date>
+            <date when="2011-06-28">06-28-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J. Bryant
+                        Moses Austin
                     </persName>
                 </person>
 
@@ -48,7 +48,7 @@ xml:id="APB0104">
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 110
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 140
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0104">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Postage Account</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,40 +69,29 @@ xml:id="APB0104">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1806-07">07-xx-1806</date>
+            <date when="1807-09-30">09-30-1807</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Concerning the attack on Austin's house on the 4th.</add></p>
+            <p><add hand="#barker">Moses Austin's postage account.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[July, 1806]</p>
-<p>Sir</p>
+<p><persName>Moses Austin Esquire</persName></p>
 
-<p>If you have not given your deposition (respecting the attack <placeName>Mr
-<persName>M Austin</persName>s house</placeName>) at the <placeName>Mine A Burton</placeName>, you will oblige me and
-also <persName>Mr M Austin</persName> by coming to <placeName><persName>Mr Andrews</persName></placeName><date n="07-xx-1806"> to-night</date> or early 
-<date n="07-xx-1806">tomorrow morning</date> it is important that we should have abundant
-evidence on this subject and I trust Sir you will with pleasure give
-us yours.</p>
+<p>To the <placeName>Post Office at St. Genevieve</placeName> Dr for postage of sundry 
+Letters and <placeName>news papers</placeName> from <date n="07-xx-1805">July 1805</date> to <date when="1807-09-30">September 30th. 1807-</date>
+$21.50</p>
 
-<p>Sunday evening</p>
-
-<p><persName>H. Austin</persName></p>
-
-<p>[addressed:] <persName>Mr. J Bryant [Bryan?]</persName></p>
-
-<p>Present</p>
 
         </div1>
     </body>

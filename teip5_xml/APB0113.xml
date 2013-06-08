@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0113">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Frederick Bates to Moses Austin, 05-30-1807</title>
+            <author>
+                <persName>Frederick Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Louis, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 126-127
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1807-05-30">05-30-1807</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning militia organization.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>St Louis</placeName> <date when="1807-05-30">May 30, 1807.</date></p>
+<p>To Messrs. <persName>Elisha Baker</persName>
+<persName>Moses Austin</persName>
+<persName>Darius Shaw</persName> and
+<persName>Joseph Whittlesey</persName></p>
+
+<p>Gentlemen,</p>
+
+<p>When I had the pleasure of seeing you at <placeName>St Louis</placeName>, you presented
+me a Paper containing an association of <persName>67 Individuals</persName> as a <placeName>Military
+School</placeName>; and desired, on their behalf an establishment of the said
+association, on the principles under which the society was first
+founded.&#8212; You also tender your services to the <persName>President of the
+<placeName>U. States</placeName></persName>, under the law authorizing him to accept of <persName>volunteer 
+companies</persName>.&#8212;</p>
+
+<p>During our conversation it did not occur to me, that you had 
+neglected to nominate your <persName>officers</persName>, and in a subsequent interview with
+<persName>Mr Austin</persName>, I remarked to him this omission.&#8212;</p>
+
+<p>At that time, the law had not been officially communicated, and I
+had erroneously imagined that the <persName>President </persName>would make the 
+appointments, in conformity with the Recommendations of the 
+<persName>Company</persName>.&#8212; But the enclosed Proclan will inform you of the conditions
+under which he will accept your offers, and the Manner in which the
+commissions will issue.<pb n="127"/></p>
+
+<p>If the terms are such as cannot be acceded to on your part, it is
+yet in your power to withhold yourselves from the service. But if
+you are still anxious to make a display of your patriotic dispositions
+in this way, I must beg you without unnecessary delay to transmit
+to me the names of those <persName>officers </persName>who would be acceptable to you.</p>
+
+<p>As to <persName>volunteer companies</persName> generally, I am willing as an individual
+<persName>Public Agent</persName>, to express to you my most cordial approbation of
+them.&#8212;The <persName>Militia </persName>law is at this time under revision, and if my
+private wishes should not be overruled by legislative interposition, I
+hope shortly to see <persName>volunteer companies</persName>, for the defence of the 
+<placeName>territory </placeName>merely, without being compelled to march out of it, both of
+<persName>Cavalry</persName>, <persName>Artillery </persName>and <persName>Riflemen</persName>.&#8212;</p>
+
+<p>I enclose the Law as well as the Procln and hope you will do me
+the favor of making them both public</p>
+
+<p><persName>F. Bates.</persName></p>
+
+<p>You will also oblige me by putting up in conspicuous Places the
+enclosing advertisements on the subject of Land Claims.&#8212;</p>
+
+<p>[Addressed:] Messrs <persName>Elisha Baker</persName>, <persName>Moses Austin</persName>, <persName>Darius Shaw</persName>
+and <persName>Jos Whittlesey</persName> <placeName>Mine a Burton</placeName></p>
+
+<p>[Endorsed:] <persName>Fred Bates Secy Territory <placeName>Saint Loui</placeName>s</persName> <date when="1807-05-30">May 30 1807</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

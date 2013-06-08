@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0111">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Peter Menard to Moses Austin, 02-14-1807</title>
+            <author>
+                <persName>Peter Menard</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-27">06-27-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 124-125
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1807-02-14">02-14-1807</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Peter Menard in account with Moses Austin &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Peter Manar </persName>[Menard]</p>
+
+<p>To <persName>Moses Austin an C°</persName> Dr</p>
+<p><date n="xx-xx-1800">1800</date></p>
+
+<p><date when="1800-01-15">Jany l5</date> for 50 lb shott 6.00___________________________	$6. 00</p>
+
+<p><date n="xx-xx-1801">1801</date></p>
+
+<p><date when="1801-09-15">Sept 15</date> for 139 lb Coffee___________111.20
+	  for 351  lb  sugar__________140.40  <persName>Geo Fisher</persName><pb n="125"/></p>
+
+<p><date n="xx-xx-1802">1802</date></p>
+<p><date when="1802-09-27">Sept 27</date> for 1000 lb lead pr [undecipherable] to
+	  <placeName>St James</placeName> _______________________________ 50.   0   307.60</p>
+
+<p><date n="xx-xx-1806">1806</date></p>
+
+<p><date when="1806-05-20">May 20</date> for 2 Caggs shott 103 lb______________    10. 30
+	Supposd   1    D°    D°  51  __________     5. 10
+     3    D°    D°      120     _____________    12. 0
+     6    Do    D°      307 1/2    __________    30. 75
+     4  Boxes Do 1332     ___________________   133. 20
+     4  Boxes   for   D°  ___________________     4. 0
+    12 Bags for D°       ____________________     3. 0
+Supposd   Mistake 1 Kegg shott 236 1/2_______    23. 65
+     1 Kegg for    Do   _____________________     1. 0
+								_________   253.  0
+									 
+<date when="1806-06-24">June 24</date> for 1674 lb lead_____________________    83. 70
+	       415 lb peltry___________________   166. 0
+
+     17 Bear skins and_____________
+      5 Oter skins_________________              54. 0
+     50 lb peltry_____________________________   20. 0
+
+<date when="1806-10-04">Octr 4</date> for red skins 2/50_____________________   32. 50
+       13 1/2 lb shewed as pr Recept__________    5. 40</p>
+
+<p><date n="xx-xx-1807">1807</date></p>
+
+<p><date when="1807-02-14">Feby 14</date> for 310 lb shott @ 12$________________   37. 20
+          1  kegg at <placeName>village</placeName>__________________    1. 00
+          2  Barrels pork at <placeName>Cape</placeName>_____________   30. 0
+          <hi rend="italic">Supposed Error</hi> 1 Barrell pork_______   15. 0
+          30 lb Bacon_________________________    3. 81 1/2  448. 61 1/2
+								  _______________________
+										 979. 21 1/2
+<persName>James Austin</persName>_______________________________________________   49. 51
+										_____________
+										1028. 72</p>
+<p><persName>Moses Austin</persName> to <persName>Peter Manar</persName></p>
+
+<p><date n="xx-xx-1807">1807</date></p>
+
+<p>47 1/2 Cable ___________________  $16. 50
+paid <persName>Mr Hasseny</persName>_________________  $ 2. 0
+Delivered <persName>L Lefona</persName> (?)__________    4. 10
+Bill good ______________________   63. 0
+By 5 ps. Half Sheets (?)________   75. 0
+By 2 ps do Stroud_______________   67. 0
+By 3125 lb Pork ________________  156. 25
+By paid <persName>John Giles</persName> (?)__________   11. 45
+By our Note Hand________________ $827. 70</p>
+
+<p><persName>Mr. Menard</persName> suppose there is a mistake of a Barrel Pork which he
+has not recd.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

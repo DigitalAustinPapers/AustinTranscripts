@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0104">
+xml:id="APB0120">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>H. Austin to J. Bryant, 07-xx-1806</title>
+            <title>Charles Elliot to Moses Austin, 08-11-1807</title>
             <author>
-                <persName>H. Austin</persName>
+                <persName>Charles Elliot</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,20 @@ xml:id="APB0104">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-06-24">06-24-2011</date>
+            <date when="2011-06-28">06-28-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
+                <person>
+                    <persName type="sender">
+                        Ralph
+                    </persName>
+                </person>
+
 
                 <person>
                     <persName type="recipient">
-                        J. Bryant
+                        Moses Austin
                     </persName>
                 </person>
 
@@ -41,14 +47,14 @@ xml:id="APB0104">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">St Genevieve, MO</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 110
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 132
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,40 +75,51 @@ xml:id="APB0104">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1806-07">07-xx-1806</date>
+            <date when="1807-08-11">08-11-1807</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Concerning the attack on Austin's house on the 4th.</add></p>
+            <p><add hand="#barker">Furs, corn, lead.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[July, 1806]</p>
-<p>Sir</p>
+<p><placeName>St Genevieve</placeName> <date when="1807-08-11">Aug 11th 1807</date></p>
+<p>Dr Sir</p>
 
-<p>If you have not given your deposition (respecting the attack <placeName>Mr
-<persName>M Austin</persName>s house</placeName>) at the <placeName>Mine A Burton</placeName>, you will oblige me and
-also <persName>Mr M Austin</persName> by coming to <placeName><persName>Mr Andrews</persName></placeName><date n="07-xx-1806"> to-night</date> or early 
-<date n="07-xx-1806">tomorrow morning</date> it is important that we should have abundant
-evidence on this subject and I trust Sir you will with pleasure give
-us yours.</p>
+<p>I send by <persName>Ralph </persName>those dressd Skins 44 in number all in one 
+package so that they cannot get lost&#8212; Also 35 Bear and wolf Skins&#8212;
+some of the Bear Skins I was under the necessity of putting under
+the corn to prevent its wasting&#8212; the corn which is loose in the 
+waggon is 28 Bushels of ears good Measure&#8212; that in casks I did not
+think it necessary to Measure&#8212; and should <persName>Ralph </persName>use [any] on the
+road the quantity can be ascertained by measuring.</p>
 
-<p>Sunday evening</p>
+<p>The quantity of Lead deliverd on your account from Lead 
+deposited here by <persName>J Perkins</persName> is 659 lb for <persName>Francois Janies</persName>&#8212;that which was
+borowed by <persName>Mr. Phelps</persName>&#8212;is returned&#8212; Exclusive of the corn 
+deliverd <persName>Ralph </persName>for the <placeName>mines</placeName>, he has taken one Bushel of shelled corn for
+his horses here&#8212;</p>
 
-<p><persName>H. Austin</persName></p>
+<p><persName>Chs Eliott</persName>    [Rubric]</p>
 
-<p>[addressed:] <persName>Mr. J Bryant [Bryan?]</persName></p>
+<p>[Added in a different hand:]</p>
 
-<p>Present</p>
+<p>3 kettels
+3 potts
+3 Bake pans
+2 Spiders with Covers
+<persName>Ralph </persName>has taken Eight Bushel Corn for his use</p>
+
+<p>[Addressed:] <persName>Mr. Moses Austin</persName> <placeName>Mine a Burton</placeName> Pr <persName>Ralph</persName></p>
 
         </div1>
     </body>

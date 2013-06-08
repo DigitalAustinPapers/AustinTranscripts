@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0136">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Joseph Ficklin to Moses Austin, 02-18-1808</title>
+            <author>
+                <persName>Joseph Ficklin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Russellsville, KY</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St Genevieve, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 145
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1808-02-18">02-18-1808</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Joseph Ficklin to Moses Austin, Russellville, Ky., February 18, 1808. Less attention to slanders.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Russellsville Ky</placeName> <date when="1808-02-18">Feb 18th 1808</date>.</p>
+<p>Dear Sir</p>
+
+<p>... I hope you will attribute my Solicitude to a wish for your
+wellfar when I request you to pay less attention to the Slanders of
+your <persName>enemies </persName>and do not believe all you hear of your <persName>friend</persName>&#8212;In one
+Case I found out by a conversation on quite a different subject that
+you had been deceived with respect to what <persName>Judge S</persName> said when he
+wished you to keep from his house this he did say but only on a
+certain occasion when he wished it not to be known or believed that
+you had been the cause of a certain Warranty vs. Gentlemen in your
+Country because it would be believed that it was a peice of ilnature
+in you and the Good effect of the Warranty would be lost and 
+considering the State of the country this precaution was very proper
+and might have come from your Warmest friend and I hope if you
+have no other cause but th[is] you will cultivate the <persName>Judge </persName>as your
+friend.</p>
+
+<p>It was counted Good policy in the <persName>Ky Hunters</persName> not to disturb a
+buffelo when he had recvd a mortal wound because if they did he
+would give them much heap of trouble whereas if he was left to 
+himself he would soon die&#8212; it [is] so with many of your <persName>enemies</persName>&#8212;
+they have receivd a vital wound in the infamy of <persName>Genl W[ilkinson]</persName>
+and <persName>A Burr</persName> and if [you] suffer them to rest they will soon cease to
+disturb you on the Contrary you may by attending to everything
+you hear for ever have trouble yourself and your friends too&#8212; I
+found a mason for you at four hundred Dollars or theabouts pr <persName>Ann</persName>
+as long as you agree say when he must come on ... <persName>Wilkinson </persName>is
+at last Caught by the Testimony of <persName>D Clark</persName>&#8212;               <p> <persName>J Ficklin</persName>.</p></p>
+
+<p>[Addressed:] <persName>Moses Austin Esqr.</persName> <placeName>St. Genevieve Louisana</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

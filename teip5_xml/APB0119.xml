@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0119">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Timothy Phelps to Moses Austin, 08-06-1807</title>
+            <author>
+                <persName>Timothy Phelps</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Genevieve, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 131-132
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1807-08-06">08-06-1807</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">General business; Austin's interests.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St. Genevieve</placeName> <date when="1807-08-06">6. Augt. 1807</date></p>
+<p>Dear Sir</p>
+
+<p>Have you lost confidence in all your <persName>Friends </persName>? You appear 
+determined not to correspond with any don't suffer yourselves to go into
+the other extreem, and distrust every one&#8212;I know, by experience,
+the great bulk of them, who make the warmest Professions, are
+totally destitute of sincerity, espetially if a Person happens to be
+unfortunate but still, there are some few, who merit confidence.&#8212;</p>
+
+<p>I should like to hear from you, I feel an interest in your welfare
+you may depend&#8212;I should like to know how you come on, when you
+calculate to go to <placeName>Kentucky </placeName>etc&#8212;From report it appears, <persName>Young
+Hammond</persName>, is in troubled water at the <placeName>Mines</placeName>, I hope he will have
+Prudence and resolution to extricate himself with honor.&#8212; If the
+reign of Terror at the <placeName>Mines </placeName>is to last, nothing would enduce me
+to live there, I am sure nothing like enjoyment is to be found
+there.&#8212;<pb n="132"/></p>
+
+<p>I am told, <persName>Mr. Bibb, from <placeName>Kentucky</placeName></persName>, who left here this morning
+for the <placeName>Mines</placeName>, has gotten a very good Gigg for sale and had you
+not better purchase it of him? You will find it very convenient
+in this <placeName>Country</placeName>. I think you had best get away your Corn from
+this <placeName>Village</placeName>. It is not gaining in Quantity you may depend&#8212; Had
+you not better get some of your Hollow Ware out also? You are
+losing the Sale of it, appears to me&#8212;The 25 bars of Lead, I had
+deliver'd directly to <persName>Mr. Spencer</persName>, to whom it was to go, he gave the
+<persName>Teamster </persName>a Receipt for it&#8212;I have heard nothing from home, this
+four weeks&#8212; What can be the reason I am at a loss to determine&#8212;
+I shall make arrangement to get my <persName>Family </persName>and <persName>Horace Austin</persName> and
+his <persName>Family </persName>to <placeName>Pittsburgh </placeName>there I calculate, you will meet the whole
+<persName>party </persName>and accompany them <placeName>down the River</placeName>&#8212;Give my love to the
+<persName>Family</persName>&#8212;</p>
+
+<p><persName>T. Phelps</persName></p>
+
+<p>N. B. The <persName>Sqaws </persName>have done your skins, shall I sell them and at
+how much?</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

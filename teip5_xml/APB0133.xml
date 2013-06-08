@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0104">
+xml:id="APB0133">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>H. Austin to J. Bryant, 07-xx-1806</title>
+            <title>Moses Austin to L. V. Hawkins, 12-10-1807</title>
             <author>
-                <persName>H. Austin</persName>
+                <persName>Moses Austin</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB0104">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-06-24">06-24-2011</date>
+            <date when="2011-06-28">06-28-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J. Bryant
+                        L. V. Hawkins
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0104">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Lexington, KY</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 110
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 144
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,40 +69,40 @@ xml:id="APB0104">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1806-07">07-xx-1806</date>
+            <date when="1807-12-10">12-10-1807</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Concerning the attack on Austin's house on the 4th.</add></p>
+            <p><add hand="#barker">Note payable in lead.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[July, 1806]</p>
-<p>Sir</p>
+<p><placeName>Lexington </placeName><date when="1807-12-10">10th Decr 1807</date></p>
+<p>1720lbs Bar Lead</p>
 
-<p>If you have not given your deposition (respecting the attack <placeName>Mr
-<persName>M Austin</persName>s house</placeName>) at the <placeName>Mine A Burton</placeName>, you will oblige me and
-also <persName>Mr M Austin</persName> by coming to <placeName><persName>Mr Andrews</persName></placeName><date n="07-xx-1806"> to-night</date> or early 
-<date n="07-xx-1806">tomorrow morning</date> it is important that we should have abundant
-evidence on this subject and I trust Sir you will with pleasure give
-us yours.</p>
+<p>Three months after date, I promise to pay <persName>Lewis Sanders</persName> or order,
+Seventeen hundred and Twenty pounds of Small bar Lead, for value
+Received to be delivered in <placeName>Lexington Kentucky</placeName>&#8212;</p>
 
-<p>Sunday evening</p>
+<p>$72                                                 Moses Austin &amp; Co    [Rubric]</p>
 
-<p><persName>H. Austin</persName></p>
+<p>Received of <persName>Charles Carr</persName> the Above note in full <date when="1808-07-06">July 6 1808</date></p>
 
-<p>[addressed:] <persName>Mr. J Bryant [Bryan?]</persName></p>
-
-<p>Present</p>
+<p><persName>L. V. Hawkins</persName>
+for <persName>Lewis Sanders</persName></p>
+<p>Recd. <date when="1808-04-15">15th Apr.</date> 1635lbs bar Lead</p>
+<p>[Endorsed]   Note N° 2</p>
+<p><persName>Moses Austin</persName> <date when="1807-12-10">10th Decm. 1807</date></p>
+<p>Due <date when="1808-03-10">10th March 1808</date></p>
 
         </div1>
     </body>
