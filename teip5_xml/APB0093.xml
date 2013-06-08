@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0088">
+xml:id="APB0093">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Moses Austin to Unknown, 06-08-1805</title>
+            <title>Petter Menard to Moses Austin, 07-30-1805</title>
             <author>
-                <persName>Moses Austin</persName>
+                <persName>Petter Menard</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB0088">
 
                 <person>
                     <persName type="recipient">
-                        Unknown
+                        Moses Austin
                     </persName>
                 </person>
 
@@ -48,7 +48,7 @@ xml:id="APB0088">
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 96
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 98-99
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0088">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Invoice and Price List</channel>
+            <channel mode="w">Bill and Price List</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0088">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1805-06-08">06-08-1805</date>
+            <date when="1805-07-30">07-30-1805</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,39 +81,60 @@ xml:id="APB0088">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Invoice and price list, Marietta.</add></p>
+            <p><add hand="#barker">Peter Menard in account with Moses Austin &amp; Co.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>Invoice and Price List</p>
 
-<p><placeName>Marietta </placeName><date n="6-08-1805">June 8  1805</date></p>
-<p><persName>M G. W. Treat</persName> 
-	Bot. of <persName>Benja Ives Gilman</persName></p>
 
-<p>1 Mill Saw _____________________  $14. 00
+<p><date when="1800-01-15">1800     Jany15th</date> for 50 lbs shott&#8212;_____________   6. 00
 
-1 doz Sickles___________________   10. 50
+<date when="1801-09-15">1801     Sept 15</date> for 139 lb Coffee_______________ 111. 00
 
-5 ps Linen 1771 yds @ 55________   97. 62
+			   351 lb sugar________________ 140. 00
 
-1 ps Check   26    "    @ 46____   11. 96
+<date when="1802-09-27">1802     Sept 27</date> for 1000 lb lead S James________  50. 00
 
-5  ps blue Handkf8 @____________   23. 44
+								  _______   307. 60<pb n="99"/></p>
 
-6  Rules @ 30___________________    1. 80
 
-8 yds Country Linen @ 50________    4. 00
+<p>Sundries Deld by <persName>J Austin</persName> in the <placeName>Village</placeName></p>
 
-4 Draws Knives @ 70_____________    2. 80
+<p><date when="1803-10-24">1803   Octr 24</date> for 2 baggs shott__________________  103.
 
-4     "          @ 60 __________ 	2. 40
+	 <date when="1803-11-13">Novr 13</date>     1  D°   D°_____________________   51.</p>
 
-					   $168. 52</p>
+<p><date when="1804-02-02">1804   Feby  2 </date>    1 1/2 D° D°____________________   60.
 
-<p>[Endorsed by Moses Austin:]   <persName>G W Treat</persName> Note paid <date when="1805-06-08">June 8 1805</date>
-<persName>Gilman</persName>s Invoice</p>
+	<date when="1804-08-09"> August 9</date>    6    D°  D°____________________  307. 1/2
+								    _____________________
+								    521. 1/2     10/52.10
+</p>
+	  <date when="1804-09-04">Sept 4</date>     4 boxes shott 1332_____________  133. 20
+
+<p><date when="1805-07-30">1805   July 30 </date>    1  D°    D°   236 1/2__________   23. 65
+
+			 2 barrels pork_________________   30. 00
+
+			 1  D°    D°   at Cape__________   15. 00
+
+			 65 red skins___________________   32. 50
+
+			 13 1/2 lb shaved skins_________    5. 40
+								   
+								   ________
+								   $599. 45
+
+	  for 5 boxes and ten baggs for the shott____   7. 00</p>
+
+<p>Cr By 1 ps blue Cloth____________________ 32.0
+
+	1 ps green D°______________________ 15.50
+
+	1 ps    D°_________________________ 15. 50
+						      _______
+						     $63. 0</p>
 
         </div1>
     </body>
