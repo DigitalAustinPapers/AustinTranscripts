@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0087">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, Unknown</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-24">06-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 95-96
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date>Unknown</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Letter to Stephen F. Austin's tutor.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Your favour was handed me by <persName>Mr Penneman</persName> on his arrival at
+this place. I am fully sattisfied with the arrangement <persName>Mr Penneman</persName>
+has made respecting my <persName>son Stephen</persName>, the great distance <placeName>Colchester</placeName>
+is from this <placeName>Country </placeName>rendered it impossible for me to give any 
+absolute opinion to <persName>Mr. Penneman</persName> as to the propriety of his choice of
+<placeName>Colchester </placeName>but such is my confidence in my <persName>friend </persName>that I am sattisfied with the disposition he has made. It cannot but be pleasing to
+me to here my Boy so well spoken of and I have a hope under your
+tuition he will give me no reason to repent the confidence I have
+placed in those to whome I have commited him in charge&#8212; I have
+a dispossition that <persName>Stephen </persName>should go through the Classicks in short
+I wish to make him a scholar yet I must confess I have for many
+years disapproved of spending month[s] and year[s] on the Greek
+and Hebrew. I never have thought either of those languages of
+much advantage to a man of business, and as I do not wish my <persName>son</persName>
+to make devinity his study, [I should like] as little time spent in
+Greek and Hebrew as is consistent with the regulations of the <placeName>Acady</placeName>-
+If his talents will justify I wish him for the Barr but I have so many
+times in my life blamed Fathers for pressing on their sons a 
+profession nature never intended them for that I shall make of him
+what Nature has best calculated him to be I want him to enter <placeName>Yale</placeName>
+as soon as he is prepared but I have a Request to make which I
+hope will not interrupt his regular studies and that is: that he may
+be constantly reminded of the necessity of improving his hand 
+writing&#8212; I have a great desire he should write well both as to the hand
+write and composition&#8212; practice will bring writing both easy and
+pleasing, a Correct mode of thinking both Religious and Political
+is of consequence and aught to be early implanted in the mind of
+man I do not wish my <persName>son </persName>a Bigot in Either, but correct Moral
+principles is of the first consequence such I trust you will impress on
+his mind.<pb n="96"/></p>
+
+<p>I am also disposed to furnish my <persName>son </persName>money necessary for such
+expenses as is proper for a young Gentlm in his situation both for
+clothing and the Pockett Yet I wish my Boy to know that improper
+uses may be made with money and that any Degree of profligateness
+will not be tolerated by me you will suffer him to clothe himself
+sutable for the first circles in Society he will perfect himself in
+Musick If he has a turn that way</p>
+
+<p>I have transmited to <persName>Mr Nath. Bran</persName> (?) a Draft for 160$ which
+I trust has been forwarded to you <persName>Majr Hunt</persName> I expect will also
+pay for me 100$ more and I shall take care to forward in Money in
+Due time for his use In you my D Fr I have full confidence you
+will act the father and Tuteror and transmitt to me infermation
+how he progresses in his studies.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
