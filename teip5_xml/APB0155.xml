@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0155">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Seth Hunt to Moses Austin, 07-31-1809</title>
+            <author>
+                <persName>Seth Hunt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">London, England</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St Genevieve, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 160
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1809-07-31">07-31-1809</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade with England.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>N° 149 Strand London</placeName>&#8212;</p>
+
+<p><date when="1809-07-31">July 31, 1809</date></p>
+<p>My Dear Friend,</p>
+
+<p>Your favor of the 4th of May was received <date when="1809-07-31">this Morning</date> by the
+<date n="06-xx-1809">June </date>Packet from <placeName>N. York</placeName>&#8212;I have only time to acknowledge its
+reciept by the Radius which sails <date when="1809-08-01">tomorrow </date>for <placeName>New York</placeName>&#8212;I have
+it not in my power to say any thing as to the prospect of executing
+your order&#8212;only that it shall be done if practicable&#8212;Woolens, of a
+fine quality&#8212;are high&#8212;other articles at usual prices&#8212; <date when="1809-08-01">Tomorrow
+evening</date> I shall go to <placeName>Yorkshire </placeName>and on return, which will be in a
+few days, I shall write you again and hope to be able to advise you
+satisfactorily&#8212;</p>
+
+<p>I shall Embark for <placeName>France </placeName>as soon as any opportunity shall 
+present&#8212;the sailing of the Grand Expedition has suspended all 
+intercourse with the <placeName>Continent </placeName>for some time past&#8212;but I am in hopes
+it will soon be restored again&#8212;I shall be obliged to go by the way
+of <placeName>Holland</placeName>&#8212;</p>
+
+<p>The public papers will give you all the news afloat in this <placeName>Country</placeName>
+To them I refer you&#8212;not haveing time to say any thing on the 
+subject of Politics.&#8212;</p>
+
+<p>I have not heard a word from my friend <persName>Mr Bond</persName> since I left
+<placeName>New Hampshire</placeName>&#8212;I most sincerely hope that your arrangement with
+him will prove mutually beneficial&#8212;Success to all your Enterprises
+and laudable speculations, is the wish of my heart&#8212;</p>
+
+<p>I am happy to hear that <persName>Austin and Charles Elliott</persName> have returned
+home&#8212;I hope that all things have been explained to your satisfaction
+and that of <persName>Doct and Mrs Elliott</persName>&#8212;to whom, as to <persName>Mrs. Austin</persName>, <persName>family</persName>
+and all <persName>friends </persName>I pray you to present me most Respectfully&#8212; and I
+beg you to be assured of my friendship and esteem</p>
+
+<p><persName>Seth Hunt</persName></p>
+
+<p><persName>Moses Austin Esq</persName> <placeName>St Genevieve Louisiana United States</placeName> pr
+Radius</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

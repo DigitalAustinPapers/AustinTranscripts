@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0156">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W. Bullock to Moses Austin, 08-01-1809</title>
+            <author>
+                <persName>W. Bullock</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Shelbyville, KY</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Burton Mine, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 160-161
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1809-08-01">08-01-1809</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land claims in Missouri.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Shelbyville [Kentucky]</placeName> <date when="1809-08-01">1st Agst, 1809</date></p>
+<p>Dr Sir</p>
+
+<p>Your favour by your <persName>son </persName>he han'd me as he passed through this
+place he has sence wrote me that he was dissopointed in Recieveing
+some money from <persName>Hart</persName>, but expected to send me the $20 in a few
+weeks&#8212;</p>
+
+<p>You appear to be very doubtfull of the <persName>Renaut <placeName>Clame</placeName></persName> withoute
+giving any Reson for it have you herd any thing that would make<pb n="161"/>
+against It sence I saw you for my part the more I think about it the
+more sertain I am of its being confermed</p>
+
+<p>I have not herd from <persName>Majr. Hunt</persName> sence he left <placeName>New York</placeName> for <placeName>Paris</placeName>
+but am in hopes he will make the purchase of the other half and
+think you will not Repent it <persName>Mr Ficklin</persName> I here from every week or
+two he is in high Sperits about the <placeName>Clames</placeName></p>
+
+<p>The <persName>Governor </persName>is friends of ours and is the very man I wish'd to be
+in that office I think he is disposed to do what is Right</p>
+
+<p>A few days ago I had some conversation with a <persName>member of 
+Congress</persName> he tells me that <persName>Barkus </persName>has Bean on to the <placeName>City of 
+Washington</placeName> and has made a statement to <persName>Congress </persName>of the number of 
+fraudulent Clames that had bean layed before them by&#8212;You Know who
+and <persName>Congress </persName>appointed <persName>Roberson </persName>to investigate them before the Com.
+I told him the nature of our Clames he says there is no danger of
+them that <persName>Congress </persName>will conferm all clames that is not fraudulent.
+With <persName>Mrs. Bullock</persName>s Compls with my own to your self and <persName>Mrs. Austin</persName></p>
+
+<p><persName>W Bullock</persName></p>
+
+<p>[Addressed:]<persName> Moses Austin Esq.</persName>   <placeName>Mine a Burton</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

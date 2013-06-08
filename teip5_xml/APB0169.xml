@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0169">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert S. Todd to Stephen F. Austin, 05-17-1810</title>
+            <author>
+                <persName>Robert S. Todd</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, KY</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St Genevieve, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 172
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1810-05-17">05-17-1810</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Classmate's letter.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington </placeName><date when="1810-05-17">May 17th 1810</date></p>
+<p><persName>Dr Stephen</persName></p>
+
+<p>You must excuse my not writing sooner, agreeable to promise but
+I must plead want of time as my excuse- I went to <placeName>Shepherdsville</placeName>
+and <placeName>Bairdstown </placeName>after I left you at <placeName>Louisville </placeName>and returned home by
+<placeName>Shelbyville </placeName>very much pleased with my trip- I met <persName>George Shannon</persName>
+at <placeName>Shelbyville </placeName>and stayed a day or so with him. There is no news
+here as usual except that I saw <persName>Eliza P.</persName> this morning, the little
+girl you are so fond of, and I am very happy in letting you know
+she was in a very good state of health; <persName>Mrs. Nat Hart </persName>has a <persName>Son</persName>
+and has been very ill for several weeks but is now rather on the
+mend. I got a Letter from <persName>Tho Butler</persName> at <placeName>Massac </placeName>this <date when="1810-05-17">Morning </date>he
+intends Coming up this month, to see his friends and I think 
+probably he will resign at least I think he is wrong if he does not for
+he is now spending his time for nothing: I intend quitting <persName>Mrs.
+Bodley</persName> in about six weeks and turn in to studying Law like a house
+afire, for I have already spent my time with very little 
+Consideration- I wish I had known two or three years ago the value of time
+as well as I do now and I am sure I should have made a much
+better use of it- A Young man knows not the value of time untill
+it is past and then he sees his error.</p>
+
+<p>I seen <persName>Betsey </persName><date when="1810-05-16">yesterday </date>but she was so guarded by her <persName>Mother</persName>
+and <persName>Sister </persName>that I Could get no Opportunity of speaking to her. I
+however intend making a movement Some of these days that shall
+astonish all of them, there is nothing like acting with decision in
+those Cases and I am very much mistaken if they dont experience
+Some of it shortly. I then intend Coming down some where in
+the <placeName>Lower Country</placeName> and try my fortune I hope you will not neglect
+writing the first Opportunity or as soon as this Comes to hand; All
+your <persName>Old Schoolmates</persName> or a good Many are going to the <placeName>University</placeName>
+again.</p>
+
+<p>If you see any of my old <persName>friends </persName>down Your way give my respects
+to them and believe me</p>
+
+<p><persName>Robt: S: Todd </persName>   [Rubric]</p>
+<p><persName>Stephen Austin Esqr</persName>.</p>
+
+<p>[Addressed:] <persName>Stephen Austin Esqr.</persName> <placeName>St: Genevieve Louisiana</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0160">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Timothy Phelps to Moses Austin, 12-26-1809</title>
+            <author>
+                <persName>Timothy Phelps</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Genevieve, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 163
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Lease</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1809-12-26">12-26-1809</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Moses Austin leasing a house to Timothy Phelps.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Artic]les of agreement entered into [between] <persName>Mr [Mo]ses Austin
+</persName>on the one part and <persName>Timothy Phelps</persName> [on] the [other] Part 
+witnesseth the said <persName>Austin </persName>agrees to let to [the sa]id <persName>[Phel]ps</persName> for the Term
+of one year, from the <date when="1810-01-01">first day of January next</date>, his <placeName>House </placeName>and <placeName>Lot</placeName>
+and the <placeName>Building</placeName>, thereon standing which he owns in <placeName>St Genevieve</placeName>,
+being the same Premises, which <persName>Horace Austin</persName> lately occupied&#8212;
+He also agrees, <date n="Spring-1810">next Spring</date> (as early as Possible) to have that Part
+of the <placeName>Lot</placeName>, around the <placeName>House</placeName>, inclosed with a Suitable Fence or
+Pickets. The Said <persName>Phelps </persName>agrees on his part to Pay Said <persName>Moses
+Austin</persName>, Two hundred Dollars for said Years rent, Payable every
+quarter in Cash or Lead&#8212; He also agrees to Pay the expence of
+making said Fence etc. as above mentioned and Pay a small Account
+to <persName>Thomas Newberry</persName>, which is to apply in Payment of the first rent.
+Said <persName>Phelps </persName>also agrees to return the <placeName>House </placeName>in as good repair as he
+receives it, acts of God excepted&#8212; He also agrees, when <persName>Mr Austin</persName>
+is in <placeName>St Genevieve</placeName> to accommodate him in the room, lately occupied
+by him, in company with such Person, who may be in Possession of
+it. also Stable room for his Horses while there.</p>
+
+<p><placeName>St Genevieve</placeName> <date when="1809-12-26">26th Decr 1809</date></p>
+
+<p><persName>Timothy  Phelps</persName>     [Rubric]    [seal.]
+for <persName>Moses Austin</persName></p>
+
+<p><persName>H[orace] Austin </persName>    [Rubric]    [seal.]</p>
+
+<p>Signed and Sealed in presence of
+<persName>Tho Oliver</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

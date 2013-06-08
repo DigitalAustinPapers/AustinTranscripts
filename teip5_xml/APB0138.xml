@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0138">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Seth Hunt, 02-27-1808</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Seth Hunt
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 147
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1808-02-27">02-27-1808</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Account with Seth Hunt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Dr. <persName>Moses Austin and Co.</persName> a/c with <persName>Seth Hunt</persName></p>
+
+<p>To 1/4 part of my Interest in the <persName>Renaut <placeName>Claim</placeName></persName>_____________________   1700.
+"  Part of the advances due for future Expences as pr. agreement___    600.
+"  Two Hundred Dollars due hereafter as pr. our agreement (see Cr
+	opposite ____________________________________________________    200.
+"  Two Dolls paid <persName>N. Pope Esq.</persName> included in my order on you in his
+	favor for 60 Dolls Credtd oposite____________________________      5.
+" Ten Dolls pd <persName>R Robinson Esq</persName> as found in the fav of <persName>Mr. Renaut
+	<placeName>Claim</placeName></persName>&#8212;being yours and <persName>Ficklin</persName>s proportion and included in my
+	order on you in his favor for 20 Dolls Credited oposite______     10.
+" To My order Drawn on you in favr. of <persName>Edwd Hempstead</persName> being for
+	your and <persName>Ficklin</persName>s part of his fee in the case of <persName>M. Renaut
+	<placeName>Claim</placeName></persName>________________________________________________________     10.
+												______
+                                                                     $2525.</p>
+
+<p>Cr.
+By your Acceptance of my order in favor of <persName>N. Pope Esqr</persName>____________     60. 00
+"  D° in favor of <persName>Robt Robinson Esqr</persName>_______________________________     20. 00
+"  D°         "         <persName>Edwd Hempstead</persName> drawn on your account and that
+	of <persName>J. Ficklin</persName>________________________________________________     10. 00
+"   105 Dolls due <persName>M. Austin</persName> on Old Acct____________________________    105. 00
+"  Your Draft on <persName>Mr. Charles Carr of <placeName>Lexington K Y.</placeName></persName> for____________    200. 00
+" Cash paid me at <placeName>St Genevieve</placeName>_____________________________________     70. 00
+" The 200 Dolls payable to me by <persName>M° Austin</persName>&#8212;at a future day as pr
+	our agreement&#8212;(See Dr oposite)_______________________________    200. 00
+By your Note to Balance acct payable in <placeName>N. Orleans</placeName>_________________   1860. 00
+											    _________
+											   $2525. 00</p>
+<p>Examined and settled <date when="1809-02-27">Feby. 27, 1808</date></p>
+
+<p><persName>Seth Hunt</persName>    [Rubric]</p>
+<p><persName>Moses Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

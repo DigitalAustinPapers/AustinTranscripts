@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0170">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John A Storch to Moses Austin, 06-09-1810</title>
+            <author>
+                <persName>John A Storch</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 173
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Financial Statement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1810-06-09">06-09-1810</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Financial statement. Cost and profit of melting 18,199 pounds of ore.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>From the Receipt, Cost and Profit of melting 18199 Pound Mineral, in Mr. Moses Austins furnace, from the 29 of May till the 9 of Jun. 1810 deducted from the worth of lead on 520$80cns keeps profit 224$85 cns.  But as is to be paid our only some mineral, Friday, Green, etc. etc. to the Amount of 240$80cnt; so Keeps further back 55$15cnt. what the own Poeple earned. Extracts. mine a Burton the 12 of Jun. 1810.</p>
+
+<p>Month   	Receipt on   	By whom delivered	  					Amount   	By whom and how	 
+and 	   	Mineral	    	and what the price		        				the mineral			   
+Date	    	Pound	     		of each hundred     	 				Dr Cns     	is melted.	     </p>
+
+<p><date when="1810-05-04">May 4</date>	    	3159	  		<persName>Mr. Swan and Compy</persName> @$2  				63 18     	<persName>John Kampf and Compy</persName> from the Wash
+    <date when="1810-05-26">26</date>	7400			From our <placeName>Washing stands</placeName> @100, 58 cns		42 92		<persName>Bill Cannon and Compy</persName> Do
+<date when="1810-06-04">June 4</date>	1156			<persName>Mr. James Shields</persName> @2$					23 12		<persName>John Kampf and "</persName> do	
+     <date when="1810-06-08">8</date>	2400			<persName>Colonel Perry</persName> from the Wash @100, 180 cns		43 20		<persName>Bill Cannon</persName> etc.,etc. incl. 600 lb good mineral.
+     															<persName>John Kampf</persName> etc etc g.m.
+     <date when="1810-06-06">6</date>	1141			Out the <placeName>Mineral house</placeName> from an old			 1 --		<persName>Bill Cannon</persName> etc etc from <persName>Col Perry</persName> wash mineral
+                				charge and small mine.
+    <date when="1810-06-06"> "</date>	  50			Benjamin Blackborn @ 2$					  1 --	<persName>John Kampf</persName> etc etc 115 Cg. and 400 from the wash
+     <date when="1810-06-07">7</date>	2200			<persName>Colonel Perry</persName> @ 100 2$					 44 --	<persName>Bill Cannon</persName> etc etc, mixed.
+     <date when="1810-06-08">8</date>	 500			<persName>John kampf</persName> @  "						 10 --	<persName>John Kampf</persName> etc etc g.m.
+    <date when="1810-06-08"> "</date>	 108			<persName>Bill Cannon</persName> "   "						  2 16	<persName>Bill Cannon</persName> etc etc good m. incl. 500 fr. the wash
+  		____											______
+	     19199			Summatum-------------------------------------	232 28	To--------------------------------------------
+					For Mineral and other expences on ------------------------------------------------------------------------
+					  washing and cleaning mineral, 
+					  cutting and hawling wood etc etc
+					  as the designation Sub Letter A Spa
+  					
+					Tot--------------------------------------------------------------------------------------------------------</p>
+<p>Month 	 Charges on		Made Lead 	Average Weight	Brot out Lead 	The worth of Lead		Melting Expences upon
+and Date	Mineral Pound	   Bars	  a Bar 42lb	upon each 100	    brot out 		     each charge
+										mineral lb		    each charge		  excl[usive] wood
+
+														Dr Cns			Dr Cns</p>
+
+<p><date when="1810-05-30">May 30</date>	2000			20			840		42				42 --				 3 69 3/12
+
+    <date when="1810-05-31">31</date>	2000			25		     1050		52 1/2			52 50				 3 46 3/12
+
+<date when="1810-06-01">June 1</date>	2000			22 1/2		945		47 1/4			47 25				 3 69 3/12
+
+     <date when="1810-06-02">2</date>	2000			27		     1134		56 7/10			56 70				 3 46 3/12
+ 
+     <date when="1810-06-03">3</date>	2000			32		     1344		67 1/2			39 20				 3 46 3/12
+
+     <date when="1810-06-04">4</date>	1500			19			798		53 1/5			39 90				 3 46 3/12
+
+
+
+     <date when="1810-06-05">5</date>	1556			25		     1050		67 1/3			52 50				 3 69 3/12
+
+     <date when="1810-06-06">6</date>	1700			20			840		49 ?/?			42 --				 3 46 3/12
+
+     <date when="1810-06-07">7</date>	1359			22			924		67 ?/?			46 20				 3 69 ?/?
+
+     <date when="1810-06-08">8</date>	2084			35 1/2	     1491		71 ?/?			74 55				 3 46 3/12
+
+_______   ___________     ______________     __________    ____________       __________________       _______________
+
+-------    18199			248		    10416		------		     520 80				35 76 ?/?
+
+--------------------------------------------------------------------------------------------------------   260 19
+
+
+
+
+
+
+																	  _______________
+--------------------------------------------------------------------------------------------------------   295 95 </p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

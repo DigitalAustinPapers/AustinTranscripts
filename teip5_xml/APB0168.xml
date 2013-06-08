@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0168">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Bigby to Moses Austin, 05-04-1810</title>
+            <author>
+                <persName>John Bigby</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 171-172
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1810-05-04">05-04-1810</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill of lading for lead ashes.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>SHIPPED by <persName>Moses Austin</persName> in good Order and well-conditioned,
+on board of the good Brig called the Sally Ann whereof is <persName>Master</persName>,
+for the present Voyage, <persName>Bigby</persName>, now lying in the <placeName>Port of New
+Orleans</placeName> and bound for <placeName>New York</placeName> To say, Four Boxes Lead Ashes
+being marked and numbered as in the margin, and are to be delivered
+in the like good Order and well-conditioned, at the aforesaid <placeName>Port
+of New York</placeName> (the Danger of the Seas only excepted) unto <persName>Moses
+Austin</persName> or to his <persName>Assigns</persName>, he or they paying Freight for the said
+goods two dollars each Box with 5 pr Ct Primage and Average accus-<pb n="172"/>
+tomed. In Witness whereof, the <persName>Master </persName>or <persName>Purser </persName>of the said Brig
+hath affirmed to two Bills of Lading, all of this Tenor and Date;
+the one of which Bills being accomplished, the others to stand void.
+Dated in<placeName> New Orleans</placeName> the <date when="1810-05-04">fourth Day of May 1810</date></p>
+
+<p><persName>John Bigby</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

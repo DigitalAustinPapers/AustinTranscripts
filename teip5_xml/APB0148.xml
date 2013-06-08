@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0148">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John G. Bond to Moses Austin, 05-01-1809</title>
+            <author>
+                <persName>John G. Bond</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Keene, NH</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St Genevieve, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 153
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1809-05-01">05-01-1809</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lead and bills of exchange.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Keene [N. H.] May 1, 1809.</p>
+
+<p><persName>Moses Austin Esqr</persName>.</p>
+<p>Dear Sir:</p>
+
+<p>I expect, long before this you have red a line
+written by our friend <persName>S. Hunt Esqr </persName>datd <date when="1809-01-30">Jany. 30 1809</date> informing
+you of having forwarded to Messrs <persName>Barton </persName>and <persName>Worts</persName>, Mess. <persName>Bellows</persName>
+and <persName>Cochran </persName>letter of Credit. As no bills have yet been presented
+for acceptance to Mess <persName>Bellows </persName>and <persName>Cochran </persName>I have thot it 
+possible <persName>Mr Hunt</persName>s letter [has not reached] you. However by applying
+to Messrs <persName>Barton </persName>and <persName>Worts </persName>you will find I have made 
+arrangements for you to draw on My friends Messrs <persName>Bellows </persName>and <persName>Cochran</persName>
+for 7000 Dollars in drafts, not exceeding 3000 dols each. As yet
+I have not learnt what kind of Lead will answer best at our 
+<placeName>Market</placeName>&#8212;therefore you will be governed by your own judgment until I
+write you again on the subject I expect you will write me and
+enclose an instrument binding yourself, that I shall receive One half
+of the nett proceeds of the Lead business in the consideration of
+having furnished funds for you to draw for in prosecuting [the]
+business. I like your arrangement much and I believe with you
+that if this business is rightly managed we can make [some money]
+for ourselves&#8212; [You will not forget] always to ensure the lead
+before it starts from <placeName>St. Genevieve</placeName>.</p>
+
+<p><persName>Jn° G Bond</persName></p>
+<p><persName>Moses Austin Esqr </persName>  <placeName>St. Genevieve, Louisiana</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

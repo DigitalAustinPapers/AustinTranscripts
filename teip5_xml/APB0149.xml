@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0149">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Seth Hunt, 05-03-1809</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Seth Hunt
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 153-154
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1809-05-03">05-03-1809</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning trade with England.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[May 3, 1809]</p>
+<p>My Dear friend [Seth Hunt]</p>
+
+<p>Your several letters, both from <placeName>Keene </placeName>and <placeName>Washington City</placeName> have
+arrived by When I tell you they all came by the same mail and
+that not untill Two days past you will say that the old evil exists
+in the <placeName>Post office</placeName> establishment. I have this day Written your
+friend <persName>John G. Bond esq</persName>&#8212;also <persName>Mess. Bellows and Cochran <placeName>Boston</placeName></persName>,
+and have taken steps to place myself in cash but I shall make the
+first shipment from my own funds&#8212;not being able to put my Bills
+into Cash in time&#8212;I hope and trust I Shall give you no cause to
+change your good Opinion of me, as to abstract speculations I have
+not an intention to make any, <placeName>Herculaneum </placeName>will call so much of
+my Attention as Will answer my Interest and not any further&#8212;
+its situation will make it rise, I thank you for advice I am never
+above taking it from a friend I am fully of your opinion that a
+faithfull execution of contracts and a prompt discharge of engage-<pb n="154"/>
+ment makes the man and creates confidence, at my time of life I
+ought to Know this truth&#8212;believing as I do that an Accomodation
+between <placeName>England </placeName>and <placeName>America </placeName>will take place I have enclos'd to
+<persName>Genl Baley</persName> to be forward'd to you covering an Order for such goods
+as I have Suppos'd safe to Order at this time. I have thought it
+adviseable to have them ship'd to <placeName>New York</placeName> rather than <placeName>Orleans</placeName>
+as I shall be in <placeName>New York </placeName>about the time they may arrive suppose
+you make the arrangement and the communication is open 
+between <placeName>England </placeName>and the <placeName>U. S.</placeName> You will therefore ship them to the
+care of <persName>Archibald Austin <placeName>New York</placeName></persName>&#8212; I shall take care to have
+provision made to secure the duties&#8212;You will remember to have
+insurance made in <placeName>London</placeName>&#8212; I have not time now to say more as
+the mail is about to close I shall Write you and- communicate such
+things as may immediately touch our Interest You will I trust write
+me from both <placeName>England </placeName>and <placeName>france</placeName></p>
+
+<p><persName>Austin </persName>and <persName>Charles Elliott</persName> returned home this day all friends
+are well except <persName>Mrs. Penniman</persName> who is no more&#8212;</p>
+
+<p><persName>M Austin</persName></p>
+
+<p>[Endorsed:] Copy of Letters to Mess <persName>Hunt </persName><persName>H B and H Bellows</persName> &amp;
+<persName>Cochran </persName>and <persName>J. G Bond</persName> etc</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

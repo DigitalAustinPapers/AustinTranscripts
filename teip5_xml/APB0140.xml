@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0140">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Moses Austin, 07-18-1808</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-28">06-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, NY</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 147-148
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1808-07-18">07-18-1808</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">The embargo.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1808-07-18">18th July 1808</date></p>
+<p>.   .   .    <persName>Corp </persName>told me <date when="1808-07-17">yesterday </date>that he would sell Led he has on
+Commission from <placeName>New Orleans</placeName> at 8%&#8212;   If I get possession of<pb n="148"/>
+yours I shall not sacrifice it at such price. If the Embargo continues
+a 12 month War with <placeName>England </placeName>need not be fear'd, that Government
+seem disposed to obey the orders of <persName>Bonaparte</persName>, yet they dare not do
+it, since <placeName>England </placeName>has manifested a determination, not to go to War,
+with us, unless absolutely compel'd to do so&#8212; Popularity falls from
+the <persName>Administration</persName>, like the withered leaves of the Forest, before the
+rude Blasts of <date n="Fall-1808">Autumn</date>&#8212; The Osage has arrived and report sais
+that <persName>Mr Pinkney</persName> has expressed an opinion that the <persName>British </persName>
+Ultimatum brought by her, will be axcepted by our <persName>Government</persName>&#8212; The
+Embargo ruins us all here it will strip me of half my hard earned
+Property.</p>
+
+<p>[Henry Austin]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

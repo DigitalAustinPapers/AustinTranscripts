@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0162">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 02-13-1810</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 166-167
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Lead Production</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1810-02-13">02-13-1810</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Memorandum of lead and shot.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+
+<p>When paid out	No Boxes Shott	Wt of Shott 	No Barrs Lead	Wt of Boxes		To Whom Delivered</p>
+<p><date n="xx-xx-1808">1808</date></p>
+<p><date when="1808-09-13">Sept 13</date>		--------------	-----------		2			     104		<persName>James Silvers</persName>
+     <date when="1808-09-15">15</date>		--------------	-----------		18			     899		C <persName>Fenwick </persName>for <persName>Funk</persName>'s Order
+     <date when="1808-09-15">"</date>		--------------	-----------		37 1/2		    1925 1/2	<persName>McCleneham</persName> and <persName>F Casey</persName> for <persName>R Easton</persName>s Order
+     <date when="1808-09-30">30</date>		--------------	-----------		20			    1003		<persName>John McArthur</persName> for Lead Borrowed</p>
+
+<p><date when="1808-10-01">Oct  1</date>		--------------	-----------		1			      48		<persName>Matthew Eads</persName>
+     <date when="1808-10-01">"</date>		--------------	-----------		1			      53		<persName>John Anderson</persName>
+     <date when="1808-10-01">"</date>		1			260			--------------	-------------	<persName>John McArthur</persName> (Lent)
+     <date when="1808-10-01">"</date>		--------------	-----------		45			    2200		<persName>Thomas Oliver</persName>
+
+     <date when="1808-10-01">"</date>\		--------------	-----------		21			/    900		<persName>James Young</persName> for Cash
+     <date when="1808-10-01">"</date>/											\    113 1/2	Do for <persName>M. Austin</persName>s Acct.
+
+  <date when="1808-10-01">1</date> to <date when="1808-10-05">5</date>		--------------	-----------		304			  15,227		<persName>Brookhart </persName>and <persName>Reese</persName>
+     "		--------------	-----------		8 and 1 ps		     400		Ditto paid for Pump
+
+    <date when="1808-10-10">10</date>		\									/     96		<persName>T Phelps</persName> for Lead Borrowed by <persName>Mr Austin</persName>
+     			/-------------	-----------		4 1/2			\    150		Ditto for do Delivered <persName>Thos Baker</persName>
+
+     <date when="1808-10-10">"</date>		--------------	-----------		41			/   1500		Sold <persName>Gregoir </persName>for Cash
+												\    622		Do ditto for <persName>M. Austin</persName>'s Acct
+
+    <date when="1808-10-12">12</date>		--------------	-----------		3			     150		<persName>T Phelps</persName> (Lent)
+
+    <date when="1808-10-13">13</date>		--------------	-----------		31			/   1569		<persName>J Gamble </persName>and Cr. (for Lead borrowed)
+												\      8		over wt for Cash
+
+    <date when="1808-10-13"> "</date>		--------------	-----------		1			      50		<persName>James Shields</persName>
+    <date when="1808-12-23">23</date>		1			205			4			     198		<persName>Lewis Pero</persName>
+
+    <date when="1808-10-24">24</date>		--------------	-----------		22			/   1000		<persName>Charles Elliott</persName> for <persName>Amos Bird</persName>
+												\    123		Ditto in part for A Boise's Order
+
+    <date when="1808-10-24"> "</date>		--------------	-----------		30 and 1 ps	          1503		Sold <persName>Gregoir </persName>for Cash Pd <persName>M A</persName> at same time
+    <date when="1808-10-25">25</date>		--------------	-----------		---------------	      50		Do  Do  for a Bridle for DO
+     <date when="1808-10-25">"</date>		--------------	-----------		3			     155		paid <persName>O Guest</persName> for <persName>Negro </persName>Hire
+    <date when="1808-10-27">27</date>		--------------	-----------		13			     561		paid <persName>Wood and Dunn</persName> for <persName>J. Shields</persName>.
+    <date when="1808-10-28">28</date>		--------------	-----------	      5 and 1 ps		     280		<persName>Francois Janise</persName> for <persName>M. Austin</persName>
+
+												/   217	      <persName>Charles Elliott</persName> for Balance Due on <persName>A. 
+												|			    Boise</persName>s order.
+    29		--------------	-----------		12			|    109			DO in part for flour for <persName>H. A.</persName>		
+												|    100			DO for <persName>James Shields.</persName>
+   												\    160			DO (Lenite)
+
+    <date when="1808-10-31">31</date>		--------------	-----------		12			     612		Sold <persName>Gregoir </persName>for Cash</p>
+
+<p><date when="1808-11-09">Novr. 9</date>		--------------	-----------		39			    2000		DO <persName>J. Bryan</persName>'s Order to <persName>James Scott</persName>
+     <date when="1808-11-30">30</date>		--------------	-----------		4			     160		<persName>T. Phelps</persName>
+      <date when="1808-11-30">"</date>		--------------	-----------		6			     272		<persName>J. Gamble and Co</persName> for <persName>M. Austin</persName>
+      <date when="1808-11-30">"</date>		--------------	-----------		16			     600		<persName>G. E. Jackson</persName> for <persName>T. Evans</persName>
+      <date when="1808-11-30">"</date>		--------------	-----------		32			    1550		<persName>T. Phelps</persName> in part for <persName>M. A</persName>'s Order.
+<date when="1808-11-30">Novr.30</date>		--------------	-----------		9			     385		Paid <persName>J. Pratt</persName> for Iron etc. for <persName>M. Austin</persName>
+
+      <date when="1808-11-30">"</date>		--------------	-----------		5			/    206		Paid <persName>Wood and Dunn</persName> for <persName>J. Butler</persName>.
+ 												\     15		Over wt. for Cash.</p>
+
+<p><date when="1808-12-14">Dec. 14</date>		--------------	-----------		17			     730		<persName>Madam LaPlant</persName> (<persName>M and J.A.</persName> 270)
+     <date when="1808-12-22">22</date>		--------------	-----------		6			     250		Paid <persName>Shaw </persName>for 1 Bbl Pork
+     <date when="1808-12-27">27</date>		--------------	-----------		1 1/2		 		60		Paid <persName>J. Butler</persName>'s Order (<persName>Kenner</persName>)</p>
+
+<p><date n="xx-xx-1809">1809</date></p>
+<p><date when="1809-01-11">Jany.	11</date>		--------------	-----------		5			     212		<persName>H. Austin and Co.</persName>
+      <date when="1809-01-15">15</date>		--------------	-----------		1 1/2				63		<persName>Thos Shaw</persName> for <persName>Brown</persName>'s Clothes
+      <date when="1809-01-17">17</date>		--------------	-----------		14 2/3		     626		Paid <persName>Flint </persName>and <persName>Gibson</persName>
+       <date when="1809-01-17">"</date>		--------------	-----------		3 2/3			     160		Paid a <persName>Frenchman </persName>for <persName>M. Austin</persName>
+      26		--------------	-----------		9 1/2		           400		Sold <persName>Gregoir </persName>for Cash<pb n="167"/></p>
+
+<p>When paid out	No Boxes Shott	Wt of Shott 	No Barrs Lead	Wt of Boxes		To Whom Delivered</p>
+<p><date n="xx-xx-1809">1809</date></p>
+<p><date when="1809-03-03">March 3</date>		--------------	-----------		10 and 1 ps		     435		Paid <persName>Wooster</persName>
+
+     <date when="1809-03-15">15</date>		--------------	-----------		8			/    300		<persName>M. Austin</persName>s Order to <persName>Wm Montgomery</persName>
+												\	 7		Overweight Deliverd <persName>J McArthur</persName></p>
+
+
+<p><date when="1809-04-01">April 1</date>		--------------	-----------		94			    4000		<persName>E. Bates</persName> for <persName>J. Bryan</persName>
+     <date when="1809-04-10">10</date>		22			6216			450 1/4		   19719		40 Rolls 8984 lb <persName>J. Lafferty</persName>
+     <date when="1809-04-14">14</date>		--------------	-----------		89			    4027		Paid <persName>Wood and Dunn</persName> (for Lead Borr'd)
+     <date when="1809-04-29">29</date>		--------------	-----------		59 and 1 ps		    2560		Paid <persName>J. Lafferty</persName></p>
+
+<p><date when="1809-05-04">May 	4</date>		--------------	-----------		--------------	---------		4 Boxes Smal Br. 1146 lb <persName>J. McArthur</persName>
+      <date when="1809-05-09">9</date>		--------------	-----------		19 and 1 ps		     995		Sold <persName>N. Wilson and Co</persName> for Cash
+
+      <date when="1809-05-09">"</date>		--------------	-----------		3			/    140		Paid <persName>T. Phelps</persName> for Balance of <persName>M A</persName>'s Order
+												\     18		Overweight due from F...(?)
+
+      <date when="1809-04-18">18</date>		--------------	-----------		7 and 1 ps		     360		<persName>H. Austin and Co</persName>.</p>
+
+<p><date when="1809-06-02">June   2</date>		--------------	-----------		2			     100		<persName>Robert Westcot</persName> pr order
+       <date when="1809-06-08">8</date>		--------------	-----------		1				42		<persName>French Strother</persName>
+
+       <date when="1809-06-09">9</date>		--------------	-----------		12			/    497		<persName>John McArther</persName> for 
+                                                                        \     12		Overweight Accounted for <date when="1809-07-01">July 1st</date>
+
+      <date when="1809-06-24">24</date>		--------------	-----------		67 1/2		/   2000		Sold <persName>N. Wilson and Co.</persName> for Cash
+                                                                        \    915		Paid Do for our Due Bill to <persName>J. Bryan</persName></p>
+
+<p>															/ 270 Paid <persName>J. McArhur</persName> for<persName> Wm Cabeen</persName>
+															| 500  "    DO        for <persName>T. Newberry</persName>
+															| 1500 "    DO	    for <persName>N. Pope</persName>
+															| 250  "    DO        for <persName>J. Butler</persName>
+<date when="1809-07-17">July  17</date>		--------------	------------	59			    2508		| _____
+															| 2520
+															|   12 Over wt <date n="06-xx-1809">June</date>
+															| _____
+    															\ 2508
+
+      <date when="1809-07-17"> "</date>		--------------	------------	14 and 1 ps		     608		<persName>Francoise Janis</persName>
+      <date when="1809-07-22">22</date>		--------------	------------	2 2/3			     120		<persName>J. Butler</persName>'s Order
+<date when="1809-07-26">July  26</date>		2			400			-------------	----------		<persName>James C. Young</persName>
+
+      <date when="1809-07-27">27</date>		--------------	------------	23			/    925		<persName>James C. Young</persName>
+                                                                        \     35		Overweight for Cash
+
+      <date when="1809-07-29">29</date>		--------------	------------	2			/     66		<persName>James C. Young</persName> for <persName>T. Newberry</persName>
+                                                                        \     17		Overweight for Cash</p>
+
+
+<p><date when="1809-08-02">Augt   2</date>		4			1063			-------------	----------		Lent Genl Hopkins
+      <date when="1809-08-16">16</date>		2			300			-------------	----------		<persName>M Soulard</persName>
+      <date when="1809-08-22">22</date>		--------------	------------	59			    2473		<persName>Amos Bird </persName>(Lent)
+      <date when="1809-08-26">26</date>		--------------	------------	1				42		<persName>H. Austin and Co.</persName>
+       <date when="1809-08-26">"</date>		--------------	------------	1				43		Paid for labor
+	<date when="1809-08-27">27</date>		--------------	------------	12			     503		Paid for Plank
+	<date when="1809-08-30">30</date>		--------------	------------	1				43		<persName>H. Austin and Co.</persName></p>
+
+<p><date when="1809-09-02">Sept	 2</date>		--------------	------------	47			    1993		<persName>Elias Bates</persName> <persName>M. A</persName>'s Order
+      <date when="1809-09-12">12</date>		--------------	------------	1				43		<persName>H. Austin and Co.</persName>
+	<date when="1809-09-18">18</date>		--------------	------------	5			     215		<persName>D. Shaw</persName>s Order for <persName>M. Laplant</persName>
+	<date when="1809-09-19">19</date>		--------------	------------	4			     167		<persName>A. Newfield</persName> for <persName>C. A. Austin</persName>
+	<date when="1809-09-20">20</date>		--------------	------------	25			    1076		<persName>McClenehan</persName> and <persName>F. Casey</persName> (For Lead Borrowed)</p>
+
+<p>												/   5000		<persName>Wood and Dunn</persName> (for Lead Borrowed)
+												|   3200		Ditto for <persName>Caben </persName>for <persName>A. Woods</persName>
+												|    840		Ditto for M. Austin's Due Bill
+												|  _____
+												|   9040 
+                                                                        |=======
+<date when="1809-10-27">Oct	27</date>		--------------	------------	265			|    400		<persName>N. WIlson &amp; Co</persName> for <persName>T. Newberry</persName>
+												|    928		Ditto for <persName>M A</persName>'s Accts
+												|    147 1/2	Ditto for Balance of Due Bill pr <persName>R Wescot</persName>
+												|    500		<persName>Wm Lucy</persName> for <persName>J. Butler</persName>
+												|    133		Ditto <persName>M. A</persName>'s Order to <persName>Doctr Rose</persName>
+												\    170		Ditto <persName>M. A</persName>'s Acct.
+
+       "		--------------	------------	3			     127		<persName>H. Austin and Co.</persName></p>
+
+<p><date when="1809-11-06">Nov.	 6</date>		--------------	------------	12			     500		Sold for Cash
+  	<date when="1809-11-17">17</date>		--------------	------------	33			---------		Sent for <persName>Hubardeau</persName></p>
+
+<p><date when="1809-12-26">Dec	26</date>		--------------    ------------	20			    1000		<persName>Falconer </persName>for <persName>C. A. Austin</persName>
+	 <date when="1809-12-26">"</date>		--------------	------------	4			     220		Berthol</p>
+
+<p><date n="xx-xx-1810">1810</date></p>
+<p><date when="1810-01-13">Jany	13</date>		--------------	------------	7 and 1 ps		     400		<persName>M. A</persName>'s Orer to <persName>Bourne</persName>
+			32			8444			2230 1/4 and 9 ps	---------		Carried over
+<date when="1810-01-30">Jany	30</date>		--------------	------------	7			     377		<persName>J. Gamble</persName>
+									2237 1/2 and 9 ps
+       "		--------------	------------	1636			---------		Ditto
+									_________________
+									2980</p>
+
+<p><date when="1810-02-13">Feby	13</date>		--------------	------------	1007			---------		Ditto</p>
+															
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0152">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Bellows and Cochran, 05-03-1809</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Bellows 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Cochran
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Genevieve, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 156-157
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1809-05-03">05-03-1809</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Same topics as in preceding letter.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saint Genevieve</placeName> <date when="1809-05-03">May 3, 1809</date></p>
+<p><persName>Gentl [Bellows &amp; Cochran]</persName></p>
+
+<p>in consequence of an Arrangement made and concluded by my
+friend <persName>Seth Hunt</persName> on My account [with] <persName>Mr John G Bond Esq</persName> and
+also a Copy of your letter to <persName>Mess. Hart Barton and Hart 
+<placeName>Lexington</placeName></persName>&#8212;inclos'd to me by my friend <persName>Maj. Hunt</persName>&#8212; I have made 
+arrangements to carry the contemplated business into immediate execution</p>
+
+<p>I have therefore this day Draw[n] on you in favor of <persName>Messr Hart
+Barton and Hart</persName> for four thousand Which is the Amount I shallt<pb n="157"/>
+draw for at this time and in short untill the fate of my Draft are
+know[n] I shall [not] Draw nor, do I expect to Draw a Dollar on
+the Bills untill that information is recd-this Determination I have
+taken for two reasons first because I can make the first Shipment
+without the ade of the amount Drawn for secondly because the <persName>Bank
+in <placeName>Lexington</placeName></persName> will not discount Bills at 120 Days unless at a discount
+of 2 1/2 pr Cent&#8212; therefore I have submitted to a delay rather than
+to submit to a Discount my Draft are of two thousand Each,
+Drawn @ <hi rend="italic">120</hi> and 135, Days&#8212; I have this day Written <persName>Mr Bond</persName> on
+this Subject and I trust common Interest will induce each party
+concerned in this transaction to act with Honor and faithfully execute
+the several engagements&#8212; assumed to each I have to complain of
+great delay in receipt of my friend <persName>Hunt</persName>s letters in consequence
+of the mal arrangment of the <placeName>Post office</placeName> establishment in the quarter
+its but a few days since I recd <persName>Maj Hunt</persName> letters did not reach me
+until a day or Day past&#8212;</p>
+
+<p>[Moses Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
