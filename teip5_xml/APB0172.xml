@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0172">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Michael Hart, 07-02-1810</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Michael Hart
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 176-177
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1810-07-02">07-02-1810</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and price list. Michael Hart in account with Moses Austin &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Michael Hart</persName> in a/c Current with <persName>Moses Austin and Co</persName></p>
+
+<p><date n="xx-xx-1807">1807</date>		To Balance from Ld C [Ledger C] P. 112____________	$ 2. 20</p>
+
+<p><date when="1807-11-04">Novr. 4</date> 	To so much pa <persName>M. Deulle</persName>___________________________	  1. 50
+
+	<date when="1807-11-28">28</date> 	1 quart Whiskey___________________________________         50<pb n="177"/></p>
+
+<p><date n="xx-xx-1808">1808</date></p>
+
+<p><date when="1808-01-03">Jany  3d </date>	To 6 yds of Silk @ 2.00___________________________     12. 00</p>
+
+
+<p><date when="1808-02-17">Febry 17</date> 	2 qts of Cider @ 25_______________________________         50</p>
+
+
+<p><date when="1808-03-09">March 9</date> 	paid <persName>Easton and Pope</persName> _____________________________      5.</p>
+
+
+<p><date when="1808-06-02">June  2d</date> 	504 lb lead in <placeName>Village</placeName>____________________________     29. 23
+		To your board from <date when="1808-08-16">16 Augt</date>. to <date when="1808-11-01">1 
+		Novr </date> 2 1/2 	Months @ 10$__________________________     25. 00
+		Sundry meals since with lodging
+		say 52 @ 12 1/2 cents_____________________________      6. 50</p>
+
+<p><date when="1808-12-06">Decr.  6</date> 	To 6 Months board from <date when="1808-06-01">1, June</date>
+		to the <date when="1808-12-01">1, Decr</date> @ 12$50____________________________     75. 00
+		To keeping your horse from the <date when="1808-10-01">1,
+		Octr </date>up to <date when="1808-12-30">30th Decr </date> 3 months____________________     22. 50
+		paid <persName>James Bryan</persName>__________________________________      7. 50
+		paid <persName>John Butler</persName>__________________________________      5. 75
+		paid <persName>Lucy</persName>_________________________________________      4. 00
+       <date when="1808-12-30">30</date> 	496 lb lead<date when="1808-09-01"> 1, Sept.</date>______________________________     24. 80
+		1160 lb lead <date when="1808-12-13">13, Decr</date>_____________________________     58. 00</p>
+
+<p><date when="1808-02-06">Feby   6</date> 	paid <persName>James Hawthorn</persName>_______________________________      2. 00</p>
+
+<p><date when="1809-02-15">1809
+Febry 15</date></p>
+
+<p><date n="xx-xx-1810">1810</date>    	paid <persName>James Bryan</persName>__________________________________     10.37 1/2
+											__________
+										     $292.35 1/2</p>
+
+<p><date n="xx-xx-1808">1808 </date>                                                                 Cr.</p>
+
+<p><date when="1808-03-09">March 9</date>  	By <persName>Perkins </persName><persName>Wood </persName>and <persName>Miller</persName>________________________    $21. 50</p>
+
+<p><date when="1808-06-02">June 2</date>     	By 1 Horse________________________________________     60. 00</p>
+
+<p><date n="xx-xx-1810">1810</date></p>
+
+<p><date when="1810-02-14">Febry. 14</date> 	790 lb lead per <persName>E.</persName> and <persName>Shields</persName>____________________     39. 50
+
+	 <date when="1810-02-23">23</date>   1007 lb d° from <persName>D. Smith</persName>__________________________     50. 35</p>
+
+<p><date when="1810-07-02">July 2d</date>     267 lb d° <date when="1808-12-30">30th Decr 1808</date>__________________________     13. 35
+
+		355 lb d° <date when="1808-11-12">12th Novr </date>  d°__________________________     17. 75
+											___________
+										     $202. 45</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
