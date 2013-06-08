@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0019">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin and George Lauman to Unknown, 11-28-1795</title>
+            <author>
+                <persName>Moses Austin and George Lauman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-12">06-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 26-27
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Statement of Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1795-11-28">11-28-1795</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Statement of account.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr   <persName>Mr George Lauman</persName> Accot. Currt in Barter with <persName>Moses Austin</persName>.</p>
+
+<p><date n="xx-xx-1795">1795</date></p>
+<p><date when="1795-03-16">March 16</date> To 3. Notes of Hand on <persName>Robert Morris</persName> and <persName>John Nicholson</persName>
+ Amounting in all to $7363 50/100____________2761     6     3</p>
+
+<p>To balance due <persName>George Lauman_</persName>_____________________    171    11     7|</p>
+
+<p>£2932    17    10 1/2</p>
+<p>Cr.                                                                                         </p>
+
+<p><date n="xx-xx-1795">1795</date></p>
+
+<p><date when="1795-03-20">March 20</date> By Sundry Goods as pr Invoice______________________    171    10      3</p>
+
+<p><date when="1795-03-24">24</date> By  Ditto_____d°________d°__________________________    453    19      4</p>
+
+<p><date when="1795-07-23">July    23</date> By Ditto_____dn deliv'd <persName>John D. Blanchard</persName>- ___ 1654    15      9</p>
+
+<p><date when="1795-11-28">Novmr 28</date> By Ditto_____d° deliv'd         Ditto______________    632    12      6 1/2</p>
+
+<p>£2032    17    10 1/2</p>
+
+<p>It is to be observed that agreeable to the above statement a balance
+is due <persName>George Lauman</persName> which balance he supposes he has a claim on
+us as taken up by our <persName>agent </persName>which I admit. But if a Six Months
+Credit is allowed on this balance it will be found not to be due untill
+the <date when="1796-05-28">28 May</date> so that it cannot operate against any demand I have
+on the Land business. It ought also to be remember'd that my
+Drafts was protested in <date n="10-xx-1975">October </date>and that at that time <persName>George 
+Lauman</persName> was in my Debt £481 „ 11 as the last of the above goods say
+£652.12.6 1/2 was not deliver'd untill <date when="1795-11-28">November the 28th</date> Nor was <persName>Mr
+Lauman</persName> under any obligation to deliver any More goods than the
+Sum due me nor did I wish him to do so. I cannot see why <persName>Mr 
+Lauman</persName> may not as well demand a Credit for the £453.19.4 as for
+£171.10.3 as that amount of goods was taken up by myself four days
+after the £171.10.3 neither of which I conceive have any thing to
+do with the land contract, Nor can my being in debt to <persName>George
+Lauman</persName> or <persName>Lauman and West</persName> be consider'd as a violation of my
+Contract with <persName>Blanchard and Lauman</persName> for Lands. I also wish to
+remind the Gentlemen who are to give an opinion on this business
+that<persName> Mr Lauman</persName> has agreed to make a discount on the above goods<pb n="27"/>
+of One Hundred Pounds on account of their being overcharge.
+Which discount I agreed should be settle'd with <persName>Mr Blanchard</persName> before
+I understood how the balance of this account was to be applied, but
+when it is considered that the Hundred pound ought to be taken off
+from the amount Charged me a small balance will be found due
+<persName>G Lauman</persName> so that justice cannot demand that <persName>Mr Lauman</persName> should
+claim a Credit on account of the Land business nor do I think in
+Justice I am bound to settle with <persName>Mr Lauman</persName> for any balance that
+may be found due on this Exchange of property it not being 
+agreeable to my Orders, Bequest or intention that <persName>Mr Blanchard</persName> should
+receive any more than the balance due me from <persName>Mr Lauman</persName>.</p>
+
+<p>[Endorsed:] <persName>Mr George Lauman</persName> Account Current.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

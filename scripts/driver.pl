@@ -19,7 +19,10 @@ foreach $file (@files) {
 	    system("rm $errfile");
 		print $fileContents;
 		if($fileContents ne "") {
-			die "Errors found in $file:\n\n$fileContents\n\nTo reproduce:\n$cmd_convert$cmd_check"
+			$cmd_recheck = "xmllint --dtdvalid file:///$this_dir/reference/tei_all.dtd teip5_xml/$outfile\n";
+			system($cmd_recheck);
+			
+			die "Errors found in $file:\n\nTo reproduce:\n$cmd_convert$cmd_recheck"
 			
 		}
 				
