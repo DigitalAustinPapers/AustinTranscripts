@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0031">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Charles Austin to Moses Austin, 06-18-1798</title>
+            <author>
+                <persName>Charles Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austinville, VA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 39-41
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1798-06-18">06-18-1798</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Transmitting bill for goods and expenses incurred by Moses Austin in his move to Missouri.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austinville </placeName><date when="1798-06-18">June 18 1798</date></p>
+<p>Dear Sir</p>
+
+<p>Agreeable to promise I have annex'd an Account of Sundries 
+furnish'd for the <placeName>Illinois </placeName>Adventure and Sundry debts assumed of the
+<persName>Work Poeple</persName>, the particulars of Which I have not sent having been
+very bussy, with one damd troublesome vexatious thing or other
+since you left. I was happy to hear although from <persName>Thompson </persName>that
+you were going on so well at <persName>Parrishes </persName>hope by the time this reaches
+you the Worst of your Journey will be over the particulars of the
+<placeName>Illinois </placeName>Account and the Accounts, of the Poeple, I shall make out
+and forward by the first Conveyance, or by Post in a small compass.<pb n="40"/>
+We still continue to go on but not well our Money matters are very
+pressing and how to relieve them can't say. trust to Providence and
+our Good luck. The long Continuance of rain in this <placeName>Country </placeName>has
+fill'cl the <placeName>Mine Holes</placeName> so that I am afraid that we shall not be able to
+raise all of ore this <date n="Summer-1798">Summer </date>and almost ruin'd all our Corn. Bad
+news respecting War which seems to be inevitable God send it may
+prove of advantage to your undertaking I am afraid <persName>Kenner </persName>is
+taken as a letter from My <persName>Mother </persName>10 Days since he has not arriv'd
+in which case my <persName>father </persName>will nearly be ruin'd but still hope <persName>Mrs
+Austin</persName> <persName>James </persName>and my <persName>father </persName>wish to be rememb'd to yourself <persName>Mrs. A</persName>
+and the <persName>Children </persName><persName>Mrs and Mr. B[ates]</persName> and <persName>family </persName>Wishg you every
+prosperity that a Good Country and Advantagious Bussiness can
+aford</p>
+
+<p>I am withe esteem Yours</p>
+
+<p><persName>Chas Austin</persName>.</p>
+
+<p>[Enclosure]</p>
+
+<p><placeName>Illinois </placeName>Adventure To <persName>Stephen and Moses Austin</persName> Dr.</p>
+
+<p><date n="xx-xx-1797">1797 </date>                                                      [£.   s.    d.]   </p>
+
+<date when="1797-09-11">Sept   11</date> To Cash pd <persName>J Bell</persName> for services with you. __________  20      "
+
+<date when="1797-11-28">Novr  28</date> To Gash pd for 2 lb Black lead________2/7 1/2________ "      5        3
+
+<date when="1797-12-02">Decr     2</date> To Amount of Sundry Goods etc sent 
+	by <persName>Messr Kendle</persName> and <persName>Bates </persName>as Pr Invoice ________________777    19        3            </p>
+
+<p><date n="xx-xx-1798">1798</date>
+
+<date when="1798-01-14">Jan.    12</date> To Cash pd <persName>P Bates </persName>expences with <persName>Mrs B</persName>_____________ "     18        3
+
+<date n="02-14-1798+">Feby   14</date> To Cash pd expences by <persName>J Austin</persName> coming <placeName>home</placeName>_________ 6      "        " 
+
+<date when="1798-02-16">16</date> To <persName>Wm Jenkins</persName> Services_____________________________________ 3     10        "
+
+<date when="1798-02-26">26</date> To <persName>R Sanders</persName>'s Waggonage___________________________________ 24    12        "
+
+<date when="1798-02-26">"</date> To <persName>R Muse</persName> Do________________________________________________ 24    14        3
+
+<date when="1798-04-07">April     7</date> To Iron for Drying pan ___________________________       14        10 1/2
+
+<date when="1798-04-14">14 </date>To Cash pd pr Tools by <persName>R Bell</persName>______________________________ "     12        "
+
+<date when="1798-04-14">"</date> To Cash pd <persName>R Bell</persName>___________________________________________ 4     10        "
+
+<date when="1798-04-14">"</date> To Sundry of <persName>Company</persName>s tools furnish'd
+<persName>R Bell</persName> took to Boat Yard _____________________________________ 6      1        6                        
+
+<date when="1798-06-02">June   2</date> To 2.6.0.0 [sic] Shot a ___________50/ ______________ 115    "        "
+To 23 Boxes______________________2/___________________________  2     6        "
+
+To 4.1.10 lb Barr Iron a___________40/________________________  8    12        1
+
+To Cash pd you________________________________________________ 12     "        "
+
+<date when="1798-06-06">6</date>  To 100 wt Barr Lead________________________________________  2     "        "
+
+<date when="1798-06-07">7</date>  To 84 lb Bacon for self and Waggons Pd_____________________  3     3        "
+
+To 30 Bushels_____________________3/3_________________________  4    17        6
+
+To Cash pd by <persName>C A</persName> at <placeName><persName>Beason</persName>s</placeName>__________________________________  "     1        6
+
+<date when="1798-06-16">16</date> To  Waggonage  of 4 loads to <placeName>Kanawa </placeName>in  our  Own
+Waggons___5£ _________________________________________________  100   "        "
+
+
+£1118     7     6 1/2<pb n="41"/></p>
+
+
+<p><date n="xx-xx-1798">1798</date>                                                          [£.    s.    d.]
+
+<p><date when="1798-06-16">June 16</date> To Corn furnished all the Waggons <date when="1797-12-02">Decr 2</date> when they
+started  for  <placeName>Kanawa</placeName>________________________________          13	   10     "
+as pr <persName>H Bates</persName> accot never given in&#8212;(furnished since 
+15 each_____________________________________________</p>
+
+
+<p>To Hauling 2 loads to <placeName>Kanawa </placeName>this <date n="Spring-1798">Spring</date>___25£ each_          50      "     "</p>
+
+<p>To Balance due from House Board____________________	         1     13     "</p>
+
+<p>To Ditto of <persName>Mathew Mullens</persName>_________________________		   "     13     2</p>
+
+<p>To Ditto of <persName>Timothy Mullens</persName>_________________________		  24	   14     3  1/2</p>
+
+<p>To Balance of <persName>Wm Montgomery</persName>,________________________		   1      4     "</p>
+
+<p>To Balance due from <persName>D Green</persName>_________________________		   1     17     "</p>
+
+<p>To Ditto of <persName>Wm Griffin Senr</persName>_________________________		   2     17     9</p>
+
+<p>To Ditto of <persName>Wm Griffin Junr</persName>_________________________      	   16    17     6</p>
+
+<p>To Ditto of <persName>Jn° Stools </persName>(?) between 3O and 40 £______		   "     "      "</p>
+
+<p>To 1 Carriage______________200$ <persName>Moses Austin</persName></p>
+
+<p>To 1 Blk Horse____________100 Dolls</p>
+
+<p>To 1 Do <persName>Doctor</persName>____________150</p>
+
+<p>450</p>
+<p>Amount. 1368    14   6</p>
+<p><persName>M Austin </persName>150</p>
+
+
+
+<p>1518   14   6£,  in Dollars __________________________           5062 42</p>
+
+<p>To 2 Mules   &#8212;100 each________________________________   		200.0</p>
+
+<p>To  Waggon  etc ______________________________________		 80</p>
+
+<p>To 1 flatt Boat_______________________________________           5342.42</p>
+
+<p>[Additional entries for undecipherable items run the bill up
+to $7897.78]</p>
+
+<p>[addressed:]<persName> [Moses] Austin Esqr.</persName> <placeName>[Kas]KasKa on the Spanish
+side of the Mississippi</placeName> to the Care . . . es <placeName>Kaskaska</placeName>. <placeName>LouisVille</placeName>
+K.</p>
+
+<p>[Endorsed:] <persName>Stephen and M Austin</persName> Bill <persName>Charles Austin</persName>s letter
+and Account of goods etc etc to <placeName>Illinois </placeName>adventr.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

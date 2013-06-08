@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0027">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Moses Austin, 06-15-1797</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 35-36
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1797-06-15">06-15-1797</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Dissolving partnership</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>This Indenture Witnesseth that <persName>Stephen and Moses Austin</persName> have
+this day Mutually agreed to Publish a dissolution of all their former
+Partnership in the Name of <persName>Stephen Austin and C°</persName> and <persName>Moses
+Austin and C</persName>° also their Partnership with <persName>Thomas Ruston</persName> for the
+purpose of Closing all their concerns with the said <persName>Thomas Ruston</persName>
+and it is also agreed on by the said <persName>Stephen and Moses Austin</persName> to
+Carry on the <placeName>Lead Mine</placeName> Bussiness in <placeName>Virginia </placeName>under the firm of
+<persName>Stephen and Moses Austin</persName> and it is also further agreed by the [sa]id<pb n="36"/>
+<persName>Stephen and Moses Austin</persName> that <persName>Moses Austin</persName> makes such 
+arrangement of their <placeName>Lead Mine</placeName> Bussiness in <placeName>Virginia </placeName>as to leave it under
+the direction [of] Confidential Persons and that he proceed to the
+<placeName>Province of Louisianne</placeName> under the <persName>Government of King of <placeName>Spain</placeName></persName>
+and there take up such lands <placeName>Lead Mines</placeName> etc and there make such
+Establishment of the <placeName>lead Mine</placeName> Bussiness as he may find for the
+Interest of the Concern and to Carry it on for the joint advantage
+of the said <persName>Stephen and Moses Austin</persName> for and untill the <date when="1800-01-01">first
+day of January one thousand Eight hundred</date> and it is to be 
+understood that all the Property granted to the said <persName>M Austin</persName> by the
+<persName>Government of <placeName>Spain</placeName></persName> in his own name or any other person of his
+family to be considered as a joint Concern between the said <persName>Stephen
+and Moses Austin</persName> and at the expiration of which Period to be 
+divided as well lands <placeName>Lead Mines</placeName> and all other Property wherever
+situated, It is also understood that the agreement made by <persName>Moses
+Austin</persName> with <persName>Francis [Vallé] Esqr</persName> and others of <placeName>St Genevieve</placeName> is
+to be comprehended in this present agreement and that the said
+<persName>S Austin</persName> allow from the net profits arising to him on the
+<placeName>Louisianne </placeName>Bussiness Two hundred Dollars for each year for him
+the said <persName>Moses Austin</persName> should the said contract with the said <persName>Francis
+Valle and others</persName> take Effect, [but] if it should not then the said
+<persName>S Austin</persName> shall allow him the said<persName> M Austin</persName> out of the profits in like
+manner four hundred Dollars pr Annum and it is understood that all
+agreements bearing date before this time is null and Void from this
+day forth</p>
+
+<p><persName>Stephen Austin </persName>   [Rubric]</p>
+<p><placeName>Philadelphia </placeName><date when="1797-06-15">June 15 1797</date>.</p>
+<p>Witness present</p>
+
+<p><persName>Wm Kenner</persName></p>
+
+<p><persName>Charles Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

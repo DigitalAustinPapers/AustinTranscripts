@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0026">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Shreve to Moses Austin, 06-15-1797</title>
+            <author>
+                <persName>William Shreve</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Frederick Town</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 35
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1797-06-15">06-15-1797</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Found no indication of iron in his exploration at Ste. Genevieve, so that contract of February 2 is void.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Frederick Town</placeName> <date when="1797-06-15">15th. June 97.</date></p>
+<p>Dr. Sir,</p>
+
+<p>I expect you have heard from <persName>Mr. Jones of <placeName>Kaskaskea</placeName></persName> by <persName>Mr. 
+Pascall a French Gentm from <persName>St. Geneveve</persName></persName> destenated for <placeName>Philadelphia</placeName>,
+Agreeable to what last pased between us respectg the <placeName>Louisiany
+Country</placeName>, I went and Exploared, untill no probability of meeting of
+Success in that which was the object of my Journey to that Country,
+Returning without seeing any thing that I conceived would by any
+means Just [if] y an undertakeing of the kind,&#8212;I met with every 
+incouragement from the People that was within the Scope of their
+power, but not of Situation or Mineral,&#8212;I agreed provided there
+should be such a Situation Discovered that would Justify as before,
+That a Memorial might be laid in for me, and provided it Came 
+forward in time, That I then would come forward as before proposed&#8212;
+But time Runs so long with out hearing anything from that quarter,
+and the Very great uncertainty of such a Discovery that I shall be
+oblidged to make Other Arangement, I nevertheless should be glad
+to hold an Interest with You in the Lead business, Provided I can
+do it on agreeable an[d] Equaleable Turms, But should it not meet
+Your Interest or inclenation, for me to hold any part of the Lead,
+without pursuing the Iron Business, I shall decline any thing of that
+kind, for the reasons before stated, I should be glad to hear from You,</p>
+
+<p><persName>Wm. Shreve  </persName>  [Rubric]</p>
+
+<p>[Addressed:] <persName>Moses   Austin   Esqr. </persName>  or   <persName>Stephen   Austin   Mercht.</persName></p>
+
+<p><placeName>Philadelphia</placeName></p>
+
+<p>[Endorsed:]<date n="06-xx-1797"> June 1797 </date>  <persName>William Shreve</persName>   this letter is in Answer
+to a Conditional contract made with said <persName>Shreve </persName>in consequence of
+which the business contemplated under said contract was relinquishd</p>
+
+<p><persName>M Austin</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
