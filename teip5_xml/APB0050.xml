@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0050">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Charles Austin to Moses Austin, 01-10-1801</title>
+            <author>
+                <persName>Charles Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austinville, VA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 61-62
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1801-01-10">01-10-1801</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning property in Virginia.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austinville </placeName><date when="1801-01-10">Jany 10 1801</date></p>
+<p>Dear <persName>Uncle</persName>,</p>
+
+<p>I wrote you a few posts since in answer to your letter Since which
+I have got those Gentn. to Value the property Sold to me a copy of
+Which I herein inclose you <persName>Mrs. Austin</persName> and <persName>Moses </persName>are well and beg
+to be rememberd to her <persName>Sister </persName>and <persName>friends</persName>, please present my best
+respects to all friends   Yours with respect</p>
+
+<p><persName>Charles Austin</persName>    [Rubric]</p>
+
+<p><persName>James </persName>has not yet return'd but is daly expected   <persName>C. A.</persName><pb n="62"/></p>
+
+<p>[Copy]</p>
+
+<p><persName>Capt James Newell </persName><persName>Mr Hugh McGarock</persName> and <persName>Mr Joseph Kent</persName></p>
+<p><persName>Gentln</persName>.</p>
+
+<p>The following Property I beg leave to request you will after 
+examination Value at the prices which you think the Same would have
+brought 6 Months Since or at the Present time in Cash and will
+oblige</p>
+
+<p>Yours etc</p>
+
+<p><persName>Chas  Austin </persName>   [Rubric]</p>
+
+<p><persName>B Bottom</persName> said to contain 500 Acres_________________________ 1833.33</p>
+
+<p><placeName><persName>Bohannon and Forbis</persName> Plantation</placeName> d°__________________________ 1166.66 - 3000
+and the following <persName>Negroes</persName></p>
+
+<p><persName>Prince</persName>_______________________________________________   100</p>
+
+<p><persName>Patty</persName>________________________________________________   000</p>
+
+<p><persName>Nelly and 2 children</persName>_________________________________   400</p>
+
+<p><persName>Jerry</persName>________________________________________________   300</p>
+
+<p><persName>Gowin</persName>________________________________________________   000</p>
+
+<p><persName>Peter </persName>_______________________________________________   333. 33</p>
+
+<p><persName>Ambrosse  Senr</persName>_______________________________________   220</p>
+
+<p><persName>Alary</persName>________________________________________________   100</p>
+
+<p><persName>Ambrose Jun</persName>__________________________________________   400</p>
+
+<p><persName>Ceasar</persName>_______________________________________________   333.33</p>
+
+<p><persName>David Jun</persName>____________________________________________   250           2436.66</p>
+
+<p><persName>James</persName>_______________________________________________________           300</p>
+
+<p><persName>Kesiah and 5 children</persName>_______________________________________           666.66</p>
+
+<p><persName>David Senr</persName>__________________________________________________           333.33</p>
+
+<p><persName>Alexander</persName>___________________________________________________           200</p>
+
+<p><persName>Joseph</persName>______________________________________________________           230</p>
+
+<p><persName>Thomas</persName>______________________________________________________           200</p>
+
+<p><persName>Walter</persName>______________________________________________________           150</p>
+
+<p><persName>Frank</persName>_______________________________________________________           180</p>
+
+<p>7 Mules_____________________________________________________           460</p>
+
+<p>$8,156. 66</p>
+
+<p><placeName>Lynchburgh </placeName>place not Valued</p>
+
+<p>agreeably to the above request we have Valued the Property accordingly.</p>
+
+<p><persName>Hugh McGarook</persName></p>
+
+<p><persName>James Newell</persName></p>
+
+<p><persName>Joseph Kent</persName></p>
+
+<p>[Address:] <persName>Mr. Moses Austin Mercht</persName>. <placeName>on the Spanish Side of the
+Mississippi Kaskaskia</placeName> Mail</p>
+
+<p><persName>Jas Austin</persName> free</p>
+
+<p>the <persName>Post Master at <placeName>Kaskaskia</placeName></persName> will please forward this by the
+earliest conveyance and will oblige</p>
+
+<p>[Endorsed:] Memorandum of <persName>Charles Austin</persName> acct <persName>M A and Co</persName>
+property</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

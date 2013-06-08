@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0040">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, 04-xx-1800</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 53
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1800-04">04-xx-1800</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Memorandum concerning debt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Memorandum</p>
+
+<p>In <date n="02-xx-1800">Feby. 1800</date> <persName>Mr John E Jones</persName> then at this place reced. from <persName>Mr
+Vinsans</persName> the Iron Mention.d in the A/c and Demanded payment for
+the balance <persName>Mr Vinsans</persName> then said he had paid the amount of all
+the goods sold to <persName>Mr Bolvan</persName> by <persName>Mr. Kendle</persName>s order. I had him
+brought before <persName>Mr Zeno Trudo</persName> and as <persName>Bolvan </persName>then said that he
+had reed Orders to receive the Amount of the goods sold, <persName>Mr. Zeno</persName>
+Order.d that <persName>Kendle </persName>should make oath whether he had given such
+Orders or not as my <persName>agent </persName>and that If <persName>Mr. Kendle</persName> had never given
+Orders <persName>Mr. Vinsans</persName> should pay the balance which was at that time
+64$. <persName>Mr.  Kendle </persName>can now say whether he given Orders to <persName>Bolvan</persName>
+or not to receive the Money from <persName>Vinsans</persName>&#8212;this oath he did take in
+<date n="04-xx-1800">April <hi rend="italic">1800</hi></date>. but the business was not settled nor the Money <hi rend="italic">Ever
+received</hi>&#8212;</p>
+
+<p>[Moses Austin.]</p>
+
+<p>[Endorsed:] Memorandum to <persName>Mr Carr</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

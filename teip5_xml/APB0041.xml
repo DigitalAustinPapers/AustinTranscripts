@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0041">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Antoine Soulard to Moses Austin, 05-01-1800</title>
+            <author>
+                <persName>Antoine Soulard</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Louis, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 54
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1800-05-01">05-01-1800</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning survey of Austin's grant. Advises compromise to save difficulty.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St Louis</placeName> <date when="1800-05-01">May 1st. 1800</date></p>
+<p>Sir</p>
+
+<p>I just this moment received your favor of the <date when="1800-04-25">25th of April</date> and
+will immediately answer to it not in an official but in a more familiar
+way and Consequently easier to tell you my opinion. I should
+have Left this to go Down to you if <persName>Mr Robidoux</persName>'s Bateau which
+is to set off in about eight or ten Days did not Detain me here upon
+the account of some Indispensable Business I shall Start 
+immediatly after its Departure to go down to See you. I should 
+extremely be Desirous that before that time you might inform me
+provided you have an opportunity whether <persName>Mr Fr[anc]is Vallé</persName>
+as <persName>Commandant </persName>and others who hold an interest in the <placeName>mines </placeName>have
+agreed with you to have your Lands Survey'd in a Way that will
+prevent all Difficulties which might arise if you Still would insist
+to have them Survey'd agreably to the plan which you have 
+presented to Government in that manner</p>
+
+<p>My going down to the <placeName>mines </placeName>Should'nt have been [A third of the
+page is here torn away] has brought envy upon you Some would
+perhaps See you out of the Country Distroy the unjust Cabal risen
+against you Sacrifice Something to be Definitively put in possession
+of the Square League which has been Granted to you at the <placeName>mines</placeName>
+you are established upon it and your Situation will become every
+Day more interesting the More there will be people and the better
+you will be yourself a french proverb Says that flys are not Caught
+with Vinegar Kindness with people with whom you Live if you
+mean to Do one Day as you please Speak to Day as they Do Speak
+Bad people Can nether take off from you the Superiority of your
+talents nor your industry Sacrifices I say it again establish yourself
+in a Solid manner expect every thing from your perseverance and
+time</p>
+
+<p>Unless I receive Some particular orders from the <persName>Lieut Governor
+</persName>I shall set off agreably to your letter just after the Departure of <persName>Mr.
+robidoux</persName>'s Boat&#8212;try before that to write to me whether you have
+made the agreements with the Gentlemen and in the Contrary [torn
+as on preceding page.] . . . terminate nothing.</p>
+
+<p>I never Doubted your Delicacy and Do think that you will act
+with me as I have a right to expect a word from you before my
+Leaving this would have saved trouble to me and to you expenses
+without profit and do every thing to prevent the Same 
+Inconveniences for this time</p>
+
+<p><persName>Ante Soulard</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0038">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, 11-11-1799</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 49
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill for Ferriage</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1799-11-11">11-11-1799</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Moses Austin due to Prue &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Moses Austin Esqr</persName> to <persName>Prue and C0</persName> Dr</p>
+
+<p><date n="xx-xx-1799">1799</date></p>
+
+<p><date when="1799-03-04">March   4th</date> to ferryages for <persName>Negro</persName>__________________________________   0 90</p>
+
+<p><date when="1799-03-05">5</date> to ferryage for Pork and Bees (?)________________________   0 75</p>
+
+<p><date when="1799-03-07">7</date> to ferryage for Hors_____________________________________    2 00</p>
+
+<p><date when="1799-03-11">11</date> to 2 ferryage for <persName>Jack</persName>___________________________________    0 90</p>
+
+<p><date when="1799-03-31">31</date> to ferryage for <persName>Jack </persName>and Pork____________________________    1 25</p>
+
+<p><date when="1799-04-12">Apl      12</date> to ferryage for one Mule__________________________________    1 50</p>
+
+<p>to 2 ferryages for <persName>Wm Dunn</persName>______________________________    0 90</p>
+
+<p><date when="1799-04-19">19</date> to ferryage for <persName>Elias Bates</persName>_______________________________    0 40</p>
+
+<p>to Half ferryage of 2 Cows and Calves_____________________    2 50</p>
+
+<p><date when="1799-08-05">August  5 </date>to ferryage for Self and Hors____________________________    2 00</p>
+
+<p><date when="1799-08-16">16</date> to Half ferryage for Self and Hors_______________________    1 25</p>
+
+<p><date when="1799-07-03">July       3</date> to ferryage for Self and <persName>Strother</persName>_________________________    0 80</p>
+
+<p><date when="1799-11-11">Novr.   11</date> to 2 ferryages and Sundryes for <persName>B Bates</persName>___________________    1 25</p>
+
+<p>16.40</p>
+<p>Discount_______________________________________________________   3 10</p>
+
+<p>$13.30</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

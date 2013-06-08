@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0034">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen Austin to James Austin, 12-24-1798</title>
+            <author>
+                <persName>Stephen Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-21">06-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Daniel Hall 
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadelphia, PA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin Ville Lead Mines, VA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 45
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1798-12-24">12-24-1798</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Daniel Hall and Harry Elliot.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philada </placeName><date when="1798-12-24">24th Decr 1798</date></p>
+<p><persName>Mr James Austin</persName></p>
+
+<p>Dear Sir the <persName>Bearer </persName>is <persName>Mr Daniel Hall </persName>the young Man who I
+have before informd you of who I have engaged as a <persName>Blacksmith </persName>for
+Twelve Months&#8212;I believe you will find him a Very Steady Man
+and all the Blacksmith work that is wanted our Selves will be the
+first object then Let him do all other Work that offers from others
+that will pay he Can do&#8212;he is a good Edge Tool Maker Axes in
+Particular therefore he can always be Imployd at that when nothing
+els offers&#8212;and as <persName>old Jn°</persName> is such a Thief I would have you put him
+to Work at the <placeName>Mill </placeName>and Never Let him Come in the <placeName>Smith Shop</placeName> at
+all and I think best to put young <persName>Ambrose </persName>in if he will promise to
+Attend to Learn the Trade&#8212;and <persName>Mr Hall</persName> in his articles has Engaged
+to Learn a Man&#8212;</p>
+
+<p>the other young Man is My <persName>Nephew </persName><persName>Harry Elliot</persName> who I have took
+to bring up untill he is 21 year old he wants Much Improvement
+and I will thank you to keep him at Writing a[t] Night and at
+Cyphering&#8212;he will be usefull to you and is to attend to all the
+Bussiness going&#8212;will thank your attention to him&#8212;and to Live with
+you and <persName>Mr Hall</persName> at the <placeName>Tavern </placeName>I have gave <persName>Mr Hall</persName> Forty Dollar
+to bear his and <persName>Harry </persName>Expence which I expect will be More than
+they will Spend and when they Give you the Account of their
+Expences <persName>Mr Hall</persName> will give you the Ballance&#8212;of which Please
+Inform me&#8212;I shall as soon as Possible Send you some Money but
+as <persName>Charles </persName>has not got any Shot here to Raise Money I am very
+much in Want we are all Well and the family Joins in best Respects
+to <persName>Mrs A</persName> and Self <persName>Mr Sanders</persName> and others</p>
+
+<p><persName>S Austin</persName>.</p>
+
+<p>[Addressed] <persName>Mr James Austin</persName> <placeName>Austin Ville Lead Mines</placeName> Card by
+<persName>Mr Hall</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
