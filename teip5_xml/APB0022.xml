@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0022">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin, Thomas Norvell, and Parsons Bates to Unknown, 04-20-1796</title>
+            <author>
+                <persName>Moses Austin, Thomas Norvell, and Parsons Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-12">06-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 28-29
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Partnership Agreement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1796-04-20">04-20-1796</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Moses Austin, Parsons Bates, and Thomas Norvell.   Button factory at Richmond.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Partnership Agreement</p>
+
+<p>Memorandum of an agreement made and enterd into this <date when="1796-04-20">20th. day
+of april 1796</date> Between <persName>Moses Austin</persName> on the one part and <persName>Thomas
+Norvell</persName> and <persName>Parsons Bates</persName> of the other Witnesseth That the said
+<persName>Austin </persName>and the said <persName>Norvell </persName>and <persName>Bates </persName>doth covenant and agree each
+with the other to establish a button manufactory in the city of 
+<placeName>Richmond </placeName>which shall be under the firm [name] of <persName>Parsons Bates and
+Company</persName> to continue for the term of one year from the date hereof
+under the management of the said <persName>Norvell and Bates</persName> as follows the
+said <persName>Bates </persName>shall attend to the workmanship in said factory with the<pb n="29"/>
+strictest attention for the benefit of said <persName>company </persName>and the said 
+<persName>Norvell </persName>shall attend to the out business with the strictest attention for
+the interest of said <persName>company </persName>and shall open a sett of books and keep
+such account as shall appear necessary for the advantage of the
+company and all expences arising necessarily for the advantage of
+the business shall be equally devided and paid by each and at the
+experation of the year the books shall be settled up, and the profits
+or losses shall be equally shared after paying the said <persName>Austin </persName>out of
+the joint stock such advances as he shall make in furnishing and
+keeping the business supplyd with the necessary stock. The said
+<persName>Austin </persName>doth agree on his part to furnish the <persName>company </persName>with as
+much stock as shall be necessary to put the said business in motion
+and keep it supplyd untill it shall be enabled to make such advances
+as may be necessary for the carrying on said business to advantage
+the said <persName>Austin </persName>doth also agree to furnish a <placeName>store house</placeName> free from any
+expence to the <persName>company </persName>for the purpose of Carrying on said business</p>
+
+<p><persName>Thomas Norvell.</persName>                  [seal]</p>
+
+<p><persName>Parsons Bates</persName>                     [seal]</p>
+
+<p><persName>Moses Austin</persName>    [Rubric]    [seal]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
