@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0184">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Joel Tatum to Moses Austin, 04-01-1811</title>
+            <author>
+                <persName>Joel Tatum</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 186-187
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-04-01">04-01-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Joel Tatum to Moses Austin &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Mr Joel Tatum</persName>
+<persName>To Moses Austin and Co.</persName>   Dr</p>
+
+<p><date n="xx-xx-1811">1811</date></p>
+
+<p><date when="1811-01-11">Jany 	11</date>	To I Knife 25 Cents_______________________	 . 25
+
+	<date when="1811-01-31">31</date> 	1 doz needles 12 1/2_______________________       . 12 1/2</p>
+
+<p><date when="1811-02-16">Feby 	16</date> 	1 qt Bottle do____________________________       . 50
+
+<date when="1811-02-16"> "  	1 </date> 	pt whiskey________________________________       . 25</p>
+
+<p><date when="1811-03-01">March 1</date> 	2 Dressed Skins 3$________________________      3. 0
+
+		To Cash paid you 16$______________________     16. 0
+
+		To Medisin While Sick 1$50________________      1. 50
+
+	<date when="1811-02-03">2</date> 	To 1 Bottle Peppermint 50_________________      0. 50
+
+	<date when="1811-03-02">22</date> 	To 1 Bottle <persName>Bateman</persName>s drops________________       . 75
+		   1 Knife delivered <persName>Donald</persName>_______________       . 50<pb n="187"/>                  
+									    __________
+									    $23. 37 1/2</p>
+		
+		To Chest Lock_____________________________       . 37 1/2
+
+									    $23. 75		$23. 75
+	
+		To Order on <persName>Andrews</persName>____________________________________      10.  0
+
+			Cash 4/25 and <persName>John Tubbs</persName> 5$______________________       9. 25</p>
+
+<p><date n="xx-xx-1811">1811</date>                                                                    $43.  0
+												________Cr   </p>
+                                                                                                    
+
+<p>		By 1$ month work @ 16$______________________    24. 0</p>
+
+<p><date when="1811-03-01">March 1</date> 	By Cash recvd 1$____________________________     1. 0
+
+		By Charge in furnace________________________     1. 50
+
+		By Work on Sunday 50________________________      . 50
+										_______
+									     $27. 0   	 27. 0</p>
+<p><date when="1811-04-01">April 1</date> By a month Work 16_________________________________________      16. 0
+												_________
+												$43.  0</p>
+
+<p><persName>Joel Tatum</persName> account <hi rend="italic">$43 Settled</hi> <date when="1811-04-02">2d April</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
