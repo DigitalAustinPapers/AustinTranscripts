@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0059">
+xml:id="APB0063">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Moses Austin to Unknown, 06-02-1801</title>
+            <title>James Miller to Unknown, 10-31-1801</title>
             <author>
-                <persName>Moses Austin</persName>
+                <persName>James Miller</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -41,14 +41,14 @@ xml:id="APB0059">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Philadelphia, PA</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 75
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 79
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0059">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Price List</channel>
+            <channel mode="w">Financial Statement</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0059">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1801-06-02">06-02-1801</date>
+            <date when="1801-10-31">10-31-1801</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,44 +81,41 @@ xml:id="APB0059">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Commerce.</add></p>
+            <p><add hand="#barker">Sugar shipped from New Orleans to Philadelphia on account of Kaskaskia merchant.</add></p>
         </div1>
         <div1 type="body">
             
 
+<p>Sales of 13 Hhds Muscovado Sugar Shipt by <persName>John F. Merieult
+Esqr.</persName> <placeName>New Orleans</placeName> <placeName>on board the Schooner Nancy</placeName> <persName>John Smith
+Masr. for account of <persName>Doctor George Fisher</persName> <placeName>Kaskaskea</placeName></persName>&#8212;</p>
 
-<p>Dr.  <persName> Mr. Moses Auston</persName> in Account Currt with <persName>William Stephen</persName> <date n="xx-xx-1801">1801</date></p>
+<p><date n="xx-xx-1801">1801</date></p>
+<p><date when="1801-09-09">Sepr 9th</date>   <persName>William Rogers</persName> at 75 days credit.
+		13 Hhds- Wt______135 0 27
+		Tr 12 pc__________14 1 27
+					120 3 0 V iz $9. Pct________________1086. 75</p>
 
-<p>June 2   To the Amount of your Acct as per Anext Bill of Parcels___ $625.1 1/2
-           to Commission and Storage_____________________________     57.2 1/2
-           "   Cartage___________________________________________     10.
-           "  Cash paid <persName>George fisher</persName>____________________________    600.
-           "    do    do    <persName>Robert friend</persName>________________________     61.5
-           "Commission  on $305__________________________________      7.5
-           " the Amot of <persName>frederick Beck</persName> acct_____________________     67.1</p>
+<p>Charges V[iz]
+Bonds at <placeName>Custom House</placeName>___________   $1.
+Duty____________________________  333.
+Freight and primage_____________  204. 75
+Ditto from Lazeretto____________    6. 50
+Cooperage_______________________    4. 47
+Porterage_______________________    4. 33
+Advertising_____________________    2. 33
+<placeName>Custom House</placeName> charge for weighing_   1. 35
+Commission 5 pct________________    54.33
+</p>
+<p>					     612.6</p>
 
-<p>											 $1428. 7</p>
+<p>Net proceeds payle <date when="1801-11-26">26th Nov.</date>_____  474.69</p>
 
-<p>Cr                                                                     E. E.</p>
+<p>Errors and outstanding Debts Excepted <placeName>Philadelphia</placeName>, <date when="1801-10-31">31st Octor.</date></p>
+<p><date n="xx-xx-1801">1801</date></p>
 
-<p>By Amout of Sale of 5241 lbs of shot</p>
+<p><persName>Jas Miller  </persName>  [Rubric]</p>
 
-<p>By     do    do      2261 " lead   ______________________________   $765 18</p>
-
-<p>By 3059 lbs shott_______    ____10$______________________________    305 90</p>
-
-<p>By his draft on <persName>Mr.  Merrieult</persName>___________________________________    200</p>
-
-<p>By____do__________do_____________________________________________     67 1</p>
-
-<p>By Ballance due W. <persName>Stephen</persName>_______________________________________     90 6</p>
-
-<p>											 $1428 7</p>
-
-<p><placeName>New Orleans</placeName> the <date when="1801-06-02">2 June 1801</date></p>
-
-<p>[Endorsed:] Examin'd and Enter'd   Settled</p>
-<p>                                 ____</p>
 
         </div1>
     </body>

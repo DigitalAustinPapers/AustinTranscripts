@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0074">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Richardson, 08-02-1803</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-24">06-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Richardson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Burton Mine, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 85
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1803-08-02">08-02-1803</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting a demonstration by American residents celebrating the taking over of government in Missouri by the French.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mine a Burton</placeName>,</p>
+
+<p><date when="1803-08-02">Augst 2nd 1803</date></p>
+<p>My Dear Sir</p>
+
+<p>I have for a long time wished to see you, but from a number of
+causes I have been prevented, I think the contemplated change of
+our <persName>Government </persName>Demands the attention of every <persName>American </persName>and that
+by a well timed union of opinion and <hi rend="italic">measures </hi>the situation of the
+<persName>Americans </persName>in the country may be changed I think its likely that the
+<persName>French Government</persName> will be ready to take such steps as will be most
+likely to extend the improvements of this <placeName>Country </placeName>I have thought
+that if the <persName>Americans </persName>were to form something like a <hi rend="italic">committee </hi>to
+form a congratulatory address to be presented to our <persName>New Officers</persName>
+and at the same time stating the many advantages that would accrue
+from a proper encouragement of <hi rend="italic">commerce </hi>and agriculture, it would
+have a good effect, and I think it would bring the <persName>Americans </persName>into
+notice If you think with me and are of the same opinion, you will
+be so good as to write me. But if not then you will destroy this
+letter and consider it of no consequence; I depend on your honor in
+keeping within your Breast what I have mentioned, until such time
+as it may be properly mentioned, be assured my dear Sir I have 
+nothing in View but to render the <persName>Americans </persName>in the <placeName>country </placeName>as respectable
+as possible, and to do this I think due attention ought to be given to
+the <persName>Officers </persName>of the <persName>new Government</persName> on their arrival; for in my
+opinion the first impressions are always the best</p>
+
+<p>I am Dear Sir With Respect</p>
+<p>Yours</p>
+
+<p><persName>M. Austin</persName></p>
+
+<p><persName>James Richardson Esq.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

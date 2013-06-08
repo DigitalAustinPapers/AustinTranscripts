@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0059">
+xml:id="APB0062">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Moses Austin to Unknown, 06-02-1801</title>
+            <title>Pascal Detchemendy to Moses Austin, 10-26-1801</title>
             <author>
-                <persName>Moses Austin</persName>
+                <persName>Pascal Detchemendy</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB0059">
 
                 <person>
                     <persName type="recipient">
-                        Unknown
+                        Moses Austin
                     </persName>
                 </person>
 
@@ -48,7 +48,7 @@ xml:id="APB0059">
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 75
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 79
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0059">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Price List</channel>
+            <channel mode="w">Bill and Price List</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0059">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1801-06-02">06-02-1801</date>
+            <date when="1801-10-26">10-26-1801</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,44 +81,32 @@ xml:id="APB0059">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Commerce.</add></p>
+            <p><add hand="#barker">Pascal Detchemendy in account with Moses Austin.</add></p>
         </div1>
         <div1 type="body">
             
 
+<p><persName>Pascal D Emandey</persName> [Detchemendy]</p>
+<p>To <persName>Moses Austin</persName> Dr.</p>
 
-<p>Dr.  <persName> Mr. Moses Auston</persName> in Account Currt with <persName>William Stephen</persName> <date n="xx-xx-1801">1801</date></p>
+<p>To Your Note payable to <persName>Stephen Austin</persName> <placeName>Philadelphia </placeName><date when="1797-09-13">Sept. 13, 1797</date>__       $391.95
+To Cash paid for Protest in <placeName>Philada</placeName>_________________________________          2.24
+												   $394.19</p>
 
-<p>June 2   To the Amount of your Acct as per Anext Bill of Parcels___ $625.1 1/2
-           to Commission and Storage_____________________________     57.2 1/2
-           "   Cartage___________________________________________     10.
-           "  Cash paid <persName>George fisher</persName>____________________________    600.
-           "    do    do    <persName>Robert friend</persName>________________________     61.5
-           "Commission  on $305__________________________________      7.5
-           " the Amot of <persName>frederick Beck</persName> acct_____________________     67.1</p>
+<p>To Interest on $394 19 cents from <date when="1797-09-13">Sept 13 1797</date> Up to <date when="1801-10-26">October 26
+	 1801</date> is 4 years 1 Month 13 Days @ 10 pr________________________      103. 45
+To Cash paid Expences in <placeName>New Orleans</placeName>_________________________$16.12 1/2
+To Expences paid <persName>Francis Valle Esqr</persName>___________________________________        9.  0
 
-<p>											 $1428. 7</p>
+										   $16.12 1/2   $566. 64
 
-<p>Cr                                                                     E. E.</p>
+To Cash Due on last payment_________________________________     2.  0
+										   $18.12 1/2
+	 Payable in Cash______________________________________    18.12 1/2</p>
 
-<p>By Amout of Sale of 5241 lbs of shot</p>
+<p>Cr. Credit   By Cash and Lead__________________________________________      391.95</p>
 
-<p>By     do    do      2261 " lead   ______________________________   $765 18</p>
-
-<p>By 3059 lbs shott_______    ____10$______________________________    305 90</p>
-
-<p>By his draft on <persName>Mr.  Merrieult</persName>___________________________________    200</p>
-
-<p>By____do__________do_____________________________________________     67 1</p>
-
-<p>By Ballance due W. <persName>Stephen</persName>_______________________________________     90 6</p>
-
-<p>											 $1428 7</p>
-
-<p><placeName>New Orleans</placeName> the <date when="1801-06-02">2 June 1801</date></p>
-
-<p>[Endorsed:] Examin'd and Enter'd   Settled</p>
-<p>                                 ____</p>
+<p>             Due payable in Lead_________________________________________   $174.69</p>
 
         </div1>
     </body>
