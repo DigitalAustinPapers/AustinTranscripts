@@ -220,7 +220,7 @@ SGMR29HEREDOCTOKEN511
     print "domain:$domain\n";
 
     my $newContents = <<SGMR29HEREDOCTOKEN124;
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="Windows-1252"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
