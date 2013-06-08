@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0004">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas Ruston to Moses Austin, 09-23-1794</title>
+            <author>
+                <persName>Thomas Ruston</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-09">06-09-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Jos: Burr
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadelphia, PA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 11-12
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1794-09-23">09-23-1794</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Virginia land warrants and other speculations.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philadelphia </placeName><date when="1794-09-23">Sept: 23d: 1794</date>.</p>
+<p>Sir</p>
+
+<p>The <persName>bearer </persName><persName>Mr Jos: Burr</persName> is a gentleman, who has been in the
+practice of attending surveys of land, for the purpose of making
+observations on the soil, situation, climate, waters, rivers, timber,
+mines, and such other things as may tend to give a compleat and
+perfect knowledge of their nature and value. It is with this view
+I have sent him on to view the lands we are taking up in the 
+<placeName>neighbourhood of the mines</placeName>, and have committed to his care <placeName>Virginia</placeName>
+Warrants for Two Hundred Thousand Acres of land in addition to
+the Ten Thousand Acre Warrants, which I forwarded before, and
+which you have recd-</p>
+
+<p>In your letter of the <date when="1794-08-16">16th. of August</date> which I have recd. you 
+mention two propositions with respect to the terms upon which you
+wish the land to be taken up, one with regard to the first, the other
+respecting the second Two Hundred Thousand Acres, and you say
+that you had agreed to let the <persName>surveyor </persName>have 80,000 out of the first
+<placeName>two Hundred Thousand Acres</placeName>, he paying the expences. do you mean
+the <persName>surveyor</persName>s fees, <persName>chain carrier</persName>s, and other incidental expences.
+With regard to your two propositions, I do not see the propriety of
+your making any distinction betwixt them, the expense and trouble
+attending the one will be as great as that of attending the other; and<pb n="12"/>
+no more, besides, in all the <placeName>lands </placeName>I have taken up in <placeName>Pennsylvania</placeName>,
+which have amounted to <placeName>many hundred Thousand Acres</placeName>, I have
+never been asked by the <persName>discoverers </persName>for more than a third, some
+times a fourth, sometimes a fifth, and it is always the business of the
+<persName>discoverers </persName>(in which capacity you and <persName>Mr Gnes [Gains?]</persName> are to be
+considered) to attend and to superintend the surveys. This third the
+<persName>discoverers </persName>divide betwixt themselves in such manner as they can
+agree, and as they think proper. In a former letter you hinted, that
+you thought it would be more agreeable to the <persName>Surveyor </persName>to have a
+compensation in money, to this I shall have no objection if we can
+agree upon the sum, and I shall have no objection to do the same
+thing with you if it is agreeable. I have accepted your draft for
+five hundred Dollars towards paying for the <placeName>Kentucky </placeName>Warrants
+as you desire. As soon as the <persName>Surveyor </persName>has made out the returns <persName>Mr.
+Burr</persName> will proceed with them to <placeName>Richmond </placeName>in order to obtain the
+Patents.</p>
+
+<p>N. B. <persName>Mr Norwell</persName> has not brot the deed either from <placeName>Lynchburgh</placeName>
+or from <placeName>Richmond</placeName>-</p>
+
+<p><persName>Thos. Ruston</persName></p>
+
+<p>Take care you do not buy more Warrants than you can find land
+for.</p>
+
+<p>Point out to <persName>Mr Burr </persName>those tracts in the <placeName>neighbourhood </placeName>that are to
+be disposed of, in order that he may be able to give me some account
+of them, and send me the lowest prices and the longest terms of 
+payment which the owners will be willing to take—</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

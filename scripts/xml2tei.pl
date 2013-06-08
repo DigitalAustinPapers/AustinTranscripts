@@ -73,6 +73,8 @@ while (scalar(@ARGV) != 0)
     close FILE;
 
     $fileContents =~ s/\r//g;
+    $fileContents =~ s/&/&amp;/g;
+    $fileContents =~ s/&amp;amp;/&amp;/g;
     
     my $textId="TODO";
     my $title ="TODO";
