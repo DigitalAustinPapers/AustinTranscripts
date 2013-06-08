@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0079">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Morse to Moses Austin, 11-18-1803</title>
+            <author>
+                <persName>William Morse</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-24">06-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 89-90
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1803-11-18">11-18-1803</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">William Morse in account with Moses Austin &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>William Morse</persName></p>
+
+<p>To <persName>Moses Austin &amp; Co</persName> Dr-</p>
+
+<p><date n="xx-xx-1803">1803</date></p>
+
+<p>Novr 18th To 1 1/2 Ells Callico 175_____________________    262 1/2</p>
+
+<p>1 1/2   do        do     150_____________________________   225</p>
+
+<p>1/2  lb powder 250 ______________________________________   125</p>
+
+<p>1/4  lb pepper 150_______________________________________   037 1/2</p>
+
+<p>2  lb Coffee 100_________________________________________   200</p>
+
+<p>1 Ell fine linen 250_____________________________________   250</p>
+
+<p>3/4  Ell  do    do   250_________________________________   95</p>
+
+<p>1 lb Copperas 50_________________________________________   50</p>
+
+
+<p>										1245<pb n="90"/></p>
+
+<p><placeName>Mine a Burton</placeName></p>
+
+<p>The above goods was delivered <persName>Mr. Benjanion Johnson of <placeName>Sandy
+Creek</placeName></persName>&#8212;in Consequence of an Order presented by <persName>Mr B. Johnson</persName>
+from <persName>Mr. Morse</persName> for Twenty Dollars</p>
+
+<p>[Endorsed:] <persName>William Moss</persName> Account and Order</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
