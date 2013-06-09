@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0326">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 03-02-1819</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 337
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memoranda</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-03-02">03-02-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Memoranda by Stephen F. Austin concerning land speculations.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <placeName>New Madrid</placeName> Claim Speculation</p>
+
+<p><date n="xx-xx-1819">1819</date>
+<date when="1819-01-30">January 30</date> 	To <persName>George Tennille</persName> for the one half of claims N° 6 416 415 of
+               640 acres each and N° 431. of 200 arpents at 10 Dolls pr
+		   acre and arpent for which I gave my notes payable in 1- 2-
+		   3- 4- and 5 years after date.
+		   <persName>J. H. Ficklin</persName> <persName>witness</persName>______________________________________		7400
+			Assumed to be paid by <persName>James Bryan</persName>
+<date when="1819-02-25">February 25</date>	To <persName>W. M. Ohara</persName> for the one half of claims N° 264- N° 33 of
+              160 acres each and N° 133 of 200 arpents at 5$ pr acre and
+		  arpent for which a mortgage of this date is given on said
+              half of said claims payable 6 and 12 months in 2 notes______		1300
+         
+            <persName>W. M. Ohara</persName> Dr to <placeName>Madrid </placeName>Specan for the 1/8 of claim N° 431___     	 300
+		  Sold to <persName>Jas Bryan</persName>
+		<persName>Robert Andrews</persName> Dr to <placeName>Madrid </placeName>Spen for a share of claim N°
+              33 for which he gave his note payable in 12 months to <persName>W. M.
+              Ohara</persName> and <persName>S. F. Austin</persName> for 200 $ half of which sum with
+              interest is mine that is to say_____________________________           100
+		<placeName>Madrid </placeName>Specun Dr to Expense a/c for my expences at <placeName>St.
+              Louis</placeName> attending to the locations from the <date when="1819-02-23">23d February
+              1819</date> to the <date when="1819-02-27">27th same month</date>_________________________________            10. 00</p>
+
+<p>I have this day <date when="1819-02-26">February 26</date> given a power of Attorney to <persName>W. M.
+Ohara</persName> to purehaee any amount of <placeName>Madrid claims</placeName> and locate them for
+our joint a/c and I have received a power from him to lay out Towns
+and sell lots on the claims we hold jointly</p>
+
+<p>I have also a verbal agreement with <persName>George Tennille</persName> to furnish me
+with all the claims he can get, which I am to locate for our joint
+benefit for the half of which I am to pay him 10 Dolls pr acre in 5
+years</p>
+
+<p>This day <date when="1819-03-22">March 22d 1819</date> I settled with <persName>T. Ballard</persName> and agreed to
+pay <persName>J. Bryan</persName> seventy five Dollars and <persName>P. Thurman</persName> one hundred 
+Dollars for him and close all demands on both sides also to pay 85 to <persName>S. P.
+and C° [Samuel Perry &amp; Co.]</persName></p>
+
+<p>[Stephen F. Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

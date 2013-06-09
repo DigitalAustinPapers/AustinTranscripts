@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0329">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to State of Missouri, 03-15-1819</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        State of Missouri
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 340
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bond</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-03-15">03-15-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin to answer to charge of trespass.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Know all men by these presents that we <persName>Stephen F. Austin</persName> as
+principle and <persName>Robert C Bruffey</persName> as Security are held and firmly
+bound unto <persName>Daniel Dunklin Sheriff of <placeName>Washington County</</placeName>person_mentioned> in the
+penal sum of three hundred Dollars lawful money of the <placeName>United
+States of America</placeName></p>
+
+<p>The Condition of the above obligation is such that if the above
+bound <persName>Stephen F. Austin</persName> shall be and appear before the <persName>Judge of
+the Circuit Court</persName> at a Court to be held at the <placeName>Court House in the
+Town of Potosi</placeName> in and for said county on the <date when="1819-07-19">third Monday of
+July</date> next then and there to answer <persName>Robert Peter Guyard</persName> of a plea
+of trespass on the case and to his damage five hundred Dollars.
+And if Judgment be rendered against him at that or any subsequent
+Term that he will pay the Debt damages and Costs or that the said
+<persName>Robert C. Bruffey</persName> will do it for him, then and in that case this
+Bond to be null and void otherwise to remain in full forced and
+effect at law-</p>
+
+<p>Given under our hands and Seales this <date when="1819-03-15">15th day of March 1819</date></p>
+
+<p><persName>Stephen F Austin</persName>     seal</p>
+<p><persName>Robert  C.  Bruffey</persName>   seal</p>
+
+<p>I do hereby certify that the within Bail Bond is a True copy of
+the original fild in the <placeName><persName>clerk</persName>s office</placeName></p>
+
+<p>Witness <persName>John Jones Clerk of the Circuit Court</persName> at office this <date when="1821-06-04">4th
+day of June A D 1821</date>   Indepencence of the U. S. 45th</p>
+
+<p><persName>D Dunkun Dpy Clk</persName>
+per <persName>Jno Jones clk</persName>.</p>
+
+<p><placeName>State of Missouri</placeName></p>
+
+<p>I <persName>John Rice Jones Judge of the Supreme Court of the said <placeName>State
+of Missouri</placeName></persName> do hereby certify&#8212; that <persName>Daniel Dunklin</persName> who signed
+the above is <persName>deputy </persName>to <persName>John Jones Clerk of the Circuit Court of
+the <placeName>County of Washington</placeName></persName> in the said State&#8212; And I further
+certify that by the laws of the late <placeName>Territory of Missouri</placeName> which are
+now in force in the State no special bail is to be taken, but that
+the bail Bond given to the <persName>Sheriff </persName>is to stand as such, on which in
+case of Judgment agt the Defendant and non est returned to a case
+issued against him a fiere facias is to be issued against the bail who
+is responsible as such&#8212;</p>
+
+<p>Dated the <date when="1821-06-10">10th day of June 1821</date></p>
+
+<p><persName>Jno Rice Jones</persName>   seal</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

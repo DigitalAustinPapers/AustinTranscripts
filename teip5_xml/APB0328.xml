@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0328">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to William M. O'Hara, 03-10-1819</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William M. O'Hara
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Potosi, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St. Louis, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 339
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-03-10">03-10-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Dr. Robert Andrews. Land business in Arkansas. Establishment of Little Rock.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir                                       <placeName>Potosi </placeName><date when="1819-03-10">March 10,1819</date></p>
+
+<p>This will be handed to you by my Friend <persName>Doctor Robert Andrews</persName>,
+with whom I have made an arrangement (subject to your 
+confirmation), which I think will be for the mutual advantage of us all.</p>
+
+<p><persName>Doctr. Andrews</persName> had it [in] contemplation to locate a place with in
+four miles of our <placeName>Ouchitaw </placeName>location on the <placeName>Caddo River</placeName> where he 
+intended to lay off <hi rend="italic">a Town</hi>, but declined it after we made ours altho he
+thinks that a Town might be layed off there to advantage,&#8212;a Town
+there would certainly interfere some with ours&#8212;I have therefore
+agreed to let him become interested in our <placeName><hi rend="italic">Ouchitaw </hi></placeName>location <hi rend="italic">one
+Eighth </hi>by his paying that porportion of the cost of the claim in twelve
+months&#8212; and also in consideration of his agreeing to go immediately
+down to that country (with authority from <persName>Genl Rector</persName> to survey
+the claims if he will give it) and to survey all our locations, lay off the
+Town at the <placeName>Little Rock</placeName>, at the <persName>Ouchitaw </persName>and on <persName>Red River</persName></p>
+
+<p>he is fully competent to this business and it will be some object for
+us to have our Towns in Market <hi rend="italic">immediately</hi>&#8212;the contract I have
+made is to let him be interested one Eighth in our <placeName>Ouchitaw </placeName>location
+as above stated&#8212;give him two lots if he draws, or one if he chooses it,
+in the <placeName><hi rend="italic">Little Rock</hi> Town</placeName>&#8212; this contract however is subject to your
+sanction, or rejection, as I think if he becomes interested, we aught
+<hi rend="italic">both </hi>to relinquish a part as it will be for our joint benefit&#8212;if you
+approve of the arrangement therefor you can take his note for the
+Money and give <hi rend="italic">a Bond</hi> in our joint names, for the <hi rend="italic">title</hi>.</p>
+
+<p>Make every exertion to get an order of survey and to get <persName>Andrews</persName>
+appointed the <persName><hi rend="italic">Surveyor</hi></persName>&#8212;but do not let it be known that he is 
+interested in the location,</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:]<persName> Mr. William M. O'hara</persName> <placeName>St. Louis</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

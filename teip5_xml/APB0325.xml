@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0325">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, 02-26-1819</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Potosi, Washington County, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 336-337
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Advertisement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-02-26">02-26-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advertisement of auction sale of land and town lots in and adjoining Potosi.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Notice! An Advantageous Speculation in Land.<hi rend="italic">At Auction?</hi></p>
+
+<p>On the <date when="1819-03-15">third Monday of March next</date> at the Town of <placeName>Potosi</placeName>, (being
+Court week for <placeName>Washington County</placeName>,) I shall offer for sale a 
+Thousand acres of land, commencing near the <placeName>court House</placeName>, and extending
+along the <placeName>Boon's Lick Road</placeName>, divided into Lots of from one to a
+Hundred acres each. The land I now offer for sale is included in my
+<placeName>Mine A Burton</placeName> Survey, and of good quality. Persons wishing to
+possess themselves of Land either for <placeName>Building Lots</placeName> near the Town,
+or for farming, have now an opportunity to obtain a situation and to
+establish themselves near the <placeName>County town of Washington</placeName> on better
+terms than ever will again be presented to the public in this county.
+The sales will commence after the rising of the <persName>court </persName>on the first and
+second days.&#8212; CONDITIONS OF SALE are, four, six, and nine
+months credit!&#8212; the purchases secured by executing Notes, with
+approved endorsers.&#8212; If purchases for Cash, Bank Stock and Bank
+Notes on the <persName>Bank of St. Louis</persName> will be received at par of 
+Exchange.&#8212;Deeds will be executed so soon as the money is secured, or
+Stock properly transfered to me: and the executing of Notes, and
+transfer of Stock will be expected in two weeks after the purchases,
+or they will be considered as <hi rend="italic">Cash Sales.</hi></p>
+
+<p><hi rend="italic"><placeName>Herculaneum Town Lots</placeName></hi>.</p>
+
+<p>I shall also offer for sale on the <date when="1819-03-22">4th Monday of March</date>, (being
+court-Day,) a number of Lots in the Town of <placeName>Herculaneum</placeName>.&#8212;This
+town having become the county seat, for <placeName>Jefferson County</placeName>, and 
+advantageously situated for business on the <placeName>banks of the Mississippi</placeName>,
+will soon become a place of first consequence.&#8212;I shall close the sale
+of Lots in <placeName>Herculaneum </placeName>on the first and second days of court.&#8212;
+Persons wishing to possess themselves of Lots, had better now come 
+forward and embrace the present opportunity to purchase. 
+CONDITIONS OF SALE, three, six, and eight months credit!&#8212;If 
+purchased for cash Bank Stock and Bank Notes on the <persName>Bank of St.
+Louis</persName> will be taken <hi rend="italic">at par.</hi>   The cash purchases must be secured by<pb n="337"/>
+Notes with approved endorsers, and if not executed in ten days from
+the purchase, or the stock properly transferred, will be considered as
+Cash Sales.</p>
+
+<p><persName>Moses Austin </persName>   [Rubric]</p>
+<p><placeName>Potosi Washington County</placeName> <date when="1819-02-26">26th February 1819</date></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
