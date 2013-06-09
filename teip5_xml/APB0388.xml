@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0388">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Stephen F. Austin, 05-22-1821</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 393
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-05-22">05-22-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Make preparations for Texan enterprise. Better times approaching.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Herculaneum </placeName><date when="1821-05-22">May 22 1821</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>This letter will be handed you by <persName>Mr Coleman</persName> <persName>Mr Baird</persName>&#8212;and
+<persName>Mr --------- </persName>Young Gentlemen attached to my Enterprise and will
+want some imploy untill my Arrival which you will recommend
+them unto If you can</p>
+
+<p>I wrote you by last Mail that I had recd letters from <placeName>Nacitoch </placeName>of
+the confirmation of my <placeName>Grant </placeName>and the liberty to introduce <persName>(300)
+American Families</persName> This came by <persName>Express </persName>from <placeName>Mexico </placeName>to <placeName>St
+Antonio</placeName> and from thence to <placeName>Nachitoches </placeName>So that I now can go 
+forward with confidence and I hope and pray you will Discharge your
+Doubts, as to the Enterprise and If any means can be commanded
+use your utmost to have every thing brought into motion and a
+vessell ready that no Delay take place everything Depends On 
+expedition I am Detained to make a finish of my business Which I hope
+will take place in a day or two I hope you will make the trip to
+<placeName>Arkensaos </placeName>by the time I arrive raise your Spirits times are 
+changing a new chance presents itself nothing is now wanting but Concert
+and firmness   I am aff Your <persName>Father</persName></p>
+
+<p><persName>Moses Austin</persName></p>
+
+<p>If provisions, can be had, say Bacn and flower they will command
+money in <placeName>St. Antonio</placeName>&#8212;and that immedeately, be on the look out
+and exert yourself with all your power</p>
+
+<p><persName>M Austin</persName></p>
+
+<p>[Addressed:] <persName>Stephen Fuller Austin, Esqr</persName> <persName>Joseph H. Hawkins,
+Esqr.</persName> <placeName>New Orleans</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
