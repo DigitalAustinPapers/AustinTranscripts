@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0285">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Hammond to William Ficklin, 04-12-1817</title>
+            <author>
+                <persName>George Hammond</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William Ficklin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 305
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill of Expense for Wedding Ball</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-04-12">04-12-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Paid by Stephen F. Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>potosi April 12th 1817</p>
+<p>B Bill</p>
+
+<p><persName>George Hammond</persName>
+To <persName>Wm Ficklin</persName> Dr</p>
+
+<p>Cash for candels @_________________________________________    5. 75
+
+Same for shugar @__________________________________________    4. 69
+
+Same for Spice @___________________________________________    4. 00
+
+2  shotes @ 2 E____________________________________________    4. 00
+
+12 doz eggs @ 2____________________________________________    2. 00
+
+6 lb coffee @ 50___________________________________________    3. 00
+
+3 gallons Whiskey @ 2______________________________________    6. 00
+
+2 doz hens @ 3_____________________________________________    6. 00
+
+paid Brinker for flower____________________________________    5. 00
+										 _______			
+										  40. 44     40. 44</p>
+
+<p>32 lb butter @ 20__________________________________________    6. 40
+
+<persName>Negro </persName>heigher______________________________________________    6. 00
+
+2 <persName>fidlers </persName>@ 4______________________________________________    8. 00
+
+dryed fruites @____________________________________________    1. 50
+
+1 lb pepper @ 75___________________________________________     . 75
+
+preserves and cream________________________________________    3. 00
+										 _______
+										  25. 65     25. 65
+												________
+												 66. 09
+
+Advance_____________________________________________________________     25. 00
+												________
+												 91. 09</p>
+
+<p>Cr by <persName>Stephen Austin</persName>_______________________________________   5. 00
+
+by 6 lb coffee @ 50________________________________________   3. 00
+
+6 lb Sugar 31 1/4__________________________________________   1. 87 1/2
+
+1 quire paper______________________________________________    . 37 1/2
+
+5 loads wood @ 1___________________________________________   5. 00
+
+<persName>R Bruffer</persName>__________________________________________________   5. 50
+
+8 days <persName>negro woman</persName>_________________________________________   4. 00
+										___________
+										 24. 75</p>
+
+<p>Amt of debt brot over_______________________________________ 91. 09
+
+										 29. 04
+										___________
+										$62. 05</p>
+
+<p>Amt of cr brot. over________________________________________ 24. 75
+
+3 1/2 bushels Corn @ 75_____________________________________  2. 62 1/2
+										 __________
+										 27. 37 1/2
+1/3 of 100 lbs flower not used______________________________  1. 66 1/2
+										 __________
+										 29. 04</p>
+
+<p>[Endorsed by Stephen F. Austin:] <persName>Wm. Ficklins</persName> a/c of <persName>Ball </persName>given
+for <persName>G. Hammond</persName> at his wedding which was paid for by <persName>S. F Austin.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

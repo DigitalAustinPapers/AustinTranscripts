@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0280">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Sam Perry and Company to Stephen F. Austin, 02-19-1817</title>
+            <author>
+                <persName>Sam Perry and Company</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 301-303
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-02-19">02-19-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin in account with Samuel Perry &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Mr. Stephen F. Austin</persName>
+To <persName>Saml Perry and Co</persName> Dr</p>
+
+<p><date n="xx-xx-1816">1816</date></p>
+
+<p><date when="1816-06-07">June	7th </date>	To 6 lb white Sugar__________Pr <persName>Father </persName>@ 56 1/4________	3. 37 1/2
+
+	<date when="1816-06-18">18</date>	1 " Nails________pr <persName>Danly</persName>______________________________      . 37 1/2</p>
+
+<p><date when="1816-07-15">July 	15</date>	1 Venison Ham__________________________________________      . 25
+
+ <date when="1816-07-15"> "	"</date>	1 Chamber______________________________________________      . 75
+
+  <date when="1816-07-16">"	16</date>	Ballance on Brandy_____________________________________      . 50
+
+ <date when="1816-07-20"> "	20</date>	1 pt Tar_______________________________________________      . 12 1/2
+
+  <date when="1816-07-21">"	21</date>	1  pr Shoes____________________________________________     2. 75
+
+  <date when="1816-07-23">"	23</date>	2   Qts Tar________pr <persName>Danly</persName>____________________________      . 50</p>
+
+<p><date when="1816-08-06">Augst	6</date>	4  Shovels________pr Dozier 75_________________________     3. 00
+
+  <date when="1816-08-15">"	15</date>	3  Lead ballance on borrowed Lead______________________      . 15
+
+ <date when="1816-08-19"> "	19</date>	1100 lbs Mineral delivered @ 20$ pr thousd_____________    22. 00
+
+  <date when="1816-08-29">"	29</date>	1 Gall. Tar pr order___________________________________     1. 00</p>
+
+<p><date when="1816-09-11">Sept	11</date>	6 lb White Sugar________@ 56 1/4_______________________     3. 37 1/2</p>
+
+<p><date when="1816-10-05">Octr	5</date>	1/2  lb Tea________@ 350_______________________________     1. 75
+
+  <date when="1816-10-30">"	30</date>	5  lb 14 ozs. Loaf Sugar_______________________________     3. 62 1/2</p>
+
+<p><date when="1816-11-22">Nov	22</date>	6lbs Sugar________pr Order 40__________________________     2. 40
+
+ <date when="1816-11-22"> "	"</date>	2  "   Coffee_______       do       62 1/2_____________     1. 25			47. 17 1/2
+												__________
+		The above is charged to you <persName>Father</persName></p>
+
+
+<p>		To amounts of your old accts rendered__________________    45. 50</p>
+
+<p><date when="1816-04-25">April	25</date>	"  1 pr Shoes__________________________________________     2. 50</p>
+
+<p><date when="1816-05-10">May	10</date>	"  1 Otter skin _______________________________________     2. 00
+
+  <date when="1816-05-10">"	"</date>	" 1 Cub Skin 25cts 1 Hank Shoe Thread 37 1/2___________      . 62 1/2
+
+  <date when="1816-05-27">"	27</date>	" l lb Powder 100cts 2 Hanks Thread 100cts
+		1 pr Shoes 2.50________________________________________     4. 50</p>
+
+<p><date when="1816-06-05">June	5</date>	"   1 Bottle Wine______________________________________     1. 25
+
+ <date when="1816-06-04"> "	4</date>	"  2 Bottles Wine______________________________________     2. 50
+
+ <date when="1816-06-15"> "  	15</date>	Whiskey 25cts. 1 Bottle wine 125_______________________     1. 50
+
+<date when="1816-06-15">  "	"</date>	1/2 Bottle Wine________________________________________      . 62 1/2
+  
+  <date when="1816-06-21">"	21</date>	1 do do _______________________________________________     1. 25</p>
+
+<p><date when="1816-07-06">July	6</date>	6 do do _______ @ 125__________________________________     7. 50</p>
+
+<p><date when="1816-11-12">Nov	12</date>	5lbs Coffee _______ 62 1/2 ____________________________     3. 12 1/2
+
+  <date when="1816-11-17">"	17</date>	Shoe Thread ___________________ pr <persName>Father </persName>_____________     1. 12 1/2 		74. 00 
+												__________</p>
+
+<p><date when="1816-11-28">Novr	28</date>	1 Trunk pr <persName>McCormick </persName>__________________________________	6. 00
+
+	<date when="1816-11-28">"</date>	5lbs Coffee___________  50  ___________________________	2. 50
+
+  <date when="1816-11-28">"	"</date> /	53 Volembers [sic] of Reeces Cyclo-
+	  |		pedia @ 4$._____________________ 212.
+	  |		Carriage 156 lbs @ 11 cts_______  17.16
+	  |							   _______
+	  |							   229.16
+        \	Advance 10 pr Cent			    22.91 1/2  252.07 1/2 
+	  
+
+	<date when="1816-11-28">"</date>	1 Vest Pattern 375 Silk Buttons 50 cts ________________	4. 25
+
+	<date when="1816-11-28">"</date>	1 Cross Bard Handkf 150 1/2 yd Linnen
+
+		   Camd 950-475________________________________________     6. 25<pb n="302"/></p>
+
+<p><date n="xx-xx-1816">1816</date></p>
+
+<p><date when="1816-12-06">Decr	6</date> 	To Merchandise pr <persName>Father </persName>as pr <persName>Bill </persName>rendered___________    15. 62 1/2
+
+  <date when="1816-12-07">"	7</date>    	"  49 lbs Sugar pr Do_________________@ 40_____________    19. 60
+
+  <date when="1816-12-07">"	7</date>    	"  2 Qts Tar pr Jas. Danly_____________________________      . 50
+
+<date when="1816-12-08">  "	8</date>    	"   124 lbs Iron @ 18 3/4 cts and 39 lbs do @ 20cts____    31. 05
+
+  <date when="1816-12-09">"	9 </date>   	"  1 pr Boottees sent by <persName>Jas. Dozer</persName> to <placeName>St. Louis</placeName>_______    11. 00
+
+  <date when="1816-12-10">"	10</date>   	"  2 Qts. Linseed oile 2$ 1 Skean Silk 12 1/2 pr <persName>Father     </persName>2. 12 1/2
+
+  <date when="1816-12-12">"	12 </date>  	"  2 yds Blk Flannell_____@ 1.25 pr__<persName>Mrs. Weber</persName>________     2. 50
+
+ <date when="1816-12-12"> "	"</date>    	"  1 Doz Needles 25 cts 1 pr <persName>Wco.</persName> Worsted Hose
+			175 pr Do [Mrs. Weber]___________________________     2. 00   	355. 47 1/2
+
+		      Amt   carried  over______________________________                $476. 65</p>
+
+<p><date n="xx-xx-1816">1816     </date>	To amt brought over____________________________________                 476. 65</p>
+
+<p><date when="1816-12-12">Dec	12</date>    " 4yds Ribbon 100cts lyd   Do 18 3/4____pr <persName>Mrs Weber</persName>___      1. 18 3/4
+
+ <date when="1816-12-12"> "   "</date>     " 6 Skeans Silk 75cts
+		2 Stran Beeds 25cts_______________pr Do _______________      1. 00
+
+  <date when="1816-12-13">"   13</date>    " 1 pr Wco. Worsted Hose__________pr do________________      1. 75
+
+  <date when="1816-12-13">"   "</date>     " 1 Needle Case____________________pr Do_______________      2. 50
+
+  <date when="1816-12-13">"   "</date>     " 11 1/2 lbs Cordage   pr @ 31 1/4_______<persName>Jas. Danly</persName>.___      3. 59 1/2
+
+  <date when="1816-12-16">"  	16</date>    " 1 Doz Silk Vest Buttons   pr order of <persName>Father</persName>_________       . 75
+
+  <date when="1816-12-17">"  	17</date>    " 1 Stick Twist __________________do___________________       . 12 1/2
+
+ <date when="1816-12-19"> "  	19 </date>   " 1/2   Gall   Lintseed   Oile_________pr Do___________      2. 00
+
+  <date when="1816-12-19">"   "</date>     " 1 Paper Ink Powder______________pr <persName>Ball</persName>______________       . 25
+
+  <date when="1816-12-20">"  	20</date>    " 28 3/4 lbs Iron p @ 18 3/4_______________<persName>Bruffy</persName>______      5. 39
+
+  <date n="12-21-816">"  	21</date>    " 2lbs Nails_________________________Ball______________       . 75
+
+  <date when="1816-12-23">"   23</date>    " 2 yds Leventine Silk pr order of Father______________      4. 50
+
+  <date when="1816-12-24">"  	24</date>    " 6 lbs   Best  Coffee__________________pr Do__________      3. 75
+
+  <date when="1816-12-26">"   26</date>    " 28 1/4 lbs Iron__18 1/2________________<persName>Bruffy</persName>________      5. 30
+
+  <date when="1816-12-27">"   27</date>    " 1 yd Ribbon_______________________pr <persName>Mother</persName>__________       . 25
+
+ <date when="1816-12-27"> "   " </date>    " 3 "   Shenneal 56 1/2 ct
+		1 Pocket Book 150________________pr Do_________________      2. 06 1/4
+
+  <date when="1816-12-27">"   "</date>     " 1 Silk Handkf____________________D°__________________      2. 50
+
+  <date when="1816-12-27">"   "</date>     " 1 pt Madarie Wine________________pr <persName>negro Girl</persName>_______      1. 00</p>
+
+<p><date n="xx-xx-1817">1817</date></p>
+
+<p><date when="1817-01-09">Jany 	9</date>     " 1   Cotton   Shawl_________________pr <persName>Mrs Weber</persName>______      1. 00
+
+ <date when="1817-01-11"> "   11</date>    " 1 Sett Silk coat Buttons___________" <persName>Father </persName>_________      1. 75 	41. 41
+												_______
+ <date when="1817-01-11"> "   "</date>	5 Skeans Silk and Twist 62 1/2 cts  1 1/2 yd <persName>B Hol-
+			land</persName>   75_________________________prD°___________      1. 37 1/2
+
+  <date when="1817-01-17">"	17</date>    6 yds  Velvet   Ribbon   75cts  1/2   Doz   Hooks and
+			Eyes 25cts____________________pr D°______________      1. 00
+
+  <date when="1817-01-25">"	25</date>    " llb   Coffee______________________pr <persName>nephew</persName>__________       . 50
+
+  <date when="1817-01-25">"   "</date>	8 Skeans Silk 100 1/2 cts
+		Brimstone  25cts___________________pr <persName>mother</persName>___________      1. 25
+
+<date when="1817-01-25">  "   "</date>     1 Flossy Cape______________________pr D°_______________      1. 00
+
+ <date when="1817-01-30"> "	30</date>	5 1/2 lbs Crowley Steel @ 62 1/2 _______pr Danly_______      3. 43 3/4</p>
+
+<p><date when="1817-02-01">Feby	1</date>	1/2 Doz Flints______________________Do_________________       . 18 3/4
+
+  <date when="1817-02-05">"	5</date>	3 lbs White Havanna Sugar 62 1/2_____pr <persName>mother</persName>_________      1. 87 1/2
+
+  <date when="1817-02-06">"   6</date> 	3   "   Orlean         do_____________prDo_____________      1. 50
+
+  <date when="1817-02-07">"	7</date>	1 1/2 yds. Silk lace @ 87____________pr <persName>Miss Austin</persName>____      1. 43 3/4
+
+<date when="1817-02-08">  "	8</date>	1 Double Bladed Knife__________________________________      1. 00
+
+ <date when="1817-02-08"> "	"</date>	1 pr Morocco Slippers_____________pr <persName>Mrs Weber</persName> ________      2. 37 1/2<pb n="303"/></p>
+
+<p><date n="xx-xx-1817">1817</date></p>
+
+<p><date when="1817-02-08">Feby 	8</date>    	To 1 Comb_________1_____________pr Do___________________       . 43 3/4
+
+  <date when="1817-02-08">"  	"</date>    	" 1 pr Fine Shoes_________________pr <persName>Hammond </persName>___________      2. 50
+
+  <date when="1817-02-08">"   "</date>    	" 1 " Coars   do _________________" <persName>Danly</persName>_______________      2. 50
+
+  <date when="1817-02-08">"   "</date>    	" 1 Quire paper__________________pr order_______________       . 50
+
+  <date when="1817-02-10">"	10</date>   	" 1 Blank Day Book______________________________________      4. 50
+
+  <date when="1817-02-11">"   11</date>   	" 29 lbs Iron_____________________18 3/4 _______________      5. 43 3/4
+
+<date when="1817-02-11">  "   "</date>    	" 1 Quire Letter Paper__________________________________       . 50   	33.56 1/4
+
+  <date when="1817-02-11">" 	"</date>	11 lbs 14 oz Crowley Steel 62 1/2____pr <persName>Bruffy</persName>__________      7. 42 1/2
+
+ <date when="1817-02-15"> "	15</date>    " Merchandise_________________pr<persName> Saml Patterson</persName>_________      6. 00
+
+  <date when="1817-02-17">"	17</date>   	"  Your Order in favr of <persName>S. Swaringin</persName>___________________      5. 82
+
+  <date when="1817-02-18">"	18</date>   	" 6 lbs Coffee____pr order in favr of <persName>Wm Ficklin</persName>________      3. 75
+
+ <date when="1817-02-19"> "	19</date>   	"  1 pr Coars Shoes_____________________________________      2. 75
+												________	25. 74
+
+
+ <date when="1817-02-19"> "   "</date> 	3/4 yd Gauze 1.50cts____________________________________
+
+  <date when="1817-02-19">"   "</date>     " 2 yd Silk Lace 50cts____________pr <persName>Mrs Weber</persName>__________     2. 00
+
+  <date when="1817-02-19">"   "</date> 	1 1/2 Sheneal 28 cts
+		2 yds Ribbon 75 cts __________pr       do_______________     1. 03
+
+<date when="1817-01-31">Jany 	31</date>   	" 4 lbs Sugar and 2 lbs Coffee (overlook, d)____________     3. 00
+
+<date when="1817-02-19">Feby. 19</date> 	" 1 Quire paper_____________pr <persName>Mr. Ball</persName>_________________      . 50    	 6. 53
+												___________________
+													    $583. 89 1/4
+</p>
+<p>Contra C
+<date n="xx-xx-1816">1816</date>
+
+<date when="1816-08-02">Augst	2d</date> 	By 761 lbs Lead___________@ 5.30 pr cwt_________________     40. 33 1/2
+
+<date when="1816-11-22">Novr 	22</date> 	By 25 Bars Lead 968 lbs @ 5.00 which was credited
+			to you <persName>Father </persName>act_________________________________     48. 40
+
+<date n="xx-xx-1817">1817</date>
+<date when="1817-02-11">Feby 	11</date> 	By 15 3/4 lbs Powder____________________________________</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0277">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 07-17-1817</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Durham Hall, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Cottage, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 299
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-07-17">07-17-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning Bank of St. Louis.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>My Dear <persName>Son</persName></p>
+
+<p>I have enclosed to you a proxy for the Election of <persName>Directors </persName>to the
+<placeName>Bank of [St Louis]</placeName> which you will be good a[nough to] have 
+properly Executed and returned by Bill&#8212; I had a letter from <persName>Stephen F
+Austin</persName> who said that in Consequence of some difficulty with the
+Other <persName>Bank </persName>no Discounts will take place untill the paper arrives
+from <placeName>New York</placeName> and that he wishes you to try and arrange with
+<persName>Henry Elliott</persName>&#8212;our Dear little <persName>Boy </persName>is not as well as I could Wish
+I hope <persName>Emily </persName>may return this Week</p>
+
+<p>from what <persName>Stephen </persName>says your Note has not been discounted</p>
+
+<p><persName>Moses Austin</persName>    [Rubric]</p>
+
+<p><placeName>Durham Hall</placeName> <date when="1817-01-17">Jany-17th-l817</date></p>
+
+<p>I expect <persName>Emily </persName>has given hir Proxy to <persName>Stephn </persName>in <placeName>St Louis</placeName></p>
+
+<p>[Addressed:] <persName>Mr James Bryan</persName> <placeName>Hazel Cottage</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0281">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Honey and Bates to Stephen F. Austin, 02-20-1817</title>
+            <author>
+                <persName>Honey and Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Herculaneum, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 303
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-02-20">02-20-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin &amp; Co. in account with Honey and Bates.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Herculaneum </placeName><date when="1817-02-20">Feby 20th 1817</date></p>
+<p><persName>Stephen F Austin and C°.</persName></p>
+
+<p>Bot of <persName>Honey and Bates</persName>
+pr order <persName>M. Austin</persName></p>
+
+<p>1 Bbl  salt__________________  290  lbs
+	Tare___________________   25
+					____
+					 265 lbs nett @ $2 p <persName>Bush</persName>__________$10. 60
+1 oven and Lid___________________________________________________  3. 25
+1 3 points Blankett pr waggons___________________________________  3. 50
+											______
+										     $17. 35</p>
+
+<p>Dr Sir</p>
+
+<p>above is the Bill of articles got by <persName>M Austin Esq</persName> for you
+Respectfully Yours</p>
+
+<p><persName>Honey and Bates </persName>  [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
