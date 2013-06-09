@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0235">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 10-22-1813</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Burton Mine, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Herculaneum, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 230
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1813-10-22">10-22-1813</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lead business.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mine a Burton</placeName> <date when="1813-10-22">Octbr 22 [1813?]</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>We expected you two days past I am in hopes this may find you
+<placeName>on the road</placeName> <persName>Mr Todd</persName> called <date when="1813-10-21">last evening</date> and requested me to make
+a statement of the quantity of Mineral I told him I ha'd done so
+that is that what was hawled Over would make from 12 to 15 
+thousand he says that he can make up 4 loads more which he thinks will
+make up twenty thousand but I cannot hawl untill my Waggon is
+mended and <persName>Logan </persName>has forbid <persName>Mr Wheeler</persName> to work in the <placeName>shop </placeName>so
+that I am compleatly stop'd in my business Such treatment I can
+assure you I have Never recd from any man <hi rend="italic">Such shamefull 
+treatment</hi>, in my life, <persName>Tripp </persName>and <persName>Logan </persName>are Cutting tool(?) Wood and
+have purchased <persName>Wheeler</persName>s <persName>Blacksmith </persName>Tools&#8212;Todd wish to obtain
+my approbation to draw an order on you for 160 Dollars this I
+could not do on any Account   I expect he will Visit you this day</p>
+
+<p><persName>Moses Austin</persName></p>
+
+<p>N B the object of <persName>Logan </persName>and <persName>Tripp </persName>was to have taken of the Iron
+in the <placeName>Shop </placeName>to Commence business with and lett you and <persName>Stephen</persName>
+get it back as you could this I have stopd- by removing the Iron from
+the shop this day   he claims all half the Iron at <placeName>Herculaneum</placeName></p>
+
+<p><persName>MA</persName></p>
+
+<p>[Addressed] : <persName>Mr James Bryan</persName> <placeName>Herculaneum</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
