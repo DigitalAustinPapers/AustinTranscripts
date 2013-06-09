@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0381">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Baron de Bastrop to Moses Austin, 03-02-1821</title>
+            <author>
+                <persName>Baron de Bastrop</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Antonio, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nachitoches, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 384
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-03-02">03-02-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing J. M. Berrimendi.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St. Antonio</placeName> <date when="1821-03-02">2nd March 1821</date></p>
+<p><persName>Mr Moses Austin</persName></p>
+
+<p>Dr Sir the bearer of this <persName>Mr Merrimendez</persName> will advise with you
+and will do every thing that lies in his power to serve you and
+I am in hopes you will do the same with him he is a Gentleman of
+Verasity and my <persName>God father</persName> anything that he tells you I pledge
+my self for the performance of it   I am dr Sir</p>
+
+<p><persName>El Baron de Bastrop </persName>   [Rubric]</p>
+<p>[Addressed:] <persName>Mr Moses Austin Esqr.</persName> <placeName>Nachitoches </placeName>pr <persName>Mr Beramendi</persName></p>
+
+<p>[Endorsed by Stephen F. Austin:] <persName>Bastrop</persName>'s letter of 
+introduction of <persName>Berrimendi </persName>to <persName>Moses Austin</persName>, when he, <persName>Berrimendi </persName>went to
+meet <persName>Austin </persName>at <placeName>Natchitoches </placeName>in <date n="xx-xx-1821">1821</date>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

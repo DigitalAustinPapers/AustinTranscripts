@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0365">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elias Bates to Stephen F. Austin, 12-02-1820</title>
+            <author>
+                <persName>Elias Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 368-369
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-12-02">12-02-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Congratulations on success.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1820-12-02">Decb 2nd 1820</date></p>
+<p>Dear <persName>Stephen</persName></p>
+
+<p>Your favour of the <date when="1820-08-29">29th of Augt</date>. I received one mail previous to
+the one you wrote to your <persName>Mother </persName>from <placeName>Natchitoches</placeName>: and have had
+no opportunity of answering only by mail and it was uncertain if
+you would not have left <placeName>N Orleans</placeName> before it would have got there: I
+Cincerely rejoice at your success and hope there will nothing happen
+to Blast them<pb n="369"/></p>
+
+
+<p>You Requested me to give you information of your <persName>family </persName>it will
+now be unnecessary as <placeName>H Elliot</placeName> can give you everry Information that
+I can</p>
+
+<p>no doubt you have met <persName>Mr Honey</persName> in <placeName>New Orleans</placeName>: I Calculated
+you would: from the Information I receivd of your Intention of
+going theere: that you would be theere about the time he would arive
+theere  <persName>Mary </persName>has given him a fine <persName>son </persName>in his absence   Boath are well.</p>
+
+<p>I have had Considerable sickness in my <persName>family </persName>this season Nancy
+has had an uncommon share; three months past she has been much
+of the time confined to her Room she is now gaining strength fast
+the Balance of the <persName>family </persName>are in good health&#8212;<persName>Henry Elliott</persName> can
+give you all the news that is going which is not muche; hard times is
+the General Complaint I hope that the time is not far distant when
+I shall here that your are permanently settled in your new situation
+and doing well&#8212;Allways your friend</p>
+
+<p><persName>Elias Bates </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

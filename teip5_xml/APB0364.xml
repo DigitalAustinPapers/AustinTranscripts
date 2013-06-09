@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0364">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 11-27-1820</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-09">07-09-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 368
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum and Itinerary</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-11-27">11-27-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Moses Austin's journey to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Memorandum of Property taken from <placeName>Little Rock</placeName>
+Gray Horse <persName>Stephen F Austin</persName>___________________________    250
+<persName>Negro   Richmd.</persName>_____do________________________________    600
+Mule <persName>James Bryan</persName>______________________________________     50
+Cash expences_________________________________________     50
+									   ______
+									    850 Dollars</p>
+
+<p>For the above I am to Account to <persName>S F Austin</persName> or return them
+<hi rend="italic"><persName>M. Austin</persName>.</hi></p>
+
+<p><date when="1820-11-27">Novr. 27 1820</date> left <placeName><persName>Mr McGuffin</persName>s</placeName> for <placeName>St. Antone</placeName> and return from
+said City <date when="1821-01-15">Jany. 15. 1821</date></p>
+
+<p>Expences out and Back for myself and <persName>Richmond </persName>and at <placeName>St. Antone</placeName>___   15 78
+	and_________________________________________________________   10
+											  _______	  25.78</p>
+
+<p><placeName>Rivers </placeName>passed and the distance from  the <placeName>Sabine </placeName>to  <placeName>St. Antone</placeName>
+	<placeName>Toack   </placeName>____________________________________________________   30
+<placeName>Natchictoches</placeName>_____________________________________________________   30  
+<placeName>Augustine</placeName>_________________________________________________________   15	
+<placeName>Nacyes [Neches]</placeName>___________________________________________________   30
+<placeName>Trinity  </placeName>_________________________________________________________   25
+<placeName>Navasott</placeName>__________________________________________________________   25
+<placeName>Little  Brassos</placeName>___________________________________________________   27
+											  _______	 182</p>
+
+<p><placeName>River Brassos</placeName> to <placeName>Colorado</placeName>_________________________________________   60
+To <placeName>St. Mark</placeName>_______________________________________________________   60
+To <placeName>Guadaloupe</placeName>_____________________________________________________   15
+To <placeName>St Antone</placeName>______________________________________________________   30
+											  _______    
+											  165		 165
+													_____
+													 347</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

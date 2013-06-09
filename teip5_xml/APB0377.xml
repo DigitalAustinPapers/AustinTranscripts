@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0377">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Baron de Bastrop to Antonio Martinez, 02-01-1821</title>
+            <author>
+                <persName>Baron de Bastrop</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Antonio Martinez
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 380-381
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-02-01">02-01-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Quoting portions of letter from Moses Austin of January 16. Ratification of Florida treaty by Spain. Effect of Indian treaties in Mississippi Valley upon emigration to Texas.   Lafitte, Long.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[About February 1, 1821.]</p>
+<p>Sir&#8212;In compliance to your <persName>Excellency</persName>'s orders, I translate and
+transmit to you the portions interesting to the <persName>Government</persName>, of a<pb n="381"/>
+letter I have received from <persName>Moses Austin, Agent of the families of
+<placeName>Louisiana </placeName>who come to settle in this <placeName>Province</placeName>.</persName></p>
+
+<p>"<date when="1821-01-16">January 16th</date>.&#8212;I met on the <placeName>Sabine River</placeName> two <persName>Citizens of <placeName>Arkansas</placeName></persName> who
+told me that through the intervention of <placeName>Russia </placeName>the " <persName>Cortes </persName>" have confirmed
+the treaty of Peace with the <persName>U. S.</persName> that, the <placeName>Sabine </placeName>is the <placeName>boundary </placeName>between
+the <placeName>Territories </placeName>of both Governments, that the <persName>American Congress</persName> have passed
+a Law punishing, with a fine of $1000, emprisonment for one year and 
+forfeiture of property, any person who shall trade with the <persName>Indians in the
+<placeName>Spanish Domain</placeName></persName>; that the treaty for exchange of Lands entered into with the
+<persName>Indians </persName>who lived on the <placeName>Tennessee River</placeName>, on the <placeName>East bank of the Mississippi</placeName>,
+for other lands on the <placeName>Head waters of the Arkansas River</placeName>, interferes with a
+great many <persName>families </persName>of <placeName>Louisiana </placeName>who have to abandon their lands by 
+disposition of <persName>Congress</persName>, at the <date when="1821-05-31">end of May next</date>. They might be very available
+if they could [be] allowed to settle in the <placeName>Province of Texas</placeName>, however, there
+are also several families concerned, who will neither wait, nor apply for an
+authorization, but will settle on their own authority. The <persName>Government </persName>ought
+to be on its guard against them; they may prove to be dangerous.</p>
+
+<p>"The <persName>President </persName>has sent to the <persName>Gulf </persName>two armed Frigates against <persName>Laffitte</persName>
+and other <persName>Pirates</persName>; the so called <persName>General Long</persName> is on the <placeName>Continent</placeName>, near 
+<placeName>Galveston </placeName>; his circumstances are rather bad.</p>
+
+<p>" Trusting that my petition shall be favourably acted upon, I go to <placeName>Missouri</placeName>
+to prepare the emigration of my <persName>family</persName>, and others who have applied to remove
+to the <placeName>Province of Texas</placeName>. It would be proper to allow these <persName>families </persName>to 
+introduce their property by the <placeName>Colorado River</placeName>, with understanding that they shall
+pay such duties as the <persName>Government </persName>may impose; for myself I ask for 
+permission to introduce by that route some agricultural implements and other goods,
+for which I offer to pay ordinary duties."</p>
+
+<p><persName>Baron De Bastrop</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

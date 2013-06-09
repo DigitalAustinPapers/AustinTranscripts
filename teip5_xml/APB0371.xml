@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0371">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>David Gallaher to Stephen F. Austin, 01-20-1821</title>
+            <author>
+                <persName>David Gallaher</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington City, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 374
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-01-20">01-20-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks payment of a note.   Hard times in Missouri.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Washington City [Missouri]</placeName> <date when="1821-01-20">20th January 1821</date></p>
+
+<p>D. Sir</p>
+
+<p>I now imbrase the opportunity of informing you that times are
+very hard and money very scarce in this country and as fortune has
+frowned on me; and as I am informed smiled on you, I Flatter
+myself you will assist me with a part; if not all of the money which
+I lent you; I gave to<persName> Mr Wm Perry</persName> your note <date n="Spring-1820">last spring</date> when he
+was leaving this place for <hi rend="italic">Orleenes </hi>and as he has not returned yet I
+do not know wheather he saw you or not, or what he done with the
+note, if you saw him and have paid it I hop you will Excuse this
+demand, If not I hope you will send by <persName>Wm Bruffy</persName> all or as much
+of it as you can; and his receipt to you shall be good for the amt
+received;</p>
+
+<p><persName>David Gallaher</persName></p>
+
+<p>[Addressed:] His <persName>Excellency S. F. Austin</persName> <placeName>Provence Taxes</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

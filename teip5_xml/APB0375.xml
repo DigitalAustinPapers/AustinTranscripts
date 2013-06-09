@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0375">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Governor Martinez, 01-26-1821</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Governor Martinez
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 377-378
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-01-26">01-26-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Disclaims any connection with his companion Kirkham and five Spaniards engaged in illegal horse and mule trading.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>His <persName>Excellency</persName></p>
+
+<p>The <persName>Governor of the <placeName>Province of Texas</placeName></persName></p>
+
+<p>May it please your <persName>Excellency </persName>Since leaving your <placeName>City </placeName>some 
+circumstances of a very unpleasant nature have come to my knowledge
+which I consider it, my duty to communicate to your <persName>Excellency </persName>in
+Exoneration of any blame or suspicion of blame that might be
+attached to <hi rend="italic">me </hi>in consequence of my being in company With a man
+that may have conducted unwisely and thereby drawn disgrace on
+himself and endangerd my reputation</p>
+
+<p>The day before I left <placeName>St Antonio</placeName> for the <placeName>United States</placeName>, <persName>Kirkham</persName>
+the man in whose company, I visited your <placeName>Capital </placeName>mentioned to me
+that five <persName>Spaniards </persName>would leave your city with us for <placeName>Nachitoches</placeName>,
+but did not say that they had any intention to leave the City in a
+Clandestin manner or to committ any act in violation of your orders
+or that of Society. <hi rend="italic">Nor </hi>was there intentions made known to me
+untill after I had arrived at the <placeName>River St Marks</placeName>, when I learned from
+<persName>Kirkham </persName>that the <persName>Spaniards </persName>would come up with us at the <placeName>River
+Colorado</placeName> at which place he <persName>Kirkham </persName>had agreed to delay for them
+and that they was to bring with them a Number of Mules which he
+<persName>Kirkham </persName>had told them he would purchase and give them a safe
+conduct to the <placeName>United States</placeName>. I objected to have anything to do
+with them or detain for them unless they brought with them a<pb n="378"/>
+pasport, and expostulated with him for having given them any 
+encouragement to bring out mules in as much as it Was expressly against
+Orders of the <hi rend="italic"><persName>Governor </persName></hi>he then said that he had not given them any
+other encouragement or words that would induce them to bring out
+Mules except that If they should do so, he should purchase them, he
+then said that the <persName>Spaniards </persName>had made a brake on the <persName>King</persName>s Yard of
+Mules and Horses and taken ten or twelve and Escaped, that before
+they left <placeName>St Antonio</placeName> they had stated to some of there <persName>friends</persName>, that he
+<persName>Kirkham </persName>was to detain at the <hi rend="italic">River Colorado</hi> with the Other 
+<persName>American </persName>and Conduct them with in, the <hi rend="italic"><placeName>United States</placeName></hi>, it was with real
+regret that I Found myself implicated in this transaction and placed
+in a situation to create doubts&#8212;as to my true intentions in visiting
+your City, the object of this letter is therefore to remove from the
+mind of your <persName>Excellency</persName>&#8212;any Suspicion if any exists or may have
+been <hi rend="italic">created</hi>, from the conduct either of <persName>Kirkham </persName>or the <persName>Spaniards</persName>,
+that <hi rend="italic">Stole </hi>the Mules and also to request them to be examined as to the
+fact, whether I had an interview with either of them or Whether they
+communicated to me there&#8212;intentions.&#8212;I do not pretend to say that
+<persName>Kirkham </persName>made any agreement with them touching the theft, of the
+Mules&#8212; if he did it is unknown to me he most positively <hi rend="italic">denies</hi>
+any communication with them except what I have before stated, that
+he would purchase the Mules. It is therefore to be clearly 
+understood, that I do not accuse <persName>Kirkham </persName>of any, <hi rend="italic">Crime </hi>but it is that I
+write this letter in consequence of being told that my Name had
+been called in question and touching the theft of some mules and
+which might lessen the confidence of your <persName>Excellency </persName>in the 
+Declarations, I made when at your <placeName>City </placeName>of my real intention and motive in
+Visiting the <placeName>Capital </placeName>and to assure your <persName>Excellency </persName>by our most Holy
+Religion that, I had nothing to do with or any knowledge of&#8212;the
+intentions of the <persName>Spaniards </persName>who <persName>Kirkham </persName>told me was to make a
+Journey to <placeName>Nachitoches </placeName>in our Company, it is to do myself Justice
+that I make this communication to you at this time, and for no other
+object. I again <hi rend="italic">Repeat </hi>to your <persName>Excellency </persName>that If I am admitted to
+reside With in the <placeName>province of Texas</placeName> it will be my Study to regulate
+my conduct in such a manner as will strengthen the Confidence of
+Your Excellency in my good intentions, and Respectfull attachment
+to the Government under which <hi rend="italic">I live</hi></p>
+
+<p>praying your <persName>Excellency </persName>to accept of my profound Respect,</p>
+
+<p><persName>M Austin</persName></p>
+<p><placeName>Nachitoches </placeName><date when="1821-01-26">Jany 26 1821</date></p>
+
+<p>To His <persName>Excellency A Mons Martines
+Governor Civil and Military over the <placeName>Province of Texas</placeName></persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

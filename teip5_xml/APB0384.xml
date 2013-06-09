@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0384">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Isaac Jesses to Moses Austin, 04-11-1821</title>
+            <author>
+                <persName>Isaac Jesses</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 387
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-04-11">04-11-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill for carpenter's labor and materials.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+
+<p>													$   Cts</p>
+
+<p>To work done on your Cupilo, viz Brought over_____________________________  238. 82 1/2
+
+Taking off and framing and finishing the roof Boarding up corners of
+	Cupilo and Kitchen 46 feet at 25 cts pr foot________________________   11. 50
+
+Work done on sky-light sills______________________________________________    1. 50
+
+Making and putting up 60 feet of water conductors at 25 cts pr ft_________   15. 00
+
+To 3 days work done your windows__________________________________________    7. 50
+
+To 3  do  myself and 2 <persName>boys </persName>on your fence_________________________________   15. 00
+
+To mending 1 table________________________________________________________    1. 50
+
+To 1 day 2 boys bringing up your boat_____________________________________    2. 00
+
+To surveying 3 <placeName>lots</placeName>_______________________________________________________    3. 00
+
+To making 1 tester________________________________________________________    1. 00
+
+To 2 days work in getting timbers and raiting your lot front______________   15. 00
+
+To amount paid for suit to bring poles for same___________________________     . 25
+
+To 66 feet weather boarding at 3$ cts pr foot_____________________________    2. 31
+
+To 8 feet Inch pine plank at 4 cts________________________________________     . 32
+
+To 15 feet cherry   do. at 6 cts pr foot__________________________________     . 90
+												     ________
+												    319. 60 1/2</p>
+<p>Recd <persName>Mr Austin</persName>s Note for the balance of this account in his note
+which when paid will be in full say fifty Nine Dollars</p>
+
+<p><persName>Iac Jesses</persName></p>
+
+<p><date when="1821-04-11">Apl. 11th 1821</date></p>
+
+<p><placeName>Herculaneum  </placeName>_____________________________________________________________  269. 60
+
+													1. 68
+												    _______
+												    171. 28</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

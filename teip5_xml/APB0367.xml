@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0367">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 12-23-1820</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Fernando de Bexar</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 370-371
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Examination of Moses Austin</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-12-23">12-23-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Examination of Moses Austin before Gov. Martinez. Conditions on the Texan-United States frontier. Purpose of journey to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>At the <placeName>City of San Fernando de Bexar</placeName>, the <date n="12-3-1820">23d day of December,
+A D 1820</date>: The <persName>Governor of the <placeName>Province of Texas</placeName>, Colonel Don
+Antonio Martinez</persName>, in order to obtain detailed information about
+the condition of affairs and movements on the <placeName>frontier of the United
+States</placeName>, and the assembly of men in <placeName>Galveston Island</placeName>, summoned to
+appear at this office the foreigner <persName>Moses Austin</persName>, who arrived <date when="1820-12-23">to-day</date>
+in this city, with two other persons. Said <persName>Moses Austin</persName> being 
+present was required through the <persName>Baron de Bastrop</persName> who had promised
+well and truly to discharge the duty of <persName>Interpreter</persName>, to make true
+answers to such questions as might be propounded to him, answered
+as follows.</p>
+
+<p>Questioned as to his name, native country and residence&#8212;
+Answered : That he is a native of the <placeName>State of Connecticut</placeName>, actually a
+<persName>resident of <placeName>Missouri</placeName></persName>, is a <persName>catholic</persName>, a <persName>merchant </persName>and <persName>dealer in lead ore</persName>.</p>
+
+<p>Asked:&#8212;Whence he came, who accompanied him, and what is his
+object in entering this <placeName>Province</placeName>? Answered: That he came from
+<placeName>Missouri </placeName>through <placeName>Nachitotches</placeName>, that he had been accompanied by
+a <persName>negro boy</persName> belonging to him, and two other <persName>Americans</persName>; that he came
+to this <placeName>Province </placeName>for the purpose of applying to the <persName>Government </persName>for
+authorization to settle himself in it with his <persName>family</persName>, inasmuch as he
+had already been a <persName>subject of the Government of <placeName>Spain</placeName></persName>, as is proved
+by a passport, which he presented, signed by <persName>Don Carlos Martinez
+de Irujo, Minister Plenipotentiary of His Majesty</persName>, signed at 
+<placeName>Philadelphia</placeName>, the <date when="1797-07-13">13th July, 1797</date>; and that it is his intention to provide
+for his subsistance by raising sugar and Cotton.</p>
+
+<p>Asked: what observations he made on his way from <placeName>Missouri</placeName>; if
+he knows anything about the movements of the <persName>banditti </persName>on the 
+<placeName>frontier of the United States</placeName>, if he has seen, or heard, anything of the
+state of affairs in <placeName>Galveston Island</placeName>, and to state whatever incident
+may have called his attention.&#8212;Answered: That he has observed
+nothing on his way from <placeName>Missouri</placeName>; that he had only heard it said at
+<placeName>Natchitoches </placeName>that <persName>Long </persName>has been abandoned by his men, <persName>20 or 30
+men</persName> only still remaining with him; that <persName>Lafitte </persName>has abandoned 
+<placeName>Galveston Island</placeName>, after having been attacked by an American frigate,
+and that the <persName>President of the Congress</persName> had promised a reward of
+500 Dollars for the apprehension of <persName>Long [Lafitte]</persName> That <persName>Lafitte</persName>
+repaired to <placeName>South America</placeName>, but that, on his departure from <placeName>Galveston</placeName>,
+he captured an <persName>American </persName>ship, and put to death all her <persName>crew</persName>, except
+two men who made good their escape; and finally, that he has read in<pb n="371"/>
+the <placeName>American newspapers</placeName> a treaty made by <placeName>Don Luis de Onis, Spanish
+Minister</placeName>, with the <persName>American Congress</persName>, which treaty was already
+signed by the <persName>King </persName>and approved by the <persName>Sovereign Congress of the
+Cortes</persName>.</p>
+
+<p>Asked; How, having obtained in<date n="xx-xx-1797"> 1797</date>, a passport from the <persName>Spanish
+Minister</persName>, he has not applied sooner for the <placeName>Settlement </placeName>he intends
+to make in this <placeName>Province</placeName>?&#8212;Answered,&#8212;that, since the year above
+mentioned, he went to reside at<placeName> Saint Louis (Missouri)</placeName> which 
+<placeName>territory </placeName>belonged, then to <placeName>Spain</placeName>; he had there <placeName>lead mines</placeName>, the produce
+of which he exported to <placeName>Havana</placeName>, until the year <date n="xx-xx-1800">1800</date> [sic], when the
+<persName>American Government</persName> having prohibited the working of <placeName>mines </placeName>by
+private enterprise, he lost all the benefit of his labor; but now, in view
+of the new system of Government adopted by <placeName>Spain</placeName>, he resolved
+upon aplying for authorization to settle in this <placeName>Province</placeName></p>
+
+<p>Asked; If he, or his <persName>associates </persName>have with them any merchandize,
+to declare the same in which case it should be sequestered and 
+returned to them previous to their leaving this <placeName>territory</placeName>, or otherwise,
+it should be seized upon as unlawful ?&#8212;Answered, that all the 
+property he has with him, is an escopet, a pistol, two horses, some clothing
+for his personal use, and the necessary amount of money for his
+traveling expences; that, those who accompany him are not under
+his control, and joined him at about six leagues from <placeName>Natchitoches</placeName>;
+Still, he is satisfied that they have no goods of illicit trade.</p>
+
+<p>Asked: If he has any further statements to make; Answered in the
+negative, He, further, ratified the foregoing answers, and declared
+himself to be 53 years of age; Whereupon, he signed these presents,
+with me and assisting <persName>witnesses</persName>&#8212;<persName>Moses Austin</persName>&#8212;<persName>Antonio Martinez</persName>&#8212;
+<persName>Baron de Bastrop</persName>&#8212;<persName>Francisco Montes</persName>&#8212;<persName>Ylario de la Garza</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

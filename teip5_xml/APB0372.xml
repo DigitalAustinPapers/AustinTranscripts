@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0372">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Douglas Forsythe, 01-22-1821</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Douglas Forsythe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 375
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Authorization to Employ a Negro Slave, Richmond</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-01-22">01-22-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Leaves sick slave in his care to be cured and hired out to labor until called for.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Where as a <persName>Negro man</persName> by the Name of <persName>Richmond </persName>now at the
+<placeName>House of <persName>Dugless Forsithe Esqr</persName></placeName> is not in a situation to travil in
+Consequence of his Diseased Condition and Where as, I the 
+undersigned have given to the said <persName>Dugless Forsithe esq</persName> directions to 
+imploy <persName>Doct Rivers</persName> to restore the said <persName>Negro </persName>to Health, it is clearly
+Understood that the said <persName>Negro </persName>man shall remain with the said
+<persName>Forsithe</persName>, and as soon as he is in a situation to be put to Labour,
+he shall Labour for the said <persName>Forsithe </persName>at Twelve Dollars pr month
+Untill the Expense of the said <persName>Doct Rivers</persName> is fully discharged Unless
+otherwise paid by the Undersignd or <persName>Stephen Fuller Austin esqr</persName> to
+whom the said <persName>Negro </persName>belongs or by orders of either of them in that
+case the said <persName>Forsithe </persName>being paid the board of said <persName>Negro </persName>untill able
+to Labour he shall be delivered up to the undersigned or <persName>Stephen
+Fuller Austin</persName> or the Order of either. Death and all other 
+Circumstances Not the act of the said Forsithe or within his Controll 
+Excepted.   <date when="1821-01-22">Jany. 22 1821</date></p>
+
+<p><persName>Moses Austin</persName></p>
+
+<p>for <persName>Stephen F. Austin</persName></p>
+<p>It is clearly understood that if more than Twelve Dollars pr
+month can be obtained for the Hire of said <persName>Negro </persName>the said Forsithe
+is to obtain it and account to the undersignd for the same.</p>
+
+<p><persName>M Austin</persName></p>
+<p><date when="1821-01-22">Jany <hi rend="italic">22nd 1821</hi></date></p>
+<p><persName>Joshua Parker [Witness?]</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
