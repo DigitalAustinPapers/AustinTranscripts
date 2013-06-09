@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0394">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 07-01-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 399
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-07-01">07-01-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Privileges  granted to Moses</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches</placeName>, July 1, 1821.</p>
+<p>Dear Sir&#8212;I am now this far on my journey to the <placeName>Province of
+Texas</placeName>, to take possession of the lands granted to my <persName>Father</persName>, <persName>Col.
+Moses Austin</persName>, (formerly of <placeName>Mine a Burton, Missouri</placeName>) by the <persName>Spanish
+government</persName>.</p>
+
+<p>The land lies on the <placeName>Colorado and Brassos rivers</placeName>, and includes a
+situation on the <placeName>Bay of St. Bernard</placeName>, suitable for a <placeName>sea-port</placeName>, at which
+place a <placeName>port of entry</placeName> is ordered to be established. This concession
+to my <persName>father </persName>is granted by <persName>Don Joaquin de Arredondo the governor
+of the <placeName>Internal Provinces</placeName></persName>, and is duly confirmed by the <persName>Supreme
+Council of those <placeName>Provinces</placeName></persName> dated <date when="1821-01-17">17th January, 1821</date>, at <placeName>Monterey</placeName>.
+It contains a permission to settle <persName>three hundred families</persName> on the lands
+to each of whom a tract of land is to be given and to whom most
+liberal privileges are secured, both in regard to commercial 
+intercourse and civil rights.</p>
+
+<p>The Constitution of <placeName>Spain </placeName>is in full operation at those provinces
+and recent accounts state that the beneficial effects of it are already
+perceptible.</p>
+
+<p>The <placeName>gold and silver mines</placeName> are getting into more extensive 
+operation than they have for many years. Money is becoming more
+abundant, a free trade is permitted, and the restrictive system 
+heretofore pursued in regard to <persName>foreigners </persName>has been superseded by the most
+liberal encouragement.</p>
+
+<p><persName>Don Joseph Erasmo Seguin</persName>, a Spanish gentleman from <placeName>San
+Antonio</placeName> was despatched by <persName>governor Martinez</persName> for the express 
+purpose of informing my <persName>father </persName>of the confirmation of his <placeName>grant </placeName>by the
+<persName>governor general</persName>, and to invite back all the <persName>fugitive Spaniards</persName> who
+fled in the revolution of <date n="xx-xx-1812">1812</date>, and are living at this place, most of
+whom, I am informed, will return to their country again.</p>
+
+<p>I go in company with <persName>Don Erasmo</persName>, and have a large company of
+<persName>American companions</persName> besides the <persName>Spaniards</persName>.</p>
+
+<p>Should you yet meet with any <persName>Farmers </persName>of good character or
+<persName>mechanics</persName>, who wish to emigrate to this fine country and participate
+in the advantages secured to my <persName>father </persName>by this <placeName>grant</placeName>, you will oblige
+me by informing them that they can procure every information on
+this subject by writing to my <persName>father</persName>, <placeName>Herculaneum, Missouri</placeName>; but
+they must be well recommended.</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

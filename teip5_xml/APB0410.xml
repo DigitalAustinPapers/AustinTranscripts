@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0410">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. H. Bell, 10-06-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 415
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-10-06">10-06-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Permit to settle in his colony. Terms on which land is granted.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Permission is hereby granted to <persName>Josiah H. Bell</persName> to settle on the
+grant made to my <persName>Father </persName>in this <placeName>Province</placeName>&#8212;He is to recieve nine
+hundred and Sixty acres as <persName>head of his family</persName> and in addition to
+that three hundred and twenty acres for his <persName>wife </persName>and one hundred
+and Sixty acres for each <persName>child </persName>and <persName>Slave</persName>. one half of which is to
+be taken in an oblong on the <placeName>River </placeName>and the other half back from
+the <placeName>River</placeName>&#8212; The said land must be Inhabited and cultivated within
+one year and there must be paid me twelve Dollars and fifty cents
+pr hundred acres one half on the receipt of the title and the other
+half in twelve months which is to be in full for all surveying and
+other expences.</p>
+
+<p><placeName>Nacogdoches </placeName><date when="1821-10-06">Octor 6. 1821</date></p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]<pb n="416"/></p>
+
+<p>The above lands are to be taken between or <placeName>adjoining the St
+Antonio and la Baddee [La Bahia] roads</placeName> and <placeName>on the Brassos or
+Colorado.<</placeName>/p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>		960
+<persName>wife</persName>        320
+
+2  <persName>children </persName>320
+
+3  <persName>Negros   </persName>480
+		_____
+		2080 acres</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

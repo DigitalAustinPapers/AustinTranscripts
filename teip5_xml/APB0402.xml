@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0402">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Maria Austin to Stephen F. Austin, 08-25-1821</title>
+            <author>
+                <persName>Maria Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nachitoches, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 408-410
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-08-25">08-25-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Account of Moses Austin's death. Conditions in Missouri.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1821-08-25">August the 25</date> [1821]</p>
+<p>This days mail brought my dear <persName>son</persName>s wellcome letters of the <date when="1821-07-13">13</date> and
+<date when="1821-07-14">14 of July</date> which afforded me much real sattisfaction. I had 
+received one from you dated the <date when="1821-06-07">7 ult</date> but as you had not heard of your
+dear <persName>Father</persName>s death I posponed answering it till I heard from you
+again, yes my dear <persName>Stephen </persName>this unexpected stroak of divine 
+providence must have afflicted your affectionate heart most sensibly, even
+at this time, when more than two months has passed away in sadness
+and sorrow, I can hardly realize the reality of the melancholy event,
+to have him taken from us at a time when his prospects appeared so
+flattering and his expectations of future happyness and prosperity
+raised to the highest pitch, oh what a lesson for those he has left
+behind to strugel a few years longer in this vail of tears, my dear
+<persName>Stephen </persName>wishes to know the particulars of his <persName>Father</persName>s death I
+wrote you soon after it took place and sent the letter [by Mr] <persName>Bruffy</persName>
+to <placeName>Orleines</placeName>, what he did with the letter I have not learnt but least
+theay never reatch you, I will again give you a short detail your
+dear <persName>parent </persName>was in very bad health when he returned in <date n="03-xx-1821">march </date>and
+was but a shadow of his former self but such was his anxiety to
+arrange all his business in this quarter, I could not prevail on him to
+attend to his health and taike those medicines necessary to restore it
+as soon as he was able to ride he went to <placeName>St Louis</placeName>, where he was 
+detained six weeks setling with the directors of the <persName>bank </persName>this might
+have been don in one, had theay been disposed to do him Justice, at
+length one generous and disinterested man, even a <persName>lawyer</persName>, steped
+forward and vollanteered his services to your persecuted <persName>Father</persName>, he
+said the sale of the <placeName>lead mine</placeName> estate was an Illegal one, that he would
+undertake to recover it and not receive one dollar till he had gained
+it he stated this to the <persName>board of directors</persName> which brought them to a
+compromise and your <persName>Father </persName>after the greatest perplexity and delay,
+at length obtained a full receipt from the <persName>Directors</persName>, exonerating<pb n="409"/>
+you and <persName>J. B [James Bryan]</persName> and bringing the <persName>bank </persName>5000 dollars in
+his debt he returned <persName>home</persName>, spent and exhausted with fatigue but
+would take no rest, started in fore days for <placeName>Potosi </placeName>to mack a finish
+of business their, I felt greatly allarmed and did all I could to 
+prevail on him to take advice and postpone his Journey a few days, you
+know his determined and perservering disposi[t]ion, he had fixed
+the <date when="1821-05-25">25 of May</date> for leaving this <placeName>country </placeName>and he had not a moment to
+loose, he laid sick at <persName>Dr Mc Grady</persName> several days, then finished his
+business and started to <placeName>Bellview</placeName>, laid two days very ill at <persName>Mr Buggies</persName>,
+but persisted going on the third day to <persName>Sqr. Stepn</persName> and finally on the
+seventh day after he left the <placeName>mines </placeName>arrived at <placeName>Hazel run</placeName> so ill he
+had to be helped of the hors this was the <date when="1821-06-02">2 of June</date>, he appeared
+very unwilling even then to give up and the next day Commenced
+setling his accounts with <persName>J B</persName> and thought he would be able to ride
+to this place in two days, all this time the disease was gaining fast
+on his sistom, the day I expected him home, an <persName>express </persName>was sent for
+me I [took] out <persName>Dr Benhiser </persName>[Bernhisel] with me he is from 
+<placeName>Philadpa </placeName>and came highly recommended He said his disordor was a
+violent Inflamation of the lungs, he bleed and blistered&#8212;staid a day
+and night and pronounced him out of danger, I watched by him
+day and night gave him his medicine every hour and for two days
+we all thought him on the mend&#8212;my <persName>sister </persName>and a young man who
+was to go with him had set up Thursday night his fever was higher
+on that night than it had been at fore in the morning I discovered
+the St Antony fire was all over his face and he had great difficulty
+in breathing we sent instantly for <persName>Dr B</persName> and I asked him if he did
+not wish <persName>Mc Grady</persName> sent for, after a considerable exertion to speak,
+he drew me down to him and told me it was two late, that he was
+going&#8212;that he shold not live 24 hours, tell dear <persName>Stephen </persName>that it is
+his dieing <persName>father</persName>s last request to prosecute the enterprise he had 
+Commenced, that he had set his heart two much on it but for some wise
+purpose, god had prevented his travelling the rode he had planed
+out, he had opened and prepared the way for you and your <persName>brothers</persName>
+and that he felt a conviction you would be successful and 
+independant in a few years, he begged me not to greive that he was
+going to make a happy exchange and that I should soon follow him,
+he said he had done all he could for his <persName>family</persName>, he saw his errows
+when it was two late, it had ever been the first wish of his heart to
+see his <persName>family </persName>happy and Independant, he had lost them a fortune
+and fully expected he would be permitted to mack another for them
+the all wise god had in his infinite wisdom thought proper to call
+him from the scean of action and he submitted to his will&#8212;   he con-<pb n="410"/>
+tinued in his senses and though his sufferings was greater then I ever
+saw any human being he never murmured or complained, but left
+this troublesome world with an assurance of never ending felicity in
+the <placeName>kingdom of heaven</placeName> where he should sooner or later meet his dear
+<persName>famaly </persName>to part no more, I can say no more at present if you 
+receive my other letters together with this hasty communication it will
+satisfy my dr son that his <persName>father </persName>died like a man and <persName>Christian</persName>, I
+have remained in this place three weeks longer that I intended, in
+the hope of seeing dear <persName>Brown </persName>I sent on 30 dollars to bare his
+Expenses&#8212;and wrote to <persName>Mr. Walker</persName> to send on his account by B
+and he should be paid as soon as money could be raised, I expect him
+daly and shall attend to your wishes in regard to his studying the
+Spanish my page is nearly full and I wish to say something to you
+of <persName>J B.</persName> I fear my dear <persName>Stephen </persName>something has been represented in
+a rong light to you, I never knew what the difficulty was between
+you till about six weeks ago he was here on business and took your
+first letter out of the <placeName>office </placeName>and feeling anxious to know if you had
+heard of his <persName>father</persName>s death and whether you intended [to] go on to
+<placeName>St Antone</placeName>, he opened the letter, when he gave it to me at <placeName>Hazel run</placeName>
+he appeared hurt and agitated in his feelings when I read your
+letter it explained the caus, he has wrote several times and I trust
+when you meet everything will be explained and you will find<persName> J B</persName>
+is not the man his <persName>Enimys </persName>paint him to be and that he is still worthy
+of your confidence and friendship to me he is an affectionate kind
+<persName>son </persName>and tender <persName>husband </persName>and <persName>father</persName>, he is greatly embarast and the
+times is so hard he can sell nothing for money, you may be assured
+your <persName>Brother </persName>would not have been this long in <placeName>Ky </placeName>if he could have
+raised the money by selling flower or whisky at half price no money
+in the state, the <persName>Missouri bank</persName> has failed and the notes dont pass
+The <persName>Edwardsville [bank]</persName> has stopped pament and there is nothing
+talked of but failures and hard times, sickness also prevails 
+everywhere, I have wrote you this long but very incorrect scrawl while
+sitting up with the sick&#8212; I was invited to spend a few days with
+<persName>Mrs. W. Bates</persName> he and the two <persName>children </persName>are ill with the fever and a
+<persName>niece </persName>of <persName>Mr B Anne Nash</persName> are very ill indeed <persName>E B hous</persName> is like a
+hospital in short every family in town has the fever more or less,
+if<persName> B[rown]</persName> does not come next week I shall return to <placeName>hazel run</placeName>
+where theay enjoy perfect health if not happyness, farewell my
+dearest <persName>son</persName>, may <persName>guardien angels</persName> watch and protect you by day and
+by night and hasten the period that will restore you to the anxious
+arms of your affectionate <persName>mother</persName></p>
+
+<p><persName>Maria Austin</persName></p>
+
+<p>twelve oclock at night</p>
+
+<p>[Addressed:] <persName>Mr Stephen F. Austin</persName> to the care of <persName>Doct J Sibley</persName>
+<placeName>Nachitoches </placeName>Mail.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
