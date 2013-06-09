@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0217">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 05-19-1812</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 205-209
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Diary</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1812-05-19">05-19-1812</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Observations on Mississippi River navigation; effects of earthquake at New Madrid; travel in Mississippi.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[May 17-19,1812?] </p>
+<p>This is one of the [wor]st Eddies in the River [and] aught 
+carefully to be guarded against by hug[ging] the <placeName>left shore</placeName> very close,
+the River turns short to the left and opens very wide immediately
+below the Eddy forms itself into two currents which are devided
+by an <placeName>Island </placeName>the left being the Main channel in low water but the
+right the nearest and best in flood</p>
+
+<p>The navigation from <placeName>Cape Gerardeau</placeName> is very good&#8212;except at the
+<placeName>Grand Tower</placeName> where the utmost caution should [be used] the 
+Current being both [swift?] and furious,    it is best [to] pass as near<pb n="206"/>
+the <placeName>Tower </placeName>as you can with safety&#8212; <persName>James Rich</persName> settled on the right
+bank at this place&#8212; <persName>Cape Gerardeau</persName> where I landed on the <date when="1812-05-17">17th</date> is
+a flourishing little Place situated most delightfully on an eminence
+which command a fine view of the river, this place has another most
+fertile tract of country Back of it, in that country which is filling up
+very fast with <persName>emigrants from the <placeName>neighboring States</placeName></persName> and bids fair
+one day to become a Rich and flourishing place&#8212;</p>
+
+<p>The Earthquakes were felt severely here having t[h]rown down,
+or cracked every chimney in the place and Ruined two handsome
+Brick Buildings which were not quite finished-
+Left the <placeName>Cape </placeName>on the <date when="1812-05-18">18</date> and passd the settlement of <placeName>Tiwappita</placeName>, which
+is very considerable on the right Bank&#8212;at the <placeName>Lower end of the
+settlemt</placeName> took leave of the last high Land which appears on the
+<placeName>Right Bank of the River</placeName> from this place to the <placeName>Balize </placeName>landed
+<placeName>near the mouth of Ohio</placeName> <placeName>on the Right Bank</placeName>&#8212; the next day passd
+by the <placeName>mouth of Ohio</placeName> and stopt a fiew hours at <placeName><persName>Bird</persName>s</placeName> to get some
+vegetables &amp;c found them very obligeing and hospitable, while I
+lay here a chorus pasd. by from <placeName>Pittsburgh</placeName>&#8212;and put off just as a
+second one was coming out of the <placeName>Ohio </placeName>with which we floated in
+company the Balance of the day she was from <placeName>Marrietta </placeName>The <placeName>Missippi</placeName>
+is not as wide nor by any means has so beautifull and Majestic 
+appearance as the <placeName>Ohio </placeName>has at their junction had a short glimpse of
+the clear pelucid water of the <placeName>Ohio </placeName>as I passd between the two currents
+which however onefy servd- to highten the thick muddy appearance
+of the <placeName>Mississippi </placeName>by the forcible contrast which the aproximation
+of the two waters presented&#8212;</p>
+
+<p>The <placeName>settlements </placeName>from the <placeName>mouth of Ohio</placeName> are very thin and
+wretched the <placeName>Land on the Right shore</placeName> being so low and swampy as
+to be unfit for cultivation and that of the left belonging to the
+<persName>Chickasha nation</persName> of Indians&#8212; made a good landing about sun
+down on <placeName>Wolf Island</placeName> at the <placeName>House of a <persName>Mr Hunter</persName></placeName>, who was rather
+More than hospitable being anxious to reclaim by his acts of 
+apparently disinterested hospitality, that character which some of his
+deeds while living near <placeName>N Madrid</placeName> had renderd suspitious.</p>
+
+<p>The next day the <date when="1812-05-19">19th</date> landed at <placeName>N Madred</placeName>&#8212;</p>
+
+<p>The Philanthropic emotions of the soul are never more 
+powerfully exercised than when called on [to] witness some great and
+general calamity originating either in the cupidity and oppression
+of Governments which envolves the defenceless Subject in Misery
+and want andw even renders his life Precarious, or in the wise 
+Dispensations of Providence who withholding the ordinary aid in
+bringing to maturity the natural productions of the husbanman
+with Famine or puting in motion the terrible engines of his Power
+and by some extraordinary convulsions throwing a hitherto fertile<pb n="207"/>
+country into dessolation and plunging such of the unfortunate
+wretches who survive the ruin, into Misery and dispair.</p>
+
+<p>These emotions I experianced when on landing at <placeName>N. Madrid</placeName> the
+effects by the Earthquake were so prominently visible as well in
+the sunken and shatered situation of the Houses, as in the 
+countenance of the fiew who remained to mourn over the ruins of their
+prosperity and past happiness As I viewd. the present situation of
+this place and reflected on the cause which desolated it I could not
+refrain from heaving a sigh at its departed prosperity and at the
+same time from regarding with fearfull astonishment the Force of
+a Power sufficient thus to agitate the Earth&#8212;</p>
+
+<p>The effects of the Earthquake began to be visible about <placeName>20 miles
+above this place</placeName> by the shattered state of the <placeName>Bank of the River</placeName>.
+6 miles above this the Bed of the river rose on the night of the <date when="1812-02-07">7
+Feby.</date> the most severe shock which has been felt, and formed a kind
+of falls very similar to the <placeName>falls of Ohio</placeName>, and re[n]dered the 
+navigation very dangerous untill the spring floods had washd. it away
+being onely sand&#8212; There were a number of Boats lost at this
+place, and many lives. The Banks are very much shattered and
+sunken from this place to<placeName> N. M</placeName> where the Bank has sunk about
+nine feet which reduces the former site of the Town, below 
+highwater mark, The shock of the <date when="1812-02-07">7 of Febry.</date> altho not attended with
+quite so terrible a catastrophy, yet excited all the horrors of the most
+violent, and distructive Earthquakes in those who were at this
+place&#8212;the agitation was so great that a man could not stand without
+holding on by something and the <placeName>Mississippi </placeName>rose in an instant 15
+feet which brought the water all round and in some of the Houses,
+which justified the Idea that the whole country was sinking, and as
+there was no high land to fly to they considered themselves as lost&#8212;
+happily however there was not many lives Lost, an unfortunate
+family who were moveing down the River and had Landed here a
+fiew days before was all lost by the overturning of their Boat which
+was carried with a number of others some distance into the woods
+and left dry by fall of the water,&#8212;</p>
+
+<p>Having had occation to go out into the country twenty Miles to the
+<placeName>Big Perain</placeName> [sic] I had an opportunity of seeing all damage which was
+done&#8212;this is nothing compard to what has been reported tho 
+considerable, the Earth is very much crackd. all the way to the <placeName>Perain </placeName>and 
+perferated with holes of different sizes out of which emmence quantities
+of white sand has been discharged mixt.d with a Kind [of] stone coal
+which altho it resembles the common fossil coal in smell yet is more
+regular in its grain and of a clearer Black and will not burn so
+freely&#8212;</p>
+
+<p>There is not in any of these places the smallest appearance of 
+Volcanic Matter tho. there are numbers of marks of the most violent<pb n="208"/>
+operation of heat&#8212;as well in the coal which was discharged as in
+a kind of Sinder which has been found in small quantities&#8212;</p>
+
+<p>[At this point the diary was abandoned. A somewhat bombastic
+oration, perhaps suggested by the Fourth of July, follows. Then
+come various items of expense, too fragmentary for reproduction, for
+August, September, and October. These are followed by the itinerary
+of February [1813?], probably written on Austin's return from New
+Orleans.]</p>
+
+<p><date when="1813-02-01">Feby. 1</date> Started from <placeName>Natchez </placeName>crossd. <placeName>St. Catherines Creek</placeName> and
+came to <placeName>Washington </placeName>6 miles&#8212;about 60 Houses Built of wood in one
+street. Since the depretiation of Cotton the place has declind it is
+the <placeName>seat of government</placeName> for the <placeName>M. T.</placeName> and for the county&#8212;The
+Country in the <placeName>neighborhood </placeName>is very hilly and the old improved
+farms so much washd and gull[i]ed as to be unfit for use&#8212;</p>
+
+<p>Horse Shoe ___________________	4.
+<placeName>Natchez </placeName>Irvans________________      4 1/2 Day
+Feby 1 <placeName>Greenville </placeName>Bradfords___      1.37 1/2</p>
+
+<p>The genl Face of the country through out this part of the Tery
+is uneven it being difficult to get a field of 20 Acres of Level Land,
+the soil notwithstanding is very good and produces well for a
+fiew years until wash.d away by the rain&#8212;Cotton Corn wheat
+&amp;c&#8212;There are at <placeName>Washington </placeName>a set of <placeName>Barracks </placeName>for <persName>Troops</persName>&#8212;6
+Miles beyond we came to <placeName>Salcres Town</placeName> about 10 Houses miserable
+looking place, passd. on to <placeName>Union Town</placeName> 6 miles further about 12
+Houses stopd. at the <placeName>Tavern </placeName>but on being told that neither Hay nor
+Fodder was to be got we pushd on to <placeName>Greenville </placeName>7 Miles further
+making 25 miles from N. 3 Miles past <placeName>Union </placeName>we crossd. <placeName>Coles
+Creek</placeName> very bad ford quicksand&#8212;On left hand side passd. the 
+<placeName>Plantation of <persName>Cato Weston</persName></placeName> The Face of the country continues the same
+and the settlement become more thin</p>
+
+<p><date when="1813-02-02">Feby. 2d</date> Started from <placeName><persName>Mr Bradford</persName>s</placeName> in <placeName>G</placeName> where we got well 
+accommodated and 5 miles on crossd the chubby Fork of <placeName>Coles Creek</placeName> very
+deep Ford and great danger getting mired in the quicksands   stopd.
+3 miles further at ______ and took Breakfast&#8212;<placeName>Greenville </placeName>is the <placeName>seat
+of justice</placeName> for <placeName>Jefferson County</placeName> and is a pleasant Little <placeName>Town </placeName>
+containing about 30 Houses this was formerly the property of <persName>Abijah
+Hunt</persName> whose estate is said to be worth after all his debts are paid
+about 500 000 Dolls <placeName>12 miles from Greenville</placeName> we came to <placeName>Port Gipson</placeName>
+a small Town on the <placeName>Bayou Peire</placeName> containing about 60 Houses some
+very well Built and finished the <placeName>Bayou </placeName>is navigable for Flat Boats
+up to the place when the River is up and when Cotton was up a
+great deal of business was done here,&#8212;this will one day become a
+place of considerable importance   it is now the <placeName>seat of Governt</placeName>. for<pb n="209"/>
+<placeName>Claiborne County</placeName> <persName>Abijah Hunt</persName> sold a <placeName>Plantation </placeName>near this place
+for 70 000&#8212;The General face of the Country from <placeName>Greenville </placeName>and
+in the <placeName>neighborhood </placeName>of this place is hilly and the soil good&#8212;Ferryd
+the <placeName>Bayou </placeName>about 20 yds and stopd. 3 Miles further at the<placeName> <persName>widow
+white</persName>s</placeName> where one of the company having business we put up for the
+day&#8212;and were well accommodated</p>
+
+<p><date when="1813-02-03">Feby 3d</date> Started from <placeName><persName>Mrs. White</persName>s</placeName> and went on,to the Line to 
+<placeName><persName>McRaven</persName>s</placeName>&#8212;the Country not quite so Hilly but soil very thin and Pine
+woods. <date when="1813-02-04">Feby 4 </date>Started from the line and made the first stand 
+<hi rend="italic"><placeName><persName>Osburn</persName>s</placeName> </hi>before sunset 37 miles Pine woods pass.d some <persName>Indian </persName>Houses
+who had small <placeName>farms </placeName>this days travel very miserable to me as I
+was taken with a violent toothache and my horse got Lame in his
+fore foot, weather pleasant&#8212;pass.d 5 Creeks and got tolerable fare
+at <placeName><persName>Osburn</persName>s</placeName> and started before day and went on to <placeName><persName>Bachear</persName>s</placeName> to 
+Breakfast, good&#8212;he is a <persName>white man</persName> who has been living with the <persName>indians</persName>
+about 20 years married a<persName> scaw </persName>[sic] Pass.d the <persName>Agent Dinsmore</persName>
+other side of B&#8212; Passed number <placeName><persName>Indian </persName>Houses</placeName> and a <placeName>Bolo Alley</placeName>
+this [is] a great Play with them and is similar to Red Bandy&#8212;
+Passd an <persName>Indian </persName>H where Mourning Poles were up when an <persName>indian</persName>
+died his <persName>wives </persName>or <persName>relations </persName>put up a long Poll hung with hoops or
+wrethes of grape vine to which the <persName>friends </persName>of the decease cry.d or
+howl.d night and morning these Polls are kept up 5 or 6 months
+when they are burnt and the <persName>Relations </persName>end their mourning by 
+burning the Poles and getting Drunk and having a great frolic&#8212;went
+on to <placeName><persName>Norton</persName>s</placeName> where we staid all night. 40 miles, no Fodder
+plenty of Corn, got but indifferent fair, had to sleep on the Floor
+and got up in the morning more fatigued than when I lay down,
+Started by day Light, and went 20 miles to an <placeName><persName>Indian </persName>Hut</placeName> where we
+got a Kettle and made Coffee and fry.d Sausages &amp;c for Breakfast
+Pass.d an <placeName><persName>Indian </persName>House</placeName> where two <persName>Scaws </persName>were howling, crying over
+the grave of their <persName>husband</persName>&#8212;went on to <placeName><persName>Leflor</persName>'s</placeName>. <persName>Frenchman </persName>who
+married a <persName>sqaw.</persName> 42 miles got good fare for Horses but miserable for
+our selves, we here discover.d that <persName>Heyden</persName>s mare got foundered at
+<placeName><persName>Norton</persName>s</placeName>, started early and went to <placeName><persName>L. Leflor</persName>'s</placeName> where stop.d for
+Break[fast] good fare for Man and Horse. <persName>Heydens</persName> swap.d his
+mare for a small Spanish Poney which detain.d us untill afternoon
+when we started and 7 Miles on Met the <persName>Troops </persName>under the command
+of <persName>Col. Coffee</persName> encamp.d at <placeName><persName>Mr Curtis</persName>es</placeName>&#8212;there is 666 of them went
+on 5 miles further to <placeName>Mitchels</placeName> where we stop.d and got very good Fare
+for selves and Horses&#8212;Poor Pine Country   weather fine.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

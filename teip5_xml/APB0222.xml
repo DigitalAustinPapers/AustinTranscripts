@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0222">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Charles Staples to Moses Austin, 07-09-1812</title>
+            <author>
+                <persName>Charles Staples</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 215
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1812-07-09">07-09-1812</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Charles Staples in account with Moses Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Charles Staples</persName>
+To <persName>Moses Austin</persName> Dr</p>
+
+<p><date n="xx-xx-1812">1812</date></p>
+
+<p><date when="1812-06-14">June	14</date>	To 6 Bares Lead____311 pounds 5 Cents_____________			    $15. 55</p>
+
+<p><date when="1812-07-09">July  9 </date>  	To 1 pr Mockersons________________________________       . 50
+1 ps Cotton___________________________________________________      3. 00
+1 Cotton Ball_________________________________________________       . 25
+1 Jack Knife__________________________________________________       . 37 1/2
+											___________
+  											  			4. 12 1/2
+To 2 days lost time___________________________________________       . 66 2/3       1. 33 1/3
+														_________
+													    $21. 1-</p>
+
+<p>By 738 lb Mineral 200 Cents___________________________________     14. 76
+   286 lb    do       do  ____________________________________      5. 72
+											____________
+											 20. 48          20. 48
+By 3 Month (<persName>Waggoner</persName>) @ 20 Dollars____________________________     60. 0
+											____________
+											$80. 48
+						deduct_____________________    21. 1
+											____________
+											 59. 47</p>
+<p>equal to 1489 lb Lead Deliver'd at <placeName>Hereulaneum</placeName></p>
+<p>Enterd in Blotter</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

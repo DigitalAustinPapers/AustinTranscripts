@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0227">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 12-04-1812</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Durham Hall, MO.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Philadelphia, PA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 220-221
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1812-12-04">12-04-1812</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Business bad.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Mr James Bryan</persName></p>
+
+<p><placeName>Durham Hall,</placeName><date when="1812-12-04"> Decr 4, 1812</date>.</p>
+
+<p>Dr Sr I recd your letters from <placeName>Philadelphia </placeName>by <date when="1812-12-03">yesterday</date>s mail
+and noted the Contents, few events of my life has given me more
+unhappjness than the detention of my son <persName>Stephen </persName>with his Cargo in
+<placeName>New Orleans</placeName> his last letter gave me reason to suppose that he would
+soon leave the <placeName>low Country</placeName> and I hope to god he may have disposed
+of his Cargo, and be on his way for <placeName>Philadelphia</placeName>. <date n="1-03-1812">Yesterday </date>brought
+letters from <persName>Mrs Austin</persName> after her return from, <placeName>New Haven</placeName> but she
+had not seen you when she wrote She expressed great Desire to see
+you. I hope It may releive her mind when she has a Conversation
+with you&#8212;</p>
+
+<p>Would to god I could give you something pleasing on the Subject
+of business, altho times was bad when you left this they are much
+more depressed at this moment&#8212;the <persName>Indian </persName>War first put a general
+stop to all business, by drawing of all the <persName>troops </persName>to the <hi rend="italic">frontier</hi>.
+Since they returned the Weather has been most unfavourable to 
+mining and little has been don[e]. <placeName>Mine Shibboleth </placeName>is nearly abandoned
+and what remain are doing little, to Collect is almost out of the
+question. I do not think any person about the <placeName>Mines </placeName>has Collected
+as much as to pay the expenees of a Ride after the <persName>Debtors</persName>, that
+has been the case with me and I know that its the same with Your
+<persName>Brother </persName>and <persName>William Bates</persName>, the truth is nothing is doing, and both
+money and Lead are equally difficult to obtain&#8212;and what makes
+the matter Still more distressing, <hi rend="italic">is</hi>, that Lead when obtained will
+not command Money at more than 3/50 <hi rend="italic">Cents, or&#8212;375</hi>. the reduced
+price has driven most of the <persName>hands </persName>from the <persName>mines</persName>, many have
+joined the <persName>companies of rangers</persName> and many inlisted under <persName>Capt Allen</persName>,
+that you may be assured, that little lead will be made this <date n="WInter-1812">Winter</date>.
+I have good prospects, in digging but the <date n="Fall-1812">fall </date>has been so rany that
+many of my best leads of mineral are under Water</p>
+
+<p>I wrote you some weeks past respecting a discovery of Antimony.
+I have reced further information on that Subject, and have reason
+to believe that its of consequence and if a lease can be obtained that
+something great may be don[e] with it I hope to hear from you on
+this Subject&#8212; Salt Peter, is, I understand in demand and a good
+price.    I will thank you to inform the price in <persName>Philadelphia</persName></p>
+
+<p>Dry goods are not plenty and a good assortment would sell 
+immediately but how the payments could be made is the question. A
+good <placeName>store at Herculaneum</placeName> would do a good business, and command<pb n="221"/>
+both Lead and provisions, the Articles in demand are Linens and
+Cotton goods Woolens, in general Country Linen&#8212; Iron and Steel,
+Crockery of all kinds but mostly plates Bowls and Dishes, <hi rend="italic">Porter</hi>,
+and, Bar Sugar and Spices of all kinds, good Tea Chocolate and in
+short all kinds of articles in that way a general assortment, of Iron
+Articles such as large Kittls Poots Skillets Spiders Cart and 
+Waggon Boxes.</p>
+
+<p>I do not think a doz. plates can be had in <persName>Saint Louis</persName> and <persName>Saint
+Geneveive</persName> such things with a Constant supply of Salt would 
+command the best <persName>Customers</persName>, and prompt pay Salt Iron Steel Porter
+Coffee Sugar command Cash and Lead much sooner then any Other
+Articles but to, <hi rend="italic">sell</hi>, any kind of goods on Credit is absolute, <hi rend="italic">ruin</hi>, I
+think I may make Sixty or Seventy thousand pounds of Lead 
+between this and <date n="Spring-1813">Spring</date>. If my prospects continue and the Season
+is not over, <hi rend="italic">rany</hi>, I think I have found a good Salt peter <hi rend="italic">Cave</hi>, I
+shall Examin, it, and if it proves good shall work it With a few
+<persName>hands</persName>&#8212;</p>
+
+<p>My Dear <persName>famely </persName>are constantly in my mind and I can say nothing
+about a return&#8212;only I expect that <persName>Stephen </persName>in company with 
+yourself will take Steps to bring then back.</p>
+
+<p>As to News nothing of moment has taken place lately. Our War
+measures goe on badly I think <persName>General Hopkins</persName> has returned to
+<placeName>Kentucky </placeName>and Care[s] nothing what the <date n="Spring-1813">spring </date>may produce God
+only knows</p>
+
+<p><persName>M. Austin</persName></p>
+
+<p>[Addressed:] <persName>Mr. James Bryant</persName> <placeName>Philadelphia</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

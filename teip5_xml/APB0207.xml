@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0207">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Solomon Dally to Moses Austin, 12-24-1811</title>
+            <author>
+                <persName>Solomon Dally</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 198
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-12-24">12-24-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Moses Austin in account with Solomon Dally.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Dr <persName>Moses Austin Esqr</persName> in Acct with <persName>Solomon Dally</persName></p>
+<p><date n="xx-xx-1811">1811</date></p>
+<p><date when="1811-04-18">Apl	18</date>	To Assumption for <persName>Baldwin</persName>________________	  1. 00</p>
+
+<p><date when="1811-09-24">Sept 	24</date>    "   <placeName>School </placeName>subscription__________________   1. 50</p>
+
+<p><date when="1811-12-24">Dec 	24</date>    "   Ditto Ditto__________________________   4. 50
+									_________
+									$10. 00</p>
+<p>		Due <persName>M A and Co</persName> __________________________  20. 2 1/2
+									__________
+									 30. 2 1/2</p>
+
+<p>Cr
+<date n="xx-xx-1811">1811</date>                                                    $ cts</p>
+
+<p><date when="1811-06-03">June 	3</date>  	By my order pr J. Downer_________________     . 56 1/4
+	<date when="1811-06-06">6</date>    	"  l pr Scissors_________________________     . 50</p>
+
+<p><date when="1811-08-30">Augt. 30</date>    "   1 lb Sugar___________________________     . 50 </p>
+
+<p><date when="1811-09-22">Sept. 22</date>    "    2 lb Ditto @ 50_____________________    1. 00
+	<date when="1811-09-26">26</date>    "    1 yd Shambry @ 100__________________     . 25</p>
+
+<p><date when="1811-10-06">Oct 	6</date>     "   in lb Beef @ 4_______________________     . 46
+	<date when="1811-10-15">15</date>    "    1 lb Ginger @ 50____________________     . 25
+	<date when="1811-10-16">16</date>    "   2 lb Sugar @ 50______________________    1. 00
+	<date when="1811-10-21">21</date>    "    Merchandise_________________________   23. 00</p>
+
+<p><date when="1811-11-02">Nov 	2</date>     "    Shoing horse________________________    1. 25
+	<date when="1811-11-07">7</date>     "   1 lb Wool____________________________     . 50
+									____________
+									 $29. 27 1/4
+		"   upseting Axe_________________________     . 50
+									____________
+									 $29. 77 1/4
+									  10. 00
+									____________
+									  19. 77 1/4
+		" th yd Velvet @ 2.00____________________     . 25
+									____________
+									  30. 02 1/4
+									  10. 00
+									____________
+Balance due you______________________________________   20. 02 1/4</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

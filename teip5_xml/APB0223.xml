@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0223">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen Austin to Moses Austin, 07-12-1812</title>
+            <author>
+                <persName>Stephen Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St Genevieve, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 216
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1812-07-12">07-12-1812</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">His cargo sank in the Mississippi. Declaration of war. Privateers. Prices.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1812-07-12">July 12 1812</date></p>
+<p>Dr <persName>Father</persName></p>
+
+<p>I wrote you from the [undecipherable] stating the situation of
+the Cargo which is sunk there and saying that I should return home,
+But in consequence of the <hi rend="italic">Declaration of War</hi> I have determined
+to stay here untill I get up the Cargo and make sale of it, and then
+I can proced immediately on to <placeName>N. York</placeName> with out delay&#8212;</p>
+
+<p>The declaration of war was received here by <persName>express </persName>from 
+<placeName>Washington </placeName>on the <date when="1812-07-08">8th Inst</date> and has thrown every thing into confusion.
+Business is almost anihilated Cotton fell in one day from 9.50 to
+5 and 4.50 There are a great many Vessels in port all loaded and
+redy for sea they are now Striping and laying them up&#8212;</p>
+
+<p>Amidst my <hi rend="italic">misfortunes </hi>I think I have been <hi rend="italic">truly fortunate</hi>, for
+had I arrived safe here. I should have saild about the <date when="1812-06-29">29th of June</date>
+and should have undoubtedly been Captured,&#8212;Report says that
+there were thirty odd <persName>Privateers </persName>laying at <placeName>New Providence</placeName> ready
+for sea as soon as the declaration of war reached them&#8212;and that <placeName>all
+the Forts in the British Islands</placeName> were fitting out as fast as possible
+in expectation of the war. so that they were prepared for 
+immediate opperation the moment war was declair'd, It is the general
+oppinion that all the vessels which cleard the <placeName>Balize </placeName>after the <date when="1812-06-16">16th
+of June</date> will be taken about 15 in number, in fact Insurance cannot
+be got on those which cleard it on the <date when="1812-06-10">10th</date> and <date when="1812-06-12">12th </date>of less than 50
+pr cent.</p>
+
+<p><persName>Genl Wilkinson</persName> arrivd here on the <date when="1812-07-09">9th</date>. on Bord the U. S. Brig
+Enterprise and has <hi rend="italic">resumed the Command</hi>, he was welcomed by a
+salute from <placeName>Fort St. Charles</placeName> etc&#8212;There is but little said about him
+nothing has been done as yet with the <persName>Troop </persName>here&#8212;The Coffee
+House Books this Morning say that <hi rend="italic"><persName>Sir. James Yoes</persName></hi> in <placeName>Frigate
+South Hampton</placeName> is off the <placeName>Balize</placeName>&#8212;One of our gun Boats a few
+day[s] since in an engagement with two <persName>French Privateers</persName> who
+had Capt'd a <persName>Spanish </persName>ship at the <placeName>Ba[lize]</placeName> burst his 26 pounder
+wounded some of his men and&#8212;Run away!!</p>
+
+<p>The sickness will soon commence here I shall therefore leave this
+<date when="1812-07-13">tomorrow </date>in the Steam Boat for <placeName>Natchez </placeName>where I mean to stay until
+<persName>Burt </persName>pays what he owes then I will return to the <placeName>Attackapa </placeName>and
+try and make something out of the [undecipherable] which <persName>Dun</persName>
+has&#8212;There is no price for <hi rend="italic">lead </hi>tho. I think it would bring 6$ Sheet
+lead wile sell well and also Shott. Coffee rose in two days from
+18. to 25 cents and is still on the rise&#8212;</p>
+
+<p><persName>Step. F. Austin</persName></p>
+<p><persName>M Austin Esqr</persName>.</p>
+
+<p>[Addressed] <persName>Moses Austin Esqr. P. Master </persName><placeName>Mine A Burton Dist.
+St. Genivieve T. La</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

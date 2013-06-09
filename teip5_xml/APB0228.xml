@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0228">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, xx-xx-1812</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 221-222
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1812">xx-xx-1812</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lead production [1812?].</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>[1812?]</p>
+<p>Memorandum</p>
+
+<p>It is to be observed that this Exhebit cannot be closed entirely in
+consequence of the agency of <persName>Judethu Kendle</persName> Not having been 
+settled and altho. the books of said <persName>Kendle </persName>have been obtained the
+unsettled state of the accounts rendered it impossible to make a
+close of them in time for this Exhebit it is also proper to Notice
+that as many account of the <persName>company </persName>stand unsettled and may when
+closed create a Debt or Cr to the <placeName>Lead Mine</placeName> A/c it would be improper
+to close this Exhebit entirely untill such settlements are compleated&#8212;
+It appears that the amount of Mineral Smelted by the <persName>companey </persName>from
+<date n="xx-xx-1798">1798 </date>to <date n="xx-xx-1812">1812 </date>has been 2680 186 pound which has produced 1750 975
+Lead about 65 1/2 pr on the Mineral Smelted&#8212;This Deft [defendant]
+reserved to himself the right of correcting any Errors or omissions<pb n="222"/>
+that may have taken place in this exhebit should any hereafter be
+found to exist&#8212;</p>
+<p><placeName>Boat Building</placeName></p>
+<p>6 Boats 40 feet each is 240 [feet] @ 3 Dollars [per foot] 720 of
+these boats 4 was lost in a storm in the <placeName>Mississippi </placeName>and two loaded
+with about 14 thousand Pine staves and sent to <placeName>Orleans </placeName>which Debt
+I beleave was sold for 20 Dollars pr thousand but as the Voyage
+under the care of <persName>Elias A Elliot</persName> has not been settled it cannot now
+be stated what will be the actual loss on this stave business, all the
+money advanced by this Deft for the purchase of staves are 
+included in the above account the true state of this business cannot
+be Known untill <persName>Moses </persName>and <persName>James Austin</persName> settles there A/c with the
+companey also.</p>
+
+<p>[Moses Austin]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

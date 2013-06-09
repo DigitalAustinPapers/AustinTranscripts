@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0205">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Seth Hunt, 11-24-1811</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Seth Hunt
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 196-197
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Statement of Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-11-24">11-24-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Seth Hunt in account with Moses Austin &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Seth Hunt</persName> in a/c <persName>M Austin</persName></p>
+
+<p>To old Balance____________________	104. 71
+To  Cash <persName>Robertson</persName>________________   20. 0
+To  <persName>Treat</persName>_________________________    7. 0
+To <persName>J G Bond</persName>_______________________  600. 0
+To <persName>Carr</persName>___________________________  200. 0
+To <persName>Hempstead</persName>______________________   10. 0
+To <persName>R Easton</persName>_______________________   15. 0
+						_______
+					     $956. 71<pb n="197"/></p>
+
+<p>To Sundries_______________________  130. 0
+<placeName>Lead Mines</placeName>________________________ 1892. 40
+<persName>C. A. Elliott</persName>_____________________   84. 78
+						_______
+					    $3063. 88 </p>
+
+<p>By 1/4 <persName>Reneut C</persName>___________________ 1700.
+By   Expence______________________  600.
+By Sundry fees____________________   15.
+<persName>Ficklin</persName>___________________________   20.
+						________
+					     2325.
+Paid freight______________________  157. 70
+						________
+					     2482. 70
+Balance___________________________  581. 18
+						________
+					    $3063. 88</p>
+
+<p>Memorandum of <persName>Seth Hunt</persName>s a/c as it stands on <persName>M Austin and Co</persName>
+<date n="04-xx-1811">Apr</date>-<date when="1811-11-24">Novr 24 1811</date></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

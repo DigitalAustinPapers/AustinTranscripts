@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0225">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Stephen F Austin, 09-26-1812</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Durham Hall, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 217
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1812-09-26">09-26-1812</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Danger from Indians and negroes.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Durham Hall</placeName> <date when="1812-09-26">Sept 26 1812</date></p>
+<p>My Dear <persName>Son </persName>[in New Orleans]</p>
+
+<p>When I wrote you last I was under very great apprehension of
+the <persName>Indians </persName>and I did truly think that we should have a visit from
+them in a few days&#8212;but things have changed and I am now 
+satisfied that we are safe, great exertions have been made, and many
+<persName>troops </persName>called out, and are now out on the <placeName>frontier</placeName>, the <persName>Indians </persName>that
+threatened this <placeName>Territory </placeName>have retired back to [the] <placeName>Wilds of the
+North</placeName>, and the <persName>Troops on the <placeName>North of the Meremac</placeName></persName> I think 
+sufficient to keep them on <placeName>that Side of the River</placeName>. I have seen an account
+of a most deadful storm in <placeName>Orleans</placeName>, that has don[e] much damages
+you will write me an a/c in your next I have also seen an account
+of <persName>Negroes </persName>being landed in <placeName>St Augustine</placeName> and <placeName>Pensacola </placeName>in excellant
+order and under the command of <persName>British officers</persName>, and that great
+apprehensions existed in consequence of many <persName>Negroes </persName>running away,
+and, joining the <persName>English </persName>Standard. Should this be true, I have a
+desire that you leave a <placeName>Country </placeName>where you will be in greater danger
+from <persName>Negroes </persName>than we are from <persName>Indians</persName>, but of this you will be the
+better Judge. As much as I apprehend danger from <persName>Negroes </persName>in the
+<placeName>low Country</placeName>, I wish I had 50 more at the <placeName>mines </placeName>I could make the
+value of them this year in the state the <placeName>mines </placeName>are in and I have 
+Supposed that you could make yourself acquainted how they may be
+obtained in <placeName>Carolina </placeName>from <persName>Mr Hampton</persName>, and If you could by any
+contract obtain 10, or 12, payable in <placeName>Orleans</placeName>. It would make a great
+alteration in our business&#8212; You must be carefull in puting your
+cargo in <placeName>Orleans </placeName>for sale and the price of the Shott will be 
+determined by the Order of your cargo, may be when presented for sale,
+I have mentioned that I should make ready an Other cargo of sheet
+lead and that you had better stay untill It arrived, this I still think,
+for the best and had not the <persName>Indians </persName>have put a stop to every kind of
+business I should have had the Cargo of [f] before this time I shall
+make exertions to forward it to you so as to arrive in all next month,
+and I think you had better attend untill that time.   .   .</p>
+
+<p>[Moses Austin.]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
