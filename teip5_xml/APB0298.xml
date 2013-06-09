@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0298">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Staples, 11-06-1817</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Staples
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 322
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Freight Charges</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-11-06">11-06-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin in account with James Staples.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Mesrs. Stephen F. Austin
+	To James Staples Dr</p>
+
+<p><date n="xx-xx-1817">1817</date></p>
+<p><date when="1817-02-20">Feby	20th </date>	To Halling 61 bars Lead to <placeName>Herculaneum </placeName>2512 lbs  @
+			7$ pr thsd___________________________________________________    $17. 58 1/2
+
+  <date when="1817-02-26">" 	26</date>    "  Halling 50 bars do.   (not weighed)  averaged by the
+			rest @ 2100 _________________________________________________     14. 70
+
+ <date when="1817-02-26"> "    "</date>    "  Halling 1 Load of Meal from <placeName>Horines Mill</placeName> to <placeName>Mine A
+			Burton</placeName>_______________________________________________________      9. 00
+
+  <date when="1817-02-26">"    "</date>    "  Halling 1000 lb Iron from <placeName>Herculaneum </placeName>to <placeName>Mine A
+			Burton</placeName>_______________________________________________________      5. 00</p>
+
+<p><date when="1817-08-02">August 2</date>    "  Halling 59 bars Lead to <placeName>Herculaneum </placeName>2427 lb @ 7$
+			p thsd_______________________________________________________     16. 99
+
+ <date when="1817-08-08"> "	8</date>     "  Halling 81 bars do. 3352________________________________________     23. 46
+
+  <date when="1817-08-14">"	14</date>    "  Halling 71    "    do. 2912"____________________________________     20. 38 1/2
+
+ <date when="1817-08-26"> "	26</date>    "  Halling 40 1/2 "   do. 1616"____________________________________      11. 31
+
+  <date when="1817-08-28">"	28</date>    "  Halling 67     "   do. 2763"____________________________________      19. 34</p>
+
+<p><date when="1817-09-05">Septr  5</date>    "  Hailing 67     "   do. 2766 "___________________________________      19. 36
+
+  <date when="1817-09-05">"    "</date>    "  Halling 26     "   do. 1069 "___________________________________       7. 48 1/2
+
+  <date when="1817-09-05">"    "</date>    "  Halling  1  Barrel   Salt  from  <placeName>Herculaneum  </placeName>to  <placeName>Mine
+			A Burton</placeName>_____________________________________________________       1. 50
+														___________
+													     $166. 11 1/2</p>
+<p><date when="1817-09-20">Sepr  20</date>   "   Halling 50 bars Lead to <placeName>Herculaneum </placeName>2014 lb @ 7$
+			p thsd_______________________________________________________      14. 09
+														___________
+													     $180. 20 1/2</p>
+
+<p>Amt brt over___________________________________________________________________     180. 20
+
+By <persName>Black Smith</persName> a/c and Cash____________________________________________________      91. 91 1/2
+													      ___________
+
+														$88. 28 1/2</p>
+<p>[Endorsed:] Settled <date when="1817-11-06">Nov 6. 1817</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

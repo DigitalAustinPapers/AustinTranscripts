@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0296">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin and Company to Wilkins and Catron, 09-14-1817</title>
+            <author>
+                <persName>Stephen F. Austin and Company</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Wilkins 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Catron
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 321
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-09-14">09-14-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin &amp; Co. in account with Wilkins &amp; Catron.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+
+<p><persName>Stephen F Austin and Co</persName>
+To <persName>Wilkins and Catron  </persName>     Dr</p>
+
+<p><date n="xx-xx-1817">1817</date></p>
+
+<p><date when="1817-02-20">Feby 	20</date> 	To 207 lbs Iron________________________@ 1/____    31. 55     [sic]
+
+	<date when="1817-02-20">"</date>  	To 1 Barrel Flour______________________________     8. 00
+
+	<date when="1817-02-20">"</date> 	To 1 pr and Irons 37 lbs______________@ 10_____     3. 70
+
+		To 1 pot 28 lbs_______________________@ 10_____     2. 80</p>
+
+<p><date when="1817-03-07">March 7</date> 	To 1048 lbs Bars Iron__________________1/1_____   174. 67
+
+	<date when="1817-03-07">"</date>  	To 16 lbs Crowley Steel______________50________     8. 00
+										  ________
+										  228. 72</p>
+
+<p><date when="1817-09-14">Sept	14</date> 	To 514 w Bar Iron pr order 15 cts______________    77. 10
+
+		" 86 " plow moulds___________________1/________    14. 33
+
+		21 1/2 " Crowley Steel_______________50________    10. 75
+										  ________
+										  331. 90
+										  ________
+										  331. 90
+
+										  102. 14 1/4</p>
+
+<p><date n="xx-xx-1817">1817       </date>Contra_______Cr________________________________
+
+<date when="1817-05-17">May 	17</date>	By 2029 lbs Lead____________________@5.00_____	  101. 45
+										  ________
+										  126. 27
+
+								  due_____   $230. 45</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

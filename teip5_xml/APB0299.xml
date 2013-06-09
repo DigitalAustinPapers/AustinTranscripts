@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0299">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Elias Bates, 11-15-1817</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Elias Bates
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 323-324
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Lead Production</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-11-15">11-15-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin &amp; Co. in account with Elias Bates.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Stephen F Austin and C°</persName> Lead Account <persName>Elias Bates</persName></p>
+
+<p><date n="xx-xx-1817">1817</date>
+
+<date when="1817-02-24">Feby 	24</date> 	paid <persName>Mr  Wawfield</persName>______________________   2800 lb
+
+<date when="1817-03-12">March 12</date>     "   <persName>James   Scott</persName>_____________________   2005
+
+<date when="1817-03-15">	15</date>     "   <persName>Smith &amp; Specer_</persName>___________________    737
+
+<date when="1817-03-15">	"</date>   	<persName>M Austin</persName>'s Order to Wilt_______________   6000
+
+<date when="1817-03-15">	"</date>   	do     do        <persName>Willson and Pettit</persName>____    300
+
+<date when="1817-03-15">	"</date>   	do     do        <persName>D Dunklin</persName>_____________   2002		13845
+								     _______
+</p>
+
+<p><date when="1817-05-15">May   15</date>    "   do   do        <persName>Wilkins</persName>_____________   2029
+
+<date when="1817-05-16">	16</date>    "    do  do       <persName> J S Bricky</persName>__________   3600
+
+<date when="1817-05-20">	20</date>  	Sold to <persName>Mr Roberts</persName> a $4.87$____________   6000
+
+		Sold to <persName>Mr Deason</persName> a $4.75______________   7603
+
+<date when="1817-06-17">June  17</date> 	paid <persName>M Austin</persName>'s Order to <persName>K Cottel</persName>______   4630
+
+	"      "   for small Bars for do   __________    463		24325
+								     ________</p>
+
+<p><date when="1817-07-01">July  1</date> 	Sold for Cash a $4.50__________________   2000
+
+<date when="1817-07-22">	22 </date>	paid<persName> M Austin</persName>'s Order to Wilkins_______   4000
+
+<date when="1817-09-11">Septr 11</date> 	your Order to <persName>J W Honey</persName>________________   1531
+
+			<persName>E Bates</persName>__________________________    843
+
+<date when="1817-09-18">	18</date> 	sold for Cash paid <persName>M Austin</persName>____________   6667
+
+<date when="1817-11-01">Nov   1</date> 	Delivr <persName>M Austin</persName> to make Shott__________   6000
+
+<date when="1817-11-12">	12</date>            <persName> E Bates</persName>_______________________   2883		23924
+								     ________
+</p>
+
+<p>Cr
+
+<date n="xx-xx-1817">1817 </date>                                                NB Bars             Wt
+
+<date when="1817-02-07">Feb	7</date>    20 Hawled by <persName>S Staples</persName>__________________ 	60            	2512
+
+		<date when="1817-02-07">"    "</date>	<persName>T Newell</persName>___________________   57                2320
+
+<date when="1817-02-22">	22</date>    "          <persName> S Brown</persName>____________________   "                  757
+
+<date when="1817-02-24">	24</date>    "           <persName>Wawfield</persName>___________________   70                2905
+
+<date when="1817-02-27">	27 </date>   "           <persName>Staples</persName>____________________   50                2032
+
+<date when="1817-02-28">	28 </date>   "           <persName>T Newell</persName>___________________   52                2158		12634
+											    _______</p>
+
+<p><date when="1817-03-03">March 3</date>     "           <persName>J Goza</persName>_____________________   54                2194
+
+<date when="1817-05-08">May   8</date>     "           <persName>Shelly</persName>_____________________   48                2029
+
+<date when="1817-05-09">	9</date>     "           <persName>J Cunningham</persName>_______________   50                2043
+
+<date when="1817-05-11">	11</date>    "           <persName>Hoverstick</persName>_________________   60                2486
+
+<date when="1817-05-12">	12 </date>   "           <persName>Cunningham</persName>_________________   55                2270
+
+<date when="1817-05-16">	16</date>    "           <persName>Shelly</persName>_____________________   60                2455		13477
+											    _______</p>
+
+
+<p><date when="1817-05-16">	" </date>    "           <persName>Cunningham</persName>_________________   50                2001
+
+<date when="1817-05-21">	21</date>    "           <persName>Shelly</persName>_____________________   63                2538
+
+<date when="1817-05-22">	22 </date>   "           <persName>Carsey</persName>_____________________   50                2012
+
+<date when="1817-05-27">	27</date>    "             do   ____________________   53                2161
+
+<date when="1817-05-27">	"</date>     "		<persName>Shelly</persName>_____________________  60                 2487		11199
+											    _______
+</p>
+
+<p><date when="1817-06-01">June  1</date>     "           <persName>J Staples</persName>__________________  26                 1069
+
+<date when="1817-08-02">Augst 2</date>   	"        	d°  _______________________  59                 2427
+
+<date when="1817-08-08">      8 </date>                d°  _______________________  81                 3352
+
+ <date when="1817-08-14">	14</date>    "           d°  _______________________  71                 2912
+
+<date when="1817-08-26">	26 </date>   "           d°  _______________________  40 1/2             1616
+
+<date when="1817-08-28">	28</date>    "           d°  _______________________  68                 2763		14139
+											    _______<pb n="324"/></p>
+<p>cr
+
+<date n="xx-xx-1817">1817</date>                                                Nn Bars             Wt
+
+<date when="1817-09-04">Sept  4</date>  	Hawled by <persName>J. Staples</persName>___________________  67                 2766
+
+<date when="1817-09-20">	20</date>     "        d°      _____________________  50                 2013
+
+<date when="1817-10-16">Octr  16</date>     "         <persName>Sinclair</persName>____________________  55                 2225
+
+<date when="1817-10-18">	18</date>     "         <persName>W Whaley</persName>____________________  44                 3777
+
+<date when="1817-11-04">Novr  4 </date>     "         <persName>Hovirstick</persName>__________________  45                 1794          10573
+													______________
+														  62074</p>
+
+<p>Cr
+
+<date n="xx-xx-1817">1817</date>
+
+<date when="1817-02-04">Feby  4</date> 	Cash lent <persName>M Austin</persName>___________________________   100                100
+
+<date when="1817-05-20">May   20</date>     d°           d°  _________________________________________         20
+
+		paid for Drugs_____________________________________________           . 75
+
+		  d°   for 3 stamps________________________________________           . 75
+
+		Cash pd for you at <placeName>Bank</placeName>____________________________________         28. 15
+
+		 d°         d°       ______________________________________        220.
+
+             d°   paid your Order to <persName>Shelly</persName>____________________________          5.
+
+             do    <persName>M Austin</persName>'s Order to <persName>Friend</persName>__________________________          6.
+
+<date when="1817-05-26">	26</date>     d°   Sent you by mail_____________________________________        150.
+
+<date when="1817-06-05">June  5</date>    	 d°   paid you at <placeName>St Louis</placeName>_________________________________        233.
+
+<date when="1817-07-09">July  9</date>      d°   paid your Order to <persName>Hoverstick</persName>________________________         16. 97
+
+		 d°   <persName>Wawfield </persName>Hawling 105lb lead__________________________           . 73 1/2
+
+<date when="1817-09-20">Septr 20</date>     d°         d°        <persName>M Austin</persName> at <placeName>St Louis</placeName>&#8212;________________        300.
+
+             d°   paid your order to <persName>Cunningham</persName>________________________         23. 14
+
+<date when="1817-10-13">Oct   13</date>     d°   paid you_____________________________________________         80.
+
+<date when="1817-11-10">Nov   10 </date>    d°   paid for you at <placeName>Bank</placeName>_________________________________         73. 14
+
+<date when="1817-11-15">	15</date>     d°   paid you_____________________________________________         48.
+													_____________
+												     $1305. 63 1/2</p>
+
+<p>Cr
+
+<date n="xx-xx-1817">1817</date>
+
+<date when="1817-06-27">June  27</date>  	By 6000 lb lead sold <persName>Roberts </persName>@______________    $4. 87 1/2          292. 50
+
+		By 7603 lb   d°     d°   <persName>Deason</persName>_____________     4. 75              361. 14
+
+<date when="1817-07-09">July  9</date>     "  2000 sold for Cash_______________________     4. 50               90.
+
+<date when="1817-08-20">Aug   20</date>    "   343 <persName>E B</persName>_________________________________________________         37. 93 1/2
+
+<date when="1817-09-18">Septr 18</date>    "   6667lb sold for Cash pr <persName>M Austin</persName>________     4. 50              300.
+
+<date n="1-12-1817">Nov.  12</date>    d°   2283 by <persName>E B</persName>____________________________     4. 50              129. 93 1/2
+													______________
+													 1211. 31
+													______________
+						Balance Due  _______________________         94. 32 1/2
+													______________
+													$1304. 63 1/2</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

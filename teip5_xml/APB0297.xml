@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0297">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, 10-09-1817</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 321-322
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Contract</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-10-09">10-09-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Contract to explore for copper.  Moses Austin, Elias and Stephen Rector, R. H. Price, and T. Douglass.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Contract to Explore for Copper</p>
+
+<p>Articles of agreement made and entered into this <date when="1817-10-09">ninth day of
+October in the Year eighteen hundred and Seventeen</date>, between <persName>Moses
+Austin</persName> of the <placeName>county of St. Louis</placeName> and <placeName>Territory of Missouri</placeName>, of the
+one part, and <persName>Elias Rector</persName>, <persName>Stephen Rector</persName>,<persName> Risdon H price</persName> and
+<persName>Thompson Douglass</persName> of the county and territory aforesaid, of the
+other Part, VIZ, the Said <persName>Austin</persName>, at his own individual expence to
+make a full and fair experiment upon a certain tract or tracts of land
+lying in the <placeName>Territory of Illinois</placeName> and <placeName>County of Monroe</placeName> in which
+there is suppos'd to be a <placeName>Mine of Copper</placeName>, to ascertain which the said
+<persName>Austin </persName>is to make the experiments, Then the said <persName>Rectors</persName>, <persName>Price</persName><pb n="322"/>
+and <persName>Douglass </persName>so far as they are interested obligate themselves to
+convey to the said <persName>Austin</persName>, in the event of his finding Mineral a 
+proportion of said Land, equal in quantity to, one Seventh of the whole,
+at the same prices and upon the same conditions as they themselves
+have become possessed of the same It is further agreed that in all
+future purchases of Lands contiguous to, or Joining the aforesaid
+tracts, the <persName>parties </persName>to these presents shall have a Joint and equal
+interest, as also <persName>Thos A. Smith</persName> and<persName> Justus Post</persName>, who are equally 
+interested with the said <persName>Hectors </persName><persName>Price </persName>and <persName>Douglass</persName>, provided they shall
+assent to this agreement&#8212;, for the performance of the conditions of
+this contract the parties Bind themselves to and with each other as
+witness our hands and seals the day and date above written&#8212;</p>
+
+<p><persName>Moses Austin</persName>                                 [seal]</p>
+
+<p><persName>Elias Rector </persName>                                                [seal]</p>
+
+<p><persName>Stephen Rector </persName>                            [seal]</p>
+
+<p><persName>Risdon H Price  </persName>                            [seal]</p>
+
+<p><persName>Thompson Douglass </persName>   [Rubric]    [seal]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

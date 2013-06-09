@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0295">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 09-06-1817</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Run, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 320-321
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-09-06">09-06-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce. Financial difficulty.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1817-09-06">Sept 6th 1817</date></p>
+<p>Dear <persName>Son</persName>,</p>
+
+<p><persName>Mr Donnal</persName> has recd from me 380 Dollares being the full amount
+of the sale of your Whiskey, which on being gauged at <placeName>St Louis</placeName> did
+not hold fully 40 Gall. I think something must be wrong in the
+manner of gaugi[n]g the Whiskey at the <placeName>Still house</placeName>&#8212;</p>
+
+<p>I Pray you to make a visit to <placeName>Herculanm </placeName>as soon as you can I have
+had your Note renew.d&#8212;at the <placeName>Bank</placeName>&#8212;to Boring for 500 Dollars<pb n="321"/>
+I start this moment to the <placeName>Mines </placeName>for your <persName>Mother </persName>shall return on
+Monday next I wish you to give some kind of an answer about
+the Beef and in my opinion you had better collect all you can and
+send them forward to <placeName>St Louis</placeName> you Know the <date when="1817-10-15">15 of Octobr</date> is near
+At Hand when <persName>Cox </persName>will be calling on us</p>
+
+<p><persName>Moses Austin </persName>   [Rubric]</p>
+
+<p>love to <persName>Emely </persName>and the <hi rend="italic"><persName>son</persName></hi></p>
+
+<p>[Addressed:]<persName> Mr James Bryan</persName> <placeName>Hazel Run</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
