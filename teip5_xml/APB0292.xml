@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0292">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Honey and Bates, 08-08-1817</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Honey 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Bates
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 318
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-08-08">08-08-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin in account with Honey &amp; Bates.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Mr Stephen F Austin</persName>
+To <persName>Honey and Bates</persName></p>
+
+<p><date n="xx-xx-1817">1817</date></p>
+
+<p><date when="1817-02-17">Febry   	19</date> To  1 Barrell salt__________________________   10. 60
+		<date when="1817-02-17">"</date>    "    1 oven and Lid pr order <persName>M. A</persName>_________    3. 25
+		<date when="1817-02-17">"</date>    "    1 Blankett pr waggoner_______________    3. 25
+
+<date when="1817-03-31">March 31</date>   	"    1 Bbl salt 288 lbs________________________    10. 8          27 18
+										  _______
+	<date when="1817-03-13">13</date>   	"    1   do          318 lbs___________________    12. 72
+
+<date when="1817-05-22">May   22</date>   	"    137 lbs Candles___________@ 22____________    30. 14
+	<date when="1817-05-22">"</date>    	"    Casn paid <persName>Riddick and Pilcner</persName>_____________   178. 87 1/2   $221 73 1/2
+										 __________________________
+												    $248 91 1/2
+Cr
+May   22 	By Cash pd <persName>J. W. Honey</persName>_________________________   130            130
+										 __________________________
+												    $118 91 1/2</p>
+
+<p>Recd of <persName>Mr S. F. Austin</persName> his note for the above amounts&#8212;<date when="1817-08-08">Augt. 8th 1817</date></p>
+
+<p><persName>Honey and Bates</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

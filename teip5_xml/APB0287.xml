@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0287">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 06-30-1817</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Cottage, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 316
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-06-30">06-30-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lumber, corn.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculanium </placeName><date when="1817-06-30">June 30 1817</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p><persName>Mr Murphey</persName> visits your <placeName>mill </placeName>for a-load of Plank- also <persName>Mr Brown</persName>
+they say that you give-15 Dollars pr thousand and find the Waggon
+I have agreed to pay what ever you have given others Which I will
+thank you to write me <persName>Mr Evens</persName> says he has the Plank for-me 
+selected and by them Selves except 3/4 which he says he did not 
+measure, as many as is wanted for shelving you will please load the
+Waggons with a load say 1000 feet flooring and a 1000 feet 3/4 which
+will be as much as will-make a finish of my <placeName>House</placeName>. If you have-any-
+plank to hawl <persName>Mr Murphey</persName>-or-<persName>Mr Brown</persName> will continue hawling as
+long as you please can you lette them have a few bushels of Corn
+to bring them back&#8212; I leave this For <placeName>St Loues</placeName> this day and hope I
+may bring you back the money for your Note in-Bank-I shall try so
+to [do]&#8212;<persName>James E B Austin</persName> is mending fast and I think will be in a
+situation to Visit You next week in compeaney with your <persName>Mother</persName>
+and Myself&#8212;but not untill after <date when="1817-07-04">4 July&#8212;</date></p>
+
+<p><persName>Moses Austin</persName></p>
+
+<p>N B I wish one of the wagons to load with 3/4 plank for 
+shelving the store,   love to <persName>Emely </persName>and my Dear Boy</p>
+
+<p><persName>MA</persName></p>
+<p>[Addressed:] <persName>Mr James Bryan</persName> <placeName>Hazel Cottage</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

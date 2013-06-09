@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0288">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 07-05-1817</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Run, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 316-317
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-07-05">07-05-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bank of St. Louis.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Herculaneum </placeName><date when="1817-07-05">July 5 1817</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>I inclose to you 100 Dollars in Bank Notes which I drew out
+of <persName>Bank </persName>and that is all I can Draw at this time   the situation of<pb n="317"/>
+the <persName>Bank </persName>is, such, that Money cannot be had, on your Note I have
+obtained a discount&#8212;but cannot draw money from the <persName>Bank </persName>I got
+<persName>Mr Smith the Cashier</persName> to lett me have <hi rend="italic">139.</hi> Dollars which I send you
+the 50 to <persName>Mr Bates</persName> I shall settle, and the Balance of your note I think
+I can draw next Week&#8212;but the <hi rend="italic">cause </hi>of all this difficulty is in 
+consequence of the <persName>Bank of <placeName>Missouri</placeName></persName> having made a run of our <persName>Bank </persName>and
+they have <persName>agents </persName>out to purchase up all our <hi rend="italic">Notes </hi>this has stopped
+all notes of Ours going out untill things become a little settled then
+I can draw the <hi rend="italic">Balance </hi>as to Dollars is out of the question 
+<hi rend="italic"><persName>McDonald </persName></hi>must take Bank notes or he cannot be paid. I would not have
+you to Draw Dollars from the <persName>Bank </persName>now not <hi rend="italic">for</hi>, 50 pr C-t it would
+ruin us both in as much as every exertion is making by the <persName>Bank
+of <placeName>Missouri</placeName></persName> to run us down and I <hi rend="italic">would </hi>not obtain a Dollar but
+by the friendship of <persName>Mr. Smith </persName>and If a hundred Dollars was to be
+called for and by you it would ruin our C-t in the <persName>Bank</persName>&#8212; but be
+assured as soon as money can be had you shall have it    .    .    .</p>
+
+<p><persName>Moses Austin.</persName></p>
+<p>[Addressed:] <persName>Mr. James Bryan</persName> <placeName>Hazel Run</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
