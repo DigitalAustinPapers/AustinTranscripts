@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0198">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Dudley R. Tinker to Evans and Shields, 07-08-1811</title>
+            <author>
+                <persName>Dudley R. Tinker</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Evans 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Shields
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Briants Mines</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 193-194
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-07-08">07-08-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Dudley R. Tinker to Evans and Shields.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Briants Mines</placeName> <date when="1811-07-08">July the 8 1811</date></p>
+<p>Friend <persName>Evins </persName>and <persName>Shealds</persName></p>
+
+<p>Sirs I have once more the pleasur of writing to you from the
+mines and can inform you that I have Engoied health Sence I saw
+you Last and am Sorry to be informed that <persName>Mr Sealds</persName> has had what
+might be cauld A Velvit tuch of the ague but am informd that he is
+on the mend&#8212;</p>
+
+<p>I hav naughting in particlar to mention more than the <persName>indians </persName>are
+very troublesome in the Nabourhood of <placeName>Kaskaskias</placeName> it is Said that
+they have kild two or three <persName>famylis </persName>withen Six miles of the Said
+place&#8212;</p>
+
+<p><persName>Dudley E Tinker</persName></p>
+
+<p>P S Sirs I wish if you havit in your power, that you would spair
+me Cherry plank anuf to make two or three tables for my one use<pb n="194"/>
+as I hav not any as yet to use and if you can and will Send it in
+by the first opertunity you will much obleage yours&#8212;</p>
+
+<p>1 table 3 feet 10 inches Long and 2 of 2 feet 10</p>
+
+<p><persName>Dudley R Tinker</persName></p>
+
+<p>[Addressed:] <persName>Mr James C. Shealds</persName>   <placeName>Mine A Burton</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

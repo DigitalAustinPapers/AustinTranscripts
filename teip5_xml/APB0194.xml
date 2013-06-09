@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0194">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 06-04-1811</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Francis Ayres
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Burton Mines, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St Genevieve, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 192
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-06-04">06-04-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lead shipments.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Mine a Burton</placeName> <date when="1811-06-04">June 4</date></p>
+<p><persName>Mr James Bryan</persName></p>
+
+<p><persName>Mr Ayres</persName> has on board his Waggon Barres lead in all
+pounds. 750 of which is of your lead and 212 from my furnace which
+I have given him to make out the load <persName>Mr Bates</persName> has this day Visited
+<persName>Mr Westover</persName> to obtain an order for lead at <placeName><persName>Mr Elliott</persName>s</placeName>&#8212;<persName>P W Love</persName>
+could not load the Cart&#8212;</p>
+
+<p><persName>Moses Austin</persName>    [Rubric]</p>
+
+<p>Reced from <persName>Moses Austin</persName> Nineteen-Barrs lead which I promes</p>
+
+<p>to&#8212;delivere <persName>Mr Bryan</persName> <placeName>Saint Genevieve</placeName> with out, delay&#8212;As Witness
+my hand&#8212;this <date when="1811-06-04">4 day <hi rend="italic">June 1811</hi></date></p>
+
+<p><persName>Francis (his x mark) Ayres</persName></p>
+<p>Attest   <persName>G. W. <hi rend="italic">Treat</hi></persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

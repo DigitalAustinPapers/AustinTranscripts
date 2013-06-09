@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0193">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Ray to Moses Austin, 06-04-1811</title>
+            <author>
+                <persName>James Ray</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 191-192
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-06-04">06-04-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>James Ray</persName>
+	To <persName>Moses Austin and Co</persName>.   Dr</p>
+
+<p><date n="xx-xx-1811">1811</date></p>
+
+<p><date n="04-5-1811">April	5</date> 	To 1 Bottle 371 Cents___________________  	. 37 1/2
+		1 pint Whiskey__________________________        . 25
+	<date when="1811-04-29">29</date>    1 Handkf 62 1/2_________________________        . 62 1/2</p>
+<p><date when="1811-05-04">May   4</date>     1 pint Whiskey__________________________        . 25
+	<date when="1811-05-17">17</date>    To Cash paid you________________________       1. 25
+	<date when="1811-05-18">18</date>    To 1 pint Whiskey_______________________        . 50
+	<date when="1811-05-24">24</date>   	To 2 pints Whiskey______________________        . 50
+	<date when="1811-05-28">28</date>    To 1 pr Mockisons_______________________        . 50
+	<date when="1811-05-28">29</date>    To 1 (?)________________________________      10. 00
+		To Cash paid postag_____________________        . 37 1/2</p>
+<p><date when="1811-06-01">June 	1</date>   	To 1 qt Whiskey_________________________        . 50
+	<date when="1811-06-02">2</date> 	pr shoes 2 50___________________________       5. 00
+									    ___________	$20. 12 1/2</p>
+<p>Balance _____________________________________________________________    55. 87 1/2
+												 76. 0<pb n="192"/></p>
+
+<p>Cr   		By your Wages. 2 Month__________________	 	18$ 36
+		By your <persName>Negros </persName>2 do_____________________		15$ 30
+		By 500 lb Mineral_______________________    	 2$ 10
+						    			     ________	 76. 11</p>
+
+<p><date when="1811-06-04">June   4   	1811</date>   Balance__________________________________55. 87 1/2
+		To 1 quart Whiskey_____________________________   . 50</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

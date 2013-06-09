@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0204">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John R Starks to Moses Austin, 11-22-1811</title>
+            <author>
+                <persName>John R Starks</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 196
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-11-22">11-22-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">John R. Starks to Moses Austin &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>John E Starks</persName>
+To <persName>Moses Austin and Co</persName> Dr</p>
+
+<p><date n="xx-xx-1811">1811</date></p>
+
+<p><date when="1811-10-16">Oct	16</date>	To 1 Pt Whiskey______________________	  . 25
+<date when="1811-10-19">"     19 </date>   "   1 do    do   ____________________    	  . 25
+<date when="1811-10-22">"    	22</date>   	"   3 yds White Flannel @ 1.00_______	 3. 00
+<date when="1811-10-22">"   	" </date>    "   1 pr. Shoes______________________      2. 50
+<date when="1811-10-22">"     "</date>     "   Cash_____________________________       . 25
+<date when="1811-10-22">"     "</date>     "   Hire horse_______________________       . 33 1/3
+<date when="1811-10-30">"    	30</date>    "   3 yds Flannel @ 1.25_____________   	 3. 75
+<date when="1811-10-30">"     " </date>    "   3/4 "   Muslin @ .33_____________       . 24 3/4
+<date when="1811-10-30">"     "</date>     "   1  Cotton Ball___________________       . 25
+<date when="1811-10-30">"     " </date>    "   Cash by <persName>S. F. A</persName>__________________       . 50</p>
+
+<p><date when="1811-11-07">Novr 	7</date>     "   3/4 yd Flannel___________________       . 62 1/2
+<date when="1811-11-11">"    11</date>     "   <persName>Jno. Mc ilvane</persName> for qt, Whisy_____       . 50
+<date when="1811-11-13">"    13 </date>   	"    do    do    do   do  ___________       . 50
+<date when="1811-11-13">"     "</date>     "   cash by <persName>S F A</persName>____________________      4. 00
+<date when="1811-11-13">"     "</date>   	1 Handf______________________________       . 62 1/2
+		Paid <persName>Marian Bates</persName>____________________      1. 50
+		pt. Whisy____________________________       . 25
+		Your part of Lead for <persName>Lamarque</persName>_______       . 69 1/2
+		<persName>Benjamin  Coleman</persName>____________________      1. 25
+<date when="1811-11-13">"  	"</date>     "   1 Cutro Knife____________________       . 50
+<date when="1811-11-13">"     " </date>    "   1 qt. Whiy_______________________       . 50
+									___________
+<p><date n="xx-xx-1811">1811</date>           Cr.                                          		22. 27 3/4</p></p>
+
+<p><date when="1811-10-19">Octr 19 </date>   By  Cash______________________________       . 25</p>
+
+<p><date when="1811-11-04">Novr 	4</date>    "    50 lb Mineral____________________	 1. 00
+<date when="1811-11-22">"    22</date>    "    <persName>Jno Coleman</persName>______________________      4. 00
+									_____________      5. 25
+
+Balance Due________________________________________________________     17. 02 3/4
+												__________
+												22. 27 3/4</p>
+
+<p>E Excepted for <persName>M. Austin</persName></p>
+
+<p><persName>Step. F. Austin</persName></p>
+<p><persName>Mr. Chas. A. Austin</persName>   <placeName>Herculanium</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

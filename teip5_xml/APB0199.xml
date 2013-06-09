@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0199">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James S. Ray to Moses Austin, 09-12-1811</title>
+            <author>
+                <persName>James S. Ray</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 194
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-09-12">09-12-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>James S. Hay</persName>
+To <persName>Moses Austin and Co</persName> Dr</p>
+
+<p><date n="xx-xx-1811">1811</date></p>
+
+<p><date n="04-10-1811+">April 10</date>   	To <persName>Fouquier</persName>_______________________________  	3.00</p>
+<p><date when="1811-05-02">May   2</date>   	To 1 qt Whky______________________________       .50
+	<date when="1811-05-13">13</date>    "    1 do do______________________________       .50
+	<date when="1811-05-30">30</date>    "    1 pint do____________________________       .12 1/2</p>
+<p><date when="1811-06-07">June 	7th</date>   "   1 pint do_____________________________       .25</p>
+<p><date when="1811-07-13">July  13</date>    "   paper_________________________________       .12 1/2</p>
+<p><date when="1811-09-12">Sept  12</date>    "    2 Doses Cal. and Jalop @ 75__________      1.50
+<date when="1811-09-12">"	"</date>    	1 oz. Barks_______________________________       .75
+<date when="1811-09-12">"     " </date>    "    Shoeing   horse______________________       .50
+<date when="1811-09-12">"     "</date>    	Cash payd by <persName>S A</persName>__________________________     11.00
+<date when="1811-09-12">"     "</date>   	1 Bear Skin_______________________________       .50
+<date when="1811-09-12">"     "</date>   	200 lb Lead @ 5.00________________________     10.00
+<date when="1811-09-12">"     " </date>   	To our Note payable the <date when="1811-11-01">1st Novemr</date>________     24.00
+                                                          _______                                                               
+									    $52.75</p>
+
+<p>Cr           By 2 months Work from the <date when="1811-07-03">3d July</date> up to the 
+			<date when="1811-09-03">3d of Sept</date>.@  16.00___________________   32.00</p>
+<p><date when="1811-07-13">July   13</date>   By <persName>John Pigly</persName>_______________________________    1.00</p>
+<p><date when="1811-09-12">Sept   12</date>   By <persName>Owon Baker</persName>_______________________________    2.00
+		By 562 lb Mineral @ 2.00____________________   11.24
+		By Cleaning 300 lb do @ 1$ pr. 1000_________     .30
+		By so much to be payd by <persName>John Swarengen </persName>
+			in Mineral____________________________    6.21
+									     ______
+									    $52.75</p>
+
+<p><persName>Stephen F. Austin</persName>
+for <persName>Moses Austin</persName></p>
+<p><placeName>Mine a Berton</placeName>   <date when="1811-09-12">Sept. 12th 1811</date>    Settled <date when="1811-09-12">Sept. 12th 1811</date></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

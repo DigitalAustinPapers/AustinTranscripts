@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0186">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Francis Major, 04-24-1811</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Francis Major
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Burton Mine, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 187-188
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Saddler's Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1811-04-24">04-24-1811</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Saddler's bill.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Moses Austin </persName>  Dr.
+To <persName>Francis Major</persName></p>
+
+<p><date n="xx-xx-1811">1811</date></p>
+
+<p><date when="1811-01-15">Jany 	15</date>
+		To Mending Saddle_________________________________	  $0. 75
+		Making Sursing[le] (?) Buckel and thread__________	   0. 50
+     	<date when="1811-01-17">17</date>  	Stuffing Your Saddl pad___________________________       0. 62 1/2
+	<date when="1811-01-18">18</date>  	Sewing Bridle two Buckels Rains and thread etc____        . 62 1/2
+	<date when="1811-01-25">25</date> 	Stuffing Saddl and finding Nails__________________       0. 62 1/2
+		Making Saddle Cloth_______________________________       2. 00
+<date when="1811-02-01">Feby  1</date> 	To Making Bridle and two prs of Baines Bound Sewing 
+			on EightBuckels and finding Thread___________      1. 50
+											   __________
+											  $6. 62 1/2
+
+<placeName>Mine a Burton</placeName>   Recd payment on the above account in full <date when="1811-04-24">April
+24 1811</date>                                                                               Fras Major<pb n="188"/></p>
+
+<p>Contra    Cr
+
+By upper and Soal Leather_______________________________________	   $1. 00
+By 31 yds Blue flanel 62 1/2____________________________________      2. 18 3/4
+8 1/2 yds twild flanel 62 1/2___________________________________      5. 31 1/4
+											   __________
+											   $8. 50
+
+Soal and Upper for <persName>Tony</persName>_________________________________________      1. 00
+											   __________
+                                                              	   $9. 50
+											    6. 62 1/2
+											   __________
+											   $2. 87 1/2
+											     . 75
+											   __________
+											   $3. 62 1/2</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
