@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0344">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 01-01-1820</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 351-352
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memoranda</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-01-01">01-01-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Memorandum. Stephen F. Austin in Arkansas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Long Prairie</placeName> <date when="1820-01-01">Jany 1, 1820.</date></p>
+<p><persName>John Bradley</persName> Dr
+to 1 Ring and staple (pr <persName>George</persName>)&#8212;
+
+80 lbs Flour_____________________@ 10__________________________     8. 00
+
+3 lbs nails_______________________@ 25_________________________      . 75
+
+1  Musket (by <persName>George</persName>)
+
+<persName>Richd Thirmond</persName> Dr.
+Recd to 40 yards clothe for <persName>negros </persName>@ 50 cts____________________    20. 00
+
+to cash furnished <persName>John Bradley</persName> when the[y] went for Salt_______     2. 00
+											________
+											$22. 00
+<persName>Hugh Bradly</persName> Dr
+Assumed to pay for <persName>Wafford</persName>_____________________________________    15. 00
+
+<persName>S. F. Austin</persName> Dr to <persName>J. Bryan</persName> for <persName>Furguson </persName>a/c 1820______________    34. 00</p>
+
+<p><persName>Reuben </persName>quit work on the <date when="1820-01-17">17th of Jany</date> and began again on the <date when="1820-02-01">1 of February (frosted)</date> 11 days lost</p>
+
+<p><persName>Damon </persName>sick with sore knee from the <date when="1820-01-25">25 Jany</date> to <date when="1820-02-15">15 February</date> 20 days lost</p>
+
+<p><persName>Fanny </persName>quit on the <date when="1820-02-01">1 February</date></p>
+
+<p><persName>Damond </persName>sick quit work on the <date when="1820-02-20">20th February</date> 1 Dose Medicine</p>
+
+<p><persName>Hugh Bradley</persName> Dr</p>
+
+<p>2  Bushels Salt 3_______________________________________________    6. 00<pb n="352"/></p>
+
+
+<p><persName>R Thirmond</persName> Dr
+To 1974 lbs pork @ .9 _____________________________________________   96. 66
+
+To 52 Bushels corn @ .75 __________________________________________   39. 00
+
+To 1 large cane hoe________________________________________________    2. 50
+
+<persName>James Bryan</persName> Dr
+pd <persName>H. Bradley</persName> for freight _________________________________________   64. 30
+
+<persName>Damond </persName>started for <placeName>Sabine </placeName>on the <date when="1820-03-02">2d March</date> 10 days lost.
+
+<persName>R. Thirmond </persName>Dr.
+to 2 large cane hoes @ 2__________________________________________   4. 00</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

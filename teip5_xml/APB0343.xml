@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0343">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Bryan to Stephen F. Austin, 12-xx-1819</title>
+            <author>
+                <persName>James Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 351
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-12">12-xx-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">James Bryan to Stephen F. Austin [1819?].</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><date n="12-xx-1819">Dec</date>. [1819?] </p>
+<p><persName>Mr Stephen Austin</persName>,</p>
+
+<p>Sir, Please call on <persName>Mr Collett</persName> and <persName>Daley </persName>and know if they have
+made any Sales of goods left with them or if any can be made&#8212;and
+also call on <persName>Col. Easton</persName> and git his terms of sale in writing of a
+<placeName>Claim </placeName>he holds on <placeName>Flat River</placeName>, of 320 acres Confirmed to the 
+<persName>Representatives of Jacob Doggett</persName> get his terms, and as good terms as
+possible and make the necessary arrangement of my business in
+Bank take up all my old notes&#8212;'</p>
+
+<p><persName>J Bryan</persName></p>
+
+<p>[Austin's notation:]</p>
+
+<p><persName>Collet </persName>has sold nothing</p>
+
+<p><persName>Easton </persName>will take 3.50 pr acre in hand</p>
+
+<p>4$ half in hand 1/2 in 6 months and give a general warrantee</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

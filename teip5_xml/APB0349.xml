@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0349">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James E. B. Austin, 02-08-1820</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herulaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nicholasville, KY</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 354-355
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-02-08">02-08-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Currency confusion. Losses in Bank of St. Louis.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1820-02-08">Feby 8 1820</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>I have inclosed you a Ten Dollar Note on <placeName>bank Tennessee</placeName> I am
+sorry I could not send you better money but there is no money but
+<placeName>State Bank Tennessee</placeName> and <placeName>State bank Kentucky</placeName> and <placeName>Missouri bank
+</placeName>bill to be had in this <placeName>country</placeName>. I hope I may Next mail send you
+as much money as will discharge all your Bills and Dues&#8212;I sent
+you in <date n="01-xx-1820">Jany </date><hi rend="italic">20 dollars</hi> on <placeName>state bank of Kentucky</placeName>&#8212;which I hope
+you have rec'd I have wrote to <placeName>Washington City</placeName> to have 
+arrangements made for you to obtain a place on board the <placeName>United States
+Navy</placeName>&#8212;I also sometime since&#8212;wrote <persName>Mr Holly</persName> to get <persName>Mr Henry Clay</persName>
+to befriend you in <placeName>Washington City</placeName>, also <persName>Henry Miggs [Meigs]</persName> and
+<persName>Mr John Scott</persName> from these gentlemen I am in hope you may obtain
+a place on board the <placeName>Navy </placeName><date n="Spring-1821">next spring</date>&#8212;you will therefore make
+use of your best exertions, to forward yourself in your studies&#8212;
+and remember that everything depends on yourself&#8212;I am sorry
+my son to say that my situation will not allow me to do for you
+what I could wish but when I am clear of all my difficulties I
+can then say what I can do for you in the mean time I shall forward<pb n="355"/>
+to you Money&#8212;to pay your bills and Cloth you as your station in
+life requires keep up your spirits and hope for the best and make
+the exertions that is with in your power and I have not a Doubt
+but all will turn out as you wish your <persName>Mother </persName>will remain in 
+<placeName>Herculaneum </placeName>and I shall this <date n="Spring-1820">spring </date>go down the <placeName>Country </placeName>in the <date n="Spring-1820">spring</date>
+to see your brother and determine what I then shall do. my estate
+is greatly injured and I shall not save over <hi rend="italic">15000 dollars</hi> after all is
+settled I loose <hi rend="italic">26,000 Dollars</hi> by the <placeName>bank of St. Louis</placeName> its that 
+business that has so much injured me Know from <persName>Mr Holly</persName> whether he
+has wrote <persName>Mr Henry Clay</persName> in your behalf</p>
+
+<p><persName>Moses Austin </persName>   [Rubric]</p>
+
+<p>my stock in the <placeName>bank of St Louis</placeName> is not worth a Cent <hi rend="italic">12-300</hi> is
+sunk in Bank stock</p>
+
+<p><persName>M. Austin</persName></p>
+
+<p>[Addressed:] <persName>Mr James E B Austin</persName> <placeName>Nicholas Ville Kentucky</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

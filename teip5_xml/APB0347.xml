@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0347">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James E. B. Austin, 02-02-1820</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nicholisville, KY</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 353
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-02-02">02-02-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Remittances.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculanium </placeName><date when="1820-02-02">Feby 2th 1820</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>I have only time to say that your Dear <persName>mother </persName>is as well as could
+be expected I have lately returned home and found your letter 
+inclose you have 20 Dollars its the best and only money now to be had
+in this County I hope It may do you some good Next mail I hope
+I may send you 50 Dollars to discharge all your bill I have sent
+to <placeName>Washington </placeName>to have arrangements made for you on board the
+Navy by <date n="04-xx-1820">April </date>so that you must make all the deligence you can</p>
+
+<p>God Bless you and Keep you my Dear <persName>Son </persName>Your Aff <persName>Father</persName></p>
+
+<p><persName>Moses Austin</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>Mr James. E B Austin</persName> <placeName>Nicholisville Kentucky</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

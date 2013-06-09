@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0356">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R. P. Guyard to Moses Austin, 05-12-1820</title>
+            <author>
+                <persName>R. P. Guyard</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-09">07-09-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 359-360
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-05-12">05-12-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Accounts for collection. Moses Austin's assets.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Received from <persName>Moses Austin</persName> the following notes and due Bills to
+wit <persName>Wm Brown</persName>'s due Bill for thirty dollars dated <date when="1816-07-29">29th July 1816</date>
+<persName>Samuel McMulling</persName> note for Twenty three dollars and fifty cents<pb n="360"/>
+dated <date when="1820-04-07">7th April 1820</date> <persName>John Gilmore</persName>'s note for Seven dollars and thirty
+seven and a half cents dated <date when="1809-09-06">6th Sept 1809</date> <persName>Patrick Cullen</persName>s note for
+$30-30 dated <date when="1810-11-02">2nd Novr 1810</date> on which there is a credit of $25 dated <date when="1814-03-01">1
+March 1814</date> <persName>Samuel Hargrave</persName>'s due Bill for $2.25 dated <date when="1817-12-06">6 Decr 1817</date>
+<persName>Samuel Hargrave</persName>s due Bill for $5.93 1/2 dated <date when="1817-12-06">6th Decr 1817</date>. <persName>Joab
+Strickland</persName>'s note for $8 62 1/2 dated <date when="1817-08-21">Aug 21. 1817</date> on which he has a
+credit for $4 57 1/2 <persName>David Aikin</persName>s note for for $3 50 1/2 dated <date when="1817-10-30">30th Oct
+1817</date> and <persName>David Aikin</persName>s due Bill for $5 50 1/2 dated <date when="1817-08-30">30th August 1817</date>
+on which he has a credit for $5.25 amounting together to the sum of
+Eighty two dollars and seventeen cents which said notes and due
+Bills when fully paid with the interest arising thereon shall be in
+discharge of all accounts dues and demands against said <persName>M Austin</persName>,
+provided always and it is hereby clearly understood that if any 
+difficulty arises in the collection of the said notes and due Bills and the
+<persName>parties </persName>refuse to pay the same with the Interest due thereon. They
+shall be returned to the said <persName>M Austin</persName> who shall give other good notes
+for the same, and provided also that the principle and Interest to
+be received on the same up to this date shall amount to at least One
+hundred dollars</p>
+
+<p><placeName>Herculaneum </placeName><date when="1820-05-12">12th May 1820</date></p>
+
+<p><persName>E. P. Guyard  </persName>  [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -21,7 +21,7 @@ foreach $file (@files) {
 		if($fileContents ne "") {
 			$cmd_recheck = "xmllint --dtdvalid file:///$this_dir/reference/tei_all.dtd teip5_xml/$outfile\n";
 			system($cmd_recheck);
-			
+			system("gedit source_xml/$outfile teip5_xml/$outfile &\n");
 			die "Errors found in $file:\n\nTo reproduce:\n$cmd_convert$cmd_recheck"
 			
 		}

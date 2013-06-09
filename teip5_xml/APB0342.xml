@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0342">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Unknown, xx-xx-1819</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 350
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819">xx-xx-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Memorandum of Moses Austin's estate [1819?].</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Mine a Burton</placeName>
+estimated agreeable to proposition made to <persName>Mr. Daniel Ludlow</persName>&#8212;<placeName>New
+	York</placeName> and on which a Charter is demanded from the <placeName>U. States</placeName>________     150,000
+
+<placeName>House and lott St. Genevieve</placeName> estimated__________________________________       3,000
+
+1/2 Town <placeName>Herculaneum </placeName>which including Sales now made and <placeName>Lotts </placeName>and
+	Lands unsold______________________________________________________       6,000
+
+1/2 of a <placeName>Claim </placeName>of Land say 800 acres with a [illegible] of Miles 
+	situated on the waters of <placeName>Grand River</placeName>_____________________________         600
+
+1/2 a <placeName>Claim </placeName>of Land at <placeName>Bell View</placeName>________________________________________         600
+
+<placeName>Plantation </placeName>and <placeName>Tan Yard</placeName> near the <placeName>Mine a Burton</placeName>__________________________       1,600
+													________
+												    $160,800</p>
+
+<p>The Claim to the <placeName>Renauts estate</placeName> is not estimated being unsettled and
+not adjusted but the value may be safely estimated as scaled____________     $20,000
+
+to the above estimate of property is to be taken into consideration all
+the moveable property of the company, which included the Debts
+etc, that may be safely calculated on at________________________________     $10,000</p>
+
+<p>Memorandum of Property given <persName>J. Jones</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

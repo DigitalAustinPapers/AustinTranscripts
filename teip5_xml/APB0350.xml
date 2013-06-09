@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0350">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James E. B. Austin, 02-23-1820</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nicholasville, KY</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 355
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-02-23">02-23-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Currency confusion. Hardships. Advice.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1820-02-23">Feby-23 1820</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>I have wrote you now for three Mails past and in two of my letters
+I have enclosed you money&#8212;I was in hopes I could have by this mail
+forwarded you 50 Dollars, but I could not obtain the money I had
+expected, inclosed I send you 5 Dollars of <placeName>Nash Ville</placeName> money I 
+cannot obtain any money but <persName>State bank of Kentucky Tennessee and
+Nashville</persName> you must try to get the <placeName>Nash Ville</placeName> money exchanged or
+get some person in <placeName>Lexington </placeName>to forward to <placeName>Nash Ville</placeName> and send back
+<placeName>Kentucky </placeName>there is no other way to manage&#8212;I think I shall get 50
+Dollars by next mail&#8212;I have heard nothing from <placeName>Washington City</placeName>
+as yet, nor have I heard any thing from your <persName>brother </persName>lately, but as a
+Mail is now established that will run every two weeks&#8212;I shall hear
+from your <persName>brother </persName>more constant&#8212;I hope you are making exertions
+in your Studies&#8212;as you have but little time to spend at school you
+must improve Day and Night and use all the care you can to advance
+yourself everything will depend on yourself whether you advance in
+the <persName>Navy </persName>and I shall be greatly disappointed if you do not make good
+use of your time call to mind Daily your Dear <persName>Brother</persName>s advice and
+put it in practice let me again impress your mind to keep well with
+your equals in office and obtain the confidence of your superiours
+good words and a Courtly Deportment produces wonders towards 
+advancing a young officer.</p>
+
+<p>Accept my dear <persName>son </persName>your <persName>father</persName>s affections</p>
+
+<p><persName>Moses Austin</persName></p>
+
+<p>[Addressed:] <persName>Mr James E. B. Austin</persName> <placeName>Nicholds Ville Kentucky</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

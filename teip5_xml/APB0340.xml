@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0340">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jonathan Rice Jones to Stephen F. Austin, 11-16-1819</title>
+            <author>
+                <persName>Jonathan Rice Jones</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington County, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 349-350
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Court Judgment</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-11-16">11-16-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Court judgments against Stephen F. Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Robert Collett</persName>
+vs
+<persName>Stephen F. Austin</persName></p>
+
+<p>Judgment Rendered <date when="1819-11-16">Nov. 16th 1819</date>
+for Damages__________________________________________   229. 46
+Execution Issued Returnable to <date n="03-xx-1820">March Term 1820</date>
+Damages______________________________________________	  229. 46
+Clks fees____________________________________________     5. 6O
+Tax on 2 writs_______________________________________     2. 00
+Tax on Execution_____________________________________     1. 00
+<persName>Shff</persName>s________________________________________________     1. 50
+<persName>Geiger Atty</persName>__________________________________________     6. 00
+<persName>I. V. Garvin</persName> N. P____________________________________     3. 00
+The <persName>Sheriff </persName>Returned this Execution non est__________      . 50</p>
+
+<p>A true Statement</p>
+
+<p><persName>D. Dunklin Dpy Clk</persName>.</p>
+
+<p>I <persName>John Rice Jones Judge of the Supreme Court of the State of
+Missouri</persName> do hereby certify that <persName>Daniel Dunklin</persName> who signed the above
+is <persName>Deputy to John Jones Clerk of the Circuit Court of the <placeName>County
+of Washington</placeName></persName> in the said <placeName>State of Missouri</placeName></p>
+
+<p>Dated <date when="1821-06-18">18th June 1821</date></p>
+
+<p><persName>Jno Rice Jones</persName>    [Seal]</p>
+<p><persName>Robert P. Guyard</persName>
+vs
+<persName>Stephen F Austin</persName></p>
+
+<p>Judgment rendered Novr 16th
+Judgement Rendered Novr 16th 1819 for Damages___________	238. 38
+Execution Issued Returnable to March Term 1820
+Damages_________________________________________________    238. 38
+Clerks  fees____________________________________________      4. 30
+Tax on Writ_____________________________________________      1. 00
+Tax on Exn______________________________________________      1. 00
+Shff____________________________________________________      1. 50
+Bates Atty fee__________________________________________      6. 00
+										________
+On this Execution the Sheriff Returned non este_________       . 50</p>
+<p>A True Statement</p>
+
+<p>D. Dunklin Dpy Clk.    [Rubric]</p>
+
+<p>R. C. Bruffy being Bail for the Deft a scire facias Issued agt sd
+Bruffy Returnable to March Term 1821&#8212;Returned non este by the
+Sheriff</p>
+
+<p>Issuing Sci fa___________________________________________	1. 00
+
+Tax______________________________________________________	1. 00
+
+non este_________________________________________________    . 50
+									     _______
+										2. 50<pb n="350"/></p>
+
+
+<p>I John Rice Jones Judge of the Supreme Court of the State of
+Missouri do hereby certify that Daniel Dunklin who signed the
+above is Deputy to John Jones clerk of the Circuit Court of the
+County of Washington in the State of Missouri&#8212;Dated the 10th of
+June 1821</p>
+
+<p>Jno Rice Jones    [Rubric]    Seal</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

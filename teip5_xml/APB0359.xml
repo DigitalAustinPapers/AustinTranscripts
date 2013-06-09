@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0359">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Bryan, 06-02-1820</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-09">07-09-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saline</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Little Rock, AR</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 363-364
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1820-06-02">06-02-1820</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Salt production. Debts.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saline </placeName><date when="1820-06-02">June 2 1820.</date></p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>I have been examining your <placeName>Caddo store</placeName> accounts with a view of
+Selecting the best of them to put in a train for collection, I have done
+the best I could and put a Small amount in the hands of <persName>officers </persName>for
+collection and <persName>Alley </persName>must be here to prove them, The <placeName>Saline </placeName>is
+in opperation and there is about 500 bushels of Salt on hand, but it
+will not Sell for any thing&#8212; <persName>Poston </persName>is doing the best he can and is
+out of provisions, which cannot be had here without the Silver
+Bacon at 25cts and corn 1,00 to 2,00 I have therefore Sent out <persName>Alley</persName>
+to the <placeName>Arkensaw </placeName>for you to procure bacon or Pork&#8212;there and send
+to this place by <persName>Orr </persName>in the waggon and he can take back a load of
+Salt also send some Flour unless you do this the <placeName>Saline </placeName>will have
+to stop&#8212; I have taken an inventory of every thing here and shall
+start to the <placeName>Mount </placeName><date when="1820-06-03">tomorrow </date>and think shall be able to sell the works
+to <persName>Wilson</persName>, <persName>Browne </persName>from whom you borrowed the money called on
+me and is in distress for One hundred Dolls and says that if he can
+get that much he will wate for the balance. I have promised to try
+and get it If you cannot save your <placeName>Property in the upper country
+</placeName>without taking Money from here I fear it will be Sold, for I have
+no hopes of getting a Dollar for you in this <placeName>country </placeName><persName>Mrs Hemphill</persName>
+will Sue you the moment you arrive here as will also <persName>Browne </persName>and<pb n="364"/>
+<persName>Mrs Bear</persName> unless I can get the 100 Dos for <persName>Browne</persName>&#8212; If my <persName>Father</persName>
+should come to <placeName>Little Rock</placeName> you may tell him that I wish to go to
+the <placeName>Mouth of White River </placeName>to live if I can take any thing there to
+begin with and if that cannot be done I shall go down <placeName>the Mississippi</placeName>
+and seek employ</p>
+
+<p><persName>Stephen F Austin</persName></p>
+
+<p>The <persName>Postons</persName> had no intentions to injure you by what they have
+done but to befriend you and keep others from attaching who would
+not have been as friendly as they will&#8212;</p>
+
+<p>[Addressed:] <persName>Mr. James Bryan</persName> <placeName>Little Rock.</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
