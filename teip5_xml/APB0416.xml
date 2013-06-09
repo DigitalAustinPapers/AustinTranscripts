@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0416">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to William Kincheloe, 10-16-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William Kincheloe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nackitosh, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 421-422
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Permit</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-10-16">10-16-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Permit to settle and build a mill. Conditions of grant and method of surveying it.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Permission is hereby granted to <persName>William Kincheloe</persName> to settle in the
+<placeName>Colony </placeName>now forming by me on the <placeName>Brassos and Colorado Rivers in
+the Province of Texas</placeName>, and the said <persName>Kincheloe </persName>is authorized to select
+a <placeName>mill seat</placeName> anywhere within the <placeName>bounds of the Colony</placeName>, and also to
+choose tracts of land for [           ] <persName>Families </persName>now on their way to said
+<placeName>Colony</placeName>, he is to mark the tracts chosen by him both for himself<pb n="422"/>
+and the other <persName>families</persName>, and to report to me or my <persName>agent </persName>the situation
+thereof&#8212; And in consideration of the Said <persName>Kincheloe </persName>agreeing
+to build a <placeName>mill </placeName>on the mill seat which he may choose within one year,
+he is to have Six hundred and forty acres of land in addition to
+the quantity which he may be entitled to in common with the other
+<placeName>Settlers</placeName>, and one lot in the <placeName>Town</placeName>. The town lot is given gratis, and
+there is to be no charge on Said additional Section of land except the
+Surveying fees&#8212;</p>
+
+<p>Said <persName>Kincheloe </persName>and the <persName>families </persName>who are now coming on with his
+are to receive land as follows&#8212;The <persName>head of each family</persName> is to get Six
+hundred and forty acres and in addition to that three hundred and
+twenty acres for their <persName>wives</persName>, one hundred and Sixty acres for each
+<persName>child</persName>, and Eighty acres for each <persName>Slave </persName>to be taken in two seperate
+tracts, one on the <placeName>river </placeName>with a front four times less than its depth,
+and the other so as not to interfere with the <placeName>river lands</placeName>. The said
+tracts or one of them, must be actually inhabited and cultivated by
+the persons to whom the permit to settle is given before the <date when="1823-01-01">1 of
+January 1823</date>&#8212; Twelve Dollars and fifty cents pr. hundred acres
+must be paid me one half on recipt of title and the other half in one
+year thereafter, which will be in full for Surveying and all other
+charges</p>
+
+<p><placeName>Nackitosh </placeName><date when="1821-10-16">Oct. 16. 1821.</date></p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

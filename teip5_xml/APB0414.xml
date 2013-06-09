@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0414">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Antonio Martinez, 10-13-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Antonio Martinez
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nackitosh, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 419-421
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-10-13">10-13-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hundreds from Missouri, Kentucky, and elsewhere want land in Texas. Suggests his own appointment as emigration agent for the Government. Protests against other grants within the limits assigned to him.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Nackitosh </placeName><date when="1821-10-13">October 13, 1821</date>&#8212;</p>
+<p>His <persName>Excellency Governor Martinez</persName>,</p>
+
+<p>Sir I had the honor of addressing you a letter dated on 
+<date when="1821-10-12">yesterday</date>, giving an account of my proceedings relative to the <placeName>new Colony</placeName>.
+I now write you on a Subject of deep interest to the progress of the
+new <placeName>Settlements in Texas</placeName>&#8212;</p>
+
+<p>On my arrival here I found near one hundred Letters from the
+<placeName>neighbourhood </placeName>of where I formerly lived in <placeName>upper Louisiana</placeName> (now
+called <placeName>Missouri</placeName>) and many from <placeName>Kentucky </placeName>and other places 
+requesting information relative to settling in the <placeName>Province of Texas</placeName>,
+and I am convinced that I could take on <persName>fifteen hundred families</persName>
+as easily as <persName>three hundred</persName> if permitted to do so&#8212;</p>
+
+<p>The distance to <placeName>St Antonio</placeName> is so great and the journey is 
+considered so hazardous and expensive that men in moderate 
+circumstances are deterred from going in person to apply for permission
+to settle&#8212;and there are many other obstacles in the way, I have
+therefore thought that the settlement of the Country wd be greatly
+facilitated, and kind and character of those who emigrate would
+be much better, if the whole superintendence of the Emigration
+from the <placeName>U. S.</placeName> was intrusted to one <persName>agent </persName>whose general knowledge
+of the American character, and particularly of the <persName>people of the
+<placeName>western country</placeName></persName> and also of the situation and lands of the <placeName>Province
+of Texas</placeName> would enable him to conduct the formation of the settle-<pb n="420"/>
+ment with advantage to the <persName>Government </persName>and satisfaction to the
+<placeName>Settlers</placeName>&#8212;</p>
+
+<p>Considering that the first effort towards Colonising the Proc. by
+<persName>citizens from the <placeName>U. S,</placeName></persName> is made by me, and that after having 
+explored the <placeName>sea coast</placeName> I shall have a full Knowledge of the Country,
+and considering also that the public stations I have filled in <placeName>M.
+[Missouri]</placeName> and <placeName>A. [Arkansas]</placeName> (having been for many years a 
+Member of the legislature of the former and one of the Judges of the
+Court in the latter) has enabled me to form very extensive and
+general acquaintance with the <persName>people of the <placeName>western country</placeName></persName>, and
+also that my former residence for many years under the <persName>Spanish
+Govt</persName>, in <placeName>upper Louisiana</placeName> has made me some what familiar with the
+laws and customs I have supposed that I could probably effect as
+much towards settling <placeName>Texas </placeName>with useful citizens as any other man,
+I therefore respectfully petition that I be permitted to extend the
+settlements to the <placeName>Guadaloupe </placeName>and <placeName>St Marcos Rivers</placeName> on the west
+and to the <placeName>Trinity </placeName>and <placeName>St. Jacinto</placeName> on the East-</p>
+
+<p>Should this plan for the appointment of a <persName>general Commissioner</persName>
+or <persName>Agent </persName>for the <placeName>Province </placeName>be adopted I would respectfully suggest
+that it would greatly facilitate the objects of the appointment if
+he was to have pretty extensive discretionary powers as to the 
+distributing of lands, so as to save the delay and expense of applying
+to the<persName> Gv.</persName> for instructions relative to each <persName>settler </persName>and that he be
+authorized to issue certificates to the <placeName>settlers </placeName>stating (under such
+limits as the <persName>Gv.</persName> may deem proper) the quantity of land and the
+place where he is to receive it&#8212;these certificates could be a guide to
+the <persName>Surveyor Genl of the <placeName>Province</placeName></persName> in laying off the lands, and the
+returns would thus be all made by the <persName>surveyor Genl</persName> and the <persName>Comr</persName>
+and the <persName>Gv </persName>would only have those two <persName>officers </persName>to transact the 
+business with instead of the hundreds that would trouble them if each
+<placeName>settler </placeName>was to apply for himself individually. I would also 
+respectfully suggest that the <persName>commissioner </persName>be authorized to exact from
+each <placeName>settler </placeName>a sufficient per cent on the land grantd to compensate
+him for his trouble and expense in attending to the business&#8212;</p>
+
+<p><persName>Mr Davidson</persName> who returned a few days since from <persName>St Antonio</persName>
+informs me that applications have been made for grants of two
+and three leagues square on the <placeName>Colorado</placeName>. I would respectfully
+suggest to your <persName>Excellency </persName>that it may create some confusion if
+<placeName>grants </placeName>are made within the tract of country in which my settlement
+is forming&#8212;    I have promised the <placeName>settlers </placeName>that the first who go<pb n="421"/>
+on shall have the first choice, and if the same land which they are
+occupying and actually improving is granted to others without any
+notice to me, it will involve me in great difficulty with <persName>Emigrants</persName>,
+and produce a degree of dissatisfaction amongst them which will
+have an unfortunate influence with others, in retarding the 
+settlement, I have no objection to the <persName>Genm </persName>who have applied and should
+be happy to receive them as <persName>settlers</persName>, but unless the organization of
+the colony is confined to one source some confusion will necessarily
+arise</p>
+
+<p><persName>S. F. A.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

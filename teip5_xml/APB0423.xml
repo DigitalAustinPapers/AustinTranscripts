@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0423">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Joseph H. Hawkins, 11-14-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Joseph H. Hawkins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 428-429
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Agreement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-11-14">11-14-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hawkins advances $4,000 and becomes partner with half interest in profits from colonization.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Articles of agreement made and concluded this <date when="1821-11-14">14 day of Novr 1821</date>,
+between <persName>Stephen F. Austin</persName> and <persName>Joseph H. Hawkins</persName> of <placeName>New Orleans</placeName></p>
+
+<p>witnesseth:</p>
+
+<p>That whereas a contract was heretofore entered into between the
+parties hereto, The said <persName>Austin </persName>acting for and in behalf of his <persName>father</persName>
+<persName>Moses Austin</persName>, and in virtue of authority from him, whereby the said
+<persName>Moses Austin</persName> by his <persName>agent </persName>and <persName>son</persName>, covenanted and agreed to sell, and
+did sell to <persName>Jos. H. Hawkins</persName> one equal half part of all lands granted
+by the <persName>Spanish govt</persName> to said <persName>Moses Austin</persName> in the <placeName>province of Texas</placeName>,
+together with one equal half part of <placeName>town lotts</placeName>, emoluments, profits,
+monies or effects derivable by the settlement and sale of the lands and
+lotts so agreed to be settled by said <persName>Moses Austin</persName>, and whereas since the
+death of said <persName>Moses Austin</persName> the <persName>Spanish govt</persName> in <placeName>Texas </placeName>have confirmed
+to said <persName>S. F. Austin</persName> the grant of lands originally contemplated to
+be granted his <persName>father</persName>, the said <persName>Stephen F.</persName> having resolved to effect
+the Settlement and carry the <placeName>grant </placeName>into execution upon the same
+principles stipulated and agreed by his said deceased <persName>father </persName>and
+whereas the consideration to be paid by said <persName>Hawkins </persName>to said <persName>Moses
+Austin</persName> was the advance of the monies necessary to defray the 
+expences incured in obtaining said <placeName>grant</placeName>. And which have been already
+advanced by said <persName>Hawkins </persName>and the <persName>parties </persName>hereto covenant and agree
+as follows.</p>
+
+<p>The said <persName>S. F. Austin</persName> hereby acknowledges to have recd from said
+<persName>Hawkins </persName>the sum of Four thousand dollars in full of all monies to
+be advanced by him under this contract, or the contract before 
+referred to, made by said <persName>S. F. Austin</persName> under the direction and 
+authority of and for his <persName>father </persName>as aforesaid, And for and in 
+consideration of the said sum of four thousand dollars so paid by said 
+<persName>Hawkins</persName>, the said <persName>S. F. Austin</persName> doth hereby for himself and the other legal
+representatives of his said <persName>Father </persName>covenant and agree, that after
+meeting the necessary expenses of surveying the said <persName>Hawkins </persName>shall
+be entitled to and receive one equal half part of the monies, effects,
+property and profits arising from the sale of lands, lotts, or from
+any other sources growing out of the <placeName>grant of lands</placeName> before referred
+to, or the settlement thereof, And all lands lotts and other property<pb n="429"/>
+so derived shall be from time to time divided between said <persName>parties</persName>
+hereto in equal moities.</p>
+
+<p>And it is furthermore covenanted and agreed by and between the
+<persName>parties </persName>hereto that a joint and equal copartnecy is established between
+said <persName>S. F. Austin </persName>and said <persName>Hawkins </persName>in all matters and concerns 
+touching the lands to be granted to them or either of them, or touching
+the emoluments or profits claimable from said <placeName>Grant of lands</placeName> or to
+the sale or settlement thereof, and all other purposes and objects in
+which they may embark in said <placeName>province of Texas</placeName>.</p>
+
+<p>The said <persName>Austin </persName>furthermore covenants and agrees to cause as
+many individual grants of lands to be made to said <persName>Hawkins </persName>and
+himself and to such persons as they shall name as can be obtained
+from the proper and legal authority in said <placeName>province of Texas</placeName>, and
+in all lands, granted to said <persName>Austin </persName>and <persName>Hawkins </persName>either party is at
+liberty to consider himself a joint owner should he elect to do so.</p>
+
+<p>In embarking in objects requiring additional disburcements of
+monies or monied responsibilities it must be done by joint and 
+mutual consent.</p>
+
+<p>Witness our hands and Seals this <date when="1821-11-14">14 Novr 1821.</date></p>
+
+<p><persName>Stephen F. Austin</persName></p>
+<p><persName>Joseph H. Hawkins</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

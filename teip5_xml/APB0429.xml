@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0429">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Bryan, 11-23-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Herculaneum, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 434-435
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-11-23">11-23-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Prospects and plans in Texas. Instructions and advice.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1821-11-23">Novr 23,1821</date></p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>Enclosed is the permit which I issue to <placeName>settlers</placeName>, you can use the
+same form,&#8212;</p>
+
+<p>I wrote you that I did not wish you to risk anything in this 
+enterprise, if you can conveniently Ship Some Corn, or Shorts, or Flour
+to <persName>Joseph H. Hawkins</persName> it will help, also if the <persName>Blacksmith </persName>or any
+other kind of tools were saved at the <placeName>mines </placeName>send them, also 
+everything belonging to the <placeName>estate at Little Rock</placeName> with my books etc.&#8212;</p>
+
+<p>If <persName>H Elliott</persName> will come on I think I can benefit him, but I shall not
+wate for him or any other of my <persName>friends </persName>in your country, neither
+shall I advise them to come&#8212;they must take their own course&#8212;if they
+come to me, I will do for them all I can, but if others who are on
+the ground apply for any appointment in my power to procure I
+shall get it for them if I can without delay&#8212;I sent <persName>Brother Brown</persName> a
+Spanish Grammar he must borrow a Dictionary at <placeName>St. Louis</placeName> and
+apply himself to study&#8212;he ought to go out with some good <persName>surveyor</persName>
+as <hi rend="italic"><persName>chain carrier</persName></hi> if no better can be done, so as to learn the art of
+surveying, he will find it of use in <placeName>Texas </placeName>and he must now learn to
+<hi rend="italic">work</hi>,&#8212;he had better employ himself in this manner untill I get
+things under way&#8212;</p>
+
+<p>If any of you write to me direct to the care of <persName>Ambroise Sampyrac</persName>
+<placeName>Nachitoches </placeName><hi rend="italic">and pay the postage</hi>, or I shall not get the letters.</p>
+
+<p>I leave here the <date when="1821-11-25">day after tomorrow</date>, and the vessel sails the same
+clay&#8212;it will probably be one year before I return to the <placeName>U States</placeName>,
+in the mean time take care of our Dear <persName>Mother</persName>, and make no 
+calculations on me, or <placeName>Texas </placeName>until I get better under way in that country&#8212;
+Send on as many <persName>settlers </persName>of good character as you can&#8212;I have no
+doubt of success and think that all who join me will do well, but I
+advice no one to come, no man shall reproach me for leading him
+into difficulty should things result badly&#8212;</p>
+
+<p>Give my love to <persName>Mother </persName>and <persName>Sister </persName>and <persName>Brother</persName>- I wrote them a
+few days since and sent <persName>Mother </persName>some opium by <persName>Honey </persName>in the Dolphin
+also to <persName>Uncle Austin</persName> and <persName>family</persName>&#8212;<pb n="435"/></p>
+
+<p><persName>Honey </persName>wishes <persName>mother </persName>to live with him.   on this subject she must
+do as circumstances require, he will furnish everything&#8212;</p>
+
+<p><persName>S F. Austin</persName></p>
+<p>[Addressed:] <persName>Mr. James Bryan</persName> <placeName>Herculaneum Missouri</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

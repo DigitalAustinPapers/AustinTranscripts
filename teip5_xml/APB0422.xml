@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0422">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William F. Roberts to Stephen F. Austin, 11-13-1821</title>
+            <author>
+                <persName>William F. Roberts</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bridgewater, IL</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 427-428
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-11-13">11-13-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's debts. His business in Arkansas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Bridgewater Illanois</placeName> <date when="1821-11-13">13th Novr 1821</date></p>
+<p>Dear Sir</p>
+
+<p>I Saw a letter from you to <persName>Mr E Bates</persName> written from <placeName>Labaddie
+[La Bahia]</placeName> which gives an account of the <placeName>Country </placeName>you have been in
+and your terms for <persName>Setlers</persName>. They appear liberal and verry 
+Encouraging to <persName>emegrants</persName>. I have had Some Serious thoughs of 
+removing to that Country but at this time I am So embarresed that it is
+imposable for me to leave here without making a greater Sacrafice
+than would be remunerated by a removal.</p>
+
+<p>I wrote you previous to your departure from <placeName>N. Orleans</placeName> but
+received no answer I then told you of the distress I was in at that
+time which are Still growing worse. I hope you will answer this
+and let me know what I have to depend on. The accounts you left
+with <persName>Mr Asheley </persName>[at Little Rock] are little better than nothing they
+will not be Collected for two or three years and I want the Money
+immeadiately I am nearly ruined now for want of it. I offered your
+Note this day for half of its amount and Could not get it. I hope
+you will make an effort to relieve me if you Could Send me
+groceries Iron or any kind of Southern articles I Could put them
+upp to pay debts. If I had your deposition I Could recover it off
+<persName>Harines</persName>( ?) Estate as he made the Contract after I had refused on my
+part.   If you can do nothing for me please let me know what interest<pb n="428"/>
+you will give me in your Colony for the debt if I Should Emigrate and what if I do not.</p>
+<p><persName>William R Roberts</persName></p>
+
+<p>[Addressed] : <persName>Stephen   F.   Austin   Esqr</persName>   <placeName>Louisiana   State   New
+Orleans.</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

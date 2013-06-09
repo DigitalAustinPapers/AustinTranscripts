@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0433">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Edward and John Lovelace, 11-25-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Edward 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        John Lovelace
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 437
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Agreement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-11-25">11-25-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin to secure a grant for them adjoining Galveston Bay.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Agreement Between <persName>Austin </persName>and <persName>Edward and John Lovelace</persName>
+This agreement between <persName>Stephen F Austin</persName> of the one part, and
+<persName>Edward Lovelace</persName> and <persName>John Lovelace</persName> acting for themselves and as
+<persName>agents </persName>for <persName>Richard and George Lovelace</persName> of the other part witnesseth,
+that the said <persName>Austin </persName>agrees to apply to the <persName>Government of Mexico</persName>
+through the <persName>authorities at <placeName>St Antonio</placeName></persName> or at the <placeName>Seat of 
+Government of the internal Provinces</placeName> for a concession or concessions to 
+embrace as much land as can be obtained round the <placeName>Bay of Galveston</placeName>,
+or <placeName>between the Brazos and Sabine rivers</placeName>&#8212;Said land is to be in the
+name of <persName>Stephen F. Austin and company</persName>, or in the names of <persName>Edward
+Lovelace</persName>, <persName>George Lovelace</persName> <persName>John Lovelace</persName>, <persName>Richard Lovelace</persName> and
+<persName>Francis Walls</persName>, or either of them as may be deemed best and all the
+land obtained in either of said names by said <persName>Austin </persName>within the
+limits before mentioned Shall be for the joint and mutual benefit
+of Said <persName>Austin </persName>and Said <persName>Edward</persName>, <persName>George</persName>, <persName>John</persName>, <persName>Richard</persName>, and 
+<persName>Francis</persName>, each of whom Shall own one undivided Sixth part of said Land
+The said <persName>Edward </persName>has advanced to said <persName>Austin </persName>four hundred Dollars
+to pay his expences in attending to the above objects.&#8212;</p>
+
+<p>In testimony of which the Said <persName>Austin </persName>and <persName>Edward </persName>and <persName>John </persName>have
+here to Set their hands this <date when="1821-11-25">25 day of Nov 1821</date>&#8212;</p>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+<p><persName>Edward Lovelace</persName></p>
+<p><persName>John Lovelace</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

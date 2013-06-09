@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0435">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Erasmus Ellis to Stephen F. Austin, 11-26-1821</title>
+            <author>
+                <persName>Erasmus Ellis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Ibirville Parish, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 437-438
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-11-26">11-26-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Interest of Iberville Parish, La., in emigration.   Wants information.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Ibirville Parish [Louisiana]</placeName> <date when="1821-11-26">26th Novr 1821.</date></p>
+<p><persName>S. F. Austin Esqr</persName></p>
+
+<p>D[ea]r Sir My object for visiting this country at this time, was
+to see my <persName>Brother </persName>who resides here, and with a hope of seeing you in
+<placeName>New Orleans</placeName>, and making some arrangements to emigrate to the
+<placeName>Province of Texas</placeName>, and within the Bounds of the <placeName>Settlement </placeName>you are
+now making&#8212;</p>
+
+<p>I expect, Sir, if I can hear from you shortly, that early next Sprint
+I can leave <placeName>Cape Girardeau County</placeName> with Several respectable <persName>families</persName><pb n="438"/>
+together with several Young men <persName>Mechanics </persName>of almost every 
+description for that country, and will endeavour to be there in time to make
+a Crop, as it is my wish to go by water, which rout I conceive, can
+be performed with greater facility, and in much less time, than by
+Land, But your advice on this subject will be very acceptable, and
+on all other points or matters necessary or relative to the Voyage
+there, and internal police of the <placeName>Settlement</placeName>&#8212;I shall indeavor to
+collect all your publications, which have come out in the <placeName>Louisiana
+Advertiser</placeName>, for the purpose of carrying them home with me, and
+shewing them to those who are on the wing of emigrating to that
+country, which I conceive will be a great satisfaction to them, as they
+have never had an opportunity of seeing them as yet&#8212;</p>
+
+<p>As you have by your last publication started to that Country I
+have thought it best to inclose this letter to the <persName>Editor of the
+Louisiana Advertiser in <placeName>New Orleans</placeName></persName>, and request him to convey it to
+you, by the best and shortest way, and by the same rout you will be
+so good as to write to me, and address it to the <placeName>postoffiee in Iberville
+Parrish</placeName> near the church, kept by my brother <persName>Allen Ellis</persName> you will
+confer a lasting obligation on me and many others who are desirous
+of emigrating to that country, by answering this letter immediately,
+and giving me every information that you may think necessary on the
+subject&#8212;</p>
+
+<p><persName>Erasmus Ellis </persName>   [Rubric]</p>
+
+<p>P. S. I shall leave this place in a few days for the <placeName>State of 
+Missouri</placeName> and any letters sent to this office addressed to me will be sent
+on immediately by my <persName>Brother</persName>&#8212;</p>
+
+<p><persName>Stephen F Austin Esqr</persName></p>
+
+<p><persName>E. Ellis   </persName> [Rubric]</p>
+
+<p>[Addressed:] <persName>Stephen F Austin Esqr</persName> <placeName>Province of Texas</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

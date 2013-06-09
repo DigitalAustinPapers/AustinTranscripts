@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0421">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Bryan, 11-10-1821</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Herculaneum, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 426-427
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-11-10">11-10-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Family finances. Advice concerning emigration. Conditions in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1821-11-10">Novr. 10. 1821</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>The enclosed notice will inform you of the progress of things as to
+the <placeName>Settlement</placeName>.</p>
+
+<p><persName>Mr. Morgan of the firm of Sexton and Morgan of <placeName>Alexandria</placeName></persName> has
+just called on me relative to the debt you owe them, and says he
+[expects?] to send it up to <placeName>Missouri</placeName>&#8212; he says they will take any
+kind of property or if the debt is secured wate any length of time,
+I told him I knew nothing about your capacity to pay them, but did
+not think it could be paid at this time in any way&#8212;</p>
+
+<p>If you come or send anything to this <placeName>country</placeName>, these debts will 
+distress you, for gods sake keep beyond the reach of this <placeName>State</placeName>, for a
+<persName>stranger </persName>here may lay in <placeName>jail </placeName>twenty years, he can not take the 
+benifit of the insolvent or any other law that would releive him&#8212;</p>
+
+<p>The vessel will return in about 60 days and the result of the trip
+published, and if you could send some corn etc. to go round in her
+it would be an advantage, but I do not wish you to advance any
+thing that will imbarass you in any way&#8212; you have your <persName>family</persName>
+and <persName>Mother </persName>with you&#8212;take care of them I will do the best I can for
+us all I will write to <persName>Mother </persName>and <persName>Sister </persName>by the Dolphin also to
+<persName>Browne</persName>&#8212;I wrote to <persName>Browne </persName>to get a certificate of his and my 
+residence under the <persName>Spanish Govt</persName>, and of his baptism, dont let him
+neglect this&#8212; perhaps <persName>Francois Vallé</persName> and some others of the <persName>old
+Settlers of <placeName>upper Louisiana</placeName></persName> would move, I will see that they are
+well provided for if they come</p>
+
+<p>Write me directed to the care of <persName>Ambroise Sampyrac <placeName>Nachitoch</placeName></persName>
+and pay the postage and let me know what is the State of <persName>Father</persName>s
+business, what is your real Situation&#8212; What are your prospects
+and intentions&#8212; I have thought that I had cause to be dissatisfied
+with you, perhaps I may have been wrong, and perhaps not&#8212;be
+that as it may, let the past be <hi rend="italic">forgotten for ever</hi>&#8212; Your <persName>family</persName>
+shall participate fully in whatever advantage I may be enabled to<pb n="427"/>
+Secure in <placeName>Texas</placeName>. I wrote you that as yet no land was granted to
+any of us. When I return however I shall lay off a number of Two
+League tracts and get the titles secured&#8212;</p>
+
+<p>I hope you have answered all the letters directed to me at 
+<placeName>Herculanium</placeName>. be particular and do this punctually and inform them
+of the present state of the <placeName>Settlement </placeName>etc.</p>
+
+<p>The <persName>Emigrants </persName>who come from <placeName>Missouri </placeName>ought [to] bring one
+years provisions and go all the way by water&#8212;their stock might
+be taken by land</p>
+
+<p>There is a great opening for commerce if you are in a situation
+to embrace it&#8212;but as I before said <hi rend="italic">risk nothing</hi> yet. you have but
+little, and your <persName>family </persName>depends on that little for Support&#8212;</p>
+
+<p>Will <persName>Henry Elliott</persName> come on or not ?&#8212; I shall write to <persName>Mr Bates
+</persName>by the [Captain]</p>
+
+<p>I should like to know the [exact] situation of my <persName>Father</persName>s Estate,
+and of your affairs&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:]    <persName>Mr. James Bryan</persName>   <placeName>Herculanium   Missouri</placeName>   Mail</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

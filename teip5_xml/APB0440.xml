@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0440">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel Parker to Stephen F. Austin, 12-07-1821</title>
+            <author>
+                <persName>Samuel Parker</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bowling Green, VA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 441-442
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-12-07">12-07-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Virginia. Interest and questionnaire.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Bowling Green, Caroline County, Virginia</placeName>.</p>
+
+<p><date when="1821-12-07">December 7th 1821</date></p>
+<p>Sir,</p>
+
+<p>I Have seen a publication in a <placeName>news paper</placeName>, purporting to be an
+extract of a letter, written by you at <placeName>La Bahia, Province of Texas</placeName>,
+on the <date when="1821-09-01">1st day of September 1821</date> and addressed to a gentleman at
+<placeName>New Orleans</placeName>, wherein is set forth the advantages of a contemplated
+settlement which you had in view in the above named province.</p>
+
+<p>The extract above alluded to, states the following as the outline
+which you propose to pursue in regard to the grants of lands: viz.
+To give to each individual <persName>settler </persName>one tract of land binding on the
+<placeName>river </placeName>or some water course, half a mile in front, by two miles in
+depth for farming&#8212;and one other tract of one a half mile square to
+be located back from the <placeName>river </placeName>for vachery; and that to those <persName>settlers</persName>
+who have <persName>families</persName>, you propose the following addition to their
+grants:&#8212;to each <persName>married woman</persName> 160 acres, to each <persName>child </persName>80 acres,
+and for each <persName>slave </persName>40 acres; to be laid off adjoining the farming tract;
+and double those quantities adjoining the <placeName>vachery tract</placeName>.</p>
+
+<p>The object of this letter, is, to make some further enquiries about
+the <placeName>settlement </placeName>as it is probable, that I and some others in this State
+may avail ourselves of the advantages which it holds forth.&#8212;</p>
+
+<p>You mention in the extract referred to above, that it is important
+that the <persName>settlers </persName>should arrive by the month of <date n="02-xx-1822">February next</date> at
+farthest.&#8212;1. Will none be admitted after that time?&#8212; 2 If any be
+admitted after that time, what time do you set as a limit to their
+availing of themselves of the advantages of the <placeName>settlement </placeName>? 3. Has
+the country fully secured its independence on <placeName>Spain</placeName>? 4. If it has
+not, is there any certainty of its securing it? 5. How far is the
+heart of it from <placeName>New Orleans</placeName>?&#8212;6. How far is it from the <placeName>sea<pb n="442"/>
+coast</placeName>?&#8212;7. Or does it border thereon?&#8212;8. Does it join the <placeName>territory
+of the United States</placeName>?&#8212;9. If not how far are they asunder?&#8212;10
+Are there any <persName>settlers </persName>already in it?&#8212;11. If there are of what nation
+are they?&#8212;12. Is it a healthy country?&#8212;13. How far is the town
+site from <placeName>New Orleans</placeName>?</p>
+
+<p>The answer to these queries, (together with any other necessary
+information respecting the <placeName>settlement</placeName>, which you may think proper
+to give) you will please transmit as early as possible by a letter 
+addressed to me, at <placeName>New Town, King and Queen County, Virginia</placeName>. I
+shall most anxiously wait for an answer from you.    &#8212;</p>
+
+<p><persName>Samuel Parker</persName></p>
+
+<p>[Addressed:] <persName>Mr Stephen F. Austin</persName> <placeName>New Orleans Louisiana</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
