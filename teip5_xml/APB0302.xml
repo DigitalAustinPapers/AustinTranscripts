@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0302">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Pogue to Heerl and Pogue, 12-09-1817</title>
+            <author>
+                <persName>Robert Pogue</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-06">07-06-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Heerl 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Pogue
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculanium, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Baltimore, MD</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 326
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-12-09">12-09-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Stephen F. Austin, who goes to Baltimore to buy goods.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculanium </placeName><date when="1817-12-09">Decem 9th 1817</date></p>
+
+<p>Gentlemen</p>
+
+<p>This will be presented to you by my friend <persName>Mr Austin</persName> of
+this place. As my <persName>friend </persName>is now about to purchase goods for his
+establishment I have thought proper to direct his attention towards
+our house, I can safely recommend <persName>Mr Austin</persName> to be a Gentlemen of
+respectability and worthy of Cr and hope the concern will hold out
+such inducements as will be advisable for him to open an a/c, which
+no doubt will be exonerated in due season.</p>
+
+<p>As it has been some years since <persName>Mr. Austin</persName> has been in our eastern
+parts, therefore any services rendered and attention shewn will be
+considered as done to</p>
+
+<p><persName>Robt Pogue</persName></p>
+
+<p>To Messrs. <persName>S Heerl</persName> (?) and <persName>J Pogue </persName>  <persName>Merchants </persName><placeName>Baltimore</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

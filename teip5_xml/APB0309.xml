@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0309">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to William M. O'Hara, 03-04-1818</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-06">07-06-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William M. O'Hara
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St. Louis, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 329
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1818-03-04">03-04-1818</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">New Madrid land certificates.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculanium </placeName><date when="1818-03-04">March 4, 1818</date>.</p>
+<p>Dr. <persName>Friend</persName>&#8212;</p>
+
+<p>My Brother <persName>James B. Austin</persName> will hand you this by whom you
+can send the paper for me- I expect to start from here in the
+course of next week, but have some business yet unfinished that will
+require my presence at the <placeName>mines</placeName>. I have a favor to ask of you
+which will greatly oblige me, and hasten my departure, which is of
+great consequence to us both - that is to lend me one hundred and
+fifty Dollars<hi rend="italic"> for ten days</hi>, - I have money owe me from various
+sources which will come in before, or by that time (some of it on
+judgements which must be collected by then)- but I have 150 Dols to
+pay in a day or two which must be paid- and I have not the money
+nor can I get it without spending time which ought to be employed
+in preparations for the trip- you may positively rely on getting
+it back again in ten days should you be obliged to have it in that
+time- and you will confer a particular favor on me-</p>
+
+<p>I have nothing more to say as to our speculations below, and I
+think it would be safest not to make any more locations until I go
+down I am trying to arrange my affairs so as to go immediately
+down by land- which I shall be able to do if I could raise about
+150 Dols- which I hope you will lend me- Enclosed is a recept for it-</p>
+
+<p>The money must be <hi rend="italic">Bankable</hi>, as none other will do</p>
+
+<p><persName>S. F. Austin</persName></p>
+<p><persName>W. M. Ohara</persName></p>
+
+<p>My <persName>Brother </persName>was unable to go up I have therefore sent the <persName>negro
+Boy </persName><hi rend="italic"><persName>Baptiste</persName></hi>, to whom you will please deliver the letter to me - also
+please direct him to <persName><hi rend="italic">Robert </hi>Wash</persName>, and also please dispatch him as
+soon as possible</p>
+
+<p><persName>S. F. Austin</persName></p>
+<p>[Endorsed:] <persName>Mr. Will. M. Ohara</persName>    <placeName>St. Louis</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0311">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Bryan, 07-03-1818</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-06">07-06-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nachitoches, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 330-331
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1818-07-03">07-03-1818</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">New Madrid land claims.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1818-07-08">July 8. 1818</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I am now here endeavoring to arra[n]ge my <persName>Father</persName>s business and
+my own so as to leave this country&#8212;Orders have been lately recd
+at the <placeName><persName>Surveyor</persName>s office</placeName> to prepare the <placeName>Red River property</placeName> for market
+as soon as possible, and in consequence <placeName>New Madrid claims</placeName> have risen
+very much&#8212;<persName>Langham and a Company</persName> are purchaseing them up to
+locate on <placeName>Red River</placeName> and offer as high as 12.$ an <placeName>arpent </placeName>on a credit&#8212;
+I think I can get a small claim for <hi rend="italic">5$ Cash</hi> and I have determined
+to sell all your Flour and buy a <placeName>Madrid claim</placeName> with the money, and
+not send down the Boat at all&#8212;I should have done so if the property
+had been my own and very well know that it will be more to your
+advantage to sell the f [lour] here at 8$ and buy a claim at 5$ than
+to get 30$ a Barrel for it and loose the opportunity of geting a claim
+even at any price&#8212;I value my improvement in the <placeName>Long Praire</placeName> at
+100$ pr acre for it will yeald an interest, on the money (calculating
+the land at 100$ pr acre) of at least 25 pr. cent and pay the expence
+of working it besides&#8212;I shall therefore sell the Flour get a claim and
+locate it for our joint benefit on my improvement in the <placeName>Long Praire</placeName></p>
+
+<p>I can not tell when I shall leave here&#8212;My <persName>Father</persName>s business is all
+in confusion&#8212;I advise you to return as soon as possible by Land<pb n="331"/>
+and bring all the money you can with you and buy <placeName>Madrid claims</placeName>,
+and take memorandum to locate them&#8212;you may depend that <placeName>choice
+Land</placeName> will sell for not less than 50$ at the publick sales on <placeName>Red River</placeName></p>
+
+<p><persName>James Cox</persName> appears to be very much dissatisfied about his fay 
+particularly for the rent of his Plattin places, and intimates that he will
+attach your <placeName>Property in Orleans</placeName>. I give you this information to put
+you on your guard</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>I think you had better send the goods that are yet unsold to the
+<placeName>Long Praire</placeName>, a small <placeName>Store </placeName>will do very well there</p>
+
+<p>I Recd. your Letters from <placeName>White and Arkansas Rivers</placeName>, in the last
+one you request me (to?) buy <placeName>Madrid claims</placeName> out of Funds to be
+furnished by <persName>J. Austin</persName>. I think that you ought to hurry back as soon
+as you can, for <persName>J. Austin</persName> is a poor hand to collect or attend to 
+business&#8212; <persName>Brickey </persName>will attend to collections for one month, after which
+he wishes his own time.</p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p>[Addressed:] <persName>James Bryan Esqr.</persName> <placeName>Nachitoches Louisiana</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

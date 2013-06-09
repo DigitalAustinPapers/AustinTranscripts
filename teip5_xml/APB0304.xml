@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0304">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Kennert and Company to Stephen F. Austin, 12-24-1817</title>
+            <author>
+                <persName>William Kennert and Company</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-06">07-06-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 326-327
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Statement of Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1817-12-24">12-24-1817</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Statement of account with William Kennert &amp; Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+
+<p><persName>Stephen F. Austin Esq</persName>
+To <persName>William Kennert &amp; C°.</persName>   Dr</p>
+
+<p><date n="xx-xx-1812">1812</date></p>
+
+<p><date when="1812-12-24">Decb 24</date> 	To balance of A/c under this date___________________ 	841. 34
+
+		To Cash paid notary for Power of Attorney___________    5. 50
+
+		To Interest on $841 34/100 to <date when="1814-02-24">24 feb 1814</date>   6p _____   58. 89
+											________
+											905. 73<pb n="327"/></p>
+
+
+<p><date n="xx-xx-1814">1814</date>    Cr.
+
+<date when="1814-02-24">feb.   24 </date>  By Cash recd. from the <persName>Sherife</persName>_______________________ 807. 40
+
+		due <persName>W K and C_</persName>_______________________________________  98. 33
+
+		Interest to <date when="1817-12-24">24 decr 1817</date>_____________________________  22. 59
+
+			Ball due <persName>W K and Co</persName>____________________________$120. 92</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

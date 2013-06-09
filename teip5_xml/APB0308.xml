@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0308">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to Robert Wash, 02-28-1818</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-06">07-06-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Robert Wash
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 328-329
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1818-02-28">02-28-1818</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Sale of slaves.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Know all men by these Presents that I have this day bargained and
+sold to <persName>Robert Wash of <placeName>St Louis</placeName></persName> the five <persName>slaves </persName>following to wit:
+l;st <persName>Richmond </persName>about the age of eighteen years; 2;nd <persName>Ellick </persName>about
+the age of twenty five 3;rd <persName>Little Bill</persName>, about the age of twenty five
+4;th <persName>Ralph</persName>&#8212;about the age of thirty and 5;th <persName>Baptiste</persName>&#8212;about the
+age of fourteen for and in consideration of the sum of twenty five
+hundred dollars to me in hand paid by the said <persName>R Wash</persName> the receipt
+whereof is hereby acknowledged; The said <persName>slaves </persName>to be delivered
+to the said <persName>Wash </persName>on the twenty <date when="1818-04-28">second day of April next</date> and in
+the mean time to continue and remain in the hands and possession
+of the said<persName> Moses [Austin]</persName> at the hire of fifty dollars per month.<pb n="329"/></p>
+
+<p>In witness whereof I have hereunto set my hand and seal this
+<date when="1818-02-28">twenty eighth day of February eighteen hundred and eighteen</date>.</p>
+
+<p><persName>Moses Austin</persName> [Seal]    [Rubric]</p>
+<p>signed, sealed and delivered In the presence of
+<persName>ROBERT C FARRIS</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

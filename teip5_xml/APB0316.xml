@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0316">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 09-13-1818</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Durham Hall, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Cottage, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 333
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1818-09-13">09-13-1818</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Anxious to close his business. Offered $50,000 for his Mine a Burton estate, but will not accept.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Durham Hall</placeName> <date when="1818-09-12">Sept 13 1818</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p><persName>Wall </persName>arrived <date when="1818-09-12">last evening</date> and mentioned that <hi rend="italic"><persName>Allen </persName></hi>and <hi rend="italic"><persName>Osman</persName></hi>
+had left your <placeName>plantation </placeName>they have not arrived at the <placeName>mines </placeName>I do
+not [sic] think the man that has been talking to them ought to have
+his head broak on the spot. I am doubtfull they may have taken
+the <placeName>road to Kentucky</placeName>   if so, they may give You much trouble</p>
+
+<p>I understand that <persName>Mess Scott</persName> and <persName>Bates </persName>have an intention to build
+a <placeName>store House</placeName> on your lott or in Other words <placeName>Opposite <persName>Mr Bates</persName></placeName> <placeName>on
+the bank</placeName> I do not know but you have given them liberty but if not
+something I think ought to be said on the subject they have logs
+Hawled to commence the House but when they [will] commence I
+cannot tell&#8212;, I suppose some person is over to attend to <hi rend="italic">Cider </hi>
+making <persName>Stephen F Austin</persName> goes to <placeName>St Louis</placeName> this week&#8212; I shall git him
+to see to the business on his way but he cannot stay long I understand
+you have taken back your <placeName>Baker place</placeName> also 1/2 the <placeName>saw Mill</placeName>. While
+you are purchasing I am trying to sell and If I can obtain a 
+<persName>purchaser </persName>will sell all my proprety in this country and return to the
+<placeName>North </placeName>but of this I have my Doubts. I have been offered a price for
+my <placeName>mine a Burton</placeName> estate say 50 thousand Dollares this sum I shall
+not take, but I am Determined to sell as soon as I can I <hi rend="italic">am </hi>greatly
+dissatisfied and wish to Change my situation would to god my 
+business was closed   I would leave the country in a week&#8212;</p>
+
+<p>Make my love to Dear <persName>Emily </persName>and accept of my Esteem and
+affection</p>
+
+<p><persName>Moses Austin</persName></p>
+
+<p>If <persName>Allen </persName>and <persName>Osmon </persName>should be within reach&#8212;I shall secure them</p>
+
+<p><persName>MA</persName></p>
+
+<p>[Addressed:] <persName>Mr James Bryan</persName>   <placeName>Hazel Cottage</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

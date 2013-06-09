@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0305">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Bryan, 01-03-1818</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-06">07-06-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculanium</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Alexandria, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 327
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1818-01-03">01-03-1818</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning speculation in New Madrid land claims. Austin has made a location at Long Prairie, Ark. Red River Country to be opened up.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculanium </placeName><date when="1818-01-03">Jany. 3d 1818</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I wrote you this day to <placeName>Nachitosh </placeName>and now write again not 
+knowing where to find [you]&#8212; I recd your letter from the <placeName>Arkansas </placeName>in
+which you request me to purchase a <placeName>Madrid claim</placeName>&#8212; Orders have
+lately come on the <placeName><persName>Surveyor</persName>s office</placeName> here to prepare the <placeName>Red River
+Country</placeName> for <placeName>Market </placeName>as soon as possible and in consequence <placeName>Madrid
+claims</placeName> have risen very much as the <persName>Speculators </persName>are purchasing them
+up to locate on <placeName>Red River</placeName>. 12$ an acre have been offered for them
+on a credit in this State of things I have determined to Sell all
+your Flour here and buy a <placeName>Madrid claim</placeName> with the money, which I
+will locate on My improvement in the <placeName>Long Prairie</placeName>&#8212; I advise you
+to return as quick as possible with all the Money you [can] and buy
+<placeName>Madrid Claims</placeName>- <persName>Doctor R. D. Dawson</persName> at <placeName>New Madrid</placeName> has some
+that can be got reasonable for Cash, and if you return for this 
+purpose go by there and See him</p>
+
+<p>I hope to be off in <date n="02-xx-1818">Feby</date>. and am trying to raise your other Boat,
+to go down in for the one you got from <persName>Butler </persName>is too unsafe to trust
+anything in- I am anxious to hear what you think of the <placeName>Long
+Prairie</placeName> In not sending the Boat I have done as if the property had
+been My own-the claim if I get one shall be located for our joint
+benefit- the <persName>family </persName>are all well- I should like to see you on <placeName>Red
+River</placeName> but it is so uncertain when I shall be there that you ought not
+to wate, but return by land as quick as you can, and Secure some land
+there before it is too late</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Mr James Bryan</persName> <placeName>Alexandria   Louisiana</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
