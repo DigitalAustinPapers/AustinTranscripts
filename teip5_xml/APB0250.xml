@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0250">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Stephen F Austin, 09-01-1814</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 240-241
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Militia Report</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-09-01">09-01-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Militia report to Stephen F. Austin, adjutant of Sixth Regiment.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><hi rend="italic">Return of the <persName>2d Battalion 6th Regmt <placeName>Missouri </placeName>T Militia</persName></hi></p>
+
+<p><date when="1819-09-01">1814 1st Sept</date>  <persName>Major  </persName><persName>Capts</persName>.  <persName>Lieut</persName>. <persName>Ensign</persName>.  <persName>Serjeants  </persName><persName>Corporals  </persName><persName>Musitians  </persName><persName>Privates </persName>Total Swords  Rifles  Pouches  Horns  Amunition	</p>
+<p><persName>Major</persName>		   1      ---     ---	 ---      ---        ---        ---        ---      1     1       ---     ---      ---    ---		</p>
+<p><persName>1st Comp</persName>	   ---    1       1      1        4          ---        2          44       53    1       28      28       28     Powder Balls and Flin[t]s						</p>
+<p><persName>2nd Comp</persName>       ---    1       1      1        4          ---        ---        33       40    1       19      19       19     Powder Balls and Flints</p>
+<p><persName>3d Comp</persName>	   ---    1       1      1        4          ---        ---        27       34    ---     19      19       19     Powder Balls and Flints</p>
+<p>Total          1      3       3      3        12         ---        2          104      127   3       66      66       66     ---</p>
+<pb n="241"/>
+
+<p><persName>Martin Buggies Maj. Commanding 2d BaL 6th Regm. M. T Militia</persName>
+
+Return of the Classes from the <persName>2d Batt. 6th Regmt
+</persName>
+1st Class&#8212;35 <persName>privates   </persName>Equipt
+
+2d Class&#8212;35 <persName>privates   </persName>Eleven guns
+
+3  Class&#8212;35 <persName>privates   </persName>Twenty guns</p>
+
+<p>[Addressed:] <persName>Stephen F. Austin Adgt 6th Regmt. <placeName>M. T.</placeName> Militia</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

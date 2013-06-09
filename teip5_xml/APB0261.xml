@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0261">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Moses Austin, 03-25-1815</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 251-252
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memo</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1815-03-25">03-25-1815</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Memorandum of Money to be sent on to <placeName>Kentucky</placeName></p>
+
+To <persName>John Postlethwait of <placeName>Lexington</placeName></persName> for which my due Bill is given___________ $28. 00
+To <persName>Amos Edwards of <placeName>Russellsville</placeName></persName> for which my due Bill is given
+	This had better be sent to <persName>Jos Ficklin</persName> with a request to take it up__ $46. 00
+To <persName>Charles Bradford of <placeName>Lexington</placeName></persName>   This due Bill has been sent on to
+	<persName>Geo. Wilson of <placeName>St Louis</placeName> </persName>to whom I have written on the subject________$153. 33 1/3
+												    ___________
+												   $227. 33 1/3
+
+<p>When I purchaced the waggon I gave my note to <persName>Doct B. Roberts
+</persName>for Five Hundred Dollars payable in Six Months after date and
+at the same time made a written contract with <persName>Messrs Geo. W.
+and W. H. Whitakers of <placeName>Russellville</placeName></persName> for Five thousand pounds of
+<hi rend="italic">Small Bar Lead</hi> to be deliver'd at <placeName>Clarksville </placeName>and <placeName>Nashville </placeName>by
+the <date when="1815-05-01">1st day of May.</date> at Ten Dollars pr Hundred, payable on the
+same day that my Note to <persName>Doct Roberts</persName> becomes [due] I also was
+to deliver him at the same time Six Hundred pounds of Shot. (See
+the Memorandum in the contract for the numbers) at 15$ pr Cwt
+to pay for Sundry articles I got principaly for <persName>Mr Brickey</persName></p>
+
+<p>I also promised (verbally) that I would Send on 100 pounds of
+Shot <hi rend="italic">assorted to <persName>Col. Bailor</persName></hi> near <placeName>Russellsville </placeName>for which he was to
+pay the market price It would be best to get <persName>Mr J. Ficklin</persName> to 
+attend to this business and take up my notes from <persName>Roberts </persName>and 
+contract from the <persName>Whitakers </persName>after the Lead and Shot is delivered.
+Since Lead has fallen if the 5000 is not delivered by the day it is
+more than probable it will not be recd- so that Lead that is [on
+hand?] ought to be [made?] into pound Bars and appropriated to
+this use, My Credit stands very fair now at <placeName>Russelsville </placeName>and if this
+Contract is complied with it will continue to stand high which may
+be of much use to me hereafter it therefore is of great importance to
+me as well as yourself that the Lead should be sent on in time This
+I believe is all the unsettled business I have in <placeName>Ky</placeName>.</p>
+
+<p>At <placeName>Herculanium </placeName>I purchased 200 Baskets of Corn from <persName>Doct.
+Cairns</persName> at 37 1/2 cents payable the <date when="1815-06-01">first of June </date>and <persName>Horine </persName>I am 
+fearful will not deliver much more meal untill he is paid for what we
+have got</p>
+
+<p>I subscribed <placeName>5 Lots</placeName> and 100 Dolrs for the <placeName>Hercun Bridge</placeName> in your
+name subject to your confirmation.</p>
+
+<p>I this day purchase 101 yards of Linnen from <persName>C Patterson</persName> at 40.
+cts. for which I gave a due Bill in your name payable the <date when="1815-05-15">fifteenth
+day of May</date></p>
+
+<p><date when="1815-03-25">March 25th 1815</date></p>
+
+<p><persName>Stephen F Austin </persName>  [Rubric]<pb n="252"/></p>
+
+<p><persName>M Austin Esq</persName></p>
+
+<p>You had better write to <persName>Henry Elliott</persName> to try to engage Freight to
+<placeName>Clarksville </placeName>or <placeName>Nashville </placeName>for the 5000 of Lead and Shot and also to
+<persName>E Bates</persName> for it may be difficult to meet with an opportunity unless it
+is attended to in time</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

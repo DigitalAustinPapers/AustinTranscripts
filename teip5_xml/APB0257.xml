@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0257">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>G. W. and W. H. Whitaker to Stephen F Austin, 12-23-1814</title>
+            <author>
+                <persName>G. W. and W. H. Whitaker</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Russellville</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 245
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-12-23">12-23-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin in account with G. W. and W. H. Whitaker.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Russellville</placeName>, <date when="1814-12-23">23 Decr. 1814</date></p>
+
+<p><persName>Mr Stephen F Austin</persName>
+	Bought of <persName>G W and W H Whitaker</persName></p>
+
+<p>For <persName>Mr. Brickey</persName>
+	To 31 yds Supr Blk Cloth________________________@ 15$ _____________	$46. 87 1/2
+	1 vest pattern__________________________________15 ________________	  2. 50
+	1 2/12 doz Buttons______________________________4/6 _______________	     87 1/2
+	Silk Twist______________________________________3/9 _______________	     62 1/2
+	1 Cowskrn Whip__________________________________1/6 _______________	  2. 62 1/2
+
+
+2 pen knives_____________________________________6/9 &amp; 9/________________       2. 62 1/2
+2 Madrass Hdkfs__________________________________10/6____________________       3. 50
+													____________
+											Dolls__      56. 20</p>
+
+<p>1 lb opium of <persName>W H Whitaker</persName>____________12$________________________________      12. 00
+1 Blanket ____________________________4$_________________________________       4. 00
+1  pr platted Stirrup Irons___________7. 50 _____________________________       7. 50
+2  pr Coarse Shoes ___________________10/6_______________________________       3. 50
+1 do do_______________________________10/6_______________________________       1. 75
+													_____________
+											Dolls__      85. 00
+
+1 pr Woolen Socks ____________________3/9________________________________       5. 62 1/2
+													_____________
+													 85. 62 1/2</p>
+
+<p>										  Error in adn.     1. 00
+1 Knife 3/9 1 vest patern 30_____________________________________________       5. 62 1/2
+
+													$92. 25</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

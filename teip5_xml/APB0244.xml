@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0244">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Adam Trinno to Moses Austin, 02-10-1814</title>
+            <author>
+                <persName>Adam Trinno</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Charleston, SC</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Burton Mine, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 237
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-02-10">02-10-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lead trade.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Charleston </placeName><date when="1814-02-10">10 February 1814</date></p>
+<p>Sir,</p>
+
+<p>Having lost my <persName>partner Mr Cox</persName> some time ago, I address you
+in my own name, and reply to your favor of the <date when="1814-01-02">2nd last month</date>, 
+received two days ago, Stating your being interested in the making
+of Shot and roll lead, <hi rend="italic">both </hi>are in demand, but even our present
+high rates, would not pay carriage from <placeName>Nashville </placeName>and during the
+war, we have no Safe water Conveyance, from <placeName>New Orleans</placeName>&#8212;
+$20 per hundred has been paid for Cotton to the <placeName>northern States</placeName>
+and I presume full that would be ask'd from <placeName>Nashville </placeName>to this&#8212;
+the present price is 18 to $20 for Shot and rolls, and when peace,
+will drop to 12@ 15$. The Sizes of Shot most Saleable are
+from the Size above mustard to BB viz Bird, Snipe, High duck
+and Bristol Blue for Turkeys&#8212;with some Buck of moderate Size,
+the rolls are generally in demand, the pig or bars are now got in
+our own State, but not of a very good quality and but little used&#8212;I
+regret that I cannot give better encouragement to industry&#8212;if any
+favorable change I will drop you a line on the Subject&#8212;</p>
+<p>Respectfully am Sir</p>
+
+<p><persName>Adam Trinno</persName>    [Rubric]</p>
+
+<p><persName>Mr Moses Austin</persName> <placeName>Mine a Burton Missouri</placeName></p>
+
+<p>My usual Signature is <persName>A. Trinno </persName>  [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

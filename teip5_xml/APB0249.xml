@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0249">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Christian Wilt, 07-18-1814</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Christian Wilt
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 240
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill and Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-07-18">07-18-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stephen F. Austin in account with Christian Wilt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Mr. Stephen F. Austin</persName>           To <persName>Christian Wilt Dr</persName>.</p>
+
+<p><date n="xx-xx-1814">1814</date></p>
+
+<p><date when="1814-05-20">May   20</date> To Balance on paper_____________________	 "12 1/2
+
+	<date when="1814-05-20">"</date>  1 white wash Brush______________________      "87 1/2
+
+	<date when="1814-05-20">"</date>  Cash lent_______________________________    3. 00
+
+	<date when="1814-05-20">"</date>   1 Razor________________________________    1. 25
+
+	<date when="1814-05-22">22</date>   "  paid <persName>Ralp</persName>__________________________    1. 12 1/2
+
+	<date when="1814-05-27">27</date>   "   rib Coffee________________________     . 62 1/2
+
+	<date when="1814-05-27">"</date>    "   1 pr coarse shoes_________________    2. 25
+	
+	<date when="1814-05-27">"</date>    "  paid <persName>Ralp</persName>__________________________    1. 00</p>
+
+<p><date when="1814-06-06">June 	6</date>   "   1 Large shawl pr <persName>Elleck</persName>____________    3. 00
+
+	<date when="1814-06-06">"</date>    "  1 quire paper______________________       62 1/2
+
+	<date when="1814-06-06">"</date>    "  Cash lent__________________________    1. 00
+
+	<date when="1814-06-06">"</date>    "  your part of pack cards____________       25
+
+	<date when="1814-06-10">10</date>   "   1 Bottle Bitters__________________    1. 25
+
+	<date when="1814-06-10">"</date>    "  1/2 quire paper____________________       31 1/4
+
+	<date when="1814-06-14">14</date>    "  2 lbs Coffee______________________    1. 25
+
+	<date when="1814-06-18">18</date>   "  1 twist Tobacco (pr <persName>Elleck</persName>)________       12 1/2</p>
+
+<p><date when="1814-07-04">July 	4 </date>  "  1 scane silk________________________       12 1/2
+
+	<date when="1814-07-06">6</date>   "   1 doz. Buttons_____________________       37 1/2
+
+	<date when="1814-07-13">13</date>   "  1 pr fine shoes____________________    3. 00
+
+	<date when="1814-07-15">15</date>    "  1 quart whiskey (pr <persName>Elleck</persName>)_______       37 1/2
+
+	<date when="1814-07-18">18</date>   "  Cash lent__________________________    1. 50
+
+	<date when="1814-07-18">"</date>    "  paid <persName>Indian </persName>81 lbs Lead____________       50
+
+	<date when="1814-07-18">"</date>    "  1 pr Boots_________________________   12. 00
+								  _____________
+								   $36.  4</p>
+
+<p>	Cash_______________________________________    5. 00</p>
+
+<p>1134 lbs Lead lent to <persName>Fouquier</persName>&#8212;
+
+Cash lent________________________________________   13. 00
+								  _____________
+								   $54.   4</p>
+
+<p>[Endorsed:] <persName>S. F. Austin</persName>s a/c $39.25 of the within a/c  is the
+private a/c of <persName>S. F. Austin</persName> and of 1.79 on a/c of <persName>Moses Austin</persName>
+[Signed with S. F. Austin's rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

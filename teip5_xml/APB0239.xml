@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0239">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James Bryan, 12-30-1813</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazle Run, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 234
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1813-12-30">12-30-1813</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Boat for sale.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Hercn</placeName>. <date when="1813-12-30">Decr. 30th 1813</date></p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>In consequence of not arriving here in time to<placeName> <persName>Hammond</persName>s</placeName> I was
+compelled to go <placeName>St. Louis</placeName> &#8212; whence I did not return [until]
+<date when="1913-12-29">yesterday evening</date>&#8212;</p>
+
+<p>On my arrival here I found a <persName>Mr <hi rend="italic">Bent </hi></persName>(<persName>Brother of Judge Bent</persName>)
+who has a keel Boat to Sell in which I think a good bargain may
+be had and have therefore sent out this express to inform you of
+the terms that you may embrace them if you think proper</p>
+
+<p>The Boat is of Thirty-Seven (37) Tons, built in <placeName>Pittsburgh </placeName><date n="Fall-1813">last
+fall</date>, and <hi rend="italic">very strong,</hi> and <hi rend="italic">well built</hi>, and may be had for Six 
+Hundred Dollars, one Hundred down, and the Balance in <placeName>Pittsburgh</placeName>
+She will make a very good Barge with a little expense and is about
+the proper size for an <placeName>Orleans </placeName>Barge,&#8212;Boats are in demand in <placeName>St
+Louis</placeName> and I think the one which you got from <persName>Morrison </persName>may be
+sold well for cash&#8212;</p>
+
+<p>This Boat is the same that <persName>Wilson </persName>purchased for 525 Dollars but
+<persName>Bent </persName>refuses to let him have it She is coverd about 15 feet only
+and with    .    .    .   rigging,</p>
+
+<p>I give you this information that [you] may do as you think proper
+I have made no engagements with him if [you] take the Boat it
+will be necessary to send to <persName>Elias</persName>, or come in, <hi rend="italic">immediately </hi>as <persName>Bent</persName>,
+wishes to sell her and will do it in <placeName>St. Louis</placeName>.<persName> Mr Bent</persName> will wait
+here untill <hi rend="italic">Monday morning</hi> to hear from you.</p>
+
+<p>I go to <placeName>Kaskaskia </placeName>this day tho [I] shall not get there untill
+<date when="1813-12-31">tomorrow </date><persName>Col. Hammond</persName>s has been offered (3000) Three 
+Thousand Dollars for <placeName>Herculaneum </placeName>by <persName><hi rend="italic">Smith </hi></persName>and <persName>Von Phal</persName>, and also by
+<persName>Genl. <hi rend="italic">Clark </hi></persName>and <persName>Genl. <hi rend="italic">Howard </hi></persName>in partnership to whom he will sell
+if you and <persName>Morrison </persName>do not take it&#8212; I shall state the terms to
+<persName>Morrison </persName>and bring out his answer</p>
+
+<p>Tell <persName>Father </persName>that the <placeName>Bank </placeName>is progressing agreeable to his <hi rend="italic">last
+Plan</hi>.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>J Bryan Esqr</persName></p>
+
+<p>I think you had better not do anything with this Boat without
+coming in yourself to look at her</p>
+
+                                 <p> <persName>S.F[A]</persName></p>
+
+<p>[Addressed:]<persName> James Bryan Esquire</persName> <placeName>Hazle Run Missouri
+</placeName>pr <persName>Jerry</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

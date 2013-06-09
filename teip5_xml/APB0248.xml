@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0248">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elias Bates to James Bryan, 06-13-1814</title>
+            <author>
+                <persName>Elias Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-30">06-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Burton Mine, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 239
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-06-13">06-13-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lead.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1814-06-13">June 13 1814</date></p>
+<p>Dear Sir</p>
+
+<p>I am under the necessity of Addressing you Once More on the
+Subject of lead&#8212;<persName>Mr Scott</persName>s boat will be here on <date when="1814-06-16">Thursday </date>and he
+holdes one of my Recepts and I have not [the amt of lead to] take
+it up: I wish you either to send me [enough to] <placeName>St. Geneveive</placeName> to
+meete his Boat [If] you do not; I do not know what I am to do for
+I can not get the lead here at this time. I hope you will consider
+my Situation and send me Reliefe the Amot of the Receip is about
+2300&#8212;<persName>Coll Hammonds</persName> is Just from <placeName>St Louis</placeName> he tells me that he
+saw a Gentleman theire that told him that he saw <persName>Phelps </persName>at the <placeName>play
+hous in new Orleans</placeName> in Company with several of the <persName>Ladyes </persName>of the
+Town and that he was a dashing [mutilated] Table and with a
+high [mutilated]</p>
+
+<p><persName>Elias Bates</persName></p>
+<p>The <placeName>Store </placeName>will be finished this Weeke or the begening of Next&#8212;</p>
+<p>[Addressed:] <persName>Mr James Bryan</persName><placeName> Mine-[a-Burton]</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

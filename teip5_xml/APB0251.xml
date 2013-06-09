@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0251">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 09-02-1814</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Durham Hall, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Run, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 241
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-09-02">09-02-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Purchase of negroes.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Durham Hall</placeName> <date when="1814-09-02">Sepr. 2th 1814</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p><persName>Captain Morgan</persName> has returned from <placeName>St Genevieve</placeName> and has recd.
+letters from <persName>Scott </persName>to <persName>Colo [Anthony] Butler</persName> in which he has made
+such a mention of the sufficiency of the security of myself and you
+and <persName>Stephen </persName>that little Doubt remains of obtaining the <persName>Negroes </persName>and
+<persName>Captain Morgan</persName> starts <date when="1814-09-03">on the morrow</date> for <placeName>St Louis</placeName> and immediately
+returns to <placeName>Herculanium </placeName>and If you intend he shall have the Horse
+you mentiond. It will be necessary for you to make all the haste you
+can in sending him to that place to meet <persName>Captain Morgan</persName> on his
+return I have stipulated with <persName>Captain Morgan</persName> to take 30 <persName>Negros </persName>on
+five years Credit 20 for myself and 10 for you but If he cannot 
+obtain the number calculated we are to take as many less as to make
+half the number purchased for me 1/4 for you 1/4 for <persName>Captain Morgan</persName>
+in all to be 48 or 50 <persName>Negroes</persName>: 20 for me 10 for you 8 <persName>Captain Morgan</persName>
+and 10 for <persName>Wilkenson </persName>but as <persName>Wilkenson </persName>is not known in the purchase
+we are to each give of from the Number so as to give him a share,
+you will let <persName>Stephen </persName>know respecting the Horse immediately on the
+receipt of this letter&#8212; <persName>Mr. Wilkenson</persName> has his lead ready and wants
+<persName>Morgan</persName>s Only you must make all the expedition in your power to
+have yours ready or you will loose the freight and you know that
+will greatly disappoint us in our arrangements <persName>Captain Morgan</persName>
+will be at <placeName>Herculaneum </placeName>on <date when="1814-09-04">Sunday evening</date> and will go on to <placeName>St
+Louis</placeName> immediately   the <persName>family </persName>are mending</p>
+
+<p><persName>Moses Austin</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>Mr. James Bryan</persName>
+<placeName>Hazel Run</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

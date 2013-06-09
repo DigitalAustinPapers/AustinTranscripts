@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0254">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Rufus Easton to Moses Austin, 11-18-1814</title>
+            <author>
+                <persName>Rufus Easton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Washington County, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 242-243
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1814-11-18">11-18-1814</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks for detailed report on lead mining and smelting to guide him in preparing legislation for Congress. Banking and confusion of the currency.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Washington </placeName><date when="1814-11-18">Novr 18th 1814</date></p>
+<p>Dear Sir,</p>
+
+<p>I am anxious to obtain and as soon as possible all the information
+which can be had in relation to the <placeName>lead mines</placeName>&#8212;and I know of no
+person better able to give correct information on the subject [than]
+yourself&#8212;any ideas you may think proper to communicate as to the
+manner of leasing the <placeName>public mineral lands</placeName> will be very acceptable
+to me&#8212;</p>
+
+<p>I wish to be informed as to the present prices given for mineral&#8212;
+the profits to be derived from smelting&#8212;the probable revenue to be
+derived to the <placeName>United States</placeName> from leasing&#8212;what the prices of 
+mineral lead were before and since the war&#8212;go into as much detail in
+your communication as you can find it convenient to make&#8212;</p>
+
+<p>The <persName>house of Representatives</persName> are now engaged in discussing the
+Bill for the establishment of a <persName>national bank</persName>&#8212;to revive the public
+credit which at present appears to be at a low ebb&#8212; As soon as the
+fiscal concerns are accomplished we may expect immediate provisions
+in detail for raising an <persName>army </persName>as I hope sufficient to expel entirely the
+<persName>British </persName>from the <placeName>Continent </placeName>and to coerce the <persName>Indians </persName>to friendly
+intercourse and [mutilated] us&#8212; I think <persName>Mr. Munroe</persName>s first plan
+[an] admirable one&#8212; By reading the [debates] of <persName>congress </persName>some of
+which I shall send you on the subject of the <persName>Bank </persName>[you] will better
+discover the state and condition of the <persName>Banks </persName>on <placeName>this side of the
+mountains</placeName> &#8212;than I can inform you by letter Suffice it to say in
+this place you cannot get a picaun in silver and bills for one cent are
+in circulation No one bank will receive the paper of another 
+without a discount of from 10 to 12 per cent.&#8212;</p>
+
+<p>I had not arrived when the first section of the Bill to incorporate
+the <persName>U. S. bank</persName> was under consideration in committee of the whole&#8212;
+The <placeName>territories </placeName>had all been omitted I succeeded to day in one
+amendment authorising the <persName>directors </persName>to establish <placeName>offices </placeName>where soever
+they shall think fit in the <placeName>territories </placeName>for the purposes of discount
+deposit and distribution&#8212;and think it would be much better if they<pb n="243"/>
+were compelled by the law to establish one such <placeName>office </placeName>in each <placeName>state</placeName>
+and <placeName>territory </placeName>whenever a certain amount of the capital stock should
+be subscribed in such <placeName>state </placeName>or <placeName>territory</placeName>&#8212; the object would be to
+prevent the specie from going out of the <placeName>State </placeName>into the <persName>Mother Bank
+at <placeName>Philadelphia</placeName></persName>&#8212;but you might as well kick agt the pricks as to 
+attempt it&#8212; It will however be strongly urged I suspect&#8212; I shall
+try to [have the] first section so amended as to have [offices?] for 
+subscription opened within our <placeName>territory</placeName>&#8212; Write me often your ideas
+[on] these and other subjects which may occur</p>
+
+<p><persName>R Easton </persName>[Rubric]</p>
+
+<p>Be pleased to present my best respects to <persName>Mrs Austin</persName> and <persName>Mr. and
+Mrs. Bryan</persName> and to <persName>Stephen</persName>&#8212;</p>
+
+<p>I send you a Bank bill for five Cents.&#8212;</p>
+
+<p>[Addressed:]   <persName>Moses Austin Esquire Post Master</persName>  <placeName>Mine Potosi
+Washington County Missouri Territory</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
