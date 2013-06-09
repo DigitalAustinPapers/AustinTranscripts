@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0268">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin to James Bryan, 01-31-1816</title>
+            <author>
+                <persName>Moses Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Burton Mine, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazel Cottage, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 254-255
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1816-01-31">01-31-1816</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">General business.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mine a Burton</placeName> <date n="01-31-[1816?]">Jany 31 [1816?]</date></p>
+<p>Dear <persName>Son</persName></p>
+
+<p>You will suppose that I have Neglected the return of your horse,
+but the extreem Cold Weather has prevented.   I wished to send to<pb n="255"/>
+you a <persName>Boy </persName>to remain with you, but I was absolutely doubtfull he
+would git some injury, by Cold, but this day is something More
+Moderate and I have Concluded to trust him with your horse I hope
+he may arrive safe We have Not heared a word from you since the
+<persName>Doct. </persName>returned I hope to God you have again recovered so as to be
+yourself again, can you send a load of Lead to <persName>Mr Bates</persName> I must
+raise the Money for the Cape or I shall be in real distress. <persName>Mr Bates</persName>
+has made Use of all the Lead I have sent him Except the last <hi rend="italic">smelt</hi>,
+and I have paid <persName>Captain Morgan</persName> 139 Dollars and to <persName>Stephen </persName><hi rend="italic">150</hi>
+Dollars to send to <placeName>Kty </placeName>which has so distressed me that I Shall I am
+fearfull suffur much unless I make up the money Immediately and
+to make things worse the furnace is so damaged she must be mended
+before I can make any more Lead and the <persName>General Courts</persName> meet at
+this place in four Weeks. I shall be really distressed my pork has
+taken up about <hi rend="italic">350 Dollars</hi> all these things has press.d me greatly If
+you can send a load to <persName>Mr Bates</persName> it will help greatly</p>
+
+<p>I hope you mky be in a situation to Visit us this Week   If the
+Weather will admitt.</p>
+
+<p><persName>Moses Austin </persName>   [Rubric]</p>
+
+<p>N. B. <persName>Stephen </persName>has had the measles but is now nearly well again
+your <persName>mother </persName>is as common&#8212;this extreem cold Weather put Business
+back greatly</p>
+
+<p><persName>MA</persName></p>
+<p>[Addressed] <persName>Mr. James Bryan</persName>
+<placeName>Hazel Cottage</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

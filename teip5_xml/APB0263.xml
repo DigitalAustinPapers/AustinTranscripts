@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0263">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elias Bates to Moses Austin, 09-10-1815</title>
+            <author>
+                <persName>Elias Bates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-02">07-02-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Moses Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Burton Mine, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 252
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1815-09-10">09-10-1815</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1815-09-10">Septr&#8212;10th 1815</date></p>
+<p>Dear Sir</p>
+
+<p>Messrs <persName>Murphy </persName>and <persName>Heartgrove </persName>have Delevd <persName>Murphy </persName>60 Barrs
+2469lb Heartgrove 77 Barrs&#8212;3208lb&#8212;also the Barrells which I shall
+attend to&#8212;<persName>Mr Bryant</persName> Says that you may have what Leather you
+want for hides; Sole leather 33 1/3 Cents Upper leathers from 250 to
+4 Dollars per Side&#8212;you may send the hides when they get dry and
+as soon as possable I shall not sell any of your Lead that is not
+allready Disposed of untill I here from you&#8212;please to inform me
+what is the price of Lead at <placeName>St Genevieve</placeName>. <placeName>Mr Ellis</placeName> has sent you 3
+Barrels Cyder they Contain 40 Gall Each and wishes you to Sell
+them and reserve the Barrels if you can and send them in</p>
+
+<p><persName>E Bates </persName>   [Rubric]</p>
+
+<p><persName>Mr Horace Austin</persName> has sent you a Barrel of Apples which you will
+receive by <persName>Murphy</persName></p>
+
+<p><persName>E Bates</persName></p>
+
+<p>Recevd of <persName>Elias Bates</persName> for Acct of <persName>Moses Austin</persName> Three Dollars</p>
+
+<p><placeName>Herculaneum </placeName><date when="1815-09-10">Sept 10th&#8212;1815</date></p>
+
+<p><persName>Francis (his x mark) Murphy</persName></p>
+
+<p>[Addressed:] <persName>Mr Moses Austin</persName> <placeName>Mine A Burton</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
