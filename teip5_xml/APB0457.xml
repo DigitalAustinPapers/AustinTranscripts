@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0457">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Daniel Draper to Stephen F. Austin, 12-25-1821</title>
+            <author>
+                <persName>Daniel Draper</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lincoln, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 454-455
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-12-25">12-25-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Represents families from South Carolina. Wants information about terms of settlement, routes to Texas, liberty of conscience.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Lincoln, State of Missouri.</p>
+
+<p><date when="1821-12-25">Dec. 25th 1821.</date></p>
+<p>Dear Sir</p>
+
+<p>A number of the <persName>Citizens of this <placeName>County</placeName></persName>, through me, have 
+presumed to address a letter to you, understanding that you are at
+<placeName>Potosi</placeName>; the object of which is to request you to inform us of the
+certainty of the report concerning a territory in the <placeName>Province of
+Texas</placeName>, which <placeName>territory </placeName>according to an extract of a letter published in
+the <placeName>newspaper </placeName>said to have been from yourself, you have the 
+disposal of. We wish, if you will be so good as to condescend to write
+us, to know 1st If that letter was from yourself: and if so how many
+<persName>families </persName>are wanting; If the time for those <persName>families </persName>to come is
+limited; if any have come; what probability of getting supplies for
+<persName>family </persName>until it could be raised; how far from <placeName>St. Louis</placeName>; the best
+route by Land; which the preferable way to come by Land or Water;
+and if Liberty of Conscience [is] allowed of&#8212;</p>
+
+<p>We would first observe that the <persName>families </persName>who now trouble you, are
+from a southern climate <placeName>S. C.</placeName> and are all <persName>farmers</persName>; and are 
+determined for a warmer Climate. Your compliance will therefore confer
+the greatest favor - Please write as soon as possible after the receipt
+of this - and direct your letter to the undersigned who is <persName>Post Master<pb n="455"/>
+Ast. at <placeName>Stoutsfort P. 0. Lincoln County Mo.</placeName></persName>    Please excuse our
+liberty in consequence of the subject, While We Remain</p>
+
+<p><persName>Daniel Draper</persName></p>
+<p><persName>Mr. Stephen F. Austin</persName> <placeName>Potosi, Missouri</placeName></p>
+
+<p><persName>Post Master at <placeName>Potosi</placeName></persName>, if <persName>Mr. Austin</persName> is not there, and is any where
+in <placeName>Mo.</placeName> please forward this, If he is not in <placeName>Mo.</placeName> please drop a line to
+the <persName>Post Master at <placeName>Stouts fort Mo.</placeName></persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

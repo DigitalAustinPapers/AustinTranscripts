@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0454">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Erasmus Ellis to Stephen F. Austin, 12-22-1821</title>
+            <author>
+                <persName>Erasmus Ellis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Jackson, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 452-453
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-12-22">12-22-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Dixon, and asking for information.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Jackson </placeName><date when="1821-12-22">22nd December 1821</date></p>
+<p><persName>S. F. Austin Esqr</persName></p>
+
+<p>Permit me to introduce to your particular acquaintance <persName>Capt
+Dixon</persName> the <persName>bearer </persName>of this, as he intends visiting the<persName> province of
+Texas</persName>, for the purpose of being a useful citizen in the bounds of<pb n="453"/>
+your <placeName>settlement</placeName>&#8212;He has lately been employed in surveying public
+Lands in the <placeName>State of Missouri</placeName> and <placeName>Illinois</placeName>, and whose capability,
+steadiness and integraty, has met the cordial approbation of his
+<persName>employers </persName>as well as general <persName>Government</persName>&#8212;Any friendship that you
+may think proper to extend toward him, in that line, or any other
+that may be beneficial to him, will be acknowledged by your friend
+and humble servt</p>
+
+<p><persName>Erasmus Ellis  </persName>  [Rubric]</p>
+
+<p>P. S.   I wrote to you last month when I was at my <persName>Brother</persName>s on
+the <placeName>coast</placeName>, and I hope you will spare time enough to give me general
+information of that country; and particularly what kind of 
+<persName>Mechanics </persName>are most in demand there at present&#8212;</p>
+<p>With respect I am yours etc</p>
+
+<p><persName>E Ellis </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0492">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Roswell Mills to Stephen F. Austin, 03-28-1822</title>
+            <author>
+                <persName>Roswell Mills</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Rushville, OH</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 490
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-03-28">03-28-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Terms and conditions. Will not monarchy and nontoleration check American immigration?</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Rushville, Ohio</placeName>, <date when="1822-03-28">March 28th 1822</date>.</p>
+<p><persName>Mr. Stephen F. Austin</persName>,</p>
+
+<p>Dear Sir, I have twice written you but receiving no answer
+presume my letters did not reach you. Chance has thrown in my
+way your letter to <persName>Mr. Hawkins</persName> dated at <placeName>La Bahia</placeName> in <date n="09-xx-1821">Sept. last.</date></p>
+
+<p>This with the information I had previously received of <placeName>Texas</placeName>,
+induced me to wish to emigrate there and the object of my former
+letters has been to enquire of the country and to ascertain if a 
+[surveyor] could have a prospect of employment in surveying which is
+my occupation. I have a small <persName>family </persName>and industry and honesty
+will be our principal property. I have now a chance as I expect of
+sending this by private conveyance to <placeName>New Orleans</placeName>. If it should
+meet your eye I should be glad to receive a line from you addressed
+to me at this place, containing such information on the foregoing
+topics as your information and leisure will permit.</p>
+
+<p>Recently I have seen the project of <persName>Iturbide </persName>for the government
+of <placeName>Mexico</placeName>.</p>
+
+<p>Will not his <hi rend="italic">Monarchial Government</hi> and <hi rend="italic">Non-toleration</hi> be a
+great check to the emigration of <persName>Americans</persName>.</p>
+
+<p><persName>Roswell Mills.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

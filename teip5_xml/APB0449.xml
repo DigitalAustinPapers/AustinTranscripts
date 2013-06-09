@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0449">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James T. Dunbar and Others to Stephen F. Austin, 12-13-1821</title>
+            <author>
+                <persName>James T. Dunbar and Others</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-10">07-10-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Baltimore, MD</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 447-448
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-12-13">12-13-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Want information particularly about government and religious toleration in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Baltimore </placeName><date when="1821-12-13">Dec 13.th 1821</date></p>
+<p>Sir,</p>
+
+<p>Having seen an extract of your letter on grants of land in the
+<placeName>Morning Chronicle</placeName> of the city, and view the subject of great 
+importance we are induced to obtrude on your notice, by addressing
+you a few lines.</p>
+
+<p>The liberal proffers of land in the <placeName>Province of the Texas</placeName> which
+you are authorized to hold out to <persName>adventurers </persName>have attracted our
+attention and raised an earnest solicitude to become more 
+particularly acquainted than we have yet been or perhaps can expect to be,
+through the medium of the public prints, on that subject. It is our
+confident expectation, if the expense of getting to that country with
+a <persName>family </persName>could be pretty nearly estimated, and if the character of
+the <persName>government </persName>which shall immediately on our arrival direct us,
+and of that which may at some short time subsequent be therein
+established [should be satisfactory], that a large <persName>company </persName>might
+soon be made up, provided that information on these points should
+be such as to authorize our transition thither. No feature in any
+government could be more abhorrent to men born in the land of
+liberty,&#8212;and matured in the arms of universal toleration, than
+religious restraint. The idea of an established <placeName>church </placeName>of any 
+particular creed would forever banish from our minds the design of
+leaving our natal soil. The consideration of toleration in Religion,
+and the assurance that this will form one of the prominent and
+auspicious features of the constitution will remove a thousand 
+obstacles from the execution of our designs. The prospect of 
+undisputed and permanent titles to land, and of quiet and peaceful 
+regulations in the <placeName>Province </placeName>must also be powerful incitements to 
+emigrants. The <persName>writers </persName>are aware that many difficulties and 
+embarrassments must attend undertakings of this nature, and therefore it will
+occur to you, Sir, that it must be greatly desirable to the <persName>emigrant</persName>
+to obtain all the information possible on the subject, that he may
+be the better prepared to encounter impediments, and to overcome<pb n="448"/>
+opposition; and as there can be no source from which we can expect
+so full, accurate, and satisfactory information as from him whom
+makes these liberal proffers, we hope you will find in this our apology
+for troubling you, and that you will assent to give us a clear and
+candid statement in reply to this our humble letter.</p>
+<p>Respectfully yours,</p>
+
+<p><persName>Jas. T. Dunbar</persName></p>
+<p><persName>George Keck</persName></p>
+<p><persName>Peter Forder</persName></p>
+<p><persName>Nathan W Peregoy</persName></p>
+<p>N. B. Address to <persName>George Keck Inn Keeper <placeName>high St. Baltimore</placeName>.</persName></p>
+<p>[Addressed:] <persName>Mr. Stephen Austin,</persName> <placeName>New Orleans</placeName>.    To the care of
+<persName>Jos. H. Hawkins Esqr</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

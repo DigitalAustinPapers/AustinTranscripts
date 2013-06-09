@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0464">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Gaines to Stephen F. Austin, 01-05-1822</title>
+            <author>
+                <persName>James Gaines</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Sabine, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin Colony</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 460-461
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-01-05">01-05-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning the character of James Dill, of Nacogdoches.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Sabine [Texas]</placeName> <date when="1822-01-05">5th Jany 1822</date></p>
+<p><persName>Stephen F Austin Esqr</persName></p>
+
+<p>Dr Sir I Receivd yours of the <date when="1821-12-17">17th of December</date> from <placeName>Nacogdoches</placeName>,
+this day and for the sake of business shall admit Every part as fact,
+and by the by in a friendly way ask you a few questions first If
+you were here and was sensible that <persName>Dill </persName>had used his utmost 
+Endeavor to Poison the minds of the <persName>Spaniards</persName> against the <persName>American</persName>
+Character would you Respect him, and when you se a man sliped
+into office who by Ignorance and Lack of Education is unable to fill
+it; Can you Respect him. I will go further and ask you has, <persName>Dill</persName>
+the power of negotiating Treaties with <persName>Indians </persName>or of Trying and<pb n="461"/>
+Condemning a man to Death or of ordering a man shot without a
+Trial, on the mere Letter of <persName>John Latham</persName>, has He the Eight of
+attaching and selling property on a note from the <placeName>United States</placeName>
+Now those are a very small part of his acts, but as I do not wish to
+be Tedious I shall Confine myself to those and wait your answer
+and if you say you would Respect him under those Circumstances
+and that his Commission and Instructions from the Government
+Justify him in those acts I will then acknowledge and Respect him
+also.</p>
+
+<p><persName>Jas. Gaines </persName>   [Rubric]</p>
+<p>[Addressed:] <persName>Stephen F. Austin Esqr.</persName> In his <placeName>Colony</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

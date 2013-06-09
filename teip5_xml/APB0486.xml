@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0486">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James C. Carr to Stephen F. Austin, 03-14-1822</title>
+            <author>
+                <persName>James C. Carr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nachitoches, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 483-484
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-03-14">03-14-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Col. Charles Caldwell, of Kentucky.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Nachitoches </placeName><date when="1822-03-14">14th March 182</date>2</p>
+<p>Dear Sir</p>
+
+<p>I take the liberty of introducing to your friendly attentions 
+<persName>Col. charles Caldwell of <placeName>Kentucky</placeName></persName>, he visits your Country with the
+view of establishing himself therein.<pb n="484"/></p>
+
+<p><persName>Col. Caldwell</persName>'s having no acquaintance in <placeName>St Antonio</placeName> has induced
+me take this freedom, which indeed I consider unnecessary, his
+gentlemanly address could not fail of procuring him the Esteem of
+all those with whom he may become acquainted.</p>
+
+<p>I shall consider any attentions you may please to extend to <persName>Col.
+Caldwell</persName> as conferred on myself&#8212;Wishing you much happiness,
+and great success in your great enterprise</p>
+
+<p><persName>James C Carr</persName></p>
+
+<p><persName>Judge Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

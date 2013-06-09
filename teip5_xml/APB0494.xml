@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0494">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Andrew Boggs to Unknown, 04-06-1822</title>
+            <author>
+                <persName>Andrew Boggs</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 491
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Certificate</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-04-06">04-06-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Character certificate.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The <persName>bearer </persName><persName>Mr. John Little of <placeName>Westmoreland County</placeName> in the 
+Commonwealth of Pennsylvania</persName> about to remove down the <placeName>River </placeName>to the
+<placeName>Province of Texas</placeName> wishes a certificate of his Character etc</p>
+
+<p>I the subscriber do hereby certify that I have known said <persName>John
+Little</persName> for more than twenty years and know him to be an, honest,
+sober, orderly Citizen   <date when="1822-04-06">April 6th 1822</date></p>
+
+<p><persName>Andrew Boggs </persName>   [Rubric]</p>
+<p><placeName>Pennsylvania</placeName></p>
+
+<p><placeName>Allegheny County</placeName></p>
+
+<p>I <persName>James K. Butler Prothonotary of the Courts</persName> of Common pleas
+in and for the <placeName>County of Allegheny</placeName>, in the <placeName>Commonwealth of 
+Pennsylvania</placeName> Do hereby Certify that I am intimately acquainted with
+<persName>Andrw Boggs</persName>, who has in his own proper handwriting given the
+above certificate and subscribed his name thereto, That he is a man
+of strict truth and integrity, to all whose certificates and acts faith
+and credit are due.</p>
+
+<p>In Testimony whereof I have hereunto set my hand and affixed the
+seal of the said <placeName>Court at Pittsburgh</placeName> this <date when="1822-04-10">tenth day of April in the year
+of our lord Eighteen hundred twenty two</date> - and of the sovereignty
+and Independence of the <placeName>United States of America</placeName>, the forty sixth.</p>
+
+<p><persName>James R. Butler.</persName> <hi rend="italic">Prothy</hi></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

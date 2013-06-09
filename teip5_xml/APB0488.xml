@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0488">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James E. B. Austin, 03-23-1822</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Loredo, Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Bexar, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 487-488
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-03-23">03-23-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Adventure with Comanches. Desolation of the country from Bexar to Laredo. How to study Spanish.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Loredo </placeName><date when="1822-03-23">March 23 1822</date></p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>We arrived here on the <date when="1822-03-21">21 </date>and finding that a considerable 
+<persName>Company </persName>were going on to <placeName>La Punta</placeName>, on Sunday afternoon I thought
+it most prudent to wait for them, on acount of the <persName>Indians</persName>, who
+are very numerous on all these roads,&#8212;about <placeName>six miles this side of
+the river Nuesis</placeName> 50 <persName>Camanches </persName>charged upon us a little before sun
+rise, the <persName>Doctor </persName>and <persName>Waters </persName>were out after the Horses and I was
+alone at <placeName>Camp</placeName>, they surrounded me in an instant and took possession
+of every article we had&#8212;resistance was useless for against so many
+it would have been ineffectual the <persName>Doctor </persName>and <persName>Waters </persName>and the Horses
+were soon brought up by the <persName>Indians </persName>and I then expostulated with
+them for treating their <persName>Friends </persName>the <persName>Americans </persName>in such a manner,&#8212;
+when they found there was no <persName>Spaniards </persName>with me, they gave us back
+our Saddle bags, saddles, and everything else except 4 blankets, a
+bridle, my Grammar and Several other little things and all our 
+provisons, nothing saved our lives but being <persName>Americans</persName>, and as the next
+party might not be so polite I have waited for the <persName>company </persName>that is
+going on <date when="1822-03-14">to morrow</date>. Two men were taken <persName>prisoners</persName>, the day <date when="1822-03-11">before
+yesterday</date> within a few miles of this place, one of whom escaped and
+got in this <date when="1822-03-13">morning </date>he says the <persName>Indians </persName>are waylaying the road 
+between this and <placeName>Punta</placeName>, (the road I am going)&#8212;about 3 miles this
+side of where the <persName>Indians </persName>charged upon us, we met another <persName>party</persName>
+of 34 who were encamped behind a hill watching the road, only two
+of them came to us, they said their <persName>captain </persName>knew us to be 
+<persName>Americans </persName>and ordered his men to let us alone.</p>
+
+<p>The Country from the <placeName>River Madina</placeName> to this place is the poorest
+I ever saw in my life, it is generally nothing but Sand, entirely void
+of Timber, covered with scrubby thorn bushes and Prickly Pear&#8212;
+this place is on the<placeName> bank of the Rio Grande</placeName>&#8212;and is as poor as sand
+banks, and drought, and indolence can make it&#8212;The <placeName>river </placeName>is about
+the size of the <placeName>Arkansas</placeName>, if anything a little larger&#8212;</p>
+
+<p>I hope you are applying yourself closely to Study&#8212;get the first
+volume of Dufiefs (?) Grammar from the <persName>Doctor </persName>and Study the
+familiar phrases and lessons, and write them, also after commiting
+a verb write it from memory and then compare it with the book to
+see that the spelling is correct&#8212;also repeat your verbs as you learn
+them to <persName>Francisco </persName>or some other who can correct your 
+pronunciation, a bad pronunciation at the start will be difficult to correct,
+therefore take no lessions [sic] from any but those who are capable
+of giving them&#8212;Remember that it is all important to learn to write
+the language&#8212;<pb n="488"/></p>
+
+<p>Pray be particular in taking care of your things&#8212;The tent, 
+Blankets, Kittle, Pack Saddle, the two bridles, and every other article
+however trifling it may seem to be.</p>
+<p>Write me directed to <placeName>Mexico</placeName>,</p>
+<p>Your affc <persName>Brother</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+<p>[Addressed:] <persName>Mr James B. Austin</persName> <placeName>Bexar   </placeName><persName>Mr. Higginbotham</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

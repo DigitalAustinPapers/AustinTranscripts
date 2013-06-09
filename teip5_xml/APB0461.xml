@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0461">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. Brown Austin to James Bryan, 12-28-1821</title>
+            <author>
+                <persName>James E. Brown Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Little Rock, AR</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Herculaneum, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 458-459
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-12-28">12-28-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">The Arkansas business of Bryan.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Little Rock</placeName> <date when="1821-12-28">Dec 28th [1821]</date></p>
+<p>Dear <persName>Brother</persName></p>
+
+<p>I arrived here last night not as much Fatigued as I expected;
+<persName>Henry Elliott</persName>, arrived the night before he left us at <hi rend="italic"><placeName>Cany Creek</placeName></hi>
+where we lost one of our horses&#8212;which detained us several hours&#8212;</p>
+
+<p>I went by <placeName><persName>Mc Donald</persName>s</placeName> for the horse but did not get him&#8212;the
+horse had been stollen nearly two Years&#8212;I have examined the 
+invoice of Goods left at this place&#8212; and find but few that would 
+answer&#8212; and what few would answer it is impossible for me to take
+on, for the want of a horse-&#8212; and time to pack the Goods&#8212; the notes
+you gave me I shall leave in <persName>Mr. Ashley</persName>s Hands for Collection&#8212; as
+you directed&#8212; I see in the invoice&#8212; 1 brass and one silver watch
+also 1 Gun that had been lent out untill nearly ruined&#8212; If I do take
+on any of the Goods they will be Madrass Hani (?) and some Beads
+however there is but a poor probability of my taking on any&#8212; as
+<persName>Mr. Eliott</persName> is so anxious to get on as fast as possible that if I was
+not ready he would not wait a moment for me</p>
+
+<p>He got a letter from <placeName>New Orleans</placeName> a day or two later than yours;
+<persName>Stephen </persName>wished everything belonging to <persName>Fathers Estate</persName> sent to<pb n="459"/>
+<placeName>Orleans </placeName>consigned to <persName>Hawkins</persName>&#8212; I shall place the things in <persName>Mr.
+Ashley</persName>'s care and he will send them down the first opportunity&#8212;</p>
+
+<p>As I have not time to pack up Your Goods I shall leave all as I
+found them if <persName>Mr Eliott</persName> sends goods to (Means I expect that
+Yours will go on also.</p>
+
+<p>The notes on <persName>Crow </persName>I shall take on with me but the rest I leave
+here as before stated&#8212; If I had time and horse I would certainly
+take on the quantity of Goods You directed&#8212; I would do anything
+to promote Your Interest that lay in my Power&#8212;but as it is 
+impossible for me <hi rend="italic">to take them on</hi>&#8212;I hope You will [not] impute it to
+negligence on my part</p>
+
+<p>We will have corn to pack a considerable distance and two horse [s]
+would be Exquisite for <hi rend="italic">that </hi>alone&#8212; I have nothing more to say
+except that I am well pleased with the <placeName>Little Rock</placeName><persName> Mr and Mrs
+Ashly</persName> are well also the <persName>Doc </persName>and <persName>Family</persName>&#8212; <persName>Mrs Ashly</persName> desires her
+love to <persName>Emily </persName>and will write her shortly love to <persName>Mother </persName>and <persName>sister</persName></p>
+
+<p><persName>Jas E B Austin</persName></p>
+
+<p>P. S. do not forget the certificate but send it on as soon as 
+possible.</p>
+
+<p>[Addressed:] <persName>Mr James Bryan</persName> Near <placeName>Herculaneum Missouri
+</placeName>Mail</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

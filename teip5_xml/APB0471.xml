@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0471">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Josiah H. Bell to Stephen F. Austin, 01-17-1822</title>
+            <author>
+                <persName>Josiah H. Bell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 466
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-01-17">01-17-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">People crowding to your colony. Beware of Dill.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Province of Texas</placeName> <date when="1822-01-17">January 17 1822</date></p>
+<p>Dear Sir</p>
+
+<p>I have only time to drop you a line in haste as the <persName>bearer </persName>is in
+a hurry all things are Going on well and people Crowding on
+their way to the <placeName>brassos </placeName>and <placeName>Collorado </placeName>and are all coming for your
+Claim, you will find that they will all Crowd for your settlement
+notwithstanding what the few may say that are oposed to your
+Intrust we understand here that <persName>Long </persName>is well received by the
+<persName>Government </persName>he may have some influence hereafter and situated as
+things are at present you would Do well to pay attention to that
+Circumstance and as his Good will may be of service an early 
+attention will in my opinion be no disadvantage my anxiety for your
+Intrust makes me take this liberty at present-</p>
+
+<p><persName>Stephen R Wilson</persName> is very friendly to your Intrust and tels me he
+intends letting you have his <persName>negro woman</persName> in advance in payment for
+lands I will wright you more fully the next opertunity I wish you
+to Drop me a line if you find it Convenient you may rest assured
+that old <persName>Dill </persName>dose and will do you all the Ingery you [he] Can</p>
+
+<p><persName>J. H. Bell</persName></p>
+<p>[Addressed:]   <persName>Stephen F. Austin</persName> <placeName>Colorado Province</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

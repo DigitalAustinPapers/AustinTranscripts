@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0480">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert D. Dawson to Stephen F. Austin, 02-15-1822</title>
+            <author>
+                <persName>Robert D. Dawson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Madrid</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 479-480
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-02-15">02-15-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing brother-in-law. "Pecuniary distress in every section of this State" [Missouri]. "Unparalleled change in the quantity and quality of our circulating medium."</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Madrid, Mri.</placeName><date when="1822-02-15"> Feby 15th 1822</date>.</p>
+
+<p>Dr. Sir.</p>
+
+<p>The <persName>bearer </persName>hereof <persName>Mr Federal Walker</persName> a<persName> brother in law</persName> of mine,
+being incited by several letters of yours (published in most of the
+<placeName>Western Newspapers</placeName>) to visit the <placeName>province of Texas</placeName> and 
+particularly that part of it in which you preside as <persName>Civil Magistrate</persName> or
+<persName>commandant</persName>, has furnished me with an opportunity of gratifying
+a wish to renew with you a friendly acquaintance, long since dormant
+from the diversity of our pursuits and the distance of our residence
+and also to present to you my <persName>brother in Law</persName>, who from a long and
+intimate acquaintance I feel myself authorised in saying is a young
+man of strict fidelity and probity and of unblemished Moral 
+Character, the substance of which is certified by the <persName>Judge of the 
+Circuit</persName> and the <persName>Justice of the County Court</persName> for this <placeName>county </placeName>where <persName>Mr
+Walker</persName> was raised and has resided for a number of years.</p>
+
+<p>And as he proposes if pleased with the <placeName>Country </placeName>to make the 
+<placeName>province of Texas</placeName> his future residence, I must beg to recommend him to
+your friendly notice and attention.</p>
+
+<p>Your letters as well as information derived from other sources
+have strongly tempted me to visit your country also, but the claims
+of a young and growing <persName>family</persName>, together with some little 
+embarrassment of a pecuniary kind in which the unparalleled change in the
+quantity and quality of our circulating medium has thrown me,
+together with the thousands of others, has rendered the gratification
+of such a wish impossible at least for some time to come. But as it is
+quite probable that at some future period I may do so, I should feel
+greatly obliged to you for any information relating to the climate,
+soil, production, state and form of <persName>Government </persName>of the <placeName>Country </placeName>etc.
+etc. which you may deem interesting and important to those who may
+wish to visit you.</p>
+
+<p>I have nothing interesting to communicate to you, My private
+concerns have so completely occupied my attention for the last two
+years that I have not had leisure to attend to what has been passing
+in the country generally&#8212;I only know that there is a great deal of
+pecuniary distress in every section of this state and I have not a
+sufficiency of sagacity to be able to say at what period it will 
+probably cease, not I fear until there is a very general change of
+property.</p>
+
+<p><persName>Robt D Dawson  </persName>  [Rubric]</p>
+
+<p>P. S. As I am so little acquainted with the nature and form of
+your government, as to be incapable of addressing you by the Titles<pb n="480"/>
+which your situation may entitle you to I must beg to be excused
+for omiting Titles altogether</p>
+
+<p><persName>RDD</persName></p>
+<p>[Addressed:]  <persName>Stephen F. Austin Esquire Civil Commandant of
+<placeName>Province of Texas</placeName>.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

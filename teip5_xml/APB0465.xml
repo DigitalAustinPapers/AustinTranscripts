@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0465">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William E. Woodruff to Stephen F. Austin, 01-08-1822</title>
+            <author>
+                <persName>William E. Woodruff</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Little Rock, AR</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 461
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-01-08">01-08-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Progress of Little Rock, Ark. Great movement to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Little Rock,</placeName> <date when="1822-01-08">Jany 8 1822</date></p>
+<p>Dear Sir,</p>
+
+<p>Thinking that it might afford you some satisfaction to hear from
+this <placeName>Territory </placeName>I have taken the opportunity of sending you a few
+of my papers, by a gentleman from <placeName>Cape Girardeau</placeName>, who is on his
+way to your <placeName>settlement</placeName>. I have no news to communicate except such
+as you may meet with in the <placeName>Gazette</placeName>.</p>
+
+<p>This place is beginning to assume the appearance of a town, and
+I am in hopes in a few years that it will be considered of some 
+considerable importance.</p>
+
+<p>Since my residence at this place (4 or 5 weeks) I have observed a
+great number of persons emigrating to your <placeName>settlement</placeName>, which makes
+me anxious to hear what your prospects are I should be much 
+gratified to hear from you, when at leasure&#8212;A description of the 
+country; its rivers; produce etc, or other information respecting that
+part of the <placeName>Province </placeName>settled by you, would be very acceptable&#8212;and,
+perhaps, by inserting the same in my paper might be of service to
+you. Anything that I can do to promote your interest will be done
+cheerfully.</p>
+
+<p>Wishing you success in your [undertaking and ?] prosperity to
+enjoy the fruits of your labor.</p>
+
+<p><persName>Wm E Woodruff</persName></p>
+
+<p>[Addressed:]    <persName>Stephen F. Austin Esqr. </persName>  <placeName>Province of Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

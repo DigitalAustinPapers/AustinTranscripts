@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0489">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Martin Allen to Stephen F. Austin, 03-24-1822</title>
+            <author>
+                <persName>Martin Allen</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Allen's Settlement, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 488
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-03-24">03-24-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker"> Asks Austin to recognize claim which he improved on the Colorado. Family of eight children.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>State of Louisiana</placeName></p>
+<p><placeName>Parrish of Natchitoches</placeName> <placeName>Allen's Settlement</placeName></p>
+
+<p><date when="1822-03-24">24th March 1822</date></p>
+<p><persName>Judge Austin</persName></p>
+
+<p>Sir I must troble you with a few lines without having the
+pleasure of a personal acquainta[n]ce with you&#8212;</p>
+
+<p>I am one of the first men who made A <placeName>Settlement </placeName>on the <placeName>Collarado</placeName>,
+I have built a cabbin made some other improvements planted a 
+gardian etc which agreeable to your termes I concidered would be 
+respected as an actual <persName>settler </persName>until the <date when="1823-01-01">firs Day of January next</date> 
+provided I am on it with my <persName>family </persName>by that time.</p>
+
+<p>Some men in this <placeName>Country </placeName>have asserted that I have Declined 
+moving to the Country, which is not the Case I intend to move as soon as
+I Can and incourage the immegration all I Can and Do Justice to my
+self, now sir if my <placeName>Claime </placeName>will be good to the place that I have 
+improved on the <placeName>Collarado </placeName>if you will be so good as to write me a line
+you will oblige me very much-</p>
+
+<p>mine is the first improved place on the <placeName>Collarado </placeName>I improved it
+on the <date when="1821-12-22">22nd Day of Decem 1821</date> you will be kind anough to send
+me one of your Printed permissions by <persName>Mr. Rogers</persName> <persName>Mr Mcartey
+</persName><persName>Judge Cummins</persName> or any safe hand you will much oblige me You
+may return me as an actual <persName>settler </persName>to the Government I have a <persName>Wife</persName>
+and eight <persName>Children </persName>four <persName>sons </persName>and four <persName>Daughters</persName>&#8212;-</p>
+
+<p><persName>Martin Allen  </persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

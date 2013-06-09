@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0463">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Beatty to Stephen F. Austin, 01-05-1822</title>
+            <author>
+                <persName>James Beatty</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Montgomery County, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 460
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-01-05">01-05-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiries concerning political conditions, freight rates from New Orleans, and terms of settlement. Some families too poor to move; would he be compensated in land for transporting them?</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Montgomery County Missouri</placeName> <date when="1822-01-05">5th Jan. 1822</date></p>
+<p>Sir having understood that you had a conditional contract with
+the <persName>Spanish Government</persName> for a <placeName>grant </placeName>of land to considerable extent
+and that you had undertaken on your part to introduce a certain
+quantity of <persName>Families </persName>as as <persName>Settlers </persName>on the land I have entertained
+thoughts of emigrating to that country in fact it is determined
+upon there is a number of my acquaintances that wish to go with
+me or to the Same neighbourhood that I may Settle in. Some 
+<persName>families </persName>are too poor to bear their own weight on the Journey.</p>
+
+<p>The question is whether would I be intitled to a Larger donation
+From you Should I Take the Burden upon myself to procure them
+the means of get[t]ing to that country Some <persName>Families </persName>will come
+with me others will not venture until I return and report I hope
+that you will do me the favour to rite to me on the Subject I wish
+to be informed of the complexion of the political horison of that
+country the probable expence of Freight from <placeName>new Orleans</placeName> to 
+<placeName>matagorda </placeName>or the most Elligible <placeName>landing place</placeName> in your country the terms
+held out by you to <persName>Setlers </persName>in general and Sir I remain with sincere
+regard yours &amp;c</p>
+
+<p><persName>James Beatty</persName></p>
+<p>[Addressed:] <persName>Stephen F. Austin Esqr</persName> <placeName>Colorado Province of Texas</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

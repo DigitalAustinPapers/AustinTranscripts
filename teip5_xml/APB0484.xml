@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0484">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James H. Penrose to Stephen F. Austin, 03-12-1822</title>
+            <author>
+                <persName>James H. Penrose</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St. Charles, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, LA</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 482
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-03-12">03-12-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Desires information. Many anxious to go to Texas. Political news of Missouri. Scarcity of money. Loan-office money worth only 3 per cent.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St Charles [Missouri]</placeName> <date when="1822-03-12">12 March 1822</date></p>
+<p>Dear Sir</p>
+
+<p>Being desirous of leaving <placeName>Missouri </placeName>for a more genial country and
+one that is less embarrassed . I have thought of yours as one that
+might be advantageous for a young man just setting out in life
+whose dependence must be entirely on himself for his support. As
+you know; I was brought up a merchant but from the change in 
+affairs in this our embarrassd country my <persName>father </persName>will not be able to
+advance me any capital. Therefore I cannot come in that capacity,
+but must depend upon my information and industry for my 
+passport. To you Dear Sir, therefore I have determined to impose the
+task of giving me an impartial and unbiased account of the 
+prospects and advantages which the country affords, believing that to no
+one could I apply with so great a prospect of success as to yourself.
+There are many young men in this country who are in the same 
+situation with myself who would willingly join me provided there was
+any probability of their meeting with encouragement.</p>
+
+<p>News. I can give you but little if any, and that is of a local 
+nature <persName>Judge Stuart</persName> and <persName>John Scott</persName> are the <persName>candidates </persName>for the next
+<persName>congress</persName>. <persName>Scott </persName>I think will be elected altho the <persName>Judge </persName>is making
+every exertion and is now on his electionering campaign, going to
+<placeName>every county in the state</placeName> making very lengthy stump speeches. Our
+country is very much embarrassed. The only money almost we have
+is our Loan Office which is only worth at present 3% cts in the $1.00
+this you will say is poor indeed.</p>
+
+<p>My <persName>family </persName>desire to be remembered to you.</p>
+
+<p><persName>James H. Penrose</persName></p>
+
+<p>[Addressed:]    <persName>Stephen F. Austin Esqr.</persName>   <placeName>New Orleans.</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

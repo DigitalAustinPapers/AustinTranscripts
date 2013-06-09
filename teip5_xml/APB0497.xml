@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0497">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Elliott to Stephen F. Austin, 04-13-1822</title>
+            <author>
+                <persName>Henry Elliott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 494
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-04-13">04-13-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks terms for opening mines in Texas. Hears complaints of "entire stagnation of business" in the United States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1822-04-13">April 13 1822</date></p>
+<p>Dear <persName>Friend</persName></p>
+
+<p>I arrived here <date when="1822-04-12">last evening</date> all well have sent <placeName>Richmond </placeName>to <persName>Dr
+Sibleye</persName> the steam boat will be here <date when="1822-04-14">tomorrow </date>or <date when="1822-04-14">next day</date> I find from
+the <persName>Dr</persName> that the report I heard on the <placeName>Colorado </placeName>that <persName>Col Hawkins</persName>
+was in <persName>Kinselow </persName>vessel was unfounded the <persName>Dr</persName> was lately in <placeName>New
+Orleans</placeName> and informs me he has writen to you since his return&#8212;If
+I can dispose of my horses will return from here by water</p>
+
+<p>I am requested to ask of you to enquire and ascertain whether any
+of the <placeName>Mines of the Province</placeName> can be worked and on what terms the
+<persName>gentleman </persName>informs me that he knows of one in the <persName>Indian nation</persName> the
+<persName>commanche </persName>is extreemly rich not heretofore known and if 
+permission can be got to work that he will make it known provided we
+will make up a <persName>Company </persName>sufficient to carry it on and make him
+interested&#8212; from his representation and the manner he is spoken of
+by others it will be of importance and reliance can be placed in
+him&#8212; as I progress and here the continued complaint of an intire
+stagnation of business I feel more and more anxious for the 
+termination of your journey and to get Information from you if
+the government is settled and is disposed to give you that 
+incouragement we expect think I will return in the <date n="Fall-1822">fall </date>or if you can
+make any arrangements for <persName>mercantile business</persName> will immediately on
+receiving the information from you make the necessary 
+arrangements to carry it into efect&#8212; in fact I must find some thing to do
+my present prospects are dull but according to the old addage it is
+never so dark as before day&#8212; My respects to <persName>Brown </persName>and to <persName>Dr
+Hewitson</persName></p>
+
+<p><persName>Henry Elliott</persName></p>
+
+<p>P. S. on my return to this place I saw <persName>Mr Castleman</persName> as there
+appeared some uncertainty as to the result of your Journey he
+wished me not to sell the land till I heard from him or you on
+your return if incouragement is given to form the <placeName>settlement </placeName>he
+wishes it sold and appropriated as you directed</p>
+
+<p><persName>H E</persName></p>
+
+<p>[Addressed:] <persName>Mr Stephen F. Austin</persName> <placeName>St Antonia</placeName> Care of his
+<persName>Brother </persName>who may open it.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

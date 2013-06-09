@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0462">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. Sargeant to Stephen F. Austin, 12-29-1821</title>
+            <author>
+                <persName>J. Sargeant</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-12">07-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Prairie de Rocher</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 459-460
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1821-12-29">12-29-1821</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiries concerning Texas for friends in Kentucky and Ohio.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Prairie de Rocher</placeName> <date when="1821-12-29">Dec 29th 1821</date></p>
+<p>Sir,</p>
+
+<p>In corrisponding with my friends in <placeName>Kentucky </placeName>and <placeName>Ohio</placeName>, I learn
+that several of them are desirous of settling in the <placeName>Spanish 
+Territory</placeName>:&#8212;Knowing that you were forming a settlement in that 
+country; I saw no readier way of satisfying their enquires respecting it
+than by applying to you for information. In addressing you, Sir,
+on this subject I am less influenced by the very slight acquaintance
+which happened between us at <placeName>Potosi </placeName>than by the belief that it may
+be your interest and wish to communicate inteligence of this kind
+to those intending a removal to the <placeName>Spanish province</placeName>. For myself,
+having lately received a Medical Diploma from the <placeName>Ohio College</placeName>,
+I expect to get my bread by that profession which I expect can be
+done as easily in this country, hard as they [times] are, as in the
+new and thinly populated <placeName>province of Texas</placeName>. The enquiries of my
+<persName>friends </persName>are directed principally to the price and qua[l]ity of land,
+the price of produce and live stock, the price of <persName>mechanic</persName>s wages
+and the climate with regard to health. I have a <persName>brother </persName>who is a
+<persName>Millwright </persName>who with five or six <persName>farmers </persName>will remove somewhere to<pb n="460"/>
+that <placeName>country </placeName>in the <date n="Fall-1822">fall </date>if future accounts confirm their present 
+expectations.</p>
+
+<p><persName>J. Sargeant</persName></p>
+<p>[Addressed:] <persName>Stephen Austin Esq  </persName> <placeName>Province of Texas</placeName>   Near the
+<placeName>Mouth of the Colerado</placeName>   via <placeName>New Orleans</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
