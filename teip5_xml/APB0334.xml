@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0334">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to William M. O'Hara, 06-16-1819</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William M. O'Hara
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mount Prairie</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St. Louis, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 344-345
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-06-16">06-16-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Retiring from the New Madrid claims speculation in Arkansas. Excellence of locations already made.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mount Prairie</placeName> <date when="1819-06-16">June 16, 1819</date></p>
+<p>Dr Sir</p>
+
+<p>I have seen <persName>Doctor Andrews</persName> and learned from him that no orders
+of Survey could be had for our locations in this country and untill
+then nothing can be done with the claims&#8212; the locations we have
+made are considered by every one to be the best that could have
+been made in the country and will certainly yeild a handsome profit
+the moment they can be brought into market. The <placeName>little Rock</placeName> is
+universally spoken of as the seat of Government and both the other
+places are good <placeName>Town scites</placeName>&#8212;I wrote you from <placeName>Herculanium </placeName>not
+to purchase any more claims on our agreement untill you heard
+from me, and since my return to this <placeName>country </placeName>I have sold out the
+whole of my interest in the locations to <persName>Mr James Bryan</persName> who has
+become responsable for the regular payment of the money due on
+them The most important points being secured I do not wish to
+enter any further into the speculation and therefore shall consider
+our arrangement as to the purchase of more claims to be annulled,
+no more claims of course have been purchased on that arrangement
+as I wrote you from <placeName>Herculanium </placeName>not to purchase any more. <persName>Mr.
+Bryan</persName> perhaps will enter into the speculation with you if you wish
+though there is no use in locating claims without you get an order
+of Survey, you will please give up to <persName>Mr Bryan</persName> the Power of
+Attorney I gave you to purchase claims, the claim of 240 arpents
+in which you have an interest of 1/8 is yet unlocated in the hands<pb n="345"/>
+of <persName>Mr Bryan</persName>, you and him can arrange as you may think best as
+to any further arrangements&#8212;   Please write me what the <persName>Bank </persName>is
+doing and what is the prospect of getting money from the <persName>Johnson</persName>s.</p>
+
+<p>Please give my compliments to your <persName>mother </persName>and <persName>Lady</persName></p>
+
+<p><persName>S. F. Austin</persName>.</p>
+<p>[Addressed:] <persName>Mr. Wm. M. Ohara</persName> <placeName>St Louis</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

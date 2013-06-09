@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0331">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to William O'Hara, 04-07-1819</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-08">07-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William O'Hara
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St. Louis, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 342-343
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1819-04-07">04-07-1819</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Financial difficulties. Departure for Arkansas. Bank of St. Louis.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Hercum </placeName><date when="1819-04-07">April 7, 1819</date></p>
+<p>Dr Sir,</p>
+
+<p>I have recd yours by <persName>T Collet</persName>&#8212;the Power of Attorney given me
+to sell lots &amp;c is agreeably to your request herewith returned&#8212; I
+should very willingly take the claim of 640 acres for Stock but I
+have it not to spare&#8212; When I borrowed the 150$ from you I had
+every assurance that men could give that I should have <hi rend="italic">that</hi>, and
+a much greater amnt before this time&#8212;I have been disappointed&#8212;
+I have sent you enclosed a power of Attorney to sell <hi rend="italic">three Shares of
+Bank Stock</hi>&#8212;Collet tells me it is worth 85. to go if so, <hi rend="italic">2 shares</hi> will
+more than pay the 150.$ however raise the 150.$ out of the stock
+if it takes <hi rend="italic">all three shares</hi> I depend on your getting the best price
+you can for them&#8212; I have been greatly disappointed&#8212;perplexed and
+delayed in my arrangements, but Shall be off I think on Sunday&#8212;
+I do not wish you to purchase any more claims on our agreement
+untill you hear from me after my arrival at <placeName>Red River</placeName>,-&#8212; the 
+arrangement with <persName>Browne </persName>I suppose is only conditional, I shall try to
+sell some claims for <hi rend="italic"><persName>Clark </persName></hi>when I arrive there and if a prise can be
+had that will justify I will send up an express</p>
+
+<p>My route will be from here to <placeName>Red River</placeName> by water, thence 
+immediately after my arrival, to the <placeName>oucita </placeName>and <placeName>Arkansaw </placeName>by land and
+through the country as occation may require&#8212; I wrote you some
+time ago by <persName>Doctor R. Andrews</persName>, proposing to give him a share in
+our <placeName>Washitaw </placeName>location on certain terms mentioned therein&#8212; on this
+subject you can act as you think proper&#8212; if andrews could be 
+appointed <persName>deputy Surveyor</persName> to lay off our tracts, it would be much to
+our advantage-</p>
+
+<p>have you heard anything from <persName>T. Rector</persName> since his return, or any
+other person, wheither the country at the <placeName>Little Rock</placeName>, or on <placeName>washitaw</placeName>
+<placeName>at the mouth of the Caddo</placeName> or on <placeName>Red River </placeName><placeName>at the mouth of Little
+River</placeName> has been <hi rend="italic">surveyed</hi>, or wheither order of survey can be had for
+our locations this point is material I would take the 640 acres for
+Stock but my <persName>Father </persName>wishes to appropriate all the Stock he has to
+discharge his Bank debt&#8212; After I arrive where I can get 
+information that will be of use to us, you may expect to hear from me very
+often&#8212; I regret much that it has been out of my power to send the
+150.$, but, <hi rend="italic">so it is</hi>&#8212;- I am very much embarrased, as every cent I owe
+in the Country must be paid before I can start&#8212; and I have now
+nearly settled all my affairs&#8212; My bank debt will be arranged by my
+father who has assured the payment of it, and when I start I shall
+be able to go nearly <hi rend="italic">quite free</hi> the period of my return to this 
+country is some what doubtfull, tho, probably in the <date n="Fall-1819">fall</date>&#8212;    however<pb n="343"/>
+should I find it necessary to come up on our business I shall do so,
+on this subject however I shall act as occation may require.</p>
+
+<p>If you have an opportunity before Sunday morning write me, and
+say what is the state of the <placeName>Bank</placeName>, have you heard from <persName>Price</persName>, have
+[you] heard who are the <persName>officers of <placeName>Arkansaw Territory</placeName></persName>&#8212; what ammt
+of claims have you purchased since I left you the payments and also
+what prospect there is of getting an order of Survey&#8212;</p>
+
+<p>Compliments to <persName>Mrs. Ohara</persName> and your <persName>Mother</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Mr. William M Ohara</persName><placeName> St Louis</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
