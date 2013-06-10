@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0931">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Coles to Bartlett Sims, 11-xx-1824</title>
+            <author>
+                <persName>John P Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Bartlett Sims
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 981
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11">11-xx-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price list and land office currency [Nov. &#8212;, 1824].</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Mr. John P Coles</persName></p>
+
+<p>To <persName>Bartlett Sims</persName> Dr.</p>
+
+<p><date n="11-xx-1824">1824 Novemr</date></p>
+
+<p>To this amt furnished you at <placeName>Land office</placeName> money rates to pay <persName>Brooks</persName>______________  $355
+To surveying <placeName>Town Road</placeName> 4000 bars a 5$ per mile__________________________________    12
+To Surveying the <placeName>Hacienda </placeName>granted to you and the Labors sold by you
+to <persName>Mr. Hope</persName>_____________________________________________________________________   300
+To hire of a <persName>Negro Man</persName> 2 months at 19$ cash per month___________________________    38
+To 2 pair of shoes a 4 1/2 $ cash each__________________________________________     9
+To amt in <placeName>Land office</placeName> money paid <persName>Tyler </persName>on Your a/c______________________________    25
+To   "    do     do   do  pd <persName>Jas Whitesides</persName> on do_______________________________    20
+To   "    "      do   do  do  <persName>R. Jones</persName>      on do_______________________________    12
+To   "   boarding 2 <persName>hands </persName>2 months while digging a well&#8212;a 10 pr month
+	each   ___________________________________________________________________    40
+To   "     in Land office money pd <persName>Sutherland </persName>on yr a/c_________________________    24
+<placeName>Land Office</placeName> Money rates_________________________________________________________  $748
+Cash ___________________________________________________________________________   $87
+To Cash lent you for <persName>R Armstrong</persName>________________________________________________     4
+													    _____
+													     $91</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

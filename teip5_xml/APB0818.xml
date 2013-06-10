@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0818">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Nathaniel Cox to Stephen F. Austin, 08-06-1824</title>
+            <author>
+                <persName>Nathaniel Cox</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 871-872
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-08-06">08-06-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">J. H. Hawkins's expenditure for the colony. Austin's plans for settlement with his estate. Crops in Louisiana.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1824-08-06">6, August 1824</date>.</p>
+<p>Dear Sir</p>
+
+<p>I see by your note dated the <date when="1824-07-12">12th of last month </date>and post: marked
+<placeName>Natchitoches </placeName><date when="1824-07-27">27th</date> that several of my communications since the death
+of our friend <persName>H </persName>have miscaried&#8212;Also that you had not received
+the paper and quills sent by a Mr---------Some time in <date n="02-xx-1824">February </date>or
+<date n="03-xx-1824">March last</date>&#8212;Infact the intercourse is so very uncertain that it 
+appears almost useless to attempt keeping a correspondence&#8212;</p>
+
+<p>I received some time ago a packett from you with a letter for <persName>Mrs
+Hawkins</persName> which was sent to her by a <persName>neibour </persName>that was here at the
+time&#8212;and wrote to her stating your wish with regard to making a
+division of the property in the <placeName>Province of Texas</placeName>, the Ensuing
+<date n="Winter-1824">Winter </date>requesting her to name some person to whom she would give
+authority for that purpose I also wrote fully to <persName>Mr Sanders</persName> in
+whom she has the most implicit confidence&#8212;and shall Expect to
+hear from them early in the fall by an <persName>agent </persName>who will proceed to
+the grant&#8212;</p>
+
+<p>My former letters were mostly on the subject of the state of <persName>Mr
+Hawkins</persName> affairs with a statement of the claims he appears to have
+advanced in securing the grant, and for the support of <persName>settlers </persName>also
+small loans to <persName>Emigrants</persName>&#8212;amounting, <hi rend="italic">including Usurious Interest</hi><pb n="872"/>
+to the enormous sum of thirty thousand Dollars&#8212;which advances
+completely beggared his <persName>family</persName>, for at the time of his Death, his
+House and <persName>Negroes </persName>were mortgaged nearly to the full value and his
+furniture under Execution so that <persName>Mrs Hawkins family</persName> had to 
+depend on their friends for funds to take them to <placeName>Kentucky</placeName>.</p>
+
+<p>I shall send this to <placeName>Natchitoches </placeName>with several letters of different
+persons in the <placeName>Grant </placeName>hoping they may find a conveyance to you&#8212;
+I now regret that I did not keep a copy of the statement formerly
+sent you so as to have it annexed, but before the <persName>Agent </persName>goes out I
+will again overhall the papers and make out another for your 
+Inspection&#8212;As <persName>Mr H</persName> Kept no Books such an undertaking is of serious
+import yet for your satisfaction and for the benefit of the <persName>Widow</persName>
+and <persName>Orphan children</persName> I feel bound to make every exertion in my
+power.</p>
+
+<p>The planting Interest of <placeName>Louisiana </placeName>have been sorely afflicted for
+two years past, by inundations storms rains and rot, so that scarcely
+one third of crops have been made, and every body here are suffering
+in consequence of it&#8212;The present season affords better prospects,
+and I hope the ensuing winter will give life and activity to our late
+and present gloomy City&#8212;</p>
+
+<p><persName>Nath: Cox.</persName></p>
+
+<p>[Addressed:] <persName>Colo Stephen F. Austin</persName> <placeName>Province of Texas</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

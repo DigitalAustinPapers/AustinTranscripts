@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0884">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. B. Baley, 10-10-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. B. Baley
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 924
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10-10">10-10-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price list, October 10, 1824.    [Texas.]</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Stephen F Austin</persName> D[r].</p>
+
+<p>Balance on Hat $5.00_______________________________________________  $5. 00
+to 2 pts Coffee Sent By <persName>James Baird</persName>________________________________   1. 50
+to 3 lbs of Coffee by S____________________________________________   3. 00
+to 4 Chairs________________________________________________________  10. 00
+to Verbal Order By <persName>Barnet </persName>for Tobacco______________________________   1. 00
+to                     [?]  <persName>McCormac</persName>_______________________________    . 50
+to 1 lb tobacco by <persName>Barnet</persName>__________________________________________    . 50
+											  ________
+											   21. 50
+to   1   Cabbin____________________________________________________  10. 00
+											  ________
+											   31. 50
+Cr. by Order <persName>Ronald Jones</persName>__________________________________________  14. 00
+Or By <persName>A. Fowler</persName>____________________________________________________   2. 00
+										        ________
+											   16. 00
+											  ________
+											   15. 50</p>
+<p><persName>J. B. Baley</persName> Dr</p>
+
+<p>to   1   pair   Cotton   Cards_____________________________________   3. 00
+to 3 Combs at $.1.00_______________________________________________   3. 00
+to 1 lb Coffee_____________________________________________________   1. 00
+to 1 Quire paper___________________________________________________   1. 00
+											  ________
+											    8. 00
+Cr.   By  Cash_____________________________________________________   3. 00
+										        ________
+Cr. by 2 qts of Honey______________________________________________   5. 00</p>
+
+<p>[Endorsed:] <persName>A Mitchell</persName> a/c settled <date when="1824-10-10">Oct 10 1824</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

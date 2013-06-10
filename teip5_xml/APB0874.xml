@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0874">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title> Stephen F. Austin to Horatio Chriesman, 10-01-1824</title>
+            <author>
+                <persName> Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Horatio Chriesman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 910-911
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10-01">10-01-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill for surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>										   Bars.</p>
+
+<p><placeName>League No 1</placeName>________________________________________________    19088
+do  <placeName>No 2</placeName>___________________________________________________    17286
+do  <placeName>No 3</placeName>___________________________________________________    20880
+do  <placeName>No 4</placeName>___________________________________________________    19776
+do  <placeName>No 5</placeName>___________________________________________________    20308
+do  <placeName>No 6</placeName>___________________________________________________    21402
+do  <placeName>No 7</placeName>___________________________________________________    15270
+do. <placeName>No 8</placeName>___________________________________________________    20030
+do. <placeName>No 9</placeName>___________________________________________________    15405
+do. <placeName>No 10</placeName>__________________________________________________    15159
+do. <placeName>No 11</placeName>__________________________________________________    22747
+do. <placeName>No 12</placeName>__________________________________________________    19402
+do. <placeName>No 13</placeName>__________________________________________________    10048
+do. <placeName>No 14</placeName>__________________________________________________    18701
+do. <placeName>No 15</placeName>__________________________________________________    28702
+								              _______
+								              284204
+								               22490</p>
+
+<p><placeName>6 Labores at the Fort</placeName> From <placeName><persName>Bell</persName>s</placeName> down west of the River____   100629
+5 Leagues on <placeName>Oyster Creek</placeName>__________________________________    80764
+18 Labores below <placeName>Town</placeName>______________________________________    67065
+14 Labores above <placeName>Town</placeName>______________________________________    41586
+<placeName><persName>Lynce</persName>s</placeName> and <placeName><persName>Bird</persName>s</placeName> 2 Leagues_________________________________    29419
+<placeName><persName>Hall</persName>s Tract</placeName> of 1 League____________________________________    20163<pb n="911"/>
+<placeName><persName>James Whiteside</persName>s</placeName> 1 do______________________________________	   16720
+	do    1   do_________________________________________    16445
+<placeName><persName>A Kuykendall</persName> 1/2 League</placeName>____________________________________    14160
+<placeName><persName>Jas. Millican</persName> 1 League</placeName>_____________________________________    22097
+<placeName><persName>A.  Robinson</persName>  1/2 League</placeName>___________________________________    17700
+<placeName><persName>Jno. P Cole</persName>   1/2</placeName>   do ____________________________________    13241
+										  _________
+                                                              746683</p>
+
+<p><placeName><persName>Robt  Millican</persName>  1  League</placeName>__________________________________    16975
+<placeName><persName>Walter Southerland</persName> 1/4</placeName> ____________________________________    30484
+<placeName><persName>Charles  Johnson</persName> 1/4</placeName> do____________________________________    12737
+<placeName><persName>Josiah H. Bell</persName> 1/2</placeName>  do_____________________________________    14160
+<placeName><persName>Saml Gates</persName> 1/2 League on Jacksons Creek</placeName>____________________    14160
+  do     do   1/2    do on the  River______________________    15573
+<placeName><persName>Wm. Gates</persName> 1/4 </placeName> League______________________________________     8506
+Meanders of the River from the Mouth of the <placeName>Navasot </placeName>To <placeName><persName>A. 
+  Robinson</persName>s</placeName> lower Corner___________________________________     3180
+<placeName><persName>Wm. Millican</persName> 1 League</placeName>______________________________________    20000
+<placeName><persName>Robt. Millican</persName>s</placeName> 6 qr. Leagues______________________________    39004
+Meanders of the <placeName>Prairie </placeName>on the <placeName>East side of the Brassos River</placeName>_ 15385
+										  _______
+Total______________________________________________________   926847</p>
+
+<p>Total number of bars 926847
+
+			5,000)926,847 bars
+
+			long leagues 185-
+		   			3
+		 		    _______
+		 			555       miles at 5$
+		   			  5       pr. Mile
+				    _______
+				    $2775</p>
+
+<p>Recd of <persName>Stephen F Austin</persName> One thousand nine hundred and ninety
+one Dollars and forty two cents on the above Account&#8212;
+<placeName>San Felipe de Austin</placeName> <date when="1824-10-01">October 1, 1824</date></p>
+
+<p><persName>Horatio Chriesman</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

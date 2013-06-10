@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0927">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Whiteside to Stephen F. Austin, 11-29-1824</title>
+            <author>
+                <persName>James Whiteside</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazos, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 978
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-29">11-29-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brassos Dictrict</placeName> <date when="1824-11-29">29th Nov. 1824</date></p>
+<p>Dear Sir</p>
+
+<p>agreable to your instructions to <persName>Mr Simms</persName> I have Selected a Tract
+of land for the <persName>Children of my Decd Brother</persName> lying on the <placeName>East
+side of the Brassos</placeName> adjoining what is Called <persName>Negro Moore</persName> between
+his tract and <placeName><persName>Mr Groce</persName>'s Boatwright place</placeName>, My <persName>brother </persName><persName>Jonathan</persName>'s
+two <persName>sons </persName>that Came out <date n="Spring-1824">last spring</date> applied to <persName>Col Coles</persName> <date n="Summer-1824">last 
+Summer</date> for a peace of Vacant land that lies between the<placeName><persName> Millicans</persName>
+Tracts</placeName> and the River and my land, it is a Very odd shape, some
+very good land it is only a Fraction between those lines but by
+Runing a league it has to Run back into the Postoak woods 
+beyond all the <placeName><persName>Millican</persName> Tracts</placeName>, <persName>Mr Simms</persName> says that no Survey Can
+be made for less than a league the Boys has paid <persName>Mr Sims</persName> for
+Surveying it, but they do not wish to pay for only 2 quarter
+leagues, and they want to known of you if it Cannot be divided
+in a way to have it in a better shape you will please to write me
+a few lines on the Subject when you are at leasure</p>
+
+<p><persName>James Whiteside</persName></p>
+
+<p>[Addressed:] <persName>Col Stephen F Austin</persName> <placeName>St Felipe De Austin</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

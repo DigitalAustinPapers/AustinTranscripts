@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0879">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Ruland to A. McNair and Stephen F. Austin, 10-03-1824</title>
+            <author>
+                <persName>John Ruland</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        A. McNair 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Troy, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St. Louis, MO</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 916-917
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10-03">10-03-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">John Ruland to A. McNair, October 3, and A. McNair to Austin, October 8, 1824. Recommending Zadock Woods.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Troy </placeName><date when="1824-10-03">October 3rd 1824</date></p>
+<p>Dear Sir.</p>
+
+<p><persName>Mr Zadock Woods</persName>, the <persName>bearer </persName>of this, returned <date n="Winter-1823">last winter</date> from the
+<placeName>Province of Texas</placeName>, which place he had visited for the purpose of
+ascertaining whether he could improve his situation by removing
+thither:&#8212;he has satisfied himself on that head and is now starting
+back with all his <persName>family</persName>.</p>
+
+<p>As it is customary for those who value a good name, to procure
+testimonials of Character from those of their fellow citizens whose
+standing in Society is conspicuous, <persName>Mr Woods</persName> is desirous of 
+obtaining from you a few lines to <persName>Mr Austin</persName> in <placeName>Texas</placeName>, stating your 
+knowledge of his character etc&#8212;and also a letter from <persName>Major Christy</persName> and
+<persName>Wm C. Carr Esq</persName>.</p>
+
+<p>As to my knowledge of <persName>Mr Woods</persName>, I can say that during an 
+acquaintance of five years, I have ever found him scrupulously just
+and honorable in all his dealings.&#8212;And I can assure you that his
+departure from this place is sincerely regretted by his <persName>Neighbors</persName>.&#8212;
+He is a Man of industrious habits and of enterprise, but has, (as I<pb n="917"/>
+presume you know) lost a Valuable estate in endeavoring to benefit
+the country and himself, by exporting its produce.</p>
+
+<p>If you can give <persName>Mr Woods</persName> a recommendation, and enable him to
+procure one from each of the gentlemen I have named, you will serve
+a worthy Man, and confer particular favor on</p>
+
+<p><persName>Jn° Ruland</persName></p>
+
+<p>[Addressed:] <persName>His Excelly Alexander McNair Governor of 
+<placeName>Missouri St. Louis</placeName>.</persName></p>
+
+<p><placeName>St Louis</placeName> <date when="1824-10-08">8th October 1824</date></p>
+
+<p><persName>Mr Austin</persName></p>
+
+<p>What is stated in the letter of <persName>Mr Ruland</persName> to me respecting <persName>Mr
+Woods</persName> I know to be correct&#8212; I would have procured a letter from
+<persName>Mr Carr</persName> to you but he is in <placeName>Kentucky</placeName>-on a visit with his <persName>family</persName>.</p>
+
+<p>I have the honor to be
+your friend &amp;c.                                                       <persName>A McNair</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

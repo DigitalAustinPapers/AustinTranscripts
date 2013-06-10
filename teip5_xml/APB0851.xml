@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0851">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John A. Williams to Stephen F. Austin, 09-08-1824</title>
+            <author>
+                <persName>John A. Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 892
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-09-08">09-08-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Moving from Nacogdoches to Austin's colony. Slaves. Cotton.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>District of Nacogdoches Texas</placeName> <date when="1824-09-08">8th Septr 1824</date>.</p>
+<p><persName>Conl Austin</persName>.</p>
+
+<p>Dr. Sir. In consequence of some governmental arangement 
+relative to this section of Country together with the liberal 
+incoragement held out to persons disposed to emigrate to your <placeName>Colony</placeName>, I
+have concluded to accept the invitation, provided I can get a good
+settlement on the <placeName>Brassos </placeName>or <placeName>St Barnard</placeName> as near the <placeName>sea coast</placeName> as may
+be practicable. I intend following the agricultural business and
+wish to have a farm on or near the navigable waters.</p>
+
+<p>Although I have not the pleasure of your acquaintance yet I hope
+you will be good enough to make the selection, as it is not convenient
+for me to attend at present. I wish to obtain as much land as I
+may be intitled to, agreeable to your system of distribution. My
+<persName>family </persName>consists of myself, my <persName>wife </persName>and a few <persName>negroes </persName>six of which
+<persName>negros </persName>are fit for <persName>field hands</persName>. I have documents which will, I
+presume, entitle me to admitance. If you should think proper to
+comply with this request and notify me thereof I will come on 
+immediately and comply with your conditions of sale, and move my
+<persName>family </persName>on as soon as may be practicable. I have a crop of cotton on
+hand, which perhaps, will detain me till <date n="01-xx-1825">January</date>.</p>
+
+<p><persName>Jn° A Williams </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

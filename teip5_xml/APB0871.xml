@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0871">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Seth Ingram, 09-30-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Seth Ingram
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 908-909
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-09-30">09-30-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill for surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Stephen F. Austin</persName> to <persName>Seth Ingram</persName>   Dr.</p>
+
+<p>											Bars.</p>
+
+<p>To Surveying <placeName><persName>Sylvanus Castleman</persName>'s 1/2 League on Colorado</placeName>_____	15,065
+" <placeName><persName>W. Smeather</persName>'s League</placeName>_______________________________________     29,237
+" Meanders of River from <placeName><persName>Smeathar</persName>s</placeName> to <placeName><persName>Bright</persName>s</placeName>________________     23,180
+" Meanders of River from <placeName><persName>Bright</persName>s</placeName> till I met <persName>Selkirk</persName>__________     18,530
+" <placeName><persName>John Botts</persName>' 1/2 League</placeName>_______________________________________      4,889
+" <placeName><persName>Stephen  F.  Austin</persName>'s League</placeName>_______________________________     10,107
+" <placeName><persName>Ambrose Hilburn</persName>'s Labor</placeName>____________________________________      4,001
+"<placeName><persName>David  Bright</persName>'s</placeName>     do_____________________________________      3,121
+" <placeName><persName>Jared E Groce</persName>'s Tract</placeName>______________________________________     22,050
+" <placeName><persName>John Irons</persName>' League</placeName>_________________________________________     13,244
+" <placeName>Labors opposite town</placeName>_______________________________________     98,500
+" <placeName>Meanders of River in front of town tract</placeName>___________________      8,975
+" Running a line to acertain boundary of town tract__________      8,460
+" Running off 20 out lots____________________________________     23,090
+" Laying off <placeName>San F de Austin</placeName>
+" Meandering <placeName>Peach Creek</placeName> and <placeName>St Bernard</placeName> 'till I met 
+	<persName>Selkirk</persName>________________________________________________     34,987
+" <persName>First League on Peach Creek</persName> (<persName>Bay Prairie</persName>)__________________      6,630
+" <persName>2nd League</persName>_________________________________________________     11,980
+" 3rd        do______________________________________________     13,330
+" 4th        do______________________________________________     13,450
+" 5th        do______________________________________________     13,730
+" 6th        do______________________________________________     15,140
+" 7th        do______________________________________________     13,575
+" 8th        do______________________________________________     10,740
+										     ____________________
+	total__________________________________________________    416,002    $1248.00
+
+" Base line at <persName>Bay Prairie</persName>___________________________________      8,560       25.68
+										     ____________________
+                                                                 424,562    $1273.68
+													350.00
+												    _________
+For laying off <placeName>Town</placeName>__________________________________________                1623.68
+												    _________
+												     1550.64
+												    _________
+													$73.04</p>
+
+<p>Recd of <persName>Stephen F Austin</persName> fifteen hundred and fifty dollars and
+sixty four cents towards the above a/c&#8212;</p>
+
+<p><persName>Seth Ingram</persName></p>
+<p><persName>San Felipe de Austin</persName> <date when="1824-09-30">Sept 30th 1824</date></p>
+
+<p><date when="1825-04-08">Apl 8th 1825</date></p>
+<p><persName>Seth Ingram</persName> to <persName>S. F. Austin</persName>   Dr.</p>
+
+<p>To Amt. of his orders_________________________________________	 193.91
+To Book not included in former Settlement_____________________	  17.00
+To paid  Battle_______________________________________________	  35.00
+											________
+											 245.91
+Bal.  due <placeName>Ingraham</placeName>.___________________________________________     354.31 3/4
+											________
+											$600.22 3/4<pb n="909"/></p>
+
+
+<p>Cr. By balance on former Settlement 73.04_____________________      73.04
+By surveying <placeName>League No. 13</placeName>____________________________________      45.00
+By 1/3 of <placeName>League No. 35</placeName>_______________________________________      15.00
+By orders paid in_____________________________________________     465.18 3/4
+By  soap   and  leather_______________________________________       2.00
+										      _________
+											$600.22 3/4</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

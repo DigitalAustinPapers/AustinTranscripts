@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0815">
+xml:id="APB0888">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F. Austin to A. G. Wavell, 07-xx-1824</title>
+            <title>John P. Coles to Unknown, 10-21-1824</title>
             <author>
-                <persName>Stephen F. Austin</persName>
+                <persName>John P. Coles</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB0815">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-07-17">07-17-2011</date>
+            <date when="2011-07-18">07-18-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        A. G. Wavell
+                        Unknown
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0815">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Texas</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Mexico</placeName>
+                    <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 869
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 926
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0815">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Bill</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,44 +69,43 @@ xml:id="APB0815">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-07">07-xx-1824</date>
+            <date when="1824-10-21">10-21-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Discouragements.</add></p>
+            <p><add hand="#barker">Board bill, Texas.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[About July&#8212;,1824?]</p>
-<p><persName>Dr. Wavel</persName> I recd a few lines from you a day or two ago without
-date or signature post marked in <placeName>Mexico </placeName>you ask how I am getting
-on to which I answer not very well&#8212;and I assure you I am heartily
-sick of the whole business and shall gain nothing by it but losses and
-fatigue, and if you wish to keep out of trouble let Colonization 
-matters alone, either here or any where else&#8212;The grant I recd was to
-settle <persName>300 families</persName> agreeably to the Colonization law, for which I
-recd for my self 22 1/2 leagues of land&#8212;the half of which belongs to my
-<persName>friend in <placeName>Orleans</placeName></persName> so that I have 11 1/4 Leagues for my share&#8212;you
-blame me for not writing to you in <placeName>London</placeName>, I did write often by
-way of <placeName>Orleans</placeName>, and if I had encouraged you to bring out goods to a
-large amt. perhaps you would have blamed me more I have spent
-more in this dammed affair than it will ever be worth&#8212;we are burnt
-up by the drouth, and there is some Sickness&#8212;tho I still think the
-country is healthy&#8212;I can return you the money you let me have, and
-will secure a piece of land here for you</p>
+<p><placeName>Province of Texas</placeName> <date n="08-xx-1824">August 1821</date></p>
+<p><persName>Richot Barret</persName> to <persName>Andrew Robinson</persName> <persName>Debtr </persName>to 46 Days Boarding at 50 cts
+	per day____________________________________________________________	$23
+one <persName>negro </persName>Fellow 46 Das 25cts____________________________________________     $11. 50
+one <persName>negro Woman</persName> 21 Da____________________________________________________       5. 25
+one <persName>Hireland </persName>31 Days 50cts per Day_______________________________________      15. 50
+January To 6 Barrels of Corn $2 per Bl___________________________________      12
+1822 To Boarding and provision to Travel on to <placeName>United States</placeName> $10_________     $10
+Balence Due______________________________________________________________     $77. 25</p>
 
-<p>[Stephen F. Austin.]</p>
-<p>[Addressed:] <persName>A Don Arturo Wavel</persName> en <placeName>Mexico</placeName></p>
+<p><placeName>Austins Colony)
+Brasos Destric</placeName>t)</p>
 
+<p>Personally appeared before me <persName>John Petty</persName> who on oath says that
+the within account as stands stated against <persName>Richot Barrott</persName> for $77.25
+is Just and Tru to the Best of his Knowledge sworn and subscribed
+to this <date when="1824-10-21">21st Octbr 1824</date></p>
+
+<p><persName>Jn° P Coles</persName>    [Rubric]</p>
+<p><persName>John Petty Alcade</persName></p>
 
         </div1>
     </body>

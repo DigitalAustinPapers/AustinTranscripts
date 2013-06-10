@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0894">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Colonists to Stephen F. Austin, 10-xx-1824</title>
+            <author>
+                <persName>Colonists</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Jacinto, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 930
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Petition</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10">10-xx-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Petition for appointment of J. Hunter as surveyor.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To his <persName>Honor Col. Stephen F. Austin</persName></p>
+
+<p>We the <persName>people of <placeName>San Jacinto</placeName></persName> and Vicinity humbly beg leave to
+represent that Whereas in our humble opinion the lands in this 
+Section of your Honor's <placeName>Colony</placeName>&#8212;are of a quality not to warrant a
+general Survey of the whole and whereas as we humbly suppose
+there will be <persName>emegrants </persName>dropping in from time to time requiring
+more or less locations in this Section of the Country and in that case
+a local <persName>surveyor </persName>will be very convenient both to ourselves and to those
+who may hereafter come. Therefore if it is not contrary to the 
+regulations of your Honor we humbly beg the apointment of such an
+one amongst our Citizens&#8212;we nominate to your Honor <persName>Doct. J.
+Hunter</persName> who is one of the first <persName>settlers </persName>here,</p>
+
+<p>and so as in duty Bound we will forever Pray Oct. the <date n="xx-xx-1824">anno
+Domini 1824</date></p>
+
+<p><persName>D. E. Bayles </persName>                                <persName>John Williams</persName>
+<persName>Page Ballew </persName>                                <persName>John E. Harris</persName>
+<persName>Benjn West</persName>                                  <persName>Isaac Kaudson</persName>
+<persName>Wra Scott</persName>                                    <persName>William Whitlock</persName>
+<persName>M B. Nuckols</persName>                                 <persName>Anthony Miller</persName>
+<persName>James Hughson</persName>                                <persName>John Owens</persName>
+<persName>Christian Smith</persName>                              <persName>John Vince</persName>
+<persName>Isaac Hughson</persName>                                <persName>Richard Vince</persName>
+<persName>Ziba Leslie</persName>                                  <persName>Wm. J. Harris</persName>
+<persName>Thomas Spencer </persName>                              <persName>John Kenny</persName>
+<persName>C. C. Givens</persName>                                 <persName>John Williams</persName>
+<persName>Henry Slaughter</persName>                              <persName>John Jones</persName>
+<persName>Wm Vince</persName>                                     <persName>George Harison</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0844">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 08-30-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 885-887
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Diary</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-08-30">08-30-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's journal of campaign against Karankawas, August 30-September 7, 1824.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1824-08-30">Aug. 30 [1824]</date> Started from Town on the Expedition agst. the
+<persName>Karankaways </persName>slept at the <placeName>middle Bernard</placeName></p>
+
+<p><date when="1824-08-31">31</date>&#8212;joind the men at <placeName><persName>A. Jackson</persName>s</placeName>, and mustered and inspected
+them&#8212;62 including <persName>officers</persName>, spent the day in preparing provisions&#8212;</p>
+
+<p><date when="1824-09-01">Sept. 1</date>&#8212;divided the men into two divisions, one composed of
+<persName>Capn Christmans company</persName> marched with me down the <placeName>west side
+of the River</placeName>&#8212;the other composed of <persName>Robinson's</persName> and <persName>Rawls </persName>were
+marched down the<placeName> East side through the Bay Prairie</placeName> and under
+the command of <persName>Rawls</persName>&#8212;</p>
+
+<p><date when="1824-09-02">2</date>&#8212;I encampd at <placeName>Dixons camp</placeName> and sent <persName>spies </persName>down to the <placeName>mouth
+of the River</placeName> in the night, heard from <persName>Rawls </persName>on the opposite side<pb n="886"/>
+at the <placeName>Bluff </placeName><placeName>below Jinings camp</placeName> and ordered him to join me at
+<placeName><persName>Rawls </persName>Camp</placeName> on <placeName>Sweet Creek</placeName> the <date when="1824-09-03">next night</date>.</p>
+
+<p><date when="1824-09-03">3</date>&#8212;Went to the <placeName>mouth of River</placeName> with 2 men and met the <persName>spies</persName>&#8212;
+no signs of <persName>Indians </persName>left a letter for <persName>Capn Jones</persName> at <placeName><persName>Hawkins </persName>Grave</placeName>
+proceeded to <placeName>Rawls Camp</placeName> on <placeName>Sweet </placeName>and at sun down <persName>Chrisman </persName>and
+<persName>Rawls </persName>with two <persName>companies </persName>came up&#8212;the <persName>spies </persName>which I sent from
+<placeName><persName>Dixon</persName>s camp</placeName> to examine <persName>Bayou Trespalacious</persName> returned&#8212; no sign</p>
+
+<p><date when="1824-09-04">Sept. 4</date>&#8212;Marchd 8 miles W. N. W. to the <placeName>Wiesachatta</placeName>, the main
+<placeName>fork of Bayou Trespalacious</placeName>, a bold running stream of good 
+water&#8212;formed a <persName>spy compy</persName> of 6 men <persName>B. Sims Commander</persName> and 
+dispatched them about 12 o'clock, a head of a west course&#8212;rain about
+2 o'clock at 4 marched and at dusk arrived at an old <placeName><persName>Karankaway</persName>
+encampment</placeName> on a handsome running creek which run S. W. The
+<persName>spies </persName>continued on down it in the night.</p>
+
+<p><date when="1824-09-05">Sepr 5</date>&#8212;found at this encampment the bones of two men which
+had been cut up and boiled&#8212;buryed them&#8212;and called the Creek,
+<placeName>Cannibal Creek</placeName>. About 10 O'clock <persName>spies </persName>returned, and reported no
+sign&#8212;two miles below our camp the tide set up&#8212;water brackish&#8212;
+5 miles below the stream widend to 1 mile very salt high banks&#8212;
+Genl course a little east of South, about 14 miles to the <placeName>Bay</placeName>&#8212;this
+Creek leads about oposite the ford at <placeName><persName>R. Kuykendall</persName>s</placeName>&#8212;at 3 o'clock
+dispatched the <persName>spies </persName>ahead at 3 marched very good crossing 1/2 mile
+below the camp&#8212;8 miles a little north of west came to a large
+branch bed about 20 yards wide tide water quite brackish tho, 
+drinkable&#8212;sent <persName>spies </persName>down to hunt a crossing-&#8212;</p>
+
+<p>Sep. 6&#8212;-<persName>Spies </persName>returned creek becomes wider and salt below no
+crossing&#8212;supposed it to be the <placeName>Chickalete</placeName>, dispatched <persName>spies </persName>up to
+hunt a crossing&#8212;<placeName>8 miles up a little north of west</placeName> crossed the Creek a
+small tho handsome running branch of good water&#8212;country on this
+creek very brushy, and generally poor land&#8212;between it and 
+<placeName>Cannibal </placeName>poor wet boggy <placeName>prairie </placeName>with <placeName>Islands </placeName>of brush and small oaks&#8212;
+nooned the crossing of this creek and named it <placeName>Chapparo </placeName>from the
+quantity of Brush on it&#8212;dispatched <persName>spies </persName>and marched at 3 o'clock
+west at Sun down struck a large creek about 25 yards wide 5 feet
+deep clear good fresh water, tide, supposed to be the <placeName>Navidad </placeName>and
+encamped&#8212;distance 10 miles from <placeName>Chapparo </placeName>over very rich high
+<placeName>prairie</placeName>&#8212;fine <placeName>stock country</placeName>&#8212;at 12 at night dispatched <persName>spies </persName>down
+this <placeName>Creek </placeName>to examine its mouth</p>
+
+<p><date when="1824-09-07">Sept. 7</date>&#8212;at day light dispatched <persName>spies </persName>up and down the creek to
+examine for a crossing place deer very plenty&#8212;found a fine spring
+near the <placeName>camp</placeName>&#8212;no sign of <persName>Indians</persName>&#8212;at 2 o'clock <persName>spies </persName>returned from
+<placeName>mouth of the creek</placeName> and reported no sign of <persName>Indians</persName>&#8212;the stream we
+were incamped on proved to be the <placeName>navidad </placeName>which united with the
+<placeName>La Baca</placeName> or <placeName>chickalete </placeName>8 miles below, 300 yds. wide at forks left hand<pb n="887"/>
+fork the largest brackish at forks and 3 miles above&#8212;heavy body
+of timber in forks&#8212;timber on the east side generally narrow&#8212;
+<placeName>Prairie&#8212;bluffs</placeName> at two places above the forks and at the forks 
+timber, 100 yd. on East side 950 on west&#8212;16 miles, from month timber
+ceases on both sides&#8212;Average width from forks to mouth 300 yds.
+banks at forks 30 feet&#8212;near the mouth 15 feet&#8212;a large <placeName>lake </placeName>about
+10 miles above the mouth on the east side&#8212;3 miles in circumference
+salt&#8212;rich <placeName>black prairie</placeName> all the way down <placeName>low bottom prairie</placeName> on the
+River 1/2 to 1 mile wide&#8212;no crossing below for horses&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

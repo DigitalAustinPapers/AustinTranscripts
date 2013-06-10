@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0886">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. J. Smith Jr. and Company to Unknown, 10-12-1824</title>
+            <author>
+                <persName>J. J. Smith Jr. and Company</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St. Louis, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 925
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10-12">10-12-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Drug bill, St. Louis.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Capn Honey</persName> Bot. of <persName>J. J. Smith Jr. and Co.</persName></p>
+
+<p>2oz Thurlingtons Balsam____	"  25
+2oz H. Tr. Barks C ________	"  19          
+2oz Essence pepermint______	"  25
+2oz Paregoric______________ 	"  25   
+2oz Laudanum_______________	"  50
+8oz Castor Oil C P_________	"  50
+2oz Antimonial Wine________	"  19
+4oz Calomel________________	"  62
+2oz Antimonial tartar______	"  25
+				     ______
+Total______________________  $3. 00</p>
+	
+<p>2oz Spt. Nitre dulc________	"  19
+2oz   " Hartshorn__________	"  19
+2oz Elixr Vitriol Aromatic_	"  19
+2oz Spt. Lavend Comp_______	"  19
+2oz Balsam Copavia [?]_____	"  25
+1 1/2 oz Basilicon Ointment	"  12
+2 1/2 oz Blue Ointment_____   "  31
+				     ______
+Total______________________  $4. 44</p>
+	
+<p>11 oz Flie Ointment________	"  19
+14 oz Epsom Salts__________	"  37
+1 1/2 oz Chammomile flors__	"  12
+2oz Sennae leaves__________	"  19
+3oz Mannae_________________	"  25
+3oz Magnesia_______________	"  25
+7oz Barks__________________ 	"  50
+1 pr Scales and Weights____	"2.50
+1 Medicine Chest___________	"5.00
+Bottles, Jars, and Potts___   "2.50
+			           ______
+Total______________________   16.31</p>
+
+<p>1 1/2 oz pow'd Rhubarb_____	"  25
+11 oz powdered Jalap________  "  25
+2oz Snake Root_____________   "  19
+1  piece Leather for plaster  "  12
+4oz Crem. Tartar____________  "  19
+8oz Sulphur_________________  "  19
+2oz Camphor_________________  "  25
+2  boxes Ley pills__________  "  75
+2oz Sugar Lead______________  "  25
+2oz White Vitriol___________  "  25
+4oz Gum Arabics_____________  "  25
+1 Syringe___________________  "  25
+				     _______
+      Sum Total_____________ $19. 50</p>
+
+<p>Rec'd payment   <placeName>St.  Louis</placeName>  <date when="1824-10-12">Oct.  12
+1824</date></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

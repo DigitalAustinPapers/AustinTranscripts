@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0918">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Huff to Stephen F. Austin, 11-21-1824</title>
+            <author>
+                <persName>George Huff</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville, MS</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 972-973
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-21">11-21-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Emigration from Mississippi.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Woodville </placeName><date when="1824-11-21">November 21st 1824</date></p>
+
+<p>My Dr Sir</p>
+
+<p>I am Happy to tel you that I Got Home well and Hearty and
+found My <persName>family </persName>in good Health Hoping when this Gets to you
+that you May Be in the Same State of Good Health I would not of
+wrote to you at this time as <persName>Mr Servison</persName> Has wrote and Said avery
+thing that you wish to know But as <persName>Mr Halliman</persName> Makes me write
+in justification of My Self I Must Beg one favor from you as to
+the truth he tels the people that the one Half of the <placeName>Mill tract</placeName> of
+Land is his and that he is Bound for My Parformans with you and
+that I Could not Git one inch of Land only through him the people
+Laughs At him when I show the papers will you write to <persName>Mr. Servi-<pb n="973"/>
+son</persName> which of us Don what wag Don as I Shall Be from this Country
+Before your Letter will Reach this <persName>Mr Johnson</persName> writes to Day I
+wish you to keep the Land for Him I spoke to you for I think to
+Land At your town in A Steam Boat&#8212;</p>
+
+<p><persName>Col Child</persName> is About to purchis one for the use of the <placeName>Brazos River
+</placeName>the Land and promiss I extorted out of you for <persName>Mr. Connell</persName> and
+<persName>Michal Halliman</persName> please to keep that for <persName>Mr Johnson</persName> and other
+Men that will Be in your Countree with me By the <date when="1825-03-01">first of March</date>
+<persName>Mr William Anderson</persName> will Be with me I Could not find any thing
+of your <persName>Brother </persName>who I think will take this Letter to you from 
+<placeName>Natchitoches </placeName>Please to tell <persName>Mr McCormick</persName> that all the things he Sent
+for are Now Redy to go</p>
+
+<p><persName>Geo Huff</persName></p>
+
+<p><persName>Mr S f Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0892">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Samuel Sexton and Charles Morgan, 10-26-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel Sexton 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Charles Morgan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 929
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Agreement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10-26">10-26-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agreement to grant land&#8212;Austin to Charles Morgan and Samuel Sexton.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I hereby agree to receive <persName>Sexton </persName>and <persName>Morgan </persName>as <persName>settlers </persName>in the
+<placeName>colony </placeName>formed by me in this <placeName>Province </placeName>under the authority which I
+have recd from the <persName>Mexican Government</persName> and to give them titles as
+<persName>settlers </persName>for two Leagues of Land on the <placeName>Bernard Creek</placeName> or its waters
+and also one labor adjoining to <persName>William Morton</persName> above on the west
+side of the <placeName>Brazos river</placeName>&#8212; On condition however that <persName>Charles 
+Morgan</persName> builds a <placeName>Cotton Gin</placeName> on the tract of land called the <placeName>fort tract</placeName>
+on the <placeName>west side of the Brazos</placeName> in this <placeName>Colony </placeName>and puts the same in
+complete operation within one year from the <date when="1825-01-01">first of January next</date>,
+and also on condition that <persName>Samuel Sexton</persName> actually removes his <persName>family</persName>
+to this <placeName>Colony </placeName>and establishes himself as a <persName>settler </persName>within eighteen
+Months from this date, unless either of them are prevented from so
+doing by shipwreck sickness or some such unavoidable disaster&#8212;</p>
+
+<p>The cost of said land is one hundred and Sixty five Dollars for
+each League payable in Cash exclusive of the surveying and Stamped
+paper&#8212; The deeds for said land will be Made out as soon as the
+land is surveyed</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1824-10-26">Octbr. 26, 1924</date></p>
+
+<p><persName>Stephen F Austin</persName>    [Rubric]
+<persName>Witness</persName>
+<persName>Samuel M Williams </persName>   [Rubric]</p>
+
+<p>The Cost including Surveying fees on one of the Leagues 
+mentioned in the within have been paid by an old debt due by <persName>James
+Bryan</persName> to <persName>Sexton Morgan</persName> which I agreed to settle in this way</p>
+
+<p><date when="1824-10-26">October 26, 1824</date></p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

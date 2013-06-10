@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0919">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Johnson to Stephen F. Austin, 11-21-1824</title>
+            <author>
+                <persName>William Johnson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville,MS</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 973-974
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-21">11-21-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Emigration from Mississippi.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Woodville </placeName><date when="1824-11-21">November 21st 1824.</date></p>
+<p>Dear Sir,</p>
+
+<p>A few days since I recd by <persName>Mr Huff</persName> your letter of the <date when="1824-10-26">26th Ult</date>:&#8212;
+which afforded me much satisfaction, to know the flattering 
+prospects of a pure and permanent government in your delightful and
+fertile country&#8212;And I can in truth say that I am not a little 
+gratified to learn from <persName>Mr. Huff</persName> that he is well pleased with the country
+and that you have been so liberal with him as to induce him and his
+partner <persName>Mr. Servison</persName> to embark immediately on improvements which
+will not only benefit them and their <persName>families</persName>, but will no doubt
+greatly advance the public weal of the Colony&#8212;Those men are now
+making preparations to carry into effect with promptness, and in
+good faith, everything which <persName>Mr Huff</persName> agreed to do in their Articles
+with you&#8212;And I feel satisfied that you will be pleased with the
+performance on their part&#8212;They will be able to take with them
+every facility necessary to complete the works in a reasonable time&#8212;
+The present plan is to Charter a steam-Boat as the most safe and
+easy means of conveying the whole out fit to <placeName>San Felipe de Austin</placeName>&#8212;
+<persName>Colo Child</persName> left here a day or two since for <placeName>Natchez</placeName>, where he will
+endeavor to make the arrangements for the steam-Boat&#8212;If this
+arrangement succeeds, I shall no doubt be one of the party myself&#8212;
+<persName>Mr Huff</persName> mentioned to me that you would on my going out and 
+compliance with the terms of your government give me a <placeName>Grant </placeName>for two
+Leagues of Land adjoining the <placeName>Mill Tract</placeName>, below, on the <placeName>Bernard</placeName>,
+and that you would not otherwise dispose of it till you heard from
+me&#8212;for your friendly disposition towards me in this business, you
+have my grateful acknowledgements&#8212;And have to request that you<pb n="974"/>
+will secure for me the two Leagues of Land above mentioned&#8212;<persName>Mr
+Huff</persName> also mentioned that you spoke of letting me have a grant for
+seven Leagues of Land to be located in the <placeName>wood-land</placeName> <placeName>between the
+Brazos and Bernard</placeName>, on conditions, etc, etc,&#8212;I assure you Sir, I 
+consider those offers flattering and worthy the attention of any man&#8212;
+and shall endeavor to avail myself of them, and hope by my feeble
+exertions to promote the prosperity of the <placeName>Colony</placeName>, in some degree to
+deserve something&#8212;I say to you candidly, that when I settle my
+family in your <placeName>Colony</placeName>, I shall be extremely solicitous to have as
+neighbors, a few respectable acquaintances etc, from this vecinity&#8212;
+who will be anxious to move with me&#8212;all of which I wish you to
+bear in mind&#8212;And that I shall endeavour to take along <persName>friends of
+Capital</persName>&#8212;who will take with them the means of advancing the 
+importance of the Country&#8212;-<persName>Mr Huff</persName> requests me to say to you that he
+will procure for you and take out with him, the Articles which he
+promised you.&#8212;</p>
+
+<p><persName>Wm Johnson</persName>.</p>
+<p><persName>Honbl. Stephen F. Austin</persName>&#8212;<placeName>Province of Texas</placeName>-&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

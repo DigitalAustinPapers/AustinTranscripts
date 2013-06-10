@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0821">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. Cable to Stephen F. Austin, 08-16-1824</title>
+            <author>
+                <persName>J. Cable</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazos, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 875
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter </channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-08-16">08-16-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1824-08-16">16th August 1824</date></p>
+<p>Dear Friend.</p>
+
+<p>I received your favor sometime last month by <persName>Mr. Kennady</persName>, and
+this is the first opportunity I have had of writing you, by <persName>Mr House</persName>,
+I have searched <placeName>Natchitoches </placeName>for the English Linen writing Paper
+for you but cannot find any therefore thought Proper to send you
+the best I Could find, such as our <persName>Parish judge</persName> uses for the want
+of better, I likewise obtained a few sheats of our Printer of the
+quality I think will suit you all I could get. he has a few large
+sheats from two to three feet square which would do for Drawing
+<placeName>Maps </placeName>if you should want any I will send it you or any thing you
+may wish from our Place you shall have sent you on the first 
+application. I have Inclosed an Recount of <persName>D. Marple</persName> Estate, you will
+Pleas do the same you would do for your self with it. Concerning
+the land on the <placeName>Brazos</placeName>, I have made my mind up and am Determined
+to live in that country. I wish you would be good enough to
+C[h]oose me a League of Land on the <placeName>Brazos </placeName>within thirty miles
+of the <placeName>sea </placeName>if convenient to your arrangements. I think your 
+Judgement would be Better than my own if I wase Present, you will
+Pleas have it surveyed and you can draw on me for the surveying at
+any time, if you should want some Merchandize I would get them
+at the lowes Prices of this Place it would suit me better than to
+Pay the money as money is verry scarce here indeed. I will have
+the Place cultivated next year by some good Person to Rais me a
+good crop of corn etc etc</p>
+
+<p>I have sent you a number of <placeName>News Papers</placeName> and some of Late dates
+you will see the Departure of <persName>Itrabide Late emperor of <placeName>Mexico</placeName></persName> from
+<placeName>South Hampton England</placeName> for <placeName>Mexico </placeName>in <placeName>Niles Register</placeName> Inclosed
+in the half Ream of Paper. I shall send as often as I can get
+Opportunity Papers to you                    </p>
+
+<p><persName>J Cable</persName></p>
+
+<p>[Addressed:] <persName>Col Stephen F Austin</persName> <placeName>Rio Brazos Texas</placeName> per <persName>Mr.
+House</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

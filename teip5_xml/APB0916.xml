@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0916">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Joseph Servison to Stephen F. Austin, 11-20-1824</title>
+            <author>
+                <persName>Joseph Servison</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville, MS</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 970-971
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-20">11-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans for improvements, mills, steamboats, etc.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Woodville </placeName><date when="1824-11-20">November 20th 1824</date></p>
+<p>Dr Sir</p>
+
+<p>I take the Liberty of writing to you and am happy to Let you
+know that <persName>Mr Huff</persName> has Returned Again and is harty and well I
+am sorry to tel you that it is not in my power to see you before<pb n="971"/>
+Next <persName>Jim </persName>then I shall spend two or three Months with you and see to
+our Bisness as I am well pleased with the Contract that <persName>Mr Huff</persName>
+has made with you and confirm it By this Letter as you was told
+that I was so Ingaged in this <placeName>Country </placeName>that I Could not Be with you
+Before <date n="Fall-1825">Next fall</date> I think it proper to tel you that <persName>Mr Huff</persName> will Be
+there at the time he promised you to Be there to go on with the
+<persName>Mills </persName>and with every Artical he promised to Bring to you <persName>Mr Huff</persName>
+is now making the mill Irons Hear as he Has to atend to they
+<persName>workman </persName>there and will not have time to do them there the window
+Sash I will have redy to send by <persName>Mr Huff</persName> we have Likewiss a sixty
+saw <placeName>gin </placeName>onder-way of the first and Best kind that Can Be had so that
+he will take that with him your kind treatment to <persName>Mr Huff</persName> is 
+greatfully acknowledge[d] and now [no] part of the Contract But what
+shall Be Dun we now think that <persName>Mr Huff</persName> will be at <placeName>San philips De
+Austin</placeName> in A Steam Boat <persName>Col Child</persName> is a Bout to purchis for that River
+Should that not Be in time Soon A nough for the Cotton Seed we
+will Charter A Schooner to go with tel <persName>Mr Mc.Cormick</persName> the things
+he sent for will Com with <persName>Mr Huff</persName></p>
+
+<p><persName>Mr Huff</persName> Sends his respet to your self <persName>Mrs. Verner</persName></p>
+
+<p><persName>Joseph Servison</persName></p>
+
+<p>N. B. You will be kin A nough to anser this</p>
+
+<p>[Addressed:] The <persName>Honble Stephen F. Austin</persName>,
+<placeName>Province of Texas</placeName> <placeName>San Felipe de Austin</placeName>,</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

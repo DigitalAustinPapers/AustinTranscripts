@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0872">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Selkirk to Stephen F. Austin, 09-30-1824</title>
+            <author>
+                <persName>William Selkirk</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 909
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-09-30">09-30-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill for surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Stephen F. Austin</persName> To <persName>William Selkirk</persName> Dr.                                 Bars.</p>
+
+<p>to surveying <placeName>Labors opposite town</placeName>____________________________________   80,950
+" connecting <persName>S. Dixon</persName>'s lines________________________________________    9,800
+" Meandering River above <placeName>town tract</placeName>__________________________________   11,107
+" <placeName>Seven Labors above town</placeName>____________________________________________   12,180
+" Meandering <placeName>River Colorado</placeName> from <placeName><persName>W. Kincheloe</persName>s League</placeName> down to
+	<placeName>Lower corner of League 5th</placeName>_____________________________________   31.655
+" Running line from <placeName>Colorado </placeName>to, and Meandering <placeName>Peach Creek</placeName>__________   18.940
+" <placeName>1st League</placeName>_________________________________________________________   10.725
+" <placeName>2nd </placeName>do_____________________________________________________________   12.460
+" <placeName>3rd </placeName>do_____________________________________________________________   13.590
+" <placeName>4th </placeName>do_____________________________________________________________   10,040
+" <placeName>5th </placeName>do_____________________________________________________________   11,916
+											     _______
+             total___________________________________________________  223,363
+
+To whole amount of Surveying_________________________  $670.08
+To Book a/c__________________________________________    10.74
+									 ________
+									 $680.82
+									  280.25
+								       ________
+									 $400.57 due <persName>Selkirk</persName></p>
+
+<p><date when="1825-04-08">April 8, 1825</date></p>
+
+<p><persName>W. Selkirk</persName> to <persName>S. F. Austin</persName> Dr</p>
+
+<p>To Amt. of his orders________________________________________________    602.06 1/2
+To 3 deer Skins______________________________________________________      3.00
+												___________
+												 605.06 1/4
+
+Cr. By ball, due on former Settlement________________________________    400.57
+To Bal. due <persName>S. F. A</persName>__________________________________________________    204.49 1/4
+												___________
+												 605.06 1/4</p>
+<p>Recd of <persName>Stephen F Austin</persName> two hundred and Eighty Dollars and
+twenty cents towards the within accounts   <date when="1824-09-30">Sept. 30 1824</date></p>
+
+<p><persName>William Selkirk</persName><pb n="910"/></p>
+
+
+<p><persName>Austin </persName>to <persName>Seth Ingram</persName>: Receipt</p>
+
+<p><persName>S. Ingram</persName>s order on <persName>Joseph Stuart</persName>____________________________________    30.00
+<persName>S. F. Austin</persName>s   note_________________________________________________    15.00
+<persName>E. Alley</persName>s order to <persName>P. Burnet</persName> ________________________________________    34.75
+<persName>R. Kuykendall</persName>s order to <persName>B. Allcorn</persName>___________________________________    25.00
+<persName>B. Sim</persName>s order to  <persName>S.  Ingram</persName>_________________________________________    13.75
+											      _______
+											     $118.50
+<persName>Saml  Dixon</persName>'s  a/c___________________________________________________     4.50
+												_______
+											     $123.00</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -5,7 +5,7 @@ use Cwd;
 $this_dir = getcwd();
 #$this_dir = chomp($this_dir);
 my $errfile = "errors.txt";
-@files = <source_xml/APB08*>;
+@files = <source_xml/APB0[89]*>;
 foreach $file (@files) {
 
 	$cmd_convert = "$this_dir/scripts/xml2tei.pl teip5_xml/ $file\n";
@@ -14,6 +14,7 @@ foreach $file (@files) {
 	$cmd_check = "xmllint --dtdvalid file:///$this_dir/reference/tei_all.dtd --noout  teip5_xml/$outfile 2> $errfile\n";
 	system($cmd_check);
 	
+	$fileContents = "";
 	if (open(FILE, $errfile)) {
 	    $fileContents = <FILE>;
 	    close FILE;

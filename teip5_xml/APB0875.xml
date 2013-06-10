@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0875">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Seth Ingram to Stephen F. Austin, 10-01-1824</title>
+            <author>
+                <persName>Seth Ingram</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 911-912
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-10-01">10-01-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Contract for surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>This agreement entered into at the Town of <placeName>San Felipe de Austin</placeName>
+in the <placeName>Province of Texas</placeName> between <persName>Stephen F. Austin Empresario</persName>
+for the settlement of <persName>three hundred families</persName> in this <placeName>Province </placeName>and
+<persName>Seth Ingram surveyor</persName> is to <persName>witness</persName>&#8212; That said <persName>Ingram </persName>agrees to
+survey such Tracts of land in this <placeName>Colony </placeName>as he may be directed to
+Survey by sd <persName>Austin </persName>and the commission [er] of the <persName>Govt </persName>in the form
+and manner which they may direct, using the Mexican Vara as the<pb n="912"/>
+standard for regulating their chains and running the true Meridian
+after calculating the variation of the compass, and the sd <persName>Ingram</persName>
+agrees to execute his work accurately and in a good and workman
+like manner and to complete it as speedily as possible, establishing
+corners with bearing trees at each principal corner of a survey with
+the initials of the owners names marked on the bearing trees where
+the owner is known, or erecting sufficient mounds of Earth in <placeName>Prairie</placeName>
+at least three feet high and marking every line not bounded by a
+<placeName>River </placeName>or creek which runs through timber so that it can be easily
+traced and followed, and finally to make out correct returns and
+plots of each survey to sd <persName>Austin</persName>&#8212;On completion of the work in
+the manner above stated the sd <persName>Ingram </persName>shall be entitled to demand
+and receive from each settler pay for surveying their lands at the
+rate of five dollars pr Spanish mile payable in property on three
+dollars pr Mile payable in Cash, to be paid by the <persName>settler</persName>, and for
+which payment the sd <persName>Austin </persName>is not to be in any Manner accountable
+or responsible more than to refuse to deliver the titles to any settler
+untill he brings a certificate from the surveyor or stating that the
+surveying fees of his land were paid or settled, For the faithful
+complyance of all which the sd <persName>Ingram </persName>obligates himself under the
+penalty of being liable for any damages which may arise from a
+non or incorrect compliance with this contract,&#8212;</p>
+<p><placeName>San Felipe de Austin</placeName> <date when="1824-10-01">Oct 1st 1824</date></p>
+
+<p><persName>Seth Ingram</persName></p>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

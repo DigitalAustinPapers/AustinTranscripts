@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0909">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas Westall to Stephen F. Austin, 11-14-1824</title>
+            <author>
+                <persName>Thomas Westall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Winchester, TN</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 941
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-14">11-14-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Immigration. Commerce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Winchester </placeName><date when="1824-11-14">14th Novr 1824</date></p>
+<p><persName>Col Stephen F Austin</persName></p>
+
+<p>Dear Sir After a long loansome and tedious journey I arrived
+at home on the <date when="1824-11-07">7th Inst</date>., and agreeable to a request you made I have
+formed a little company to go on to your <placeName>settlement </placeName>with goods two
+young <persName>Gentlemen </persName>of this place will go on with me with between 2
+and three thousand dollars worth of goods our object will be to
+trade them off for Mules and to make a[s] quick and good sale of
+the goods as possible I shall bring my family on with me if 
+convenient I would like if you would have a cabbin built for me in
+Town we expect to be there sometime in <date n="02-xx-1825">Feby</date>, should we find the
+trade profitable and can collect mules tolerably fast and should it
+meet with your approbation it is likely that we will open a fiew
+goods in your <placeName>Province </placeName>as one of the Young Men who will be a long
+has a <persName>Brother </persName>here who is a <persName>Merchant </persName>that will furnish him with any
+amount of goods that he can sell and we are all to have an eaqual
+interest. I now think that it will be best for us to take a trip to
+Some of the <placeName>Spanish Towns</placeName> in order to enable us to make a good
+and speedy trip however we do intend to take and be governed by
+your advice entirely I would be glad that you would be ready to
+give as your advice so soon as we arrive I calculate that we will
+have a long some usefull articles for the <persName>people of your <placeName>Colony</placeName></persName>.</p>
+
+<p><persName>Thomas Westall </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

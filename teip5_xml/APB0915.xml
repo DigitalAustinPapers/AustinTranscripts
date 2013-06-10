@@ -3,11 +3,11 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0815">
+xml:id="APB0915">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F. Austin to A. G. Wavell, 07-xx-1824</title>
+            <title>Stephen F. Austin to Samuel M. Williams, 11-18-1824</title>
             <author>
                 <persName>Stephen F. Austin</persName>
             </author>
@@ -26,14 +26,14 @@ xml:id="APB0815">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-07-17">07-17-2011</date>
+            <date when="2011-07-18">07-18-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        A. G. Wavell
+                        Samuel M. Williams
                     </persName>
                 </person>
 
@@ -44,11 +44,11 @@ xml:id="APB0815">
                     <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Mexico</placeName>
+                    <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 869
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 970
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0815">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Memorandum</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,44 +69,33 @@ xml:id="APB0815">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-07">07-xx-1824</date>
+            <date when="1824-11-18">11-18-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Discouragements.</add></p>
+            <p><add hand="#barker">Memorandum of duties.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[About July&#8212;,1824?]</p>
-<p><persName>Dr. Wavel</persName> I recd a few lines from you a day or two ago without
-date or signature post marked in <placeName>Mexico </placeName>you ask how I am getting
-on to which I answer not very well&#8212;and I assure you I am heartily
-sick of the whole business and shall gain nothing by it but losses and
-fatigue, and if you wish to keep out of trouble let Colonization 
-matters alone, either here or any where else&#8212;The grant I recd was to
-settle <persName>300 families</persName> agreeably to the Colonization law, for which I
-recd for my self 22 1/2 leagues of land&#8212;the half of which belongs to my
-<persName>friend in <placeName>Orleans</placeName></persName> so that I have 11 1/4 Leagues for my share&#8212;you
-blame me for not writing to you in <placeName>London</placeName>, I did write often by
-way of <placeName>Orleans</placeName>, and if I had encouraged you to bring out goods to a
-large amt. perhaps you would have blamed me more I have spent
-more in this dammed affair than it will ever be worth&#8212;we are burnt
-up by the drouth, and there is some Sickness&#8212;tho I still think the
-country is healthy&#8212;I can return you the money you let me have, and
-will secure a piece of land here for you</p>
+<p>I wish <persName>Mr Williams </persName>to sleep in my <placeName>house </placeName>while I am gone and
+take special care of everything particularly the corn and meat and
+the two motherless pigs&#8212;also to set <persName>Dolly</persName>, <persName>Patsy</persName>, and <persName>Henry </persName>to
+piling the pumpkins and covering them with corn stacks&#8212;keep the
+crib and <placeName>smoke House</placeName> locked&#8212;make out a number of blank deeds
+for individual transfers&#8212;and take care <hi rend="italic">office</hi></p>
 
-<p>[Stephen F. Austin.]</p>
-<p>[Addressed:] <persName>A Don Arturo Wavel</persName> en <placeName>Mexico</placeName></p>
+<p><date when="1824-11-18">Novr. 18. 1824</date></p>
 
+<p><persName>S. F. Austin</persName></p>
 
         </div1>
     </body>

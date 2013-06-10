@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0938">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. Thomas to Stephen F. Austin, 12-06-1824</title>
+            <author>
+                <persName>J. Thomas</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Alexandria, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 986-987
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-12-06">12-06-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Thomas Hooper.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Alexandria </placeName><date when="1824-12-06">Decr 6.  1824</date></p>
+<p>Dr Sir.</p>
+
+<p>It affords me much pleasure to have it in my power to 
+introduce to your acquaintance the bearer My worthy and warm friend
+<persName>Mr Thomas Hooper</persName>. <persName>Mr Hooper</persName> will not only be a valuable 
+addition to your society from his personal merits&#8212;But from that enter-<pb n="987"/>
+prize which in a new and growing community like yours is so
+inestimable. He carries with him an industrious and respectable
+<persName>mechanic</persName>&#8212;in conjunction with whom should the prospects justify
+the attempt&#8212;he intends to erect a <placeName>saw and grist mill</placeName> and <placeName>cotton
+gin</placeName>. Undertaking like this cant fail to be of public benefit, whilst
+I cannot but wish that <persName>Mr H</persName> will be pleased with your <placeName>settlement</placeName>&#8212;I regret that any circumstance which would not be to him and
+his <persName>family </persName>a positive benefit&#8212;should deprive his friends of his 
+society, hospitality and unlimited friendship.</p>
+
+<p><persName>J° Thomas</persName></p>
+<p>PS.</p>
+
+<p>I have strong hopes that one of my <persName>Junior Brother</persName>s, will locate
+himself in your <placeName>neighborhood</placeName>&#8212;and I think it is not very 
+improbable that I may visit you in the course of the <date n="Summer-1825">next Summer</date>.</p>
+
+<p><persName>J°T</persName></p>
+
+<p><persName>Col Stephen F. Austin</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

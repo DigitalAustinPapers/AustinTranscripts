@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0815">
+xml:id="APB0910">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F. Austin to A. G. Wavell, 07-xx-1824</title>
+            <title>Nathaniel Cox to Stephen F. Austin, 11-16-1824</title>
             <author>
-                <persName>Stephen F. Austin</persName>
+                <persName>Nathaniel Cox</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB0815">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2011-07-17">07-17-2011</date>
+            <date when="2011-07-18">07-18-2011</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        A. G. Wavell
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0815">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">New Orleans, LA</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Mexico</placeName>
+                    <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 869
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 941-942
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,43 +69,47 @@ xml:id="APB0815">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-07">07-xx-1824</date>
+            <date when="1824-11-16">11-16-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Discouragements.</add></p>
+            <p><add hand="#barker">The Hawkins estate, and Hawkins' interest in the colony.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>[About July&#8212;,1824?]</p>
-<p><persName>Dr. Wavel</persName> I recd a few lines from you a day or two ago without
-date or signature post marked in <placeName>Mexico </placeName>you ask how I am getting
-on to which I answer not very well&#8212;and I assure you I am heartily
-sick of the whole business and shall gain nothing by it but losses and
-fatigue, and if you wish to keep out of trouble let Colonization 
-matters alone, either here or any where else&#8212;The grant I recd was to
-settle <persName>300 families</persName> agreeably to the Colonization law, for which I
-recd for my self 22 1/2 leagues of land&#8212;the half of which belongs to my
-<persName>friend in <placeName>Orleans</placeName></persName> so that I have 11 1/4 Leagues for my share&#8212;you
-blame me for not writing to you in <placeName>London</placeName>, I did write often by
-way of <placeName>Orleans</placeName>, and if I had encouraged you to bring out goods to a
-large amt. perhaps you would have blamed me more I have spent
-more in this dammed affair than it will ever be worth&#8212;we are burnt
-up by the drouth, and there is some Sickness&#8212;tho I still think the
-country is healthy&#8212;I can return you the money you let me have, and
-will secure a piece of land here for you</p>
+<p><placeName>New Orleans</placeName> <date when="1824-11-16">16 Novem 1824</date></p>
+<p><persName>Hon: Stephen F Austin</persName></p>
 
-<p>[Stephen F. Austin.]</p>
-<p>[Addressed:] <persName>A Don Arturo Wavel</persName> en <placeName>Mexico</placeName></p>
+<p>Dear Sir Your Esteemed favour of the <date when="1824-10-26">26 of last month</date> was
+handed me <date when="1824-11-15">yesterday</date>&#8212;and I hasten a reply to put you at ease on
+one account which appears to have given you pain and anxiety&#8212;</p>
+
+<p>That when I mentioned the Extent of <persName>Mr. Hawkins</persName> advances for
+the <placeName>province </placeName>I did not even for a moment suppose he had any
+other claim on you than what you have mentioned to wit <hi rend="italic">One half
+of the Grant</hi>&#8212;My object was to advise you of the amount and at a
+proper time to have some of the property sold as a remuneration&#8212;</p>
+
+<p>I have always supposed that <persName>Mrs. Hawkins</persName> would decline your
+invitation of Settling in the <placeName>Province</placeName>, and lately am informed that<pb n="942"/>
+her <persName>Brother</persName>, and <persName>Sisters </persName>wont listen to any thing of the kind&#8212;They
+are determined to keep her in <placeName>Kentucky</placeName>&#8212;</p>
+
+<p>On the subject of a division of the Grant, she has instructed me
+to say that she cannot find any person to act as <persName>agent </persName>in whom she
+has the same confidence as yourself, and that she leaves the division
+entirely to you&#8212;</p>
+
+<p><persName>Nath: Cox.</persName></p>
 
 
         </div1>

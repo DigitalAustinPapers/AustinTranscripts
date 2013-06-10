@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0922">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Huff to Stephen F. Austin, 11-24-1824</title>
+            <author>
+                <persName>George Huff</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville, MS</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 976
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-24">11-24-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Emigration from Mississippi. Bastrop's letter saying that Austin keeps part of the fees for land does Austin great hurt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Woodville </placeName><date when="1824-11-24">November 24th 1824</date>.</p>
+<p>My Dr friend I am Hapey to state to you that I Gote Home well
+and Hearty and found All My Afares well I Have not time to write
+Much as the <persName>Son of Mr Greos</persName>s is waiting for this I am now making
+our Mill Irons and the Iron work for A Sixty <placeName>Saw Gin</placeName> I shall Be
+with you just as soon as I Promissed <persName>Mr Sirvieson</persName> and <persName>Mr Johnson</persName>
+Both wrote Bye Mail I will Git <persName>Mr. Gross</persName> to Call At the <placeName>Post office
+At Nathcitoches</placeName> to take them Letters to you you will See some of the
+Best <persName>farmers </persName>from this County with me when I Git there <persName>Mr. 
+Anderson</persName> will Be with me you will Please keep the land old an young
+from this Countree will Go the land you Promissed to <persName>Mr Connoll</persName>
+and <persName>Mr Hallaman</persName> I wish you to Hold for Som Men who will Be with
+me <persName>Barron De Bastrop</persName> has done jou A great deal of Hurt his 
+Letter is Hear to this Amount that All the Money you Git for Land
+dos not Goe to Government that you keep that to your silf if you
+See Proper to Contradict it By sending to me it I will Do So with
+Plasure which you Have full time you will See us Land At your
+town in A Steam Boat tel <persName>Mr McCormick</persName> I wish him to Go on with
+the work He Promisd</p>
+
+<p><persName>Geo Huff</persName></p>
+
+<p><persName>Mr S f Austin</persName></p>
+
+<p>tel <persName>Mr Kenada</persName> that His Prospect is Glomey Heare</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

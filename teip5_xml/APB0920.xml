@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0920">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Dr. John Sibley to Stephen F. Austin, 11-21-1824</title>
+            <author>
+                <persName>Dr. John Sibley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 974-975
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-11-21">11-21-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Claim of late Dr. Robinson against Mexican Government, which he traded to William Alexander Danlin. European news.   Presidential election of 1824.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1824-11-21">Novr 21st 1824</date></p>
+<p>Dr Sir.</p>
+
+<p>A few minutes ago I accidentally meet with the <persName>bearer </persName><persName>Mr Alcorn</persName>
+who is going to Leave here in an hour. I have but little time to
+write you and in a hurry to Bundle up for you a few <placeName>News papers</placeName>.
+I have some time ago received from <persName>Mrs Robinson</persName> the <persName>Widow of
+the Late Doctor Robinson</persName> a power of Atty to pursue a Claim on the
+<persName>Mexican Government</persName> for the Services of her <persName>Husband </persName>as <persName>Brigadier
+General</persName> in the Service of that Government</p>
+
+<p>When the <persName>Doctor </persName>left that Country his Account was settled and
+the <persName>Government </persName>allowed him twenty thousand dollars, he became
+acquainted with<persName> William Alexander Danlin</persName> who had been Sometime
+in the Service of that Country. <persName>Mr Danlin</persName> informed the <persName>Doctor</persName>
+that by the death of his <persName>Father </persName>property had been left to him in
+<placeName>Mississippi </placeName>and <placeName>Indiana </placeName>in Lands and <persName>Negroes </persName>to the value of
+$20,000. he gave <persName>Dr Robinson</persName> a power to receive that property in
+the <placeName>United States</placeName> and the <persName>Doctor </persName>Authorized him to Receive his
+Claim on the <persName>Mexican Govt</persName> by way of Exchange; but the <persName>Doctor</persName>
+Could never find any property of <persName>Danlin</persName>'s here; <persName>Mrs. Robinson</persName> is
+Anxious to know if <persName>Danlin </persName>Recd the <persName>Doctor</persName>s Claim and if not
+to Notify the proper department of the fraud of <persName>Danlin </persName>and to
+prevent if possible his receiving it.&#8212;<pb n="975"/></p>
+
+<p>Now I have no doubt through some acquaintance you have in
+<placeName>Mexico </placeName>you can by writing Ascertain for her what it is important
+for her to know, you will do me a favour if you will as soon as you
+can attend to this subject.&#8212;</p>
+
+<p>I have nothing important to inform you of that the <placeName>News papers
+</placeName>will not acquaint you. the death of the <persName>king of France</persName> will produce no
+Change. The state of affairs in <placeName>Spain </placeName>is Horrid, and a most Bloddy
+Revolution is looked for.&#8212; <persName>Count Artoi</persName> who will be <persName>Charles X</persName> the
+<persName>Successor of Louis XVIII</persName> is Sixty seven and in Bad health his
+successor will be <persName>Angoloeme</persName>.&#8212;</p>
+
+<p>Who will be Our Next <persName>President </persName>no one knows and you can guess
+as well as any one here&#8212;you will find the papers much taken up with
+the visit of <persName>General Lafayette</persName>. History Certainly furnishes no 
+parralell of such a Universal Burst of Gratefull expression by so many
+Millions of People.&#8212;</p>
+
+<p>I have lately seen a hand bill signed by <persName>Mr. Holtham a lawyer</persName> of
+this place addressed to the <persName>people of <placeName>Taxas</placeName></persName> denouncing <persName>Mr John Cook
+</persName>as a <persName>Swindler </persName>etc, I think it an act of justice to <persName>Mr Cook</persName> to inform
+you that so far as I know those Charges are unfounded. <persName>Mr 
+Nancanow</persName>(?) Introduced him here they came from <placeName>Washita </placeName>together,
+and I have seen <persName>Genl Hughes</persName> and other gentlemen from <placeName>Washita </placeName>who
+never intimated any thing to the prejudice of <persName>Mr Cook</persName>, when he left
+here some Business of his were Unsettled particularly as <persName>Collector
+of Taxes</persName>, his Bond was in my hands as <persName>president of the Town Police</persName>
+and it was put in suit agt his securities in Compliance with a 
+formality, but I do not believe he is much in arrears, the suit stands
+Continued. <persName>Mr. Holtham</persName> and <persName>Mr. Cook</persName> had a dispute and some
+Blows passed between them they parted on bad terms. I believe few
+persons here think the worse of <persName>Mr Cook</persName> or the better of <persName>Mr. 
+Holtham</persName> for this attempt to injure him in a strange country. I ever
+Regarded <persName>Mr. Cook</persName> as a temperate, sober genteal man, well quallified
+for Business, he had my Confidence and might have it again.&#8212;</p>
+
+<p>I Am always happy to hear from you, of the Welfare and the 
+prosperity of your <placeName>settlement</placeName>&#8212;I have lately been informed you have
+had an important accession of Territory Added to your former Grant,
+including the <placeName>Inlet and Bay of Galveston</placeName>&#8212;I Now think I shall at
+some future time Move and settle somewhere in <placeName>Taxas</placeName>: but to get
+from where I have lived so long is difficult and much time is required
+to arrange ones affairs&#8212;It is some time since I have had a letter
+from you the last was by your <persName>Brother</persName>. I have written you several
+since and sent you some <placeName>News papers</placeName>.&#8212;Our Legislature is in session
+since Monday last, but we have not heard from them</p>
+
+<p><persName>John Sibley</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

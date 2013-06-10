@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0854">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Holstein to Stephen F. Austin, 09-11-1824</title>
+            <author>
+                <persName>Henry Holstein</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 894
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-09-11">09-11-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Impediments to emigration to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1824-09-11">September the 11 1824</date></p>
+<p>Dear sir I take this opportunity of informing you that I am
+well and hope these few lines will find you in the same state of good
+health. Sir I wish you to let me kno the first opportunity that offers
+whether there is any Chance for me to hold that land I was to of
+had In your settlement I kno that you are not under any 
+obligatons to me now as I did not fufill my part of the Contract but sir
+I think if you will take every thing into Consideration and hear the
+Cause of my not being there on time in the first place the 
+inteligence that we had hear that the vessel was lost with <persName>edward Lovelaice</persName>
+and the <persName>Company </persName>was the Cause of my not Coming to that country
+against the time mentioned in the articles and soon after hearing
+that you was drownded Causd me to abandon the idia of ever setlin
+in that province but hearing you are now on the <placeName>labrasos [Brazos]</placeName>
+and has nearly made an end of your business I wish you would
+right to me the first opportunity and let me kno whether you will
+let me have the land or not I doo not expet to get Choice but would
+be glad to get any good place the town lot I would be glad to
+hold</p>
+
+<p>If you think propper to grant me the quantity of land mentioned
+I will be a Citizen of that place as soon as my situation will permit
+which will be soon after hearing from you I will be glad if you will
+wright me a satisfactory letter on the subject</p>
+
+<p><persName>Henry H. Holstein</persName></p>
+
+<p>[Addressed:] To <persName>Mr Stephen F. Osten</persName> <placeName>Province of Texes Osten
+settlement</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

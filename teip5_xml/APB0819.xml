@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0819">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Nathaniel Cox  to Stephen F. Austin, 08-08-1824</title>
+            <author>
+                <persName>Nathaniel Cox </persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 872-873
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-08-08">08-08-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report in New Orleans of rebellion in Austin's colony.  Mexican character&#8212;unfit for self-government.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1824-08-08">8 Aug 1824</date></p>
+
+<p>Dear Sir</p>
+
+<p>A report has been in circulation here for some days, brought I 
+believe by a Steam Boat from <placeName>Natchitoches </placeName>that <hi rend="italic">all </hi>your <persName>settlers</persName>, have
+raised the standard of Rebellion; and refuse obedience to law or any
+authority whatever&#8212;As the <placeName>province </placeName>must now be the only resort
+to which <persName>Mrs Hawkins</persName> can look for support for herself and helpless
+<persName>family </persName>the report of course excites considerable Interest and I hope
+it is not true&#8212;If you should receive this in any reasonable time after
+its date you would greatly oblige me by forwarding such 
+information as would put the subject beyond doubt, one way or the other&#8212;I
+am the more anxious on this subject from a paragraph which on
+reperusing your last letter strikes, me with much force, since 
+hearing the foregoing report&#8212;you say "I have many things to explain
+relative to events recently transpired here but have not time now" I
+much fear these events are the rebellion of your <persName>settlers</persName>, and that
+it will be a scene of confusion and disaster, retarding your final 
+opperations for years to come.<pb n="873"/></p>
+
+<p>I shall not make any communication on this all import Subject to
+<persName>Mrs Hawkins</persName> or <persName>Mr Sanders</persName> until I am better informed myself,
+but be assured I shall feel great anxiety until I know more on the
+subject.</p>
+
+<p>I have no doubt but your late <persName>Emperor Iterbide</persName> is by this time
+relanded at <placeName>Vera Cruse</placeName>&#8212;he sailed from <placeName>London </placeName>in <date n="05-xx-1824">May </date>with the
+declared intention of his again assuming Kingly Authority in <placeName>Mexico</placeName>,
+and he further states that his voyage is undertaken at the Instance
+of a large number of the <persName>first characters of the <placeName>Province</placeName></persName>&#8212;it is to be
+hoped however that his views will not be reallized but that on his
+landing he may be caught and hung&#8212;there is little doubt but <persName>Saint
+Anna</persName> is no better than <persName>Iterbide </persName>and while such <persName>Arch Traitors</persName> hold
+offices of trust and honour in the country there can be no guarantee
+for the lives or property of the <persName>Citizens</persName>&#8212;In short I fear there is
+not yet sufficient learning and virtue in the people of that country
+to make a staple form of Government and then suppert it. They may
+make and adopt constitutions every year and still find persons to
+violate them, and when the penalty is called for, the criminal 
+concentrates his party and puts down the whole System&#8212;This has been
+the case for fifteen years, and still there is no fixed and solid 
+foundation for them to sustain&#8212;and I fear wont be until the present 
+generation passes away and another organized on different principals raises
+up, who from more Experience will be able to frame a constitution
+suitable to the manners and customs of the people it is intended for&#8212;</p>
+
+<p><persName>Nath: Cox</persName></p>
+
+<p>I intended to send you the letter of <persName>Iterbide </persName>which he addresses
+to a friend in <placeName>London </placeName>before sailing, but cant lay my hand on it at
+present&#8212;</p>
+
+<p><persName>N C</persName></p>
+
+<p><persName>Col. Stephen F. Austin</persName> <placeName>Province of Texas</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0826">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Horatio Chriesman to Stephen F. Austin, 08-20-1824</title>
+            <author>
+                <persName>Horatio Chriesman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, YX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 877-878
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Agreement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-08-20">08-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agreement between Austin and Horatio Chriesman for surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>This agreement entered into at the <placeName>Town of San Felipe de Austin</placeName>
+in the <placeName>province of Texas</placeName> between <persName>Stephen F Austin Empresario</persName> for
+the settlement of <persName>three hundred familie</persName>s in this <placeName>province </placeName>and <persName>Horatio
+Chriesman surveyor</persName>, is To Witness&#8212;That said <persName>Chriesman </persName>agrees to
+survey such Tracts of Land in this <placeName>Colony </placeName>as he may be directed to
+Survey by sd <persName>Austin </persName>and the <persName>Commissioner of the Government</persName> in
+the form and manner which they may direct using the Mexican Vara
+as the standard for regulating their chains and running by the true
+meridian after Calculating the Variation of the compass&#8212;and the<pb n="878"/>
+said <persName>Chriesman </persName>agrees to execute his work accurately and in a good
+and workman like manner and to complete it as speedily as possible
+establishing Corners with bearing true at each principal corner of a
+survey with the initials of the <persName>Owners </persName>names marked on the bearing
+Trees where the Owner is known or erecting sufficient mounds of
+Earth in <placeName>Prairie </placeName>at least Three feet high and marking every line
+not bounded by a River or Creek which runs through Timber so that
+it can be easily Traced and followed and finally To make out correct
+returns and plots of Each survey To sd <persName>Austin </persName>on completion of the
+work in the manner above stated the sd <persName>Chriesman </persName>shall be entitled
+to demand and receive from each <persName>settler </persName>pay for surveying their
+lands at the rate of five dollars pr Spanish mile payable in property
+or three dollars pr mile payable in Cash to be paid by the <persName>settler </persName>and
+for which payment the said <persName>Austin </persName>is not to be in any manner 
+accountable or responsible more than to refuse to deliver the titles to
+any <persName>settler </persName>until he brings a certificate from the <persName>surveyor </persName>or stating
+that the surveying fees of his land were paid or settled For the
+faithful complyance of all which the sd <persName>Chriesman </persName>Obligates himself
+under the penalty of being liable for any damages which may arise
+from a non or incorrect Compliance with this Contract</p>
+<p><placeName>San Felipe de Austin</placeName> <date when="1824-08-24">Augt 20th 1824</date></p>
+
+<p><persName>Horatio Chriesman</persName>    [Rubric]</p>
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
