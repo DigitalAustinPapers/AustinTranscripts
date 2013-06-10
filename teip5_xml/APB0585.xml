@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0585">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James E. B. Austin, 05-10-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 638-639
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-10">05-10-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Settlers must keep out of politics. Prospect of federal republic. His colony safely approved.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo </placeName><date when="1823-05-10">May 10, 1823</date></p>
+<p>Dr. <persName>Brother</persName>,</p>
+
+<p>I arrived here on the <date when="1823-05-08">8th</date> and shall proceed <date when="1823-05-11">tomorrow </date>on to 
+<placeName>Monterey </placeName>where I probably may be detained ten days untill the new
+<persName>Comdte Genl</persName> arrives, <persName>Don Felipe de la Garza</persName>, who is a particular
+<persName>friend </persName>of mine - At this place I heard that <placeName>Texas </placeName>had renewed the
+oath to the <persName>Emperor </persName>and had refused to adopt the new system - this
+is bad - the whole nation without exception have adopted the plan
+of <placeName>Casa Mata</placeName> and acknowledged the <persName>Sovereign Congress</persName> - <persName>Iturbide</persName>
+has embarked for <placeName>Italy</placeName>, and when I left <placeName>Mexico </placeName>on the <date when="1823-04-18">18</date> all was
+quiet - <persName>Doctor Miguel Ramos Arispe</persName> now in this place informs
+me that <placeName>Texas </placeName>only refused the new system because it was supposed
+the majority of the nation still adhere to the <persName>Emperor</persName>, but that on
+receiving a full confirmation of the unanimity of the <placeName>Provinces </placeName>in
+favour of the plan of <placeName>Casa Mata</placeName>, it immediately adopted it also and
+that at this time all is well&#8212;I wrote to the <persName>settlers on the <placeName>Colorado</placeName>
+and <placeName>Brazos</placeName></persName> that they ought not to meddle with politics, and to have
+nothing to do with any revolutionary schemes, I hope they have 
+followed my advise&#8212;they are as yet too recently established in the
+country to take an active part in its political affairs&#8212;if any 
+questions are asked them as to their opinion of the Govt etc. they ought
+to answer that they moved here to live under the government which
+the <placeName>nation </placeName>may establish they can do themselves no good by 
+meddling in politics and at such a time as this when the Govt is not yet
+settled and the nation in a state of political fermentation it is
+embarking on a doubtfull voyage to embrace any <persName>party</persName>&#8212;as 
+<persName>foreigners </persName>we have a good excuse for remaining neutral without being lyable
+to suspicions and this is the safe course&#8212;The <persName>Emperor </persName>has deceived
+us all&#8212;I thought he would have adhered to his oath, and governd
+according to law&#8212;but on the contrary he has violated the one, and<pb n="639"/>
+trampled on the other&#8212;nothing therefore is more just, and more
+magnanimous than the spirit of indignation and resentment which
+the nation have manifested and the result I hope and confidently
+believe will be a <placeName>Confederated Republic</placeName> very similar to that of the
+<placeName>United States</placeName>&#8212;Some of the principal <placeName>provinces </placeName>of the nation have
+declared in favour of this system, such as <placeName>Oaxaca</placeName>, <placeName>Guadalaxara</placeName>,
+<placeName>Guatamala</placeName>, <placeName>Guanaxuato</placeName>, and these <placeName>Provinces </placeName>and I think a 
+majority of the <persName>members of Congress</persName> are in favour of it.</p>
+
+<p>I wrote you from <placeName>Mexico </placeName>that my business was completely finished
+as I wished, and when I arrive I will try and revive the spirits of the
+<persName>settlers</persName>, they have nothing to fear as to the titles to their lands, their
+own industry and good conduct is all that is wanting to make them
+live plentifully&#8212;I am in hopes we shall be able to take the <persName>Indians</persName>
+in hand and teach them to let us alone&#8212;I recd your letters at this
+place informing me of the disasters on the <placeName>Colorado</placeName>&#8212;the day of
+vengeance I hope is not far off&#8212;I am very glad <persName>Littleberry Hawkins
+</persName>took charge of the things from the Lively, I approve fully of 
+everything he has done in the business if he still has the suit of blue
+request him to keep it untill I arrive. I am destitute of clothes and
+want it&#8212;remember me to him in a very particular manner and tell
+him that I anticipate with pleasure a renewal of our former 
+acquaintance in <placeName>Lexington</placeName>, and hope that we shall spend many happy years
+as <persName>neighbours </persName>in <placeName>Texas</placeName>, and receive an ample reward for the 
+difficulties, hardships and disgusts of the first year or two&#8212;your Spanish
+letter does very well. I am happy at your advancement in the 
+language. It probably will be about the <date when="1823-06-10">10 of June</date> before I can reach
+<placeName>Bexar </placeName>as I shall pass through <placeName>Monclova </placeName>if <persName>Dn Matias Ximenes</persName> is in
+<placeName>Bexar </placeName>give my respects to him, I am anxious to see him&#8212;when I
+arrive I will try and see what can be done with the tobacco, when I
+purchased it in <placeName>Orleans </placeName>the law prohibiting the introduction had not
+passed so that I am an innocent sufferer. Speak to <persName>Berrimendi </persName>and
+request him not to do anything in the business until I arrive that is,
+unless he will release the tobacco and deliver it to <persName>L. Hawkins</persName> if he
+will do this it will be the same as delivering it to me&#8212;I am very glad
+you did not go with <persName>Carrasco </persName>apply yourself to hard study, let your
+whole time be devoted to emprove your mind, the only divertion,
+except that necessary to preserve your health, which you ought to
+take is a change of study from the Spanish to the French, and 
+reading the <persName>Baron</persName>'s English books&#8212;<hi rend="italic">the mind makes the man</hi>. In 
+writing Spanish be careful not to confound the b and the V as is 
+customary in this country, when in doubt refer to the dictionary, this is
+important tho totally disregarded here</p>
+
+<p>[Stephen F. Austin.]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

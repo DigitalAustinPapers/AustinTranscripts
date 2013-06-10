@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0592">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Arthur G. Wavell to Stephen F. Austin, 05-22-1823</title>
+            <author>
+                <persName>Arthur G. Wavell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">London, England</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 646-647
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-22">05-22-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Speculations in London awaiting confirmation of Austin's grant.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><hi rend="italic">Triplicate</hi></p>
+
+<p><placeName>London </placeName><date when="1823-05-22">May 22nd. 1823</date></p>
+<p>Dear <persName>Austin</persName></p>
+
+<p>As I have so constantly informed you in my former letters the very
+moment you forwarded to me the document confirming your <placeName>grant </placeName>I
+could effect the contract you desired not having yet received it I am
+unable to embrace until your answer arrives a proposal made me by
+one of the largest and richest houses in this City to furnish 20,000 £
+(say 100,000 Dollars) for one half the concern on the conditions 
+pro-posed in the contract you gave me consequently the very moment
+you receive this send me the Law or other Document substantiating
+your claim together with a regularly legalized Document for 
+forming a <persName>Company </persName>on those conditions all regularly authenticated and
+include your own name leaving blanks for four others which I shall
+insert here, to avoid any misconception you and I retain half the
+concern the <persName>Company </persName>advances 20 thousand Pounds of which goods
+to the amount of 10,000 £ will be shipped off the very moment I 
+receive the Documents and the remaining 10,000 £ as soon as you wish
+afterwards   The land and cash to form one joint concern for the<pb n="647"/>
+benefit of the whole <persName>Company </persName>in the proportion of half for us two
+the remainder for the other <persName>partners </persName>They are immensely rich and
+will spare neither expense nor trouble to advance your views cash
+to any amount will be forthcoming if requisite and it can be 
+advantageously employed&#8212;An <persName>agent </persName>to reside with you in <placeName>Texas </placeName>will
+accompany the goods write me most fully and forward a <placeName>map </placeName>of
+the <placeName>Province </placeName>in short every Paper which can be of any importance
+relative to the concern by which we will ere long realize immense
+fortunes</p>
+
+<p><persName>A G Wavell</persName></p>
+
+<p>I now write you by way of <placeName>Veracruz </placeName><placeName>New York</placeName> and <placeName>New Orleans</placeName>
+in order that no time may be lost. If you did not receive everything
+you desired three months after my arrival in this Country you must
+blame only yourself for neglecting to write and forward to me the
+requisite Papers by every conveyance&#8212;Write to me now via <placeName>New
+Orleans</placeName> and <placeName>New York</placeName> as the most safe, and expeditious mode I
+have only recd one letter from you since my arrival in <placeName>England </placeName>and
+that dated <placeName>Mexico </placeName><date when="1822-08-22">22nd August 1822</date> Add whatever land you have
+obtained for me to the general stock of the <persName>Company </persName>My other
+affair goes on well and I trust I shall ere long be enabled to convey
+to you agreeable intelligence on that score also.</p>
+<p>The bills drawn by <persName>Barry </persName>have all been protested</p>
+<p>[Addressed:] <persName>Stephen F. Austin Esqr.</persName> to the care of <persName>J. H. 
+Hawkins Esqr</persName>. <hi rend="italic"><placeName>New Orleans</placeName></hi>   To be forwarded <hi rend="italic">immediately </hi>Pr <persName>Panther</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

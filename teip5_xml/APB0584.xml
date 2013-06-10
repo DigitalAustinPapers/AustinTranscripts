@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0584">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Andrews to Stephen F. Austin, 05-09-1823</title>
+            <author>
+                <persName>Robert Andrews</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Parras, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 637-638
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-09">05-09-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Surveying in Texas. Practice of medicine in Coahuila.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Parras </placeName><date when="1823-05-09">May 9th 1823</date></p>
+<p>Dear Friend <persName>Austin</persName></p>
+
+<p>I am told that <placeName>public papers</placeName> contain something concerning the
+colonization but as I have not seen them I know not what it is,
+I hope they have dispatched you advantagiously, the fact I shall
+know on seeing the papers which I will look for today there no
+doubt is much news in <placeName>Mexico </placeName>at this time but I get none of it in
+this domestic vilage, and shall wait the answer here but if you
+choose to answer this direct it to <placeName>Durango</placeName>, at which place I expect
+to arrive in the month of <date n="06-xx-1823">June</date>, I am anxious to know what your
+intentions are, and what prospects you may have before you, how
+<persName>Fields </persName>came out with his pretensions&#8212;and also some of the 
+particulars respecting those countrymen Embasadors and consels where
+they will reside, that is in which of the ports the several consels will
+reside and what are their names if they have bro't their <persName>families </persName>etc.</p>
+
+<p>Do me the favour to inform me what may be your opinion of my
+prospects for the office of <persName>Surveyor for <placeName>Texas</placeName></persName> I have made my 
+application thro <persName>Doctr Ramos de Arispe</persName> who is a gentleman of much<pb n="638"/>
+talent, but what his influence may be I cannot say&#8212;I am yet poor I
+bearly live decently by my profession but hope to do better in
+<placeName>Durango </placeName>and very probably shall go to <placeName>Texas </placeName>to settle in the <date n="Winter-1823">winter</date>
+if I should not get the office I solicit, by keeping up a correspondence
+I hope we will meet again in this world by this mail I write my
+<persName>friend </persName><persName>Ximenes del Rio</persName> who is in <placeName>Mexico</placeName>, and who you will have
+known I hope before the rect. of this.</p>
+
+<p><persName>Andrews    </persName>[Rubric]</p>
+<p>[addressed:] Al <persName>Sr Dn Estevan F Austin</persName>, <persName>Anglo-Americano</persName> <placeName>Bexar
+Mexico</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

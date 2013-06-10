@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0594">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. B. Austin to Stephen F. Austin, 05-25-1823</title>
+            <author>
+                <persName>James E. B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bexar, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 648-649
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-25">05-25-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a business transaction of Gov. Trespalacios. Good crops. Commerce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Bexar </placeName><date when="1823-05-25">May 25 1823</date></p>
+<p>Dear <persName>Brother</persName>,</p>
+
+<p>No one can imagine with what pleasure I received my dear
+<persName>Brother</persName>s letters, from <placeName>Mexico</placeName>, and <placeName>Qeretaro </placeName>of the <date when="1823-04-15">15</date> and <date when="1823-04-23">23</date> of last
+month; the very Idea of your having left <placeName>Mexico </placeName>and that I shall
+have the satisfaction of giving you an embrace in course of a few
+weeks, I can assure you alters very much the muscles of my face
+and removes that "pesadumbre" that has attended me for the last
+twelve months; You wish me to give you all the news; At present
+I am void of information that would be interesting to you I had
+communicated to you everything of note in letters sent to the care of
+<persName>Andrews </persName>in <placeName>Satillo</placeName>, which I hope you will receive when you arrive
+in that place&#8212;There remains some business to be transacted in the
+city of <placeName>Monclova</placeName>, which if you can attend to will save some trouble.</p>
+
+<p>In the year <date n="xx-xx-1822">1822</date> <persName>Dr Victor Blanco the Brother in law of Musquis</persName>
+in Compy with <persName>Dn Franco Madero</persName> of the city of <placeName>Monclova </placeName>went to
+<placeName>New Orleans</placeName> to purchase goods&#8212;<persName>Madero </persName>and <persName>Musquis </persName>returned in
+the sloop Only Son owned by <persName>J. Hawkins</persName>, on their arrival in this
+place, <persName>Madero </persName>not being able to raise the money to pay his part of
+the freight (which amounted to 450 dollars) gave his note payable
+in 60 days, with <persName>Trespalacios </persName>as security after the expiration of
+some months, <persName>L. Hawkins</persName> to whom the note was given, called on
+<persName>Trespalacios </persName>for the money he did not find it convenient to pay it
+as <persName>Madero </persName>had not remitted him funds to do so the Business rested
+so untill <persName>L. Hawkins</persName> left this, he put the note in the hands of an
+<persName>agent </persName>and <persName>partner</persName>, a <persName>Mr Dimitt</persName>, for collection he immediately 
+presented the note to <persName>Trespalacios</persName>, who refused to pay it and stated as
+his reason that <persName>Madero </persName>had not sent him funds to do so with; and
+that he was about to start for <placeName>Monclova </placeName>and would convince <persName>Sor.
+Madero</persName> that he was not bound to pay it. <persName>Mr Dimitt</persName> accordingly 
+forwarded on the note by <persName>Dn Alexandro Treviño</persName>, to <persName>Dn Victor Blanco</persName><pb n="649"/>
+to collect the money. Now if you. could make it convenient to 
+collect the money <persName>Dimitt </persName>wishes you to do so. the money is <persName>J. Hawkins</persName>.
+If you do not attend to it he (<persName>Dimitt</persName>) will have to go himself to
+<placeName>Monclova </placeName>the <persName>Doctor [James Hewitson]</persName> is in <placeName>Monclova </placeName>and can give
+you some information on the subject the <persName>Dr </persName>is my most Intimate
+<persName>friend </persName>I sent a note I held against an <persName>officer of the Dairango Troops</persName>
+for $20 to the <persName>Doctor </persName>to see if he could meet with any method of
+collecting the money. Intercede with him to sell it at most he can
+get for it if there is no opportunity of collecting it.</p>
+
+<p>The <persName>settlers </persName>are in the best of spirits their crops look beautiful
+The season has been remarkable and they will raise more corn
+than they will know what to do with</p>
+
+<p><persName>Santiago    </persName>[Rubric]</p>
+
+<p>P. S. Do not forget to bring me a Spanish saddle and <hi rend="italic">galapago</hi>,
+and also a Spanish <hi rend="italic">Wide Brim, White, Wool, Hat,</hi> I understand they
+are very cheap and it will be almost impossible to stand the <placeName>prairie</placeName>
+without one&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

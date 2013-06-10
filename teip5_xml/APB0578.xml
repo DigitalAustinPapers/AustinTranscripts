@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0578">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James E. B. Austin, 04-23-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Queretaro</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Bexar</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 631
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-04-23">04-23-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Starting home. Description of Querétaro. "Fryars and clergy are at work to produce a new revolution."</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>City of Queretaro</placeName> <date when="1823-04-23">April 23, 1823</date>.</p>
+<p>Dr. <persName>Brother</persName>,</p>
+
+<p>I drop you a line merely to inform you that I have at length
+started from <placeName>Mexico </placeName>with all my business finished to my complete
+satisfaction I started on the <date when="1823-04-18">18th </date>and am 150 miles on my road-
+This is a very han[d]some <placeName>city </placeName>of about 60,000 <persName>inhabitants </persName>well
+built - but surrounded by poor flint hills - I shall expect letters from
+you in <placeName>Monterey </placeName>giving a minute account of everything.</p>
+
+<p>The revolution is complete and the <persName>Emperor </persName>is to start in a few
+days for <placeName>Italy </placeName>all is quiet but I will not vouch for its being 
+permanent the <persName>fryars </persName>and <persName>clergy </persName>are at work to produce a new revolution
+under the pretext of saving the religion -</p>
+
+<p>I will write from <placeName>San Luis</placeName> and <placeName>Monterey </placeName>remember me to <persName>Dn
+Erasmo</persName> the <persName>Baron </persName><persName>Governor </persName>&amp;c</p>
+
+<p><persName>ESTEVAN</persName></p>
+
+<p>[Addressed:]    A. <persName>Dn. Santiago Austin</persName> <placeName>Bexar</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

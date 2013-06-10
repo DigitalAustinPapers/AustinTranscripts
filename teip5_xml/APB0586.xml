@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0586">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Andrews to Stephen F. Austin, 05-15-1823</title>
+            <author>
+                <persName>Robert Andrews</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Parras, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Monterrey, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 640-642
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-15">05-15-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Surveying. The people and country from Monterey to Parras.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Parras </placeName><date when="1823-05-15">May 15th/23</date></p>
+<p>Nothing could have given me more satisfaction than an interview
+with you, but I recollect the story of <hi rend="italic"><persName>Telemachus </persName></hi>who traveled
+thro all grades of <placeName>Hell </placeName>and did not meet his <persName>father </persName>and at last they
+met on <placeName>earth</placeName>, therefore as we did not meet in this infernal region I
+most seriously hope we will meet on <placeName>earth</placeName>. I suppose we may be
+allowed to compare ourselves to the Heathen Gods in this country,
+where the people are more supersticious than they were when these
+imaginary Deities existed.</p>
+
+<p>I am really glad to hear that your wishes are compleatly fulfilled
+in the business on which so much depends, but I do not recollect
+the act of the <persName>Empl Govt</persName> on the subject, therefore do not know of
+what magnitude your personal prospects may be, of this you will be
+good enough to give me a scetch in your next, and whether the mode
+of naturalisation will be as before&#8212;you say nothing of the 
+surveying of which I am anxious to hear in as much as I have made 
+application to the <persName>Govt </persName>for the appointment of <persName>surveyor </persName>in <placeName>Texas</placeName>, 
+supposing that I might dislodge the <persName>Baron De Bastrop</persName> at this change
+of <persName>Govt</persName>, by several good reasons some of which are the following,
+that he is too old to give personal attention, that [he] probably
+knows nothing of the new mode of calculation by Lat. and depart
+which is the only mode to do it correctly - do not know, perhaps
+my ineligibility alone may be sufficient to prevent me from obtaining
+it, you who was at the fountain head can give me some information
+on the subject, and if you think it possible,- write to some of your
+<persName>acquaintances </persName>in <persName>congress</persName>, at least let me know what you think
+on the subject - if I should obtain that office, I will land in <placeName>Texas</placeName>
+in <date n="01-xx-1824">Jany</date>. with 20 odd labouring hands, 50 mules and horses, stores
+and tools appropriate to open a <placeName>farm </placeName>and in all probability shall
+be accompanied by the heads of several <persName>families </persName>who will go on in
+order to settle, I have disclosed the plan of planting a <placeName>Town </placeName>on the
+<placeName>collorado </placeName>or <placeName>Brazos </placeName>to the people here and they seem to be much
+stimulated but as yet I cannot say what I can do. I believe I can
+exercise about 2000 dollars on credit in that way, but the people
+here are so da&#8212;d afraid of <persName>Indians </persName>that if they move in that 
+direction they must have an <persName>American </persName>between them and the <persName>Comanches</persName>&#8212;
+Therefore if a collony of these <hi rend="italic"><persName>sodomites </persName></hi>go on I shall have to be
+their <persName>Joshua</persName>&#8212;I have written to your <persName>Brother </persName>and Alley to advise
+me of the present circumstances and prospects in that quarter, and
+shall depend much on your opinion, which you will remit me from
+<placeName>Bexar </placeName>or <placeName>Colorado</placeName>, after seeing how things are, I shall leave this
+place in a week or ten days for <placeName>Durango</placeName>, to which place I wish<pb n="641"/>
+you to direct all letters here after except the answer to this from
+<placeName>Monterey</placeName>, which if it startes soon may arive before I set out, and
+if not I shall spend 3 weeks in the <placeName>Hacienda de los Hornos</placeName> with
+the best <persName>family </persName>in the Govt, during which time I can send for it&#8212;</p>
+
+<p>I am yet poor but owe nothing and shall perhaps be able to arive
+at <placeName>Durango </placeName>with 25 or 30 dollars, where I have hope of doing better.</p>
+
+<p>According to your request I am bound to say something of the
+<placeName>country </placeName>over which I have passed, in this place it can be but short,
+but when a work which I now have on hand comes to light a true
+picture of many curious things persons and circumstances, 
+accompanied by several drawings will be seen&#8212;The country from <placeName>Saltillo </placeName>to
+this place has a nigh resemblance to that between <placeName>Monterrey </placeName>and
+<placeName>La Punta</placeName>, there are 4 or 5 <placeName>farms </placeName>on the way, but one of which is of
+any consideration this place is situated in rather a handsome and
+very fertile <placeName>valley </placeName>about 3 or 4 miles wide, and about 6 miles south
+and near 100 <placeName>west of Saltillo</placeName>, and contains upwards of 15,000 souls
+the <placeName>Town </placeName>is closely joined to the mountain on the <placeName>south side of the
+vally</placeName>, from which gush a vast number of <placeName>springs </placeName>one of which is so
+large that it moves a very clumsy <placeName>grist mill</placeName>, the whole extent of
+country over which this water extends is one continued <placeName>vinyard </placeName>with
+the exception of a few fields of small grain and corn all of which is
+in a fine state of cultivation, it also produces many other exquisit
+fruits exclusive of the grape, but as to any spontaneous growth of
+timber it is here like all other parts of the country that I have seen,
+quite out of scrape&#8212;God d&#8212;n the luck! excuse me, my dear sir,
+for breaking off so abruptly from my soft rural strane, I have just
+recd a note informing me of more of my D&#8212;d bad fortunes which
+would hunt me up in order to make things a little worse, if I were in
+<persName>Pluto</persName>'s regions, enjoying all the comforts of <hi rend="italic"><placeName>Hell </placeName></hi>a <persName>friend </persName>writes
+me that a few days after I left the <placeName>Hornos </placeName>for this place a message
+arived for me to visit a rich patient in another village, which would
+have been a greasor of 200 dollars, says my friend "he may send
+for you yet"&#8212;God grant! if I thought it would do any good I would
+send for the <persName>curate </persName>and have a mass said this moment 
+notwithstanding it is near 3 oclock in the evening&#8212;The description of the 
+country on to the <placeName>Hornos</placeName>, which is the furtherest I have been into the
+country and which is about 50 miles west of this is near the same as
+before&#8212;you told me nothing of our country man <persName>Fields </persName>for whom I
+feel interested&#8212;<persName>Don Ignacio Peres</persName> and <persName>Mosieur Pier of <placeName>Bexar</placeName></persName> are
+near this place on their way home and will fall in with you at 
+<placeName>Monterrey </placeName>if they do not go by <placeName>Monclova</placeName>.</p>
+
+<p>If my health, which now hangs on a more tender thread than
+before should not be very good in the <date n="Fall-1823">fall</date>, the above mentioned plan
+may be changed for a tour on sea, this will depend on circumstances<pb n="642"/>
+If you should go to <placeName>New Orleans</placeName>, perhaps it might be well to leave
+my address with <persName>Mr Hawkins</persName>, as I may fall in there some evening
+and not be able to find any old acquaintance be sure to remember
+me most affectionately to all old <persName>acquaintances </persName>in <placeName>Texas </placeName>and tell
+them I hope to see them all again in the <date n="xx-xx-1824">year 24</date> give my respects
+to <persName>Hickman</persName>. <persName>Philips </persName>and <persName>Doctr. Purnell</persName> in <placeName>Monterrey</placeName>&#8212;hoping that
+the day will come when we may sit toe to toe under our own vine and
+fig tree, retired from the bustle of the world, and reherse the toils
+of our youth, over a can of domistic wine, I present you the best
+wishes of</p>
+
+<p>Your true friend</p>
+
+<p><persName>Andrews</persName>    [Rubric]</p>
+
+<p>[Addressed:] A <persName>Sr. Dn Estevan Austin</persName> <persName>Anglo Americano </persName>
+<placeName>Monterrey</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
