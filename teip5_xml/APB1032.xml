@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1032">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Robinson to Stephen F. Austin, 02-02-1825</title>
+            <author>
+                <persName>George Robinson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-28">05-28-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lower Settlement, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1031-1032
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-02-02">02-02-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lower settlement</placeName> <date when="1825-02-02">February 2nd 1825</date></p>
+
+<p>Dear Sir I take the liberty of trubling you with a few lines when
+the lines of the half leage I gett in this <placeName>settlement </placeName>were run they
+were Extended 13 hundred bars in the <placeName>prairie</placeName> if you allow mee anny
+more I wish itt <placeName>on the Benard</placeName> I hope you will allow mee a half
+leage more and not leave me singular to my self I hope to Bee able
+to make you some payment this spring and if I can doo no better I
+will sell you some to pay for the rest Although I should consider
+my self robing my <persName>family </persName>to doo so If you lett me have anny
+more you will have itt in your power to know where there is good
+land and I will Be satisfied with anny you may designate mee<pb n="1032"/>
+hope you will take my sufferings in consideration And allowe what
+allmost Every other <persName>family </persName>getts I have heard that my <persName>father </persName>is on
+his way to this <placeName>country </placeName>and wishes to become a <persName>citisen</persName> of this <placeName>colony</placeName>
+and wishes to settle where he can have good stock water and ra[n]ge
+as he has a very large stock if he Ever getts them here I have been
+Expecting to here from you relative to the business with <persName>parker</persName>&#8212;
+yours with respect and esteme&#8212;</p>
+
+<p><persName>George Robinson</persName></p>
+<p>[Addressed:] <persName>Col. S. F. Austin</persName> <placeName>San felipe de Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

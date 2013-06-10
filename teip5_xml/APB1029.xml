@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1029">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A. W. McClain to Stephen F. Austin, 01-30-1825</title>
+            <author>
+                <persName>A. W. McClain</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-26">05-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Colorado District, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1029-1030
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-30">01-30-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Misunderstandings concerning land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>
+<placeName>Colorado District</placeName> <date when="1825-01-30">30th January 1825</date>
+</p>
+<p>Dear Sir</p>
+
+<p><persName>Mr Alley</persName> informs me that he informed you Previous of my Being
+in <placeName>town </placeName>that their was but one League of Land in the <placeName>14th League</placeName>
+and that is for <persName>Blienfort</persName> and <persName>McVain</persName> it appears to me that I am not
+to guit any that I make Choice of as I made Coice of two Places By
+the <placeName>Eagle Lake</placeName> first you gave to <persName>Blufort</persName> second to <persName>Coln Boss</persName>"<pb n="1031"/>
+asked you for Land in <date n="06-xx-1824">June Last</date> you Readyly agreed that to goe
+and make Choice of a Place and then I was Called on from time to
+time that I had not time ontill in <date n="09-xx-1825">Septr</date> and then I Made Choice of
+one that noone hade made Choice of I Lost that and it was
+Entered in your Booke By <persName>Mr. Williams</persName> I have Been Ready for
+two weeks to go to work on it or some Place Else if you intend
+Letting me have any Land or not I want to noe I Come to the
+<placeName>Country</placeName> for that purpose after seventeen months in the <placeName>Country</placeName>
+I Cant Come on a footing with <persName>strangers</persName> I Can Return from whence
+I Came <persName>Mr. Alley </persName>informs me <persName>Mr. Cook</persName> and <persName>Mr. Osborn</persName> has taken
+a joining of him on the <placeName>west side of Colorado</placeName> and that theirs a
+<placeName>vacant Place</placeName> at the <placeName>mouth of skull crick</placeName> Providing you will Let
+it Be Run as <persName>Gabriel Snyders</persName> is if you Consent to it you will Please
+let me no it and oblige yours</p>
+
+<p><persName>A W McClain</persName></p>
+<p><persName>Judge S F Austin</persName></p>
+
+<p>NB   <persName>Coln- Pettus</persName>  [was] Present when<persName> Mr Alley</persName> said what he
+did say on the subject</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
