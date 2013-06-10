@@ -3,11 +3,11 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0640">
+xml:id="APB0662">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F. Austin to Luciano Garcia, 10-20-1823</title>
+            <title>Stephen F. Austin to Public, 12-05-1823</title>
             <author>
                 <persName>Stephen F. Austin</persName>
             </author>
@@ -33,7 +33,7 @@ xml:id="APB0640">
 
                 <person>
                     <persName type="recipient">
-                        Luciano Garcia
+                        Public
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0640">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Brazos River, TX</placeName>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 702
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 715-716
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0640">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Notice</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0640">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1823-10-20">10-20-1823</date>
+            <date when="1823-12-05">12-05-1823</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,30 +81,37 @@ xml:id="APB0640">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Expulsions of bad characters from the colony and measures to prevent the settlement of others in the future.</add></p>
+            <p><add hand="#barker">Militia organization.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>To preserve good order in the <placeName>colony </placeName>under my charge, I have
-been compelled to cause five men to leave it, with their <persName>families</persName>,
-to wit: <persName>Briton Baylie</persName>, <persName>John M Coy</persName>, <persName>Alen White</persName>, <persName>David Fitzgerald</persName>
-and <persName>Daniel O. Quin</persName>. They are all men of infamous character and
-bad conduct, <persName>fugitives from the <placeName>United States</placeName></persName>, one for having 
-committed murder, the others for having counterfeited money, and for
-whose apprehension the <persName>American Government</persName> has offered high
-rewards Men of such a stamp can not but be prejudicial to this
-<placeName>new settlement</placeName>; therefore, I hope that my action will meet your
-high approbation.</p>
+<p><persName>Robert Keykendall Captain of the Militia of the <placeName>Colorado 
+district</placeName></persName> being about to remove from Said district, therefore by these
+presents I do appoint <persName>James Ross</persName> <persName>Captain of the Militia</persName> of said
+District to act as such untill the final organization of the <persName>Battalion</persName>
+at which time a general election will be held for all the <persName>militia
+officers of the <placeName>Colony</placeName></persName>,   the Subordinate officers and <persName>privats </persName>of said<pb n="716"/>
+<placeName>Colorado district</placeName> are therefore commanded to recognize and obey
+the said <persName>James Ross</persName> as their <persName>Captain </persName>under the pains and penalties
+prescribed by law.</p>
 
-<p>To prevent, hereafter, the introduction into this <placeName>Colony </placeName>of men
-of that kind, I shall be compelled to keep up a rigid and active
-police; which measure, I think, will also be approved by you.</p>
+<p>Enclosed I send you the Copy of a commission appointing <persName>James
+Ross captain of the <placeName>Colorado district</placeName></persName>, you will therefore deliver
+up the command of sd district to Said <persName>James Ross</persName> and also the public
+powder in your possession</p>
 
-<p><persName>Estevan F. Austin</persName>.</p>
+<p><persName>Alexander Jackson</persName> will by public notice notify the <persName>Inhabitants</persName>
+of the above district to convene at his house on the <date when="1823-12-15">15 instant</date>, for
+the election ordered in the above.</p>
 
-<p><placeName>Brazos River</placeName>, <date when="1823-10-20">October 20th, 1823.</date>    3rd &amp; 2nd.</p>
+<p><placeName>St. Felipe de Austin</placeName></p>
 
+<p><date when="1823-12-05">Dcr 5 1823&#8212;3d and 2d</date></p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p><persName>L[ieutenant] C[olonel] M[ilitia]</persName></p>
 
         </div1>
     </body>

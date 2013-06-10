@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0670">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Josiah H. Bell, 01-08-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Josiah H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Felipe, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 721-722
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-01-08">01-08-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advice about farming land. Shaping settlement for defense against Indians. Judicial procedure. Hawkins dead.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>St Felipe</persName> <date when="1824-01-08">Jany 8 '24</date></p>
+<p>Dr Sir,</p>
+
+<p>I wrote you a few lines in a letter to my <persName>brother </persName>informing you
+how your building place could be secured if you still wish for the
+one you first picked out&#8212;on the subject you need not apprehend
+any kind of difficulty as there will be none&#8212;</p>
+
+<p><persName>Carter </persName>tells me you intend to plough up the <placeName>Prairie </placeName>and plant
+this season&#8212;this is a very bad plan tho. you may think yourself
+a better farmer than I am, and more capable of giving me advice&#8212;
+but should cut down <placeName>peach land</placeName> in preferance to planting <placeName>Prairie</placeName>
+10 acres of <placeName>peach land</placeName> will produce more than 20 of <placeName>Prairie </placeName>be-<pb n="722"/>
+sides you can get a dead cane break on the <placeName>bank of the Bernard</placeName> 6
+or 7 Miles below, the use of which you are welcome to&#8212;but I 
+advise you to put in <placeName>peach land</placeName> in preference to <placeName>Prairie</placeName>-
+Advise all the <persName>new comers</persName> who are decent Men to go below I
+wish to push the <placeName>Settlement </placeName>there so as to make it strong enough
+to defend itself against the <persName>Indians</persName>&#8212;please enquire into the 
+dispute between <persName>G Robinson</persName> and <persName>Lynch </persName>and advise me what in justice
+to both ought to be done If <persName>Newman </persName>does not go to the <placeName>Colorado</placeName>
+advise him to go below&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Mr J. H. Bell</persName></p>
+
+<p>Compliments to <persName>Mrs. Bell</persName> and <persName>Tong</persName>&#8212;My good friend <persName>J. H. 
+Hawkins</persName> is dead. I have met with some things to vex me and fear my
+best friends will sometimes think my temper a little unruly&#8212;-but
+they must bear with me and in the end they will find that my heart
+is right&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0663">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Josiah H. Bell, 12-06-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Josiah H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 716-717
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-12-06">12-06-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Measures for excluding bad characters. Payment for land in cows and calves.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Sir,</p>
+
+<p>As I shall be absent about three weeks down the river I wish you
+to attend to the following instructions relative to new <persName>settlers</persName>.</p>
+
+<p>The most unequivocal evidence of character must be produced in
+the first place, and those who come without any recommendation and
+who are unknown in this country must be informed that I gave
+<persName>Garner </persName>ten lashes for coming here without proper recommendations
+and that unless they immediately depart and quit the country they
+will be punished. After <persName>Garner</persName>'s case I am determined not to receive
+any one nor even permit him to remain in the <placeName>colony </placeName>who comes
+without proper recommendations, no matter what may be his 
+appearance.</p>
+
+<p>Payment must be made down by all new comers in Cash or Cattle
+at the rate of one Cow and Calf for a hundred acres of land, and in
+the same proportion for Stock Cattle I will also take <persName>negros</persName>.</p>
+
+<p>I wish for as many decent <persName>families </persName>as possible to settle in this place
+and all who do so shall have a preference in lots and labors, there
+are extensive dead Cane breaks on the oposite side of the <placeName>River</placeName>
+where they can make corn easily and on this side there is fine range
+for cattle and hogs.</p>
+
+<p>You must examine the <persName><placeName>Red River</placeName> emigrants</persName> <hi rend="italic">very closely</hi> and take
+care that no bad men get in&#8212; <hi rend="italic">let us have noblack sheep in our
+flock.</hi></p>
+
+<p>Should a man of notorious bad character come in I hereby fully
+authorize you to whip him not exceeding fifty lashes and seize 
+sufficient of his property to pay a <persName>guard </persName>to conduct him beyond the<pb n="717"/>
+<placeName>Trinity River</placeName>&#8212;   One example of this kind is wanting badly and
+after that we shall not be troubled more.</p>
+
+<p>Send the really good <persName>emigrants </persName>to this place they can make corn
+early in the Cane opposite here.</p>
+
+<p>Send all the rough <persName>frontiersmen</persName>, <persName>hunters</persName>, etc, etc, <placeName>up the river</placeName> or
+out on some of the <placeName>creeks</placeName>.</p>
+
+<p>[Stephen F Austin]</p>
+
+<p><placeName>St. Felipe de Austin </placeName><date when="1823-12-06">Decr. 6, 1823</date></p>
+
+<p><persName>J. H. Bell</persName></p>
+
+<p><persName>Alcalde of the <placeName>Brazos District</placeName></persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

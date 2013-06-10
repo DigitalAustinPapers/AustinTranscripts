@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0661">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 12-05-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 715
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Notice</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-12-05">12-05-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Protection against Karankaway Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The <persName>inhabitants living at the <placeName>cane break on the Colorado river</placeName></persName>
+and those who may Settle in the <placeName>Bay Prairie</placeName>, being exposed to the
+hostilities of the <persName>Karankway Indians</persName>, which renders it necessary
+for them to have an <persName>officer of the militia</persName> in that quarter&#8212;therefore
+all the <persName>settlers </persName>able to bear arms from the <placeName>Eagle lake</placeName> commonly
+called the <placeName>Big Lake</placeName>, on the <placeName>Colorado River</placeName> to the <placeName>Sea Shore</placeName> will
+form a detachment of <persName>Militia </persName>provisionally to be commanded by an
+<persName>officer </persName>to be elected by the said <persName>Inhabitants</persName>, the election shall be
+made on the <date when="1823-12-15">15th of this month</date> at the <placeName>house of <persName>A. Jackson</persName></placeName>, and the
+person elected shall have the title and rank of <persName>first Lieutenant of
+Militia</persName>, and shall be subject to the command and orders of the 
+<persName>Captain of the <placeName>Colorado district</placeName></persName> in all matters of a general nature, and
+in all cases where a call is made by said <persName>Captain </persName>for men; but in all
+cases of a local nature the Said <persName>Lieutenant </persName>shall act according to his
+discretion without wating for orders from his superior officer, and
+full authority is hereby given to said <persName>Lieutenant </persName>to make war against
+the <persName>Karankway Indians</persName> and to raise men within his Command and
+attack or pursue any party of said <persName>Indians </persName>that may appear on the
+<placeName>Coast </placeName>or on the <placeName>River</placeName>, always rendering an exact account of his
+proceedings to me as soon as possible.</p>
+
+<p>Given under my hand at the Town of <placeName>San Felipe de Austin</placeName> this
+<date when="1823-12-05">5 day of December 1823   3d and 2d</date></p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+<p><persName>Lieut Colonel of Militia</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

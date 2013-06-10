@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0672">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Alaman to Public, 01-10-1824</title>
+            <author>
+                <persName>Alaman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-24">07-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Public
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 722-723
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Decree</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-01-10">01-10-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Decree of supreme executive power (federal) against public meetings.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Translation by Austin]</p>
+
+<p>The Supreme Executive Power appointed provisionally by the
+<persName>Sovereign Mexican Constitutional Congress</persName> to all who shall see these
+presents Know ye&#8212;that considering the great evils resulting to the
+people from the abuse made of popular meetings, (juntas) to treat of
+Subjects which are deemed by them of importance, when each one
+of the Constituted Authorities has its limits and attributions 
+designated and the conduct which they are to observe in the different
+cases that may occur we have thought proper to resolve as a genl
+principle</p>
+
+<p>1- That all meetings, (juntas) or unions of whatever class they
+may be which are not authorised by the laws are positively pro-<pb n="723"/>
+hibited and those who in violation of this decree form them, altho
+they may have been invited to attend them, wheither <persName>private citizens</persName>
+<persName>paisanos </persName><persName>Military </persName>or <persName>Eclesiastics</persName>, shall be punished severely and
+without reprieve for having Committed a crime according to the
+respective laws</p>
+
+<p>2- Also it is prohibited that the <persName>corporations </persName>and <persName>Authorities </persName>whose
+attributions are designated by the laws shall Meet in one Body to
+deliberate for the purpose of making representations, and to take
+resolutions which are without the range of their powers</p>
+
+<p>3&#8212;Also when in the case provided for in the last article a 
+corporation exceeds its powers, it shall be responsible agreeable to the 
+established laws</p>
+
+<p>4- This decree shall be communicated to the <persName>Genl Staff</persName> and 
+<persName>Commandant Generals</persName>, and <persName>local commandants</persName> and to the <persName>political chiefs</persName>
+for its exact and punctual complyance</p>
+
+<p>Therefore we command all powers to execute and obey this decree
+in all its parts</p>
+
+<p><placeName>Mexico </placeName><date when="1824-01-10">Jany 10- 1824</date></p>
+
+<p>Signed&#8212;   <persName>Alaman</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

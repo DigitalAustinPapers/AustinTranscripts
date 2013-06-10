@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0644">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 10-30-1823</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 705
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Procamation.</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-10-30">10-30-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Terms of settlement in Austin's Colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The terms on which <persName>Settlers </persName>are admitted into the <placeName>Colony </placeName>
+forming by <persName>Stephen F. Austin</persName> in the <placeName>Province of Texas</placeName> are as follows&#8212;</p>
+
+<p>No one will be received as a <persName>Settler</persName>, or even be permitted to 
+remain in the country longer than is absolutely necessary to prepare
+for a removal who does not produce the most unequivocal and 
+satisfactory evidence of unblemished character, good Morals, Sobriety,
+and industrious habits, and he must also have sufficient property
+to begin with either as a farmer or mechanic besides paying for his
+land&#8212;No <persName>frontiersman </persName>who has no other occupation than that of a
+hunter will be received&#8212;no <persName>drunkard</persName>, nor <persName>Gambler</persName>, nor profane
+swearer no <persName>idler</persName>, nor any man against whom there is even probable
+grounds of suspicion that he is a bad man, or even has been 
+considered a bad or disorderly man will be received. Those who are
+rejected on the grounds of bad character will be immediately ordered
+out of the County and if the order is not obeyed they will be sent
+off under guard and their property seized and sold to pay the
+expences, and should forcible resistence be made by them, the guard
+will be ordered to fire on and kill them&#8212;</p>
+
+<p>Those who are received as <persName>Settlers </persName>will get one league of land
+if so much is wanted, to be chosen by the <persName>emigrant</persName>, which land will
+cost at the rate of twelve Dollars and fifty cents pr. hundred acres
+payable in cash or Spanish Cattle or <persName>negros </persName>on receipt of title, which
+will be in full for surveying, title deeds, recording, and all other
+charges.</p>
+
+<p>The above only applies to <persName>men of families</persName>&#8212;<persName>Single men</persName> will be
+examined as to character more particularly than <persName>men of families</persName>
+and ten of them must unite to form a family and they will be 
+entitled to one League of land to be divided between them. An 
+exception will be made to this rule in favor of <persName>single men</persName> who bring
+a considerable capital into the country all such will be ranked as
+a <persName>family </persName>and draw one League&#8212;</p>
+
+<p>A person who brings in a large capital and who has a large <persName>family</persName>
+will draw more than a league should he wish it. The <persName>head of each
+family</persName> will be held personally responsible for the good conduct of
+every member of his family.</p>
+
+<p>The Roman Catholic is the established religion of the <placeName>Mexican
+nation</placeName> and the law will not allow of any other in this <placeName>Colony</placeName>&#8212;
+<date when="1823-10-30">October 30 1823</date>&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

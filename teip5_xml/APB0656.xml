@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0656">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Captain Dixon to J. B. Bailey, 12-01-1823</title>
+            <author>
+                <persName>Captain Dixon</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. B. Bailey
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 712
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-12-01">12-01-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price list, December 1, 1823.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Capt Dixon</persName> to <persName>J. B. Bailey</persName> <date when="1823-12-01">Decr. 1&#8212;1823</date></p>
+
+<p><date when="1823-12-07">Decr. 7</date> 	To Making four Shirts______________________________________  $4
+		Do. By pork and Venison at Sundry times and Board__________   5. 75
+		Do. assumset by <persName>Stuart</persName>_____________________________________   1. 25
+		Do. By assumset <persName>Hutchison </persName>to <persName>Jeter</persName>_________________________   l.
+
+<date n="01-xx-1823">Jan</date>        	Do. To one Axe to <persName>Milborn</persName>__________________________________   4.
+	     	Do. To Soap By <persName>Stuart </persName>and himself__________________________   1. 25
+	     	Do. By <persName>McCormick </persName>one pair Leather pantaloons_______________   4.
+		Do. To Magason Leather By <persName>McCormick</persName>________________________   1.
+		Do. To Corn at Sundry Times________________________________   9.
+		Do. To Making one pair of Pantiloons <persName>Dupangh</persName>_______________   3.
+		Do. For Taking Care of Horses and feeding of one___________  10.
+		Do. for one pair of Socks__________________________________   1. 25
+												 ________
+												 39. 50</p>
+
+<p><date when="1823-09-30">Sept. 30</date> <persName>Capt Dixon</persName> to Tools lent Going to <placeName>New Orleans</placeName>&#8212;</p>
+<p><date n="xx-xx-1822">1822</date></p>
+<p>	To one large Chisel and hammer and Skillet and Two Gun Locks
+	 and Two Leopard Cat Skins_______________________________________  13. 00
+												 39. 50
+												__________
+												$52. 50</p>
+<p>[Endorsements by Austin:] Recd payment for the within a/c of
+fifty two Dollars and a half from <persName>Stephen F. Austin</persName> <date when="1824-05-16">May 16 1824</date>.</p>
+
+<p><persName>J. B. Bailey</persName></p>
+<p>Proved by <persName>S. Richardson</persName> and <persName>Dixon</persName>s hands</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
