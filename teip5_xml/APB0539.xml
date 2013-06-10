@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0539">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D. B. Dameron to Unknown, 10-16-1822</title>
+            <author>
+                <persName>D. B. Dameron</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 546-547
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Certificate</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-10-16">10-16-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Francis Bigham. Character certificate.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>State of Mississippi</placeName></p>
+<p><hi rend="italic"><placeName>Perry County</placeName></hi></p>
+<p>I do hereby certify that, <persName>John P. Hampton</persName> whose signature is
+within subscribed, is one of the <persName>Judges of the Circuit Court for the
+State</persName> aforesaid - Also of <persName>Griffin H Hollimon </persName>is the <persName>Chief Justice</persName>
+of the said County, Also <persName>Thomas A Willis</persName> is the <persName>District attorney for
+the fourth Judicial District of the State</persName> aforesaid and their 
+signatures thereunto subscribed is signed with their own hands</p>
+
+<p><persName>D. B. Dameron,
+<hi rend="italic">Clerk C. C. Perry County</hi></persName></p>
+
+<p>Also <persName>John Elliott</persName> and <persName>J R. Nicholson</persName> Esqrs are Practicing 
+<persName>attorney</persName>s in the said <persName>Circuit Court</persName> for said State</p>
+
+<p>Given under my hand and private seal for want of Seal of Office
+this<date when="1822-10-16"> sixteenth day of October A. D. 1822</date></p>
+
+<p><persName>G. B. Dameron    [Seal]</p>
+<p><hi rend="italic">Clerk. C. C. Perry County</hi></persName></p>
+
+<p><persName>Mr Francis Bigham</persName> a respectable Citizen of this County being
+about to visit the <placeName>Province of Texas</placeName> for the purpose of exploring that
+Country where he may think proper to locate himself and <persName>family </persName>and
+having at the same time commercial views: We the subscribers do
+with pleasure recommend <persName>Mr Bigham</persName> to the Civility and protectionf<pb n="547"/>
+of such of the <persName>Citizens of the <placeName>Territory</placeName></persName> through which he may pass
+as an enterprizing and industrious and worthy man</p>
+
+<p><placeName>State of Mississippi</placeName></p>
+
+<p><hi rend="italic"><placeName>Perry County</placeName>    To wit:</hi></p>
+<p>The undersigned one of the <persName>Judges of the Circuit courts</persName> and of the
+<persName>Supreme Court</persName> of said state, as far as he is informed and acquainted,
+presents the above expressions of recommendation in favor of <persName>Francis
+Bingham</persName> to all who may see these presents</p>
+
+<p><persName>Griffin H. Hollimon,</persName>                   <persName>Jn° P. Hampton</persName>
+<hi rend="italic"><persName>Judge of the county C. P. C.</persName></hi>             <hi rend="italic"><persName>Judge S. Court</persName></hi></p>
+
+<p>David Reese                                   <persName> J. R. Nicholson</persName>
+<hi rend="italic">A Representative for said County</hi>               <persName>Jn°   Elliot</persName>
+                                               <persName>Thomas A Willis</persName>
+						           <persName>Dist Atty 4th
+					                 Judiciary District</persName>.</p>
+
+<p><persName>Walter Leake   Governor of the <placeName>State of Mississippi</placeName>,</persName>
+<hi rend="italic">To all who shall see these Presents:</hi></p>
+
+<p>Be it known, that <persName>John P Hampton</persName> was on the <date when="1822-10-16">sixteenth-day of
+October Eighteen hundred and Twenty two</date> one of the <persName>Judges of
+the Supreme Court</persName> in and for the <placeName>State of Mississippi</placeName> and that full
+faith and credit are due to all his acts as such.</p>
+
+<p>Given under my hand and the Great Seal of said State, at the <placeName>Town
+of Jackson</placeName> the <date when="1828-06-28">26th day of June 1828</date></p>
+
+<p><persName>Walter Leake</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
