@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1064">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. Cable to Stephen F. Austin, 03-21-825</title>
+            <author>
+                <persName>J. Cable</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-01">06-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Contonement, Jesup</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Rio Brazos, Province of Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1060-1061
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="825-03-21">03-21-825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Adams elected President. Rumors of treaty with Mexico annexing Texas to the United States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Cantonement, Jesup </placeName><date when="1825-03-21">March 21st 1825</date>.</p>
+<p>Dear friend,</p>
+
+<p>By <persName>Mr. Smith</persName> I send you a few news Papers [from] which you
+will see the Result of the Election of <persName>President</persName> of the <placeName>U. S</placeName>.<pb n="1061"/>
+<persName>John Q. Adams</persName> has been Duly Elected, we have not much news
+more than <persName>Mr Smith</persName> can inform you, thare is great hopes of the
+<placeName>United States</placeName> becoming Peaceable possession of the <placeName>Province of
+Texas</placeName> as far as the<placeName> Rio grande</placeName> By a letter <persName>Mr. Johnson</persName> Received
+from his <persName>Farther </persName>in <placeName>Orleans</placeName> Last <date when="1825-03-16">Saturday</date>, he advises his <persName>sone</persName> to
+not sell his land claims in <placeName>Texas</placeName> that in conversation with some
+<persName>gentleman</persName> in <placeName>Orleans</placeName> he states that our <persName>Minister to Mexico</persName> is
+about to conclude a Trety with the <placeName>Mexican Republic</placeName> for the
+<placeName>Province of Texas</placeName>&#8212; the <placeName>Rio grande</placeName> to be the <placeName>line between the
+two governments</placeName>. I hope you will Reserve me a League of Land in
+some good Place on the <placeName>River Brassos</placeName> or <placeName>Colorado</placeName>, <persName>Mr Smith</persName> has
+spoken to me about a league on the <placeName>colorado</placeName> Perty low down you
+would be the best judge of that I shall be out in may and <persName>Esqr
+McGuffin</persName> says he will come with me without fail sickness excepted
+The led [lead], I have tried evry Person to take it out that was going
+out I may get <persName>Mr. Payton</persName> to take some out in a week or two, if
+you should want any thing from our <placeName>Place</placeName> pleas write and I will
+Send it out to you Pleas to give my Respects to your<persName> Brother</persName> and
+Pleas to accept my best and well wishes towards you, and blive me</p>
+
+<p><persName>J. Cable</persName></p>
+<p>To <persName>Col. Stephen F. Austin</persName> <placeName>St. Felip de Austin</placeName> <placeName>Rio Brazos </placeName><placeName>Province
+of Texas</placeName></placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

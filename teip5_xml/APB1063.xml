@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1058">
+xml:id="APB1063">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Thomas Westall to Jared E. Groce, 03-05-1825 and 03-19-1825</title>
+            <title>William Brenaugh to Stephen F. Austin, 03-19-1825</title>
             <author>
-                <persName>Thomas Westall</persName>
+                <persName>William Brenaugh</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB1058">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-05-31">05-31-2010</date>
+            <date when="2010-06-01">06-01-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        Jared E. Groce
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB1058">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">Texas</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1055
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1060
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,40 +69,34 @@ xml:id="APB1058">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1825-03-05">03-05-1825 and 03-19-1825</date>
+            <date when="1825-03-19">03-19-1825</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-05-31" who="#DL">Digital creation of XML file</change>
+        <change when="2010-06-01" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Commerce.</add></p>
+            <p><add hand="#barker">Wants land. Has 12 negroes.</add></p>
         </div1>
         <div1 type="body">
             
+<p><placeName>Natchitoches</placeName></p>
+<p><date when="1825-03-19">March 19&#8212;1825.</date></p>
+<p>Sir</p>
 
-<p><date when="1825-03-05">March 5th 1825</date></p>
-<p><persName>Col. Groce</persName></p>
+<p>It is my wish to procure <placeName>land </placeName>in your <placeName>country</placeName>: I am a man of
+<persName>family</persName>, have twelve <persName>negroes</persName> and will improve the same within the
+time prescribed by law&#8212;   I authorize <persName>Mr Smith</persName> to locate it for me.</p>
 
-<p>Sir <persName>Mr. Talley</persName> will call on you for the corn and Bacon&#8212;you
-told me you would let me have be so good as to send it by him and
-I will pay you the money when cald for aliso pleas send 4 Bushels
-for <persName>Capt Davis</persName> and <persName>Sartan</persName> too Gentlemen that came with me to this
-place and I will pay you for it</p>
-
-<p><persName>Thos. Westall</persName></p>
-<p>Recd of the with in ten dollars in cash from <persName>S. F. Austin</persName></p>
-
-<p><persName>Jared E Groce</persName></p>
-<p>Recd. of <persName>Mr. Groce</persName> ten bushels of corn&#8212;for<persName> Mr. Westall</persName>&#8212;which
-I promise to deliver to him in <placeName>San Felipe de Austin</placeName>&#8212;
-<placeName><persName>David Tally</persName></placeName></p>
-<p><date when="1825-05-19">March, 19th, 1825.</date></p>
+<p><persName>WM   Brenaugh</persName></p>
+<p><persName>Mr. S. F. Austin
+</persName></p>
+<p><placeName>Texas</placeName></p>
 
 
         </div1>
