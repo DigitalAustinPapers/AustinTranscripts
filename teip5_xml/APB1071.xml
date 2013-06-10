@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1071">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Governor Rafael Gonzales, 04-04-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-02">06-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Governor Rafael Gonzales
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1065-1067
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-04-04">04-04-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">First contract for 300 families filled. Three hundred more anxious to come. Many petitions from Louisiana, 
+Mississippi, and Alabama. Some already arrived, and some on the road. Has expelled some bad characters from the colony, and they have spread damaging reports about the colony. Government will not be deceived. Petition for permit to settle 500 additional families. Argument: (1) The 300 families already settled too weak for adequate defense against Indians&#8212;need reinforcements; (2) vacant lands between settlers in his colony should be distributed by himself to avoid conflicting claims; (3) if the port of Galveston is opened,
+the settlers can not get full advantage from it without additional colonists;(4) the country can only be enriched by foreign trade, and must have more population in order to produce enough commerce to attract foreigners. Suggests that new settlers be allowed to bring slaves and keep them and their descendants as slaves. Otherwise the immigrants will be confined to the poorest class and development of the province will be much delayed.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><persName>Citizen Stephen F. Austin</persName>, <persName>Lieut. Colonel of the National Militia</persName>,
+of the <placeName>river Brazos</placeName> and <placeName>Colorado</placeName>, <persName>Judge ad interim for the administration of justice, and Empresario of this Colony</persName>.&#8212;Most 
+respectfully represents to your <persName>Excellency</persName>, that:</p>
+<p>having already completed the settlement of the three hundred<persName>
+families</persName> which the <persName>Supreme Government of Mexico</persName> authorized me
+to introduce into this <placeName>Province of Texas</placeName>. Application is made to
+me daily to receive and settle more <persName>families</persName>, as <persName>colonists</persName>, some of
+which have already arrived here, others are on the road, and have
+written to me, besides a number amounting to nearly three 
+hundred, who have applied to me from <placeName>Louisiana</placeName>, <placeName>Mississippi</placeName>, and 
+<placeName>Alabama</placeName>. The only reply I have made at present to them, is, that I
+would make their applications known to the Supreme Government
+of the State, Stating to them, that it is out of my power to grant
+them license or permission to occupy or appropriate any land 
+whatever, in the <placeName>district</placeName> under my charge, until the resolution of the
+Government should be known. Among the applicants, are some
+few of bad repute, these I have ordered to depart forthwith out
+of the limits of this <placeName>Jurisdiction</placeName>; a measure of Executive Police
+which circumstances required me to take, to preserve good order,
+and tranquility among these worthy <persName>Colonists</persName>, in consequence of
+which, that class of people are very much irritated against me, and<pb n="1066"/>
+under the excitement, disseminating infinite calumnies, and raising
+false reports, relative to my conduct and authority; but I feel 
+perfectly secure under the conviction, that the <persName>Government</persName>, taking into
+consideration the great injury which would result from the 
+introduction of such <persName>characters</persName>, will approve the course I have pursued
+in this instance; thereby preventing such <persName>persons </persName>from 
+incommoding these <persName>Colonist</persName> hereafter; and at the same time, promote the
+progress of this section of the State generally.&#8212;I request the
+<persName>Supreme Government of the <placeName>State of Coahuila and Texas</placeName></persName>, in its
+acknowledged goodness to authorize me to settle the additional 
+number of five hundred<persName> families</persName> on the <placeName>lands which remain vacant upon
+the rivers San Jacinto, Brazos, and Colorado</placeName>, and their <placeName>tributaries</placeName>,
+and <placeName>on the Island and Bay of Galveston</placeName>, with full power to expel
+from this jurisdiction, all <persName>persons </persName>of notoriously bad character,
+who in future may immigrate hither. The arguments I offer in
+support of this petition are:</p>
+
+<p>1st&#8212;The number of <persName>three hundred families</persName> already legally settled
+is very small to sustain itself against the Savage <persName>Indians</persName>, who 
+surround us.</p>
+
+<p>2nd&#8212;It is important that the settlement of the <placeName>vacant lands </placeName>
+contiguous to, and adjoining those already distributed, should be effected
+through the same <persName>Empresario</persName>, or <persName>authority </persName>who surveyed and 
+distributed the lands to the present <persName>Colonists</persName>, in order to prevent all
+clashing or dispute between the <persName> new and oldColonists</persName>, with regard
+to their <placeName>lines and boundaries</placeName>; likewise, by these means, to form in
+this <placeName>town </placeName>a general and minute Record of all the lands distributed
+within this jurisdiction; a matter of the greatest importance in
+ preventing hereafter, even the possibility of doubts, or disputes, in 
+relation to titles.</p>
+
+<p>3rd&#8212;Should the National <persName>Government</persName> make a <placeName>port of entry</placeName> of 
+<placeName>Galveston</placeName>, the advantages of sales which would result therefrom, will
+not be realized from it unless <persName>Colonists</persName> settle there, and in its 
+immediate <placeName>neighborhood</placeName>, and inasmuch as I was the first who proposed
+this matter to the <persName>Government</persName>, I entreat the <persName>Government of the
+State</persName> to do me the honor of effecting its settlement, and 
+completing its establishment.</p>
+
+<p>4th&#8212;Nothing but foreign commerce, particularly the exportation
+of cotton to <placeName>Europe</placeName>, can enrich the <persName>inhabitants </persName>of <placeName>this section of the
+State</placeName>; and this cannot be expected without an increase of population,
+and physical force; for without this, <persName>Capitalists</persName> will not undertake
+to enter into it, with vessels of sufficient size, for <placeName>European</placeName> 
+Commerce ; and to obtain these great benefits to the full extent that would
+indubitably result to the <placeName>nation</placeName>, by the enterprise and industry of<pb n="1067"/>
+these new <persName>colonists</persName>, it is in my opinion a matter of the greatest 
+importance, to authorize the <persName>emigrants</persName> to bring in their <persName>Slaves</persName> and 
+<persName>Servants</persName> ; and that the right of property in these <persName>servants</persName> so introduced,
+as well as their <persName>descendants</persName>, be guaranteed to them by law; for 
+with-out this security, we cannot expect <persName>colonists</persName> with large and 
+competent means, nor can we have hands for the cultivation of Cotton
+or Sugar; and consequently these <placeName>fertile lands</placeName>, instead of being
+occupied by <persName>wealthy planters</persName>, will remain for many years, in the
+hands of mere <persName>shepherds</persName>, or poor <persName>people</persName>, who will scarcely raise a
+sufficiency for the sustenance of their <persName>families</persName>, without any 
+over-plus of sufficient importance to give an impulse to active <placeName>foreign </placeName>
+commerce.&#8212;Therefore, I pray the <persName>Government </persName>of the <placeName>State of Coahuila
+and Texas</placeName>, to grant me authority to settle Five hundred <persName>families
+</persName>more, at the places above mentioned.</p>
+<p><placeName>Town of San Felipe de Austin</placeName>,<date when="1825-04-04"> 4th April 1825.</date></p>
+
+<p>Most Excellent Sir, </p>
+<p><persName>Stephen F. Austin.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
