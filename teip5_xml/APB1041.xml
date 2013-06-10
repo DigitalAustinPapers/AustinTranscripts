@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1034">
+xml:id="APB1041">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Thomas Hooper to Stephen F. Austin, 02-02-1825</title>
+            <title>William Anderson  to Stephen F. Austin, 02-15-1825</title>
             <author>
-                <persName>Thomas Hooper</persName>
+                <persName>William Anderson, </persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB1034">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-05-28">05-28-2010</date>
+            <date when="2010-05-29">05-29-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        Stephen F. Austin(
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB1034">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Alexandria, Louisiana</placeName>
+                    <placeName type="origin">Wilkenson County, Miss</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1033-1034
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1043-1044
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,42 +69,37 @@ xml:id="APB1034">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1825-02-02">02-02-1825</date>
+            <date when="1825-02-15">02-15-1825</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-05-28" who="#DL">Digital creation of XML file</change>
+        <change when="2010-05-29" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Emigration from Louisiana.</add></p>
+            <p><add hand="#barker">Land.</add></p>
         </div1>
         <div1 type="body">
             
-<p><placeName>Alexandria</placeName> <date when="1825-02-02">February the 2nd 1825</date></p>
-<p>Dear sir</p>
+<p><placeName>Wilkenson. C°. Miss.</placeName> <date when="1825-02-15">15 Feby 1825</date>.</p>
+<p><persName>Stephen F. Austin Esq.</persName></p>
 
-<p>I beg leave to introduce to your acquaintance <persName>Mr. J. H. Shropsher</persName>
-an acquaintance of mine and who you will find to be a gentleman
-he is going on to the <placeName> enteria [interior]</placeName> on a trading expedishion he
-will want some infirmation of you which I hope you will give all
-that you can as I feel much intrusted in his favour and in so 
-doing you will confer a remembered [kindness.] Sir agreeable to
-promis I expect to come to your <placeName>cuntry</placeName> and am happy to informe
-that <persName>Majr. Thomas</persName> his father inlaw <persName>Majr. Bullard</persName> and his <persName>brother</persName>
-and <persName>Col. Cram</persName> of this place and two or three other <persName>gentlemen </persName>from<pb n="1034"/>
-this place will accompany me to look at your <placeName>country </placeName>I feel 
-sattisfyed that I shall moove to your <placeName>cuntry</placeName> and beg leave to remind
-of your promis to me respecting my land I hope you will he 
-perticular in the choice of the <placeName>leage down on the tide watter</placeName> and get it
-as low down as posable give my respects to <persName>Col Gross</persName> and <persName>family</persName>
-if an opertunity permits</p>
+<p>Dear Sir I avail myself of the return of <persName>Mr Huff</persName> to your
+<placeName>Settlement</placeName>, to acknowledge the receipt of your communication to
+me through him. I am extremely anxious to visit you and examine
+the soil of your<placeName> Lands</placeName>, of which I have had the most favorable 
+reports, and unless prevented by circumstances beyond control shall
+have that pleasure, in the course of the coming <date n="spring -1815">Spring</date> or <date n="Summer-1825">Summer</date>,<pb n="1044"/>
+I shall come prepared to secure to myself your friendly offer of Land
+and which you will please retain for me</p>
 
-<p><persName>Thos Hooper</persName></p>
+<p><persName>WM- Anderson</persName></p>
+
+
 
 
         </div1>
