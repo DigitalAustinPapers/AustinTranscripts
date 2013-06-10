@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0783">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 06-22-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 838-839
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Militia Orders</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-22">06-22-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Organization of militia battalion. Militia officers.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>In conformity with the decree of the <persName>Superior Government of the
+<placeName>Mexican Nation</placeName></persName> dated at the <placeName>City of Mexico</placeName> the <date when="1823-02-18">18 day of February
+1823</date> and in complyance with the commission and instructions issued
+to me by<persName> Brigidier General Don Felipe de la Garza Commandant
+General of the <placeName>Eastern Internal Provinces</placeName></persName> dated at the city of
+<placeName>Monterrey </placeName>the <date when="1823-06-16">16 day of June 1823</date> whereby I am fully empowered
+and ordered to form a <persName>Battalion of Militia</persName> in this <placeName>Colony </placeName>so soon
+as the number would justify it and to command the same with the
+rank of <persName>Lieutenant Colonel</persName> until the organization of this <placeName>Colony </placeName>is
+finally completed and the <persName>Militia </persName>are regulated by the Ayuntamientos
+agreeably to the laws on that subject; and considering that our
+numbers are sufficient to form a Battalion and that the public
+security requires it I have thought proper to order that a <persName>Battalion</persName>
+shall be immediately organized in the following manner&#8212;to 
+continue untill the Government order otherwise, or untill the 
+augmentation of numbers may require an alteration&#8212;</p>
+
+<p>1&#8212;-The <persName>Militia on the <placeName>Brazos River</placeName></persName> and its waters <placeName>above the
+Coshatta road</placeName> will form the <persName>first company</persName>&#8212;</p>
+
+<p>2&#8212;The <persName>Militia </persName>on the said <placeName>Brazos River</placeName> and its waters from the
+<placeName>Coshatta road</placeName> to the <placeName>upper line of League No 22</placeName> including the <placeName>East
+bank of the Bernard </placeName>to opposite the 22d League on a west course,
+will form the <persName>second Company</persName>&#8212;</p>
+
+<p>3&#8212;The <persName>militia </persName>on said <placeName>Brazos River</placeName> and its waters from the <placeName>lower
+line of the 2d Company to the Sea Shore</placeName> and as <placeName>far East as the
+Chocolate Bayou</placeName> and including <placeName>both banks of the Bernard</placeName> from
+the <placeName>Mound </placeName>down will form the <persName>third company</persName>&#8212;</p>
+
+<p>4&#8212;The <persName>Militia </persName>on the <placeName>Colorado River</placeName> and its waters above a west
+south west line that will pass through the <placeName>Eagle Lake</placeName>, as far west as<pb n="839"/>
+<placeName>Labaca</placeName>, and including all the <placeName>waters of the Bernard north of the
+Coshatta road</placeName> will form the <persName>fourth Company</persName> &#8212;-</p>
+
+<p>5&#8212;The <persName>Militia </persName>on the said <placeName>Colorado River</placeName> and its waters <placeName>South
+of the <persName>4th Company</persName></placeName>, as far west as <placeName>La Baca</placeName> and including both
+<placeName>banks of the Bernard</placeName> from the lower line of the <persName>2d Company </persName>down
+to the <placeName>Mound </placeName>and the <placeName>settlements of the Bay Prairie</placeName> will form the
+<persName>fifth Company</persName>.</p>
+
+<p>Agreeably to the <persName>Militia </persName>law of the <placeName>Mexican Nation</placeName> a full <persName>company
+of Militia</persName> consists of from 60, to 100 men with 1 <persName>Captain</persName>, 4
+<persName>Lieutenants</persName>, 5 <persName>Sergeants </persName>12 <persName>Corporals </persName>2 <persName>drummers </persName>and 1 <persName>fifer</persName>&#8212;
+The <persName>officers </persName>and <persName>non commissioned officers</persName> will therefore be regulated
+in this <persName>Battalion </persName>according to this standard in proportion to the
+strength of the respective <persName>Companies</persName>&#8212;and therefore when the 
+<persName>Company </persName>consists of less than 60 and more than 45 men the <persName>officers </persName>will
+be 1 <persName>Captain </persName>3 <persName>Lieutenants</persName>, 4 <persName>Sergeants </persName>6 <persName>corporals </persName>1 <persName>drummer </persName>1
+<persName>fifer</persName>&#8212;when the <persName>Company </persName>consists of less than 45 and over 30 the
+officers will be 1 <persName>Captain</persName>, 2, <persName>lieutenants</persName>&#8212;3 <persName>Sergeants </persName>and 4 
+<persName>corporals</persName>&#8212;under 30 men will form <persName>detachments </persName>and be commanded
+by 1 <persName>Lieutenant </persName>and the necessary number of <persName>non commissioned
+officers</persName>&#8212;</p>
+
+<p>The <persName>staff </persName>consists of the <persName>Lieutenant Colonel Commandant</persName> one
+adjutant with the rank of <persName>captain</persName>, one sub-adjutant with the rank of
+<persName>Lieutenant</persName>&#8212;one <persName>standard bearer</persName> or Ensign&#8212;One <persName>quarter master
+sergent</persName> and one <persName>surgeon</persName>&#8212;All the Company <persName>officers </persName>and <persName>non 
+commissioned officers</persName> will be elected by the men of the respective 
+<persName>Companies</persName>&#8212;<placeName>San Felipe de Austin</placeName> <date when="1823-06-22">June 22. 1823</date> [1824]</p>
+
+<p><persName>Stephen F. Austin
+Lieut. Col. of Militia</persName></p>
+
+<p><persName>MILITIA OFFICERS</persName></p>
+
+<p>[June 22, 1824.]</p>
+
+<p><persName>Andrew Robinson Capt. 1 Company Militia</persName>
+<persName>Samuel S Brown 1 Lieut</persName>       do      do
+<persName>Jas. Alexander 2d Lieut</persName>
+<persName>Simon Miller 3 Lieut</persName>
+<persName>Horacio Chrisman Capn 2d Compy</persName>
+<persName>Seth Ingram 1 Lieut</persName>   do  do
+<persName>James Baird 2</persName>   do      do
+<persName>John McClosky 3</persName> do      do
+<persName>Randal Jones Cap 3d Compy</persName>
+<persName>David Shelby 1 Lieut</persName> do
+<persName>Jesse Burnham Capn. 4th compy.</persName>
+<persName>John Hadden 1 Lieut </persName>     do
+<persName>Amos Rawls Capn. 5 Compy</persName>
+<persName>Thos Rabb 1 Lieut</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0779">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 06-20-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 836
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-20">06-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks for a priest, or for authority to perform civil marriages.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>As there are several persons who wish to be married, and several
+<persName>children </persName>to be baptized, I request you to be pleased to send the
+<persName>Padre, Refugio de la Garza</persName>, for this purpose, to avoid the bad 
+consequences that result from delay in such cases. If the <persName>Padre </persName>can not
+come, let him give me the necessary authority to perform a kind
+of provisional marriage until he arrives; otherwise serious evils may
+result.</p>
+
+<p>God and Liberty.</p>
+
+<p><persName>Estevan F. Austin</persName>.</p>
+
+<p><date when="1824-06-20">June 20th, 1824</date>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

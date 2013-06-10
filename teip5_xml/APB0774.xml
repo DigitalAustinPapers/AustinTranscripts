@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0774">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Amos Rawls to Stephen F. Austin, 06-13-1824</title>
+            <author>
+                <persName>Amos Rawls</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 830-831
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-13">06-13-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Karankawa Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Lieut. Col. Stephen F. Austin</persName></p>
+
+<p>Deare Sir an express Been [being] Sent to me on <date when="1824-06-13">Sunday the 13
+</date>I Amediately Raise the men Belonging to my Detachment and went
+to the place where <persName>Mr Kirkingdoll</persName> Son Said that he Saw Some
+<persName>Indians </persName>a dresing Some meate when the <persName>indians </persName>Saw the <persName>Boy </persName>he
+says one of the <persName>indians </persName>shoot an arrow at him when he whealed about
+to Ride of I went to the place and found that the <persName>Indians </persName>had kild
+a small Beef of <persName>Mr Kirkingdoll</persName> with in three hundred yards of his
+house then taking ther traile I followed them to the Grousing of
+the <placeName>Colorado  </placeName>ther I found the <persName>Indians </persName>Campt on the <placeName>west side of the<pb n="831"/>
+River</placeName> <placeName>under the Bank</placeName> as soon as the <persName>indians </persName>saw the men they
+tuck up there Bows and went up the <placeName>Bank in the cane</placeName> they didant
+appeare to Be any way alarmed the men then Crosse the River
+up above a Small distance and dismounted then pressing on one
+of the <persName>indians </persName>shot an arrow and wounded <persName>Mr Jackson</persName> in the arme
+and was in the act of shooting of another when <persName>Mr. Clarke</persName> Shot
+him and kild him the other <persName>indians </persName>then keeping in the Cane we had
+now chance to git at them I then had there horses taken three in
+number and thire Baggage consisting of two cases of arrows one
+Bow and one Saddle and the Beef that they had taken with other
+things two tedious to mention</p>
+
+<p>the Bow and the arrows was of the <persName>Krankaways </persName>make and the <persName>indian</persName>
+that was killed was a <persName>Krankaway </persName>and further more they show a
+Disposition to Brake in upon the <placeName>Settlement </placeName>for when the men had
+crossed the River Back and a Riding Down the Beach their was one
+arrow Shot amoung the men a Cross the River then they hollowed
+out in some Languague that we could not understand I then had them
+Cawled in spannish But they wold make know answer in consequence
+I wish you to send on the men that was to come over on the 20 for
+to Come over on the 15 as we Left the <persName>indians </persName>just a Cross the River
+three or foure Smokes has Beane seen on the <placeName>west Side of the River</placeName>
+on <date when="1824-06-10">friday </date>and <date when="1824-06-11">Saturday </date>Last</p>
+<p>this the <date when="1824-06-13">13 day of June 1824</date></p>
+
+<p><persName>Amos Rawls
+Commander of the Detachment</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

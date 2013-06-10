@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0786">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel Norris to Stephen F. Austin, 06-24-1824</title>
+            <author>
+                <persName>Samuel Norris</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 841
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-24">06-24-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judiciary.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdoches </placeName><date when="1824-06-24">June 24th 1824</date></p>
+<p><persName>Col. Austin</persName></p>
+
+<p>Sir since I came from <placeName>Atoscoeete </placeName>a <persName>Mr McCoy</persName> has applyed to
+me for justice wishing me to make those <persName>French jentlemen</persName> pay him
+his wages having turned him [off] without any reason, only his not
+being able to attend to his business one day they are so far advanced
+on their road and he is going into your <placeName>Colony </placeName>I wish you to give
+him a fair tryal he has his witnesses with the waggons if he applys
+for it.</p>
+
+<p><persName>Samuel Norris</persName>    [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
