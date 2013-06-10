@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0789">
+xml:id="APB0800">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>William Trimble to Stephen F. Austin, 06-26-1824</title>
+            <title>Sylvenus Castleman to Unknown, 07-10-1824</title>
             <author>
-                <persName>William Trimble</persName>
+                <persName>Sylvenus Castleman</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB0789">
 
                 <person>
                     <persName type="recipient">
-                        Stephen F. Austin
+                        Unknown
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0789">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Hemstead County, AR</placeName>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 842
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 851
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,17 +59,17 @@ xml:id="APB0789">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Election Return</channel>
             <constitution type="single"/>
             <derivation type="original"/>
-            <domain type="domestic"/>
+            <domain type="public"/>
             <factuality type="fact"/>
             <interaction type="none"/>
             <preparedness type="prepared"/>
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-06-26">06-26-1824</date>
+            <date when="1824-07-10">07-10-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,25 +81,28 @@ xml:id="APB0789">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Introducting Green DeWitt.</add></p>
+            <p><add hand="#barker">Militia election return.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><placeName>Hemstead County [Arkansas]</placeName> <date n="0-26-1824">June 26th 1824</date></p>
-<p>Dr Sir</p>
+<p>Election held at the Town of <placeName>San Felipe de Austin</placeName> for the <persName>Officers
+of the 2nd Company</persName> <date when="1824-07-10">July 10th 1824</date></p>
 
-<p>I have formed a flew days acquaintance with <persName>Green Dewit</persName> beside
-the Recommendation of those of my <persName>neighbours </persName>who have been long
-acquainted with him and I am indused as a friend to his character to
-say that he is a gentleman in whome every confidence can be placed&#8212;
-and any favour you can do him will be kindly Received and 
-remembered by your friend and humble svt</p>
+<p><persName>Captain, Horatio Christman</persName> 46; <persName>1st Lieut. Seth Ingram</persName> 26; <persName>2nd
+Lieut James Baird</persName> 29; <persName>3rd Lieut John McCroskey</persName> 28; <persName>Sargents</persName>
+<persName>L. T. Kenney 1st</persName>, <persName>W Selkirk 2nd</persName>, <persName>J Cook 3rd</persName>, <persName>C Garret 4</persName>; <persName>Corporals</persName>
+<persName>B. Fulcher</persName> (?), <persName>J. Williams</persName>, <persName>J Hensley</persName>, <persName>J Kalahan</persName>, <persName>R Roy 5th</persName>,
+<persName>J. F. Tong 6th</persName></p>
 
-<p><persName>William Trimble<lb/>
-Judge of the 3rd Judicial Circuit
-for the <placeName>Territory of Arkansas</placeName></persName>&#8212;</p>
-<p><persName>Stephen F Austin</persName> and any person to whome it my be handed&#8212;</p>
+<p>I certify that the within is a true Record of the election for
+commissioned and non commissioned <persName>officers </persName>in the <persName>2nd Company
+of Militia</persName> held on <date when="1824-07-10">Saturday this 10th Inst</date>, before me</p>
+
+<p><persName>Sylvenus Castleman <hi rend="italic">Alcalda</hi></persName></p>
+
+<p><placeName>San Felipe de Austin</placeName>   <date when="1824-07-10">July 10th 1824</date></p>
+
 
         </div1>
     </body>

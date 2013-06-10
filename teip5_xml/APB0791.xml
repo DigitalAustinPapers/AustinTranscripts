@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0791">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Powers of Commissioners to Waco Indians, 06-xx-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Powers of Commissioners to Waco Indians
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 843-844
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06">06-xx-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Powers to make treaty.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[June &#8212; 1824.]</p>
+<p>The <persName>inhabitants </persName>living in the <placeName>Colony </placeName>formed by the <persName>Empresario
+Stephen F. Austin</persName> on the <placeName>Brazos and Colorado Rivers</placeName> in the
+<placeName>Province of Texas</placeName> being desirous to be and for ever remain in
+perfect peace and harmony with all the tribes of <persName>Indians</persName>, and 
+cosidering that the <persName>Wecos </persName><persName>Tawacaneys </persName>and <persName>Toweasses </persName>on the <placeName>Brazos</placeName><pb n="844"/>
+are our nigh <persName>neighbors </persName>and that the mutual convenience and interest
+of the <persName>settlers </persName>as well as of those <persName>Indians </persName>requires that the most
+perfect friendship and harmony should prevail between them, and
+that a clean commercial intercourse should be established and kept
+up between this <placeName>Colony </placeName>and those <persName>Indians </persName>which it has been 
+represented is the sincere wish and desire of the <persName>chief of those tribes</persName>.</p>
+
+<p>Therefore I <persName>Stephen F. Austin Lieut Col of Militia Empresario
+of this <placeName>Colony</placeName></persName> charged with the administration of its civil affairs
+and the preservation of good order do by these presents appoint
+                   as <persName>Commissioners </persName>to visit said <persName>Indians </persName>on the
+part of the <persName>inhabitants </persName>of this <placeName>Colony </placeName>and to represent to them
+that our objects in settling in this country are purely of an 
+agricultural nature, that we have settled under the authority and by the
+permission of the <persName>Supreme powers of the <placeName>Mexican nation</placeName></persName>, that we
+view all the <persName>Indians tribes</persName> as our <persName>friends </persName>and <persName>brothers </persName>and wish
+to live in peace and trade freely with all, and as the <persName>Wecos </persName>and
+their <persName>neighbors </persName>and the <persName>Mexicans </persName>have always been <persName>friends </persName>we wish
+to establish a friendly understanding with them and offer them our
+hands as <persName>brothers</persName>, who will be always willing to trade with them
+and receive them as our <persName>friends</persName>&#8212;and that there may arise no 
+misunderstanding on the subject the <persName>settlers </persName>have sent up the said
+to talk with them and form a lasting treaty
+of peace and friendship for ever&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

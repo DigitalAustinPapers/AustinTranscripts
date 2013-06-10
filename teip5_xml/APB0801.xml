@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0801">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Sylvenus Castleman to Colonists, 07-12-1824</title>
+            <author>
+                <persName>Sylvenus Castleman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 852
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proclamation</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-07-12">07-12-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Applicants for land must present themselves by November 1, 1824.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Public Notice</p>
+
+<p>It hereby given to all persons whatever whether in this <placeName>Province</placeName>
+or in the <placeName>United States</placeName> or elsewhere whom I have either verbally
+or otherwise promised to receive as <persName>Settlers </persName>in the <placeName>Colony </placeName>formed
+by me on the <placeName>Brazos and Colorado Rivers</placeName> in the <placeName>Province of Texas</placeName>
+And as such to Secure them lands&#8212;that unless they come forward
+and apply for said lands on or before the <date when="1824-11-01">1st day of Novr. next</date> I
+shall consider myself for ever exonerated from all such promises
+And shall not reserve Land for them longer than up to that period</p>
+
+<p><placeName>Province of Texas</placeName> <placeName>San Felipe de Austin</placeName> <hi rend="italic"><date when="1824-07-12">July 12th 1824</date></hi></p>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+
+<p>Be it Remembered that I <persName>Sylvanus Castleman Alcalde of the 
+<placeName>District of San Felipe de Austin</placeName></persName> at the request of <persName>Stephen F Austin</persName> did
+on this day put up an exact Copy of the Within Notice Signed by
+said <persName>Austin </persName>in my presence in the Most public place of the Town
+of <placeName>San Felipe de Austin</placeName></p>
+
+<hi rend="italic"><date when="1824-07-12">July 12th 1824</date></hi>
+
+<p><persName>Sylvenus Castleman</persName></p>
+
+<p><persName>Witness </persName>present    <persName>Samuel M. Williams </persName>   [Rubric]
+<persName>Lau Rich Kenny</persName></p>
+
+<p>Be it Remembered that I <persName>James Cummins Alcalde of the <placeName>District
+of Colorado</placeName></persName> at the request of <persName>Stephen F Austin</persName> did on this day put
+up an exact Copy of the Within Notice (Syned by said <persName>Austin </persName>in my
+presence) in the most public place in said <placeName>District</placeName></p>
+
+<p><hi rend="italic"><date when="1824-07-13">July 13th 1824</date></hi>.</p>
+
+<p><persName>James Cummins</persName>    [Rubric]</p>
+
+<p>Be it Remembered that I <persName>John P Coles Alcalde of the <placeName>Brazos 
+district</placeName></persName> at the request of <persName>Stephen F Austin</persName> did on this day put up an
+exact copy of the within notice (signed by said <persName>Austin </persName>in my 
+presence) in the most public place in said <placeName>District</placeName></p>
+
+<p><hi rend="italic"><date when="1824-07-16">July 16th 1824</date></hi></p>
+
+<p><persName>Jno P Coles</persName>    [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
