@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1091">
+xml:id="APB1092">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F. Austin to Berry and Battle Dr., 05-xx-1825</title>
+            <title>William Blanks to Stephen F. Austin, 05-01-1825</title>
             <author>
-                <persName>Stephen F. Austin</persName>
+                <persName>William Blanks</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,13 +33,7 @@ xml:id="APB1091">
 
                 <person>
                     <persName type="recipient">
-                        Berry 
-                    </persName>
-                </person>
-
-                <person>
-                    <persName type="recipient">
-                        Battle Dr.
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -47,10 +41,10 @@ xml:id="APB1091">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Buffalo Bayou, Texas</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
                 </place>
             </listPlace>
             <bibl>
@@ -65,7 +59,7 @@ xml:id="APB1091">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Bill</channel>
+            <channel mode="w">Letter</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -75,7 +69,7 @@ xml:id="APB1091">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1825-05">05-xx-1825</date>
+            <date when="1825-05-01">05-01-1825</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -87,19 +81,29 @@ xml:id="APB1091">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Bill for carpentering.</add></p>
+            <p><add hand="#barker">Fear of contest over his land.</add></p>
         </div1>
         <div1 type="body">
             
-<p><persName>Col. Stephen F. Austin</persName> to <persName>Berry </persName>and <persName>Battle </persName>Dr</p>
 
-<p><date n="xx-xx-1825">1825</date></p>
-<p><date n="02-xx-1825">Feby</date>.         Making a desk for the <placeName>Office</placeName>, in trade____________________    $50</p>
-<p>repairs on the <placeName>new house</placeName>-__________________     12</p>
-<p><date when="1825-03-19">March 19</date> Making a rough Door to the <placeName>Office</placeName>______________________       2. 50</p>
-
-<p><date n="04-xx-1825">Apl</date>.     12 Making a small book case_______________________________     10</p>
-<p><date n="05-xx-1825">May</date>,      1 Bee payment in full___________________________________   $74. 50</p>
+<p><placeName>Buffalow Bayou</placeName> <date when="1825-05-01">May 1st 1825</date></p>
+<p>Honorable Col I Expect to leave here in a few days for 
+<placeName>Tuckapaw</placeName> and I wish to inform you of my oneasiness I met with a
+young <persName>man </persName>on <placeName>buffalow bayou</placeName> by the name of <persName>Clair </persName>he was just
+from <placeName>tuckapaw</placeName> came in company with <persName>Mr Garner</persName>, and I was
+speaking of my half league at <placeName>Dickson's Camp</placeName> and he enquired
+if it was surveyed and I said nay, and he said he was the first man
+that improved it, and talkd of contending for it, and I do not know
+how long it has been since he quit the place, but I Expect two
+years I told him that the barings of the timber was taken and
+the beginning corner was establish, and he said he did not know that
+he should contend&#8212;I do not wish to be cut out of that piece by
+know means for it is all that I think much of, and if you think there
+is any dainger, I will give <persName>Mr. Ingram</persName> some thing Cleaver to have
+it surveyd, or in other words maid safe, if it is not safe, I hope you
+under stand me;</p>
+<p><persName>W M Blanks</persName>,</p>
+<p>[Addressed:]<persName> Col S, F, Austin</persName> <placeName>San Felipi de Austin</placeName>.</p>
 
 
         </div1>

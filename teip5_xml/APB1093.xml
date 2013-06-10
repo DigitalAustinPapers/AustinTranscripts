@@ -3,11 +3,11 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1091">
+xml:id="APB1093">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F. Austin to Berry and Battle Dr., 05-xx-1825</title>
+            <title>Stephen F. Austin to People of the Colony, 05-01-1825</title>
             <author>
                 <persName>Stephen F. Austin</persName>
             </author>
@@ -33,13 +33,7 @@ xml:id="APB1091">
 
                 <person>
                     <persName type="recipient">
-                        Berry 
-                    </persName>
-                </person>
-
-                <person>
-                    <persName type="recipient">
-                        Battle Dr.
+                        People of the Colony
                     </persName>
                 </person>
 
@@ -54,7 +48,7 @@ xml:id="APB1091">
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1085
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1086
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -65,17 +59,17 @@ xml:id="APB1091">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Bill</channel>
+            <channel mode="w">proclamation</channel>
             <constitution type="single"/>
             <derivation type="original"/>
-            <domain type="domestic"/>
+            <domain type="public"/>
             <factuality type="fact"/>
             <interaction type="none"/>
             <preparedness type="prepared"/>
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1825-05">05-xx-1825</date>
+            <date when="1825-05-01">05-01-1825</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -87,19 +81,25 @@ xml:id="APB1091">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Bill for carpentering.</add></p>
+            <p><add hand="#barker">Militia election proclamation [about May 1, 1825?].</add></p>
         </div1>
         <div1 type="body">
             
-<p><persName>Col. Stephen F. Austin</persName> to <persName>Berry </persName>and <persName>Battle </persName>Dr</p>
 
-<p><date n="xx-xx-1825">1825</date></p>
-<p><date n="02-xx-1825">Feby</date>.         Making a desk for the <placeName>Office</placeName>, in trade____________________    $50</p>
-<p>repairs on the <placeName>new house</placeName>-__________________     12</p>
-<p><date when="1825-03-19">March 19</date> Making a rough Door to the <placeName>Office</placeName>______________________       2. 50</p>
+<p><date when="1825-05-01">[About May 1, 1825?]</date></p>
+<p>The <persName>militia </persName>composing the <placeName>upper Company on the Colorado </placeName>are
+notified to meet at the <placeName>home of <persName>R. Alley</persName></placeName> at <placeName>Tuscasite </placeName>on <date when="1825-05-07">Saturday</date>
+next for the purpose of electing a <persName>Captain </persName>in the place of <persName>Jesse
+Burnam</persName> whose term of service has expired.</p>
 
-<p><date n="04-xx-1825">Apl</date>.     12 Making a small book case_______________________________     10</p>
-<p><date n="05-xx-1825">May</date>,      1 Bee payment in full___________________________________   $74. 50</p>
+<p>The term for which the <persName>officers </persName>of the <persName>upper company</persName> on the
+<placeName>Colorado </placeName>were elected having expired the <persName>militia </persName>composing said
+<persName>company </persName>are notified to meet at the <placeName>house of <persName>R Alley</persName></placeName> at <placeName>Tuscsite</placeName>
+on <date when="1825-05-07">Saturday </date>next for the purpose of electing a <persName>Captain </persName>one <persName>Lieut</persName>.
+. . . and two <persName>Sergeants </persName>to command said <persName>Company </persName>for the 
+ensueing year.</p>
+
+<p><persName>[Stephen F. Austin.]</persName></p>
 
 
         </div1>

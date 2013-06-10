@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1099">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Governor H. Johnson to Stephen F. Austin, 05-09-1825</title>
+            <author>
+                <persName>Governor H. Johnson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-08">06-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Green D. Caller [Collier]
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1090
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05-09">05-09-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning recovery of 10 African negroes stolen from Alabama while under adjudication of
+Federal district court.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName>, <date when="1825-05-09">9th May, 1825.</date></p>
+<p>Sir:</p>
+
+<p><persName>Mr Green D. Caller [Collier]</persName>, who will present this letter, goes
+to the <placeName>Province of Texas </placeName>in pursuit of ten <persName>African negroes</persName> which
+were stollen and carried off from the State of <placeName>Alabama </placeName>in the year
+<date n="xx-xx-1821">1821</date>, and which are said to be in the said <placeName>Province</placeName>. The said <persName>slaws</persName>
+were captured by <persName>Lt. Y. Mckeever</persName> at <placeName>Pensacola </placeName>in the year <date n="xx-xx-1821">1818</date>,
+and were at the time of the theft under adjudication in the District
+Court of the <placeName>United States</placeName> for the<placeName> District of Alabama</placeName>.</p>
+
+<p>It is said they were stollen by <persName>Robert Caller</persName> out of the possession
+of his <persName>aunt</persName>, who is one of the principals to the bond of $100,000
+given for the forthcoming of the <persName>slaves </persName>at Court. The bearer of
+this letter, who is recommended to me as a man of respectability,
+is the <persName>son </persName>of the lady who had the <persName>slaves </persName>in possession, and feeling
+a deep interest in restoring them, has volunteered his services for
+the purpose.</p>
+
+<p>At the instance of a <persName>gentleman </persName>of this <placeName>State </placeName>of high respectability,
+who is acquainted with the circumstances of the case, I take the
+liberty to address you upon the subject, and to solicit your friendly
+aid and authority in securing the <persName>slaves </persName>so that they may be 
+restored to their rightful <persName>owners</persName>. <persName>Robert Caller</persName> is represented as a
+desperate character, and may attempt, if not prevented by 
+confinement, to rescue the <persName>slaves </persName>even at the risk of his life. It might
+perhaps be advisable, if satisfactory proof should be exhibited of
+his guilt, to send him back for trial to the place where the crime
+was committed.</p>
+
+<p><persName>H. Johnson, Gov. of the State of <placeName>Louisiana</placeName></persName>.</p>
+
+<p>His Excellency, <persName>Baron Bastrop, Governor of <placeName>Texas</placeName></persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
