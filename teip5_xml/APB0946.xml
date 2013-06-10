@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0939">
+xml:id="APB0946">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Green DeWitt to Stephen F. Austin, 12-06-1824</title>
+            <title>John Greig to Unknown, 12-20-1824</title>
             <author>
-                <persName>Green DeWitt</persName>
+                <persName>John Greig</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB0939">
 
                 <person>
                     <persName type="recipient">
-                        Stephen F. Austin
+                        Unknown
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0939">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">San Felipe de Austin,TX</placeName>
+                    <placeName type="origin">LaFayette, LA</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 987
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 992-993
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0939">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Certificate</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0939">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-12-06">12-06-1824</date>
+            <date when="1824-12-20">12-20-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,30 +81,24 @@ xml:id="APB0939">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Asking Austin's advice in applying for colonization contract.</add></p>
+            <p><add hand="#barker">Character certificate&#8212; Coatsworth P. Welborn.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>
-<placeName>San Felipe de Austin</placeName> <date when="1824-12-06">Decr 6th 1824</date></p>
-<p>Dear Sir</p>
+<p><placeName>State of Louisiana</placeName></p>
 
-<p>Since I saw you at <placeName>San Jacinto</placeName> I have concluded to proceed on
-to the seat of Government; and called to see you, but not find[ing]
-you at home I have taken the liberty of troubling you with this
-note, and beg the favor of you to write me and direct your letter to
-the care of <persName>Mr. Hickman at <placeName>Monterey</placeName></persName> where I shall wait the arrival,
-please inform me the shape in which my papers are forwarded
-and to what Department; also your passport; and any thing more
-that you can consistantly do to insure a permission of the 
-settlement petitioned for which I wish to locate some where in this
-<placeName>Province</placeName>; your compliance will ever be remembered by your friend
-and Humble Servant</p>
+<p><placeName>Parish of La Fayette</placeName></p>
+<p>This is to Certify that <persName>Coatsworth P. Welborn</persName> (the <persName>bearer </persName>of this)
+is a <persName>man of respect</persName> and Esteem among us, and I do not hesitate to<pb n="993"/>
+recommend him to the notice of any man or set of men, as deserving
+the good will and Esteem of all who may become acquainted with
+him</p>
 
-<p><persName>G. Dewitt</persName>    [Rubric]</p>
+<p>Given under my hand and seal this <date when="1824-12-20">20th day of Decr. 1824</date></p>
 
-<p><persName>Col Stephen F Austin</persName></p>
+<p><persName>John Greig</persName></p>
+<p><persName>Clk </persName>and <persName>J. P.</persName> for the <placeName>Parish </placeName>and State afd.</p>
 
         </div1>
     </body>
