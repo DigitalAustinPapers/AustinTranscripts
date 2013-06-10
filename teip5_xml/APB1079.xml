@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1079">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John K. Williams to Stephen F. Austin, 04-12-1825</title>
+            <author>
+                <persName>John K. Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-07">06-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1075
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-04-12">04-12-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agreement to sell land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><persName>JAMES  SARVER</persName>'s LAND</p>
+
+<p>Know all men by this article that I <persName>John K. Williams</persName> of the
+province of <placeName>Texas</placeName> now residing in <placeName>Austins Colony</placeName> on the <placeName>south
+fork of clear Creek</placeName> known by the name of <placeName>Taylers Byou</placeName> have sold
+and Convayd unto <persName>John Sarver</persName> and <persName>John Dickinson</persName> of the said
+<placeName>province</placeName> and <placeName>colony</placeName> a fore said my Labour and League of land
+for the consideration of one hundred dollars paid in Trade and
+Twelve good Seccond rate gentle Spanish horses well broke not
+over Eight nor under four years old, the said<persName> Williams</persName> binds
+himself <persName>heirs </persName>and so forth in the sum of two thousand dollars to
+make the said <persName>Sarver</persName> and <persName>Dickinson</persName> a good deed to hold the said
+land when paid for and also the said <persName>Sarver</persName> and <persName>Dickinson</persName> bind
+themselves in the sum of one thousand Dollars to pay the said
+<persName>Williams</persName> again the <date when="1826-05-25">twenty fift day of May next</date> if posable and
+if not as soon [as] they posabley can the said <persName>William</persName> binds
+himself to give said <persName>Sarver</persName> and <persName>Dickinson</persName> possession of the Sed
+Labour . . . improvements if required when paid for we the said
+<persName>Sarver and Dickinson</persName> agrees to pay all the government fees given
+under our hands this <date when="1825-04-12">Twelft day of April 1825</date>
+</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

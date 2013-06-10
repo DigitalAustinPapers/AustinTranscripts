@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1078">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Lewis to Stephen F. Austin, 04-11-1825</title>
+            <author>
+                <persName>Robert Lewis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-07">06-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Red Fish Bar, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1074
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-04-11">04-11-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade and transportation from New Orleans.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Schooner May of Orleans</placeName>, <placeName>Red Fish Bar</placeName></p>
+
+<p><date when="1825-04-11">April 11th 1825</date></p>
+<p><persName>Col. Austin</persName>, DSir,</p>
+
+<p>If My acquatence are sufficient, I beg leaf to introduce to your
+acquantence, <persName>Mr. Jessie Cartwright</persName>, from near<placeName> Woodville Misspi</placeName> a
+<persName>planter</persName> of hie respectibility. he wishes to become a settler in your
+<placeName>coliney</placeName>, you will no doubt, be pleasd with him on acquaitance,&#8212;we
+have had a teadious trip from <placeName>N. Orleans</placeName> <date when="1825-03-14">four weeks yesterday</date>
+since we left there, we have 36 <persName>passengers</persName>. I have upwards of $3000
+in goods some Grocer[io]s for this <placeName>country</placeName>, and goods for the 
+<placeName>Spanish Market</placeName>, I am auctions to git them to your <placeName>Town</placeName> as soon as
+possable, I should like to have waggons enough to take them all
+at one trip, in weight I have about 7500 or 8000 lbs. If you could
+send to waggons to Meet Me at the <placeName>ware house</placeName> I would take it
+as a particular favor,&#8212;The schooner draws upward of seven feet
+water she has to be lightened, it will be from 6 to 10 days
+before we can git to <placeName><persName>Docr. Hunter</persName>s,</placeName> then my good will [be ta]ken
+[to] • • • [immediately . . .</p>
+
+<p>I should like to know by the return of <persName>Mr. Cartwright</persName>, if I could
+depend on the waggons, if I can, I will send an express on My arrival
+at <persName>Docr. Hunter</persName>s to let then now what day to meet me at the
+<persName>warehouse</persName></p>
+
+<p><persName>Robert Lewis </persName>   [Rubric]</p>
+
+<p>P. S.    I have a letter for <persName>Mr. William</persName>, from his <persName>Brother</persName>, and
+a Book a Leger or register.    </p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
