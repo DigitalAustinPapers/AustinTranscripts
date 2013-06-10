@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0725">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Josiah H. Bell, 04-20-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Josiah H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 770-771
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-04-20">04-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for taking oath to acta constitutiva and electing Bastrop.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>Sir Enclosed I send you a translation of the Constitutional Decree
+of the Sovereign <persName>Congress </persName>of the <placeName>Mexican nation</placeName> establishing the
+form of Government also I send you a proclamation of the <persName>Political
+Chief of this <placeName>Province</placeName></persName> to the <persName>inhabitants of this <placeName>Colony</placeName></persName>, and an
+address of my own to the <persName>Settlers</persName>&#8212;</p>
+
+<p>The <persName>Political Chief of the <placeName>Province</placeName></persName> by his official letter dated the
+<date when="1824-03-18">18 March last</date> has ordered that all the <persName>inhabitants of this <placeName>Colony</placeName></persName>
+should swear to the Constitutional Act, and to the Federal 
+Republican System of Government and considering the extent of this 
+district and the inconvenience which the <persName>inhabitants </persName>of the <placeName>lower part</placeName>
+of it would experience if they wrere compelled to come to this place,
+I have thought proper to convene them at the <placeName>house of <persName>J. B. Baily</persName>
+</placeName>on <date when="1824-05-01">Saturday the first day of May next</date>, as you will perceive by the
+enclosed notices which you will put up without delay</p>
+
+<p>Should the <persName>Alcalde </persName>of this district not attend you are hereby 
+appointed to act on the <date when="1824-05-01">1st. of May</date> in his place, and you will 
+accordinly first read to the people this letter&#8212;then the Constitutional act&#8212;
+then the Proclamation of the <persName>Political Chief of the <placeName>Province</placeName></persName>, and
+then my address to the <persName>settlers</persName>&#8212;you will then state to them the <hi rend="italic">oath</hi>
+which is in these words&#8212;" you swear to observe and obey the 
+Constitutional Act of federation of the <placeName>Mexican Nation</placeName> " to which they
+will all answer " yes we swear " and then let them give three cheers,
+fire a salute of small arms, or any other demonstration of joy and
+rejoicing that may be deemed proper by the people&#8212;   The oath need<pb n="771"/>
+not be given to them seperately but to all at once collectively, this is
+the custom in this <placeName>nation </placeName>on such occasions</p>
+
+<p>I have also ordered an election at the same time for a <persName>Lieutenant
+of militia for the <placeName>lower division of this District</placeName></persName>, who will be 
+governed by the instructions given to you&#8212; This I do that the 
+<persName>inhabitants </persName>of that <placeName>settlement </placeName>may not even have a shadow of pretext to
+complain of their <persName>officers</persName>, for altho the <persName>superior Government</persName> have
+ordered me to oppoint <hi rend="italic">all </hi>the militia officers, yet I have no wish to
+do so, as some captious persons in the <placeName>Colony </placeName>seem to think&#8212;</p>
+
+<p>The returns must be sent to me as soon as possible, and you will
+resign the command to the person elected&#8212;</p>
+
+<p>You will as soon as possible send me an account of your 
+proceedings under this order that I may make up my report to the 
+<persName>Government</persName></p>
+
+<p>God and Liberty, Union and happiness</p>
+
+<p><placeName>St Felipe de Austin</placeName> <date when="1824-04-20">April 20 1824</date></p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+<p>To <persName>Josiah H. Bell Pol. Chief</persName></p>
+
+<p>You will have the enclosed power for the <persName>Baron </persName>signed without
+delay and send it back by <persName>Captain Gaines</persName>, as they are wating for
+it at <placeName>St Antonio</placeName>&#8212;there is not time to call the people together and
+have an election and we could not do better than to appoint the <persName>Baron</persName></p>
+
+<p><persName>Austin </persName>[Rubric]</p>
+
+<p>request <persName>Gaines </persName>as he comes back to get the people at the <placeName>Fort </placeName>to
+sign it&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

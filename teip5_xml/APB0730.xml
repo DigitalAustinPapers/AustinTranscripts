@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0730">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George H. Robb to Stephen F. Austin, 04-24-1824</title>
+            <author>
+                <persName>George H. Robb</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazos, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 778-779
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-04-24">04-24-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce. Transportation. Judiciary.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Col. Stephen F. Austin</persName></p>
+<p>Sir</p>
+<p>I think it my duty to address you as early as possible as the <persName>head
+magistrate</persName> and <persName>manager of the Colony</persName> informing you of my 
+arrival in this river with my <persName>family </persName>with the intentions of becoming
+a <persName>settler </persName>if you should approve of the same have brought with me
+the most ample testimonial certificates of character etc which will
+be presented as soon as I have the pleasure of seeing you which will
+be so soon as possible as I have many Grievences to inform you of
+which requires your advice and aid without which I am afraid I
+cannot get along and it will always afford me pleasure to be guided
+by [you], our mutual worthy friend <persName>Dr Sibly</persName> informed me of
+your friendly and beloved character to every honest upright man,
+in my well assorted cargoe I had a quantity of fine goods fit or
+more for <persName>Spanish people</persName> than <persName>Americans </persName>and in order to dispose of
+these goods the vessell was cleared out for Rio Grande or els where
+in my name as owner and master but not knowing navigation I hired<pb n="779"/>
+a man as mate and <persName>sailing-master</persName> at $40 pr month who has acted
+like a deranged man and in conjunction with some deck <persName>passengers</persName>
+have suffered much by it we left the <placeName>southwest pass of the 
+Mississippi </placeName>on the <date when="1824-04-01">1st day of Aprail</date> toward night it began to blow very
+fresh approatching to a gale I desired him to closs reeff all sails
+for the night which he refused to do by cursing and swearing that
+he was sailing master and he would do as he thought proper he
+therefore carried all sail on the schooner and she deeply loaded 
+running almost under water at the rate of nine miles an hour abcfut
+the middle of the night it was discovered there was a good deal of
+water in the hold Instantly the pump and bailing from a hatchway
+in the cabin was had recourse to and we gained on the water in the
+meantime this mate of mine in consist with his <persName>Irish countrymen</persName>
+and two deck <persName>passengers </persName><persName>Americans </persName>without my knowledge or 
+consent opened my latches and threw a great part of the cargoe all
+my property overboard what my loss is I cannot at present 
+assertain but is not less 3000 $ at sailing I did not intend to see the <placeName>Brazos</placeName>
+until I had first seen <placeName>Rio Grande</placeName> and disposed of my Spanish goods
+but the above Circumstance brought me in here excuse my 
+imperfect letter as it is wrot in a hurry by a straing gentleman (<persName>Mr
+Mitchell</persName>) who has promised to forward it to you This river is a verry
+fine stream and excellent for steam boat navigation which I shall
+try to have one on it within two years&#8212;not one shilling of my 
+property was insured either on ship or goods but it will be necessary to
+enter a protest before you as I have been threatened by a deck 
+passenger&#8212;I know not for what except it be for the vessel springing a
+leak a circumstance I could not account for&#8212;relying on your 
+attention</p>
+
+<p><persName>Geo. H. Robb</persName></p>
+<p><placeName>Brazos </placeName>near <persName>Mr. Bell</persName> <date n="04-24-18xx">24th April 18</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

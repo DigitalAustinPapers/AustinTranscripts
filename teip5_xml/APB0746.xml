@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0746">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Antonio Saucedo to Colonists, 05-21-1824</title>
+            <author>
+                <persName>Jose Antonio Saucedo</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 796
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proclamation</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-21">05-21-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Proclamation of political chief (Saucedo). Assuring the colonists of Austin's ample authority.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Translation]</p>
+
+<p>The <persName>Political Chief of the <placeName>Province of Texas</placeName></persName> to the <persName>inhabitants of
+the <placeName>Colorado </placeName>and <placeName>Brazos</placeName></persName> in the Colony formed by the <persName>Empresario
+Stephen F. Austin</persName></p>
+
+<p>Understanding that in consequence of my arrival in these parts
+some of the <persName>inhabitants </persName>have erroneously persuaded themselves that
+the object of my visit here has been to deprive the <persName>Empresiario
+Stephen F. Austin</persName> of the power which the government had granted
+him to organize its commencement this new establishment and to
+administer justice, Stop all differences that might arise between the
+<persName>inhabitants </persName>and preserve good order, until thicker settled and better
+informed as to the laws that govern in the new Country which you
+have adopted, You acquire the necessary elements to apoint your
+justices, and the <persName>Ayuntamentos </persName>or representative bodies, designated
+by the laws to watch over the public order and promote whatever
+may tend to the prosperity of the People, fearing from this measure
+unfavourable results which would lead to confusion and possible
+tend to your ruin&#8212;-</p>
+
+<p>But far from me has been all such ideas, and I hope that you will
+see by what will be communicated to you that my measures have
+been directed to your good, and I now positively assure you that
+said <persName>Austin </persName>is completely authorized by the Supreme Government to
+found this <placeName>Colony </placeName>and unless he forfits the good opinion that is now
+entertained of him he will continue to exercise the Civil and Military
+powers he now has untill the organization of this <placeName>Colony </placeName>is 
+completed and you acquire the nessisary elements to govern yourselves
+by means of the authorities above indicated.</p>
+
+<p>Signed <persName>Jose Antonio Saucedo</persName>&#8212;</p>
+
+<p><placeName>Town of San Filipe de Austin</placeName>
+<date when="1824-05-21">May 21st 1824&#8212; 4 and 3</date></p>
+
+<p>A true translation</p>
+
+<p><persName>Austin</persName>    [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

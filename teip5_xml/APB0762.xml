@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0762">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mathew Scobey to Stephen F. Austin, 05-29-1824</title>
+            <author>
+                <persName>Mathew Scobey</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Long Prairie, AK</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 807
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-29">05-29-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Wants information about Government and land titles. Crop failure on Red River.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Long Prairie [Arkansas]</placeName> <date when="1824-05-29">May 29 1824</date></p>
+<p><persName>Mr. S. F. Auston</persName></p>
+
+<p>Deak Sir this is the second time I have put pen on paper to write
+to you; I am in hopes if you receive these lines you will take the
+trouble of writeing to me,</p>
+
+<p>I want you if you please sir; to State what sort of a Government
+you have, at this time; or expect to have in your Country As there
+is a Number of Valuable <persName>Citizens </persName>in this place, that wants to moove
+to <placeName>Texis</placeName>; if they were not a fraid of the Lawes of that Countrery.
+And there is a Number of People, that thinks you will never git a
+grant, for your land If you will be so good, as to give a full 
+Statement, of the Cituation of your <placeName>Country</placeName>; It will be very pleasing
+to the <persName>Citizens upon <placeName>Red River</placeName></persName>; <persName>Col Dooley</persName> is at my <placeName>house </placeName>at this
+time; he is very Anxious, to moove; to your Contry times is very
+hard on <placeName>Red River</placeName> No money to be had; Croops has looked very
+well to within a few days. (But now bad enough) The Worms
+has taken the Gotten (Clean and smooth) and has begun on the
+Corn;  where they will stop God onley knows</p>
+
+<p>My self and familey is in good health, and the People Generally
+in this Place</p>
+
+<p>I should be extremely glad to here from you,</p>
+
+<p><persName>Mathew Scobey</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

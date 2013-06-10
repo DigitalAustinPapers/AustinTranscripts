@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0707">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Grant to Stephen F. Austin, 03-23-1824</title>
+            <author>
+                <persName>James Grant</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 756
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-03-23">03-23-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Difficulties of transportation. Commerce. Cotton.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1824-03-23">March 23d 1824</date></p>
+<p><persName>Colnl Austin</persName></p>
+
+<p>Dear Sir After a tedious and disagreeable passage we made
+out to reach this place in about six weeks from we left your 
+settlement; we was wind-bount at the mouth of the <placeName>River</placeName>, and then had to
+proceed to sea with a very short allowance of provision, and had it
+not been for the Punkins you put on board we should have all
+starved; we were Twenty Days at sea; and at last made the Land at
+the <placeName>Bayou La fourché</placeName>, where we could not get provisions to take us
+out to sea again, I was obliged there to pay a man Thirty Dollars to
+take us thro; sufice it to say it was out of my pocket something like
+fifty Dollars and then could not get the little sloop thro without a
+great deal additional expense; and I sold her for oysters, which I am
+not yet paid&#8212;on my presenting myself to my <persName>friends </persName>here, just 
+arrived after a six months cruse; (with a Neat asortment of good) I
+arrive without almost a cent in my pocket&#8212;I try to reason the matter
+with them by letting them know what I have done in <placeName>Texas</placeName>, the very
+name of the Country is enought; I find my <persName>friends </persName>completely 
+opposed to assist me to go to that place; and at the present time I am
+at a loss to know what I am to do for myself; I earnestly hope that
+as my visit to your <placeName>country </placeName>has at this moment blighted my credit
+with my <persName>friends </persName>in this place; I hope you will be indulgent to me;
+and tho I do not come nor send out before the <date n="Fall-1824">fall </date>you will indulge
+me so far as to show to my friend and the World that little as they
+now think of the speculation (that has deprived me of stock and
+Credit, that my judgment was not wrong with the arguments I have
+advanced in its favor), I shall either come myself or send my
+<persName>Brother </persName><date n="Fall-1824">in the fall</date>; <persName>Mr. Jones</persName> has my instructions to get a title for
+the Land and in case you may want any money to pay you any he
+may take for my property</p>
+
+<p>I have the pleasure to say that I showed the sample of Cotton to
+all the <persName>cotton Merchants</persName> in <placeName>Town</placeName>, and they all declare it to be 
+superior to any cotton that comes to this market, they say it is Equal to
+the <placeName>Sea Island</placeName> Cotton; and recommend its being Gind with the rolar
+Gins; I send you a <placeName>Newspaper </placeName>or two and am sorry it is not in my
+power to send you the articles you wanted from this place&#8212;but I am
+determined to be a Citizen of your country and altho things at 
+present look bad I may be down with you soon.</p>
+
+<p>please remember me to <persName>Captn Austin</persName> your <persName>Brother </persName>&amp;c. If you
+are writting to this place and in any way I can be of service to you
+please command me, I remain</p>
+
+<p><persName>James Grant</persName>    [Rubric]</p>
+
+<p>P. S. I send this by <persName>Mr. White</persName>, I did not know he was in Town
+till last night, therefore you will excuse hast                         <persName> J. G.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0678">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to John P. Coles, 01-25-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John P. Coles
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 731
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-01-25">01-25-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning provisional civil and criminal codes.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>(Copy)</p>
+<p>Dr Sir</p>
+
+<p>Enclosed I send you forms in addition to those contained in the
+general instructions&#8212;</p>
+
+<p>The instructions and regulations for the <persName>Alcaldes </persName>were drawn up
+by me hastily and while I was subject to continual interruptions
+and without the aid of any book of forms or precedents, as you
+must have perceived when here, they may therefore contain many
+errors and omissions; experience will however point them out, and
+I wish you to note anything you may find in them amiss, in order
+that the proper corrections may be made</p>
+
+<p>I have no wish nor interest in anything of this kind of a public
+nature done by me, but to promote the general prosperity and 
+happiness of us all, and shall therefore at all times pay respect to the
+opinion and wishes of a Majority of the <persName>Settlers </persName>when I can 
+ascertain it and conform myself thereto So far as my powers and 
+instructions from the Govt will permit&#8212;</p>
+
+<p><date when="1824-01-25">Jany 25&#8212;1824</date>&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>To <persName>J. P. Coles Alcalde of the <placeName>Brazos</placeName></persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

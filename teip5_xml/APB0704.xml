@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0704">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Antonio Saucedo to Colonists, 03-18-1824</title>
+            <author>
+                <persName>Jose Antonio Saucedo</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 753-754
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-03-18">03-18-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Beneficent intentions of the Government. Austin's authority.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Translation by Austin.]</p>
+
+<p>The <persName>Political Chief of the Province of Texas</persName> to the <persName>new Settlers on
+the <placeName>Colorado and Brazos Rivers</placeName></persName> in Said <placeName>Province</placeName></p>
+<p>Fallow Citizens,</p>
+
+<p>I have again the Satisfaction of addressing you, which I do with
+the more pleasure as I am convinced you will listen to me and do the
+justice to believe me when I assure you that a Government, which has
+received you into its bosom through the solicitudes that were 
+commenced by <persName>Moses Austin</persName> and at great expense and labor continued
+and successfully terminated by his <persName>Son </persName><persName>Stephen F. Austin</persName>, will watch<pb n="754"/>
+over your interests and protect your rights by just and wise laws
+which will enable you to enjoy in peace the fruits of your labors&#8212;If
+the <persName>government </persName>of the nation is not yet fully and finally organized,
+the causes which have produced the delay are well known, but in the
+midst of these delays and convulsions they have given you a chief to
+govern you untill you have within yourselves the necessary numbers
+and elements for the formation of your municipal bodies&#8212;they have
+given you a beneficial and liberal Colonization law,&#8212;they have given
+you a member in the most Excellent Deputation of this province (the
+<persName>Baron de Bastrop</persName>) and you will be entitled to an equal 
+representation with other citizens in the Legislative, Executive, and Judicial
+Departments of the State, according to the tenor of the 
+Constitutional Act which you are now called on to Swear to. It is therefore
+necessary that you should listen with attention and confidence to
+your immediate <persName>Chief (Col. Austin)</persName> whose authority is from the
+Supreme powers of the nation to which you now voluntarily belong,
+and that you should disregard and dispise all those idle slanders and
+vague stories which are put in circulation by the enemies of good
+order for the sole purpose of creating confusion and discontent.</p>
+
+<p>I trust that my words will have the impression on your minds that
+I desire, and that convinced of their truth you will repose in 
+confidence and peace under the authorities that govern you, for by so
+doing you may attain that degree of prosperity you wish for and
+which is ardently hoped for by your fellow citizen</p>
+
+<p><persName>Jose Antonio Saucedo</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

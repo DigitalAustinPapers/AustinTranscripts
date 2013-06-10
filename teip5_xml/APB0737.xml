@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0737">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to His mother and Sister, 05-04-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Maria 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Emily Austin.
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 784-787
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-04">05-04-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for moving to Texas. Philosophy of life. Conditions in the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St. Felipe de Austin</placeName> <date when="1824-05-04">May 4. 1824</date></p>
+
+<p>Dr. <persName>Mother </persName>and <persName>Sister</persName>&#8212;</p>
+
+<p>After many delays and disappointments I am at length enabled
+to start <persName>brother </persName>to you, there are two modes of moving to this country
+one down the <placeName>Mississippi </placeName>to the <placeName>mouth of Red River</placeName> and up that to
+<placeName>Nachitoches</placeName>, and thence through by land a distance of about two
+hundred and fifty miles&#8212;the other route is to go to <placeName>Orleans </placeName>and
+thence round by sea to the <placeName>mouth of the Brazos River</placeName>, I am yet 
+undecided which of these two routes will be the best&#8212;that by sea would
+be the shortest and cheapest if the wind was favorable&#8212;that by
+<placeName>Nachitoches </placeName>would be the longest and most fatiguing as well as 
+expensive, as I should have to send in a Waggon and team from here
+to bring you out and you could not bring anything with you of
+consequence</p>
+
+<p>If Several <persName>families </persName>will join, for instance <persName>Major Hawkins</persName>, the
+<persName>Bruffys</persName>, <persName>Aunt Austin</persName> etc and send their Horses through by land to
+<placeName>Nachitoches </placeName>and take their waggons and carts and other property
+down by water, I think you could get a good Keel boat and all come
+on together in her as far as <placeName>Nachitoches</placeName>, the boat will sell for as
+much in <placeName>Nachitoches </placeName>as you would have to give for her in <placeName>St. Louis</placeName>&#8212;
+you must not bring much of anything except beds and bedding and
+Castings and crockery ware for House use&#8212;as to furniture we must
+do without untill we get able to buy from <placeName>Orleans</placeName>, I like this plan
+better than any&#8212;if you come in a steam boat it will be uncertain<pb n="785"/>
+whether you can get up <placeName>Red River</placeName>, as it will depend on the rise
+of that <placeName>River </placeName>in the <date n="Fall-1824">fall</date>, tho you must be governed in some measure
+by circumstances&#8212;if <persName>Honey </persName>should be going down with the Dolphin
+perhaps you might make an arrangement on good terms with him for
+your passage, and If I find that I can by any Means get a Vessel
+in <placeName>Orleans </placeName>I will do so and write to you both at <placeName>Herculanium </placeName>and
+<placeName>Nachez</placeName>&#8212;<persName>Brother </persName>must write to <persName>Mr. Thomas Allsberry</persName> in 
+<placeName>Hopkinsville K. Y.</placeName> and to <persName>Martin Varner in <placeName>Ohio</placeName></persName> and see when they will
+move and how and then decide on the best plan&#8212;</p>
+
+<p>We have all had a good Schooling in the best School in the World,
+that of Adversity and I hope have profited by it&#8212;Our prospects now
+are beginning to look up, but we must still remember our past
+troubles and not forget that wealth is hard to acquire and easily
+lost&#8212;let our motto therefore be <hi rend="italic">economy </hi>and <hi rend="italic">plain </hi>living. It is my
+wish that nothing should be worn in the <persName>family </persName>but homespun, at
+least for several years it is the cheapest but what is of much more
+importance it will set an example to the rest of the <persName>Settlers </persName>that will
+have a very good effect&#8212;also I wish everything about the house to
+be plain and pritty much like the rest of my <persName>neighbors</persName>&#8212;we are all
+poor in this country and therefore all on an equality and so long
+as this continues we shall all go on well and harmoniously as 
+regards good neighborship, and our industry will soon remidy our
+poverty if we have the proper econemy with it&#8212;The situation I am
+placed in here will cause all the acts of any of my <persName>family </persName>to be 
+observed and it will require a uniform amble deportment to all, without
+regarding their appearance or poverty to prevent giving offences,
+the only distinction that must be shown here is between the <hi rend="italic">good </hi>and
+the <hi rend="italic">bad </hi>and that must be very marked and decisive&#8212;I make these
+observations that you may have a better idea of the course that will
+be necessary to adopt here from the beginning&#8212;for you know how
+easy it is to give offence to a certain class of mankind</p>
+
+<p>I have written to <persName>Timothy Bryan</persName> relative to <persName>Sarah </persName>and her 
+<persName>children </persName>and <persName>brother </persName>will tell you what must [be] done on that Subject&#8212;
+I requested <persName>Timothy </persName>to write to you and to me both and agreed to
+be responsible for the Money so you must bring them with you&#8212;</p>
+
+<p>It is my wish that <persName>Aunt Austin</persName> and <persName>family </persName>should move with you
+if possible, all I can say is that if she comes I will provide well for
+her <persName>family </persName>in land and Settle her as near you as I can the land Shall
+cost her nothing, and I will lend her as much corn as She wants for
+her <persName>family </persName>the first year and do any thing else in my power to aid
+her&#8212;with <persName>George </persName>and her <persName>Sons </persName>She can Soon live well here and have
+a League of good land to divide amongst her <persName>children </persName>in fact I have
+picked out a league for her and Shall keep it reserved untill I hear
+from her, <persName>brother </persName>can discribe it to her&#8212;it is next to what I call<pb n="786"/>
+my <placeName>Spring tract</placeName> on the <placeName>East side of the Colorado River</placeName> next above
+<placeName>Jacksons</placeName> it has the river on one side and a running creek and a large
+<placeName>Prairie </placeName>on the other and has about 30 acres that was well tended
+last year and will also be well tended in corn this year, but has no
+fence&#8212;my own opinion is that if she were to give away every thing
+she has in the world except her <persName>negros </persName>and by so doing could get
+here, that She would be worth more than double as much the day
+she arrived here as ever She was before in her life&#8212;but Still I do
+not advise her to move, what I have promised to do I will do if she
+comes&#8212;I refer her to <persName>Esquire John Andrews</persName> and <persName>Tommy Ally</persName> who
+will be on in the <date n="Summer-1824">summer </date>for a discription of the country and then
+she can decide for herself</p>
+
+<p>Bring all your books and beds and beding The furniture and
+other heavy articles except castings, sell for pork flour Beans etc
+to use on the road for you must Start with provisions enough to last
+the whole journey, also try and bring a pair or two of Geese and
+tame ducks&#8212;also all kind of Gardin Seeds particularly Cabbage
+Lettice, beats, Sage&#8212;Summer Savory, horse reddish etc, etc, and
+at <placeName>Nachez </placeName>or lower down try and get some orange fig and grape
+roots&#8212;and be particular to make <persName>brother </persName>get some Nectarine and
+peach stones from <persName>E. Bates</persName> and a dozen young Pears, or the seeds,
+of his best Pears and apples, also some crab apple seeds, I want them
+to try and make a hedge also the cypress vine or any other vine for
+an arbor and some roots of the double Rose, all these can be brought
+in a small box and watered&#8212;</p>
+
+<p>If you go to <placeName>Orleans </placeName>I now have no <persName>friend </persName>there to receive you&#8212;
+<persName>Hawkins </persName>is dead, you would have found a <persName>brother </persName>in him-&#8212;As to
+<persName>Kenner </persName>I wish to have nothing to do with him, perhaps he might
+befriend you and <persName>Mother </persName>but I shall never ask him for any favor,
+I may do him injustice but I do not like him&#8212;</p>
+
+<p>I very much wish that <persName>Saml Perry</persName> would move here, he could
+not fail doing well&#8212;the cotton trade will soon be of great importance
+in this country and by coming now to start it he could always get
+the most of it, besides he could buy up large tracts of land on good
+terms&#8212;he will find a warm friend in me&#8212;</p>
+
+<p>If you see any of my old <placeName>Mine a Burton</placeName> <persName>friends </persName>remember me to
+them, I said when I left there in <date n="03-xx-1819">March 1819</date> that I would return
+and see them in ten years So you may tell them that in five years
+more if alive I will pay them all a visit and in the mean time shall
+be happy to see any of them here&#8212;</p>
+
+<p>Be particular to inform any who move with you that the Roman
+Catholic is the established Religion here to the absolute exclusion of
+all others<pb n="787"/></p>
+
+<p>I recd. your letters relative to the <placeName>Little Rock</placeName> etc and have given
+<persName>brother </persName>a memorandum on the Subject how to act&#8212; Be care full of
+<persName>Mother </persName>and let us try and meet once more in this world perhaps
+this mild climate may prolong her precious live to us many years&#8212;</p>
+
+<p>bring all the books you can, we shall want them to pass away the
+time&#8212;Your Piano have carfully put up and sent to <placeName>New Orleans</placeName> to
+the Care of <placeName>Nathaniel Cox</placeName>, that is if you wish to Keep it, and if not,
+sell it in <placeName>Missouri </placeName>and I will buy another in <placeName>Orleans </placeName>for you next
+year&#8212; If you can sell your furniture and Castings for any thing
+that would be of use here, do so for those things are very cheap in
+<placeName>New Orleans</placeName>&#8212;The <persName>family of negros</persName> you must bring with you at all
+hazards and I will settle with <persName>Bryan </persName>for them&#8212; All these 
+arrangements you must make the best way you can, and be very particular
+to be as saving of every cent as possible&#8212;probably you can sell off
+many things for homeade Linsey or Cotton cloth or tow or flax linin,
+all those things sell high here&#8212; at <placeName>Alexandria </placeName>or <placeName>Natchez </placeName>lay in a
+good Supply of sugar and Coffee and tea and spices and Rice and
+bring with you from <placeName>Missouri </placeName>several barrels of beans or peas and
+hominy etc etc for the journey also dryed apples and peaches&#8212;they
+will sell at <placeName>Nackitosh</placeName>. have some good Bacon and Pickeld Pork,
+and Beef dried and pickeled, put up&#8212; if you have a large pair of
+good Steel yards bring them as I have none large&#8212; also get a good
+<placeName>Steel Mill at Natchez</placeName> you will want it on the road and it will always
+be usefull here, if <persName>Aunt </persName>comes She ought also to bring a Steel Mill&#8212;
+they cost about 12 dolls. She ought also to bring the best of her
+farming and other tools</p>
+
+<p>Pray do not forget to bring Me a Copy of the Laws of <placeName>Missouri</placeName>,
+Gyers digest, or if there is a later one bring it, also the Constitutions
+of <placeName>Missouri </placeName>and <placeName>Illinois </placeName>do not forget this&#8212; You must have a good
+large tent for camping out and be particular to have every thing well
+arranged and so as to occupy as little bulk as possible May the great
+disposer of all things take you under his protection and bring us all
+together once more in this world Kiss your Sweet little ones for
+their <persName>uncle </persName>I will have a little poney for <persName>William </persName>to ride about with
+me on&#8212;</p>
+
+<p>Your affectione</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

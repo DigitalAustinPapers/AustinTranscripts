@@ -7,6 +7,7 @@ $this_dir = getcwd();
 my $errfile = "errors.txt";
 @files = <source_xml/*>;
 foreach $file (@files) {
+
 	$cmd_convert = "$this_dir/scripts/xml2tei.pl teip5_xml/ $file\n";
 	system($cmd_convert);
 	$outfile = basename($file);

@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0768">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Colonists, 06-05-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 811-824
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Address</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-05">06-05-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Review of history of grant, and of his contract with colonists charging 12 1/2 cents an acre for land. Intervention of the political chief and misinterpretation of the colonization law. Austin's heavy expenses in governing the colony, surveying, caring for land titles, etc.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>As the late regulation relative to the expenees to be paid On <placeName>Lands
+in this Colony</placeName> has as I am informed caused some Animadversions
+in a few persons I deem it a duty due to myself as well as to my
+friends to enter into a full exposition of this subject and to give an
+explanation of the Steps which I have taken since the first 
+Commencement of this <placeName>Settlement</placeName>&#8212; To do this I must necessarily give
+a short history of this establisht from its Origin up to the present
+time&#8212;this will probably be satisfactory to all as it will more clearly
+shew the efforts that I have made to secure to the <persName>settlers </persName>the Titles
+to their lands, and that I have spared neither labor or expence to
+complete those Titles in a way which will render them safe for ever
+unless forfeited by a noncompliance on the part of the <persName>settlers </persName>with
+the conditions required as to the Occupancy and improvement of the
+land&#8212; I ask your candid attention to this Statement&#8212;Look at the
+difficulties I have had to surmount, The risks of property, of Life,
+of all, which I have exposed myself to&#8212;Consider the advantages
+which you will receive from my labours, And then let your unbiassed
+Judgment decide upon my Motives, And say whether I have been
+right or wrong in the measures which I have adopted&#8212; It is well
+known to you all that this <placeName>Settlement </placeName>was commenced uuder a 
+permission granted to my Father <persName>Moses Austin</persName> by the Competent 
+Authorities of the <persName>Spanish Government</persName> Anterior to the <persName>Mexican </persName>
+Revolution&#8212; This permission emanated from the <persName>Deputation of the
+Eastern Internal Provinces</persName> at <placeName>Monterrey </placeName>And on the <date when="1821-01-17">17th of January
+1821</date> was duly approved by <persName>Joaquin Aredondo</persName> the then <persName>Commandant
+General</persName> of said provinces, who Ordered the <persName>Governor of this 
+Province Colonel Don Antonio Martinez</persName> to send a <persName>Commissioner </persName>to
+<placeName>Nachitoches </placeName>to meet my <persName>Father </persName>and conduct him and the <persName>families</persName><pb n="812"/>
+who might Accompany him into the <placeName>Province</placeName>&#8212; On the death of
+my <persName>Father </persName>I proceeded to <placeName>Nachitoches </placeName>And met the said 
+<persName>Commissioner </persName>who was The <persName>Honble Don Erasmo Seguin</persName> the present <persName>Deputy
+in Congress</persName> from this <placeName>Province </placeName>And Accompanied him to <placeName>San 
+Antonio de Bexar</placeName> where we Arrived in <date n="08-xx-1821">August 1821</date></p>
+
+<p>On as full an investigation of the nature of the Grant to my
+<persName>Father </persName>as the interpretations I received would enable me to make 1
+found that the permission to introduce And settle the <persName>300 families</persName>
+in this <placeName>Province </placeName>was complete And that the <persName>Governor </persName>had authority
+from the <persName>Commandant Genl</persName> to designate the quantity of Land for
+each <persName>family</persName>&#8212; After much Conversation with the said <persName>Governor </persName>as
+to the quantity of Land And As to the place for the settlement he
+by an official answer to a Letter of mine dated the <date when="1821-08-21">19th day of August
+1821</date> Authorised me to promise the quantity of Land stated in
+my first publication relative to this <placeName>settlement </placeName>which was 640
+acres for the <persName>head of a family</persName>, 320 for his <persName>wife </persName>and 160 for each
+<persName>child </persName>etc And also gave me written Authority to explore the 
+<placeName>Province </placeName>and select the place for the <placeName>Colony</placeName>&#8212; With this object I 
+explored the <placeName>Guadalupe </placeName>from the <placeName>Tuscoset road</placeName> to its mouth and
+thence along the <placeName>Coast </placeName>untill the <placeName>Labacca </placeName>Compelled us to bear up
+to the road which we followed to the <placeName>Colorado </placeName>and explored some
+distance down it and the <placeName>Brasos</placeName>&#8212; The result of this Trip was a
+determination to settle on the <placeName>Brasos </placeName>And <placeName>Colorado</placeName>&#8212; And 
+accordingly on my arrival at <placeName>Nachitoches </placeName>in <date n="10-xx-1821">October </date>I informed the 
+<persName>Governor </persName>thereof And Also informed him that as the land which I was
+to receive for myself would be no compensation for my labors and
+expences in an enterprize of such magnitude I must receive some-
+thing from the <persName>Settlers </persName>or I could not proceed with the Business-&#8212;
+Accordingly on my arrival in <placeName>New Orleans</placeName> sometime in <date n="11-xx-1821">November</date>
+I published the terms of settling in this <placeName>Colony </placeName>and explicitly Stated
+that those who settled under the said permission to my <persName>Father </persName>must
+pay me 12 1/2 cts per Acre which would be in full for all expences of
+Surveying and every thing else&#8212;- I wns particular to make these
+terms as public as possible that no one might come without knowing
+distinctly the Conditions of his reception&#8212; They were republished
+in most of the <placeName>Western papers</placeName> And I considered it from that 
+moment in the nature of an absolute contract between me and the
+<persName>settlers</persName>&#8212;</p>
+
+<p>I Bound myself on the one hand to procure for them a complete
+Title for a certain specific quantity of Land according to the size
+of their <persName>family </persName>for which they were to pay me a certain specific sum
+which was to be in full for all expences of Surveying and All others
+whatever they might be, And all this was done with the knowledge
+of the then <persName>Governor of the <placeName>Province</placeName></persName> and besides if I had believed<pb n="813"/>
+that I had no authority to make any such Contract with the <persName>settlers</persName>,
+would I have laid myself liable to detection by the open frank and
+public manner in which I avowed the terms of settlement; Would
+I have published them in the <placeName>Newspapers </placeName>when I very well knew
+that those papers were sent to <placeName>Mexico</placeName>, to <placeName>Monterrey</placeName>, to <placeName>San Antonio</placeName>
+and to an-hundred other places where the <persName>Government </persName>would see
+or hear of them&#8212; Or would I myself have sent the paper which
+contained the terms to the <persName>Governor of this <placeName>Province</placeName></persName> which I did in
+<date n="11-xx-1821">Novr 1821</date> immediately after it was issued&#8212; Let me ask you as
+candid men does this look like an intention on my part to deceive or
+to do an act which I thought was not Authorised to&#8212; Put 
+yourselves in my situation and look at the vast burthen of responsibility
+which has Oppressed me like a deadly weight ever since I engaged
+in this enterprize&#8212; An interprize which originated in the active
+mind and indefatigable perseverance of my much honored and
+lamented <persName>father </persName>who sacrificed his life by the too Ardent pursuit of
+an object which it was always evident would result more to the
+credit of the projectors enterprize and perseverance than to his
+profit And in which the advantages secured to the <persName>settler </persName>and the
+benefits accruing to this <placeName>Province </placeName>and <persName>Government </persName>would bear no
+just proportion to the Compensation which was expected or asked&#8212;
+for let it be remembered that at that time this <placeName>Province </placeName>with the
+exception of <placeName>San Antonio</placeName> and <placeName>La Bahia</placeName> was a desart, that it was
+interdicted to the <persName>American Settler</persName> who but a short time before had
+been driven from it with fire and Sword; And untill this permission
+was obtained by my <persName>Father</persName>, those who emigrated here did so as it
+were by stealth and without any other security for their property
+or lives than the Caprice of the <persName>Commandants </persName>who Governed, for
+their Emigration was not sanctioned by the <persName>Superior Government</persName>&#8212;
+Consider the difficulties which my <persName>Father </persName>must have had to 
+Surmount, to obtain a permission which could never before be got by
+any person&#8212; Consider that on his death I assumed upon myself
+the responsibility not only of Securing to the <persName>Settler</persName>s Complete titles
+to their lands, but Also of being personally responsible to the 
+<persName>Government </persName>for their good conduct&#8212; and look at the labors and 
+probable expences which such An enterprize was Calculated to cost, and
+Ask yourselves whether any of you would in <date n="xx-xx-1821">1821</date> have taken upon
+you the weight of responsibility which I then did? Whether you
+would have jeopardized your property, hazarded your health, your
+lives, Your all to make the fortunes of others and been Content to do
+so without the hope of any greater Compensation than you could
+give to an individual who joined you as a settler and who would
+have no responsibility labour or expence to encounter more than
+the care of his own <persName>family</persName>&#8212;   Would you have been content I ask<pb n="814"/>
+to do it; or would it have been just that you should have done
+so ? If not can you blame me for making the public declaration in
+the beginning of this <placeName>Settlement </placeName>that the <persName>Settlers </persName>must aid me by
+paying a specific sum for the benefits I secured to them; And was
+there then any thing unjust or improper in such an arrangement in
+its Origin ? &#8212;If not let us proceed to examine whether any thing
+Occurred in the progress of the business which rendered an 
+adherence to the Original terms of the Contract with the <persName>Settlers </persName>
+improper&#8212;</p>
+
+<p>When in <placeName>New Orleans</placeName> in <date n="11-xx-1821">November </date>I dispatched a Vessel with
+Men and provisions and tools for the <placeName>settlement </placeName>and proceeded on
+by land myself to meet her at the <placeName>Mouth of the Colorado</placeName>&#8212;After a
+three months trip wandering in the swamps and thickets of these
+Rivers and in waiting at the <placeName>mouth of the Colorado</placeName> for said Vessel
+I gave her up for lost and in <date n="03-xx-1822">March </date>proceeded to <placeName>San Antonio</placeName> to
+inform the <persName>Governor </persName>that I had Commenced the <placeName>Settlement </placeName>and to
+request him to send with me a <persName>Commr </persName>to superintend the partition of
+the land Agreeably to the Arrangement made with him in August
+previous&#8212;On my Arrival I was informed by the <persName>Govr </persName>that in
+Consequence of the revolution and change of <persName>Governmt </persName>he felt 
+unwilling to do anything in the business, that he was an <persName>European </persName>and
+did not know at what monent he might be removed from office or
+how the revolution would terminate, in consequence of which he
+had determined not to transact any public business except Such as
+could not be postponed&#8212;he Assured me that the <persName>Settlers </persName>would
+be safe and that the permission granted to my <persName>Father </persName>would always
+be respected by the <persName>Government</persName>, but that great delay might arise
+before they could be legally put in possession of their lands and
+receive titles therefor&#8212;this information was as unexpected as it
+was mortifying to me&#8212;I felt myself bound in honor to Comply
+fully with my part of the Contract with the <persName>Settlers </persName>and to procure
+Complete titles for them to their lands&#8212;this was a new and 
+unexpected difficulty which was never Anticipated or even dreamt of by
+me&#8212;I applied to the <persName>Governor </persName>for advice informing him that I
+had rather die than not effect what I had promised to the <persName>Settlers</persName>
+and that without so much delay as he Anticipated&#8212;He advised me
+to go to <placeName>Mexico </placeName>and apply to <persName>Congress</persName>&#8212;One nights deliberation
+determined me to accept of this advice and on the <date when="1822-03-15">15 day of March
+1822</date> I departed for the <placeName>City of Mexico</placeName>&#8212;It is needless for me to
+detail the difficulty I had in procuring funds for this unexpected trip,
+or the immense sacrifices I was compelled to make of the little 
+property I had saved from the wreck of my broken fortunes in the <placeName>U
+States</placeName>, besides which I had to dispose of one half of the lands which
+I might obtain before I could raise the means of progressing with<pb n="815"/>
+the enterprize&#8212;Suffice it to say that I raised the means at all costs,
+for success was now no longer Considered by me so much a matter
+of Speculation as a point of honor to redeem my pledged word to
+the <persName>Settlers</persName>&#8212;I therefore disregarded my own Interest which the then
+prospects justified the belief would have been more promoted by an
+abandmonment than a further prosecution of the enterprize&#8212;I 
+arrived in the <placeName>City of Mexico</placeName> in <date n="34-xx-1822">April </date>without <persName>Acquantances</persName>, without
+<persName>friends</persName>,&#8212;A <persName>Stranger </persName>in a City where untill very recently, <persName>foreigners</persName>
+were prescribed by the Laws and Discountenanced by the people from
+prejudice&#8212;Ignorant of the Language, of the Laws, the forms, the
+dispositions, and feeling of the Government, with barely the means
+of paying my Expences for a few months, and in fact I may say
+destitute of almost every thing necessary to insure success in such a
+Mission as I had undertaken, but the integrity of my intentions&#8212;
+Added to all this I found the <placeName>City </placeName>in an unsettled State, the whole
+people and <placeName>Country </placeName>still Agitated by the revolutionary Convulsion
+which had just terminated in their emancipation, public Opinion 
+Vacillating as to the form of Government which ought to be adopted&#8212;
+Party spirit raging with that Acrimony which political Collision
+is Calculated to excite And the recently established <persName>Governmt </persName>almost
+sinking under its efforts to preserve the public peace and Order&#8212;In
+this unfavourable State of things and Surrounded on every side by
+difficulties I entered upon the Objects of my Mission, formed 
+<persName>Acquaintances </persName>with the <persName>members of Congress</persName>, the <persName>Officers of Governmt</persName> and
+<persName>Men of influence</persName> And by the <date when="1822-05-12">12th of May</date> had my business in a
+favourable train before the <persName>Regency </persName>which then Composed the 
+<persName>Supreme Executive power of the Nation</persName>&#8212;And my Memorial was also
+before <persName>Congress </persName>and probably would soon have been acted on&#8212;But
+on the night of the <date when="1822-05-18">18th of May</date> a new flame burst from the 
+revolutionary crater whose fires it seemed had only subsided for a time
+but were not extinguished.</p>
+
+<p>The <persName>provisional Government</persName> was Overturned, And the <persName>Army </persName>in
+the City usurping the Voice of the Nation proclaimed the <persName>Emperor</persName>
+and enforced his election by <persName>Congress </persName>at the point of the Bayonet&#8212;
+It is easy to imagine the Commotion which an event of such
+magnitude was calculated to produce&#8212;fear silenced every tongue,
+but the sullen gloom that hung round the Old and best tried <persName>patriots
+of the revolution</persName> portended the Storm that was only Smothered
+for a time that it might burst with greater effect upon those who
+had usurped the Nations rights by the forcible establishment of a
+system of Government which was evidently in Opposition to the
+will of the majority of the people&#8212;The newly established 
+Government foresaw the impending Storm And all their Attention was
+devoted to such Measures as they thought likely to Avert it&#8212;Repub-<pb n="816"/>
+licanism was proscribed as a Crime and <persName>Republicans </persName>persecuted
+as Criminals, heavy restrictions were laid on <persName>foreigners </persName>by decrees
+regulating the manner and conditions in which they were to enter
+the Country&#8212;they were suspected and watched&#8212;in fact the whole
+Attention of the <persName>New Imperial Government</persName> was directed to their
+own Consolidation and preservation&#8212;In this state of things 
+individual applications were lost amidst the multiplicity of more 
+important and I may say of personal Interests which occupied the
+<persName>Executive Department</persName>&#8212;And my Application Coming as it did
+from a <persName>foreigner </persName>born and bred a republican and whose Object
+was to form a <placeName>Colony </placeName>within the new <placeName>Empire </placeName>of Men who like
+himself were Also born and bred in that land of liberty where 
+Imperial Diadems were only estimated by the intrinsic value of the
+materials which Composed them and where no Sceptre ruled but
+the public will, was considered by my friends as a hopeless Object,
+And I was Advised to save myself from further pecuniary ruin
+and embarrassment by its Abandonment&#8212;-My Answer to this was,
+that my faith was pledged to the <persName>Settlers </persName>to secure their titles, and
+that I never would abandon their Interests&#8212;that the public 
+Contract made with them to secure their lands should be complied with
+on my part of such a thing was possible&#8212;Accordingly I presevered
+through one whole year of Revolution and political Convulsions in
+<placeName>Mexico</placeName>, And After the <persName>Congress </persName>was dispersed by the <persName>Emperor </persName>On
+the <date when="1822-10-31">31 of October</date>&#8212;the <hi rend="italic"><persName>Junta Nacional Instituyente</persName></hi> which was 
+substituted in its stead passed the Colonization Law which was finally
+Approved by the <persName>Emperor </persName>and published on the <date when="1823-01-04">4th day of January
+1823</date>&#8212;-I can without boasting say that my Constant Exertions and
+importunity with the <persName>Members </persName>both directly and indirectly through
+my <persName>friends </persName>produced this Law, for if it had been delayed a few
+weeks longer the new revolutionary events of <date n="01-xx-1823">January </date>and 
+<date n="02-xx-1823">February </date>would have prevented its passage at all during that year&#8212;
+Immediately After the promulgation of the Colonization Law I
+urged a decision of my busineas by the <persName>Government</persName>, And After
+passing through the hands of the <persName>Captain General of the Internal
+Provinces Don Anastacio Bustamente</persName> and the <persName>Council of State</persName>
+who made separate reports on it&#8212;The <persName>Imperor </persName>on the <date when="1823-02-18">18 of february
+1823</date> issued the Decree Authorising me to complete the <placeName>Colony </placeName>and
+regulating the quantity of Lands to be distributed to the <persName>Settlers </persName>in
+Conformity with the Colonization Law, a translation of which
+Decree accompanies this Statement&#8212;marked A.&#8212;As Soon as I
+received this decree of the <persName>Emperor </persName>I considered my business finished
+and prepared to leave <placeName>Mexico</placeName>, but the Storm which the forcible
+proclamation of the <persName>Emperor </persName>had engendered now burst forth from
+every quarter and threatened to speedy Subversion of a throne which<pb n="817"/>
+had been reared in opposition to the public will&#8212;New difficulties
+now presented themselves which I doubted might possibly at some
+period involve the Interests of the <persName>Settlers </persName>for whom I had been so
+long labouring&#8212;It was an Avowed principle with the <persName>new 
+revolutionists</persName> who had raised the Republican flag in opposition to the
+Imperial that the <persName>Emperor </persName>was an <persName>Usurper</persName>, that the Legislative
+Body created by him and called the <persName>Junta Nacional Instituyente
+</persName>who passed the Colonization Law was illegally Constituted And that
+all the Acts of the <persName>Imperial Government</persName> were void not even 
+excepting those which were Sanctioned by <persName>Congress </persName>before its dispersion
+for it was Contended that, that body acted from Coercion and not
+with the liberty of a deliberative Assembly of the peoples 
+representatives&#8212;How far this principle would be recognized by the new
+Government that was to succeed the Imperial was problematical
+And as I had Spent so much time and money I determined to await
+the issue of the then pending revolution And if necessary apply to
+the <persName>new Govt.</persName> for a Confirmation of the Grant which I had received
+from the <persName>Emperor</persName>&#8212;Accordingly I waited untill the dethronement
+of the <persName>Emperor </persName>the <date when="1823-03-31">last of March</date> and the final reestablishment of
+the Congress, And then to remove All doubts which might Arise as
+to the Competency of the Authority that gave me the <placeName>Grant </placeName>I 
+presented a petition to <persName>Congress </persName>praying them to Confirm the said
+Grant which was acted on the <date when="1823-04-10">10 of April</date> and passed to the <persName>Supreme
+Executive power</persName> who were Authorized to confirm it if they thought
+proper, And on the <date when="1824-04-14">14 of April</date> they did by their Decree Confirm
+it, As will Appear by translations of the Said Decrees of <persName>Congress</persName>
+and of the Executive power which also Accompanies this Statement
+Marked B  and C&#8212;</p>
+
+<p>My Business was now finished by the highest Authority known
+to this or any other <placeName>Nation </placeName>that is governed by the representative
+System to wit the <persName>Sovereign Congress</persName> of the people in the free and
+legal exercise of their functions. And I left <placeName>Mexico </placeName>on the <date when="1824-04-18">18 of
+April </date>wanting only 10 days to be One year from my Arrival in it
+on this Mission&#8212;I took the precaution to have Copies of the 
+documents relative to this <placeName>Colony </placeName>passed through the hands of the 
+<persName>Commandant General of the <placeName>Eastern Internal provinces</placeName></persName>  at <placeName>Monterrey</placeName>
+And Also to have them sent direct to the <persName>Government of this
+<placeName>Province</placeName></persName> that records of them might remain in the <placeName>Archives </placeName>of
+each As well as in the <placeName><persName>Secretary of State</persName>s Office in Mexico</placeName> to multiply
+the chances of their preservation in case Accident should ever destroy
+the records of either of those <placeName>Offices</placeName>.</p>
+
+<p>I now hurried towards <placeName>Texas </placeName>to meet the <persName>settlers </persName>and inform
+them of their safety and the happy result of my Mission, relieved
+from the Oppressive burthen which had Come upon my mind for<pb n="818"/>
+such a length of time&#8212;Owing to sundry delays in <placeName>Monterrey </placeName>which
+I could not very well avoid and which were caused by my Anxiety
+to perfect the work I had so far progressed with I did not arrive
+in <placeName>San Antonio de Bexar</placeName> until <date n="07-xx-1823">July </date>in Company with the new
+<persName>Governor Luciano Garcia</persName> who was appointed to succeed 
+<persName>Trespalacios</persName>&#8212;You will perceive by the decree of the <persName>Emperor </persName>that the lands
+were to be laid off for the <persName>Settlers </persName>and Titles given therefor by
+myself in Conjunction with the <persName>Governor of this Province</persName> or a
+<persName>Commissioner </persName>whom he should name&#8212;-The <persName>Governor </persName>appointed the
+<persName>Baron de Bastrop</persName> this <persName>Comr</persName>. and we arrived in Company on the
+<placeName>Colorado </placeName>in <date n="08-xx-1823">August</date>&#8212;On my arrival the <persName>Settlers </persName>were publicly
+notified and informed of the manner in which they were to procure
+their lands both by the <persName>Comr</persName>. and myself. And I was very particular
+to inform them all and in the most public manner that the terms
+originally established by me relative to the cost of their lands must
+be adhered to&#8212;The first Object After my return was to get the
+Land Surveyed, an object of equally as much importance as the
+Titles themselves and one which was embraced in my original 
+Contract with the <persName>Settlers</persName>, for I was bound not only to procure titles
+for their Lands but also to survey them and pay all other Expences
+whatever attending the completion of their Titles An Obligation
+which was binding on me for ever, unless released therefrom by a
+noncompliance on the part of the <persName>Settlers </persName>with their part of the said
+Contract&#8212;Before I arrived in the <placeName>Colony </placeName>after my return from
+<placeName>Mexico </placeName>I studied the whole subject with all the attention which my
+feeble capacity would allow me to devote to one of such importance
+to the <persName>settlers </persName>as well as to the <persName>Government </persName>whose interests it was
+also our duty to promote.</p>
+
+<p>Two plans presented themselves for Completing the <placeName>settlement</placeName>-
+One was to let each <persName>Settler </persName>run his lines as he pleased, and mark
+them or not, or define his Tract by natural or imaginary boundaries
+and make out the Deeds accordingly&#8212;And only requiring them to
+pay the Expenses which were due to the Government but by adopting
+this plan I should as I considered have forfeited my part of the
+Original Contract with the <persName>Settlers </persName>which was to survey and clear
+out their lands as well as to procure Titles for them, A Contract
+which I thought I had no right to change, besides I had seen and
+we have all seen or heard of the difficulties and confusion which
+arose and still exists in <placeName>Kentucky</placeName>, <placeName>Tennessee </placeName>And many other States
+in consequence of locations being made without actual Surveys, tracts
+or parts of tracts, when run out were found to interfere with each
+other and hence arose a source of litigation which has involved
+hundreds and I may say thousands in the perplexing mazes and
+hopeless uncertainties of law Suits which after harrassing a <persName>family</persName><pb n="819"/>
+for years and like a Moth devouring its substance finally involved
+them in ruin and beggary&#8212;</p>
+
+<p>To Comply therefore with my part of the Contract with the
+<persName>Settlers </persName>in full And at the same time to save them from even the
+possibility of difficulty hereafter relative to their lines I determined
+to survey the Lands regularly and accurately and to continue upon
+myself the responsibility which my original Contract with the
+<persName>Settlers </persName>imposed on me of being personally responsible for the 
+expence of Surveying, for the Expences due to the Governmt and
+for all other Expences whatever; expecting that the settlers would
+comply with their part of the Contract by paying the sum originally
+stipulated&#8212;There were also other considerations which urged the
+Adoption or rather the continuance of this plan&#8212;The fees due to
+the <persName>Governmt </persName>would have to be paid in Cash&#8212;The Expenses of
+Surveying if any was done would Also have been burthensome in
+many instances to the <persName>Settlers </persName>to advance, besides the first <persName>Settlers</persName>
+who had borne all the difficulties of establishing the Country would
+have then been placed on an Equality with those who came later
+after all the difficulties were over, provisions were plenty, and the
+<persName>Indians </persName>forced into subjection&#8212;Whereas the plan which I adopted
+relative to the payments would have removed all these difficulties
+and enabled the first <persName>Settlers </persName>to reap the full fruits of their Arduous
+labors to the extent they merited, and that without the delay which
+a different plan would likely have produced. I informed the
+<persName>Settlers </persName>on my arrival that I would receive any kind of property
+from them, And give them their own time to pay it in, at the same
+time requesting those who were able to do so to aid me all they
+could, for that I had so far faithfully Complied with my part of
+the Contract with them And thought that in justice they ought to
+do the same towards me&#8212;I never said that any one ought to pay
+one Cent before he received his Title&#8212;The new <persName>Settlers </persName>who came in
+and who had no privations to undergo in Comparison to the first
+<persName>Settlers </persName>I did say ought to make more prompt payment And in this
+Arrangement I consulted the Interests of the old <persName>settlers</persName>, for the
+sums I should have thus received would have enabled me to have
+paid a part of the surveying fees, And Governing on the Lands
+of the Old <persName>Settlers </persName>without harrassing them to raise the Money &#8212;
+from those who did not pay money or some other property that could
+be used I intended to have taken notes payable in Cotton in yearly
+installments, of One two or Six years according to the situatn of
+the person&#8212;This would not have been oppressive for every one
+could have paid two or three hundred pounds of Cotton annually
+without ever feeling it&#8212;these notes would have insured a certainty
+of receiving a specific quantity of Cotton annually And this cer-<pb n="820"/>
+tainly would have given me credit with some <persName>Merchant </persName>in <placeName>New
+Orleans</placeName> to advance me <placeName>Cotton Gins</placeName> and a Vessel, to prepare and
+transport to market this as well as all other Cotton made in the
+Country, and thus in One year the Cotton trade would have been
+in full Operation which is the principal thing that is to raise us
+from poverty&#8212;Besides Another branch of my plan was to hire as
+many <persName>workmen </persName>As I could to build <placeName>Mills</placeName> <placeName>Cotton Gins</placeName> And Any other
+Improvements that would have advanced the Country and thus
+enable those who did not wish to clear their farms immediately and
+raise Cotton to pay for their land in that way&#8212;-And in furtherance
+of this plan I have already Commenced a <placeName>Mill </placeName>on the <placeName>Creek above
+Town</placeName>&#8212;The Operation of this plan would have been to save the
+Old <persName>Settlers </persName>from being harrassed in any way relative to their lands,
+for a portion of that part of the Expences which they would have
+been Compelled to advance under a different System would have
+been paid by the New <persName>Settlers</persName>&#8212;The Land would have all been 
+accurately and regularly run off whereby difficulties both immediate
+and remote would have been avoided&#8212;The Cotton Trade would have
+been established at once The Country would have been improved
+by <persName>Mills </persName>and Machinery without delay, And by these means would
+have advanced more during the next year than under a different
+System it probably could have done in four or five&#8212;</p>
+
+<p>It has been objected to this that I am making an immense 
+fortune&#8212; A great Speculation out of the <persName>Settlers</persName>&#8212; Let us examine 
+Carefully this subject by the application of Arithmetical calculation
+to it and see what appears to be the result&#8212; The Surveying 
+Averaging One League with Another and taking the <placeName>bends of the Rivers</placeName>
+and <placeName>Oblong Leagues</placeName> will cost about $70 per League which for 300
+wrould be $21,000&#8212; The Taxes due to the Government independent of
+the Surveying as fixed by the late regulation is $165.4 Cash on each
+League which for 300 [is] $49,600.4 making together the sum of
+$70.600.4 to which I made myself personally responsible for and
+$49.600.4 of that in Cash to the Government, And for the Whole
+of which Sum I might have been called on for in one year&#8212; To
+raise this sum I should have had claims on the Settlers for $555 per
+League which for 300 would have made $166,500 payable in 
+property at a distant period and in small installments and that property
+received at double or treble what it would actually bring in Cash&#8212;
+for I appeal to you all to say whether I would now get either here
+or any where else 40, 50 or <hi rend="italic">60 Dlls</hi> for horses which I have received at
+$100. 120 and 150 Dlls and all other property in the Same 
+proportion&#8212; Independent of this Calculate the risk I run in transporting
+this property to Market and converting it into Money&#8212; the 
+probability of being Compelled to force Sales at any Sacrifice to raise<pb n="821"/>
+Money to pay the <persName>Surveyors </persName>and Government fees&#8212; the time, Cost,
+and labor expended in the business and the pecuniary responsibility
+imposed on me by it&#8212; Then add to this the labor and expence 
+incurred by my <persName>Father </persName>to obtain the original permission, his health
+destroyed and Life sacrificed&#8212; Also the three years perplexing and
+fatiguing Labors which I have undergone and the Money expended
+to perfect the Grant, And to all this Add the vast burthen of 
+responsibility which rests upon me, to be Accountable for the good Conduct
+of the <persName>Settlers</persName>, And the perplexing task of administering the <persName>Civil
+Government of the Colony</persName>, And then Ask yourselves whether you
+would not rather take your Single League of Land in peace than to
+receive what I am entitled to together with the 12 1/2 cts an acre And
+be involved in the Labyrinth of trouble and Vexation and 
+responsibility that I am&#8212; As regards the equivalent which you were to
+receive for this 12 1/2 cts an Acre, <hi rend="italic">was it not worth it?</hi> And if you
+could not have obtained it any other way would you have been
+unwilling to pay that Sum for it? And could you or would vou ever
+have obtained it unless through my exertions? I Have been thus
+lengthy in this exposition because I deemed it my duty to explain
+to you fully every step I had taken or intended to take in the 
+Business&#8212; You now can form your own Opinion relative to the merits
+or demerits of my exertions And particularly whether I ought in
+justice to be charged with illegally and unjustly speculating on
+the <persName>Settlers </persName>as I am told I have been by a few, And whether the
+Conditions made public by me in the beginning of the <placeName>settlement</placeName>
+was not in fact a proposal for a fair And specific Contract in which
+I was one Party And All who applied to me for a settlement in this
+<placeName>Colony </placeName>formed the other party ? And whether every honorable man
+ought not to feel himself in Equity bound to that Contract, even
+if the <persName>Government of this Province</persName> declared otherwise&#8212; It is a well
+acknowledged rule that a Man's labor merits reward in proportion to
+the benefits derived from it, and also that the value of an Article
+is prized in proportion to the difficulty of obtaining it&#8212; Apply
+this rule to the present case&#8212; When my <persName>Father </persName>obtained the 
+permission for this <placeName>Settlement </placeName>no other person had ever been able 
+before that time to procure such a privilege, And Altho hundreds of
+applications have been made, no one has ever obtained it since,
+And the <persName>families </persName>who have settled in different parts of the <placeName>Province</placeName>
+out of this <placeName>Colony </placeName>are at the entire mercy of the <persName>Government </persName>
+without the least Security whatever that they will ever get land or even
+be permitted to rem[ai]n in the peaceable possession of the places
+they have chosen,&#8212; the privilege therefore procured by my <persName>Father</persName>
+and perfected by me was difficult to get for no one had ever succeeded
+in getting it before him, nor since. And it has cost the life of my<pb n="822"/>
+<persName>Father</persName>, More than three years of my labour, A Trip to <placeName>Mexico</placeName>, And
+immense expence, All which was at my own individual risk If 
+therefore the above rule can be applied to this case, that an Article is
+prized in proportion to the difficulty of obtaining it. Surely the
+privileges I have obtained for the <persName>settlers of this <placeName>Colony</placeName></persName> ought to
+be prized highly&#8212; And Also if my labors are to be valued in 
+proportion to the benefits which the <persName>Settlers </persName>receive from them, they are
+worth Something, that is if it is considered that a League of Land
+here is of any value&#8212; I therefore cannot help considering that the
+Contract Originally made between me and the <persName>settlers </persName>in justice is
+and ought to be obligatory on both parties And Whether the 
+<persName>Governor of this <placeName>Province</placeName></persName> can properly interfere in my private Contracts,
+And release the <persName>Settlers </persName>from all legal obligation to comply with
+them, is a question Which I shall not enter upon&#8212; If however you
+admit the principle and say that he can interfere in one private
+Contract And dissolve it why may he not with equal justice do the
+same in all? Where is the stopping place? Where is the Security
+for any man who Contracts to do a certain Specific thing for a fixed
+sum, if the Contract can be dissolved in this manner?</p>
+
+<p>It might however be observed that if the <persName>Settlers </persName>Consider the
+Original Contract dissolved on their parts why have not I the same
+privilege to consider myself also free from all Obligation to procure
+titles for their lands! and say to those who refuse to Comply with
+the Original terms stipulated with them&#8212;Attend to your business-
+Go elsewhere to procure your Titles&#8212;I will have nothing more to
+do with the Business&#8212;A thing which I might in justice do, if the
+Original Contract was disregarded, And which I certainly would do
+were I to be governed solely by motives of self interest&#8212;for it must
+be evident to you all that if I receive nothing from the <persName>settlers </persName>a
+further prosecution of the object would only involve me still more
+in pecuniary difficulty and ruin&#8212;for I am to get 22 1/2 Leagues of
+Land half of which was disposed of in the beginning to raise funds
+to enable me to effect the object as I before stated which leaves 11 1/4
+Leagues to my share&#8212;Now suppose that these 11 1/4 Leagues were sold
+at this time to raise money to replace what I have expended in the
+Business And to pay the debts I have been obliged to contract with
+<persName>Surveyors </persName>and others would it not still leave me in debt to say
+nothing of my time And labour for more than 3 years past&#8212;
+Whatever may be the determination of the <persName>Settlers </persName>in this point I hope
+they will do me the justice to take a full end impartial view of the
+whole subject and not be too ready to condemn me as a <persName>speculator</persName>
+on the poor, a charge which I am told a few discontented Men have
+made against me And One which I think is unmeritted And which
+I do hope the reflecting And sound part of the <placeName>Colony </placeName>will pro-<pb n="828"/>
+nounce to be unjust-for my plan so far from Oppressing the poor
+was Calculated And intended to relieve them&#8212;I also wished to do
+justice to myself and <persName>family </persName>which it was my duty to do&#8212;</p>
+
+<p>It is well Known to you all that I have contracted to pay $5 per
+Mile for the surveying that is Already done And that by the late
+regulation I am only allowed $27 per League Now let any candid
+man say whether it would be just for me to suffer this loss, a loss
+which would be incurred by me solely for the individual benefit of
+the <persName>Settlers</persName>&#8212;As regards the future surveys much difficulty presents
+itself, unless my first plan is still continued, for it will be difficult to
+procure <persName>surveyors </persName>at $27 per League and I am induced to believe 
+impossible to procure them&#8212;The <persName>Settlers </persName>must therefore be content
+with imperfect Surveys of their land or aid the <persName>surveyors </persName>in 
+carrying the chain marking etc.&#8212;Another difficulty is that unless the land
+is regularly run off, so as to join where the nature of the situation
+will admit of some Confusion may Arise in making locations and
+the Settlement of a <persName>neighbourhood </persName>be greatly disarranged which
+might have been Compact, for the <persName>Governor </persName>has ordered that 
+hereafter no sitio tracts can be run in any other way than in full Leagues
+&#8212;So that if locations are made so as to leave fractions of 1/4 or 1/2 etc
+etc of a League between them, those fractions could not be occupied
+at all untill the public lands were generally disposed of&#8212;I wish to
+make one observation as regards the Surveys generally&#8212;Many of
+you say that you came here to procure Land for your <persName>children</persName>, if so
+ought you to get that Land for them in a way that even by possibility
+might involve them in lawsuits hereafter relative to their lines?
+And if the surveys are not regularly and fully Completed and
+marked will it be possible to avoid interference and consequent
+future litigation and perhaps ruin to yourselves or to your <persName>heirs</persName>, and
+is it not better that you should have your land surveyed in full even
+at any reasonable cost than to locate at random&#8212;</p>
+
+<p>I will now make a few observations relative to the <persName>Civil Government
+of this <placeName>Colony</placeName></persName> And then Close this Statement&#8212;The responsibility of
+the public Order and Administration of justice in this <placeName>Colony </placeName>was
+imposed upon me by the Superior Government as you see by the
+Decree of the <placeName>Emperor</placeName>&#8212;This charge is however only provisional as
+I have always informed you untill the <placeName>Colony </placeName>is filled up And you
+have the members to appoint your <persName>Ayuntamientos </persName>or representative
+bodies&#8212;The legal jurisdiction of each of these <persName>Ayuntamientos </persName>As
+the <persName>Governor </persName>informs me is five Leagues square when the 
+population Admits of that division&#8212;these divisions are called <placeName>partidos </placeName>or
+<placeName>prescincts </placeName>And also elect their <persName>Alcaldes</persName>&#8212;A number of these 
+prescincts forms a district, And the <persName>Ayuntamiento of the Capital of
+the <placeName>District</placeName></persName> has in some respects a kind of superintendance in a few
+things over the others, And there is Also appointed a <persName>Judge </persName>for each<pb n="824"/>
+of said <placeName>Districts </placeName>called in Spanish a <persName>Juez de letras</persName> or <persName>Judge of 
+Learning</persName>&#8212;In this way this <placeName>Colony </placeName>will be organized as soon as it can be
+done&#8212;I wished the <persName>Governor </persName>to do it when here, but he thought it
+too soon And promised to do it in the fall I am particularly Anxious
+to see this arrangement Completed for it will release me from the
+disagreeable task now imposed upon me and will probably be much
+more satisfactory to the people as then they will be governed by Men
+elected by themselves, for these <persName>Ayuntamientos </persName>are a species of Select
+Men or <persName>Council </persName>elected Annually by the people of the <placeName>prescinct</placeName>, And
+the <persName>Alcaldes </persName>are also elected in the same way</p>
+
+<p>The office I now hold was never sought for by me from choice or
+inclinotion but it must have been filled by some one untill the <placeName>Colony</placeName>
+was organized and I thought it would promote the general interests
+of us all much more to take it myself than to run the risk of haviug
+an officer sent here who knew nothing of our language customs or
+dispositions&#8212;I have never sought after appointments And never shall
+but I deem it the duty of every one to serve his Country when called
+on to do it so far as his Capacity will admit&#8212;</p>
+
+<p><date when="1824-06-05">June 5: 1824</date>.</p>
+
+<p>Your fellow Citizen</p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+<p><persName>Stephen F. Austin</persName> in his memorial to the <persName>Mexican Government</persName>
+first stated the quantity of land he had promised to the <persName>settlers </persName>under
+the arrangement with <persName>Govr. Martinez</persName> And prayed the Govt to confirm
+that quantity to them or designate the quantity they were to have
+And also that certain fixed limits should be established for the
+<placeName>Colony</placeName>&#8212;2ndly- He prayed that the mode of making out the titles and
+delivering them to the <persName>Settlers </persName>should be fixed&#8212;3dly He asked for
+permission to settle as many <persName>families </persName>in the limits which he prayed
+for as the land in those limits would permit. 4thly He required to
+know the quantity of land that wd be allowed to him for his own
+use. 5thly- He asked for Authority to found a <placeName>Town</placeName>-&#8212;6&#8212;He asked
+the Govt to designate the manner in which the Civil Govt of the
+<placeName>Colony </placeName>should be administered in its commencement and untill it was
+completed&#8212;</p>
+
+<p>This Meml was presented 9 months before the passage of the 
+Colonization Law and was referred to the Council of State who made a
+lengthy report thereon after the said law was published, a copy of
+which report also accompanies the decree of the <persName>Emperor </persName>and upon
+that report was founded the following Decree of the <persName>Emperor</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

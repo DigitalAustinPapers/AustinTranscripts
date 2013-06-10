@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0723">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 04-20-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 768-769
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-04-20">04-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bastrop elected to represent the colony in State Congress. Has received the acta constitutiva.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1824-04-20">April 20, 1824.</date>
+I received only <date when="1824-04-19">yesterday </date>your communication of the <date when="1824-03-18">18th of
+March last</date>, in which amongst other things, you instruct me to send
+a certified power of the people of this <placeName>Colony</placeName>, appointing an elector
+to proceed to the electoral meeting for electing a <persName>Representative in
+the Legislature of the State</persName>, I lost no time in sending expresses in
+every direction to obtain the votes of the <persName>Colonists</persName>, and I am 
+authorized by over one half of them to say to you that they have elected<pb n="769"/>
+the <persName>Baron de Bastrop</persName>, our Representative in the Most Excellent
+Deputation, to be our <persName>elector </persName>for the above mentioned object. As
+soon as I receive the votes of the others, I shall forward them to
+the <persName>Government</persName>, for due authenticity. In the meanwhile, and at
+the request of those who have already voted, I send to you the 
+inclosed power certified by the <persName>Alcalde of this District of San Felipe</persName>,
+that of the <placeName>Colorado</placeName>, and myself, for the truthfulness of which we
+are personally responsible. We can also assure you that the <persName>Baron
+de Bastrop</persName> will be unanimously elected by the <persName>people of this
+<placeName>Colony</placeName></persName>. Time has not allowed me to do anything else because, is
+I have already said, your communication was received <date when="1824-04-19">yesterday</date>
+only; and I have thought advisable to avail myself of an occasion
+offering to day for <placeName>La Bahia</placeName>, to report the subject to you, I have
+received the Constitutive Act and the Law creating the Legislature
+of this State; in Compliance with your order, I have appointed the
+<date when="1824-05-01">1st of May next</date> for proclaiming and swearing to said Constitutive
+Act with all the solemnity and enthusiasm required by that 
+important, and glorious subject, of which I shall give you a 
+circumstantial account by next occasion. There has been nothing new in
+the <placeName>Colony</placeName>, since the encounter of a party of <persName>Karankauases </persName>some
+time since, by some <persName>inhabitants of this <placeName>Colony</placeName></persName>, which incident I
+have reported to the <persName>Military Commander</persName>. It has not been possible
+as yet to sell the corn contributed by these people for the 
+<persName>Representative in Congress</persName></p>
+
+<p><persName>Estevan F Austin
+Political Chief of the
+<placeName>Colony on the Colorado and Brazos</placeName></persName></p>
+
+<p>I pray you to excuse my erasures and bad Spanish; but the 
+person who will take this letter is about to leave, and will not wait until
+I can have a clean copy made</p>
+
+<p><persName>E F Austin</persName></p>
+
+<p><persName>José Antonio Saucedo,
+Political Chief of the <placeName>Province of Texas</placeName></persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

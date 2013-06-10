@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0765">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Randall Jones to Stephen F. Austin, 06-04-1824</title>
+            <author>
+                <persName>Randall Jones</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Fort Settlement, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 809
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-04">06-04-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting instructions to deputy in State congress. Slavery, registering marks and brands, forbidding the killing of deer and horses for skins, forbidding the burning of the prairie.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Fort Settlement</placeName> <date when="1824-06-04">4th June 1824</date></p>
+<p>Dear Sir</p>
+
+<p>agreeable to the notice we received some of us agreed to have a
+meeting but I think we lack publick spirit. I would come up but
+our horses have been injurd by the flies so much that I could not
+come. My wish is that this country should populate fast and I
+think that nothing would facilitate that more than the admission
+of Slavery in this state. An act for the regestering of marks and
+brands also ought to claim the attention of the <persName>Legislature </persName>The
+increase of stock will cause difficulties. An act to prevent the 
+killing of Deer and Wild horses for the Skins alone I think necessary
+also. An [act] to prevent persons from Setting the <placeName>praria</placeName> on fire
+near the <placeName>Settlements </placeName>would be necessary; at certain seasons if the
+<placeName>praria </placeName>was fird it would destroy our stocks. As a citizen wishing
+to conform to every request of my <persName>officers </persName>I have thought proper to
+communicate my sentiments in this way</p>
+
+<p><persName>R. Jones</persName></p>
+
+<p>[Addressed:] <persName>Col Stephen F Austin</persName>   <placeName>St Felipe De Austin</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

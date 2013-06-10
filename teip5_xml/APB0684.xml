@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0684">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to John P. Coles, 02-02-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John P. Coles
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 736-737
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-02-02">02-02-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure. Confirmation of verdict.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Sir,</p>
+
+<p>I received your official letter dated the <date when="1824-01-31">31 ultimo</date> together with
+the charges against <persName>William Fitz Gibbons</persName>, <persName>Peter Whitiker</persName> and
+<persName>William Whitiker</persName> for stealing, and enclosing a transcript of the
+proceedings and verdict of the <persName>jury </persName>at the tryal of <persName>Peter Whitiker</persName>,
+the other two having escaped, and also the defence of the said <persName>Peter
+Whitiker</persName></p>
+
+<p>The verdict of the <persName>Jury </persName>in this case finds the <persName>prisoner Peter 
+Whitiker</persName> guilty of stealing four hogs worth ten Dollars each and assess
+a fine against him of one hundred and twenty Dollars and costs of
+Suit&#8212;</p>
+
+<p>The 15th article of the Ordinance for the punishment of crimes
+within this <placeName>Colony </placeName>declares that "any person who shall be 
+convicted of stealing any Money horse or other property shall pay
+trebel the amount of the property stolen and be condemned to hard
+labor on public works untill the <persName>Superior Government</persName> decides on the
+case" After attentively examing the transcript of the evidence and
+proceedings in this case and the verdict of the <persName>jury </persName>and also the
+defence of the <persName>prisoner Peter Whitiker</persName>, I have thought proper to
+approve and do hereby approve the said verdict and order that it be
+immediately executed with the following modifications</p>
+
+<p>An execution shall immediately issue from the office of the <persName>Alcalde
+of the <placeName>District of the Brazos</placeName></persName> against the property of <persName>Peter Whitiker</persName>
+and his <persName>accomplices </persName><persName>William Fitz Gibbons</persName> and <persName>William Whitiker</persName>
+for the sum of forty Dollars or the value thereof in property of
+the kind stolen or any other property if none of that kind can be<pb n="737"/>
+found, being the value of the hogs stolen which when collected shall
+be delivered to the <persName>Alcalde </persName>of said district to be paid over when 
+properly demanded to the rightfull owners of said stolen hogs also said
+Execution shall issue for the whole amount of the costs of suit and
+expence of the <persName>guard </persName>and any other legal charges to be collected
+from the property of either or all of said <persName>parties </persName>concerned in said
+theft&#8212;Also the <persName>Alcalde </persName>of sd District will cause a written notice to be
+served by the <persName>constable </persName>on said <persName>Peter Whitiker</persName> <persName>William Fitz Gibbons</persName>
+and <persName>William Whitiker</persName> that unless they remove and depart with
+their <persName>families </persName>and effects from off the waters of the <placeName>Brazos </placeName>or
+<placeName>Colorado River</placeName>s within three months from the date of said 
+notice the full penalty of the 15 section of the ordinance before recited
+will be enforced against them, that is that trebel the amount of the
+property stolen will be collected from the property of the said <persName>Peter
+Whitiker</persName> and his <persName>accomplices </persName><persName>William Fitz Gibbons</persName> and <persName>William
+Whitiker</persName> and that they will also be condemned to hard labor on
+public works as said section provides&#8212;The cost of serving which
+notice shall also be paid by said prisoner and his said accomplices</p>
+
+<p>The <persName>Alcalde </persName>of the said <placeName>district of the Brazos</placeName> is particularly
+charged with the full execution of this order in all its parts and will
+render an account to me when it is finally executed&#8212;</p>
+
+<p>Given under my hand at the town of <placeName>St Felipe de Austin</placeName> this <date when="1824-02-02">2d
+day of February 1824&#8212;4th 3d</date></p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p><persName>Judge</persName></p>
+
+<p>To the <persName>Alcalde of the <placeName>District of the Brazos</placeName></persName> [John P Coles]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

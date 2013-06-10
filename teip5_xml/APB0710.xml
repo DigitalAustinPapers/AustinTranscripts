@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0710">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 03-31-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazos</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 759-760
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proclamation</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-03-31">03-31-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Militia organization. Commission and instructions to Josiah H. Bell. Immigration. Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Stephen F Austin Lieut Col of Militia and Political Chief of
+Austins Colony in the Province of Texas.</persName></p>
+
+<p>The detached and exposed situation of the <placeName>lower Settlements on
+the Brasos River</placeName> in this Colony requiring that an <persName>officer of the
+Militia</persName> should reside in that quarter.</p>
+
+<p>Therefore I do by these presents appoint <persName>Josiah H. Bell a 
+Lieutenant of the Militia</persName> within the district of Country on the <placeName>Brasos
+and Oyster Creek</placeName> from the <placeName>Fort </placeName>and on the <placeName>Bernard </placeName>from the <placeName>Mound
+</placeName>to the <placeName>sea Shore</placeName>, and the said <persName>Bell </persName>will addopt all necessary 
+measures to protect the said <placeName>settlements </placeName>from the attacks of the 
+<persName>Karankawias</persName>, <persName>Cokes</persName>, or any other <persName>Indians</persName>, and to chastise them for any
+depredations they may commit within said limits without wating
+for orders from his <persName>Superior officer</persName>, avoiding in all cases the sheding<pb n="760"/>
+of blood where more gentle means are likely to produce the proper
+effect&#8212; In all other cases the said <persName>Bell </persName>will be subordinate to the
+<persName>Captain of the Brasos Company</persName> The sd. <persName>Bell </persName>will also watch over
+the public peace and the observance of the laws generally and 
+forward on to the <persName>Alcalde of the District</persName> for tryal all persons who
+violate them&#8212;he will also be attentive that no <persName>vagabond </persName>or 
+<persName>fugitives </persName>from justice are harbord or protected within his command nor
+any persons who are avowedly <persName>enemies of the <placeName>Mexican Nation</placeName></persName>,
+giving an Account to me of all such and if necessary apprehending
+and forwarding them to the <persName>Alcalde </persName>for tryal&#8212;he will be particular
+to give frequent statements to me in writin[g] of all his official acts,
+as also of the arrival of any vessels or emigrants or any other 
+remarkable occurrance&#8212; And I command all persons to obey the said
+<persName>Bell </persName>accordingly&#8212;under the pains and penalties prescribed by the
+law.</p>
+
+<p>Given in the <placeName>lower settlement of the Brasos</placeName> this <date when="1824-03-31">31, day of March
+1824 in the 4th year of the independence and 3d year of the liberty
+of the <placeName>Mexican Nation</placeName></date></p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

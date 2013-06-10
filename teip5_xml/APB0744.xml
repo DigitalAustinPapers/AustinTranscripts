@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0744">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Antonio Saucedo to Colonists, 05-20-1824</title>
+            <author>
+                <persName>Jose Antonio Saucedo</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 794-795
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proclamation</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-20">05-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Political chief's proclamation, Saucedo to Colonists. Defining limits of Austin's colony and Austin's authority therein.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Jose Antonio Saucedo Political Chief of the <placeName>Province of Texas</placeName></persName>,
+the <placeName>Colony </placeName>formed by its <persName>Founder, Stephen F. Austin</persName> on the <placeName>Rivers
+Colorado and Brasos in this Province</placeName> for the present, and untill the
+judicial district of 5 leagues square are established as the law directs
+shall form one district, the limits of which shall be as follows, "From<pb n="795"/>
+the <placeName>Sea shore</placeName> to the road running from <placeName>San Antonio de Bexar</placeName> to
+<placeName>Nacogdoches </placeName>and on the west as far as <placeName>la Baca Creek</placeName> and on the East
+as far as the Creek called <placeName>Choclate Bayou</placeName> including the creeks and
+waters of the <placeName>Colorado </placeName>and <placeName>Brazos </placeName>in which district said <persName>Austin</persName>
+shall have a general command and Superintendance as <persName>political Chief
+and Judge</persName> to administer justice preserve good order and command
+the <persName>Militia </persName>in conformity to the powers granted to him by the 
+<persName>Superior Government</persName> which he is to exercise for the present and unt[i]ll
+the "<persName><hi rend="italic">Ayuntamiento</hi>" of the <placeName>Colony</placeName></persName> are organized according to the
+laws of the Country in the discharge of which duties he <hi rend="italic">will he aided</hi>
+by the number of <persName>Alcaldas </persName>that may be deemed necessary for the
+better Accomodation of the publick.</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1824-05-20">20th of May 1824 4, 3</date></p>
+
+<p>Signed           <persName>Jose Antonio Saucedo
+
+Gefe Polo.</persName></p>
+<p><placeName>Prova. de Texas.</placeName>
+A true translation
+Austin</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

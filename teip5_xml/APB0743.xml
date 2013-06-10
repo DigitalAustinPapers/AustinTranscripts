@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0743">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas M. Duke to Unknown, 05-15-1824</title>
+            <author>
+                <persName>Thomas M. Duke</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 793-794
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Election</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-15">05-15-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Militia election.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>In Compliance with an order from <persName>Coln Stephen F. Austin</persName> for the
+Elexion of a <persName>Captain </persName>and <persName>Lieutenant</persName>; an Elexion was held at the<pb n="794"/>
+<placeName>house of <persName>James Cummins Alcalde of the River Colorado</persName></placeName> on the <date when="1824-05-15">15th
+May 1824</date></p>
+
+	
+
+<p>				       <persName>Captain</persName>			    <persName>Lieutenant</persName>
+Names of <persName>Voters</persName>.		<persName>J. Burnam</persName>	<persName>R Alley</persName>		<persName>Hadden</persName>	<persName>Dewees</persName>
+__________________________________________________________________________
+<persName>James Tumlinson</persName>			1		-	         -		   	1
+<persName>E. Ratliffe</persName>				2	      -		   -			2
+<persName>John Demoss	</persName>			3	      -		   1			3
+<persName>J. Robinson</persName>				4	      -	         1			4
+<persName>N. Whiting</persName>				5           1		   -			5
+<persName>L. Tumblinson </persName>    		-		2		   -			6
+<persName>A. Tumlinson</persName> 			6	      3		   2			-
+<persName>J. Tumlinson jr.</persName>			7		-		   3			-
+<persName>Thos M Duke</persName>				8		-		   4			-
+<persName>Abrm Alley</persName>				9		-		   5			-
+<persName>J. McNair</persName>				10		-		   6			-
+<persName>John Tumlinson</persName>			11		-		   7			-
+<persName>John Toval</persName>				12		-		   8			-
+<persName>Jose Maria Liga</persName>			13		-		   9			-
+<persName>Hacintho Martinez</persName>			14		-		   10			-
+<persName>J. Burnum</persName>				15		-		   11			-
+<persName>J. Haddin</persName>				16		-		   12			-
+<persName>W. Dewees</persName>				17		-		   13			-
+<persName>R. Alley </persName> 				-		-		   14			-
+<persName>Thomas Grey	</persName>			-		-		   -			-
+					17		3	         14			6
+___________________________________________________________________________</p>
+<p>The Elexion being held <persName>Jesse Burnam</persName> was duly Elected <persName>Captain</persName>
+and <persName>John Haddin Lieutenant</persName>   witness <placeName>Colorado </placeName><date when="1824-05-15">15th [May] 1824</date></p>
+
+<p>teste</p>
+
+<p><persName>Thos M. Duke    [Rubric]
+Clerk</persName></p>
+
+<p><persName>James Cummins</persName>    
+<persName>Thomas Williams</persName>   <persName>Judges</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0679">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Austin and William Pettus to Unknown, 01-26-1824</title>
+            <author>
+                <persName>John Austin and William Pettus</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 731-732
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bond</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-01-26">01-26-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Constable's bonds.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>We or eather of us promise to pay to the <persName>Judge of <placeName>Austins Colony
+</placeName></persName>the sum of Five Hundred Dollars, for the payment of which we<pb n="732"/>
+bind ourselves our <persName>heirs </persName>and <persName>assigns</persName>.&#8212;The condition of the above
+obligation is such that whereas <persName>John Austin</persName> one of the <persName>parties </persName>to
+this bond has been appointed <persName>Constable of the <placeName>District of San Felipe
+de Austin</placeName></persName> in said Colony.&#8212;</p>
+
+<p>N[ow therefore] should the said <persName>John Austin</persName>, well and truly
+[perform and] discharge the Duties of said office of <persName>Con[stable]
+</persName>over all Monies collected by him in his 0[fficial] capacity 
+according to law then this Bond to be [null and void otherwise to be in
+full force.</p>
+<p>Given under [our hand and seal] this <date when="1824-01-26">26th day of January 1824</date>&#8212;</p>
+
+<p><persName>John Austin</persName>    (Seal)</p>
+<p><persName>Wm Pettus</persName>       (Seal)</p>
+
+<p><persName>Witness</persName></p>
+
+<p><persName>Sylvanus Castleman</persName></p>
+
+<p>[January 26, 1824?]</p>
+
+<p>We or either of us promise to pay to the <persName>Judge of <placeName>Austins Colony</placeName>
+</persName>the Sum of Five hundred Dollars for the payment of which we
+bind ourselves our <persName>heirs </persName>and <persName>assigns</persName>&#8212;</p>
+
+<p>The Condition of the above obligation is such that whereas <persName>Thomas
+V. Alley</persName> one of the <persName>partners </persName>of this Bond has been appointed 
+<persName>Constable of the District of Colorado</persName> in said <placeName>Colony</placeName>&#8212; Now therefore
+should the said <persName>Thomas V. Alley</persName> well and truly execute and 
+discharge the duties of said office of <persName>Constable </persName>and pay over all monies
+Collected by him in his official Capacity according to law then this
+Bond to be Null and Void otherwise to be in full force</p>
+
+<p><persName>Thomas V. Alley</persName></p>
+<p><persName>James P Ross</persName></p>
+<p><persName>Witness</persName></p>
+
+<p><persName>James Cummins Alcalde of the <placeName>District Colorado</placeName></persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

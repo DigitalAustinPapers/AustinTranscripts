@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0724">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Josiah H. Bell, 04-20-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Josiah H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 769-770
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-04-20">04-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Election of Bastrop. Celebration of the acta constitutiva.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Province of Texas</placeName> <date when="1824-04-20">April 20 1824</date></p>
+<p>I have presented the order to <persName>McFarlane</persName> from <persName>White </persName>it appears
+that only the <hi rend="italic">oven </hi>is good for any thing   the others are broken I am
+told   I send you two hooks and eyes one for you and one for yotir
+<hi rend="italic">better half</hi> to whom you will please give my compliments<pb n="770"/>
+try and get all the people to sign the paper I sent down relative to
+the appointment of the <persName>Baron </persName>and those you cannot see before do it
+on the <date when="1824-05-01">1 of May</date>&#8212;If you can get any thing Suitable try and make a
+<hi rend="italic">flag Red, White and Green,</hi> and endeavor to pass the day on the 1st
+in a lively and agreeable manner&#8212;it was my wish to See the whole
+Colony convened at one place on this occasion, but that would have
+been too inconvenient</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+<p>tell <persName>Mr. Allsberry</persName> that <persName>Parker </persName>started this day to go and trade with
+the <persName>Lipans </persName><persName>John Austin</persName> has gone with him and I regret <persName>Allsberry</persName>
+was not here to go&#8212;</p>
+
+<p>This is [written in a] great hurry</p>
+
+<p>[Addressed:]    <persName>Josiah H Bell</persName> <placeName>Lower Settlement</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

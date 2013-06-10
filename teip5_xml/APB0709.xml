@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0709">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Seth Ingram to Stephen F. Austin, 03-25-1824</title>
+            <author>
+                <persName>Seth Ingram</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Peach Creek, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 759
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-03-25">03-25-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Surveys.  Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Peach Creek</placeName>, <date when="1824-03-25">March 25th 1824</date>.</p>
+<p>Dear sir</p>
+
+<p>In the course of six or eight days I shall finish the <placeName>Leagues above
+the base line</placeName>, all except that part of the <placeName>1st 2nd and 3rd next to the
+Colorado</placeName>, which I cannot conveniently do at present, there being
+no water in running below the base line. I want your advice,
+whether I shall run two Leagues deep or one before I come to the
+<placeName>head of caney creek</placeName>, if I do not make two, one will be very long, some
+of these that I have run are above seven miles long, the next below
+the base line will be seven or eight miles long, and perhaps nine.
+The <placeName>Leagues we plotted for <persName>Mr. Selkirk</persName></placeName> to run did not reach the
+<placeName>Prairie</placeName>. I altered the plot and made three Leagues instead of two.
+In one point more I want your advice, the course with which I have
+run the seven first Leagues will not do to run the next, it runs too
+much down the <placeName>creek </placeName>and does not come square enough to the
+<placeName>Prairie</placeName>, the course being S 20° W. the same as <persName>Kincheloe</persName>s line. I have
+been down the <placeName>Prairie </placeName>fifteen or twenty miles and think a S. W.
+course will not suit the best or perhaps S 60° W Send me an answer
+by the first opportunity, if you please, sir.</p>
+
+<p>I would give you a history of our late <persName>Indian </persName>fight, but the <persName>bearer</persName>
+of this can give you an account of it, which will answer every 
+purpose,&#8212;</p>
+
+<p>Sir, do not forget to write to my <persName>Brother</persName>, by yours, write him
+that now is the time to come to this country, and that I have secured
+him a tract of land if he will come soon, in so doing you will much
+oblige</p>
+
+<p><persName>Seth Ingram </persName>   [Rubric]</p>
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

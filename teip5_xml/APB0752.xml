@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0752">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Alcade of San Felipe, 05-25-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Alcade of San Felipe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 803
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-25">05-25-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing Bastrop's election. Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The <persName>Government of this <placeName>Province</placeName></persName> by their official letters dated
+<placeName>Bexar </placeName><date when="1824-05-10">May 10. 1824</date> have informed me that the <persName>electorial Colledge
+of this <placeName>Province</placeName></persName> had on that day unanimously elected the <hi rend="italic"><persName>Barron de
+Bastrop</persName></hi> the <persName>Deputy in the legislature of this <placeName>Eastern internal State</placeName></persName>,
+and the <persName>Lieutenant Colonel Subdeacon Don Juan Manuel Sambrano</persName>
+Supernumary (Suplente) to said legislature&#8212;</p>
+
+<p>Also that the most excellent Deputation of this <placeName>Province </placeName>have
+declared war against the <persName>Toweass Indians</persName> in consequence of their
+having murdered <persName>Peter Longueville an inhabitant of <placeName>Bexar</placeName></persName>&#8212;</p>
+
+<p>Also in answer to my Official letter giving an account of the
+affair with the <persName>Carankaways </persName>in the <placeName>bay Prairie</placeName> the <persName>Government </persName>
+approve to the mesage sent by me to the <persName>Chief </persName>of said <persName>Nation </persName>by
+<persName>John Austin</persName> when he went to <placeName>La Bahia </placeName>which was that all <persName>Indians</persName>
+of that <persName>nation </persName>caught on this side of the <placeName>Guadaloupe </placeName>would be
+treated as <persName>enemies </persName>untill they came in and made peace and satisfied
+the <persName>inhabitants of this <placeName>Colony</placeName></persName> for the depredations committed on
+the <placeName>Colorado</placeName>&#8212;which message the <persName>Government </persName>have ordered the 
+<persName>Alcalde of <placeName>La Bahia</placeName></persName> to repeat to them&#8212;ordering me at the same
+time in case of meeting any of said <persName>Indians </persName>to call them first as
+<persName>friends </persName>before they are fired upon&#8212;</p>
+
+<p>Also they inform me that a <persName>Regiment of troops</persName> is on the march
+to this <placeName>Province </placeName>for the purpose of protecting it against the 
+<persName>Indians </persName>all which you will communicate to the <persName>inhabitants of the
+<placeName>district</placeName></persName> under your charge in the most public manner&#8212;</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1824-05-25">May 25. 1824</date></p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p>To the <persName>Alcalde of <placeName>St Felipe de Austin</placeName></persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0686">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Anthony R. Clarke to Stephen F. Austin, 02-03-1824</title>
+            <author>
+                <persName>Anthony R. Clarke</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazos, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 738-739
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-02-03">02-03-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bad characters around Nacogdoches. Local election. Monroe doctrine. False reports of Austin's colony spread by criminals expelled from it.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdoches </placeName><date when="1824-02-03">3rd Feby 1824</date></p>
+<p>Dear Sir</p>
+
+<p>I have the pleasure to acknowledge the Receipt of your letter,
+the date I cannot refer to as I am from home, I can only thank
+you for the confidence you place in me,&#8212;I have made all the 
+enquierys in my power for the carractors you requested but can 
+procure nothing worth writing Prater was plundered of much of
+his stock which is an evidence in his favour as I have not known
+an instance of their stealing from each other&#8212;This part of this
+<placeName>District </placeName>is setling very fast we have now a majority and have
+punished and driven off most of the bad carractors, last week four
+men made their escape from the <persName>officers </persName>sent to apprehend them from
+the <placeName>upper settlement</placeName> about the Tenaha viz <persName>Jeffry Brown</persName> <persName>Henry
+Brown</persName> <persName>James Hogan</persName> and <persName>Waller Hogan</persName> enough of their property
+has been etatched to pay for the solen property and the expences</p>
+
+<p>An order has been received here from <persName>Saleauder [Saucedo]</persName> at <placeName>St
+Antonio</placeName> for Elections to be held for <persName>alcaldes</persName>, the Election was held<pb n="739"/>
+<persName>Bean </persName>was elected for the <placeName>Naches </placeName><persName>Juan Seguan</persName> and myself for <placeName>Nacogdoches</placeName>
+and <persName>John J. Williams</persName> for the <placeName>liesh Bayou</placeName>.</p>
+
+<p>I am sorry that it is not in my power to send you the <persName>President</persName>'s
+Message the following is from the best sources that the american
+government will not interfere between <placeName>Spain </placeName>and her colonies but
+if any other nation assists <placeName>Spain </placeName>the <placeName>United States</placeName> will immediately
+assist the <placeName>Colonies </placeName>a <persName>minister </persName>has been sent to <placeName>France </placeName>to make
+known this intention The <placeName>United States</placeName> are equiping three Ships
+of the line and Frigate and Sloops of War for immediate service-
+some <persName>officers from the <placeName>United States</placeName> Garrison</persName> was at my <placeName>house</placeName>
+<date when="1824-02-02">yeasterday </date>they inform that <placeName>Great Britain</placeName> has inform the 
+<persName>American Government</persName> through her <persName>minister </persName>that what ever course the
+<placeName>United States</placeName> adopts with the <placeName>Spanish colonies</placeName> will be adopted by
+<placeName>England</placeName>, all Idea of the <placeName>Colonies </placeName>being invaded by a <persName>French army</persName>
+is given up by the best informed people and it is supposed that
+<placeName>Spain </placeName>is too weak to do anything by herself she now keeps 20000
+<persName>french troops</persName> in <placeName>Spain </placeName>to keep down her own <persName>subjects</persName>&#8212;</p>
+
+<p>As I feel much interested in the welfare of your <placeName>settlement </placeName>I
+give you the following report spred here and gone to the <placeName>United
+States</placeName>;</p>
+
+<p>that the people are much dissatisfied with <persName>Austin </persName>think he has
+no right to sell the lands that [he] compels every man to take a
+league at $700 [to pay] half down that many would leave the 
+<placeName>settlement </placeName>and that <persName>Austin </persName>will about abandon the <placeName>settlement </placeName>the mans
+name was <persName>Gibbons</persName>. [He lived at the] <placeName>St Antonio crossing of the
+Ba[Brazos]</placeName></p>
+
+<p>I have not time to say more</p>
+
+<p><persName>Anthoy R. Clarke</persName>   [Rubric]</p>
+<p>[Addressed:] <persName>Col. Stephen Austin</persName> <placeName>Brassos</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0761">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 05-28-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 806-807
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Election</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-28">05-28-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin confirms a militia election.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Stephen F. Austin lieutenant Colonel of the Militia of the
+<placeName>Colony on the Colorado and Brazos rivers in the Province of Texas</placeName></persName>
+and charged by the <persName>Mexican Govt </persName>with the appointment of the
+<persName>Militia officers</persName> of said Colony untill its organization is completed&#8212;<pb n="807"/></p>
+
+<p>It appearing by the official returns of the election held on the
+<date when="1824-05-15">15 day of May instant</date> for the <persName>officers of the <placeName>upper detachment of
+the Colorado</placeName></persName> that <persName>Jessee Burnam</persName> was duly elected <persName>Captain of said
+detachment</persName>, therefore I do by these presents appoint the said <persName>Jessee
+Burnam Captain</persName> of said <placeName>upper detachment of the Colorado</placeName> to hold
+said commission untill the organization of the <persName>Battalion </persName>may render
+a new election necesary or until the <persName>Govt. of this <placeName>Province</placeName></persName> orders
+otherwise&#8212;hereby commanding the <persName>Militia </persName>of said <persName>detachment </persName>to
+obey their said <persName>captain </persName>accordingly</p>
+
+<p>Given at the Town of <placeName>San Felipe de Austin</placeName> in the <placeName>Province of
+Texas</placeName> this<date when="1824-05-28"> 28 of may 1824, 4, 3</date></p>
+
+<p><persName>S. F. A</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

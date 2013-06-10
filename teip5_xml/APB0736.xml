@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0736">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Cummins, 05-04-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Cummins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 783-784
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-04">05-04-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Military reorganization.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Sir,</p>
+
+<p>In Finding that there appears some disagreement between the two
+<placeName>sections of the Settlement on the Colorado</placeName> relative to the 
+appointment of <persName>Militia officers</persName> I have thought it would satisfy all <persName>parties </persName>to<pb n="784"/>
+form a Seperate detachment in the <placeName>upper Settlement</placeName>, and have
+therefore issued the enclosed order which you will see executed&#8212;</p>
+<p><placeName>St Felipe de Austin</placeName> <date when="1824-05-04">May 4 1824</date></p>
+<p>Yours etc</p>
+
+<p><persName>Stephen F Austin   Lt. Col.</persName></p>
+
+<p><persName>J. Cummins   Alcalde of <placeName>Colorado</placeName></persName></p>
+
+<p>The <persName>settlers living in the <placeName>Colorado district above the Eagle Lake</placeName></persName>
+will form a Seperate Detachment of Militia, and will proceed on the
+day and at the place which the <persName>Alcalde </persName>of Said district may appoint,
+to elect a proper person to command the said detachment the sd
+detachment shall be called the upper detachment of the <placeName>Colorado
+District</placeName>&#8212; The returns must be sent to me as Soon as possible that
+the commission may be made out in conformity with them the <persName>alcalde
+of the <placeName>Colorado</placeName></persName> is charged with the execution of this order.</p>
+
+<p><placeName>St Felipe de Austin</placeName><date when="1824-05-04"> May 4, 1824 4.-3</date></p>
+
+<p><persName>Stephen F. Austin Lt. Col.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

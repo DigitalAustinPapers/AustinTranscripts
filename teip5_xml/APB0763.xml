@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0763">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Nathaniel Cox to Stephen F. Austin, 06-03-1824</title>
+            <author>
+                <persName>Nathaniel Cox</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 807-808
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-06-03">06-03-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hawkin's estate and his expenditures for the colony. General Wilkinson.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1824-06-03">3. June 1824</date>.</p>
+<p><persName>Colo. S. F. Austin</persName></p>
+
+<p>Dear Sir, Your letter dated the <date when="1824-04-20">20 April</date> has just reached me
+thro' the <placeName>post office</placeName>&#8212;and I have particularly noted the contents&#8212;<pb n="808"/></p>
+
+<p>I have wrote you several times by persons going to the <placeName>Province</placeName>
+Since the death of our much lamented friend <persName>Hawkins</persName>, giving an
+account of the moneys he has Expended in Effecting the object,
+now under consideration&#8212;and still hope some of my letters may
+get safe to hand&#8212;</p>
+
+<p>The amount which appears to have been so appropriated by him
+Exceeds Thirty Thousand dollars&#8212;this includes the purchas of
+Vessells, Cargoes, and disbursements to <persName>officers </persName>and <persName>seamen</persName>&#8212;Loans
+to individuals traveling to and from the grant, who are unknown
+to me, and lost to his <persName>Heirs </persName>Except as a charge to the grant&#8212;
+payments made to you and on your draft&#8212;and the dreadfull Item of
+Usurious Interest to money <persName>Brokers </persName>for loans at difft  times&#8212;</p>
+
+<p>After the death of our friend <persName>Mrs. Hawkins</persName> made up her mind to
+return to <placeName>Kentucky</placeName>, leaving with me full power and authority to
+transact all business connected with the Estate of her deceased 
+<persName>Husband </persName>upon which she administered, and so far I have done all I
+could do in Settling the Estate, but which from the nature of the
+obligations of <persName>Mr Hawkins</persName> leaves but little to do, for he had 
+mortgaged all his real property and the furniture was under Execution
+at the time of his death&#8212;</p>
+
+<p>I fully approve the resolution you have adopted with regard to
+the <placeName>Texas property</placeName>, for it would now only be sacrificed if put in
+his name, and pay none of the Debts&#8212;for I do not beleive if the
+whole grant was put up at auction a Sale could be effected for One
+Hundred dollars&#8212;Therefore the only plan wh. can avail <persName>Mrs 
+Hawkins</persName> and her children is the one you have adopted&#8212;and the time
+may come when it may make them independent&#8212;</p>
+
+<p>I would answer your Enquires as to a Vessell for the purpose of
+communicating with the <placeName>Brasos </placeName>if I could do So with any degree
+of Satisfaction&#8212;I should however suppose one of 30 to 40 Tons
+might be had for 1000 or 1200 $ pble [payable] one half Cash and
+the balance at 6 or 8 months&#8212;but I have so little intercourse with
+the Lake craft that my statemt is founded on uncertainty-</p>
+
+<p><persName>General Wilkinson</persName> has not yet returned to <placeName>Louisiana</placeName>, nor do we
+expect him for some months yet&#8212;he remains as he says in letters
+to his <persName>wife </persName>and <persName>Son</persName>, to close the accounts of Individuals who put
+claims into his hands for advances to the Republic many years ago,
+and which from all I can learn remain as much unsettled as the
+day he reached <placeName>Mexico</placeName></p>
+
+<p><persName>Nath. Cox</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

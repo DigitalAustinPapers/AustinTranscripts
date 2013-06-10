@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0749">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. B. Austin to Stephen F. Austin, 05-23-1824</title>
+            <author>
+                <persName>James E. B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nachitoches, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 799-800
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-05-23">05-23-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Death of mother.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nachitoches </placeName><date when="1824-05-23">May 23d 1824.</date></p>
+<p>Dear <persName>Brother</persName></p>
+
+<p>I arrived here on the <date when="1824-04-20">20 I[n]st</date> after a journey of considerable
+delay and fatigue&#8212;the Steam B. had left here the morning I arrived
+the Hornet will be up this evening and I hope to leave this on the
+<date when="1824-05-24">morrow </date>or <date when="1824-05-25">next day</date>&#8212; I should have proceeded on by land but my
+horse was so reduced (owing to the flies and Knats) and the mule
+so lame I considered it would be impractable I therefore sent them
+out to <placeName><persName>McGuffin</persName>s</placeName> to sell if he could if not to send them on by House&#8212;</p>
+
+<p>It now becomes my painful task to acquaint you of the death of
+our <persName>Mother</persName>. On my arrival here I proceeded to the <placeName>post Office</placeName>
+where I found 2 letters for you one from our much lamented
+<persName>Mother</persName>, and the other from <persName>E. Bates</persName> containing the Sad News&#8212; I
+enclose them both. We shall soon be left without <persName>relatives </persName>Our
+<persName>family </persName>has been sorely Visited by Divine providence&#8212; <persName>Sister </persName>and
+<persName>E. Bates</persName> are the only ones remaining. I am to much afflicted to
+dwell on this subject any longer&#8212; All the things you wish for can
+not be procured I send 1. ream of Paper the best I can procure&#8212;
+the Blank Books are of such an inferior quality that I shall send
+none&#8212; llb- Bar Salts&#8212; there in no bunting in the place&#8212; The
+trunk you left with <persName>Denny </persName>was sold at publick sale and every thing
+in it except the Mosquito Bar which <persName>McGuffin </persName>will send out to <hi rend="italic">you</hi>
+the first opportunity&#8212; I think if an arrangement can be made I had
+better return by water&#8212;for the expence attending a voyage up this
+river at that season of the year will be something let us come in
+what way we may&#8212; make some determination by the time Thos
+<persName>Alley </persName>starts&#8212; <persName>Varner </persName>assures me no difficulty will arise as respects
+funds on his part.</p>
+
+<p><persName>N. Edwards formerly Govr of <placeName>Illinois</placeName></persName> is appointed <persName>Minister to
+Mexico</persName>&#8212;   he is instructed to claim on the part of the <placeName>U. S.</placeName> the<pb n="800"/>
+country from the <placeName>Sabine </placeName>to the <placeName>Rio Grande</placeName>&#8212;   <persName>Doct Sibly</persName>&#8212;and
+<persName>Mr Cable</persName>&#8212;will forward you some papers&#8212;no more at present</p>
+
+<p><persName>J. Austin.</persName></p>
+<p><persName>Col. Stephen F. Austin</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

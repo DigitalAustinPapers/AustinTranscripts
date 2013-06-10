@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0694">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James Cummins, 03-02-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Cummins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin,TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 746-747
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type=" Private"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-03-02">03-02-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Tariff exemption for seven years. Thanks for subscription of corn to pay expenses of Seguin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>(A Copy)</p>
+
+<p>Sir The <persName>Political Chief of the province of Texas</persName> has informed
+me by his official letter dated the <date when="1824-02-11">11th of the month</date> that the <persName>Sovereign
+Congress of the <placeName>Mexican Nation</placeName></persName> have decreed on the <date when="1823-09-29">29th of 
+September last</date> that all merchandise of what ever nation or Country
+introduced into this <placeName>Province </placeName>shall be free of all duties for seven
+years</p>
+
+<p>He has informed me that the <persName>government of this <placeName>Province</placeName></persName> have
+seen with the greatest satisfaction that the <persName>inhabitants of this
+<placeName>Colony</placeName></persName> have manifesed so liberal a disposition in aiding so far as
+their situation permitted to defray the expences of the <persName>Deputy in
+Congress</persName> and he has particularly directed me to Return the thanks
+of the govt to those whose names are signed to the corn 
+subscription and to assure them that neither their names nor their generosity
+will be forgotten.</p>
+
+<p>He has also directed that you cause copies of the enclosed to be
+posted up in order that none may ever have an excuse or a pretext
+not to obey the <persName>authorities of this <placeName>Colony</placeName></persName> and furthermore he has<pb n="747"/>
+ordered me to notice and punish all persons who in future attempt
+to create confution and disorder in the <placeName>Colony </placeName>by propagating false
+and Malicious Slanders and idle stories relative to the a<persName>uthorities
+of this <placeName>province</placeName></persName> or of this <placeName>Colony</placeName>.</p>
+
+<p>All which you will communicate to the <persName>inhabitants </persName>of your 
+<placeName>district </placeName>in the most expeditious and public manner&#8212;</p>
+<p><persName>San Felipe de Austin</persName></p>
+<p><date when="1824-02-26">Feby 26th&#8212;1824&#8212;4-3</date></p>
+
+<p><persName>Stephen F. Austin
+Political Chief</persName></p>
+<p>N. B. The <persName>Deputy in Congress</persName> informs me by letter dated in
+<placeName>Mexico </placeName>the <date when="1824-01-14">14th of January</date> that <persName>Congress </persName>have decided in favour
+of a <placeName>Federal Republic</placeName> by a vote of 20 to 13&#8212;I have recd a copy of
+the proposed Constitution it is copied from that of the <placeName>United
+States</placeName>.</p>
+
+<p><persName>S. F. A.</persName></p>
+<p>To <persName>James Cummins Alcalde of the <placeName>Colorado</placeName></persName> <date when="1824-03-02">2d March 1824</date></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

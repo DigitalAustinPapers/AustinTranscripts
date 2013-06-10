@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0695">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James W. Jones to Unknown, 02-26-1824</title>
+            <author>
+                <persName>James W. Jones</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Fort Settlement, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 747-748
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Deposition</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-02-26">02-26-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Economic conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Fort Settlement</placeName> <date when="1824-02-26">26th Feb 1824</date></p>
+
+<p>I certify that early in the month of <date n="07-xx-1822">July 1822</date> my <persName>Brother </persName>and
+myself found <persName>Mrs Jane Long </persName>low down on the <placeName>river St Hyacinth</placeName>
+in a <placeName>Palmeter camp</placeName> exposd to the rains and sun and nothing to 
+support herself and <persName>family </persName>on except a small quantity of milk which
+she got of a <persName>family </persName>that livd near We took pity on her and proposd
+to build her a <placeName>cabin </placeName>near where we were and that we would hunt
+and support her in the best manner we could until her <persName>relations</persName>
+would send for her; to which proposition she agreed we hired
+<persName>hands </persName>and movd her and furnishd her with corn meal, pork and
+salt and at all times found her in plenty of venison until late in
+<date n="08-xx-1822">August </date>when she proposd going to <placeName>St Antonia</placeName> saying that the
+<persName>Govournor </persName>had given her encouragement to go on there and he
+would do every thing in his power for her she proposd that we
+should go with her She promisd to satisfy us to our full 
+satisfaction when she arrivd in <placeName>St Antonia</placeName> we furnishd her horses to pack
+her Bagage and for part of her <persName>family </persName>to ride And meal and meat
+for the Journey we walk'd ourselves for to accomadate her and
+<persName>family </persName>through the heat and dust and at some places twenty miles
+without water with the calculation of being reasonably compensated
+We arrivd at <placeName>St Antonia</placeName> after we had been there for or five days
+we proposd to return she then informed us that it was utterly out
+of her power to compensate us as she had promisd at the time she<pb n="748"/>
+had started that she had been there so short a time and had had
+but little conversation with <persName>Govournor </persName>and dislikd asking him for any
+thing to pay us With but that we should be amply satisfd in a short
+time, she then let my <persName>brother </persName>have her rifle If we left the <placeName>Province</placeName>
+the gun was to be left at <placeName><persName>Mr Banian</persName>'s</placeName> If we remaind he was to keep
+the gun until she calld for it. She gave up the horse for us to use
+until we were settled With at the same time requestd that we would
+not part with him as she wanted him for her <persName>Daughter </persName>she was
+to have Borne our expences she let us have five Dollars only to
+bur Provision when we set out</p>
+
+<p><persName>James W. Jones</persName>&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
