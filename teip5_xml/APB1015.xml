@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1015">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James A. E. Phelps to Stephen F. Austin, 01-16-1825</title>
+            <author>
+                <persName>James A. E. Phelps</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-23">05-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Pinckneyville, Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1020-1021
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-16">01-16-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Fever of emigration in Mississippi and "adjoining State." Report concerning abolition of slavery has
+checked movement.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Pinckneyville Mi</placeName>. <date when="1825-01-16">Jan 16th 1825</date></p>
+<p>Col. <persName>Stephen F. Austin</persName></p>
+<p>Dr. Sir</p>
+
+<p>Agreeable to mutual promise I have the pleasure of now addressing 
+you by mail, and of informing you that after a journey of 18
+days from <placeName>St Felipe De Austin</placeName> I arrived safe home: with the exception 
+of some bad weather, and some high water, a pleasant journey. The 
+emigrating, or <placeName>Texas</placeName> <hi rend="italic">fever</hi> prevails to an extent that your
+<hi rend="italic">wishes</hi> would no more than anticipate&#8212;It has pervaded all classes
+of the <persName>citizens of this state</persName> and the adjoining; from the <persName>men with
+capital</persName>, to the man that wishes to acquire a liveing&#8212;Nothing appears 
+at present, to prevent a portion of our <persName>wealthy planters</persName> from
+emigrating immediately to the <placeName>province of Texas</placeName> but the uncertainty 
+now prevailing with regard to the subject of slavery&#8212;There
+has been a parragraph that has gone the round of <placeName>Nuse paper publication</placeName> 
+in the <placeName>Middle States [U.S.A]</placeName>, perporting to be an extract from a
+<placeName>Mexican paper</placeName>; which precludes the introduction of <persName>negro property</persName>
+into the <placeName>Mexican Republick</placeName>, without exception: Subjecting the persons 
+so offending to the severest penalties, and also an immediate
+emancipation of thos <persName>slaves</persName> now belonging to the <persName>citizens</persName> of the
+<placeName>province of Texas</placeName>; and fredom to the <hi rend="italic"><persName>slave</persName></hi> that <hi rend="italic">touches</hi> the soil of
+<placeName>Mexico</placeName>&#8212;</p>
+
+<p>If this be a fact it will check the tide of emigrating <hi rend="italic">spirits</hi> at
+once: and indeed it has had its influence already&#8212;I have pledged
+myself to my <persName>friends </persName>to ascertain the fact if possible; and I know
+of no other way to satisfy the publick mind on the subject, but by
+application to yourself for a copy of the new constitution, and a
+promulgation of the same so soon as practicable&#8212;I have ventured
+to contradict so much of the report and publication as relates to
+your <placeName>colony </placeName>, upon the authority of your self, so far, as garranteeing
+the right of that species of property under consideration&#8212;That por-<pb n="1021"/>
+tion of the <placeName>Mexican Republick</placeName> is becoming every day more and
+more an object of interest with this portion of the <placeName>United States</placeName>&#8212;
+There is not a day passes that I am not calld on to give (the superficial) 
+information that I am in possession of as regards <placeName>your country</placeName> : 
+and have to regret that I am not able to satisfy the eager, yet
+not <hi rend="italic">idle</hi> curiosity of my friends&#8212;If slavery is tolerated by the new
+constitution I could wish, for the benefit of your self, and others
+that you would petition the government for extension of territory,
+and colonial location, so as to comprise the <placeName>Trinity [River] and its waters</placeName>:
+Three Hundred <persName>familys </persName>more can be settled in less than two years&#8212;</p>
+
+<p>A very considerable number of <persName>Gentlemen of fortune</persName> will visit
+the <placeName>colony</placeName> this <date n="Spring- 1825">Spring</date>, from this section of Country&#8212;with a view
+of becoming <persName>citizens</persName>&#8212;I will inform you further on the subject in
+due time&#8212;</p>
+
+<p>The death of my <persName>Father in Law</persName> during my absence has deranged
+my calculations in some degree, as it may cause some delay in the
+moving of my <persName>family </persName>but it is more than probable that the whole
+family of <persName>Col Kirby</persName> will move when I doo&#8212;Please give my best
+respect to <persName>Capt Austin</persName> and <persName>Mr Williams</persName>. Tell the latter that I
+am anxious to hear from him, and likewise to receive a map of the
+<placeName>colony </placeName>, which he promised&#8212;</p>
+
+<p>Be so good as to designate the bounds of my Labours an the Deed
+so soon as surveyed, and send me a coppy</p>
+
+<p><persName>James A E Phelps</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1020">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas Gray to Stephen F. Austin, 01-23-1825</title>
+            <author>
+                <persName>Thomas Gray</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-24">05-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Colorado River, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1023
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-23">01-23-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Misunderstanding about the land that he desired.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Colorado </placeName> <date when="1825-01-23">January 23rd 1825</date></p>
+<p>Dear Sir I received verbal information from you by <persName>Capt Burnham</persName> 
+informing me that neither of the Leagues selected by me; as
+my choice would be entered by you in my name; if I have intrudad
+upon you by presenting to you in writing the <placeName>7th 8th and 12 Leagues
+</placeName>as my choice of either please excuse the intrusion. Were I placed in
+affluence as is the situation of some of your applicants I am of opinion
+that you would have attended to and recd my Entry by <persName>Capt Burnham</persName>. 
+I hope you may bestow the Land;, or rather sell it to a more
+worthy than I am; I wish every thing that may contribute to the
+wellfare of the <placeName>colony</placeName>, to your health and happiness</p>
+
+<p>N. B. Sir I would be thankful to you if you would confer the
+favour upon me of sending me a Certificate Certifying that I have
+no land in this <placeName>colony</placeName> and oblige your friend</p>
+
+<p><persName>Thomas Gray</persName></p>
+
+<p><persName>Col. Stephen F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

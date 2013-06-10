@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1024">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Rawson Alley to Stephen F. Austin, 01-29-1825</title>
+            <author>
+                <persName>Rawson Alley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-25">05-25-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1025
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-29">01-29-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><persName>Col S F Austin</persName></p>
+
+<p>Sir I send you the returns of <persName>Anderson</persName>s, <persName>Petty</persName>s and<persName> Tobar</persName>s,
+<persName>Pettuse</persName>s, <persName>Duty</persName> and <persName>Eadse</persName>s, Sitos of Land and <persName>De Mosses</persName> Labor by
+<persName>Col Pettus</persName> My Provisions gave out which prevented me from going
+any further <placeName>up the River</placeName> I intend going <placeName>down the River</placeName> as Soon
+as I can go to the <placeName>Cane brake</placeName> and back, to finish my work below,
+if you wish any more Land surveyed on the <placeName>West side of the River</placeName>
+<placeName>Opposite the Lake</placeName> than I have orders for let me know by the first
+opportunity. My <persName>hands</persName> will be at my <placeName>House </placeName>till I return from the
+<placeName>Cane brake</placeName> if you should write before I return; I think there will
+be some very good Leagues below if the[y] Can be Laid about
+<placeName>four miles on the River</placeName> as the Timber is very narrow it will not
+do very well to lay it off in square Leagues; <persName>John Tobar</persName> only
+wanted one mile Square where he Lives if he wishes it so after
+seeing the Lines I will take it off his hands and pay the charges in
+proportion but no more which word I sent to him; <persName>Whiting</persName> wished
+me to let you know that he wishes to take Land, below in the <placeName>Bay
+Prairie
+</placeName></p>
+<p><date when="1825-01-29">Jany 29th 1825</date></p>
+
+<p><persName>Rawson Alley </persName>   [Rubric]</p>
+
+<p><persName> Col Stephen F Austin</persName></p>
+
+<p>N B the surveying of <persName>Jesse Burnam</persName>s Land comes to seventy four
+Dollars 89 1/2 cents                                               </p>
+<p><persName>R Alley</persName>    [Rubric]</p>
+
+<p>I gave <persName>George Dutty</persName>s return to him as he said he was going over
+in a few days</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

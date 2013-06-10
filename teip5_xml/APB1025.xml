@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1025">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. Iiams to Stephen F. Austin, 01-29-1825</title>
+            <author>
+                <persName>J. Iiams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-25">05-25-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Jacinto, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknwon</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1025-1026
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-29">01-29-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks about land for two families wishing to move from East Texas to Austin's colony. Each has about 17 slaves.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Sanja Cinto</placeName> <date when="1825-01-29">January 29th- 1825</date></p>
+<p>Dear Sir</p>
+
+<p> <persName>Messrs Henry</persName> and <persName>Micajah Munson</persName> living at present <placeName>on this side
+trinity</placeName> and being somewhat disappointed in their Settlement by the<pb n="1026"/>
+overflow of that <placeName>River</placeName> desire me to enquire of you whether they can
+be admitted into your <placeName>Colony </placeName> and obtain the title of Land</p>
+
+<p>If they can be admitted they wish to have Lands near me on
+<placeName>Cedar buyo</placeName> where there are no other Claims and they will commence
+settlement Immediately They are <persName>men</persName> of Respectability having
+each a family and about 17 <persName>Slaves</persName> each with good stock of Cattle
+etc., etc. They also wish to enquire whether more Land can be
+granted in proportion to the number of <persName>Slaves</persName> They will in all
+probability be good pay for whatever Land may be granted them
+and I shall be happy in having them for <persName>neighbours </persName>please write
+me a line on the above Subject and if they will be accepted direct the
+survey as they are desireous to have it accomplished There are others
+wishing to apply in the same way if any more <placeName>grants </placeName>can be made</p>
+
+<p><persName>J. IlAMS</</persName>p>
+
+<p><persName>Col. S F Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

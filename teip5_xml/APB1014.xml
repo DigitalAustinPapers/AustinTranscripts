@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="ABP1014">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Seth Ingram to Stephen F. Austin, 01-16-1825</title>
+            <author>
+                <persName>Seth Ingram</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-23">05-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Duke's Place, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1019-1020
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-16">01-16-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning land and surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Dukes place</placeName> <date when="1825-01-16">Jan. 16th 1825</date>.</p>
+
+<p><persName>Col. Austin</persName>                                                         </p>
+
+<p>Sir I recd- your communication to <persName>Wm Kincheloe</persName> to send you
+the plat of the<placeName> Leagues on the Colorado</placeName> from <placeName><persName>Kuykendall</persName>'s League</placeName>
+down. I have sent them over, and accompanying them you will find
+the field notes of several Leagues in the <placeName>Bay Prairie</placeName> and one on the
+<placeName>Bernard</placeName>. <persName>Mr Selkirk</persName> has run off the Leagues on the <placeName>West side of the
+Colorado</placeName>, and from actual survey some of the lines differ 
+considerable from the plat, and those numbers that differ you will find
+either over or under the others and a bar across them thus,
+in this way I have corrected all the lines, on the <placeName>west side of the river
+</placeName>Those Leagues where <persName>Selkirk</persName> run on <placeName>both sides of the river</placeName> closed
+very well, and very little alteration had to be made. Be careful and
+reccollect that those numbers that have the bar accross them are the
+right ones&#8212;We have run the Leagues as far down as <placeName><persName>Duke</persName>s place
+</placeName>and have not yet touched the <placeName>Lake</placeName> that <persName>Williams</persName> lines on. I call it
+a Lake because, since I left town I have been down to <persName>Williams</persName> and
+find that the <placeName>south end of it is about two miles from <persName>Williams</persName></placeName>. We
+go into the <placeName>woods </placeName>again tomorrow and shall succeed in finishing I
+think by the middle of <date n="02-xx-1825">Feb</date>. if nothing uncommon takes place&#8212;</p>
+
+<p>I understand that <persName>Mr Buckner</persName> has been to <placeName>Town</placeName> and made ap-
+plication for the League taking in <placeName>the forks of Hunney  and Caney<pb n="1020"/>
+creeks</placeName>, that is a choice that I made more than <date n="12-xx-1824">one month ago</date>, running 
+it so as to take in the forks and the head of tide if it would do
+both, I have not yet got any land on tide water and do not think that
+<persName>Mr. Buckner</persName> has done quite right in taking that advantage of me,
+however, I shall leave it to you to make it right.-</p>
+
+<p>I have heard of <persName>Mr. Tong</persName> at <persName>Esqr Bells</persName> but have not yet seen him.</p>
+
+<p>I have no more at present, but remain with due respect your friend
+and humble</p>
+
+<p><persName>Seth Ingram</persName></p>
+
+<p>Col. <persName>S. F. Austin</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
