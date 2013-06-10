@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0503">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Maria Austin to Stephen F. Austin, 04-26-1822</title>
+            <author>
+                <persName>Maria Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Herculaneum, MO</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 500-502
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-04-26">04-26-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Family news. Reports of Indian outrages.   Religious toleration.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Herculaneum </placeName><date when="1822-04-26">Aprill the 26 1822</date></p>
+<p>I have a good opportunity of droping a few hasty lines to my
+beloved <persName>Sons</persName>&#8212;by <persName>Mr Honey</persName>, he arrived in the Dolphen <date when="1822-04-25">last night</date>
+from <placeName>St Louis</placeName>, has Purchased a Share in hur and Starts in two
+hours for <placeName>New Orleins</placeName>&#8212;<persName>Mary </persName>sent for me to Stay with hur during
+his abcence. I have promisd to remain with hur till the last weeck
+in <date n="05-xx-1822">may</date>, when I must attend your <persName>Sister </persName>as She expects to be 
+confined in <date n="06-xx-1822">June</date>&#8212; I am well pleased to find your <persName>cousin Mary</persName> so
+happy and pleasantly Situated, She has every Convenience and
+comfort that is requisite to render the marriage quite happy and
+blessed with a very lovely and healthy boy Six months old I wrote
+my dear <persName>Sons </persName>not long Since by the two Alleys and Expressed in
+that letter my great anxiety to hear from you and your <persName>brother </persName>and
+Since my arrival here my fealing had been greatly agitated by a
+report that the <persName>Indians </persName>had Commenced on your <placeName>Infant Colony</placeName> and
+had carried of[f] all the horses and Stock theay could find&#8212;this
+unwellcome news was brought by some <persName>travallers from <placeName>Texas</placeName></persName>&#8212;but I
+still flatter myself the report is not true, Since nothing of the kind
+is mentioned in the <placeName>papers </placeName>on the contrary the <placeName>papers </placeName>Speaks&#8212;of
+very favourable changes taken place da[i]ly in the <placeName>Spanish 
+provinces</placeName>, boath in politicks and religeon, I am very willing my dear
+<persName>Son </persName>to view the bright side of the prospect at the same time I cannot
+divest my mind of a thousand Apprehentions for your Safety, as I
+well know your dear <persName>Father </persName>Anticipated trouble from the <persName>Savages</persName>
+and he intended to erect a <placeName>fort</placeName>, I have often heard him Say that
+the first worck that was don[e] Should be the building of a kind of
+<placeName>fort </placeName>where he and his <persName>Compannions </persName>would be Safe in case of an
+attack from the hostile <persName>Indians</persName>&#8212;pray write me the particulars of
+every thing for though I could do you no Servise I Still wish to
+know the truth of every thing and shall be unhappy in mind till I
+have letters from you and <persName>Brown</persName>&#8212;I had the Satisfaction of 
+Spending part of a day with your amiable <persName>Cousin N Carr</persName>&#8212;She has gown
+to <placeName>St Geneveive</placeName> to mack a visit to hur poor <persName>Brother </persName><persName>A Eliot</persName> he is<pb n="501"/>
+in a miserable State of health, brought on in a great measure by his
+on Imprudence I am told he drinks hard and is hardly ever Sober
+unhappy young man, I fear by all accounts, he is not [long] for
+this world&#8212; I have directed <persName>Mr Honey</persName> in case he does not meet
+you in <placeName>New Orleins</placeName>, to inquire what is the price of buck horns for
+handels for knives and if theay will bring any thing I will send
+them down to your friend <persName>Mr H[awkins]</persName>&#8212;when <persName>Mr Honey</persName> takes
+another trip also the plough shars and I wish you to let me know
+if you wish me to send down any of my things, if you and <persName>Brown</persName>
+go to houskeeping I could send several articles that you will want,
+I wish my dear <persName>Son </persName>to let me know what time he thinks we had
+better go down, your <persName>Sister </persName>and myself will not wish to spend 
+another winter in this unfriendly climate we are sitting [a] round a
+large fire and can Scarcely keep ourselves warm, the frost, 
+notwithstanding the Sceason is so far advanced is So sevear that all
+the fruit is killed and in the place of the gay verdure of Spring -
+the face of nature assums the appearance of Autum, I care not how
+Soon I leave So unpleasant Climate and so very unfriendly to my
+Constitution&#8212; <persName>Mr Bryan</persName> is now in <placeName>St Louis</placeName>, he left your <persName>Sister</persName>
+and <persName>famaly </persName>all well, your old <persName>friends </persName>in this place are all well except
+<persName>Nancy Bates</persName> She has been Sick all <date n="WInter-1821">winter </date>as well as my self, but
+has not recruted so fast as I have, She is I think in a low state of
+health, tell <persName>Brown </persName>his poor <persName>Cousin Maria</persName> has been gilied by <persName>Mr W</persName>
+a gentleman he had formd a high opinion of&#8212;he was to have been
+back in <date n="10-xx-1821">October last</date> and in the coars of the <date n="Winter-1821">winter </date>he was to be
+maried to <hi rend="italic"><persName>M B</persName></hi> he has not wrote hur for a long time and it tis 
+reported he is married to a lady of large fortune in <placeName>Virginia</placeName>, this may
+be So, and it may not&#8212; I wish my dear <persName>Son </persName>to be particular on the
+Subject of religious toloration, Some Says every permanent <persName>Settler</persName>
+must become <persName>roman Catholicks</persName>&#8212;I can not think or beleive that so
+arbitory a Sistem will be adopted if it Should, it will put a Stop
+to Emigration, if you Should happen to meet with <persName>Honey </persName>in
+<placeName>Orleins </placeName>I will thank my <persName>Son </persName>to send me Some good Snuf and the
+Journal your dear <persName>father </persName>wrote many years ago&#8212;he always kept it
+in his writing desk&#8212;<persName>Mr Schoolcraft</persName> wishes to pubblish the 
+Biography of his life, and wished me to Send him a memorandum of the
+dates . . . and when he came to this Country with a variety of
+particulars two tedious to mention in a letter, I thought if ... he
+feels himself under many obligations to my dear departed <persName>Husband</persName>
+for the friendship and hospatality shone him when he came to this
+country, he is now in <placeName>New york</placeName> preparing to publish an account of
+his late travels. He wished me to send a Short account of the life
+of your <persName>father </persName>from the time he left <placeName>Virginia </placeName>till his death, I must
+bid you farewell   <persName>Mr H</persName> has arrived to bid adieu to his <persName>wife </persName>and<pb n="502"/>
+<persName>child</persName>&#8212; <persName>Mary</persName> Joines me in affectionate love to you and dear
+<persName>Brown </persName>may god bless you boath and take you into his holy keeping
+is the constant prayer of your anxious <persName>mother</persName></p>
+
+<p><persName>Mary Austin</persName></p>
+<p>[Addressed:] <persName>Stepehen F. Austin</persName> <placeName>Austintino Colerado Texas</placeName>   
+politness of <persName>Capn John W. Honey</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

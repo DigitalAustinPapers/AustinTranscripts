@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0507">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Alijah Hull to Stephen F. Austin, 05-07-1822</title>
+            <author>
+                <persName>Alijah Hull</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Vincennes, IN</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 506-507
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-05-07">05-07-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Wants employment as surveyor. Advanced supplies for the Gutierrez-Magee expedition; will the new government recognize such claims?</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Vincennes Indiana</placeName></p>
+
+<p><date when="1822-05-07">May 7. 1822</date></p>
+<p>Dear Sir</p>
+
+<p>Having some idea of coming to your <placeName>Country </placeName>and perhaps others
+from this place might, I ask for information on the probable 
+prospects for myself, and others Having been employed as a <persName>deputy
+surveyor</persName> under the <persName>U. States Government</persName> some years since, I wish
+to be informed if a well qualified <persName>surveyor </persName>would meet with 
+encouragement to make it an object&#8212; I having acquired my 
+mathematical knowledge under the tuition of <persName>Josiah Meigs, commissioner
+of the general land office at Washington</persName> while he was<persName> professor in
+<placeName>Yale College N. H.</placeName></persName> and I have letters of recommendation from <persName>James
+Mansfield</persName> <persName>Edward Tiffin</persName>, <persName>William Hector</persName> all of whom have been
+extensively imployed as <persName>surveyor Generals</persName> under our <persName>government </persName>I<pb n="507"/>
+deem myself capable of doing any work in that line&#8212;   Perhaps you
+might assist me in that business in the <placeName>province of Texas</placeName>&#8212;</p>
+
+<p>In <date n="xx-xx-1813">1813 </date>I embarked in the cause of The <persName>Mexican patriots</persName>' 
+furnished supplies and Recd Bills on the then <persName>commanding officer</persName> to
+the Amt of 2090 dolls by a man Authorized to draw and I was in
+the <placeName>Province </placeName>previous to the general Defeat near <placeName>St Antonio</placeName>, but
+could obtain nothing for monies advance. I wish to be informed if
+in your opinion the government when Organized will recognize Old
+Claims in the Patriotic Cause, in Land or Money.</p>
+
+<p><persName>Alijah Hull</persName> late of <placeName>St Louis</placeName> now of <placeName>Vincennes</placeName></p>
+
+<p><persName>Stephen F Austin C. Comandant</persName> <placeName>Colorado</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

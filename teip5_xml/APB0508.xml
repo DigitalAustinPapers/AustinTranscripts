@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0508">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Anastacio Bustamante, 05-10-1822</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Anastacio Bustamante
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 507-510
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-05-10">05-10-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">American traders encourage hostility of Comanches and Lipans against Mexicans. Three routes of trade. Indians can be pacified by breaking off this commerce, supplying in its place a licensed trade under direction of Mexican Government, and strengthening the settlements of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1822-05-10">May 10. 1822</date></p>
+<p>The knowledge which I have obtained during my residence in the
+<placeName>Province of Texas</placeName> of the situation and disposition of the hostile 
+<persName>Indians </persName>who are harrassing it, having enabled me to make some 
+observations on the causes of that hostility, and some reflections as to
+the surest means of terminating it by a lasting peace; and feeling a
+deep interest in the welfare of that province and of the <placeName>nation </placeName>
+generally; I beg leave to submit a few remarks on this subject to your
+Excellency as the <persName>superior political head of the Eastern division of
+the nation</persName>, feeling confident that your Paternal solicitude for the
+happiness of the <placeName>Provinces </placeName>under your command will insure a 
+favorable reception to any well founded suggestion calculated to
+ameliorate their condition, and that your natural goodness of heart
+will appreciate my motive and pardon me for attempting to advise
+on a subject of such importance</p>
+
+<p>The war with the <persName>Comanches </persName>and <persName>Lipanis Indians</persName> owes its origin
+to the Revolution in the <placeName>Province of Texas</placeName> in the year <date n="xx-xx-1812">1812</date>&#8212;those
+<persName>Indians </persName>and many others, being employed at that time by the 
+<persName>Insurgents </persName>to fight the <persName>Royal forces</persName>. After the defeat of <persName>Toledo </persName>at the
+<placeName>River Medina</placeName> and the dispersion of his <persName>army</persName>, many of the <persName>old 
+Inhabitants of <placeName>Texas</placeName></persName> fled to the <placeName>United States</placeName> and settled in the 
+<placeName>neighborhood of Nachistoches</placeName> where they are now living; some of these
+<persName>inhabitants </persName>being well acquainted with the <persName>Comanches </persName>and <persName>Lipanis
+Indians</persName> and with the country they inhabitated, united themselves
+with the <persName>American Traders at <placeName>Nachistoches</placeName></persName> and opened a contraband
+traffic with those, and other <persName>Indians </persName>living in the <placeName>Province of Texas
+</placeName>taking out Goods and receiving Horses and Mules in exchange&#8212;This<pb n="508"/>
+trade was found to be very lucrative to those engaged in it, and the
+<persName>Indians </persName>finding a good market for their Horses and Mules, were 
+encouraged to prosecute a plundering war against the <placeName>frontiers of
+Texas</placeName>, <placeName>Quahuila</placeName>, and <placeName>Nuevo Santender</placeName>, robbing those <placeName>Provinces </placeName>of
+Horses and Mules to sell to the <persName>traders </persName>for Merchandise and this 
+traffic having continued up to the present time is the real cause of the
+continuation of the <persName>Comanche </persName>war&#8212; It therefore being a war of
+individual interest to the <persName>Indians </persName>will never cease until that 
+interest is distroyed, by stoping the <persName>Indian </persName>trade as it is now carried on,
+and confining it to a particular channel where it would be under
+the immediate control of <persName>Government</persName>&#8212;</p>
+
+<p>There are three routes by which mules are introduced into the
+<placeName>United States</placeName> from the <persName>Comanches</persName>&#8212;one is by <placeName>Nacodoches</placeName>, another
+is by <placeName>Pecon Point</placeName> on <placeName>Red River </placeName>above <placeName>Nachistoches</placeName>, and the third
+route is to the north by way of the <placeName>Kansas River</placeName> to the <placeName>Missouri
+River</placeName>, the trade on this last route is principally carried on by 
+<persName>Indians </persName>from one <persName>nation </persName>to another until the mules reach the 
+<placeName>Missouri </placeName>where they are bought by <persName>American traders</persName>&#8212;</p>
+
+<p>The first route by <placeName>Nacogdoches </placeName>can be easily stoped by a 
+<placeName>Garrison </placeName>at that place&#8212;the second route by <placeName>Pecon Point</placeName> can also be
+stoped by a <placeName>Garrison </placeName>on the <placeName>bank of Red River</placeName> <placeName>oposite the mouth
+of the Kiamiche River</placeName> where there is a good situation&#8212;oposite to
+this place within the limits of the <placeName>United States</placeName> there is a <placeName>settlement</placeName>
+of about <persName>two hundred families</persName> who are included within the limits of a
+district of <placeName>country </placeName>which has lately been ceded by the <placeName>United States</placeName>
+to the <persName>Choctaw Indians</persName>, those <persName>settlers </persName>would willingly remove and
+settle round the <placeName>Fort at Pecon Point</placeName> and in a short time would supply
+the <placeName>Garrison </placeName>with Provisions&#8212;</p>
+
+<p>The third route to the north by way of the <placeName>River Kansas</placeName> to the
+<placeName>Missouri </placeName>is more difficult to stop, the only effectual way of doing it
+that I can see is by representing the iniquity of this trade to the
+<persName>Government of the <placeName>United States</placeName></persName>, and getting an order from that
+<persName>Government </persName>prohibiting their <persName>citizens </persName>from buying Horses or Mules
+introduced from the <persName>Comanches </persName>either by this or any other route&#8212;It
+is an established principle in the law of nations, and one that has
+been repeatedly recognized and enforced by the <placeName>United States</placeName> that
+where two nations are at peace, the <persName>Citizens </persName>of one, can not fit out
+within its limits, an expedition with an intention of making war,
+or aiding to make war against the other&#8212;now this principle will
+apply to the <persName>Comanche </persName>trade&#8212;The <placeName>United States</placeName> and this <placeName>nation</placeName>
+are at peace, and are united by the strongest ties of friendship&#8212;The
+<persName>traders from the <placeName>United States</placeName></persName> fit out <persName>expeditions </persName>to the <persName>Comanches</persName>
+and other nations of <persName>Indians </persName>who are at war with this <placeName>nation</placeName>, and
+not only furnish them with arms and amunition to carry on the
+wars but actually hire them to pillage the <placeName>frontiers </placeName>by purchasing <pb n="509"/>
+the fruits of that pillage&#8212;and therefore, these trading expeditions
+are fitted out for the express purpose of annoying a nation with
+whom the <placeName>United States</placeName> are at peace, and is evidently contrary to the
+above principle of the law of Nations&#8212;</p>
+
+<p>Another view of this Subject is that this trade is a species of land
+Piracy which is carried on by those <persName>traders </persName>against the <persName>Citizens </persName>of
+this nation, for it amounts to the same thing whether those <persName>traders</persName>
+plunder Mules themselves, or hire the <persName>Indians </persName>to do it&#8212;I therefore
+have no doubt that if this subject was represented to the <persName>Government
+of the United States</persName>, that a law would be passed which would 
+effectually stop this iniquitous traffic&#8212;</p>
+
+<p>After the avenues by which this trade have heretofore been 
+carried on are closed, there will still be two other important objects to
+effect before a permanent peace can be relied on, One is, the 
+establishment of a regular system by which those <persName>Indians </persName>could be 
+supplied with Goods, and other necessary articles which they have 
+heretofore received from the <persName>American traders</persName>, and without which they
+will not be satisfied&#8212;The other is, to strengthen the <placeName>Province of
+Texas</placeName> by fostering the <placeName>settlement </placeName>which is already formed on the
+<placeName>Colorado </placeName>and <placeName>Brazos </placeName>by me, and encouraging the introduction of
+more <placeName>settlers</placeName>&#8212;</p>
+
+<p>In conversing with the <persName>Baron de Bastrop</persName>, and several other 
+<persName>citizens of <placeName>Bexar</placeName></persName> on this subject I suggested several methods of 
+regulating the <persName>Indian </persName>trade,&#8212;One was to incorporate a <persName>Company </persName>to whom
+the whole <persName>Indian </persName>trade of <placeName>Texas</placeName>, and of the <placeName>Rio Grande Del Norte</placeName>
+should be given&#8212;This <persName>company </persName>by having fixed laws for its 
+regulation could concentrate and control the <persName>Indian </persName>trade, and thereby
+prevent abuses.&#8212;Another method was for the <persName>Government </persName>to 
+establish <placeName>factories </placeName>at convenient points, where constant supplies could be
+kept for the <persName>Indians</persName>. And a fourth plan was to grant Licenses to
+Individuals to carry on said trade each <persName>trader </persName>to furnish his own 
+capital and to be independent of each other&#8212;of these plans I think the
+first one by the incorporation of a <persName>Company </persName>the best, for if a liberal
+charter was granted to the <persName>company </persName>and <persName>foreigners </persName>permitted to hold
+Stock in it, I have no doubt that a sufficient Capital could be raised
+in the <placeName>United States</placeName> to effect all the objects required, and the trade
+could be Managed so as to be profitable to the <persName>Company</persName>, and usefull
+to this <persName>Government</persName>&#8212;Should this plan meet the views of the 
+<persName>Government </persName>I would submit the outlines of A Charter which I think would
+embrace all the objects necessary, and should the charter be granted
+I could be of some use in aiding to raise the Capital by inducing 
+<persName>Merchants </persName>in the <placeName>U. S.</placeName> to take the Stock.</p>
+
+<p>There is one thing more necessary besides regulating the trade
+to insure a lasting peace with the <persName>Indians</persName>, and that is to strengthen
+the <placeName>settlements </placeName>of that <placeName>Province</placeName>, so as to enable it to overpower and<pb n="510"/>
+subdue the <persName>Indians</persName>, if they still continue hostile this can be done,
+and the whole <placeName>frontier of the Eastern Provinces</placeName> defended with little
+or no expense to the <placeName>nation</placeName>&#8212;</p>
+
+<p>If the <persName>government </persName>will grant me the privilege of settling the 
+district of Country designated in my Memorial, I will obligate myself
+as stated in my memorial to organize the <persName>settlers </persName>into <persName>Rifle Companies</persName>
+and arm them, and to hold them in readiness at all times to march
+against the <persName>Indians </persName>within said <placeName>Province </placeName>whenever called on&#8212;These
+<persName>companies </persName>will be sufficient in conjunction with the regular <persName>troops
+and militia of the <placeName>Province</placeName></persName> to subdue the <persName>Indians </persName>and keep them
+at peace.</p>
+
+<p>[The following paragraph Austin deleted]</p>
+
+<p>The organizing of these <persName>Rifle Companies</persName> with arms ready for
+service, and the other services mentioned in my memorial, which
+I have agreed to render the <placeName>nation</placeName>, I hope may be considered a
+sufficient equivalent for the privileges asked for in that memorial-
+Having been the first who commenced the settlement of <placeName>Texas </placeName>I
+feel great anxiety that the settlement should succeed and my 
+experience on this subject, and the examples which history afford of
+the difficulty of forming a <placeName>settlement in a wilderness</placeName> has convinced
+me that the first establishment in a <placeName>wilderness </placeName>Inhabited by <persName>Indians</persName>
+cannot succeed unless it is very strong, and under the direction of
+one individual, for a multiplicity of directors in the same 
+establishment will produce confusion and division, and there will neither
+be that security or progress in improvement which would arise from
+system union and consert in all the motions of the <placeName>settlers </placeName>a thing
+which can only be produced by assigning the formation of the first
+settlement within particular limits to one person&#8212;</p>
+
+<p>The welfare of the new <persName>Settlers </persName>which I have brought into <placeName>Texas</placeName>
+is closely connected with these subjects We are all equally interested
+in procuring a peace with the <persName>Indians</persName>, I therefore offer my services
+in any way that the <persName>Government </persName>may want them towards effecting
+this desirable object, or in any other manner in which I can render
+any service to the nation</p>
+
+<p>With considerations of the most profound Respect I am your
+Excellencys most obt. Humble servt.</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

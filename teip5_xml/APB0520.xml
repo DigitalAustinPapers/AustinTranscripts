@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0520">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Edward Lovelace to Stephen F. Austin, 06-26-1822</title>
+            <author>
+                <persName>Edward Lovelace</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">River Brazos, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 526
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-06-26">06-26-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Coast explorations. Excellence of Galveston harbor. Drought. No corn.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>River Brazos</placeName>&#8212;<placeName>1 mile below the de la Bahia Road West side</placeName></p>
+
+<p><date when="1822-06-26">June 26th 1822</date></p>
+<p><persName>Judge Austin</persName></p>
+
+<p>Dear Sir We sailed passed the <placeName>Brazos </placeName>the <date when="1821-12-02">2nd day of Decr</date> last
+lays in <placeName>Latitude 29°-10-12.</placeName> We arrived at the <placeName>mouth of this River</placeName>
+the <date when="1821-12-23">23rd of the same month</date>, from the best observation it is in 
+<placeName>Latitude 29° 16' N </placeName><persName>Mr Little</persName> has established himself on this <placeName>River </placeName><placeName>90
+miles from the sea coast </placeName><placeName>Latitude 29°-38 N.</placeName> The drout have been
+so prevalent that we shall make no corn this year The depth of
+Water on the bar at the <placeName>mouth of this River </placeName>is at low tide 4 1/2 to 5
+feet high tide 6 or 7 <placeName>one quarter of a mile from the Land</placeName> At the
+<placeName>mouth of the Colorado</placeName> a vessel cannot come nearer Land than from
+5 to 6 miles, <placeName>Galveston </placeName>will be the <placeName>sea Port</placeName> sir, for this <placeName>province</placeName>,
+water plenty, good <placeName>Harbour</placeName>, also the ancorage are exceled by non,
+dont fail my Dear Sir to petition for the Lands agreed on between
+us previous to our parting in <placeName>New Orleans</placeName>, also <placeName>Galveston </placeName>as it
+will be the grand object</p>
+
+<p>Accept my highest wishes for your welfare and am anxious to
+hear from you</p>
+
+<p><persName>Edward Lovelace</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

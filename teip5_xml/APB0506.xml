@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0506">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel Ricker, Jr. to Stephen F. Austin, 05-03-1822</title>
+            <author>
+                <persName>Samuel Ricker, Jr.</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 506
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-05-03">05-03-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiries concerning commerce in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1822-05-03">3d May 1822</date></p>
+<p><persName>Stephen Austin Esqr</persName></p>
+
+<p>Dear Sir</p>
+
+<p>I embrace the present conveyance of troubling you with a few 
+enquiries relative to your part of the <placeName>Country</placeName>&#8212;I wish to know if
+could do anything to advantage there with a stock of 2000$ to 3000$
+worth of goods. What kind of merchandise will suit the market&#8212;
+who would be the principle purchasers&#8212;<persName>Emigrants </persName><persName>Spaniards </persName>or
+<persName>Indians</persName>&#8212;and what I can get in exchange&#8212;cash or mules&#8212;What
+part of the <placeName>Country </placeName>would be best to locate myself in&#8212;Whether
+your <placeName>settlement </placeName><placeName>St. Antonio</placeName> or some other <placeName>village</placeName>&#8212;Your answer
+to the above or such information as you may think necessary or 
+useful will confer a particular favr&#8212;I leave this <placeName>city </placeName>in about two
+months&#8212;and should anything offer in your part of the <placeName>Country </placeName>I
+have no doubt some of my <persName>friends </persName>will advance me an outfit&#8212;By
+late accts from <placeName>Arkansas </placeName>I understand our friend <persName>James Hamilton</persName>
+is appointed <persName>sherriff</persName>&#8212;<persName>H. Soule</persName> has moved to <persName>Cuba</persName>&#8212;I have quit that
+country all together&#8212;Please inform me the distance from yr place
+to <placeName>St Antonio</placeName>&#8212;the convenience and expense of traveling to the 
+<placeName>interior </placeName>etc&#8212;and what a person can do there without goods or 
+capital&#8212;I have a strong disposition to visit you at all events but will
+wait yr address, in haste Yr friend</p>
+
+<p><persName>Saml Ricker Jr</persName>.</p>
+
+<p>Direct to care of <persName>Townsley &amp; Bouny<placeName> N. O.</placeName></persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

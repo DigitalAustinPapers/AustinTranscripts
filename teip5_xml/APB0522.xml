@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0522">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elijah Noble to Stephen F. Austin, 06-29-1822</title>
+            <author>
+                <persName>Elijah Noble</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, LA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin's Settlement, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 528
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-06-29">06-29-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Unable to get to Texas. Asks information about status of slavery, freedom of religion, and conditions of trade.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1822-06-29">29th June 1822</date></p>
+<p>Dear Sir</p>
+
+<p>I arrived here some time since with a view to Visit your
+<placeName>settlement in Texas</placeName> unfortunately I have not been able to procure a
+passage and no prospect, when I would be able to get a vessel bound
+to your place togeather with the unfavourable season of the year has
+determd me to return home and to Visit your country so soon as
+I may here from you&#8212;I enclose you herewith 2 letters of Introduction
+from <persName>Henry Clay Esqr</persName> and <persName>Thos. P Hart of <placeName>Lexington Kty</placeName></persName> the place
+of my residence also a letter from the <placeName>Texas </placeName>emigrating society, it
+would be particularly gratifying to our Society as well as my self
+to have a discription of your Country soil water climate timber etc,
+navigation&#8212;commerce, and will actual <persName>settlers </persName>be allowd to hold their
+<persName>Slaves </persName>in Bondage will the <persName>Settlers </persName>be allowd to worship their god
+agreeable to the dictates of their own minds etc, or will they be compd
+to acknowledge the <persName>Catholic </persName>religion as the supreme religion of the
+land what are the probable number of <persName>families </persName>now settled in your
+<placeName>grant </placeName>and where from what articles of Produce or Merchandize
+are prohibited and what articles would you advise those imigrating
+or visiting to bring with them&#8212; please write me on Recept of this
+and be assd sir that whatever information you may give me will be
+not only acknowledged by myself but will be greatfully acknowledged
+by the society.</p>
+
+<p>Accept my best wishes for your health and Prosperity</p>
+
+<p><persName>Elijah Noble </persName>   [Rubric]</p>
+
+<p>[Addressed:] The <persName>Honl. Stephen F. Austin</persName> <placeName>Austins Settlement
+Texas</placeName> Care of <persName>Jos H Hawkins Esq</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0521">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 06-26-1822</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico City, MX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 527
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Power of Attorney</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-06-26">06-26-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">To form stock company in England to develop Austin's grant.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>A tract of land in the <placeName>Province of Texas</placeName> being granted to me by
+the <persName>Government of this Empire</persName> whose limits are not yet defined,
+but the situation of which together with the state of my claims and
+every thing relative to them <persName>Genl. Arthur G. Wavell</persName> is enabled fully
+to explain; and being desirous of establishing a <persName>Company </persName>for 
+Commercial, Mining and agricultural purposes, I hereby appoint said
+<persName>Genl. Arthur G. Wavell</persName> my <persName>attorney </persName>to contract with a <persName>Merchant</persName>
+or <persName>company of Merchants in <placeName>Europe</placeName></persName> and to form a <persName>Company </persName>and
+such other connections for me and in my name either jointly with
+him or seperately as he may deem proper, in order to carry into
+effect the objects of speculation enumerated in papers and 
+Memorandums furnished him and which I have in conversation made him
+fully acquainted with&#8212;My said <persName>attorney </persName>is fully empowered to
+mortgage, or put into the funds of the <persName>Company </persName>as stock all the
+lands which I am to receive in <placeName>Texas </placeName>under the present application
+now pending, except the one half of a concession for <persName>three hundred
+families</persName> granted to my <persName>father M. A.</persName> which I have by contract 
+conveyed under particular conditions to <persName>Col Joseph H. Hawkins</persName> of
+<placeName>New Orleans</placeName>, and also there must be a stipulation in the contract,
+that said <persName>Hawkins </persName>is at liberty to become one of the <persName>Company</persName>
+should he wish it by furnishing his proportion of the capital&#8212;</p>
+
+<p>The Basis on which said <persName>A. G. Wavell</persName> is authorised to form said
+<persName>company </persName>is that the lands furnished by me and the capital furnished
+by the <persName>persons in <placeName>Europe</placeName></persName> shall be the joint stock of the <persName>Company</persName>
+the profits of which shall be divided in the proportions which my
+said <persName>attorney </persName>and the <persName>contracting parties</persName> may agree on, All <placeName>Mines</placeName>,
+<placeName>Salt springs</placeName> or <placeName>wells</placeName>, denounced by me as a <persName>citizen of this <placeName>Empire</placeName>
+</persName>shall be for the joint use and benefit of the <persName>Company</persName>, also my time
+and labour shall be devoted to the interests of the concern for which
+such compensation shall be allowed me as may be agreed on by my
+said <persName>attorney</persName>&#8212;hereby ratifying and confirming whatever my said
+<persName>Attorney </persName>may lawfully do in the premises as fully as if done by
+myself in person&#8212;</p>
+
+<p><placeName>City of Mexico</placeName> <date when="1822-06-26">June 26. 1822</date></p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+
+<p>Copy of Power to <persName>Genl. Wavell</persName></p>
+
+<p>and as the said <persName>H.</persName> is a man of the first standing and connections
+and may therefore be of material service to the company by 
+attending to its affairs in <placeName>New O.</placeName> Where it will be necessary to have an
+<persName>Agent</persName>. I wish a clause in the contract that said Haw[kins] may be
+admitted into the concern on such terms as may be mutually agreed
+to by all concerned&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
