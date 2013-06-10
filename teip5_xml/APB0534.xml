@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0534">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 08-xx-1822</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 538-541
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Plan</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-08">08-xx-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's plan for organization of Mexican Congress, August, 1822. Combination of existing institutions, the Spanish constitution and the Constitution of the United States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>City of Mexico</persName> <date n="08-xx-1822">August 1822</date></p>
+<p>Plan for the organization of <persName>Congress </persName>for the <placeName>Empire of Mexico</placeName> &#8212;</p>
+
+<p>As a <persName>citizen of this <placeName>Empire</placeName></persName> I should be wanting in my duty did
+I not feel that anxiety for the common welfare of my Country which
+ought to animate the bosom of every good man. I have therefoie
+viewed with great interest the political agitations of the nation, and
+particularly of this <placeName>Capital </placeName>for the last two months; and believing
+that the evils which now embarrass the operations of Government
+arise solely from a defect in the organization of the <persName>Legislative 
+department</persName>; I have taken the Liberty to offer my ideas on the subject,
+hoping that my motives may excuse my presumption</p>
+
+<p>Agreeably to the Basis which has governed since the glorious 
+declaration of independence in <placeName>Iguala</placeName>, the fundamental principles of
+the Government are established&#8212;It is to be a <hi rend="italic">Constitutional 
+Monarchy</hi>&#8212;This Basis has been recognised as the foundation on which
+the superstructure of the Constitution is to be erected. The leading
+features of the Government is therefore no longer a question, and
+any remarks on that subject would be irrellevant and improper: the
+on[l]y question to be considered is the details of a system the 
+foundation of which is already laid</p>
+
+<p>The strength and beauty of architectural structures depend on the
+symmetry, order and connection of their parts; so in the formation
+of political institutions their capacity to sustain the shocks of
+conflicting interests is of Primary import and must depend on the
+harmony and dependent relations of the constituent parts&#8212;It would
+seem that these circumstances have not been sufficiently attended to
+in the organization of the Government, so far as it has progressed;
+the consequences have resulted that the <persName>Congress </persName>on the one hand,
+tenacious of its authority have been contending about forms, and
+have wasted much time without a single salutory effect, being more
+intent to extend its own Power than to promote the public good</p>
+
+<p>The <persName>Executive </persName>on the other hand without a precise definition of
+its powers have been obliged to wait the inefficient operations of the
+<persName>Legislature</persName>&#8212;In this political [cataclysm(?)] the welfare of the State
+is disregarded and discontents and distrusts are generated which
+menace the most pernicious consequences&#8212;</p>
+
+<p>What is the cause of this state of things?&#8212;The answer is 
+evident&#8212;It is that which has overthrown so many Governments in the
+old world, and plunged whole nations into civil wars, anarchy and
+desolation&#8212;that which like an overwhelming volcano burst upon
+devoted <placeName>France </placeName>and after drenching her plains with the blood of
+her choicest <persName>citizens </persName>only prepared her for the chains of a <persName>despot</persName>.<pb n="539"/>
+It is the want of a proper <hi rend="italic">division, definition,</hi> and <hi rend="italic">limitation</hi>, of the
+powers of the several branches and departments of Government&#8212;</p>
+
+<p>I lay it down as an axiom which history will support and prove,
+that there is as much danger to be apprehended from the hasty 
+imprudence, intemperate decisions, and despotism of a single 
+representative body or <persName>Congress </persName>convened and united in one chamber as
+there is from the despotism of a Single individual at the head of a
+nation, and consequently that there is the same necessity for a check
+to the <persName>Legislature</persName>, that there is for the <persName>Executive</persName>. This principle
+is acknowledged even in the <persName>Government of the <placeName>United States</placeName></persName>,
+which is the most perfect republic that exists. The division of the
+Legislative powers in that Government into two separate and 
+distinct branches, the <persName>House of Representatives</persName>, and the <persName>Senate</persName>, both
+of which are to a limited extent controuled by the <persName>Executive</persName>, operates
+as a check or balance in the exercise of them.</p>
+
+<p>The first great and preparitory step therefore towards the firm and
+final organization of this Government is to regulate the Legislative
+department so that its deliberations may be free and independent,
+and at the same time controuled so as to be incapable of exceeding its
+authority, or clashing with that of another. To do this I propose the
+following system for the organization of <persName>Congress</persName></p>
+
+<p>1&#8212;The Legislative powers shall be vested in a <persName>Congress</persName>, which
+shall be composed of two chambers one to be called the <p><persName>Chamber of
+the Commons</persName>, the other the <p>Senate</p></p></p>
+
+<p>2&#8212;The <persName>Commons </persName>shall be elected every 2d year by the People in
+the following manner&#8212;There shall be one <persName>Deputy </persName>for every 70,000
+<persName>inhabitants</persName>. The <persName>Provincial deputations</persName> of each <placeName>Province </placeName>shall,
+immediately proceed to take an enumeration of the <persName>inhabitants </persName>of
+their respective <placeName>provinces </placeName>and after this is completed they shall lay
+them off into as many districts as the Province is entitled to Deputies
+agreeably to the above ratio, which <placeName>districts </placeName>shall contain an equal
+number of <persName>inhabitants </persName>so far as is practicable&#8212;Each of said districts
+shall elect one <persName>Deputy </persName>to the <persName>Chamber of Commons</persName>, who shall be over
+21 years of age, an <persName>inhabitant </persName>of the <placeName>district </placeName>for which he is elected,
+and have been at least three years a Citizen of this <placeName>Empire</placeName>, and "tener
+una renta anual proporcionada procedente de bienes propios&#8212;"</p>
+
+<p>The <persName>Provincial deputations</persName> shall appoint <persName>Officers </persName>to preside at such
+elections who shall make out certificates for the person or persons
+elected, which certificate after being countersigned by the <persName>Captain
+General of the <placeName>Province</placeName></persName> shall be evidence of a right to a Seat in the
+<persName>Commons</persName>&#8212;The <persName>Captain Generals</persName> or <persName>Political Chiefs of <placeName>Provinces</placeName></persName>
+shall give said signatures without delay when called on</p>
+
+<p>3&#8212;The <persName>Senate </persName>shall be appointed in the following manner. The
+<persName>Provincial Deputations</persName> shall elect two <persName>Senators </persName>for each <placeName>Province</placeName><pb n="540"/>
+who shall hold their offices for 8 years and who shall be over thirty
+years of age, an <persName>inhabitant of the <placeName>Province</placeName></persName> for which they are elected
+and have been at least five years a Citizen of this <placeName>Empire</placeName>. The
+<persName>Emperor </persName>with the Consent of the <persName>Council </persName>shall appoint one <persName>Senator</persName>
+for each <placeName>Province </placeName>to be selected from any part of the <placeName>Empire </placeName>he may
+think proper, and without any restriction as to qualifications</p>
+
+<p>4. The <persName>Senate </persName>at their first session shall divide themselves into
+four classes, the seats of the first class shall be vacated the 2d year,
+those of the 2d class the 4th year and so on, so that one-fourth should
+be chosen every 2d year&#8212;</p>
+
+<p>5 Each chamber shall judge of the qualifications of its <persName>members</persName>,
+appoint its own <persName>President </persName>and other <persName>officers</persName>&#8212;determine the rules of
+its proceedings and with the concurrence of two thirds expel a
+<persName>Member</persName>&#8212;</p>
+
+<p>6. The <persName>Chambers </persName>shall hold their sessions in separate and 
+distinct Halls, and each one shall keep a journal of its proceedings which
+shall be published except such parts as may require secrecy&#8212;</p>
+
+<p>7 Neither chamber shall adjourn during the session of <persName>Congress</persName>
+without the Consent of the other, for more than four clays at a time,
+nor to any other place&#8212;</p>
+
+<p>8&#8212;The wages of the <persName>Deputies </persName>and <persName>Senators </persName>shall be fixed by law,
+and untill that is done to continue the same as in the <persName>Spanish </persName>
+Constitution&#8212;The <persName>Senators </persName>shall be paid out of the publick Treasury, and
+the <persName>Deputies </persName>by the <placeName>Provinces </placeName>who send them&#8212;</p>
+
+<p>9&#8212;The <persName>deputies </persName>to the <persName>Commons </persName>shall not receive any office from
+the <persName>Emporer </persName>while they continue <persName>Members</persName></p>
+
+<p>10 All laws shall pass through both chambers and be approved
+and promulgated by the <persName>Emperor </persName>as in the Spanish Constitution</p>
+
+<p>11&#8212;The powers of <persName>Congress </persName>shall [be] the same that is given to
+the <persName>Cortes </persName>by the Spanish Constitution except that the <persName>Senate </persName>alone
+shall be consulted on all matters relating to foreign treaties, and
+shall have the same power as to ratifying them that is given by the
+Spanish Constitution to the <persName>Cortes</persName>&#8212;</p>
+
+<p>12 The <persName>Emporer </persName>may convene the Senate whenever he thinks
+proper to consult them as to foreign treaties or other subjects of
+importance to the <placeName>Nation</placeName></p>
+
+<p>13&#8212;There shall be at least one session of <persName>Congress </persName>every two years
+and as much oftener as the <persName>Emporer </persName>may think proper He may
+convene them at any time by proclamation&#8212;</p>
+
+<p>14&#8212;There shall be no permanent deputation of <persName>Congress </persName>as fixed
+in the Spanish Constitution&#8212;and should it be necessary to convoke
+<persName>Congress </persName>on the Death of the <persName>Emperor </persName>or any casualty happening
+to him, it shall be done by the <persName>Council of State</persName>&#8212;<pb n="541"/></p>
+
+<p>Agreeably to this plan the <persName>People </persName>would have a full and fair
+representation in the <persName>Commons </persName>in proportion to their <persName>members</persName>-</p>
+
+<p>The <persName>Senate </persName>would be a Territorial representation and being 
+composed of <persName>members </persName>elected by the <persName>Provincial Deputations</persName> and the
+<persName>Emperor </persName>would combine the General interests of the <placeName>Nation</placeName>&#8212;This
+<persName>Chamber </persName>would also be to the Throne what the <persName>House of Lords</persName> is
+in <placeName>England</placeName>, one of its main pillars and supporters&#8212;for the 
+<persName>Captain Generals</persName> and <persName>Governors of Provinces</persName> are appointed by the 
+<persName>Emperor </persName>and their influence in the <persName>provincial Deputations</persName> would be
+sufficient in Most instances to secure the election of <persName>Senators </persName>well
+disposed to the <persName>Emperor</persName>&#8212;, this added to the power of appointing
+one third of the senate and of distributing rewards and titles to the
+<persName>Senators </persName>would make that chamber more dependent on the <persName>Throne</persName>
+than the <persName>House of Lords</persName> is in <placeName>England</placeName>, for they are hereditary
+<persName>Senators </persName>and do not depend on the <persName>Crown </persName>for their appointments&#8212;</p>
+
+<p>The <persName>Government </persName>would then be composed of a <persName>Chamber of 
+Commons</persName> as.purely democratic as a representative body can be,&#8212;of a
+<persName>Senate</persName>, independent of the other branch, and united by interest to
+the <persName>Emperor</persName>, but whose legal existance at the same time would de-
+pend on sustaining the <persName>Chamber of Commons</persName> in the event of any
+attempt to distroy it by the <persName>Executive</persName>; for if one branch of the
+Government was to be anihilated, the whole must fall, and a new 
+organization be made&#8212;This chamber then would serve as a barrier to
+prevent the Mutual encroachment of the <persName>Executive </persName>and <persName>Commons</persName>
+upon the authority of each other&#8212;</p>
+
+<p>One great advantage in this plan is that many of its leading 
+features resembles the <persName>Government of the <placeName>United States</placeName></persName> and would
+therefore be calculated to please that part of the people who wish
+to approximate towards a <placeName>republic</placeName>; but in fact the operation of the
+system would be to strengthen the <persName>Emperor</persName>; for the <persName>Senate </persName>in effect
+would be the Mere creature of the <persName>Throne </persName>although in appearance it
+is an independent representation of the <placeName>Nation</placeName>; and thus public
+opinion would probably unite in adopting the system, and prudent
+management would soon confirm their confidence in it&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

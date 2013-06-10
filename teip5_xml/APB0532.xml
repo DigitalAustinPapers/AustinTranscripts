@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0532">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Arthur G. Wavell to Stephen F. Austin, 08-10-1822</title>
+            <author>
+                <persName>Arthur G. Wavell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Port of Veracruz, MX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Mexico</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 536-537
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-08-10">08-10-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">General information. Warning against Mr. B. Contract for freighting wool from Texas to New Orleans, August 20, 1822. Austin and Salvador Carrasco.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1822-08-10">10th Augt.</date> <placeName>on board L Azema</placeName> <placeName>Port of Veracruz</placeName></p>
+<p>Dear <persName>Judge</persName></p>
+
+<p>Thank Heaven I am at length embarked unless the <persName>Govt. of
+<placeName>Sn Jn dé Ulue</placeName></persName> throws some obstacle in my way which I confess I
+apprehend shall sail <date when="1822-08-11">tomorrow </date>for <placeName>Bourdeaux </placeName>which we calculate
+on reaching in about 50 days since she is a very slow sailer but there
+is no other My accomodations are very good the <placeName>Captains Cabin</placeName>,
+Passage money 300 Drs . . . [illegible] 160 Tons French L'Azema&#8212;
+<persName>Mr. B</persName>: and <persName>companion </persName>have gone by heaven only knows what route</p>
+
+<p>I wish I had myself taken that I intended of <placeName>Texas </placeName>I should have
+saved time trouble and risk and seen a country which I much 
+desire to travel through <persName>Mr Hall</persName> <placeName>No. 8 Portal de Mercaderos</placeName> will
+have delivered to you the Pistols and a letter also one enclosed for
+<persName>Bustte- [Bustamente?]</persName>&#8212;to whom remember me most kindly&#8212;<persName>Mr B:</persName>
+the C:y was I am told by a very respectable man who has known
+him very many years formerly partner together with one of his
+<persName>brothers </persName>in a <placeName>Commercial house</placeName> the other <persName>partner </persName>of which gave the
+2 <persName>Brothers </persName>30,000 Drs   for their share in order to liberate himself<pb n="537"/>
+from them this they shortly spent and since then have been living
+heaven only knows how although the <persName>house of Bainbridge &amp; Co</persName>&#8212;
+<placeName>London </placeName>has he states a long tale to tell against them&#8212;a <persName>Spanish 
+Merchant</persName> also informed me detailing the occurence that <persName>Mr. B</persName>: when at
+<placeName>Mexico </placeName>lately endeavored to get into his hand Indigo worth about
+20,000 Drs by stating that he had left goods at <placeName>Veracruz </placeName>to the amount
+of 74,000 Drs and had credit on a <persName>Merchant </persName>there who when applied
+to for his signature told them not to credit him one single dollar
+This I mention to you in order to put you on your guard have 
+nothing to say to or to do with him in any way directly or indirectly&#8212;
+The affair at <placeName>Mexico </placeName>was he told me to go before the <persName>Consulado</persName>,&#8212;
+By the bye <placeName><persName>Mr Hall</persName>s store</placeName> is in the<placeName> passage of 8 Portal de 
+Mercaderos</placeName> with his <persName>partner </persName><persName>Mr. Radiche</persName> an <persName>Italian</persName>&#8212;I forgot to request
+you to let me know what number of people you have already in your
+employ and what number can be procured of what race color 
+condition etc for what they are fit and at what wages I will write
+you from <placeName>Bourdeaux </placeName>since vessels from there sail constantly for this
+<placeName>Country </placeName>with wine although those lately arrived have made but a
+bad voyage&#8212;We have no news whatever</p>
+
+<p><persName>A Wavell</persName></p>
+<p>[Addressed] <persName>Sor. Dn Estevan F. Austin</persName> <placeName>Calle de Cocheros No. 26.
+29. Mexico</placeName> son <persName>Yngleses</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

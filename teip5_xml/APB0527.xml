@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0526">
+xml:id="APB0527">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Morgan and Overton to Stephen F. Austin, 07-10-1822</title>
+            <title>McCoy and Scanlan to Stephen F. Austin, 07-15-1822</title>
             <author>
-                <persName>Morgan and Overton</persName>
+                <persName>McCoy and Scanlan</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -41,14 +41,14 @@ xml:id="APB0526">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Louisiana</placeName>
+                    <placeName type="origin">New Orleans, LA</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">Austin, TX</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 531-532
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 532
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,7 +69,7 @@ xml:id="APB0526">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1822-07-10">07-10-1822</date>
+            <date when="1822-07-15">07-15-1822</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,27 +81,28 @@ xml:id="APB0526">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Introducing George Peazle.</add></p>
+            <p><add hand="#barker">Trading terms.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><persName>Mr George Feazle</persName> the <persName>bearer </persName>has been an <persName>inhabitant </persName>of this <placeName>parish</placeName>
-for about eight years and has conducted himself as an honest 
-industrious Citizen</p>
+<p><placeName>N. Orleans</placeName> <date when="1822-07-15">July 15th 1822</date></p>
+<p><persName>Stephen F. Austin Esquire</persName> <placeName>Bexar</placeName></p>
+<p>Dear Sir</p>
 
-<p><persName>Mr Feazle</persName> being about to visit the <placeName>Province of Texas</placeName> for the
-purpose of making arrangements to move his <persName>family</persName>&#8212;I therefore<pb n="532"/>
-recommend <persName>Mr Feazle</persName> as a good industrious farmer and deserves the
-Patronage of the Government of the said <placeName>Province</placeName></p>
+<p>Yours of <date when="1822-03-15">15th March</date> was duly received. It will at all times afford
+us pleasure in hearing from you, and not less so in supplying goods
+to those of your <persName>acquaintances </persName>who may visit this port for supplies.
+The stock we generally have on hand belongs to merchants 
+principally of this <placeName>City</placeName>, and it is seldom that we are permitted to sell 
+otherwise than for cash, we can however supply them at a lower rate than
+most of our <persName>neighbours </persName>which in some measure will Compensate for
+prompt payment.</p>
 
-<p><persName>Oliver J Morgan</persName></p>
-<p><persName>Parish Judge of <placeName>Ouachita</placeName></persName> in the <placeName>State of Louisiana</placeName>.</p>
-<p><date when="1822-07-10">July 10th&#8212;1822</date></p>
+<p><persName>McCoy &amp; Scanlan </persName>   [Rubric]</p>
 
-<p><persName>J. H. Overton<lb/>
-Judge <placeName>7th District of the State of Louisiana</placeName>.</persName></p>
-<p><persName>Wm. Mood</persName></p>
+<p>[Addressed:] <persName>Stephen F. Austin Esquire</persName>, <placeName>Austin's Settlement&#8212;
+Province of Texas</placeName></p>
 
         </div1>
     </body>
