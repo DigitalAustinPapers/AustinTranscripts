@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0813">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 07-xx-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 866-868
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">License</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-07">07-xx-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">License to keep a ferry at San Felipe.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>[July? &#8212;1824]</p>
+
+<p>The <persName>Baron de Bastrop Sixth Member of the Most Excellent 
+Deputation of the <placeName>Province of Texas</placeName> and Commissioner of the 
+Government</persName>&#8212;and<persName> Stephen F Austin Empresario</persName> for the establishment [of]
+a new <placeName>Town </placeName>and <placeName>Colony </placeName>in said <placeName>Province</placeName>, principal <persName>Judge </persName>and 
+exercising the faculties of the <persName>Ayuntamiento </persName>of said Town and Colony-
+using the faculties with which we are invested and considering that
+<persName>John McFarlan</persName> was the first <persName>settler </persName>at the place where the Town of
+<placeName>San Felipe de Austin</placeName> is now established, have thought proper to
+give and grant and by these presents do give and grant to said <persName>John
+McFarlan</persName> the use of the ferry belonging to said Town of <placeName>San Felipe
+de Austin</placeName> over the <placeName>Brazos River</placeName> at said Town for the term of his<pb n="867"/>
+natural life under the following conditions stipulations and 
+restrictions&#8212;</p>
+
+<p>1.  After the first year from this date the said <persName>McFarlan </persName>shall pay
+in to the funds of said Town of <placeName>San Felip de Austin</placeName> the sum of
+twenty five Dollars, untill the amount of ferriages produced by said
+ferry shall exceed five hundred Dollars annually after which he shall
+pay into the said funds the one half of all ferriages over and above
+the said Sum of five hundred Dollars to be paid Semiannually&#8212;</p>
+
+<p>2.  The said <persName>McFarlan </persName>is bound to keep a good flat or flats as may
+be necessary sufficient to carry over a loaded waggon and team, 
+provided however that the flat he now has shall be deemed sufficient for
+the first year from this date altho it may not be Sufficient to take
+over a loaded waggon and team&#8212;The ferry flat shall be provided
+with banisters or railing on each side extending from the row locks
+to the after rake at least three feet high above the gunwale, and with
+good flooring and oars&#8212;</p>
+
+<p>3.  The said <persName>McFarlan </persName>is bound to give due attendance to said
+ferry and to take over all persons or property promptly and 
+carefully as soon as called on to do so for the rates established by the
+Bill of rates dated the &#8212; day of---------or which may hereafter be
+established by the <persName>authorities of the Town</persName> and to treat all persons
+in a civil Manner&#8212;</p>
+
+<p>4&#8212;Any persons who are detained by the neglect or refusal of the
+<persName>ferryman </persName>to cross them or who are uncivilly treated without Just
+cause shall have the right of recovering damages from said <persName>McFarlan</persName>
+therefor to be assessed by a <persName>Jury </persName>of five disinterested men to be
+summoned by the <persName>Alcalde </persName>of the <placeName>district </placeName>for that purpose&#8212;</p>
+
+<p>5. Any complaints against said <persName>McFarlin </persName>for neglect or violation
+of duty as <persName>ferry man</persName> shall be tried by a <persName>Jury </persName>of five disinterested
+men before the <persName>Alcalde </persName>and Should they decide unanimously that
+he had violated any of the conditions on which the ferry was granted
+to him, he shall immediately forfeit the ferry&#8212;and the <persName>authorities of
+the Town</persName> shall dispose of it as may be deemd most advantageous to
+the interests of the Town and the public conveniance&#8212;</p>
+
+<p>6 Every person owning or renting labors opposite Town shall
+have the right of Keeping boats for their own private use, and
+any number of such persons shall have the right of uniting and
+keeping a boat or boats for their own private use in partnership&#8212;
+provided that the <persName>owners </persName>of, or persons keeping such boats shall
+not cross nor suffer to cross in them any persons or property except
+such as belonging to or are used at, or produced on the labors&#8212;
+under the penalty of paying the amt. of their ferriage to the
+<persName>ferryman </persName>together with the costs of collection and a totol 
+forfeiture of the privilege of keeping any such boats or being inter-<pb n="868"/>
+ested&#8212;or crossing in them, free of ferriage, to be decided by the
+<persName>alcalde </persName>and a <persName>Jury </persName>of five disinterested men</p>
+
+<p>7&#8212;The said <persName>McFarlan </persName>shall at the end of each six months
+after the first year render a true account under oath to the 
+<persName>authorities of the Town</persName> of all ferriages produced by said Ferry 
+during the six months preceding, in order that the part due to the
+Town according to the first article may be ascertaind and collected
+and should he render an untrue account he shall forfeit the said
+ferry&#8212;</p>
+
+<p>8&#8212;Persons owning or renting labors opposite Town shall have
+the privilege of paying their ferriages by the year in property
+or produce and should the <persName>parties </persName>disagree as to the Amount to
+be paid it shall be decided by the <persName>Authority of the Town</persName> taking
+the established rates for a guide</p>
+
+<p>9. The said <persName>McFarlan </persName>shall signify his acceptance of the ferry
+on the conditions herein stated by writing at the foot of this grant
+the following&#8212;"I accept of the ferry at the <placeName>Town of San Felipe
+de Austin</placeName> offerd to me by the <persName>Commissioner Baron de Bastrop</persName>
+and <persName>Empresario Estevan F Austin</persName> on the conditions above stated,
+and I do hereby agree to observe and fulfil said conditions in
+all their parts under the penalties therein prescribed"&#8212;to which
+he will sign his name before witnesses&#8212;and from that Moment
+all flats or boats which said <persName>McFarlan </persName>has provided or may have
+provided for said ferry shall become the absolute property of
+the ferry and in case of a forfeiture thereof by Said <persName>McFarlan</persName>
+they shall revert together with the ferry to the Town to be 
+disposed of by the <persName>authorities of the Town </persName>as public good may require</p>
+
+<p><persName>E. F. A</persName>.</p>
+<p><persName>B. De B.</persName></p>
+
+<p>The said <persName>John McFarlan</persName> having Accepted of the grant made
+to him by the preceeding act, as appears by his written Acceptance
+thereof above, therefore we the said <persName>Baron de Bastrop</persName> and 
+<persName>Empresario, Estevan F. Austin</persName> do hereby put him the said <persName>McFarlan</persName>
+in full possession of said Ferry with all its uses and profits 
+subject to all the conditions and stipulations above statd and that tlrs
+may have due faith we have signed it with assistant witnesses for
+want of a notary in the manner which the law prescribes at the Town
+of <placeName>San Felipe de Austin</placeName> the&#8212;<date n="xx-xx-1824">day of&#8212;&#8212;&#8212;1824&#8212;</date></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

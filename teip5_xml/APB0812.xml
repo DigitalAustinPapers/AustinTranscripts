@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0812">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Anthony R. Clarke to Stephen F. Austin, 07-xx-1824</title>
+            <author>
+                <persName>Anthony R. Clarke</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 865-866
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-07">07-xx-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">News of Iturbide's departure from England for Mexico. United States and Texas. Politics.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Col Austin</persName>                                                                 </p>
+
+<p>Dear Sir</p>
+<p>I have just returned from <placeName>Nachitoches </placeName>the last news from <placeName>Europe</placeName>
+is that <persName>Iterbede the late Emperor of <placeName>Mexico</placeName></persName> has sailed from <placeName>Eng-<pb n="866"/>
+land</placeName> in a private armed ship for <placeName>Vera Cruz</placeName>, the account that he
+published in <placeName>England </placeName>was that the <persName>people of <placeName>Mexico</placeName></persName> had been 
+continually sending for him to come and take charge of the 
+<persName>Government </persName>as the <persName>Inhabitants </persName>was not capable of governing themselves
+that his object was to go and render them all the assistance in his
+power An <persName>officer in the United States army</persName> informed me that he
+read an account in french from <placeName>Parris </placeName>which stated that he was
+appoint[ed] by <persName>Ferdinando </persName>as <persName>Vice Roy of <placeName>Mexico</placeName></persName> and was going
+to take charge of the <placeName>Mexican provinces</placeName> for the <persName>Spanish 
+Government</persName>, I give you the account as I heard it I do not answer for the
+truth of it you must judge for yourself, the late report in 
+circulation that the <placeName>United [States]</placeName> was going to get possession of the
+<placeName>Province of Texas</placeName> I believe is unfounded <persName>Doctr Sibly</persName> informed me
+that he wrote to <persName>Johnson, the Senator from Louisiana</persName> who informed
+him that it was not thought of at <placeName>Washington</placeName>, as I was leaving
+<placeName>Nachitoches </placeName><persName>Mr Hopkins</persName> arrived from <persName>New Orleans</persName> I went to see
+him he informed me that <persName>Johnson </persName>had arrived at <placeName>Orleans </placeName>from
+<placeName>Washington </placeName>that he Dined with him the day before he left town,
+that the <persName>american Government</persName> has no Idea of holding the <placeName>Province
+of Texas</placeName> The Committy in <persName>Congress </persName>have intirely acquited <persName>Mr.
+Crawford</persName> of all the charges&#8212;brought against him by <persName>Governor 
+Edwards</persName>. <persName>Edwards </persName>has resigned as <persName>Minister to <placeName>Mexico</placeName></persName> it is reported
+that <persName>Cadwaller Golden of <placeName>New York</placeName></persName> is appointed by the <persName>President</persName>
+but has declined going. A gentleman from <placeName>New York</placeName> is appointed
+<persName>Consul for <placeName>Toluco</placeName></persName> and is gone for that place, five <persName>agents </persName>has 
+arrived from <placeName>England </placeName>for <placeName>Mexico </placeName>the Congress immediately appointed
+a <persName>Minister for the Court [of] <placeName>England</placeName></persName> who was to sail in eight
+days for <placeName>England </placeName>in the Sloop of war that brought out the <persName>Agents</persName>-
+excuse this scrawl Col. ... is waiting for it&#8212;</p>
+
+<p><persName>Anthy R Clarke </persName>   [Rubric]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

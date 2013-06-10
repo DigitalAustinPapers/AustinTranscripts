@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0814">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Arthur G. Wavell to Stephen F. Austin, 07-xx-1824</title>
+            <author>
+                <persName>Arthur G. Wavell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-17">07-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Antonio de Bexar, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 868-869
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-07">07-xx-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking information about the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[About July &#8212;, 1824?]</p>
+<p>Dear <persName>Austin</persName></p>
+
+<p>Let me know how you are getting on in <placeName>Texas</placeName>I am sorry to hear
+such very unfavorable reports of the state of your <placeName>settlement</placeName> had<pb n="869"/>
+you kept up a constant correspondence with me when in <placeName>England</placeName>
+all your wishes would have been accomplished since I had friends
+who would have advanced all the cash requisite&#8212;Is the <placeName>Colony</placeName>
+healthy or unhealthy or how would it be were the land cleared away
+I shall expect a full detail of every thing openly and candidly since
+it still may be in my power to render you some assistance in your
+schemes What <placeName>Mines </placeName>have you? how do the <persName>Comanches </persName>behave?
+and the <persName>Indians </persName>how is your grant made, of all you demand or
+only a part is it full or not.&#8212;</p>
+
+<p>[Addressed:] <persName>Sor Dn Este van F. Austin</persName> <placeName>Sn Antonio de Bejar</placeName></p>
+
+<p>[Endorsed:] <persName>A G. Wavell</persName> <placeName>Mexico </placeName><date n="xx-xx-1824">1824</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
