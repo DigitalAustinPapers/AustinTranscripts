@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0675">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Lucas Alaman, 01-20-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Lucas Alaman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 725-729
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-01-20">01-20-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Review of the history of his undertaking, analysis of difficulties, and suggestion of remedies.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brassos River Province of Texas</placeName>.</p>
+
+<p><date when="1824-01-20">January 20th. 1824</date></p>
+<p>Most Excellent Sir</p>
+
+<p>Having left the <placeName>City of Mexico</placeName> before the arrival of your 
+Excellency it was out of my power to present myself in person and
+explain to your Excellency as I wished to do, the motives which
+induced me and those who have accompanied me to become 
+<persName>inhabitants </persName>of this <placeName>Nation</placeName>; And as my own future welfare and that of
+my <persName>family</persName>, as well as the prosperity of the <placeName>new Colony</placeName> which I am
+establishing in this <placeName>Province </placeName>will entirely depend on the protection
+and favourable opinion which the Government of our Adoption may
+be pleased to extend to us, I hope it will not be deemed an intrusion
+if I now take the liberty of introducing myself to your Excellency
+and of Supplicating the good opinion and protection of Your 
+<persName>Excellency </persName>and of the <persName>Supreme Executive Power</persName> towards the Infant
+Establishment which after a series of difficulties, heavy expences and
+constant labor for three years past I have finally Succeeded in 
+forming in the heretofore unsettled deserts of this <placeName>Province</placeName>&#8212;</p>
+
+<p>As Your <persName>Excellency </persName>entered upon the high duties of <persName>Minister of
+Relations</persName> subsequent to the period when my business was finally
+completed in that Department by <persName>His Excellency Don Jose Ignacio
+Illueca</persName> on the <date when="1824-04-14">14th. of April 1823</date> it may not be superfluous succinctly
+to recapitulate a short history of its Origin and progress up to this
+time referring Your Excellency to the Official Documents on file in
+that Ministry to Confirm my Statement.</p>
+
+<p>My late <persName>Father </persName><persName>Moses Austin</persName> a native of the State of <placeName>Connecticut</placeName>
+in the <placeName>United States</placeName> became a <persName>citizen of <placeName>Louisiana</placeName></persName> and of the
+<placeName>Spanish Nation</placeName> in the year<date n="xx-xx-1798"> 1798</date> and enjoyed the confidence and 
+protection of that Government until the Cession of that <placeName>Province </placeName>to
+the <placeName>United States</placeName>. Urged by the advice of his <persName>friends </persName>and yielding
+to the Solicitude of many of his <persName>neighbours </persName>who wished to obtain
+permission to establish themselves in this <placeName>Province </placeName>he visited the
+Capital of <placeName>San Fernando de Bexar </placeName>in the month of <date n="12-xx-1820">December 1820</date>
+and made application through the <persName>local authorities of this <placeName>Province</placeName></persName>
+to the <persName>Superior Government</persName> for permission to settle <persName>300 families</persName> in
+this <placeName>Province</placeName>, which was granted by the <persName>Superior authorities of the
+<placeName>Oriental Internal Provinces</placeName></persName> , and the corresponding orders for
+carrying it into effect were issued on the <date when="1821-01-17">17th January 1821</date>&#8212;In
+compliance with these Orders the then <persName>governor of this Province
+Brigadier Don Antonio Martinez</persName> (at present a resident in the City
+of Mexico) dispatched <persName>Don Erasmo Seguin</persName> (at present a deputy
+in <persName>Cortes </persName>from this <placeName>Province</placeName>) to <placeName>Nachitoches </placeName>to meet my <persName>Father</persName>
+and conduct him and the <persName>families </persName>that were to accompany him
+to the place of their destination in this <placeName>Province</placeName>.&#8212;Unfortunately
+my <persName>Father </persName>fell a victim to the uncommon fatigues of his first journey
+to <placeName>Bexar</placeName>, and died shortly after his return to his <persName>Family</persName>, of an
+Inflammation in the breast occasioned by exposure in an Inclement
+Season in the extensive <placeName>wilderness between Nachitoches and Bexar</placeName>&#8212;
+Immediately after this melancholy event I hastened to meet my much
+esteemed and Honorable Friend <persName>Don Erasmo Seguin</persName> at <placeName>Nachitoches</placeName>
+and accompanied him to <placeName>Bexar </placeName>where I received from <persName>Governor
+Martinez</persName> the necessary instruction relative to the Contemplated 
+Colony; I then returned to <placeName>Louisiana</placeName>, and in the month of <date n="12-xx-1821">December
+1821</date> removed the first <persName>families </persName>and commenced the <placeName>Settlement</placeName>, and
+then hastened to <placeName>Bexar </placeName>to receive the further instructions of the
+Government-&#8212; On my arrival at that place I was advised by the
+<persName>Governor </persName>and my other <persName>Friends </persName>to proceed direct to <placeName>Mexico </placeName>and
+lay the subject before the <persName>Sovereign Congress</persName> and receive from that
+Source the authority to make the Titles to the <persName>Settlers </persName>for their
+Lands&#8212; I accordingly departed for <placeName>Mexico </placeName>and arrived in that
+City in <date n="04-xx-1822">April 1822</date></p>
+
+<p>Shortly after my arrival the political convulsions which existed
+during the short reign of <persName>Iturbide </persName>commenced, which delayed any
+decision on my business untill the <date when="1823-02-18">18th of February 1823</date>, when I
+received the final Decree of the <persName>Emperor </persName>bearing date on that day,
+the original of which is on file in the <placeName>Ministry of Relations</placeName>&#8212; Not
+wishing to leave <placeName>Mexico </placeName>after having spent so much time and
+money, with even a shadow of doubt remaining as to the validity
+of my Authority I awaited the event of the revolution in favour
+of liberal principles, and after the fall of <persName>Iturbide </persName>I presented to
+the <persName>Sovereign Constituyent Congress</persName> the Decree which I had received
+from the <persName>Imperial Government</persName> praying for a Confirmation of it
+by <persName>Congress </persName>And on the <date when="1823-04-10">10th of April 1823</date> that Body unanimously
+approved it, passing it to the Supreme Executive Power for their
+Approbation, which was given on the <date when="1823-04-14">14th. of April same year</date>,
+And I immediately after departed from <placeName>Mexico </placeName>for this <placeName>Province</placeName>.<pb n="727"/>
+On my arrival in the <placeName>Colony </placeName>which I had commenced nearly two
+years before I found that most of the <persName>Emigrants </persName>discouraged by
+my long absence and the uncertainty in which they had been for
+such a length of time had returned to the <placeName>United States</placeName>, and that
+the few who remained hard pressed and harrassed on every side
+by hostile <persName>Indians </persName>and threatened with the horrors of famine in
+consequence of the drougth were on the eve of breaking up and
+leaving the <placeName>Province</placeName>. Encouraged however by my return we 
+persevered through the Complicated and appalling difficulties which
+surrounded us on every side untill the new Crops yielded us Bread.
+Since my arrival I Have been most industriously laboring in 
+Conjunction with the <persName>Baron de Bastrop</persName> the <persName>Commissioner </persName>appointed by
+the <persName>Government of this <placeName>Province</placeName></persName> in Conformity with the decree
+above mentioned, in completing the affairs of the Colony and
+hope to make a finish of them in a few months more tho' owing
+to the many unfavourable reports propagated by those who returned
+and my delay in <placeName>Mexico </placeName>many of the <persName>families </persName>who originally 
+intended to remove have not come which has produced some delay in
+Completing the <persName>300 families</persName> which I am permitted to settle in this
+<placeName>Colony</placeName>.</p>
+
+<p>The <persName>Superior Government</persName> in the Decree above alluded to, gave me
+authority to administer justice, and preserve good order in the
+<placeName>colony </placeName>untill its Organization was Completed&#8212; This part of
+my duty has been attended with many embarrassments owing
+to the absolute want of copies of the laws and forms&#8212; I Have
+however in every instance Conformed to the laws of this Nation
+where I could ascertain them, and where I could not, or where they
+did not apply to the cases arising of our peculiar situation, necessity
+has compelled me to adopt provisional and temporary regulations
+which are only entended to operate untill the laws can be procured
+and translated into the English Language&#8212;</p>
+
+<p>The Situation I am placed in near the <placeName>Frontiers of two Nations</placeName>,
+and surrounded on every side by hostile <persName>Indians </persName>and exposed to
+their attacks and to the no less vexatious pilfering and robbing of
+Those <persName>Tribes </persName>who profess friendship but steal whenever an occasion
+presents, renders my task peculiarly laborious and difficult and 
+requires a most severe and efficient police to keep out and punish
+<persName>fugitives </persName>and <persName>vagabonds </persName>from both <placeName>nations</placeName>, And I have experienced
+some difficulty on this subject owing to the want of more full and
+ample authority relative to the Punishment of Crimes&#8212; The 
+<persName>Commanding General of <placeName>Monterrey</placeName></persName> ordered me by his Decree bearing
+date the <date when="1823-06-16">16th day of June last</date> to condemn <persName>Criminals </persName>to hard labour
+on public works untill the <persName>superior Government</persName> should decide on
+their cases and to punish them in no other way.   But a difficulty<pb n="728"/>
+arises in executing this Order&#8212; We are from 40 to 50 leagues from
+<placeName>Bexar</placeName>, and have no <placeName>jail</placeName>, no <persName>Troops </persName>to guard <persName>Prisoners</persName>, and a 
+Condemnation to hard labour without an adequate <persName>guard </persName>to enforce the
+Decree is only to exasperate a <persName>Criminal</persName>, make him laugh at the
+laws and civil Authorities and turn him loose on Society to
+Commit new depreciations, for nothing has a more disorganizing
+effect than a weak and inefficient administration of the laws, as it
+discourages and disgusts the Good and well disposed and Emboldens
+evil men and renders them arrogant and audacious&#8212; I Have 
+therefore in some cases been driven to the painful alternative of either
+permitting a <persName>Criminal </persName>to escape unpunished or of taking upon
+myself the responsibility of inflicting corporal punishment</p>
+
+<p>If those difficulties could be removed by vesting authority in some
+<persName>tribunal </persName>here to punish by Corporal punishment, and in case of
+<persName>foreigners</persName>, banishment from the <placeName>Province </placeName>I think it would greatly
+tend to the harmony and good order of this part of the <placeName>Province</placeName></p>
+
+<p>I Have made it a rule not to admit any <persName>settler </persName>who does not
+produce the most unequivocal evidence of good moral character and
+industrious habits, and I will vouch for those received by me that
+they will not prove undutiful nor ungrateful <persName>Citizens and Subjects
+of the Nation</persName> which has so kindly received them&#8212; As a proof of
+our readiness to aid so far as we are able towards the support of
+the Government we have notwithstanding the Infant state of Our
+<placeName>Settlement </placeName>impoverished as it is by the difficulties we have had to
+encounter voluntarily contributed upwards of 500 fanegas of Corn
+towards paying the Expences of the D<persName>eputy in Congress</persName> and other
+necessities of this <placeName>Province</placeName>.</p>
+
+<p>Before I left <placeName>Mexico </placeName>I presented a Petition to <persName>Congress </persName>praying
+to be admitted to the rights of Citizenship of this <placeName>Nation</placeName>, but I
+never heard whether it was acted on or not&#8212; I expect to spend my
+Life in this <placeName>Nation</placeName>, and if the new Constitution does not declare
+all persons actually established in the <placeName>Nation </placeName>at the time of its
+adoption, Citizens, (as I presume it will) or if the Grant made to
+my <persName>Father </persName>to settle in this <placeName>Province</placeName>, previous to the Independence,
+and my own removal in the first year thereof will not entitle me to
+the rights of Citizenship. I should wish if deemed worthy of that
+honor to procure Letters of Citizenship</p>
+
+<p>I hope that Your <persName>Excellency </persName>will pardon me for troubling you
+with so long a Letter, but as I before observed the future fate of
+myself and followers must depend on the good opinion and 
+protection which the Government of our adoption may be pleased to
+extend to us, And as <persName>settlers </persName>of the <placeName>Colony </placeName>look to me as their organ
+of Communication with the <persName>Governor </persName>I have deemed it my duty
+to explain our Situation and progress up to this time&#8212; It is also<pb n="729"/>
+of the utmost importance to me individually that the Government
+should know me as I really am, for I have spent all I am worth on
+this enterprize&#8212; I have labored most faithfully for near three
+years in those unsettled deserts exposed to every danger and 
+hardship and fatigue; My whole future prospects and what is dearer
+to me still, my name and Character depend on the Success of my
+Arduous Undertaking, and I need not Comment on the great benefits
+which will result to this Province from my labours in furnishing
+force to aid in repelling the hostile <persName>Indians</persName>, resources to support
+the Government, and <persName>Agriculturists </persName>and <persName>Mechanics </persName>to bring into
+active operation the occult advantages and riches of this heretofore
+deserted and uninhabited portion of the great <persName>Mexican Nation</persName>;
+And in the increased value which my <placeName>Colony </placeName>will give to the <placeName>public
+lands</placeName> in its <placeName>neighborhood </placeName>in the event of those Lands being sold for
+the use of the <persName>Government</persName>, and the facilities it will afford in forming
+the new <placeName>Settlements</placeName>&#8212; The wisdom of Your <persName>Excellency </persName>will discover
+all these things; neither need I recapitulate the extent of our
+sufferings and losses in forming a settlement in a wilderness nor
+the vast expence and difficulty which I as the head of the first <placeName>Colony</placeName>
+which has been attempted by <persName>foreigners </persName>in this <placeName>Province</placeName>, have
+undergone, as they must also be evident to the superior 
+penetration of Your <persName>Excellency</persName>&#8212; I then close this long letter with the
+prayer that Your Excellency will be pleased to take this first
+effort of Colonization within the <placeName>Mexican nation</placeName> since its glorious
+Emancipation, under your protection and patronage, and that you
+will have the goodness to assure the Supreme Executive Power
+of our good disposition towards the Government of our adoption,
+and that we are at all times ready and willing to aid all in
+our power in defending the Independence and Liberty of the
+<placeName>Mexican Nation</placeName>&#8212; With Considerations of the highest Respect&#8212; I
+Have the Honor to be</p>
+
+<p>Your Excellencys Most Obedt. and Humble Servant</p>
+
+<p><persName>Estevan F. Austin </persName>   [Rubric]</p>
+<p>To His <persName>Excellency Don Lucas Alaman</p>
+
+<p>Minister of Exterior and Interior Relations, etc., etc.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
