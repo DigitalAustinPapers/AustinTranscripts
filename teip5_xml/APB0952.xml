@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0947">
+xml:id="APB0952">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John Greig to Unknown, 12-20-1824</title>
+            <title>Stephen F. Austin to John McIntire, 12-22-1824</title>
             <author>
-                <persName>John Greig</persName>
+                <persName>Stephen F. Austin</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB0947">
 
                 <person>
                     <persName type="recipient">
-                        Unknown
+                        John McIntire
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0947">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">LaFayette, LA</placeName>
+                    <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 993
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 1003
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0947">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Certificate</channel>
+            <channel mode="w">Letter</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0947">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-12-20">12-20-1824</date>
+            <date when="1824-12-22">12-22-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,24 +81,40 @@ xml:id="APB0947">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Character certificate&#8212; Samuel C. Hirams.</add></p>
+            <p><add hand="#barker">Statement of account in payment for a trip to Natchitoches.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><placeName>State of Louisiana</placeName></p>
 
-<p><placeName>Parish of La Fayette</placeName></p>
-<p>This is to Certify that <persName>Samuel C. Hirams</persName> (the <persName>bearer </persName>of this) is a
-<persName>man of respect</persName> and Esteem among us, that he is qualifyed for 
-buisness of any kind, having receaved a liberal education, and do not
-hesitate to say that he is a man in whoom publick confidence can be
-placed.</p>
+<p>This day settled with <persName>John McIntire</persName> for his trip to <placeName>Nachitoches</placeName>
+and agreeably to the account rendered by said <persName>McIntire </persName>it stands
+thus&#8212;</p>
+<p>Wages from <date when="1824-10-16">16th of October</date> to <date when="1824-12-19">19 Dec</date> is 2 months and 3 days @ 30
+	Dolls per Month________________________________________________	$63. 00
+paid <persName>McIntire </persName>Cash before he started______________________   7. 00
+used by him for Tobacco____________________      1. 12 1/2
+"     "    Socks___________________________      1. 00
+"      "    nails__________________________       . 50
+"     "    Shoes___________________________      1. 50
+                                                ___________  4. 12 1/2
+1 Gallon Whiskey___________________________________________  3. 00
+                                                             _________
+								            14. 12 1/2   14. 12 1/2
+											       __________
+												 48. 87 1/2
+paid   <persName>McGuffin</persName>_______________________________________________________    8.
+												 __________
+												 40. 87 1/2</p>
 
-<p>Given under my hand and seal This <date when="1824-12-20">20th day of Dec. 1824.</date></p>
+<p>Should there be no error in the above statement I am indebted forty
+Dollars and Eighty seven and a half cents to <persName>John McIntire</persName> for
+his wages on said trip with the wagon to <placeName>Nachitoches </placeName>to be settled
+in land as a property payment&#8212;</p>
+<p><date when="1824-12-22">Decr 22d 1824 </date>                                                            <persName>S. F. Austin</persName></p>
 
-<p><persName>John Greig<lb/>
-Clk and J. P. for the Parish and State</persName> afd.</p>
+<p>Also paid on the above one pan price to be ascertained when
+<persName>McGuffin </persName>comes</p>
 
         </div1>
     </body>

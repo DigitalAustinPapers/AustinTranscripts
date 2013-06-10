@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0951">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Legislature, 12-22-1824</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Legislature
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 1002
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-12-22">12-22-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning surveying and surveyors.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[December 22,1824(?)]</p>
+<p>Points to be regulated</p>
+
+<p>1o. will it be expedient to appoint a <persName>general surveyor</persName> to 
+superintend the surveys through the whole of <placeName>Texas</placeName>&#8212;</p>
+
+<p>2&#8212;What are to be his duties and emoluments</p>
+
+<p>3&#8212;Will it be expedient to keep a register book in each <placeName>colony </placeName>in
+which the notes of each tract shall be copied by the surveyor who
+makes the survey and also a plot [for] each tract which entries
+shall be signed by the <persName>surveyor </persName>who surveyed the tract&#8212;</p>
+
+<p>4&#8212;Ought the above entries to be all in Spanish or in both 
+languages&#8212;</p>
+
+<p>5&#8212;Instead of a <persName>Genl surveyor</persName> for the whole of <placeName>Texas </placeName>would it be
+expedient to have one <persName>principal surveyor</persName> for each <placeName>colony </placeName>by whom
+the before mentioned register should be kept in both languages&#8212;</p>
+
+<p>6&#8212;What shall be the compensation pr linear mile for surveying&#8212;</p>
+
+<p>7&#8212;Can tracts cross rivers or <placeName>leading creeks</placeName> or not&#8212;</p>
+
+<p>8&#8212;What discription of creeks shall be considered <placeName>leading creeks</placeName>&#8212;</p>
+
+<p>9&#8212;Would it not be best to survey all the land on each leading
+creek regularly and survey any detached tract except in situations
+where there would be no probability of the adjoining land being
+taken for some years&#8212;</p>
+
+<p>10&#8212;Ought there not to be an official act of the commissioners
+fixing the standard of the measurement agreeably to the basis 
+established in the law, and also a declaration whether the true or
+the magnetic North is to be followed.</p>
+
+<p>11&#8212;Ought there not be detailed instructions to each <persName>surveyor</persName>
+as to the mode of establishing corners and marking the lines</p>
+
+<p>12&#8212;A rule as to the weidth to be given to leagues and quarter
+leagues on the rivers and leading creeks and <placeName>Bays</placeName>.</p>
+
+<p>[Endorsed in Brown Austin's hand:] Points to be arranged while
+at <placeName>Congress</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB0947">
+xml:id="APB0953">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John Greig to Unknown, 12-20-1824</title>
+            <title>J. D. Bludworth to Andrew Roberson, 12-22-1824</title>
             <author>
-                <persName>John Greig</persName>
+                <persName>J. D. Bludworth</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB0947">
 
                 <person>
                     <persName type="recipient">
-                        Unknown
+                        Andrew Roberson
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB0947">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">LaFayette, LA</placeName>
+                    <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 993
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 1003
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB0947">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Certificate</channel>
+            <channel mode="w">Bill of Sale</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB0947">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1824-12-20">12-20-1824</date>
+            <date when="1824-12-22">12-22-1824</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,24 +81,21 @@ xml:id="APB0947">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Character certificate&#8212; Samuel C. Hirams.</add></p>
+            <p><add hand="#barker">Bill of sale for a horse.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><placeName>State of Louisiana</placeName></p>
 
-<p><placeName>Parish of La Fayette</placeName></p>
-<p>This is to Certify that <persName>Samuel C. Hirams</persName> (the <persName>bearer </persName>of this) is a
-<persName>man of respect</persName> and Esteem among us, that he is qualifyed for 
-buisness of any kind, having receaved a liberal education, and do not
-hesitate to say that he is a man in whoom publick confidence can be
-placed.</p>
+<p>Rd Of<persName> Andrew Roberson</persName> one hundred and Eighty Dollars for a
+bay horse fifteen or sixteen hands high which horse I warrant and
+for Ever defend from the Lawfull Clame of anny person or persons
+given under my hand this <date when="1824-12-22">22th of Decr. 1824</date></p>
 
-<p>Given under my hand and seal This <date when="1824-12-20">20th day of Dec. 1824.</date></p>
+<p><persName>J. D Bludworth</persName>.</p>
+<p>Attest</p>
 
-<p><persName>John Greig<lb/>
-Clk and J. P. for the Parish and State</persName> afd.</p>
+<p><persName>G. E. Edwards</persName></p>
 
         </div1>
     </body>

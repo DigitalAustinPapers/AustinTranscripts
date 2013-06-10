@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0949">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Sylvenus Castleman to Colonists, 12-22-1824</title>
+            <author>
+                <persName>Sylvenus Castleman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-18">07-18-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 995-996
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Election Return</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="Public "/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1824-12-22">12-22-1824</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Election returns, December 22, 1824.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Agreeably to public notice given to the <persName>inhabitants of the <placeName>District
+of San Felipe de Austin</placeName></persName> an election was held in this Town on this
+<date when="1824-12-22">22d day of Decr 1824</date> for one <persName>Alcalde </persName>for said district for the year
+<date n="xx-xx-1825">1825 </date>at which time and place the following persons were voted for
+to wit&#8212;</p>
+
+<p><persName>williams</persName>, 15   <persName>kinny</persName>, 27</p>
+
+<p>Agreeable to Election held in the town of <placeName>San Felipe de Austin
+</placeName><date when="1824-12-22">December 22d 1824</date> <persName>Richard L Kenny</persName> was duly Elected by a 
+majority of the voters of said Destrict   given under my hand and seal</p>
+
+<p><persName>Sylvenus Castleman
+Alcalda</persName><pb n="996"/></p>
+
+<p>A list of the names of the voters of the <placeName>St. Felipe de Austin</placeName></p>
+
+<p><persName>Robert Elder</persName> 1
+<persName>William Robins</persName> 2
+<persName>Jefferson Pryor</persName> 3
+<persName>Joseph Baize</persName> 4
+<persName>George Smyth</persName> 5
+<persName>Pleasant M. Prewitt</persName> 6
+<persName>C. G. Allsberry</persName> 7
+<persName>Achilles McPharlan</persName> 8
+<persName>John Crownover</persName> 9
+<persName>Wm Cooper</persName> 10
+<persName>James Allcorn</persName> 11
+<persName>Mandus Berry</persName> 12
+<persName>Stephen Richardson</persName> 13
+<persName>Charles Garrett</persName> 14
+<persName>M. M. Battle </persName>15
+<persName>David McCormack</persName> 14
+<persName>William Pettus</persName> 17
+<persName>Wm Stafford</persName> 18
+<persName>Thomas Cartwright</persName> 19
+<persName>David Richmond</persName> 20
+<persName>John Bowman</persName> 21
+<persName>Antonio Mancha</persName> 22
+<persName>James Tong</persName> 23
+<persName>Jose Contreres</persName> 24
+<persName>Eugenio de la Garza</persName> 25
+<persName>Americi Dortiz</persName> 26
+<persName>William Allcorn</persName> 27
+<persName>John Irons</persName> 28
+<persName>Joseph H. Polly</persName> 29
+<persName>John Allcorn</persName> 30
+<persName>Abner Kuykendall</persName> 31
+<persName>Solomon Williams</persName> 32
+<persName>James Smith</persName> 33
+<persName>Fernando Venilez</persName>
+<persName>Felis Vasquez</persName> 35
+<persName>William Sutton</persName> 36
+<persName>Jesse Smyth</persName> 37
+<persName>John A. Warren</persName> 39
+<persName>Elijah Allcorn</persName> 40
+<persName>George Teale</persName> 41
+<persName>Elijah Roark</persName> 42</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
