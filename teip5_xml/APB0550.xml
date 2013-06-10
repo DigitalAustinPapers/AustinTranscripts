@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0550">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Felix Trespalacios to Stephen F. Austin, 12-15-1822</title>
+            <author>
+                <persName>Jose Felix Trespalacios</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Antonio de Bexar, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 560
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-12-15">12-15-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Provisions for the welfare of Texas. Wants assistance in breaking up bands of thieves stealing horses and mules in Texas and selling them in the United States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Antonio de Bexar</placeName> <date when="1822-12-15">December 15. 1822</date></p>
+<p>Dear Sir</p>
+
+<p>as soon as I arrived here as <persName>Governor </persName>of this <placeName>province </placeName>I endeavored
+to promote its welfare. I directed the <persName>inhabitants of the <placeName>Colorado</placeName></persName>
+to appoint an <persName>alcalde </persName>of their own choice to administer justice, and
+organize the <persName>militia </persName>to oppose the <persName>Karankawas </persName>or other <persName>intruders</persName>
+who might attack their persons or their property. I provided the
+wants of some distant <placeName>settlements </placeName>who petitioned for the protection
+of the <persName>Government</persName>. The presence of several <persName>Indian chiefs</persName> in this
+place gave me the opportunity to bring to an understanding nations
+who had been heretofore at war. Though the plan of colonization
+is not yet known. I am confident it shall be drawn up upon liberal
+principles and will afford to industrious emigrants the advantage of
+a rich soil fit for every kind of crops. I expect shortly a strong
+reinforcement of <persName>troops </persName>and intend to visit with them the <placeName>province</placeName>
+and leave <persName>detachments </persName>at the most important points to protect the
+<persName>settlers </persName>and <persName>travellers</persName>. While I am waiting with anxiety the means
+of contributing to the final happiness of this section of the <placeName>Empire</placeName>
+I feel myself somewhat disappointed in my expectations in seeing a
+band of <persName>villains </persName><persName>Spaniards </persName>and <persName>americans </persName>actually engaged in 
+stealing mules and horses and so bring them with impunity to the <placeName>United
+States</placeName>. The existence of this set of <persName>robbers </persName>cannot be but prejudicial
+to the <persName>inhabitants </persName>of both countries, there fore I take the liberty
+to ask your opinion upon the measures which are better calculated
+to stop such criminal a traffic. Should you find yourself authorised
+to help me in obtaining this desirable object, I shall have reason to
+congratulate both your philanthropy and my own good fortune.&#8212;-If
+you have any command for this place or for any other where my
+credit might be of some service to you, sir, please dispose with 
+confidence of</p>
+
+<p>[José Felix Trespalacios.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

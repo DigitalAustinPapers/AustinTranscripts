@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0554">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James E. B. Austin, 01-01-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico City, MX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 565-566
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-01-01">01-01-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Opinion of Trespalacios. Advice. Mexican politics.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>City of Mexico</placeName> <date when="1823-01-01">Jany. 1. 1823</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I wrote you by the last mail that <persName>Govr. Martinez</persName> had arrived and
+that he informed me of the arrival at <placeName>Bexar </placeName>of the articles that were
+in the Lively&#8212;You must do the best you can to sell them for money
+which retain untill I arrive, your attention to this business will
+probably put it out of your power to accompany <persName>Carrasco</persName>&#8212;if so
+inform him to that effect without delay&#8212;</p>
+
+<p>Write to the <persName>settlers </persName>that it is <hi rend="italic">their </hi>interest which detains me so
+long I am determined to persevere to the end and have everything
+finally finished before I leave here&#8212;</p>
+
+<p>Present my respects to <persName>Govr Trespalacios</persName> so far as I have been
+able to judge I think he is a good man, you must visit him every
+day, and acquire his friendship I am told there is a young man
+with him a <persName>son </persName>of the famous <persName>Genl. Morales</persName>, be intimate with him
+also and get his confidence and friendship&#8212;to live with any peace
+or comfort we must have the friendship and support of the <persName>Govr </persName>of
+the <placeName>Province</placeName>, you must therefore be very particular on this point
+and secure his friendship by close attention to him&#8212;<pb n="566"/></p>
+
+<p>Attend to your studies and learn to write the Spanish 
+grammatically as well as to speak it correctly, devote all your time and 
+attention to this point&#8212;I have not sent you to the <placeName>Colorado </placeName>or given you
+anything to do for the last <date n="Summer - 1822">summer </date>because I wished all your time
+should be exclusively devoted to study [of] the Spanish and I flatter
+myself with the pleasing hope of finding you very much advanced in
+that language&#8212;if I am disappointed I shall really be much vexed if
+anything can vex me with my beloved and only <persName>Brother</persName>.</p>
+
+<p>Give my respects to <persName>Baron Bastrop</persName> and inform him that he must
+not let my long absence, obliterate me from his memory he must
+come and live with me on the <placeName>Colorado </placeName>when I get comfortably
+fixed there&#8212;I shall be able to do a great deal for the <persName>Govr </persName>or any
+others who befriend and aid me, and I am particularly anxious to
+be on friendly terms with <persName>Trespalacios</persName>, I can be of very great
+service to him in various ways and so can he be to me&#8212;I have the
+confidence of the <persName>Government </persName>here and have no doubt of getting
+all things well arranged&#8212;All our future hopes are now in this
+<placeName>Empire </placeName>and we must conduct ourselves so as not to loose the good
+name we left behind us in the <placeName>United States</placeName>, and so as to acquire
+the confidence of the government we have adopted, to do this we
+must be correct in our deportment and rigidly faithful in all our
+engagements and particularly so in whatever is entrusted to us by
+the Government&#8212;let this be an everlasting rule for you and you
+will not err&#8212;</p>
+
+<p>I remember that the last time our unfortunate <persName>family </persName>were all
+united was four years ago this day in <placeName>Herculaneum </placeName>You no doubt
+have not forgotten it&#8212;It was the last time we were permitted [to]
+assemble under the Paternal roof Since then how many fatigues
+and troubles have we all experienced! but what is past cannot be
+recalled. I hope we have gained some experience which will benefit
+us, and I trust that if our Dear <persName>Mother </persName>and <persName>Sister </persName>are preserved
+that it will not be much longer before we shall be once more living
+under the same roof, or in the neighborhood of each other.</p>
+
+<p>There has been and still exists in the <placeName>province of Vera Cruz</placeName> some
+difficulties, that <placeName>Province </placeName>is in a state of insurrection, but the 
+<persName>insurgents </persName>have been defeated at <placeName>Xalapa </placeName>and it is expected that a
+few days more will totally distroy and suppress them&#8212;farewell.
+<hi rend="italic">Study hard attend to the <persName>Governor</persName></hi> live frugal, and sell the articles
+to the best advantage.</p>
+
+<p>[Stephen F. Austin.]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

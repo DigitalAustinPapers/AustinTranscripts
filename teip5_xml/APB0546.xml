@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0546">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Edward Lovelace, 11-22-1822</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Edward Lovelace
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico City, MX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 554-555
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-11-22">11-22-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Summary of political movements in Mexico. Difficulty over the status of slavery. Mexicans not prepared for a republican government.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>City of Mexico</placeName> <date when="1822-11-22">November 22nd 1822</date></p>
+<p>Dr Sir</p>
+
+<p>When I arrived here <persName>Congress </persName>were sitting but progressing
+very slowly, the discord and jealousy manifested from the first day
+of the session of <persName>Congress </persName>against the <persName>Generalissimo Iturbide</persName> (now
+<persName>Emperor</persName>) was increasing daily and everything was at a stand -
+There were three distinct <persName>parties in Congress</persName>, one for a <persName>Bourbon
+King</persName>, one for an <persName>Emperor </persName>from this country, and the other for a
+<persName>Republic</persName>, in this state of things the <persName>government </persName>was approximating
+towards Anarchy, when on the night of the <date when="1822-05-18">18 of May</date> the <persName>army</persName>
+stationed in this city proclaimed <persName>Iturbide Emperor</persName>, the next day
+<persName>Congress </persName>elected him in due form and on the <date when="1822-05-21">21</date> he took the oath,
+these things put a stop to all business for some time - Agreeably to
+the <persName>Emperor</persName>s Oath he could do nothing without the consent of 
+<persName>Congress </persName>and this body moved most astonishingly slow and were more
+occupied in watching the <persName>Emperor </persName>than in attending to the interest
+of the country - On the <date when="1822-07-21">21 July</date> the <persName>Emperor </persName>was crowned, and
+very soon after serious collisions began to arise between him and
+<persName>Congress</persName>, the latter wished to keep all power in their hands and
+things were getting worse every day all was at a dead stand, for
+<persName>Congress </persName>would do nothing for fear of granting a little power to
+the <persName>executive</persName>, and the <persName>Emperor </persName>could do nothing so long as 
+<persName>Congress </persName>existed without its sanction - In this state of things it was in
+vain for an individual to urge his business, however important and
+mine with all other individual applications was laid on one side&#8212;
+Matters progressed in this manner from bad to worse and were
+again verging towards Anarchy; one dangerous conspiracy was 
+discovered and quelled by the imprisonment of about 70, amongst whom
+were 20 <persName>members of Congress</persName> and at length finding that nothing
+but an extraordinary and desicive step could save the nation from
+the confusion and the established government from ruin, the 
+<persName>Emperor </persName>desolved <persName>congress </persName>by a decree of his own on the <date when="1822-10-31">31 of October</date>
+last and created a national <persName>Junta </persName>of his own choosing from amongst<pb n="555"/>
+the <persName>members of Congress</persName> - since then things have gone on better
+and with more harmony - My business relative to the <placeName>settlement </placeName>is
+now acting on and in less than 10 days I shall be dispatched with
+everything freely arranged. The principal difficulty is slavery, this
+they will not admit - as the law is all <persName>slaves </persName>are to be free in ten
+years, but I am trying to have it amended so as to make them <persName>slaves</persName>
+for life and their <persName>children </persName>free at 21 years - but do not think I shall
+succeed in this point, and that the law will pass as it now is, that is,
+that the <persName>slaves </persName>introduced by the <persName>settlers </persName>shall be free after 10
+years - As regards all other matters there will be no difficulty, I will
+write you again from here after I get through and let you know
+the particulars. I am doubtful nothing can be done about getting
+land at or near <placeName>Galveston</placeName>, the <persName>government </persName>seems opposed to any 
+<placeName>settlement </placeName>being formed so near the <placeName>borders of the United States</placeName>, when
+I return to <placeName>Texas </placeName>I will write you very fully - you must not be
+frightened at the name of an <persName>Imperial government</persName>, you like myself
+have lived under a Monarchy, when <placeName>Louisiana </placeName>belonged to <placeName>Spain </placeName>and
+I think we lived as happy then as under the <persName>government of the
+<placeName>United States</placeName></persName> - The <persName>Emperor </persName>has his <persName>enemies </persName>and in the <placeName>United States</placeName>
+the <persName>Democrats </persName>will abuse him no doubt, but he is doing the best for
+his country. These people will not do for a <persName>Republic </persName>nothing but a
+Monarchy can save them from Anarchy -</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p>This is a true copy of the letter, recd from <persName>S. F. Austin</persName>.
+Received from <persName>Mrs. Bell</persName> and I presume was addressed to her</p>
+
+<p><persName>husband </persName><persName>Josiah H Bell</persName>.</p>
+
+<p><persName>Guy M Bryan </persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

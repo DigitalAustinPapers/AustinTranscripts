@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0552">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 12-xx-1822</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 562-564
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Document</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-12">12-xx-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Mexican politics. Santa Anna's proclamation of a republic. Honors to Iturbide in the Capital, December 14.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>on the <date when="1822-12-02">2d. of December 1823 [1822]</date> <persName>Brigr. Genl Don Antonio
+Lopes de Santana</persName> proclaimed in favour of a Republic in the <placeName>city of
+Vera Cruz</placeName> at the head of his Regiment No 8 of infantry&#8212;
+amounting to about 800 <persName>men </persName>well provided with amunition small arms and
+cannon and mortars, provided for the attack on the <placeName>castle</placeName>&#8212;the civil
+authority of <placeName>Vera Cruz</placeName> seconded him, and a plan was published on
+the 6 stating the basis of future operations&#8212;<persName>Genl. Guadalupe 
+Victoria</persName> soon after joined <persName>Santana </persName>with a considerable body of <persName>troops</persName>
+and took command of the Strong and important fortified position
+of <placeName>Puente de Rey (Kings Bridge)</placeName> on the Main road from <placeName>Vera Cruz
+</placeName>to <placeName>Xalapa </placeName><placeName>Puebla </placeName>and <placeName>Mexico</placeName>&#8212;<date when="1822-12-09">about the 9</date> <persName>Santana </persName>left <placeName>Vera Cruz</placeName>
+and marched in the direction of <placeName>Cordova </placeName>with the intention as was
+said of endeavouring to induce <persName>Genl. Lobato</persName> and the division under
+his command to join him&#8212;<persName>Lobato </persName>however attacked his advance
+guard repulsed them and took two small field pieces and a few 
+<persName>prisoners</persName>&#8212;<persName>Santana </persName>then collecting about 1000 <persName>men </persName>took the main road
+to the <placeName>city of Mexico</placeName> and having surprised and cut off, by a rapid
+movement, a detachment of the <persName>Imperial troops</persName> at the <placeName>Plan del Rio</placeName>,
+in advance of the <hi rend="italic"><placeName>Puente del Rey</placeName></hi> near <placeName>Xalapa</placeName>, made an attack on
+the latter city on the <date when="1822-12-23">23 Decr.</date> at daylight and was repulsed with
+considerable loss in killed wounded and <persName>Prisioners</persName>,&#8212;This obliged
+him to retreat rapidly to <placeName>Vera Cruz</placeName> in which city he shut himself up
+with the remnant of his <persName>army</persName>. <persName>Victoria </persName>remaining in possession of
+the <hi rend="italic"><placeName>Puente del Rey</placeName></hi>&#8212;during this period the town of <placeName>Alvarado</placeName>, which
+had followed the example of <placeName>vera Cruz</placeName> a few days after the 
+proclamation of the <date when="1822-12-02">2d Decr</date>. redeclared for the <persName>Emperor</persName>&#8212;and was taken
+possession by <persName>Genl. Lobato</persName>&#8212;The <persName>Captain General of the Province
+of <placeName>Vera Cruz</placeName></persName> field <persName>Martial Echavari</persName> uniting the divisions of <persName>Genl.
+Lobato</persName> and <persName>Cortázar </persName>and adding to them a few <persName>troops from <placeName>Xalapa</placeName></persName>
+encamped before <placeName>Vera Cruz</placeName> and commenced the siege of that city
+with about____on the____day of ____ leaving a detachment to
+besiege <persName>Victoria </persName>at the <placeName>Puente del Rey</placeName> under the command of <persName>Genl.<pb n="563"/>
+Calderón</persName> The sieges of these two places was continued without any
+important occurrance save occasional skirmishes, and the scarcity
+of provisions in <placeName>Vera Cruz</placeName>, untill the day of&#8212;when the besieging
+army under <persName>Echavarri </persName>entered into a convention with <persName>Ayuntamiento
+of <placeName>Vera Cruz</placeName></persName>, called the convention of <placeName>Casa Mata</placeName> from its bearing
+date at that place   this convention is as follows&#8212;&amp;c, &amp;c.</p>
+
+<p>In the mean time the <persName>Emperor </persName>who left <placeName>Xalapa </placeName>the <date when="1822-12-01">1 Decr </date>entered
+<placeName>Mexico </placeName>on the <date when="1822-12-12">12th Decr</date> and was received with great demonstrations
+<persName>fryars </persName>and <persName>priests </persName>bearing crosses, a splendid Image of <persName>the virgin</persName>
+at the head of <placeName>calle de los Plateros</placeName> fronting the <placeName>great square</placeName>&#8212;
+another at the entrance of his <placeName>Palace </placeName>the windows and doors of
+which were hung with curtains and festoons, as was also the street
+leading from the tryumphal arch to the <placeName>Palace</placeName>, the whole of which
+was fancifully illuminated with small lamps suspended in festoons
+across the street throughout its whole extent presenting when viewed
+from either extremity the appearance of Millions of stars suspended
+over the Street below the eves of the houses&#8212;a Splendid Gilt 
+tryumphal car was also made at the cost of the <placeName>City </placeName>in which it was
+intended to have drawn the <persName>Emperor </persName>into the <placeName>City </placeName>from the Gate;
+but he, probably thinking that his journey had afforded no cause of
+tryumph, prudently defeated this design by making his entrance
+in the night previous to the day he was expected&#8212;</p>
+
+<p>The <persName>admirers of H. M.</persName> however were determined their labour
+should not be lost, and accordingly a procession was formed which
+moved from the <placeName>Monastary of St. Francisco </placeName>composed of about 100
+<persName>fryars </persName>and <persName>priests </persName>bearing crosses, a splendid Image of the <persName>Virgin
+Mary</persName> as large as life clothed in silver and standing on a fanciful
+pedestal of Glass&#8212;<persName>Christ </persName>on the Cross and a quantity of <persName>Saints</persName>&#8212;
+Preceeded by the <persName>Emperor </persName>[75] body Guard of Horse next followed
+the Car drawn by <persName>fryars </persName>in which was the Portrait of <persName>H. M.</persName> 
+supported by two <persName>Priests</persName>&#8212;a full <persName>Band </persName>of Music a <persName>detachment of
+Infantry</persName> and an immence crowd of the Rabie populace closed the
+line&#8212;This farce was succeeded [by] others of a similar character,
+the Car was hauled and rehauled through the Streets and 
+illuminations and incessant and deafning peals of Bells seemed to occupy
+the whole attention of the <persName>People</persName>&#8212;It was however manifest to all
+and was even observed with regret by the tools and creatures of the
+<persName>Emperor</persName>, that the great mass of the respectable and intelligent part
+of the <persName>inhabitants </persName>viewed these displays with the disapprobation and
+contempt they merited&#8212;in the train of the Car was seen none but
+<persName>fryars</persName>, a few servile <persName>officers </persName>who had been promoted for their 
+personal exertions in proclaiming the <persName>Emperor </persName>or insulting the <persName>congress</persName>
+and the lowest dregs of the Rabble who are a nearly perfect 
+conterpart of the <persName>Lazeroni of <placeName>Naples</placeName></persName> except being a mixture of <persName>Indians</persName><pb n="564"/>
+half and quarter <persName>Indians </persName>etc. and in the last grade of ignorance
+fanatisicm poverty, nakedness and misery&#8212;The <persName>Ayuntamiento</persName>
+about this time also set to work preparing for the "Jura" or 
+cerimony of taking the oath of allegiance of the <persName>E.</persName>&#8212;a temple was erected
+in the <placeName>great square</placeName> nearly fronting the <placeName>Cathedral </placeName>presenting 
+porticoes on the four sides supported by collumns about 20 feet in
+height, the entablatures and fronts of which adorned with large 
+historical paintings representing the "<persName>Heroe of Iguala</persName>" in the various
+stages of his progress from a Spanish Colonel to Imperial diadem-&#8212;
+such as proclaiming the plan of <placeName>Iguala </placeName>on the <date when="1820-02-24">24 February 1820</date> [sic],
+the ratification of the treaty of <placeName>Cordova</placeName>, the takeing of <placeName>Mexico </placeName>by the
+<persName>trigarante army</persName> on the <date when="1821-09-27">27 Sept.</date> following, his proclamation as
+<placeName>Emperor </placeName>on the night of <date when="1822-05-18">18 May 1822</date>, his coronation on the <date when="1822-07-21">21
+July </date>&amp;c, &amp;c. An <placeName>amphitheater </placeName>for the Bull fight was also erected
+in a part of the same <placeName>square </placeName>fronting the <placeName>Palace </placeName>of the <persName>Vice Roys
+</persName>now <placeName>Imperial Palace</placeName>, and on the site of the circular enclosure which
+surrounded the Collossal Brown Statue of <persName>Charles the 4</persName>, Mounted
+on horseback, this enclosure was about 100 yards in diamiter
+entirely of hewn and carved stone, within the surface was elevated
+about 4 feet above the level of the <placeName>great square</placeName> and paved with hewn
+stone up to the foot of the statue, which rose in the center on a
+pedestal</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

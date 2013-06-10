@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0561">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Arthur G. Wavell to Stephen F. Austin, 02-17-1823</title>
+            <author>
+                <persName>Arthur G. Wavell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Devonshire, England</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 576-580
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-02-17">02-17-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Business conditions in England. Mosquito Coast speculations. Plans for Texan speculations dependent on confirmation of grant.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Barnstable Devonshire</placeName> <date when="1823-02-17">February 17th 1823</date></p>
+<p>Dear <persName>Austin</persName></p>
+
+<p>Although I have repeatedly written to you your first letter dated
+<date when="1822-08-21">21st Aug: 1822</date> <hi rend="italic">reached me ONLY on the <date when="1823-02-15">15th of this month</date></hi> having
+been sent it appears to the <hi rend="italic"><placeName>Havannah </placeName></hi>and since it contains matter of<pb n="577"/>
+great importance to us I lose not a moment in answering it which I
+had hoped to have done by means of the kindness of a Gentleman
+who I had expected would have left this place for your part of the
+country in which I am however disappointed&#8212; At some paragraphs
+contained in your letter I am I confess surprized but shall neither
+quote them nor make any remark since as I ever have stated [to] you
+I[t] shall never be my fault if in every transaction and 
+correspondence which passes between us we do not act setting aside interested
+motives unworthy of either of us as Gentlemen and friends as such
+I am convinced we shall ever meet and trust hereafter travel over a
+great part of <placeName>Europe </placeName>together&#8212;I most anxiously wait your next
+letter containing the confirmation of your claims when I shall 
+immediately take steps for effecting the sale of some part of the land
+in order to create a capital If you do not receive goods as soon as
+you expect you have only to blame the ill luck which has prevented
+your letters reaching me since I cannot doubt your having written
+very often and as I so anxiously solicited you by every channel, the
+<placeName>Havannah</placeName>, <placeName>Jamaica</placeName>, and the <placeName>United States</placeName>&#8212;In my former letters
+written when I was over head and ears in business, and bother I
+probably omitted stating to you the causes of my not forming a 
+<persName>Company </persName>as soon as I had at first intended and you will I am convinced
+most fully coincide with me in [my] opinion relative to the 
+propriety of the determination I announced to you in them of unless
+something offered more favorable than the aspect of affairs promised
+entering into no agreement except indeed it were on most 
+advantageous terms or to a <persName>friend </persName>but rather await your advices and then
+sell land to create a Capital&#8212;The fact is the very day after my
+arrival in <placeName>London </placeName>I laid all our Documents before a <persName>friend </persName>one of
+the best informed and most respectable <persName>merchants </persName>there I 
+subsequently fully explained the business and he made every requisite
+enquiry when we found that in consequence of the numerous Piracies
+which checked the Spirit of Speculation in that quarter by 
+rendering the seas beyond measure perilous, and owing to the unfavorable
+impression made by false reports (representing <placeName>Mexico </placeName>as on the
+eve of a civil war and one general distress and confusion) which I
+in some measure did but owing to the silence of my correspondents
+in <placeName>Mexico </placeName>could not wholly do away to form a company even on fair
+terms would be beyond measure difficult and even when effected
+would require <hi rend="italic">a vast sacrifice of interest</hi> since in order to procure
+<hi rend="italic">50 or 100,000 Dollars</hi> we must give up land which selling at the rate
+that of <placeName>Poyais </placeName>far inferior in every respect then brought in the
+market worth at least <hi rend="italic">four </hi>or <hi rend="italic">five </hi>possibly <hi rend="italic">ten twenty or thirty times</hi><pb n="573"/>
+THAT SUM and this only in order to gain <hi rend="italic">a few months or if you
+were careful in writing possibly only</hi> days&#8212; I ought to state that
+<placeName>Poyais </placeName>is on the <placeName>Mosquito Shore</placeName> near <placeName>Portobello </placeName>a tract granted to
+an <persName>Englishman </persName>and I understand has sold in part for more than I
+Dollar per acre the very same <persName>merchants </persName>and <persName>Banker </persName>who arranged
+his business have called on and offered me their aid and agency&#8212;
+Under these circumstances you would doubtless have deemed me
+worse than mad had I not suspended the execution of the scheme
+we had framed when at <placeName>Mexico </placeName>and my determination in 
+consequence was such as will I am convinced merit the approbation of
+yourself and every one and prove the feeling which I was resolved
+should actuate my conduct in whatever proposal I might make
+you&#8212;Calculating that 300,000 acres of the best land would produce
+the same number of Dollars 1/3 of which I proposed lodging in your
+name 1/3 in my own and with the other 1/3 sending out all the goods
+you require which together with all the remaining land (in order
+that you might be enabled to provide for your <persName>family </persName>in which 
+laudable effort I shall ever join you) I intended making over to you to
+be divided amongst your <persName>brother </persName><persName>brother in law </persName><persName>sister </persName>and other 
+<persName>relatives </persName>as you might deem proper reserving only 1/6 so that if you chose
+your <persName>mother </persName>might have -1/6 your <persName>brother </persName><persName>sister </persName>- <persName>Brother in law</persName> -
+yourself and myself 1/6 each&#8212;With regard to the distribution of 
+whatever sum we might raise by Timber sold in this country which as I
+have so often stated if you can cut it down float it to the coast at
+little expense and ship ships lye there during the summer will 
+produce an <hi rend="italic">immense </hi>sum of money I should be equally liberal having
+no one member of my <persName>family </persName>to provide for nor wishing for any
+more than independent small portune for myself&#8212;I intended at
+the same time to request that a friend a <persName>merchant </persName>should be named
+agent for the concern since the greater part of the produce doubtless
+will be sold in this country&#8212;In all the schemes I have entered into
+relative to Mining &amp;c you as I informed you at <placeName>Mexico </placeName>have an equal
+share with myself unless very unfortunate they will produce fortunes
+for us but I have not on that account neglected the land in <placeName>Texas</placeName>
+since it is well for us to have two strings to our bow&#8212;I ought to have
+mentioned that never man had so awkward a game to play as I had
+since first the <persName>Pirates </persName>plundered me of all my cash cloathes and nearly
+all my papers then no one of my correspondents notwithstanding
+all I had urged on the subject forwarding to me intelligence relative
+to the state of <placeName>Mexico </placeName>I was unable as I otherwise would have done
+wholly to discredit the reports which [eame] from the <placeName>Havannah</placeName>
+and <placeName>N: America Papers</placeName> so that when I offered the <hi rend="italic">Valenciana </hi>spec-<pb n="579"/>
+illation to a house inclined to take it the question asked was <hi rend="italic">"what
+are your latest advices? accounts from <placeName>N: Ama</placeName>: state that a 
+revolution is inevitable indeed has already commenced in <placeName>Santander</placeName>"</hi> and
+with regard to your <placeName>grant in Texas</placeName> every rich man to whom I had
+applied asked the same question adding <hi rend="italic">your documents state that
+the claim was under the consideration of the <persName>Congress </persName>and not 
+ratified that <persName>Congress </persName>has it appears by the <placeName>Havannah </placeName>and <placeName>N: American
+Newspapers</placeName> been dissolved by <persName>Iturbide</persName></hi>&#8212;If therefore any time has
+been lost you must attribute it to the cause be it what it may which
+has prevented my receiving an account of the confirmation of your
+claim which you must recollect you was to send me immediately and
+by every conveyance in order to enable me to make a contract&#8212;Had
+I not been robbed, and disappointed for which I had reason to 
+expect, those articles which you want for your self I should have sent
+out as soon as I arrived&#8212;If however as you state in your letter you
+can procure money in the<placeName> United States</placeName> on advantageous terms and
+time is so very important on the following terms I shall in order
+to meet your wishes have no objection to provided the best land be 
+reserved to be sold in this country and the proceeds divided between
+us and reserve for me a share in the whole concern of one-sixth (1/6) &#8212;
+This offer I make you in order to meet your wishes since&#8212;
+remember that the <placeName>Bank </placeName>has resumed cash payments money here procures
+scarcely 4 pr cent: Capital was never so abundant as it now is in
+<placeName>London </placeName>consequently. . .[illegible] <persName>Mr Exter </persName>has removed to <placeName>No. 109
+Fenchurch London</placeName> therefore address me there do not inclose more or
+thicker paper in your letters than absolutely necessary since it renders
+the postage very expensive and when possible as I always do to you
+write only a single sheet without enclosing it which doubles the 
+postage&#8212;[If] you remove the obstacles above mentioned I have no doubt
+everything will succeed beyond your most sanguine expectations&#8212;
+Remember that in our agreement no time is specified had any given
+period been mentioned even in conversation I should of course have
+said so many weeks after the receipt by me in <placeName>England </placeName>of the 
+sanction of the <persName>Congress </persName>my interest are as much concerned as yours
+consequently I will not lose a single moment indeed have already
+taken an expensive journey in order to meet a gentlemen who I 
+expected might have advanced some cash but did not meet him at
+home&#8212;With patience all will go well or if in a very great hurry
+procure cash as I have before stated on the terms there mentioned
+in the <placeName>United States</placeName>   The Bills Barry drew in favor of the <persName>Minr<pb n="580"/>
+of finance</persName> have been  I am  informed  protested&#8212;Write   and most
+fully relative to Timber etc., etc.   Believe me most truly yours</p>
+
+<p><persName>A. G. Wavell</persName></p>
+
+<p>[Addressed] <persName>Stephen Fuller Austin Esqr.</persName> To the care of <persName>Joseph
+H. Hawkins Esqr.</persName> <hi rend="italic"><placeName>New Orleans</placeName></hi></p>
+
+<p>To be forwarded immediately.   Pr. <persName>Jessie</persName>.</p>
+
+<p>Forwarded by your most O Servt. <placeName>Liverpool </placeName><date when="1823-02-24">24 Feby 1823</date>
+<persName>R. McNeell</persName></p>
+
+<p>I most anxiously expect your answer and those from the <persName>Mexn
+Govt</persName> to the letters which I dispatched 2 1/2 months ago&#8212;<placeName>France </placeName>is
+about to attack <placeName>Spain</placeName>&#8212;<placeName>England </placeName>is also about to recognize the 
+independence of the <placeName>Amas.</placeName> <placeName>Spain </placeName>is in a terrible state of confusion and
+civil war. I have recd <persName>Gl. Bustamante</persName>s letter promises me to do
+every thing in his power to aid and protect you&#8212;The <placeName>house </placeName>you I
+hope found as I did a most excellent one&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

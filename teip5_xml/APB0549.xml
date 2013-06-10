@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0549">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Arthur G. Wavell to Stephen F. Austin, 12-10-1822</title>
+            <author>
+                <persName>Arthur G. Wavell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">London, England</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 558-559
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-12-10">12-10-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Can sell land and raise capital only when has official confirmation of the grant to show. Plan to develop mines.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>London </placeName><date when="1822-12-10">10 Decr 1822</date></p>
+<p>Dear <persName>Judge</persName></p>
+
+<p>A whole shower of my epistles will some day or other rain down
+on you since I have written to you from <placeName>Charleston </placeName>and hence 
+repeatedly&#8212;My capture by the <persName>Pirates </persName>has played the Devil with us
+for a time but send me <hi rend="italic">regularly and fully authenticated Documents
+to prove our right to dispose of the land</hi> or rather to prove the grant
+from the Govt and I can sell a large portion to immense advantage
+indeed had I them now ere a fortnight our fortunes would be made&#8212;
+The plan I propose is selling as large a quantity as I can for a good
+price and with the whole or a part of the proceeds working the 
+remainder sending you out immediately whatever you require of course<pb n="559"/>
+all contained in the lists&#8212;I could I doubt not procure cash even
+here (although the person on whom I depended has quitted business
+altogether) but although we shall necessarily lose some time waiting
+for Documents the sale of a part offers so many advantages in every
+point of view that I am inclined to wait and so would you be I am
+convinced if I could state the numerous reasons I have the principal
+one of course the bargain made <hi rend="italic">under existing circumstances</hi> would
+be <hi rend="italic">comparatively beyond measure unfavorable</hi>.&#8212;With regard to
+Mining I have made (enabled by <persName>Merchants</persName>) proposals to the <persName>Govt</persName>
+[of Mexico] of furnishing them with funds to a far greater extent
+than they could possibly have anticipated and my proposals and
+terms will I doubt not be accepted when that business will be carried
+on on an immense scale the whole I will fully explain to you as
+soon as the <persName>Govt </persName>gives its definitive answer which I expect in about
+three months since I have written by duplicate&#8212;Unluckily a d&#8212;d
+Charlatan has of late been selling <placeName>Land on the Coast of Guatemala</placeName>
+obtained on a grant which will never be confirmed by those who
+really possess the right of giving away the territory in question&#8212;
+The Bubble has burst and people now require Documents in order
+to ascertain the legitimacy of the cessions&#8212;What is become of <persName>Barry</persName>
+I know not <persName>Mr. OB</persName>&#8212;[?] I saw in the street a few days since the
+loan has not been brought into the market wherefore has I suspect
+wholly failed indeed I am told the intelligence I conveyed to you
+relative to <persName>Mr. B</persName> is perfectly correct the house he drew on <persName>Thomas
+Westenforrest [?] &amp; Co</persName>&#8212;<persName>Merchants </persName>cannot find any where and
+have since the affair got into the <placeName>Spanish Papers</placeName> of late often 
+inquired of me about the transaction of which I of course avowed my
+ignorance as also of the Gent in question except from common 
+report&#8212;Let me hear from you most fully and send Papers fully 
+authenticated and descriptions of the land to be sold together with a
+Map of the province (The <persName>pirates </persName>stole mine) plans etc etc and we
+will do as well as you could wish&#8212;I am here over head and ears in
+business the count Vds Mine I shall I believe be enabled to settle
+as he wishes with a slight modification of his proposals believe me
+ever your most faithful friend</p>
+
+<p><persName>A G Wavell</persName></p>
+
+<p><persName>Mr Exter</persName> has removed to <placeName>106 Fenchurch street&#8212;London</placeName> where 
+address me for the future</p>
+
+<p>I am living in the city with a <persName>Merchant </persName>and amongst them in order
+to do my business more quickly&#8212;I reached this place on the <date when="1822-11-15">15th of
+last month</date> only owing to the rascally <persName>Pirates</persName></p>
+
+<p>[Addressed] <persName>Stephen F. Austin</persName> to the care of <persName>J. H. Hawkins</persName> <placeName>New
+Orleans</placeName> Via <placeName>New York</placeName></p>
+
+<p>Pr Amity</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

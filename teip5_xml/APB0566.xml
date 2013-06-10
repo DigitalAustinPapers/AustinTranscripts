@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0566">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Andrews to Stephen F. Austin, 03-04-1823</title>
+            <author>
+                <persName>Robert Andrews</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 582
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-03-04">03-04-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Mexican traits.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo </placeName><date when="1823-03-04">March 4th 1823</date></p>
+<p>Dear <persName>Austin</persName></p>
+
+<p>Anxiously and impatiently have I waited your return but at last
+shall have [to] go without seeing you. My business proved to be
+so bad here that I leave this [place] in worse circumstances than I
+came. I now go [to] the <placeName>Acienda de los Hornos</placeName> to cure the <persName>family</persName>,
+and shall also practice some in <placeName>Parras</placeName>. I am not permitted to go
+further on account of an order of the all wise <persName>govt </persName>but perhaps I
+may break the order. They may talk of 'falta buen gobierno' but
+that is not the complaint, all the <persName>government </persName>in the world would
+not make them worth the powder that it would take to blow them
+to Hell&#8212;that which God made for a Jack Ass can not be educated
+so as to make a fine Horse.</p>
+
+<p>There is nothing to be hoped from this govt for a <persName>stranger </persName>be him
+ever so fine. I shall set out in the morning for <placeName>Parras </placeName>in which place
+I shall remain one or 2 months I shall keep up a correspondence
+with <persName>Dn Grigorio Montañez</persName> in <placeName>Saltillo </placeName>with whom I leave all the
+letters from your <persName>brother</persName>, and from whome you may learn something
+concerning me a french gentleman named <persName>Francois Michaud</persName> offered
+to take me home at his own expense but I would not impose on his
+goodness.   I remain your ever sincere friend</p>
+
+<p><persName>Andrews</persName></p>
+
+<p>[Addressed:] A <persName>Sr Dn Estefan F. Austin</persName>   Presente</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

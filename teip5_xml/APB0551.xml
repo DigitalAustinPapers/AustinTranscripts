@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0551">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James E. B. Austin, 12-25-1822</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James E. B. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico City, MX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 560-562
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1822-12-25">12-25-1822</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Waiting for Emperor to approve the colonization law. Celebrations in Mexico City.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>City of Mexico</placeName> <date when="1822-12-25">Decr 25. 1822</date></p>
+<p>A Merry and happy Christmas to my ever dear and beloved
+<persName>Brother</persName>&#8212;You are no doubt much astonished to see my letter dated
+at this place, the last I wrote which was about two weeks since I
+expected to have started in 6 days, the Colonization law passed the
+<persName>Junta </persName> near a month since and I then thought my business finished,<pb n="561"/>
+but the <persName>Emperor </persName>has not yet approved it, and it will not be finished
+for at least three weeks more, So that you need not look for me short
+of two months from this day&#8212;<persName>Govr. Martinez </persName>and family arrived
+here in good health three days ago, they give a favourable account
+of your progress in the Spanish&#8212;pray do not my dear <persName>brother </persName>
+disappoint me in this particular, it is of all importance that you learn
+the language correctly, and particularly to <hi rend="italic">write it grammatically,</hi>
+this can only be acquired by close attention and constant practice&#8212;
+<persName>Govr. Martinez</persName> informs me that a part of the things sent in the
+schooner Lively have arrived, you must do the best you can with them
+and live as frugal as possible I have sent you two drafts on <placeName>New
+Orleans</placeName> since I have been here for $50 each and you will make use
+of such clothes and other articles which came in the schooner as you
+may want.</p>
+
+<p>I wrote you some time ago relative to taking a trip to <placeName>New Orleans</placeName>
+with <persName>Don Salvador Carrasco</persName> &#8212;he probably will not be able to go
+much before I arrive, as I am informed he has to wate for a quantity
+of hides from <placeName>Chihuahua</placeName>&#8212;on this subject you must act your 
+discretion but if you go, write me fully to <placeName>Saltillo </placeName>care of <persName>Andrews</persName>,
+write every mail for 3 mails after you receive this directed to <placeName>Saltillo</placeName>
+and let one of the letters be in <hi rend="italic">Spanish </hi>to give me a specimen of your
+improvement&#8212;do not be discouraged at my long delay and inform
+the <persName>settlers </persName>that I will not leave here until <hi rend="italic">all </hi>is well arranged&#8212;
+"Blessed is he that holdeth out to the end" and I am determined to
+persevere.</p>
+
+<p>The last letter I recd from you was dated some time in <date n="08-xx-1822">August</date>, I
+excuse this silence as you must have thought I was on the road write
+to <persName>Mother </persName>every opportunity I wrote her this day by way of
+<placeName>Tampico</placeName>&#8212;</p>
+
+<p>There has been and still is much difficulty in the <placeName>Province of Vera
+Cruz</placeName> a <persName>Genl Santana</persName> has proclaimed a <hi rend="italic"><placeName>Republic</placeName></hi>, but he met with
+a defeat on the <date when="1822-12-20">night of 20</date> and <date when="1822-12-21">morning of the 21</date> at <placeName>Xalapa </placeName>which
+it is expected will soon force him to leave the Country or yield
+Everything is quiet here and this City appears pritty unanimous in
+favour of the <persName>Emperor</persName>&#8212;You have nothing to do or say about the
+Govt mind your studies&#8212;remember me most particularly to my
+<persName>Friend </persName><persName>Don Erasmo</persName> and <persName>family </persName>and to the <persName>Baron de Bastrop</persName> and
+<persName>Berrimandi </persName>and <persName>Musquis</persName>, also present my respects to <persName>Govr. 
+Trespalacios</persName>, you must cultivate a good and friendly understanding with
+him, visit him often&#8212;you have had a fine opportunity to study and
+I shall really be <hi rend="italic">sorely </hi>disappointed if you have not made good use of
+it&#8212;War was this day proclaimed by the <persName>Emperor </persName>against <placeName>Spain</placeName>&#8212;<pb n="562"/></p>
+
+<p>This <placeName>City </placeName>has been and now is a constant scene of rejoicing 
+illuminations etc. etc for three weeks past, on account of the birth of
+another <persName>prince </persName>and the return of the <persName>Emperor </persName>from <placeName>Xalapa</placeName>&#8212;fare-
+well, study hard, keep steady habits&#8212;live frugal&#8212;and keep up your
+spirits all will be right in the end&#8212;</p>
+
+<p><persName>ESTEVAN</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0572">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. B. Austin to J. H. Bell, 03-16-1823</title>
+            <author>
+                <persName>James E. B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St. Antonio de Bexar, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 589-590
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-03-16">03-16-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Provisions of imperial colonization law. Work of S. F. Austin in its passage. Slavery. Scarcity of corn.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>St Antonio de Bexar</placeName> <date when="1823-03-16">March 16th /23</date></p>
+<p>Dear Sir,</p>
+
+<p>Some time has elapsed since I have had an opportunity of writing
+to the <persName>settlers on the <placeName>Brazos </placeName>and <placeName>Colorado</placeName></persName>, but now I have the
+pleasure of announcing to them that my <persName>brother </persName>has left <placeName>Mexico</placeName>
+with his business concluded to his satisfaction, the law of 
+colonization has already arrived and I find it much more liberal than I 
+expected.</p>
+
+<p>Some of the items are that you are free from Taxes dutys 
+contributions under whatever name they may be for six years and for six
+following pay but half that the other <persName>inhabitants </persName>of the <placeName>Empire</placeName>
+pay&#8212;All <persName>slaves </persName>already introduced and all that are introduced 
+hereafter for the use of the settlement are <persName>slaves </persName>for life their children
+are free at the age of 14 years Traffic in <persName>slaves </persName>is prohibited in toto.</p>
+
+<p>You are all perfectly secure as to your lands all that now remains
+is the usual paper form and the land is yours forever there are many<pb n="590"/>
+other very liberal articles which you will see in a short time, the
+quantity of land is somewhat greater for each family&#8212;but all is
+ovmg to his stay untill the business was concluded if he had not
+have done so it is extremely doubtful whether the law had been 
+concluded this year&#8212;he pressed it every day until at length they 
+concluded it and presented it to the <persName>Emperor </persName>who sancioned it 
+immediately.</p>
+
+<p>I have understood that my <persName>brother </persName>left <placeName>Mexico </placeName>on the <date when="1823-01-22">22d of Jany</date>
+if so he will be here in a tew days he comes on fully vested with
+power to secure your lands forever&#8212;the <persName>gov</persName>. tells me that he will
+send the law of colonization to the <placeName>Colorado</placeName>, and the <persName>Alcalde </persName>thereof
+will forward it on to you by this conveyance.</p>
+
+<p>We have in this place the greatest scarcity of corn and flour 
+imaginable the council of the town have sent to the <placeName>Interior </placeName>for corn
+but it is not to be had and now they send to the <placeName>Colorado</placeName>, If any
+person should have a little corn to sell either on the <placeName>Brazos </placeName>or 
+<placeName>Colorado </placeName>they can now sell it for almost what they please and deliver it
+at their <placeName>homes</placeName>.</p>
+
+<p>I expect my <persName>Brother </persName>every day; I hope that in a short time I shall
+have the pleasure of seeing you on the <placeName>Brazos    </placeName>Untill then
+I remain yours</p>
+
+<p><persName>Jas E. B. Austin </persName>   [Rubric]</p>
+
+<p>[Addressed:] <persName>Josiah H Bell Alcalde on the <placeName>Rio Brasos</placeName></persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
