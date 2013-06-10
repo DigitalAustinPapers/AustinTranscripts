@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1052">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Johnson to Stephen F. Austin, 02-28-1825</title>
+            <author>
+                <persName>William Johnson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-31">05-31-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville, Miss</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1052-1053
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-02-28">02-28-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Emigration. Adams elected president.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Woodville</placeName> <date when="1825-02-28">February 28th 1825</date></p>
+<p>Dear Sir,</p>
+
+<p>The inclosed letters to my friend <persName>Judge Child</persName>, were this moment
+handed to me by <persName>Mr. Royall</persName> of <placeName>Alabama</placeName>, who is on his way to your
+<placeName>country</placeName>&#8212;And as <persName>Mr. R</persName>. has no acquaintance in your <placeName>country </placeName>I take
+the liberty of saying to you that from the respectability of the
+writers of those letters as well as what I have seen of him, I have
+no doubt but that you will find <persName>Mr. R</persName>. a Gentleman of worth and
+charactor&#8212;Within a few days a report has reached us from <placeName>Wash-<pb n="1053"/>
+ington City</placeName> stating that <persName>John Q. Adams</persName> is elected <persName>President</persName>&#8212;The
+result is said to be 13 <placeName>States </placeName>for<persName> Adams</persName>&#8212;7 <placeName>States</placeName> for <persName>Genl- Jackson</persName>
+and 4 <placeName>States </placeName>for <persName>Mr. Crawford</persName>&#8212;I think the report doubtful&#8212;<persName>Mr.
+Huff</persName> is now on his way to <placeName>Texas</placeName> with his <persName>family </persName>and outfit etc and
+I am greatly in hopes that he will arrive safe and fulfill your 
+expectations&#8212;There are a number of <persName>Gentlemen of fortune</persName> and 
+respectability who talk strongly of visiting your <placeName>country</placeName> this <date n="Spring-1825">spring</date>&#8212;</p>
+<p><persName>Wm. Johnson</persName></p>
+<p><persName>Hon. Stephen F. Austin </persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

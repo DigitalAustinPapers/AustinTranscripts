@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1048">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Kinchen Holliman to Stephen F. Austin, 02-21-1825</title>
+            <author>
+                <persName>Kinchen Holliman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-30">05-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. Lawrence Ramey
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville, Wilkerson County, Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1050-1051
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-02-21">02-21-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hard times delay his moving to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Woodville state of Mississippi Wilkerson  County</placeName> <date when="1825-02-21">Feby 21, 1825</date></p>
+<p>Dear Sir,                                                     </p>
+
+<p>In consequence of the failure of our corn and the want of money
+it has put it out of my power to go to your <placeName>country</placeName> as soon as I<pb n="1051"/>
+promised you, and cannot possibly go now until the Month of
+<date n="11-xx-1825">November next</date>&#8212;I am sorry to tell you that it is out of my power
+to send you any money at this time, but will endeavor to do so by
+the time my <persName>Brother Michael</persName> and <persName>Mr. H. Connell</persName> goes over which
+will be in <date n="06-xx-1825"><placeName>June next</placeName></date>, they are determined to go and have set the <date when="1825-06-01">first
+of June</date> to start, The bearer <persName>Mr. Lawrence Ramey</persName> my friend will give
+you all the necessary information respecting my intentions etc.</p>
+
+<p>Be so good as to continue to hold the land you promised me for
+<persName>Brother Michael</persName> and <persName>Mr. Hugh Connell</persName> until they arrive <persName>Mr.
+Ramey</persName> will leave here in two or three days for the purpose of 
+procuring his and for other purposes and will go with <persName>Mr. Huff</persName> by
+the way of <placeName>New Orleans</placeName></p>
+
+<p><persName>K Holliman</persName></p>
+
+<p><persName>Stephen F Oustin Esq</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
