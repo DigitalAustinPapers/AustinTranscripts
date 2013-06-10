@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0636">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jared E. Groce, 10-18-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jared E. Groce
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 700-701
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-10-18">10-18-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Stephen F. Austin Esqr</persName>
+To <persName>Jared E. Groce</persName> Dr.</p>
+
+<p>To 2 yds Cloth a 10$______________	$20.
+
+"   2 Black Silk Hdkfs a 2$_______	  4.
+
+"   5 yds Castinett a 3 50________	 17. 50
+
+"   3   " Green Cloth a 7$________	 21.
+
+"   2   "   Linen a 1$____________    2.
+
+"   3 1/2 yd Lining a 75$_________    2. 37 1/2
+
+"   2 doz buttons_________________    2. 
+
+"   4 small do____________________     . 12 1/2
+
+"   6 skeins cold Thread__________     . 12 1/2
+
+"   15 do Black silk______________    1. 87 1/2
+
+"  6   do Cold   do_______________     . 75
+
+" 3/4 vest pattern________________    2. 50
+
+" 2 yards Cottonade_______________    2. 00
+						_________
+                                     76. 25<pb n="701"/>
+To Cash___________________________  100. 00
+
+" an order of <persName>Capt Pettus</persName>_________   70.
+
+" an order of <persName>H. Chrisman</persName>'s ______   12.
+
+" an order of <persName>Seth Ingram</persName>s________    9. 12
+
+"  your Due Bill__________________   59. 12
+						________
+					     $326. 49</p>
+
+<p>Gave <persName>J. E. Groce</persName> a recept. for the above sum as so much recd 
+towards the payment of his land <date when="1823-10-18">Oct. 18, 1823</date>&#8212;</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

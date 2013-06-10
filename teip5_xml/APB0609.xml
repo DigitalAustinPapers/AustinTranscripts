@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0609">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jared E. Groce to Warren D. C. Hall, 08-03-1823</title>
+            <author>
+                <persName>Jared E. Groce</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Warren D. C. Hall
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 676-677
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Hotel Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08-03">08-03-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hotel bill. Jared E. Groce to Warren D. C. Hall.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+
+<p><persName>Mr. Jarrot V Groce</persName> [Jared E. Groce]
+To <persName>Warren D. C. Hall</persName> Dr</p>
+
+<p><date n="xx-xx-1823">1823</date></p>
+
+<p><date when="1823-08-03">August 3</date>
+
+	To supper himself and <persName>friends </persName>____________________________$    .75
+
+	"       for  three  <persName>negroes </persName>______________________________     .75
+
+	" Fire Horses one night __________________________________    3.75
+
+	" two lodgings at 2/ _____________________________________     .50
+
+<date when="1823-08-04">4</date>     " Breakfast himself and <persName>friend </persName>___________________________     .75
+
+	"          "     for three <persName>negroes </persName>_______________________     .75
+
+	" Cash lent ______________________________________________   11.00
+
+	" Ferriages for three <persName>negroes </persName>and five Hordes ____________    4.00<pb n="677"/></p>
+
+<p><date n="xx-xx-1823">1823</date></p>
+
+<p><date when="1823-08-04">August 4</date>
+	To Two Dinners at 4/ _____________________________________$   1.00
+
+	"   "  Suppers at 3/ _____________________________________     .75
+
+	"   "	lodgings at 2/ _____________________________________     .50
+ 
+	"   " Breakfast at 3/ ____________________________________     .75
+
+	"   " Dinner at 4/ _______________________________________    1.00
+											 ______
+
+										       26.25
+					
+					Received cash ____________________   20.00
+											 ______
+											  6.25</p>
+
+<p><placeName>Province of Texas Brasos</placeName> <date when="1823-11-02">2d. Novr. 1823</date>.</p>
+
+<p>Recd the Balance due
+<persName>John W. Hall</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

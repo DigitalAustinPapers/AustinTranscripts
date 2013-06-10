@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0625">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 08-xx-1823</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 691-692
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">License</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08">08-xx-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's license to Dr. Johnson Hunter to sail a coasting vessel.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[August&#8212;,1823?]</p>
+<p><persName>Dr. Johnson Hunter</persName> a native of the <placeName>United States of America</placeName> and
+a <persName>settler </persName>near the mouth of the <placeName>San Jacinto River</placeName> in the <placeName>Province of
+Texas</placeName> having been received as an <persName>inhabitant of the <placeName>Mexican Republic</placeName></persName>
+in conformity with the order of <persName>Don Jose Antonio Saucedo Political
+Chief of the <placeName>Province of Texas</placeName></persName> and included as one of the <persName>300
+families</persName> which I am authorised by the <persName>Mexican Government</persName> to
+settle in this <placeName>Province</placeName>, and the said <persName>Hunter </persName>having heretofore obtaind
+the permit of <persName>Col. Antonio Martinez</persName> to sail the small vessel called the
+Santa Maria of San Jacinto which vessel it has been proven to me
+was lost to said <persName>Hunter </persName>and the sd. <persName>Hunter </persName>having petitioned for<pb n="692"/>
+license to sail a small vessel called the Adven[ture], and it 
+appearing that the situation of said <persName>Hunters family </persName>as well as that of
+others settled in his <placeName>neighborhood </placeName>requires that his solicitud should
+be granted. Therefore in virtue of the authority vested in me by
+the decree of <persName>Don Felipe de la Garza, Commandant Genl. of the
+Eastern Internal Provs.</persName> dated at the <placeName>city of Monterrey</placeName> the <date when="1823-06-16">16 day of
+June 1823</date> directing me to give license to any of the <persName>settlers </persName>of this
+colony to sail vessels from any part of the <placeName>coast </placeName>of this jurisdiction
+for the purpose of procuring supplies. I do here by and in the name
+of the <persName>Govt. of the <placeName>Republic of Mexico</placeName></persName> give full license to said
+<persName>John H.</persName> to sail the said vessel called the Adve. &amp;c to any <placeName>port </placeName>he may
+deem proper for the purpose of procuring supplies of provissions or
+merchandise for the use of His <persName>family </persName>or others settld in this <placeName>Colony</placeName>,
+subjecting himself in all cases to the laws of the <placeName>Mexican Nation</placeName> as
+prescribed in the within license of <persName>Govr. Martinez</persName>, and that the said
+<persName>Hunter </persName>or his <persName>Agent </persName>on board said vessel may not be considered as
+suspicious persons sailing without legal authority I give him this
+document and respectfully request all <persName>officers </persName>or <persName>citizens </persName>of any 
+<placeName>foreign nation</placeName> with whom the <placeName>Mexican Republic</placeName> are on amicable terms
+who may meet with the said vessel sailing under this license not to
+impede or embarrass its progress but on the contrary to extend to it
+their protection and assistance should it be needed.</p>
+
+<p><persName>S. F. A. Empresario</persName> for the establishment of <persName>300 families</persName> in the P.
+of <persName>T. Judge</persName> commissioned by the<persName> Mexican Govt </persName>for said <placeName>colony </placeName>and
+<persName>Lieut. Col. commandant of the Militia</persName> of the same discription of the
+vessel The Adventurer Skiff built tonage between five and Six Tons</p>
+
+<p>[Endorsed:] <persName>Hunter</persName>s license to sail a vessel on the <placeName>coast</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

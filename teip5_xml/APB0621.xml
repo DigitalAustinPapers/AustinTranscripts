@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0621">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Andrews to Stephen F. Austin, 08-23-1823</title>
+            <author>
+                <persName>Robert Andrews</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Parras, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 687
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08-23">08-23-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans drug business. Appreciation of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Parras </placeName><date when="1823-08-23">Augt. 23d 23</date></p>
+
+<p>Dear <persName>Austin</persName></p>
+
+<p>I recd yours of the <date when="1823-07-09">9th July</date>, and am sorry to hear that things are
+not so flourishing as we all had desired, I would willingly add my
+assistance, but at this time I find it impossible without doing myself
+more harm than I could possibly do the <placeName>colony </placeName>good I have now
+determined to make a trip to <placeName>Orleans </placeName>in order to bring on medicines,
+in which I shall need your friendship, I shall leave here with about
+400 dollars which is about enough for my expenses, and depend 
+entirely on a partnership or credit business in <placeName>Orleans</placeName>, in which case a
+few lines from your hand to <persName>Mr. J. H. Hawkins</persName> would be of infinite
+service, which you will probabily have an opportunity to send him
+before I can arrive there&#8212;my whole object is <placeName>Texas</placeName>, but finding it
+impossible to rais capital on credit for the enterprise I must make
+use of every other industry to acquire that which will make me 
+usefull to myself and <persName>friends </persName>when I go there. I am very impatient to
+commence my <placeName>Hacienda </placeName>on the <placeName>Colorado</placeName>, but do not like to begin
+with my teeth and nails alone remember me to all the <persName>settlers</persName>, and
+tell them that my heart and soul is with them and it is against my
+will that my body is not also, but that when it goes I wish it to go
+provided&#8212;one of my greatest pleasures is the anticipation of the
+society of my old <persName>friends </persName>and <persName>countrymen </persName>in one of the most 
+delightfull countries in the world, and most particularly of one, for the
+sake of whose company one week at this time I would willingly put
+myself on the diet of <hi rend="italic">catfish and wild onions without salt or greas</hi>,
+again for a few days.</p>
+
+<p>It is not worth the time to write me at this place as I shall set out
+in a month if you write home let them know where I am&#8212;my 
+respecte to your <persName>brother </persName>and all other <persName>friends </persName>and <persName>acquaintances</persName>&#8212;I
+hope to be in <placeName>Orleans </placeName>in all the <date n="10-xx-1823">month of October</date></p>
+
+<p><persName>R Andrews </persName>   [Rubric]</p>
+
+<p>[On cover:] In the absence of <persName>Mr. Austin</persName>, another friend may
+open this letter</p>
+
+<p><persName>Andrews</persName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

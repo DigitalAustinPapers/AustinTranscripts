@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0597">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Felipe de la Garza, 05-27-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Felipe de la Garza
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monterrey, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 651-653
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-27">05-27-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking definition of his authority to administer justice, make war on hostile Indians, and issue clearances to vessels; and that his rank in militia be determined and a port legalized.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The <persName>Supreme Government</persName> having authorized me to effect the 
+settlement of a <placeName>colony</placeName>, which I proposed to establish in the <placeName>Province of
+Texas</placeName>, under the regulations which have been prescribed to me,
+and communicated to your <persName>Lordship</persName>, through his Excellency, the
+<persName>Secretary of State and Home Affairs</persName>; some doubts arise in my mind<pb n="652"/>
+as to the best method of preserving order in the settlement. My 
+difficulties are upon the following points:</p>
+
+<p>1st Whether the authority given me to administer justice while
+the <persName>government of the <placeName>settlement</placeName></persName> is organizing, extends so far as to
+empower me to punish Capital Offences committed within its limits;
+such as Murder, Piracy on the coast, Theft, aiding the hostile 
+<persName>Indians </persName>to wage war against us, etc., or whether, the said authority is
+merely to arrest the <persName>offenders</persName>, and send them to <placeName>Bexar</placeName>. If the latter,
+tell me upon what fund I should draw to defray the expenses
+incurred by their transportation, and if the former, what rules are
+to be observed, in order to conform with the laws of the country.</p>
+
+<p>2nd Whether I can or cannot make war against the hostile <persName>Indians</persName>,
+and to what extent.</p>
+
+<p>3rd What rank I am entitled to in the <persName>National Militia</persName>, and what
+are the rules and regulations under which I have to organize the
+same. The <persName>Government </persName>authorizes me to organize the <persName>colonists </persName>into
+a body of this kind, but did not define either of these points, and
+both of them are very essential. The <persName>Secretary of State</persName> informed
+me verbally that this <persName>Government </persName>would regulate this matter. The
+force of the Colony should consist at least of one <persName>Battallion</persName>: Its
+extent and isolated situation exposed not only to the attacks of the
+<persName>Indians</persName>, but also to the aggressions of evil disposed persons requires
+a prompt and effective organization of the only arm of defence which
+has to sustain it; all of these considerations induce me to ask that
+some system may be established for my government, and also my
+rank, which should be sufficient to command the <persName>Captains in the
+Corps</persName>.</p>
+
+<p>4th Inasmuch as, at the present time and until the <placeName>colony </placeName>shall be
+well established, there may be an absolute necessity of bringing from
+<placeName>New Orleans</placeName>, by sea, Provisions, utensils, goods and household 
+furniture for the use of the <persName>Colonists</persName>, it appears to me indispensable
+that this Government should make a <placeName>port of Entry</placeName> provisionally
+of one of the <placeName>Harbours </placeName>on that <placeName>coast </placeName>authorizing me at the same
+time to furnish such vessels so trading to the <placeName>Colony </placeName>with a clearance,
+for without this requisite these vessels might be considered at <placeName>New
+Orleans</placeName> as engaged in a clandestine and illegal trade, and 
+consequently deprive the <persName>colonists </persName>of these resources so necessary to their
+support and prosperity. For the want of topographical information,
+I cannot now designate the place on the <placeName>coast </placeName>best adapted to this
+purpose, but this I may be enabled to do after conferring with the
+<persName>Commissioner </persName>who has to be appointed for the other purposes treated
+of in my Commission. I have no private wish to gratify, my only
+object in propounding these questions is to promote the best interests
+and the prosperity of the <placeName>Colony </placeName>in particular, which ought to coin-<pb n="653"/>
+cide with that of the whole <placeName>Province of Texas</placeName> and the welfare of
+the <placeName>nation</placeName>. The will of the <persName>Government </persName>in this as in all other cases
+shall be my own, and for this reason I have considered it my duty
+to consult with your <persName>Lordship </persName>on the subject above referred to,
+soliciting your decision in the matter, that I may punctually execute
+your orders, which I feel assured will be in consonance with the
+accustomed beneficent intentions of the <persName>Government</persName>. God protect
+your <persName>Lordship </persName>many years.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>Monterey</placeName>, <date when="1823-05-27">May 27th 1823</date>.</p>
+
+<p>[To Felipe de la Garza, <hi rend="italic">Comandamte General</hi> of the Eastern 
+Interior Provinces.]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

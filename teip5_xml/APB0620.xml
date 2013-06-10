@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0620">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Rawson Alley to Unknown, 08-16-1823</title>
+            <author>
+                <persName>Rawson Alley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 686-687
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Election Return</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08-16">08-16-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">James Cummins elected alcalde of the Colorado district.   List of voters.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>James Cummins</persName> for <persName>Alcalde </persName>[14 votes]</p>
+
+<p>VOTERS   NAMES</p>
+
+<p>1  <persName>Joseph Kekendall</persName></p>
+
+<p>2  <persName>Jacob Betts</persName></p>
+
+<p>3  <persName>Seth Ingram</persName></p>
+
+<p>4  <persName>Wm B. Dewese</persName> [Dewees]</p>
+
+<p>5  <persName>Thomas Gray</persName></p>
+
+<p>6  <persName>Charles Garret</persName></p>
+
+<p>7  <persName>Daniel Gillaland</persName></p>
+
+<p>8  <persName>Micajah Reeder</persName></p>
+
+<p>9  <persName>Jesse Burnum</persName></p>
+
+<p>10  <persName>James Ross</persName></p>
+
+<p>11  <persName>Thomas Williams</persName></p>
+
+<p>12  <persName>Robert Kekendall</persName></p>
+
+<p>13  <persName>Thomas Jamison</persName></p>
+
+<p>14  <persName>Rawson Alley</persName></p>
+
+<p>I certify that at an election held at the <placeName>House of <persName>Robert 
+Kekendall</persName> [Kuykendall]</placeName> on <date when="1823-08-16">Saturday the 16th of August 1823</date> for the<pb n="687"/>
+purpose of voting in an <persName>Alcaldy </persName>that <persName>James Cummins</persName> was 
+Unanimously Elected by the within named voters.</p>
+
+<p><date when="1823-08-16">Augt. 16th 1823</date></p>
+
+<p><persName>Rawson Alley Clk. of the Election</persName></p>
+<p><persName>James  Cummins Judge of the Election</persName></p>
+<p>[Endorsed:]    A Pool [poll] Book of an Election held at the <placeName>House
+of <persName>Robert Kekendoll</persName></placeName> on <date when="1823-08-16">Saturday the 16th of Augt. 1823</date>&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

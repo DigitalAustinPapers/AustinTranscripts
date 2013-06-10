@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0632">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Andrews to Stephen F. Austin, 10-04-1823</title>
+            <author>
+                <persName>Robert Andrews</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Parras, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 696-697
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-10-04">10-04-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Applying for grant of land on Red River; also for office of surveyor general for Texas. Asks Austin for testimonial to be placed before Congress.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1823-10-04">Oct. 4th 1823</date>   <placeName>Parras</placeName></p>
+<p>Dear <persName>Austin</persName></p>
+
+<p>I wrote you by last mail but as you are in the <placeName>settlements </placeName>on 
+business of such a nature it is uncertain if you will receive my letter,
+for which reason I write you again in order to be more sure of
+the receipt.<pb n="697"/></p>
+
+<p>I thot to have been on my way before now for <placeName>Orleans</placeName>, but am
+detained by a <persName>Mr. Leporte</persName> who I expect to accompany me, I think
+however I shall set out in less than a week from this place, by the
+way of <placeName>altamira</placeName>, and as I do not take with me money enough to
+purchase medicines and may not fall in with accquaintances from
+<placeName>St. Louis</placeName> or <placeName>Missouri</placeName>, I wish you to do me the favor to inform
+<placeName>Mr J. H. Hawkins</placeName> of my character to whom I may recur if 
+necessary in my dealings-&#8212;I will here communicate you a design as I
+always have communicated to you as my most faithful friend in
+whose opinion I have the utmost confidence, I am about to make a
+formal representation or application to the <persName>Govt</persName>. thro the medium
+and friendship of <persName>Doctr. Ramos</persName> who is now a <persName>member of Congress</persName>,
+for all the <placeName>Red River country</placeName> including <placeName>Pecon point</placeName> as I presume
+it is not yet occupied, also a letter of the right of citizenship and
+the appointment of <persName>Surver [Surveyor]</persName> for all <placeName>Texas </placeName>or the 4
+<placeName>provinces</placeName> if you please, this however, will never interfere with
+your right to survey all your tract, but rather stimulate me to <placeName>Texas</placeName>
+sooner when I will take a pleasure in being serviceable to you in
+this business&#8212;consulting with a <persName>lawyer</persName>, he tells me it cannot be
+convenient to obtain the imploy without a certain document or 
+cirtificate of my abilities from a person who may know me to be presented
+in the <persName>congress</persName>, which I can alone ask of you as the only one known
+in <placeName>Mexico </placeName>who knows my qualifications this I wish you to have the
+goodness to remit by the first opportunity to <placeName>Mexico </placeName><persName>Doctr. Ramos</persName>
+who will have the care of my business, perhaps it ought to be in
+sealed paper, but notwithstanding send it on any. The post is
+seting out I cannot say more I live in great hope to see you before
+another years Rolls round.</p>
+
+<p>I wish you all success in the world and remain your ever sincire
+friend</p>
+
+<p><persName>Andrews    </persName>[Rubric]</p>
+
+<p>[Addressed:] Al <persName>Coronel Estevan Austin</persName> en la <placeName>provincia de Texas
+Rio Colorado</placeName>.</p>
+
+<p>[On cover:] Tendrá la bondad el <persName>administrador ó </persName>algún otro <persName>amigo</persName>
+de mandar esta carta por mano al dueño si este en el <placeName>Rio Colorado</placeName></p>
+
+<p><persName>Roberto Andrews</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

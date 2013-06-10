@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0628">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Andrews to Stephen F. Austin, 09-05-1823</title>
+            <author>
+                <persName>Robert Andrews</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Parras, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Bexar, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 693-694
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-09-05">09-05-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans for business in Texas. The Viesca family at Parras.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Parras</placeName>, <date when="1823-09-05">Sept 5th 1823</date>.</p>
+<p>Dear <persName>Austin</persName></p>
+
+<p>I had the satisfaction to receive your letters of the <date when="1823-07-09">9th</date> and <date when="1823-07-24">24 July</date>
+dated in <placeName>Bexar</placeName>, but you speak of one from <placeName>Monterrey </placeName>by private
+conveyance which I never recd, that of the <date when="1823-07-09">9th</date> I answered by last mail
+supposing that you have an arangement made to convey letters
+from <placeName>Bexar </placeName>to the <placeName>Collorado</placeName>.<pb n="694"/></p>
+
+<p>I am extreemly <hi rend="italic">happy </hi>to hear that the all essential article <hi rend="italic">corn</hi>
+is likely to be plenty among you, and particularly that Ally has a
+good share for I feel in my heart for those <persName>adventurors</persName>, who must
+necessarily have suffered much</p>
+
+<p>I am sorry to find myself so situated that I cannot accompany you
+in the woods, but such are the circumstances that it is not in my
+power, it is true that my whole heart and soul is in <placeName>Texas</placeName>, that I
+look forward with delight to the time when I shall be planted
+amongst a number of confidential <persName>friends </persName>on the <placeName>orilla of the 
+Colorado</placeName>, but I am of opinion that the shortest method to obtain this,
+and to place me in the situation to be useful and comfortable, is to
+persue my present object which may produce something with which
+to begin I would willingly accept the offer you make but that
+I would have to spend money continually without receiving any
+for some time, and the life of a <persName>surveyor </persName>is so hard, that he ought
+always to have a certainty in view&#8212;My present object is a trip to
+<placeName>Orleans </placeName>altho I take only money for my expenses, jet I hope to
+do something for this reason I am desirous that you should write
+a few lines to <persName>Mr J. H. Hawkins</persName> conserning me. I shall probabilly
+have leave here the <date when="1823-10-01">first of October </date>and be in <placeName>Orleans </placeName>some time
+in <date n="11-xx-1823">November</date>, if I succeed I shall return immediately, if not I know
+not what I shall do, my subsequent movements will always depend
+on circumstances In this place I am the intimate <persName>friend </persName>and daily
+companion of the family named <persName>Viesca </persName>one of whom you seen perhaps
+with <persName>Dr Ramos</persName> in <placeName>Saltillo</placeName>, this family is rich, large, respectable,
+learned, sensible, and honorable, they believe not in this d&#8212;d foolish
+religion and possess two very fine libraries of miscellaneous and
+scientific Books, two of the <persName>sons </persName>talk of going with me, but it is
+uncertain yet-&#8212;more than all, I believe I could marry a little <persName>niece</persName>
+about 14 years of age, but she is not well educated and her part will
+not be more than 10000&#8212;the whole connection is free from <persName>Indian</persName>
+blood&#8212;at all points I shall be happy to hear from you, and assure
+you that nothing can give me more pleasure than the flattering
+prospects of a friend whom to me is so dear. I flatter myself that
+Providence will reward your indefatigable perseverance and 
+industry tho we know well that these works of providence depend at
+present on this confused and instable <persName>govt</persName>-&#8212;<placeName>Zacatecas </placeName>has declared
+herself as independent as <placeName>Great Britton</placeName>, but it is understood that
+<persName>Negrete </persName>will use the weighty argument of lead and powder to prove
+to them that they are <hi rend="italic">rong</hi>.</p>
+
+<p><persName>Andrews</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>Al Caronel Sr Dn Estevan Austin Bexar</persName> ó el <placeName>Rio
+Colorado Texas</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

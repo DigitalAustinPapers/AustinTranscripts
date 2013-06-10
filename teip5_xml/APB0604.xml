@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0604">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Colonel Charles Caldwell, 07-17-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonel Charles Caldwell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bexar, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 673-674
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-07-17">07-17-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advantages of settling in Austin's colony. Federal system. Good crops. Character of settlers.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Bexar </placeName><date when="1823-07-17">July 17 1823</date></p>
+<p>Dr. Sir,</p>
+
+<p>I regret very much I was absent when you visited the <placeName>Province</placeName>,
+but anticipate the pleasure of seeing you here this <date n="Fall-1823">fall</date>&#8212; My 
+business is all happily terminated and I shall immediately commence
+distributing the land&#8212; Owing to the difficulty of making a 
+beginning when I first embarked in this enterprise, I was compeled to
+admit some who would have been rejected under different 
+circumstances&#8212;but that difficulty no longer exists&#8212;large crops will be
+made this year on both the <placeName>Colorado </placeName>and <placeName>Brazos</placeName>-&#8212; My <placeName>grant </placeName>is
+approved by the <persName>Sovereign Congress</persName> and <persName>Supreme Executive power</persName>
+since the fall of <persName>Iturbide</persName>&#8212;The smallest quantity of land which a
+<persName>family </persName>that <hi rend="italic">farms </hi>and <hi rend="italic">raises stock</hi>, both, will receive is one league
+square or five thousands yards square&#8212;the cost will be 12 1/2 cents pr-
+acre&#8212;</p>
+
+<p>You have seen the country, and know whether it will suit you or
+not you also know whether it would be for your interest, in case
+you remove, to settle under my <placeName>grant</placeName>, or apply for a seperate one
+from the <persName>Government</persName>&#8212; All I have to say therefore is that if you
+join me, you may rely on the greatest privileges in my power to
+grant. In conjunction with the <persName>commissioner</persName>, I have full power to
+increase the quantity of land to more than a league for a family, in
+case it should be necessary to accommodate a large <persName>family</persName>&#8212; You
+will perceive by the enclosed that the number for <placeName>Brazos </placeName>and 
+<placeName>Colorado </placeName>settlement is limited, the balance must settle on the <placeName>Guadalupe</placeName>
+and <placeName>St. Marcos</placeName> and near this place etc. etc.&#8212;so say the Govt-</p>
+
+<p>When I left <placeName>Mexico </placeName>no other grants had been made, nor could be
+for some time to come, for the Colonization law was repealed in toto
+on the <date when="1823-04-10">10 of April</date> except as refers to me, and when a new law will
+pass is uncertain&#8212; the present <persName>congress </persName>have called a new one, the
+election is to be on the <date when="1823-08-02">2d of August</date> and <persName>Congress </persName>is to meet the
+middle of <date when="1823-10-15">October </date>next&#8212;   The majority of the <placeName>Provinces </placeName>have pro-<pb n="674"/>
+claimed the Federal Republic System, and there is now no longer
+a doubt that this <persName>govt</persName>. will be moddled after that of the <placeName>United
+States</placeName>&#8212; This <placeName>Province </placeName>under the Federal System presents the most
+brilliant prospects for the future. I repeat, that anything in my
+power to do, to induce you and your <persName>friends </persName>to form a part of the
+<placeName>Colorado or Brazos settlement</placeName> shall be done with pleasure.</p>
+
+<p>[Autograph letter by Austin.   Signature clipped off.]</p>
+
+<p>P. S. The regulations relative to the Govt. of the settlement are
+provisional untill it is established and organized, the same system
+will then be established that governs all other parts of the country&#8212;.
+Should you and your <persName>friend </persName>wish to form a seperate settlement you
+could easily do so on the Guadalupe under the grant made to me,
+for no specified limits are designated.</p>
+
+<p>[Addressed:] <persName>Col Charles Caldwell</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

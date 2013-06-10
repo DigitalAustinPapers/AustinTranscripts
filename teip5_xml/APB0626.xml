@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0626">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Baron de Bastrop, 08-xx-1823</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Baron de Bastrop
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 692-693
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08">08-xx-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning disputed land claim.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Copy by Austin.]</p>
+
+<p>[About August &#8212;, 1823?]</p>
+<p><persName>Honble. Baron de Bastrop.</persName></p>
+
+<p>Dr. Sir, You are no doubt fully informed that I hold a claim
+to a tract of land on the Iasih [Ayish] Bayou in the <placeName>district of 
+Nacogdoches</placeName>, this claim is founded on an ancient Spanish grant regularly
+granted by the competent authority in conformity with the forms
+and regulations observed on such occasions. Many persons have
+intruded on my land and in violation of my rights are distroying
+my timber, and they threaten to keep possession by force of arms.
+In this State of things I am kept out of my property, and am daily
+Sustaining great damage I have applied to the <persName>authorities of
+<placeName>Nacogdoches</placeName></persName> for redress without being able to obtain any Satisfac-<pb n="693"/>
+tion in consequence of this I have taken the liberty to trouble you
+on the subject to ask your advice, Knowing that you are always
+ready to promote justice&#8212;All I wish for is justice&#8212;if the land is
+mine I wish to have the benifit of it.</p>
+
+<p>I have been in hopes that the Govt. would appoint 
+<persName>Commissioners</persName> for the purpose of deciding and finally determining all the old
+claims in that district, and to remove the <persName>intruders </persName>who were on
+them but if this is not done, will you have the goodness to advise
+me what I ought to do&#8212;I am very old and getting infirm, but if it is
+necessary for me to go to <placeName>Saltillo </placeName>I will do so and present my 
+documents to the <persName>Govt</persName>. I will wate for your advise before I adopt any
+further measures hoping in the mean time that you will pardon me
+for troubling you with this letter and that you will have the 
+goodness to give me your council on the subject&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

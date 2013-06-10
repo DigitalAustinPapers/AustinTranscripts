@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0633">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W. Stevenson to Stephen F. Austin, 10-05-1823</title>
+            <author>
+                <persName>W. Stevenson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Arkansas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 697-698
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-10-05">10-05-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Many want information about terms of settlement. Austin's Arkansas business. Sends Jefferson's Manual.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Territory of Ar. Hempstead Co.</placeName> October 5th 1823</p>
+<p>Dr Sr,</p>
+
+<p>Having heard a verbal acct. of your return from <placeName>Mexico </placeName>and an
+opportunity offering, of writing a few lines to you I have embraced
+it hoping that the news which we have heard is true that you have
+accomplished your end in getting a grant of the land you had 
+before designed forming a <placeName>settlement </placeName>on we have heard (tho it is<pb n="698"/>
+verbal only) that you are now surveying and laying of your grant
+for settlement but we have not understood the terms of settlement.
+A few lines from you on that subject would be very acceptable I had
+agreed with <persName>Mr John Clark</persName> <date n="Winter-1822">last winter </date>to freight your trunk to <placeName>N.
+Orleans</placeName> to be left in care of <persName>Coll. Hawkins</persName> according to your
+wishes but the boat started somewhat sooner than he expected owing
+to a suden rise of the water he was prevented from complying with
+his promise I conversed with him a few days past on that 
+subject and he promist. that he would faithfully attend to that business
+this faul as he is going down the river early in the season I could
+have sent it by some others But I did not think it prudent as there
+had been many threats against it as your property some time before
+your <persName>brother </persName>passed this country but I went down to see <persName>Mistress
+Vaughn</persName> and she agred to deliver the trunk to me at any time if
+I would pay the storeage which I agred to. She removed the trunk
+while I was there and promised that no person should know that it
+was there or in her possession saying I suppose that it was carried
+off since that time I have heard no threats against [it]. I have
+thought good to send on <persName>Mr. Jefferson</persName>s manual which you had lent
+to me <persName>Mr. George Duty</persName> who has lived with me has promised to
+deliver the book and letter to you out of his own hand&#8212;I have
+had no late act from your <persName>friends in <placeName>Missouri</placeName></persName> the last I had 
+perhaps a year past they were well the people in this country have
+been somewhat sickly this season and i think many will remove to
+<placeName>Texas </placeName>if they are not descouraged by some thing now unseen Dr.
+Sr. I am as ever Yours Respectfully</p>
+
+<p><persName>William Stevenson</persName></p>
+<p><persName>Stephen F. Austin Esqr.</persName></p>
+
+<p>D. S. <persName>Mr. Ashbrook</persName> complains very much of being injured by <persName>Mr
+Bryan</persName> and has made several attempts to trouble me for money which
+he says you charged him to collect off me we have had two 
+arbitrations on that subject but he lost it in boath. One thing surprises me
+is that he told me after you and he had settled that he had come out
+safe and that you had settled with him like a gentleman and to his
+satisfaction and now he says that he was ruined by that <placeName>settlement</placeName>
+if he cannot collect debts which were paid to <persName>Mr Bryan</persName> which he
+says ought to have been paid to him Dr Sr I write this in confidence
+knowing that you never give him orders to collect a debt which you
+knew was paid to <persName>Mr Bryant</persName> it Appears that there has been some
+neglect of credits which should have been given but was not but this
+must have been his own fault and not <persName>Mr Bryan</persName>s as he had the books
+in possession&#8212;farewell</p>
+
+<p><persName>Mr S. F. Austin </persName>                               <persName>W Stevenson</persName></p>
+
+<p>[Addressed:] The <persName>Honl Stephen F. Austin</persName> <placeName>Province Texas
+Colorado</placeName>    Politness <persName>Mr Duty</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

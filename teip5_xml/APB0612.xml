@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0612">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Colonists, 08-05-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 678-679
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08-05">08-05-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Increase of standing military force at his own expense.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[August 5, 1823 ?]</p>
+
+<p>Since the commencement of this <placeName>Colony </placeName>no labor or expence has
+been spared on my part towards its organization benefit and 
+security&#8212; And I shall always be ready and willing to risk my health, my
+property or my life for the common advantage of those who have 
+embarked with me in this enterprise. As a proof of the reality of this
+declaration I have determined to augment at my own private expence
+the <persName>company of men </persName>which was raised by order of the late <persName>Govr.
+Trespalacios </persName>for the defence of the <placeName>Colony </placeName>against hostile <persName>Indians</persName>.
+I therefore by these presents give public notice that I will employ ten
+men in addition to those employed by the <persName>Govert</persName>. to act as <persName>rangers </persName>for
+the common defence. The said ten men will form a part of <persName>Lieut,
+Moses Morrisons Company</persName> and the whole will be subject to my orders.<pb n="679"/></p>
+
+<p>The wages I will give the said ten men is fifteen Dollars a month 
+payable in property, they finding themselves&#8212; Those who wish to be
+employed will apply to me without delay</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

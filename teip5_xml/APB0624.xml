@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0624">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 08-xx-1823</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 691
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Land Certificate</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08">08-xx-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Form of land certificate.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>[August &#8212;, 1823.]</p>
+<p>By the decree of his <persName>Ymperial Majesty Agustín late Emperor of
+<placeName>Mexico</placeName></persName> relative to the <placeName>Colony </placeName>of <persName>Stephen F Austin</persName> in the <placeName>Province
+of Texas</placeName> dated <date when="1823-02-18">February 18 1823</date> and confirmed by the Decree of
+the <persName>Sovereign Congress of <placeName>Mexico</placeName></persName> on the <date when="1823-04-10">10 of April</date> same year and
+by the <persName>Supreme Executive Power </persName>on the <date when="1823-04-14">14 of the same month</date> it is
+decreed amongst other things as follows to wit</p>
+
+<p>"Se autorisa a dicho Austin para que acompañado del Gobernador
+de Texas ó de un Comicionado qe este nombre proceda a repartir,
+señalar y poner en posecion a cada uno de los nuevos Colonos de la
+cantidad de Tierra qe va indicada y qe les expida el titulo á nombre
+del Gobierno."</p>
+
+<p>And the <persName>Governor of the said <placeName>Province of Texas</placeName></persName> by his decree
+dated <placeName>Bexar </placeName><date when="1823-06-16">16 of June 1823 </date>appoints and commissions the <persName>Baron
+de Bastrop Alcalde</persName> de segundo voto the <persName>commissioner </persName>with full
+powers and faculties to carry into effect the said decree of the
+<persName>superior Govt</persName> above recited&#8212;Now therefore be it known that we
+<persName>Stephen F Austin founder of said <placeName>Colony</placeName></persName> and the <persName>Baron de Bastrop
+Commissioner of the Government</persName> exercising the faculties granted
+them by law do by these presents in the name of the <persName>Mexican Govt</persName>
+grant and concede in full and absolute property to <persName>N. G.</persName> a <persName>settler</persName>
+introduced by said <persName>Austin </persName>and to his <persName>heirs </persName>and <persName>assigns </persName>forever the
+quantity of one Sitio of land situated and bounded as follows&#8212;
+which tract of land on examination by said <persName>Commissioner </persName>is declared
+to be of the quality designated in the law as agostadero&#8212;which land
+must be actually inhabited and cultivated within two years from
+the date of this concession as is provided in the 2nd. section of the
+Law of Colonization.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

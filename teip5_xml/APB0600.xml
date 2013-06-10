@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0600">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Littleberry Hawkins to Stephen F. Austin, 05-31-1823</title>
+            <author>
+                <persName>Littleberry Hawkins</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-14">07-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">St. Antonio, TX</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 669
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-05-31">05-31-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce. Character of Bastrop.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[About May 31, 1823?]</p>
+<p><persName>Judge Austin</persName></p>
+
+<p>D Sir This will be handed you by <persName>P. T. Dimmit</persName> our <persName>friend</persName>
+and <persName>Agent </persName>please render him any services in your power in closeing
+his business please have some Conversation with our friend <persName>B De
+Bastrop</persName> who I find Intelligent good and much Service to this 
+<placeName>Province </placeName>what has occured as to the Tobacco taken by <persName>Beremendy </persName>I have
+made affidavit as to the quantity which was delivered him after the
+Tobacco was Delivered I agreed to present to this province $1800
+of the $2000 to be appropriated as the <persName>Go.</persName> thought best to the <persName>Troops</persName>
+and if he wants to pay $200 which he did and it is finally settled I
+love the <persName>Baron </persName>and am sorry that Circumstances would not permit
+my doing a better part by [him] than I have done. Your <persName>Brother</persName>
+will say you what you may feel an interest in Knowing as the 
+Business and <persName>settler</persName>.</p>
+
+<p><persName>J. H. H.</persName> in his last letters says that nothing but your presence Can
+give things the desireable standing.</p>
+
+<p><persName>L. Hawkins</persName></p>
+
+<p>[Addressed:] <persName>Judge S. F. Austin</persName>   <placeName>St Antonio</placeName>   <persName>P T Dimmit</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

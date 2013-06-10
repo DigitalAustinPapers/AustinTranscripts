@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0638">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jared E. Groce, 10-19-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-16">07-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jared E. Groce
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazos River, TX</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 701
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-10-19">10-19-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agreements for the rental of three slaves.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I have this day hired three <persName>negros </persName>from <persName>Jared E. Groce</persName> to wit
+a <persName>negro woman </persName>called <persName>Sally</persName>, a <persName>negroman </persName>called <persName>tame Jack</persName> and one
+called <persName>Kelly</persName>&#8212;the <persName>woman </persName>at eight dollars pr. Month and the <persName>Men </persName>at
+fifteen each&#8212;the hire to commence on the <date when="1823-11-01">first day of November
+next</date>, and continue for <date when="1824-11-01">one year from that date</date>, and I hereby 
+obligate myself to pay to said <persName>Groce </persName>the amt. of said hire at the 
+expiration of the year&#8212;A <persName>Boy </persName>called <persName>Fields </persName>is to be furnished to take
+care of <persName>Sally's child</persName>&#8212;The said <persName>negros </persName>are to be well treated by me,
+and the said <persName>Groce </persName>is to clothe them&#8212;Should they run a way or die
+the loss is to be <persName>Groce</persName>s&#8212;sickness to be my loss.&#8212;</p>
+
+<p><placeName>Brazos River</placeName>&#8212;<date when="1823-10-19">October 19 [1823?]</date></p>
+
+<p>[Stephen F. Austin]</p>
+
+<p><date when="1823-11-19">Octo. 19th 1823</date> the <persName>negroes </persName>is to be returned when the hire ceases</p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

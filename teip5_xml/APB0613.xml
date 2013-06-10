@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0613">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Colonists, 08-06-1823</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 679-681
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08-06">08-06-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing confirmation of his grant and his authority with the commissioner to issue titles. Terms of payment for the land. Colonists must allow him to direct their relations with the Government. Must respect Catholic religion. Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Colarado River House of <persName>Mr Castleman</persName>s</placeName></p>
+
+<p><date when="1823-08-06">August 6 1823.</date></p>
+<p>Fellow <persName>Citizens</persName>,</p>
+
+<p>I have once more the pleasure of addressing you a few lines from
+the <placeName>Colorado</placeName>&#8212; My absence has been protracted greatly beyond my
+calculations and has been in the highest degree unpleasant to me, as
+it has retarded the progress of the most favourite enterprise I ever
+engaged in in my life; but I now flatter myself with the hope of 
+receiving a full compensation for the difficulties I have encountered by
+witnessing the happiness of those who compose this <placeName>Colony</placeName>. I assure
+you that if my own private and personal interest had been the only
+incentive to induce me to persevere I should probably have abandoned
+the enterprise rather than surmounted the difficulties produced by
+the constant state of revolution in which the country has been, since
+my arrival in the <placeName>city of Mexico</placeName>. But I was animated by the 
+gratifying hope of providing a home for a number of meritorious <persName>citizens </persName>and
+of placing them and their <persName>families </persName>in a situation to make themselves
+happy the balance of their lives. One of the greatest pleasures a 
+virtuous mind can receive in this world is the consciousness of having
+benefited others, this pleasure I now have in prospect. The titles
+to your land is indisputable&#8212;the original grant for this <placeName>settlement</placeName>
+was made by the <persName>Spanish Government</persName> before the Revolution, it was
+then confirmed and the quantity of land designated by the decree of
+the <persName>Emperor Agustin Iturbide</persName> on the <date when="1823-02-18">18th of February last</date>, and the
+whole was again approved and confirmed by the <persName>Sovereign Congress
+of the Mexican Nation</persName> on the <date when="1823-04-14">14 of April last</date> after the fall of the
+<persName>Emperor</persName>. The titles are made by me and the <persName>Commissioner of the
+Government</persName>, and are then perfect and complete for ever, and each
+<persName>settler </persName>may sell his land the same as he could do in the <placeName>United States</placeName>.</p>
+
+<p>All that depends on me, towards the advancement of the <placeName>Colony</placeName>
+will be executed in good faith, so far as my abilities extend, and with
+all the promptness in my power: but to enable me to benefit them
+to the full extent that I wish, it is necessary that the <persName>settlers </persName>should
+have confidence in me, and be directed by me I have a better 
+opportunity of knowing what will be advantageous to them as regards
+their conduct and intercourse with the Government than any of them
+could have had, and I feel almost the same interest for their 
+prosperity that I do for my own <persName>family</persName>&#8212;in fact I look upon them as<pb n="680"/>
+one great <persName>family </persName>who are under my care. I wish the <persName>settlers </persName>to
+remember that the Roman Catholic is the religion of this <placeName>nation</placeName>, I
+have taken measures to have <hi rend="italic"><persName>Father Miness [Maynes]</persName></hi> formerly of
+<placeName>Nachitoches</placeName>, appointed our <persName>Curate</persName>, he is a good man and 
+acquainted with the <persName>Americans</persName>&#8212;we must all be particular on this
+subject and respect the Catholic religion with all that attention due
+to its sacredness and to the laws of the land.</p>
+
+<p>I have so far paid all the expenses attending this enterprise out
+of my own funds. I have spent much time and lost much property
+on the <placeName>coast </placeName>in my absence&#8212;I am now engaged in surveying
+the land and must pay money to the <persName>surveyors </persName>and <persName>hands </persName>
+employed besides which I have to pay the expenses of the <persName>Commissioner</persName>,
+and heavy expenses attending the completion and recording of the
+titles. A moments reflection will convince the <persName>settlers </persName>that all this
+cannot be done without some aid from them, but as regards this point
+they may expect all the indulgence possible. Those who have the
+means must pay me a little money on receipt of their titles; from
+those who have not money I will receive any kind of property that
+will not be a dead loss to me, such as horses, mules, cattle, hogs,
+peltry, Furs, bees wax, home made cloth, dressed deer skins, etc.
+Only a small part will be required in hand, for the balance I will
+wait one, two, and three years, according to the capacity of the
+person to pay&#8212;-In fact I will accomodate the <persName>settlers </persName>to the 
+greatest extent in my power. I think that those who know me can state
+that my disposition is not to oppress any man; it is a pleasure for
+me to benefit my fellow <persName>citizens </persName>and I will sacrifice my own interest
+rather than distress them for one cent of money. But I have many
+sacred duties to attend which cannot be executed without money.
+The most of what I receive from the settlers will be applied for their
+own benefit, and I think they must all agree that it is also my duty
+to provide for my own family, and that in justice I ought to be 
+compensated for the losses and fatigues I have sustained in this 
+business, particularly when my labors secure handsome fortunes to my
+<persName>followers</persName>. I could exact the payment of all the expenses in hand
+before the titles are delivered, but shall not do so, the <persName>settlers </persName>may
+all rely on the terms above stated The smallest quantity of land a
+<persName>family </persName>will receive is one thousand yards square which may be 
+increased by me and the <persName>Commissioner </persName>without limit in proportion to
+the size of the <persName>family</persName>.</p>
+
+<p>Young men must join and take land in the name of one. All thus
+united will be ranked as one family, they can then divide the land
+amongst themselves&#8212;</p>
+
+<p>I shall proceed immediately to the <placeName>mouth of this River</placeName>, and on
+my return go to the <placeName>Brazos   </placeName>The <persName>settlers </persName>have now nothing to fear,<pb n="681"/>
+there is no longer any cause for uneasiness, they must not be 
+discouraged at any little depradations of <persName>Indians</persName>, they must remember
+that <hi rend="italic">American blood</hi> flows in their veins, and that they must not 
+dishonor that noble blood by yielding to trifling difficulties. I shall
+adopt every possible means for their security and defence, I have
+brought some powder from <placeName>Bexar</placeName>, a part of which will be sent to
+<persName>Capt. Robison</persName> for the use of the <persName>militia </persName>when needed&#8212;Let every
+man do his duty, and we have nothing to fear&#8212;<hi rend="italic">Let us he united as
+one man&#8212;discord must he hanished from amongst us, or those who
+cause it will meet with most severe treatment</hi></p>
+
+<p>Hoping to meet you soon in peace and happiness, I am Resptlly
+your friend and fellow citizen</p>
+
+<p><persName>Stephen F. Austin </persName>   [Rubric]</p>
+
+<p>To <persName>J. H. Bell</persName> <persName>Andw Robertson</persName> <persName>Abner Kuykendall</persName> and other 
+<persName>settlers on the <placeName>Brazos River</placeName></persName>&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB0610">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Bastrop to Colonists, 08-04-1823</title>
+            <author>
+                <persName>Bastrop</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-15">07-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 1, pp. 677-678
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proclamation</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1823-08-04">08-04-1823</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Proclamation of Austin's authority. Inclosure: Austin's order to a militia commandant to take possession of certain property and to reconnoiter the Colorado.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName><persName>Castleman</persName>s on the Colorado River</placeName></p>
+<p><date when="1823-08-04">Augt 4 1823</date></p>
+
+<p>The <persName>Govr. of this <placeName>Province</placeName></persName> <persName>Dn Luciana Garcia</persName> has appointed me
+a <persName>commissioner </persName>to carry into effect the grant made by the <persName>supreme
+Govt of Mexico</persName> to <persName>S. F. A</persName>. and has ordered me to inform the 
+<persName>inhabitants of the <placeName>Colorado </placeName>and <placeName>Brassos</placeName></persName> that the <persName>superior Govt.</persName> has 
+appointed <persName>Mr Austin</persName> a <persName>Lieut Col. of Militia</persName> and also that he has full
+powers to administer justice and preserve good order in the <placeName>colony</placeName>
+untill it can be regularly organized agreeably to the constitution and
+laws of the nation. The <persName>Govr.</persName> therefore commands jou to recognize
+<persName>Mr. A</persName> as invested with the above powers and that you cause the men
+under your command to do the same. Obeying his orders in all
+things relative to the good order prosperity and defense of his 
+<placeName>settlement</placeName>, and the service of the <placeName>nation</placeName>. You will therefore without
+delay communicate this order to the men under your command and
+to the <persName>inhabitants in your <placeName>neighborhood</placeName></persName></p>
+
+<p>El <persName>Baron de Bastrop</persName></p>
+
+<p>Enclosed you will receive an order from the <persName>Baron de Bastrop</persName> the
+<persName>commissioner of the Govt</persName>. directing you and the men under your
+command to recognize me as your <persName>commander</persName>, you will therefore in
+the future make all your official returns, reports or other 
+communications to me.</p>
+
+<p>I shall leave here in a few days for the <placeName>Bay </placeName>you will therefore
+keep your station at that place untill further orders.</p>
+
+<p>You will without delay collect the tobacco and all other articles
+left by <persName>Hawkins </persName>or <persName>Hanna </persName>and take the necessary measures to pre-<pb n="678"/>
+serve them until my arrival you will also collect all the 
+information in your power relative to the situation of the <placeName>river </placeName>at its <placeName>mouth</placeName>
+and for fifty mites-up&#8212;how many rafts are there and their 
+distentions&#8212;how many branches or channels does the river divide into and
+their size, highth of banks, whether timbered or prairie, whether 
+subject to overflow depth of water, and distance from the <placeName>Bay </placeName>to the
+place where they separate from the <placeName>river</placeName>&#8212; And any other 
+information possible calculated to give a full and correct knowledge of that
+part of the <placeName>river </placeName>and adjoining <placeName>coast</placeName>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
