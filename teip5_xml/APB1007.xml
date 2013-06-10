@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1007">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P. Coles to Stephen F. Austin, 01-11-1825</title>
+            <author>
+                <persName>John P. Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="1825-05-22">05-22-1825</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1014-1015
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-11">01-11-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="1825-05-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial business. Complicated trading. Character of James Gaines.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><date when="1825-01-11">January 11th 1825</date></p>
+<p>Dear Sir</p>
+
+<p>I recd your of the <date when="1825-01-06">6th</date> Instant and Enclosed I found <persName>Gaines</persName> letter
+as Respects the Horse <persName>Mitchial</persName> let him [have] at my <placeName>House </placeName>in my
+absence with a request that I should try and pay <persName>Gaines </persName>with the
+Horse and if <persName>Gaines</persName> did not take the Horse to pay <persName>Gaines</persName> myself
+and keep the Horse and If I did not want the Horse he would
+pay me some other way and take Back the Horse However 
+when <persName>Gaines</persName> Returned from <placeName>Saint Antonio</placeName> I told him of the Horse
+he said he would take him But we could not find the Horse and
+consequently believed he had been stolen by some <persName>Spaniards</persName> who had
+passed when the Horse Ran <date when="1825-01-09">sunday </date>after I found the Horse and
+had him valued Intending to dispose of him as he was 
+Troublesome and constantly trying to Run of he was supposed by <persName>Byrd</persName>
+<persName>Capt Jones</persName> and others to be worth five or six dollars in cash I
+then saw <persName>Mitchal</persName> and Told him the Horse would not pay his debt
+to <persName>Gains</persName> which was $12&#8212;   he observed he did not know how he<pb n="1015"/>
+should pay it I then Told him I would take the Horse and pay
+<persName>Gains</persName> for him which he Readily agreed to this was the first time
+I have seen <persName>Mitchal</persName> from the time <persName>Gains</persName> left the account with me and
+as to his having any claims to the Horse or ever seeing the Horse
+or my ever Receiving the Horse for him or agreeing to send the
+Horse or any thing Else to him is a palpable Lye for he has my
+Receipt and I never should send him any thing Untill my Receipt
+was presented he Requested me to Collect those debts and Receive
+Land office money in payment the 12$ which I promised to pay
+for<persName> Mitchal</persName> is Ready when my Receipt is presented as Respects
+<persName>Hall</persName>s Business and <persName>Roberson</persName>'s and <persName>Gaynes</persName> you will find inclosed
+the original account in favour of <persName>Gaynes</persName> for $14.25 protested by <persName>Roberson</persName> and an affidavit of <persName>J W Hall</persName> on the Back of said account proving
+the sum of fourteen Dollars and 25 cts paid to<persName> Gaynes</persName> by him for
+<persName>Roberson</persName> as also you will find <persName>Lewis Holloway</persName>s deposition in the
+case the petition and affidavit of Hall and Executn and attachment you will discover from <persName>Hall</persName>s affidavit that he claimed fourteen Dollars and 25 cts in cash and had it not been for an arrangement which I made with <persName>Hall</persName> myself in Order to favor <persName>Gaynes</persName>
+the sum which payed the debt would not have paid the One forth
+part of it there is an account now in my office for $9&#8212;Dollars
+which is Similar to the above It is claimed by <persName>Roberson</persName> and
+proven by <persName>Holloway</persName> to have been passed by <persName>Roberson</persName> for <persName >Hall</persName>
+to <persName>Gaines</persName> and afterwards paid by <persName>Hall</persName> <persName>Roberson</persName> has been petitioned for an attachment in that case against <persName>Gains</persName> but I have
+still put him of upon the whole they are I fear a dambed sett of
+<persName>Rascals </persName>and <persName>Gaynes</persName> the worst of all</p>
+
+<p><persName>Jno P. Coles</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>S. F. Austin Political Chief, and Judge</persName> of the 
+<placeName>Colony San F D Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

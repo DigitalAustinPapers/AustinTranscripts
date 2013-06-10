@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1010">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P. Coles to Stephen F. Austin, 01-12-1825</title>
+            <author>
+                <persName>John P. Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-22">05-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1016
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-12">01-12-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land business. Trade. Economic conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><date when="1825-01-12">12 January 1825</date></p>
+<p>Dear Sir</p>
+
+<p>I left <persName>Mr Sims</persName> at the <placeName>Saint Antonio Road</placeName> <date when="1825-01-11">yesterday </date>he sends you
+the Notes of my Hacienda and the notes of <placeName>Gates Tract</placeName> the Body of
+my Survey is in the <placeName>office </placeName>and all you want is to connect the oblong
+or arm that includes the <placeName>Mill Seat</placeName> &#8212; I know nothing about old
+<persName>Furnash</persName>s Improvement I did not know that he had an Improvement
+ of corse agreeable to your Directions <persName>Sims</persName> split <placeName>the Two
+Leagues Between <persName>Furnash</persName> and <persName>Lynch</persName></placeName> or <persName>Byrd</persName> or who Ever it may
+fall to furnash is on the <placeName>Lower Hall adjoining my line</placeName> I dont
+know How to arrange it with him nor what he wants other than
+the arrangement allready made I dislike the Trouble of going to
+see him and having the surveys all altered again However I will
+doo any ways you wish in order to get it done <persName>Sims</persName> is going on
+Rapidly now and will be down with me when I come down which will
+be in a few days I must go to see furnash before I come down and
+make some arrangement with him <persName>Sims</persName> has taken a <persName>wife </persName>she is
+a very fine Looking woman and all Tolld that I know I cant get
+any pork for you in this part of the <placeName>Country </placeName>tel <persName>Mr Stafford</persName> that I
+can get One Hundred Bushels of corn for him from the <persName>Milicans</persName> at
+the<placeName> ten mile creek</placeName> no other com can be had in this part of the
+<placeName>country </placeName>I cannot get any pork for him and if he intends to take
+the corn from the <persName>Milicans</persName> he must let me know immediately</p>
+
+<p><persName>Coles</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>S F Austin Political chief and Judge</persName> of the <placeName>Colony
+San F De Austin</placeName>.</p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

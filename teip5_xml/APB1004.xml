@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1004">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Francis Biggam to Stephen F. Austin, 01-08-1825</title>
+            <author>
+                <persName>Francis Biggam</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monroe, Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1012 
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-08">01-08-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Emigration from Mississippi. Transportation routes. Prejudice and falsehood delay development of Austin's
+colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monroe Missippi</placeName> <date n="1-8-1825">January 8&#8212;182</date>5</p>
+<p><persName>Cornle Austin</persName>></p>
+
+<p>Sir I now for the first time Cince I left you embrace the 
+oppertunity to write to inform you of my Situation and interest relitive
+to the <placeName>brases</placeName> and the reasons of my Detenshions Cinse I Came home
+I have been in <placeName>Georgia</placeName> and <placeName>South Carolina</placeName> and should have started
+to the <placeName>Brasses</placeName> imadeantly on my arival from <placeName>Georgia</placeName> if I was not
+compeled to attend two suits of law which I had instituated some
+time before I went out to see you one for the <persName>killer</persName> of my <persName>negroe</persName>
+and the oather against a <persName>villin </persName>for altring a Hog marke which will
+bee Detarmed in all in <date n="04-xx-1825">Aprile</date> and I then flatter my self that some
+time in may I shall have the pleasure of seeing you acompined by
+my <persName>brouther </persName>and <persName>family </persName>as it will not bee in <persName>Merritt </persName> 's power to Come
+for a short time as hee has a great Deale of business to sittle but will
+bring a <persName>hand </persName>to improve his piase I shall bring my <persName>familey </persName>by
+water and am about to start to <placeName>orlains</placeName> to procure a vessel for that
+purpose <persName>Mr. Williams</persName> the bearer of this has confirmed me in my
+most sanguin oppinion of the <placeName>brasses [Brazos]</placeName> being the most Desirable part
+of the Continant I have said and Don every thing I Could in its
+favour but how can I stand against prejudice and folshoods but
+time will Dispele the hate and I hope I shall live to see it improve
+and flurish I have been informed that you have Designated my
+lands and I have now Doubt but there situation in point of 
+advantage is Calculated to please on my arival as I have made loud 
+expetations on that head as I often thinke and speake of the <placeName>lands on
+the mile</placeName> &#8212; [illegible] as that seems to bee my favourat spot but
+shall ref ar all to my arivale as I flater my self that I shall ever find
+a Cincere friend in you for if I was not confirmed in that opinion I
+Could [be] happy and make money where I am you will present my
+best wishes to all my <persName>friends </persName>with you <persName>Mr Tong Corle Pettes</persName> and
+familey <persName>Mr Bell</persName> and <persName>familey </persName>and all acquentences I Could sitt and
+write a volum to you on the subject of the <placeName>braces [Brazos</placeName>] but as the
+time is short [until] I shall arive I will wave the subject to then and
+I hope you will accept my best wishes for your health and happiness
+and that I shall soon bee one to ad to the number of your <placeName>Contry</placeName> and
+as such I will subscribe my self your friend and obt St.</p>
+
+<p><persName>Fkas Biggam [Francis]</persName></p>
+
+<p>Do give my love to your <persName>brother  </persName>                               </p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1000">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to District of Bravo settlers, 01-01-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-20">05-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        District of Bravo settlers
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1009
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proclamation creating District of Bravo</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-01">01-01-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Changing Brazos district to Bravo. Election return.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><persName>Stephen F. Austin Judge</persName> Commissioned for the <placeName>Colony of the
+Brazos and Colorado</placeName> in the <placeName>Province of Texas</placeName>&#8212;Charged by the
+<persName>Superior Authorities</persName> with the<persName> Municipal Government</persName> of this <placeName>Colony</placeName>
+provisionally and [until] it is otherwise regulated, and it appearing
+to be the wish of the <persName>settlers</persName> in that part of the <placeName>Colony</placeName> heretofore
+called the <placeName>District of the Brazos</placeName>&#8212;that the name of said <placeName>district</placeName>
+should be changed to that of <placeName>Bravo </placeName>after the distinguished hero and
+Republican Patriot,<persName> Genl Nicolas Bravo the Vice President</persName> of these
+<placeName>United States</placeName>, Therefor I have thought proper to order and by
+these presents do order that the said <placeName>District</placeName> heretofore called
+<placeName>Brazos</placeName> shall in future be called the <placeName>District of Bravo</placeName>, and shall
+keep the said name of <placeName>Bravo</placeName> until the superior Govt, direct 
+otherwise</p>
+<p>Given etc <date when="1825-01-01">January 1- 1825
+</date></p>
+<p><persName>Stephen F Austin Judge</persName> Commissioned for the <placeName>Colony on the
+Brazos and Colorado rivers</placeName> in the <placeName>Province of Texas</placeName>&#8212;</p>
+
+<p>I certify that at an election held at the house of <persName>Andrew Robinson</persName> by the inhabitants of the <placeName>district of Bravo</placeName> on the <date when="1825-01-01">1 day of
+January</date> of this year for an <persName>alcalde</persName> for said <placeName>District</placeName> for the year <date when="1825-01-01">one
+thousand Eight hundred and twenty five</date> <persName>John P. Coles </persName>was duly
+elected <persName>Alcalde</persName> of said <placeName>district </placeName>and that he may be respected and
+obeyed accordingly   I give him this document
+</p>
+<p><placeName>San Felipe de Austin</placeName>, <date when="1825-01-05">January 5,1825</date>
+</p>
+<p>This day personally appeared before me <persName>Stephen F. Austin
+Judge</persName> commissioned for the <placeName>Colony on the Colorado and Brasos
+</placeName>the above <persName>John P. Coles Alcalde</persName> elected for the <placeName>district of Bravo
+</placeName>for the year <date n="xx-xx-1825">1825</date> and took the oath to support the Constitution of
+the <placeName>United States of Mexico</placeName> and of the <placeName>State of Coahuila and
+Texas</placeName> and faithfully and impartially to execute the duties of
+<persName>Alcalde</persName> for said <placeName>district of Bravo</placeName> for the year <date n="xx-xx-1825">one thousand eight
+hundred twenty five
+</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

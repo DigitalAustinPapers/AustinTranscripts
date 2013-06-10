@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1006">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Brotherton and James McNair to Colorado District, xx-xx-1825</title>
+            <author>
+                <persName>Robert Brotherton and James McNair</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-01-10">01-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colorado District
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp.1014 
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Election Return</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-10">01-10-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-01-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">James Cummins alcalde of Colorado 
+district.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>The Poles of an Ellection held for Alcalda for the <placeName>Collorado
+District</placeName> at the <placeName>H[o]use [of]<persName> E Alley</persName></placeName> on the <date when="1825-01-10">10th. Jan. 1825</date></p>
+
+<p><persName>James Cummins</persName>                                              </p>
+<p><persName>W B Dewees</persName>&#8212;1
+<persName>J. Ross</persName>&#8212;1
+<persName>Robert Brotherton</persName>&#8212;1
+<persName>A. W. McClane</persName>&#8212;1
+<persName>Daniel Holoway</persName>&#8212;1
+<persName>B. Beason</persName>&#8212;1
+<persName>George Duty</persName>&#8212;1
+<persName>John Tumbleston</persName>&#8212;1
+<persName>Nathan Osborn</persName>&#8212;1
+<persName>Vincent Rodrigues</persName>&#8212;1
+<persName>James McNare</persName>&#8212;1
+<persName>James Cook</persName>&#8212;1	
+<persName>Ignatio Cortines</persName>&#8212;1
+	</p>
+
+<p>We the <persName>Judges </persName>Certify the above is just and true</p>
+<p><persName>Robt. Brotherton
+</persName><persName>James McNair
+</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

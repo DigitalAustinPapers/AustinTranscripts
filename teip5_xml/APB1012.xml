@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1012">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Little to Stephen F. Austin, 01-13-1825</title>
+            <author>
+                <persName>William Little</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-23">05-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Fort Settlement, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1017-1018
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-13">01-13-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">William Little to Austin, January 13, 1825. Private land sales. Vital statistics.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Fort Settlement</placeName> <date when="1825-01-13">13th Jany. 1825</date></p>
+<p>Dear Sir</p>
+
+<p>I know so little of the situations of <placeName><persName>Mr Stafford</persName>'s League</placeName> that I
+am unable to say positively that I will make Exchange with him
+if he has a good situation for stock at the <placeName>Prairie</placeName> I think he can
+be accomodated with two hundred acres (not more.) by his paying
+all Expenses of surveying Transfers etc and obligating himself to
+move on to the land he may get of me with his <persName>family </persName>in the course
+of <date n="Fall-1825">next fall</date>.   I wish to have one or two good <persName>neighbours </persName>and will<pb n="1018"/>
+go as far as I can without loss to accomodate an industrious <persName>man</persName>
+with a situation&#8212;I will be in <placeName>Town </placeName>as soon as the roads are so I
+can get up&#8212;we can then have a chat on the subject and no doubt
+make the arangement to suit all <persName>Parties</persName>&#8212;Your <placeName>colony </placeName>Sir, is 
+increasing fast at least this <placeName>bend of the Brasos</placeName>. on the morning of
+the <date when="1825-01-07">7th</date> Inst <persName>Mrs Andrews</persName> had Two fine <persName>Girls </persName>in the evening
+of the same day <persName>Mrs. Little</persName> had a stout <persName>Boy</persName>. all doing well&#8212;<persName>Mrs
+H Jones</persName> had a <persName>son </persName>on <date when="1824-12-31">last day of Decr</date>.</p>
+
+<p><persName>Wm Little</persName>    [Rubric]</p>
+<p><persName>Col S. F. Austin</</persName>p>
+
+<p>My <persName>Father </persName>will go to <placeName>Town </placeName>with me to arange our land as soon as
+we can get up.&#8212;he has been very unwell for some time but is getting
+better   yours&#8212;<persName>W. L. [william Little]</persName></p>
+
+<p>Please to have the papers arranged so that may not have to stay
+long in <placeName>Town</placeName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

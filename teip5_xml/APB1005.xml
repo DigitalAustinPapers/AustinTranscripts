@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1005">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Lewis to Stephen F. Austin, 01-09-1825</title>
+            <author>
+                <persName>Robert Lewis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Santa Rosa, Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1013
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-01-09">01-09-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Difficulties of trade in northern Mexico. Indians troublesome.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Santa Rosa</placeName> <date when="2010-01-09">January 9th 1825</date></p>
+
+<p>Col. <persName>Austin</persName></p>
+
+<p>D. Sir I arrived at this place the <date when="1824-11-11">11th Novr</date> the <persName>Comisary </persName>made
+many diffieuties, respecting the duties, I told him I was not liable
+to pay duties, as he demanded he would not suffer me to sell without
+paying. I applied to the <persName>Alcalda</persName> and got him to witness the taking
+of an Inventory of the goods and let the sales go on, and for me to
+go to <placeName>Saltillo</placeName> and on my return if I did not convince them I was
+not subject to pay duties, I would pay them, on my return I offered
+to pay the duties he refusd to take them, nor would not suffer me
+to go without leaving my goods in his possession or giving security
+for the whole amount, stating he had represented my case to the
+<persName>Comisary Gel</persName> at <placeName>Saint Luis Potosi</placeName>, and that he might order him
+to take possession of them and from his misrepresentation, he
+ordered him to take possession of them and to forward my paspor[t]s
+or other papers to him stating they must be forwd etc I
+wold not let him take possession he cald on the <persName>Alcalda</persName> to assist
+him in taking possession of them. I cald on the <persName>Alcalda</persName>, as a <persName>Civil
+Officer</persName> to protect me and my goods, and offered him security as if
+I was liable to pay duties, the <persName>comisary </persName>objected to the security
+without, they would put in pawn in money Money pater [plata] or,
+paster [pasta], to the amount of the goods, I told the <persName>Alcalda</persName>, I
+was willing to give security, agreeable to law and would not give
+security in any other way, and after a few days, the <persName>Alcalda</persName> took
+the security. A large mijority of the <persName>people of this place</persName> are
+convinct the <persName>Comisary</persName>'s treatment to me are improper, he is very
+uneasy at this time respecting his treatment towards me, it will
+be 2 or 3 weeks yet I expect before I git returns from the <persName>Comisary
+Gel</persName> The <persName>Governor</persName> has granted to me and <persName>Bynum</persName> <placeName>10 Leagues of
+Land</placeName> which I hope will meet your approbation, as it will not be
+any thing against your private Interest, or the public good,&#8212;I have
+several times spoke of <persName>Nixon</persName>, and find he is very unpopular in this
+part of the <placeName>Country</placeName>, I named to <persName>Barron</persName>, of his threats against
+you,&#8212;sales are very dul owing to the scarcity of money and an 
+overstock of goods in the country,&#8212;I expect it will be 3 months yet
+before my return,&#8212;<persName>The Indians</persName> are very troublesome they do a
+grate deal of mischief, killing people and taking of Caviards,&#8212;I
+wish you to forward the inclose to <persName>Col Bynum</persName> by the first safe 
+opportunity.</p>
+
+<p><persName>Col S. F. Austin</persName></p>
+
+<p><persName>Robert Lewis</persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
