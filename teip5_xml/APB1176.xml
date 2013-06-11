@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1176">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 06-14-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-21">06-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1357
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Militia Report</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-06-14">06-14-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Militia report for Austin's colony, June 14, 1826.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>					  |	     |     |	   |		 |	   |	   |	   |_____ <date when="1826-05-23">May 23, 1826</date> _______|
+Names of <persName>Officers </persName>Comdg. Comps. |<persName>Captains</persName>|<persName>Lieut</persName>|<persName>Sergeants</persName>|<persName>Corporals</persName>|<persName>Private</persName>|Total|Aggrg|<persName>Capt</persName>|<persName>Lieut</persName>|<persName>Serg</persName>|<persName>Corp</persName>|<persName>Privt</persName>|
+________________________________|________|_____|_________|_________|_______|_____|_____|____|_____|____|____|_____|
+<persName>Wm. S. Hall</persName>---------------------|   1    |  4  |    4    |    3    |   41  | 48  |  53 |  1 |  -  |  1 | -  |  10 |
+<persName>H. Chriesman</persName>--------------------|	1    |  7  |    7    |    3    |   40  | 50  |  60 |  - |  1  |  1 | -  |  10 |
+<persName>Lt. Alley</persName>-----------------------|   1    |  1  |    4    |    1    |   18  | 23  |  25 |  - |  -  |  1 | -  |  5  |
+<persName>Cap. B. Sims</persName>--------------------|   1    |  5  |    5    |    1    |   35  | 41  |  47 |  - |  1  |  - | 1  |  7  |
+Whole force---------------------|   4    |  17 |    20   |    8    |   134 | 162 | 185 |  - |  -  |  - | -  |  -  |
+                                |        |     |	   |		 |	   |	   |     |    |     |    |    |     |
+<date when="1826-05-24">May 24th</date>				  |	     |     |         |         |       |     |     |    |     |    |    |     | 
+<persName>Wm Hall</persName>-------------------------|	1    |  3  |    3    |    2    |   26  | 31  |  35 |  - |  1  |  1 | 1  |  10 |
+<persName>H. Chrisman</persName>---------------------|	1    |  6  |    7    |    3    |   30  | 40  |  41 |  - |  1  |  1 | -  |  10 |
+<persName>Lt. Alley</persName>-----------------------|	-    |  2  |    4    |    1    |   15  | 20  |  22 |  - |  -  |  1 | -  |  5  |
+<persName>Capt. B. Sims</persName>-------------------|	-    |  4  |    4    |    1    |   24  | 29  |  33 |  1 |  -  |  1 | -  |  7  |
+					  |	     |     |         |         |       |     |     |    |     |    |    |     |
+<date when="1826-05-25">25 May</date>				  |	     |     |         |         |       |     |     |    |     |    |    |     |
+<persName>Wm. Hall</persName>------------------------|	1    |  3  |    3    |    2    |   26  | 31  |  35 |  - |  1  |  1 | 1  |  10 |
+<persName>H. Christman</persName>--------------------|	-    |  7  |    7    |    3    |   29  | 39  |  46 |  1 |  1  |  1 | -  |  10 |
+<persName>Lt. Alley</persName>-----------------------|	-    |  2  |    4    |    1    |   15  | 20  |  22 |  - |  1  |  - | 1  |  5  |
+<persName>Capt. B. Sims</persName>-------------------|	1    |  5  |    5    |    -    |   35  | 45  |  46 |  - |  1  |  1 | -  |  7  |
+					  |	     |     |         |         |       |     |     |    |     |    |    |     |
+<date when="1826-05-26">26 May</date>				  |	     |     |         |         |       |     |     |    |     |    |    |     |
+<persName>Wm. Hall</persName>------------------------|	1    |  3  |    3    |    2    |   23  | 28  |  32 |  - |  1  |  1 | 1  |  10 |
+<persName>H. Christman</persName>--------------------|	1    |  6  |    7    |    3    |   20  | 30  |  37 |  1 |  1  |  1 | -  |  10 |
+<persName>Lt. Alley</persName>-----------------------|	-    |  2  |    4    |    1    |   15  | 20  |  22 |  - |  1  |  - | 1  |  5  |
+<persName>Capt. B. Sims</persName>-------------------|	1    |  5  |    4    |    1    |   24  | 29  |  35 |  - |  1  |  1 | -  |  7  |
+				        |	     |     |         |         |       |     |     |    |     |    |    |     |
+<date when="1826-05-27">27 May</date>				  |        |     |         |         |       |     |     |    |     |    |    |     |
+<persName>Wm. Hall</persName>------------------------|	1    |  3  |    3    |    2    |   23  | 28  |  32 |  - |  1  |  1 | 1  |  10 |
+<persName>H. Christman</persName>--------------------|	1    |  6  |    7    |    3    |   20  | 30  |  37 |  1 |  1  |  1 | -  |  10 |
+<persName>Lt. Alley</persName>-----------------------|	-    |  2  |    4    |    1    |   15  | 20  |  22 |  - |  1  |  - | 1  |  5  |
+<persName>Capt B. Sims</persName>.-------------------|	1    |  5  |    4    |    1    |   24  | 29  |  35 |  - |  1  |  1 | -  |  7  |
+				        |        |     |         |         |       |     |     |    |     |    |    |     |
+<date when="1826-05-28">28 May</date>				  |	     |     |         |         |       |     |     |    |     |    |    |     |
+<persName>Wm. Hall</persName>------------------------|	1    |  2  |    2    |    3    |   26  | 31  |  33 |  - |  1  |  2 | 2  |  10 |
+<persName>H. Christman</persName>--------------------|	1    |  6  |    5    |    3    |   32  | 40  |  47 |  - |  1  |  1 | 1  |  10 |
+<persName>Lt. Alley</persName>-----------------------|	-    |  2  |    4    |    -    |   14  | 20  |  20 |  - |  1  |  - | 1  |  5  |
+<persName>Capt. B. Sims</persName>-------------------|	1    |  5  |    4    |    1    |   17  | 22  |  28 |  - |  -  |  1 | -  |  8  |
+				        |	     |     |         |         |       |     |     |    |     |    |    |     |
+<date when="1826-05-29">29 May</date>				  |	     |     |         |         |       |     |     |    |     |    |    |     |
+<persName>Wm. Hall</persName>------------------------|	-    |  -  |    -    |    -    |   -   | -   |  -  |  - |  -  |  - | -  |  -  |
+<persName>H. Christman</persName>--------------------|	-    |  -  |    -    |    -    |   -   | -   |  -  |  - |  -  |  - | -  |  -  |
+<persName>Lt. Alley</persName>-----------------------|	-    |  -  |    -    |    -    |   -   | -   |  -  |  - |  -  |  - | -  |  -  |
+<persName>Capt. B. Sims</persName>.------------------|	-    |  -  |    -    |    -    |   -   | -   |  -  |  - |  -  |  - | -  |  -  |
+____________________________________________________________________________________________________________________</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

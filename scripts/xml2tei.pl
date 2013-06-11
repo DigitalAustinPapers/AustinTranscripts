@@ -78,6 +78,7 @@ while (scalar(@ARGV) != 0)
     
     $windows_dash = chr(151);
     $fileContents =~ s/$windows_dash/&#8212;/g;
+    $fileContents =~ s/<\/p><p>/<\/p>\n<p>/g;
     $fileContents =~ s/<\/p>(.*)/$1<\/p>/g;
     
     my $textId="TODO";
