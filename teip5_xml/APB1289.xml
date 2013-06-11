@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1289">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. E. B. Austin to Stephen F. Austin, 09-23-1826</title>
+            <author>
+                <persName>J. E. B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-13">07-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1461-1462
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-09-23">09-23-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Constitution will exclude slavery, but slaves of the first colony will be safe. Legislature hostile. Bastrop's services to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo </placeName><date when="1826-09-23">23. Sept 1826&#8212;</date></p>
+<p>My Dr Brother:</p>
+
+<p>I arrived <date when="1826-09-22">last evening </date>after a fatigueing journey&#8212;I proceeded to
+visit the <persName>Baron </persName>immediately he is in good health&#8212;to day I have not
+been able to collect much interesting News for you&#8212;the mail starts
+this <date when="1826-09-23">evening </date>and it is now so late I shall not be able to write any
+thing satisfactorily until next post&#8212;The <persName>Slave </persName>question is undecided
+as yet. The <persName>Baron </persName>has done his best&#8212;but <hi rend="italic">one</hi> opposed <hi rend="italic">to </hi>so large a
+<persName>majority </persName>can do but little&#8212;</p>
+
+<p>He will lay before the <persName>house </persName>a bill, in a day or two for the benefit
+of the <persName>300 families </persName>and thinks there is no doubt but the <persName>slaves </persName>
+introduced by them will be held&#8212;he also states that he will never sign
+the Constitution if they persist in so <hi rend="italic">unjust </hi>an imposition on the
+rights of the <persName>settlers</persName>&#8212;it is the opinion of the <persName>Baron </persName>that a further
+introduction of <persName>slaves </persName>is out of the question&#8212;in another Legislature,
+a favourable <persName>Slave </persName>law might be procured, but the present one is<pb n="1462"/>
+composed of <persName>members </persName>so inimical to the interests of <placeName>Texas</placeName>, that the
+<hi rend="italic">most </hi>that can be obtained is permission for the <persName>300 families </persName>to hold
+their <persName>Slaves</persName>&#8212;The Constitution will not make its appearance before
+the <date when="1827-01-01">1 of Jany</date>&#8212;The <persName>Baron </persName>is anxious to return&#8212;but at present he
+<hi rend="italic">cannot</hi>&#8212;and in a short time the winter will <hi rend="italic">set in</hi>; and his age and
+infirmaties will not permit him to travel&#8212;It is all important that the
+<placeName>Colony </placeName>should have a <persName>friend </persName>in the <persName>Legislature</persName>&#8212;It is also of the
+greatest importance the <placeName>Baron </placeName>should return to conclude the business
+of the <placeName>Colony </placeName>but is impossible for him to do so until <date n="03-xx-1827">March </date>or
+<date n="04-xx-1827">April</date>&#8212;I presume you heard of the confusion that has existed in the
+Legislature and which has caused more <hi rend="italic">delay </hi>in the progress of the
+discussions of that body than any thing else&#8212;the substance of the
+whole is&#8212;the <persName>People </persName>had become disgusted with the proceedings&#8212;
+and demanded a new Election or the Constitution&#8212;Every thing is
+quiet at present&#8212;and the <persName>Legislature </persName>will probabl use more 
+dispatch; since the <persName>People </persName>have manifested their feelings&#8212;You have no
+<hi rend="italic">idea </hi>what <hi rend="italic">trifles </hi>have engaged their attention for months in fact the
+whole body deserve to [be] <hi rend="italic">turned out doors</hi>&#8212;The <persName>Baron </persName>says he
+wants money I have stated to him our situation etc&#8212;I have not seen
+<hi rend="italic"><persName>Padilla </persName></hi>yet altho I am writing in his <placeName>house</placeName>&#8212;<hi rend="italic">Next mail</hi> expect a
+<hi rend="italic">Volume</hi></p>
+
+<p>Remr me to <persName>Williams </persName>and other friends&#8212;<persName>E Bean</persName> is here he has the
+comission of Col. and permission to settle the <placeName>reserve on the Sabine
+</placeName>and <placeName>Edwards Coly as far as the Nachez</placeName>.
+Yr B.</p>
+
+<p><persName>J B A</persName></p>
+
+<p>[Addressed:] Al.  <persName>Ciudadno  Tente Corl Estevan F. Austin</persName> en
+la Villa de <placeName>Sn felipe de Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

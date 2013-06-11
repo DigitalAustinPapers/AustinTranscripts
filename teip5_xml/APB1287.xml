@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1287">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H. H. League to Stephen F. Austin, 09-20-1826</title>
+            <author>
+                <persName>H. H. League</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-13">07-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Aysh Bayou, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1459-1460
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-09-20">09-20-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Immigration from Tennessee.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Iesh Bayuo</placeName> the <date when="1826-09-20">20th Sept 1826</date></p>
+<p><persName>Col Stephen F. Austin</persName></p>
+
+<p>D sir it has been <date when="1826-08-23">28 days</date> since we left <placeName>San Felipe</placeName> and we have
+Came 235 Miles Our <persName>company </persName>was nearly all sick when we started
+and have been much worse on the Boad than they were before, we
+have lain hear about a week on account of the ill health of<persName> Mr Jn
+Robison</persName> who has-been thought dangerous a part of the time but is
+no[w]Convelescent and thinks he will be able to Travil on <date n="0-19-1826">tomorrow</date>,
+I Expect you learned from <persName>Mr McNeal</persName> the circumstance of my 
+geting crippled by a fall from a horse from which I have suffered Much
+and am not yet Recovered but have my health perfectly in all Other
+Respects. I have recived two letters from <placeName>home </placeName>since I left your
+<placeName>town </placeName>one from my <persName>wife </persName>dated <date when="1826-08-06">6 August</date> which informed me that
+thare would be considerable Emigration from <placeName>Tennessee </placeName>to your
+<placeName>Coloney </placeName>this <date n="Fall- 1826">fall</date>. I <date n="9-20-1826">this morning</date> Recived another from <persName>william
+D Horton</persName> my <persName>Brother in law</persName> who Visited the <placeName>country </placeName>with me, you
+may perhaps Recollect I told you that he Rote to me from <placeName>Nachitoches</placeName>
+on his Return that he had declined coming to the <placeName>country</placeName>, he tells
+me in his presint communication that he was Very sick and low 
+spirited at the time he rote and thought at that time he would not come
+but on Regaining his health he changed his notion he informs me
+that he has procured the Ten <persName>families </persName>that you granted me 
+permition to Settle in your <placeName>coloney </placeName>as was agreed on between him and
+me before we parted and himself and them are all prepairing to come
+to the <placeName>country</placeName>&#8212;on the first Rise of the <placeName>River</placeName>, he also informs me that
+my <persName>Father in law</persName> and <persName>Doctor Porter</persName> a <persName>brother in law</persName> together with
+a considerable number of <persName>Gentlemen </persName>from the Vicinity of <placeName>Nashville</placeName>
+will visit your <placeName>country </placeName>this <date n="Winter-1826">winter</date>. Could I have known all this
+before I left <placeName>San Felipe</placeName> I should not have went <placeName>home </placeName>at all for he
+informs me that he is prepairing to bring my <persName>family </persName>Out. and it
+would have been highly Important for me to have Remained and
+made preparations to Recive them as well as the other <persName>Emigrants</persName>,
+but as I am On the way I will continue On and assist them in getting
+out as soon as possible.  I wish you if it is possible to Reserve a <placeName>League<pb n="1460"/>
+of land</placeName> for <persName>William D. Horton</persName> on the <placeName>Barnard </placeName>or <placeName>Bay Priarai</placeName> and
+if that can not be done as near as Possible to my <placeName>League at <persName>Ginning</persName>s
+o[ld?] camp on the Collorado River</placeName>, you will also confur on me a
+grate favour by paying some attention to the selecting and surveying
+the <placeName>ten Leagues above the Labaha Road</placeName> as it is likely my <persName>settlers</persName>
+will wish to go on Immediately, and above all I wish you without
+fail to write to me at <placeName>Nashville </placeName>On the subject of Slavery and the
+provisions of the constitution generally. I shall in a few days leave
+the <persName>company </persName>and go on to <placeName>Nashville </placeName>as Speedily as possible and it
+would be a matter of the highest importance to Recive a 
+Communication from you as soon as I get <placeName>home </placeName>for should slavery be abolished
+it would produce some Change in my seletion of <persName>Emigrants </persName>I shall
+be at a loss in my arrangements until I heare from [you].    Give my
+Respects to <persName>Majr Burn[e]t</persName> <persName>Mr Williams</persName> etc</p>
+
+<p><persName>H. H. League</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

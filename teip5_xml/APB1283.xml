@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1283">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Sibley to Stephen F. Austin, 09-15-1826</title>
+            <author>
+                <persName>John Sibley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-12">07-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1455-1456
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-09-15">09-15-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">General news of the United States and Europe.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1826-09-15">Sept 15th 182</date>6</p>
+<p>Sir</p>
+
+<p>I Accidentally met a <persName>Man </persName>who says he lives in your <placeName>Neighbourhood</placeName>
+who will bring you a few papers such as in a hurry I can Scramble
+together. I have been confined by Sickness some Months during
+which I have had no opportunity of writing or knowing of any
+conveyance to you&#8212;I understand some arrangements are taking place
+for an exchange of Mails between <placeName>Mexico </placeName>and the <placeName>United States</placeName>&#8212;
+Since the rising of Congress the <placeName>public papers</placeName> are less interesting,
+they are all filled with the <date when="1826-07-04">4th of July</date> Proceedings and on the subject
+of the Remarkable Coincident in the almost simultaneous death of
+the <persName>ex President Adams</persName> and <persName>Jefferson </persName>on that day.&#8212;Our <placeName>country</placeName>
+<placeName>from Sabine to St. Croix</placeName> seem engaged in devising and executing
+Internal improvements The <placeName>canal cross the Base of Cape Florida
+</placeName>will be important; Indeed all of them the <placeName>ohio canal</placeName>, with <placeName>one End
+near the City of Cincinati</placeName> <placeName>the other Cleveland on Lake Eri</placeName>, the
+<placeName>Chesepeak and Deleware Canal</placeName>, the <placeName>Cape Cod Canal</placeName>, one <placeName>from 
+Michigan to Islenois</placeName>, and an hundred others; going on and talked about as
+well as the great <placeName>Panama Canal</placeName>, a Number of Bailed way <placeName>Roads </placeName>and
+<placeName>Turn Pikes</placeName> are going on; the great <placeName>Road from Washington to New
+Orleans</placeName> will soon commence. Our <persName>Manufactures </persName>seem to keep pace
+with other improvements. A Steam Boat Navigation will Certainly
+be extended up <placeName>Red River</placeName> (perhaps) to <placeName>New Mexico</placeName>. In Our <placeName>Parish</placeName>
+without seeming to be sickly there has been a Number of deaths<pb n="1456"/>
+Those you know are <persName>Doctor Levis</persName> and <persName>Luke S. Hazelton</persName>. and <persName>Sam1
+Keiser</persName> At <placeName>Alexandria</placeName> <persName>John Carson</persName>. <placeName>New Orleans</placeName> by the last 
+accounts is uncommonly healthy. <persName>Genl Hampton</persName> is dead no 
+conspicuous Character in the <placeName>City</placeName>, the yellow fever rages at <placeName>Mobile</placeName>. From
+<placeName>Europe </placeName>the Riots in <placeName>England </placeName>and <placeName>Scotland </placeName>amongst the <persName>weavers</persName>.
+<persName>factions </persName>in <placeName>Spain </placeName>opposed to the <persName>Kings party</persName>&#8212;<persName>France </persName>quiet and 
+improving in <persName>Manufactures </persName>etc. The <persName>Govt of <placeName>Russia</placeName></persName> not well settled.
+<placeName>Turkey </placeName>has been obliged to give up to that Power <placeName>Walatia </placeName>and
+<placeName>Maldavia</placeName>, <placeName>(Antient Massadonia)</placeName>&#8212;The <persName>Greeks </persName>have suffered, but are
+not giving up the ship. Private Opinion in all the countries of
+<placeName>Europe </placeName>is warm towards them. <placeName>Turkey </placeName>is crippled by the War and
+never can conquer them. Our <persName>Gov</persName>. is placing above us <placeName>On the Waters
+of Red River and Arkansa</placeName> more than fifty thousand <persName>Indians </persName>of 
+different and discordant <persName>Tribes </persName>I do not like the Policy, not for the
+reason only, that it will hasten their extinction. The <persName>Caddos </persName>and
+<persName>Quapas</persName>, are going to settle above you On the same <placeName>River</placeName>.&#8212;They
+will be peacable, but unprofitable <persName>Neighbours</persName>.-&#8212;</p>
+
+<p><persName>Judge Johnston</persName> and <persName>family </persName>live at <placeName>Washington</placeName>, they were in <placeName>New
+York</placeName> a <date n="08-xx1826">Month </date>ago. Our<persName> Members of Congress</persName> are all Reelected
+from this <placeName>State</placeName>.</p>
+
+<p>Please to Present my compliments to your <persName>brother </persName>to <persName>Capt. Clark</persName>
+and any Other friend or acquantance.</p>
+
+<p><persName>John Sibley</persName></p>
+
+<p><persName>Hon. Judge Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

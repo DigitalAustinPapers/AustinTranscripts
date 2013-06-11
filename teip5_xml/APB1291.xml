@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1291">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Iiams to Stephen F. Austin, 09-30-1826</title>
+            <author>
+                <persName>John Iiams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-13">07-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1463-1464
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-09-30">09-30-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Misunderstanding concerning survey. Austin's reply.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Philip</placeName> <date when="1826-09-30">September 30th 1826</date></p>
+<p>Dier Sir</p>
+
+<p>I am informed that <persName>Mr Hirams</persName> has orders for Resurveying my
+<placeName>Land </placeName>and I am of the opinion that it is not necessary&#8212;I have left
+in your <placeName>office </placeName>a correct Return of the survey and understood you to be
+satisfied as <persName>Mr Hunter</persName> had acknowledged his Error, and as he has
+never made any Resurvey of any part of my <placeName>Land </placeName>and there is
+writen agreements between myself and him that will cover all the
+surveying that he has done about my <placeName>land</placeName>&#8212;The last writen 
+agreement between him and me is to this effect, he agrees to Correct all
+his field notes on the lines miandering on the <placeName>waters </placeName>and Change
+the variation on the other side of the needle so as to make them
+agree with a true meridian and to Return the same with the other
+lines as I had surveyed them, to your <placeName>office</placeName>, all which should be
+done before the filling of my Deed that it might not be damaged
+by his Errors and I agreed to pay him $37.50 in trade.&#8212;Now
+I hope the writen contracts between <persName>Mr Hunter</persName> and myself will
+be respected</p>
+
+<p>But as other <persName>surveyors </persName>has been allowed to survey their own and
+by your directions I have surveyed mine and hope it will be 
+Respected I am not willing to pay <persName>Mr Hirams</persName> for surveying it again.
+I hope you will not put me to any more cost or give <persName>Mr Hunter</persName>
+any unjust advantage over in consequence of my having detected
+his Error Dier Sir I have not been able to comply with my 
+obligation to you as to time, but I would be willing to spare you some
+cattle at presint if you are ready to Receive them and the 
+remainder as fast as I am able untill my <placeName>land </placeName>is paid for&#8212;</p>
+
+<p>But if I am compelld to pay <persName>Mr Hunter</persName> Contrary to my writen
+Contract or to pay <persName>Mr Hirams</persName> to survey on his account I shall not
+be satisfied and shall personally lay my Complaint before the <persName>heads
+of the department</persName> and if I cannot obtain justice I will Publicly
+Relinquish all pretensions to Citizenship and leave the <placeName>State </placeName>altho
+I have the best Improvement that I have seen in the <placeName>Colony</placeName><pb n="1464"/>
+<persName>Mr Hunter</persName> has not spoken with me since our last agreement
+and I know not why he wishes a Resurvey</p>
+
+<p>Dier sir It is my wish to remain at home and by Honest 
+Industry to maintain my little <persName>family </persName>without those vexatious disputes
+and I hope you will Condiscend to write me a fiew lines informing
+me what I shall do in the above case</p>
+
+<p>I am Sir with Respect your friend and humble Servant</p>
+
+<p><persName>John Iams</persName></p>
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p><date when="1826-09-30">Sept 30</date> I have this moment returned <placeName>home </placeName>unwell and tired and recd
+the above letter which I return to you because the last page contains
+very improper reflections&#8212;All I have to say on the subject is that
+you and many others in this <placeName>colony </placeName>would save themselves much
+unnecessary trouble and much useless vexation by ascertaining facts
+from me in person instead of picking them up from common report
+which as a general rule in this <placeName>country </placeName>is always wrong&#8212;<persName>Mr Hirams</persName>
+never recd any instructions from me to resurvey your land&#8212;neither
+did I ever say that it [would be neces]sary to resurvey it&#8212;neither
+have [I ever thou]ght that such resurvey was necessary, for <persName>Hunter</persName>
+told me that the lines were all corrected to your full satisfaction&#8212;-
+as to relinquishing your citizenship you can do so and abandon the
+<placeName>country </placeName>whenever you please&#8212;I know of nothing to prevent&#8212;but
+common good breeding ought to have taught you to have reserved
+your threats against the <persName>Government </persName>until injustice had been done
+you and you had something to complain of&#8212;</p>
+
+<p>I have nothing to do with the appointment of <persName>surveyors </persName>it belongs
+to the <persName>commissioner </persName>and I had it in contemplation to recommend
+you to the <persName>commissioner of the <placeName>Trinity country</</placeName>person_mentioned> when one was 
+appointed for the appointment of <persName>surveyor </persName>for that <placeName>River</placeName>, for I had
+been requested to do so by some of the <persName>inhabitants </persName>of that <placeName>river</placeName>&#8212;
+but the disposition you seem to manifest to complain without cause
+is a rather bad recommendation, tho I can make great allowances,
+the slow motions of the Govt sometimes put me out of patience and
+it is not to be wondered that the patience of the <persName>Settlers </persName>are 
+sometimes exhausted&#8212;all you have to do is pay no regard to common
+report if you wish to know any fact write to me in person and
+you shall be informed correctly if in my power to inform you&#8212;</p>
+
+<p>I am very hard pressed for the fees, but you and all others know
+my unwillingness to press the <persName>settlers</persName>&#8212;you must do the best you can</p>
+<p>[Addressed:] <persName>Mr. John Iiams</persName> <placeName>San Jacinto</placeName></p>
+
+<p>[Stephen F. Austin]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
