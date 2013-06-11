@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1506">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James F Perry to Stephen F Austin, 03-02-1828</title>
+            <author>
+                <persName>James F Perry</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-30">07-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        James Cole
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Potosi, Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Province of Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 20-22
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-03-02">03-02-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Conditions in Missouri. Local political news.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Potosi Missouri March 2d 1828</p>
+<p>Dear <persName>Friends</persName>.</p>
+
+<p>We take the opportunity of writing to you by <persName>Mr James Cole</persName> who
+says he is going directly to your <placeName>Country   </placeName>we feel anxious to hear<pb n="21"/>
+from you as we have not heard from you for a long time, the last
+letter we had was from <persName>James </persName>dated in <date n="07-xx-1827">July </date>or <date n="08-xx-1827">august </date>last in which
+he said he expected to [be] a married man on the<date when="1828-10-03"> 3d of Oct</date>. We
+have not heard neether by letter or otherwise since we wrote you
+on the <date when="1828-07-22">22d of July</date> last respecting some Land in <persName>Wyth County 
+Virginia</persName> also a Tract in <persName>Newjersay</persName> we also wrote you on the <date when="1828-08-12">12th of
+august</date> on the same subject none of which we have had a reply to
+on <date when="1828-07-22">22d of July</date> we enclose [d] to you a note on <persName>Bartlet Sims</persName> in favr of
+<persName>Alfred Sougroun</persName> for $788.61. please say whether you recd it and
+if so what prospect there is for collecting the money. In <persName>Stephen</persName>s
+letter to us of the<date when="1827-05-26"> 26th of May last</date> he expresed a wish for me to
+visit that <placeName>country </placeName>last fall I feel anxious to see the <placeName>Country </placeName>but
+the situation of my business would not permit me to leave it nor is
+my prospect any better at preasant. Now our <persName>Family </persName>is all well at
+preasent but it has pleased divine providence to deprive us of our
+little daughter <persName>Emely</persName>. she was taken sudenly and died in a few
+hours without any previas sickness the shock was verry great the
+loss of a near relation is surely felt but no one knows the feeling of
+a <persName>parent </persName>but a parent. We have since had another added to our
+famaly a <persName>daughter </persName>about 2 months old we call hir <persName>Eliza Margrett</persName>.
+the boys <persName>Joel</persName> <persName>Austin </persName>and <persName>Guy </persName>are going to school and I think
+progress as well as boys of there age could be expected. I know of
+no material change among your old <persName>acquantences </persName><persName>W C. Carr</persName> is our
+circuit <persName>Judge </persName>he was here two weeks since we have a great many
+enquiries for you all your old <persName>acquantences </persName>and <persName>friends </persName>apear
+anxious to hear how you are doing Business is very dul here at
+present the great emigration within the last year to the <placeName>Fever
+River Mines </placeName>togather with the low price of Lead has made business
+verry dull Lead is only worth now at the <placeName>river </placeName>$4.50 and but $5.60
+in <placeName>Phila Potosi</placeName> has been and is still improving some we are now
+living on the lots formaly owned by <persName>Josiah Beardsley.</persName> I expect you
+recollect where they are we have got a small but comfortable house
+built and are making some other improvements and in a short time
+will be tolarably conveniantly fixed for living our <placeName>country </placeName>has 
+improved since you left this <placeName>country </placeName>but not near as much as might
+be expected <placeName>St Louis</placeName> is improving rapidly. <persName>S Perry</persName> has 
+purchased <persName>part of old Chouto lot opposit the market</persName> in that place and
+is building a house in it that he has rented for $1828. pr annum,
+the aproching presidentle Election creates a great interest: party
+spirit runs very high the <persName>members of Congress</persName> in all there offitial acts
+are verry much governed by party spirit, and it has a great 
+influeance in all our state Elections and Legislational proceedings 
+Administration and Anti administration <persName>Adams </persName>and <persName>Jackson </persName>Internal
+improvements and state rights are the subjects of differance.   I<pb n="22"/>
+think it will be a close contest   it is uncertain who will be the next
+<persName>President </persName>the <persName>friends </persName>of each are verry sanguine. I know of 
+nothing more interesting to write you excuse the scrawl as I have not
+time to copy   <persName>Mr Cole</persName> is just starting   write to us offener</p>
+<p><persName>J. F and Emily Perry</persName></p>
+
+<p><persName>Mr. S. F. Austin</persName> &amp; <persName>J. B Austin</persName></p>
+
+<p>Give our best respects to our new <persName>sisterinlaw</persName> if we have one
+[Addressed:] <persName>Col, Stephen F Austin</persName> or <persName>Jas B Austin</persName> <placeName>San Felipe de Austin Provance of Texas</placeName>politeness of <persName>Mr James Cole</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

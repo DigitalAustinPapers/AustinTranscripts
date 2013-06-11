@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1628">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to E M Perry, 10-25-1828</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-08">08-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Brown
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        E M Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 135
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-10-25">10-25-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Business relations with Anthony Butler. Religious belief. Cotton market depressed.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1828-10-25">Oct. 25. 1828</date></p>
+<p>Dr <persName>Sister</persName></p>
+
+<p>I rec.d your kind and affectionate letter the other day and sent it
+down to <persName>Brother</persName>&#8212;he came up a few days since with his <persName>wife </persName>and
+is now here&#8212;he informs me that he wrote you by way of <placeName>Orleans</placeName>
+just before he left <placeName>home</placeName>&#8212;</p>
+
+<p>I truly sympathise with you on the loss of your <persName>infant</persName>&#8212;tho I have
+seen so much trouble and misery amongst my fellow beings that I
+doubt wheither we should too deeply grieve for the departure of
+innocence and purity from this wretched world&#8212; There is another
+and a better one, to doubt it would be to convert the shadows which
+surround us in this life into the most horrible darkness</p>
+
+<p>I send this by <persName>Mr Brown</persName> of <placeName>St Charles</placeName> and he has only a few
+moments to wait being now on his way therefore cannot write you
+a long letter. I wish you to inform me what plan you have adopted
+or think of adopting as to <persName>Joel </persName>and <persName>Austin</persName>&#8212;</p>
+
+<p><persName>Brother </persName>is about engaging in the Mercantile business and I think
+will soon be enabled to do an extensive and profitable one&#8212;</p>
+
+<p>I am as yet at work at colonization and shall necessarily be tied
+down here for some time to come&#8212;it is a troublesome business and re-<pb n="136"/>
+quires much more preserverance and patience than any one can
+imagine who has not tried it&#8212;   But I will go through with it&#8212;</p>
+
+<p>You ask me how I like my <persName>sister in law</persName>&#8212; I am very well pleased
+with her, and think <persName>Brown </persName>has made a happy choice&#8212; they live
+very happily together and have the prospect of an heir this winter
+or <date n="Spring - 1829">early in the spring</date>, tho I presume he has written you relative to
+his family matters&#8212;</p>
+
+<p>I wrote you to send me the <placeName>old Lead book</placeName> kept by <persName>Ballard </persName>during
+the year I worked the <placeName>mines </placeName>in partnership with <persName>Butler</persName>. <persName>M.r Ballard
+</persName>knows that nothing was cleared that year. I sent a statement of the
+a/cs. to <persName>Butler</persName>, but he pretends to claim (as I am informed) Many
+thousand Dollars I know not exactly what kind of a man <persName>Ballard</persName>
+is but have always thought him an honest man and I do not think
+he will forward <persName>Butler</persName>s unjust claims to injure me&#8212; I wish <persName>Mr
+Perry</persName> to sound him as he may deem prudent on the subject&#8212; The
+truth is that the <placeName>mines </placeName>cleared nothing the year <persName>Butler </persName>and myself
+worked them in <persName>partnership </persName>and I therefore owe him nothing on
+that score</p>
+
+<p>This <placeName>country </placeName>has been very healthy this <date n="xx-xx-1828">year </date>and we are getting on
+pritty well in every respect&#8212; I will pay you a visit some time but
+cannot tell when, it shall be as soon as possible&#8212; I know you
+cannot visit me and I do not wish you to take such a journey&#8212; It
+is too long, and exposed to some dangers&#8212; Remember me 
+affectionately to <persName>Mr Perry</persName> and all old <persName>friends </persName>and <persName>acquaintances</persName></p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+<p>[Address:] <persName>Mrs Emily M. Perry </persName> <placeName> Potosi Missouri </placeName>  <persName>Mr J Brown</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

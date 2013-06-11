@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1514">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry S. Brown to Stephen F Austin, 03-21-1828</title>
+            <author>
+                <persName>Henry S. Brown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-31">07-31-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Capt Harris
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin's Colony, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 27
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-03-21">03-21-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">There would be great emigration to Texas if status of slavery assured.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleanes</placeName> <date when="1828-03-21">March the 21 1828</date></p>
+<p><persName>Col Auston</persName></p>
+
+<p>Dear sir I will inform you that I am still alived and have not
+for got the <placeName>Texas </placeName>I expect that I shall start with my <persName>family </persName>for
+that <placeName>Contry </placeName>this fall there is a good deal of talk about that <placeName>Country</placeName>
+in the <placeName>Missouri </placeName>and there is no doubt but the disturbance that took
+piase in <placeName>edwards Colloney</placeName> Caused a good many that was strongly
+in the way to moove to decline tho I think when they find every
+thing is going on well there a good many will moove from our
+<placeName>Country </placeName>there if it was so to happin that that <placeName>Country </placeName>was [to]
+fall in the hands of our <persName>goverment </persName>how son would it be one of the
+gratest, or in other words if slavery was admitted there or the
+people Cold be satisfied that they would be safe in taking there
+<persName>slaves </persName>there the emmigration would be grate I wold thank you to
+wright me on that subject and every other one that wold give 
+information about the tines [times] of that <placeName>Country </placeName>one letter from
+you would do more good than 20 from some other men, I have
+bin informed after a certain time there cold be no more [<persName>slaves</persName>?]
+taking there perhaps after the first of <date when="1829-01-01">January </date>next tho that will
+give time for people to move this <date n="Fall - 1828">fall </date>it is uncertain what part of
+the <placeName>Contry </placeName>I shall settle in tho I believe that I shall try near the
+<placeName>cost</placeName>&#8212;</p>
+
+<p><persName>Henry S Brown</persName></p>
+
+<p><persName>Col S F Auston</persName></p>
+
+<p>N b give my best respects to <persName>Mr S Williams</persName> tell him I would
+thank him kindley for a letter) my plase of residence <placeName>Missouri
+Pike</placeName> <persName>Col Waverley</persName></p>
+<p>[Addressed:] <persName>Col Stephen F Auston</persName>
+<placeName>Austons Colloney Texas  </placeName>           by <persName>Capt Harris</persName></p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

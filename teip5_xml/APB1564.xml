@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1564">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Amos Edwards to Stephen F Austin, 07-07-1828</title>
+            <author>
+                <persName>Amos Edwards</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-07">08-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 68-70
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-07-07">07-07-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Roads bad and corn scarce and high. Leaves family at Nacogdoches while he explores and finds place to settle. Holds stock in Nashville Co., and would settle on their grant, but does not believe the company will ever accomplish anything.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Nacogdoches </placeName><date when="1828-07-07">July 7th 1828</date></p>
+<p>D. Sir</p>
+
+<p>I crossed the <placeName>Sabine </placeName>on the <date when="1828-06-01">first day of June</date> and the season being
+so far advanced the <placeName>roads </placeName>so bad, and corn so scarce and high, that
+I was compelld to decline proceeding into the <placeName>province </placeName>further than<pb n="69"/>
+this place with my <persName>family</persName>, untill I take a ride through and view
+the different parts of the <placeName>Country </placeName>and make my selection for a 
+permanent <placeName>Settlement</placeName>.</p>
+
+<p>I have just received your message by <persName>Majr M. A. Heard</persName> and
+intend to visit you as soon as I possibly can, after making the
+necessary provisions for the comfort of my <persName>family </persName>during this
+season as they will have to remain in this place until I explore,
+select a situation and provide the necessary buildings for their
+comfort&#8212;my wish and intention is to try to procure a good healthy
+situation as <placeName>near the Gulf</placeName> as I can find such an one and as near the
+scite as possible that will most probably be the <placeName>principal seaport of
+the Country,</placeName> and I shall wish your advice and assistance in making
+such selections so far as you can give them to me without too much
+trouble and inconvenience to yourself. I believe that you have a
+better general knowledge of the <placeName>Country </placeName>than any other man in it,
+and that you will give me the most correct information in your
+power relative to the <placeName>Country </placeName>generally, and particularly that part
+binding on the <placeName>Gulf</placeName>. I have a considerable interest in the 
+<placeName>Nashville Companys Grant</placeName> and it would probably be more to my interest
+to settle in that <placeName>Grant </placeName>than any other part of the <placeName>province</placeName>&#8212;as I
+could induce a great many <persName>families </persName>to emigrate to the section of
+country that I select for my <placeName>residence</placeName>, but I begin to think the <placeName>Grant</placeName>
+will never be colonised by the present <persName>Company</persName>, unless some three
+or four of us will take all the trouble upon us pay all the expense
+and undergo all the privations dangers and difficulties of colonising
+the <placeName>Grant </placeName>and then give the balance of the <persName>company </persName>their full share
+of the lands without any charge. I was in <placeName>Nashville </placeName>in <date n="03-xx-1828">March last
+</date>and prevailed on the <persName>Directors </persName>named in the late Grant to have a
+meeting and try to make the necessary arrangements for colonising
+the <placeName>Grant </placeName>and forward instructions forthwith to <persName>Majr League</persName> on
+that subject, call in their Old scrip and make new scrip agreeably
+to the form you gave them, they promised me that they would do
+so and calld a meeting which was attended by a bare majority and
+they only talked of what they would do and concluded to call 
+another meeting in a short time when they expected to have a full
+<persName>Board </persName>and then would do every thing necessary and immediately
+thereafter commence operations in every way necessary for 
+colonising and promised to inform me what they did before I left 
+<placeName>Kentucky</placeName>, where I remained untill the <date when="1828-05-03">3d. of May</date> and heard nothing
+more from them Most of the <persName>Directors </persName>hold very small interests in
+the <placeName>Grant </placeName>viz. 1/8 of a share and they care very little about it as
+scarcely one of them ever intend emigrating to the <placeName>Country</placeName>. I
+should probably have settled in that <placeName>Grant </placeName>if the <persName>Company </persName>had
+done what they ought, to colonise it, but as they have not I have<pb n="70"/>
+determined to locate myself where my Judgment induces me to believe
+is the best place for my own prívate interest after seeing you and
+getting the best information I can.</p>
+
+<p>It will be some weeks before I can leave here to look at the
+<placeName>country</placeName>, and I shall be glad to receive a letter from you as soon
+as convenient informing me whether you will be absent from home
+any time this season and if so at what time as I do not wish to
+go there in your absence, and any other information that you may
+deem important will be thankfully received.</p>
+
+<p><persName>Amos Edwards</persName></p>
+
+<p>[Addressed:]<persName> Col: Stephen F. Austin </persName>   <placeName>San, Fellippi de, Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

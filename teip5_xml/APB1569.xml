@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1569">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Frost Thorn to Stephen F Austin, 07-22-1828</title>
+            <author>
+                <persName>Frost Thorn</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-07">08-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 74-75
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-07-22">07-22-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">The law permitting indenture of slaves will greatly promote immigration. Favors colonization of Cherokees and Shawnees, who are good farmers.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdoches </placeName><date when="1828-07-22">22 July 1828.</date></p>
+
+<p>Dear Sir/.</p>
+
+<p>On my return from <placeName>N Orleans </placeName><date n="06-xx-1828">about 6 Weeks since</date>, I was put in
+receipt of your letter stating a Law had passed, that <persName>servants </persName>could
+be indented etc&#8212;</p>
+
+<p>The entelligence I immedeately made public, and am induced to 
+believe the Law will be of great service to this <placeName>Country</placeName>. It has made a
+material change in the feelings of many valuable <persName>Emgrants </persName>and I
+will have it published in <placeName>N. Orleans</placeName>, that it may have publicity in
+the <placeName>U. S.</placeName>&#8212;</p>
+
+<p><persName>Mr. Amos Edwards</persName> had Just arrived from <placeName>Kentucky </placeName>with several
+<persName>slaves</persName>, which would have required much management to secure, but
+this Law at once places him at ease on that subject.</p>
+
+<p>Our <persName>Alcalde </persName>is not over active in promulgating the Laws&#8212;
+therefore your Letter in this case was usefull&#8212; should anything occur
+interesting to our section of the <placeName>Country</placeName>, you will confer a favr by
+noting it, to some one residing at this place.</p>
+
+<p><persName>Genl Teran</persName> keeps himself much reserved and I believe his residence
+with us will correct many evils that has much injured the <placeName>country</placeName>.
+I have no doubt but the proceedings at this place on the part of the
+<persName>alcalde </persName>has done more injury to the <placeName>Country </placeName>than any other cause.
+Most of the <persName>Transcient persons</persName> that visit here return disgusted</p>
+
+<p>My <placeName>Colony </placeName>is at this time totally ocupied by the <persName>Indians</persName>. The
+<persName>Cherokees </persName>and <persName>Shaunesse </persName>are <persName>Agriculturists </persName>and do not live in 
+<placeName>villages </placeName>but in a compact <placeName>settlement</placeName>. They raise much corn, and I
+have myself this season purchased from the <persName>Cherokees </persName>alone5 not less
+than 1000 Dollars worth of Corn and pease.<pb n="75"/></p>
+
+<p>My belive is, that it would improve there condition to Colonise
+them&#8212; I will write to you frankly on this subject, in the course of a
+short time</p>
+
+<p><persName>F. Thorn</persName> [Rubric]</p>
+<p>To <persName>Coin. S. F. Austin</persName></p>
+
+<p><placeName>St. filep</placeName>e&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

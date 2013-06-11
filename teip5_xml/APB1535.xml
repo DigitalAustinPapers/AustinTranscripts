@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1535">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas R Leaming to Stephen F Austin, 05-08-1828</title>
+            <author>
+                <persName>Thomas R Leaming</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-05">08-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadelphia, Pennsylvania</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 37
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-05-08">05-08-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Requests information in order to assist Austin in colonizing Austin's map of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philada </placeName><date when="1828-05-08">May 8th 1828</date></p>
+<p><persName>Stephen F. Austin Esq</persName></p>
+<p>Dear Sir</p>
+
+<p>*******</p>
+
+<p>I feel disposed Sir to try to advance your interests in colonising
+your <placeName>settlement </placeName>and for this purpose would advise your sending me
+specific terms at length, which you grant to <persName>Settlers </persName>containing also
+a fuller description of the <placeName>Country </placeName>its face, health, situation, 
+productions local advantages and the kind of <persName>settlers </persName>already there, their
+religion, whether all sects are tolerated there, if there is any 
+established religion of the Government and how it is supported. I 
+applied to <persName>Mr Tanner</persName> as you requested respecting publishing a map of
+<placeName>Texas </placeName>to which he acceded eagerly. He said that he would be at all
+the expense of engr[aving] and publishing and [furnish] you with
+a certain number of copies to be hereafter agreed upon. He 
+supposed that as <placeName>Coahuila </placeName>was a part of the province of <placeName>Texas </placeName>you meant
+to include that.   I could not answer this.</p>
+
+<p>I have just seen <persName>Mr Tanner</persName> and he thinks the <placeName>map </placeName>should be about
+45 by 33 inches and advises your laying it down on that scale He
+says he could not allow you more than a dozen copies for yourself
+as he must rely considerably on the sale by you to disburse the
+expenses. Not being willing to delay writing you any longer and
+being about to set off on a Journey <date when="1828-05-09">tomorrow</date>, I am compelled to
+be brief in this   *   *    *</p>
+
+<p><persName>Thos K. Leaming</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

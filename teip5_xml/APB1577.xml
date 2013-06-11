@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1577">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Sibley to Stephen F Austin, 07-30-1828</title>
+            <author>
+                <persName>John Sibley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-07">08-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 81-85
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-07-30">07-30-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Political news. Local gossip. Rage for railroad construction.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1828-07-30">July 30th 1828</date></p>
+<p>Dear Sir.</p>
+
+<p>I have Just Recd your friendly letter dated <placeName>Austin </placeName><date when="1828-06-17">17th June</date>,
+which of us is in debt in our literary Accounts is a subject I am not
+disposed to discuss at present, I will say that I am glad always to
+Receive a letter from you and will with pleasure communicate 
+anything to you I may possess of sufficient Interest to excite your 
+attention&#8212; we were soon informed of the arrival of <persName>Genl Taran</persName> at
+<placeName>Nacogdoches</placeName>. <persName>Col Piedras</persName> commanding at that <placeName>post </placeName>lately made us
+a visit and spent ten days here, through him I Recd some 
+communications from the <persName>Genl </persName>particularly what he found the <placeName>latitude, 
+longitude, Elevation and degree of heat</placeName> at <placeName>Nacogdoches</placeName>, and that he was<pb n="82"/>
+waiting to meet us to designate the <placeName>Boundary line</placeName>? on that subject
+I have only been informed officially that the treaty between our
+Govt and <placeName>Mexico </placeName>relative to the <placeName>boundary </placeName>and some other matters
+was Ratified by the <persName>Senate </persName>of the <placeName>U States</placeName> on the <date when="1828-05-01">first of May</date> and
+Returned to <placeName>Mexico </placeName>to be Exchangd and might be expected back in
+<date n="09-xx-1828">September </date>and that the treaty of <date n="xx-xx-1819">1819 
+</date> was Recognised generally,,
+the treaty has not been published and will not be untill it returns, i
+have not been informed of the Particular Stipulations. I have no
+Knowledge of the oppointment of a <persName>commissioner </persName>on Our part,
+there is a Report that I shall be named, but I have receivd nothing
+official about it, If I should I shall Serve and have great pleasure
+in being associated with <persName>Genl Taran</persName> for whose Character I feel the
+greatest respect.&#8212; I am happy to learn that the Intestine 
+difficulties in <placeName>Mexico </placeName>have subsided, such might have been expected, 
+experience will no doubt tranquilise such Ebilutions, all governments have
+experienced the Same; <placeName>Primary schools</placeName> and enlightning the people
+is the Surest Course.</p>
+
+<p>The Subject of Our <persName>Presidential </persName>Election has produced, and keeps
+up more excitement than any thing has ever done in the <placeName>United
+States,</placeName> the Choice of <persName>Electors </persName>conies on in <date n="11-xx-1828">November </date>next, both
+<persName>Parties </persName>affect to be sanguine of success, for my own part I believe
+<persName>Mr. Adams</persName> will be Reelected, and the cause of the <persName>administration</persName>
+seems to be gaining ground, the Printed paper Enclosed I think
+is a fair Exhibition of the case as it now Stands.&#8212;</p>
+
+<p>I am glad to hear that the Govt of <placeName>Mexico </placeName>have concluded to
+settle those<placeName> Belts of Neutral territory</placeName>, it would have been impossible
+to have kept those reserves free from <persName>Banditties of Murderers </persName>and
+<persName>outlawes</persName>&#8212; There seems to be some difficulty between the <persName>three
+Allied Powers</persName> against <placeName>Turkey </placeName>about the division of what may be
+conquered from <placeName>Turkey</placeName>. <placeName>France </placeName>and <placeName>England </placeName>hang Back; but
+<placeName>Russia </placeName>will go on single handed If they should decline We have
+no certain Accounts of Actual fighting being commenced Nor of the
+<persName>Russian Army</persName> crossing the <placeName>Pruth</placeName>. The <persName>Greeks </persName>will no doubt 
+become indepent of <placeName>Turkey </placeName>tho. not yet acknowledged, there is a
+great Commotion in <placeName>Europe</placeName>, the <persName>English </persName>are Arming and so the
+<persName>French</persName>. The <persName>Brittish </persName>are withdrawing their <persName>Troops </persName>from <placeName>Portugal</placeName>
+and the <persName>French </persName>from <placeName>Spain</placeName>&#8212; <persName>Lord Wellington the Present prime
+Minister</persName> has gone over to <placeName>France</placeName>, for something about <placeName>Greece </placeName>and
+<placeName>Turkey </placeName>it is seposed. The Sperit for Internal improvement in the
+<placeName>U. S.</placeName> was never at such a height <placeName>Rail ways</placeName> are taking place of
+<placeName>Canals</placeName> as having the advantage of costing one third less, not being
+interrupted by <persName>Frost</persName>, the <placeName>carriages propelled by Steam</placeName> can freight<pb n="83"/>
+as low and move Eight Miles an hour, whereas <placeName>Canal Boats</placeName> go only
+four.&#8212;</p>
+
+<p>I had <date n="Winter - 1827">last winter</date> a Visit from <persName>Geo. Sibley</persName> of <placeName>Missouri </placeName>his <persName>wife</persName>
+and her <persName>sister Miss Easton</persName>. they spent two Months with us and
+took away with them <persName>Mrs Sibley</persName>, <persName>Hopkins Sibleys widow</persName>, and
+her Daughter <persName>Ann</persName>. and son <persName>Harry</persName>; <persName>George </persName>has lived at <placeName>Fort Ozage</placeName>
+and they all left here for that place, but on arriving at <placeName>S. Charles</placeName>
+where <persName>Judge Eastons family </persName>Reside, <persName>George </persName>on Visiting and going
+over a Tract of Land he had owned for 15 years near that place
+which he never before had examined was persuaded to settle there
+and there they all are, they live in the <placeName>Town </placeName>the land they are 
+improving comes within half a Mile; the <placeName>Ozage farm</placeName> and stock are
+kept up where they have an hundred Breeding Mares and Jennies
+etc. <persName>Judge Easton </persName>has the Dropsey and cannot live long, they
+give an account of the Beauty and improvements of <placeName>St. Louis</placeName>,
+Increase of Population and Wealth surpassing any Town in the
+West, <placeName>Cincinnati </placeName>Excepted.&#8212; they speak of the New Splendid
+<placeName>Churches</placeName>, <placeName>Court </placeName>and <placeName>Market House</placeName> as in an superior stile, the
+<placeName>Jefferson Barracks</placeName> <placeName>6 miles below where two Regiments of U. S.
+Troops are kept</placeName> called the <placeName>School of practice</placeName> they mention as an
+Elegant Establishment giving great life and vareity to <placeName>St. Louis.</placeName>
+the <persName>Troops </persName>that were at <placeName>Council Bluff</placeName> are movd down a few miles
+above <placeName>Old Fort Ozage</placeName> and is called the <placeName>Cantonement Levinsworth
+</placeName>where is a <persName>Regiment</persName>, the <placeName>State of Missouri</placeName> is rapidly advancing
+in population Wealth and improvements and are for the Reelection
+of <persName>Mr. Adams</persName> <persName>Col Benton</persName> to the contrary notwithstanding&#8212;</p>
+
+<p>Our Town of <placeName>Natchitoches </placeName>improves slowly, we have a large
+tolerable handsome and well finished <placeName>Catholic Church</placeName> Nearly done
+a good looking <placeName>Belfrey </placeName>and a good Bell. Several <placeName>New Houses</placeName> have
+been built since you were here, but the distraction of the <placeName>great fire</placeName>
+is scarsily repaired, all the <placeName>Small Towns on the Steam Boats
+navigable Waters</placeName> seem not to flourish. If an <persName>inhabitant </persName>wants a
+Twist of Tobacco he sends for it by a Steam Boat to his <persName>Agent </persName>in
+<placeName>N. Orleans</placeName>, it is sure to come in a few hours, at half what the little
+<persName>Jew </persName>shops would take for the Same Article&#8212;<placeName>Alexandria </placeName>from that
+cause, the Overflow and unhealthiness of the place is almost 
+abandoned   <placeName>Houses </placeName>and <placeName>Lotts </placeName>have fallen 800 pr Cent or More.&#8212;</p>
+
+<p>The <persName>Planters </persName>in this <placeName>Parish </placeName>since the fall of Cotton (many of
+them) are preparing for sugar, the Ribbon Cane brought from
+<placeName>China </placeName>comes to perfection in about a Month less time than the
+<persName>Creole </persName>cane no doubt from the experiments already made it will
+succeed well in this <placeName>Parish</placeName>; but you have the soil and climate for
+that Article; but cannot be extensively used without <persName>Slaves</persName>.&#8212;<pb n="84"/></p>
+
+<p>Our Election for <persName>Govr Members of Congress</persName> and <persName>state Legislature</persName>
+is just over have not got the Returns for <persName>Govr</persName>, or <persName>Congress</persName>,
+<persName>Judge Derbigney</persName>, <persName>Butler</persName>, <persName>Marigney </persName>and <persName>Genl Thomas</persName> are the 
+<persName>Candidates for Congress</persName> in this <placeName>district </placeName><persName>Brent </persName>and <persName>Overton</persName>, we have
+from this <placeName>Parish </placeName>in Our Legislature A man by the name of <persName>Dyers
+Debleau</persName> and <persName>Benja Matyear</persName>.-&#8212; <persName>Johnston </persName>Our Present <persName>Sheriff </persName>was
+married a few days ago to the Daughter of <persName>Mr Benjm Bullitt</persName>&#8212;
+<persName>Col Quarles</persName> of <placeName>Arkensas </placeName>to <persName>Madme Grosvenor</persName>&#8212; <persName>Mr. Cable</persName> and his
+<persName>wife </persName>live apart. Several Accidents have hapened by steam Boat
+Boilers Bursting, the car of Commerce lately, and killed and
+wounded 57 <persName>persons</persName>. Two have been Burnt and one sunk in <placeName>Red
+River.</placeName>&#8212;</p>
+
+<p>I did not see <persName>Capt. Jones</persName>, probably when he called I was out
+about three Miles where My <persName>family </persName>are at a <placeName>Summer residence</placeName>;
+where we have good Water and Air. No Musketoes and Milk not
+Bitter, <persName>Mr Cable</persName> has informed me he had sent you a Packet of
+papers which will keep you Along till you Receive more-&#8212; If the
+Govt of <placeName>Mexico </placeName>was better organised, so that one might be 
+protected in person and property and Religion I should feel Enclined to
+move into it.</p>
+
+<p><date when="1828-07-17">17th-July</date>. By the Steam Boat Beaver we have the Election 
+Returns so far as to assertain that <persName>Judge Derbigney</persName> has a Majority
+of Votes for <persName>Governor</persName>, that <persName>Judge white</persName> a young man (son of
+<persName>Doctr White</persName> who died <persName>Parish Judge of <placeName>Attackapa</placeName></persName>) and lately been
+Acting as <persName>City Judge of <placeName>New Orleans</placeName></persName>, has been <persName>Elected Member
+of Congress</persName> in place of <persName>Mr. Livingston</persName>; <persName>Derbigney </persName>and <persName>White </persName>are
+for the Reelection of <persName>Mr. Adams President</persName>. <persName>Mr. Livingston</persName> for
+<persName>Jackson </persName><persName>Mr. Marigney </persName>and <persName>Judge Butler</persName> opposed to <persName>Derbigney </persName>as
+Governor are <persName>Jacksonites</persName>. The Votes of <placeName>Louissiana </placeName>will be for
+<persName>Adams (President</persName>). <persName>Mr. Gurley</persName> of <placeName>Batton Rouge</placeName> (<persName>Adams</persName>) is 
+Reelected by a large Majority. <placeName>Missouri </placeName>and <placeName>Illenois </placeName>for the 
+<persName>administration </persName>; and we now believe <persName>Adams </persName>will certainly be Reelected&#8212;- I
+sepose you were Acquainted with Our <persName>Captain Grosvenor</persName>; while
+he was in your <placeName>Country</placeName>: Accounts Came on here Satisfactory to
+his <persName>wife </persName>that he had another <persName>wife </persName>in <placeName>New York</placeName>, she had a decree
+Nullifying her Marriage with <persName>Grosvenor</persName>, and was in <date n="03-xx-1828">March last</date>
+married to a <persName>Col Quarles</persName>, a <persName>Lawyer </persName>from <placeName>Little Rock</placeName> in <placeName>Arkensa
+Territory,</placeName> the <persName>Col </persName>after living here with her a short time went to
+<persName>Arkensas </persName>and Returned sooner than he had appointed he soon 
+appeared dissatisfied and went away Again, it is thought will not
+soon if ever Return to her again. The <persName>Col </persName>is a light made, small
+Man Very Genteal, well informed, a <persName>Schollar</persName>, and stands high at
+the Bar   is I should think under 85.&#8212; there is a <persName>Col Oden</persName> living<pb n="85"/>
+here from <placeName>Arkensa </placeName>also, a Man of Wonderfull Physical and 
+Intellectual powers, was, but not now an intimate friend of <persName>Col Quarle</persName>'s&#8212;</p>
+
+<p><persName>John Sibley </persName>   [Rubric]</p>
+
+<p>P. S&#8212;you have not informed me about my claim on the <placeName>Estate</placeName>
+of <persName>Mc. Farlane</persName>.&#8212;Since Writing the above we have had more 
+particularly the Return of our Election <persName>Derbigney </persName>will be our <persName>Governor</persName>-
+White for <persName>Congress </persName>in place of <persName>Livingston</persName>. <persName>Gurley </persName>Reelected&#8212;
+<persName>Overton </persName>in place of <persName>Brent</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

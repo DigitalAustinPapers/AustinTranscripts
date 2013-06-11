@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1578">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel Parkman to Stephen F Austin, 08-01-1828</title>
+            <author>
+                <persName>Samuel Parkman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-07">08-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Petit Saw Bluff, Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 85-86
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-08-01">08-01-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Contemplates emigrating to Texas; asks Austin many questions about the country.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Petit Saw Bluff Missouri</placeName> <date when="1828-08-01">August 1st 1828</date></p>
+<p><persName>Col Austin</persName></p>
+
+<p>Sir A desire which I have for some time entertained to have a
+knowledge of the distinguishing characteristics of the <placeName>Province of
+Texas</placeName> has been of late much increased by the perusal of some of
+your letters published in the <placeName>papers of this country</placeName>. I write at this
+[time] to request a minut description of the <placeName>country </placeName>but the more
+particularly of that part of the <placeName>country </placeName>in which you are established
+I am under the impression that you have obtained of the <persName>Mexican
+Government</persName> an extensive <placeName>Country </placeName>which you are now Colonizing,
+For the sake of brevity I will condense the subjects of my enquiries
+into the following questions. How far is your <placeName>Colony </placeName>from the
+<placeName>Gulf Coast</placeName>? Is the country Mountainous or level. How Large are
+the<placeName> Rivers Colorado</placeName> and <placeName>Brasos</placeName>? Do they in any considerable 
+degree afford facilities for navigation? What proportion do the<placeName> rich
+lands bear to the poor or barren lands</placeName>? I have taken the Idea that
+<placeName>lands along the rivers</placeName> are extremely fertile but that the <placeName>intermediate
+hills</placeName> were dry and barren. Am I right? Is it a <placeName>timbered Country</placeName>
+What is the extent of your <placeName>grant</placeName>? Is it Surveyed? Is the <placeName>country</placeName>
+in general explored and Surveyed? What enducements can you
+hold out to a <persName>Surveror </persName>who is a complete master of the business in
+all its branches? Are you in want of a person to assist you in 
+making your map of the <placeName>Country</placeName>? Are the <placeName>unoccupied lands</placeName> in the
+hands of the general Government of <placeName>Mexico </placeName>as in this <placeName>Country</placeName>?
+What Route would you recommend to <persName>emigrants </persName>from the <placeName>States on
+the Ohio River</placeName>. What time is required to Sail from your <placeName>Colony </placeName>to
+the <placeName>port </placeName>nearest to the <placeName>City of Mexico</placeName>. I have now given you some
+of the leading points uppon which I desire information. There
+may be others which may occur to you if so I shall be grateful
+for their insertion. I have an intention of visiting your <placeName>country </placeName>if
+the prospects shall appear favorable. I am a <persName>Surveyor </persName>and in that
+business would wish to be employed either in <placeName>Texas </placeName>or elsewhere in<pb n="86"/>
+the <placeName>Mexican Provinces</placeName>. I am aware that the number of my enquiries
+may intrude uppon your leisure but you may rest assured that in
+giving me the desired information you will confer a verry 
+particular favor and not only on myself but a verry considerable 
+number of my <persName>acquaintances </persName>who have some Idea of emigrating I must
+request that you will answer as early as convenient</p>
+
+<p><persName>Samuel Parkman</persName></p>
+
+<p><persName>Con Austin</persName></p>
+
+<p><placeName>San Felippe de Austin Texas</placeName></p>
+
+<p>P. S. If convenient I would be happy to see a small <placeName>map </placeName>of your
+<placeName>colony </placeName>Direct to <placeName>Petit Saw Bluff La Fayette Co Missouri</placeName> via <placeName>St,
+Louis Missouri</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
