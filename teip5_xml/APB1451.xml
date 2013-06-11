@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1451">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. R. Poinsett, 11-03-1827</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. R. Poinsett
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1703-1705
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-11-03">11-03-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Transmitting petition from David G. Burnet asking permit to establish a colony from Ohio in the border reserve. Exclusion of slavery checks immigration from Southern States; presumes the Government will encourage movement from the free States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo</placeName>, <date when="1827-11-03">November 3, 1827</date>
+</p>
+<p><persName>Hon. J. R Poinsett</persName>,</p>
+
+<p>Sir&#8212;¦ At the request of my friend <persName>Mr David G. Burnet</persName> of
+<placeName>Ohio </placeName>I inclose you two letters of recommendation, one from the
+<persName>Hon. H. Clay</persName> and the other from the <persName>Hon. E. A. Brown.</persName></p>
+
+<p><persName>Mr. Burnet</persName> has obtained from the <persName>Gov't of this <placeName>State </placeName></persName>authority
+to colonise a district of <placeName>Country lyying west of Nacogdoches</placeName> and as
+it is a small strip he wishes to annex to it a <placeName>portion of country ex-<pb n="1704"/>
+tending East from said village to the Sabine river,</placeName> but as this latter
+is embraced <placeName>within the twenty border leagues reserved by the 
+Colonization Act</placeName>, it cannot be colonized without the previous permission
+of the <persName>President </persName>and <persName>Mr. Burnet</persName> has presented a memorial to that
+effect which goes on by this mail to the <persName>minister of relations</persName> 
+recommended by this Gov't.</p>
+
+<p>His object in directing his attention to this enterprise is to settle
+a number of reputable <persName>farmers </persName>from the <placeName>State of Ohio</placeName>, who find it
+inconvenient to provide lands in that <placeName>country </placeName>for their large and
+increasing <persName>families </persName>owing to its excessively high price. The 
+morality, industry and agricultural enterprise which characterize the 
+<persName>inhabitants of <placeName>Ohio </placeName></persName>are well known and proverbial, slavery is 
+unknown amongst them, they are " principled " against it, every man
+is a <persName>laborer</persName>, and in this particular to their other recommend able
+qualities, they unite a principle which is in strict accordance with
+the broad ideas of liberty and universal emancipation laid down in
+the State Constitutions, and so strenuously urged in legislative 
+deliberations&#8212;</p>
+
+<p>The restrictions as to Slavery in this <placeName>State </placeName>present very material
+obstacles to the settlement of <placeName>Texas </placeName>by <persName>emigrants from the <placeName>southern
+States</placeName></persName>, and should it be the wish of the <persName>Mexican Gov't,</persName> to convert
+that fine portion of its <placeName>territory </placeName>from a <placeName>savage wilderness </placeName>and 
+useless dead burthen on the <placeName>nation</placeName>, to a populous, civilized and 
+cultivated state capable of contributing a material quota towards 
+national incomer wealth and prosperity, sound policy, and expediency I
+should presume would approve of a decided encouragement of <placeName>Ohio</placeName>
+and other northern emigration. As regards national policy, I can
+see no objection to <persName>emigrants </persName>from our <placeName>sister republic</placeName>, similitude
+of political institutions, unity of genl interests, absence of cause for
+a difference in local interests and enthusiastic love of liberty, present
+natural and mutual guarantees of perpetual harmony and peace 
+between the two <placeName>nations</placeName>. Not so with the <placeName>nations of Europe</placeName>, who are, and must ever be the natural <persName>enemies of <placeName>American </placeName></persName>prosperity; and
+besides, the kind of <persName>emigrants </persName>that may be brought from <placeName>Europe </placeName>for
+colonizing purposes will not be of the class calculated to advance the
+<persName>lower orders of Society </persName>for the purpose of filling a contract, they
+will not in general possess the enterprise, perseverance and morality
+so indespensable to settle a wilderness, whereas <persName>emigrants </persName>from the
+<placeName>north</placeName>, to these and many other good qualities will add Capital&#8212;such
+<persName>emigrants </persName>certainly cannot be compared with the overflowings of
+the redundant population of <placeName>Europe</placeName>&#8212;</p>
+
+<p><persName>Mr. Burnet</persName> is in <placeName>Nacogdoches </placeName>and in obedience to his wishes, as
+well as to comply with my duty as a friend, I have troubled you<pb n="1705"/>
+with this letter, and solicit such aid with the minister of relations in
+favor of the application as may be consistent.</p>
+
+<p>I embrace this opportunity to present my warmest wishes for your
+health and happiness and big you to accept the assurance of respect
+and esteem with which I have the honor to remain
+your very Obt. Servt.</p>
+
+<p><persName>Stephen F. Austin</persName>&#8212;</p>
+<p>P. S.    Any communications relative to <persName>Mr Burnet</persName>'s business which
+you may think proper to make will reach their destination directed
+to me " en la villa de<placeName> San Felipe de Austin, Texas,</placeName> (por el <placeName>Saltillo</placeName>)"</p>
+
+<p><persName>Estevan F. Austin</persName>.</p>
+<p><date when="1827-11-05">Nov. 5</date>&#8212;I enclose copies of <persName>Mr. Burnet</persName>'s petition and the "in-
+forms " of the Govt.</p>
+
+<p><persName>A.</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

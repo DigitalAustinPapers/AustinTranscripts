@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1478">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. H. Bell, 01-08-1828</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-29">07-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 5
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-01-08">01-08-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning reservation of land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr Sir,</p>
+
+<p>I recd your letter by <persName>Col Philips</persName> relative to the place that was
+reserved to the <date when="1828-01-01">1 of this month</date> for your<persName> motherinlaw&#8212;</persName>-On the <date when="1828-01-01">first
+day of this</date><persName> Mr. Duke</persName> applied for the same <placeName>place </placeName>pr <persName>Mr Moore</persName> who
+lives in <placeName>Bay Prairie</placeName> and presented a letter from <persName>Moore </persName>on the 
+subject&#8212;I was compeled to say that on that day all previous promises
+of the place were out, and that it was therefore vacant, and it was
+consequently entered pr <persName>Mr. Moore</persName>&#8212;I could not do otherwise-&#8212;</p>
+
+<p>I expect to be at my<placeName> <persName>brother</persName>s</placeName> about the <date when="1828-01-20">20 of this month</date> and will
+call and see you, tho my stay below will be very short, not more
+than one day&#8212;</p>
+
+<p>Remember me to<persName> Mrs Bell</persName>,</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p><date when="1828-01-08">Jany. 8. 1828</date>&#8212;</p>
+<p><persName>J. H. Bell</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

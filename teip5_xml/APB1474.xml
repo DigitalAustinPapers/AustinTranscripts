@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1474">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Richard Ellis to Stephen F. Austin, 01-03-1828</title>
+            <author>
+                <persName>Richard Ellis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-29">07-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Tuscumbia, Alabama</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 2-5
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-01-03">01-03-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agriculture depressed by tariff and taxes. Fifty families ready to emigrate to Texas if allowed to introduce their slaves.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>State of Alabama</placeName></p>
+<p><placeName>Town of Tuscumbia</placeName></p>
+
+<p><date when="1828-01-03">3rd Jany. 1828</date></p>
+<p><persName>D. Colo</persName></p>
+
+<p>I beg leave to introduce to your aquantence and notice <persName>Mr Silus,
+Ephram</persName> and <persName>Benjmn Fuqua</persName> and <persName>Mr Job Ingram</persName> and <persName>Kye Ingram</persName>,
+these <persName>Gentlemen </persName>have emigrated to your <placeName>Coloney </placeName>to become 
+permanent <persName>settlers</persName>&#8212;The <persName>Mr Fuquas</persName> are <persName>Mechanics</persName>, two of them of the
+best kind; they are honest and respectable <persName>men </persName>and are determined
+to suport the Government to which they go, I have had much
+conversation with <persName>Mr Silus Fuqua</persName>, on the present and future 
+prospects of your <placeName>coloney</placeName>; and tho he has never seen it, he has a most
+corect idea of its great advantages, you will find him an inteligent
+man and I have no doubt will be an acquisition to your <placeName>Setlement</placeName>, I
+have known these <persName>gentlemen </persName>twelve years, the <persName>Mr Ingrains</persName> I have
+not known personaly but from their universal good character and
+the <persName>Gentlemen </persName>they go with, I feel no hesitation to recomend them
+to your attention;</p>
+
+<p>On my arival in the<placeName> U. S.</placeName> I found Agriculture fast declining in
+all the <placeName>Middle and Southern region of our country,</placeName> oppressed with
+heavey duties on imports from a broad and taxes at <placeName>home</placeName>, and the
+<persName>people </persName>burthened with debts, many of which were no doubt 
+contracted in more <hi rend="italic">prosperous times</hi> that I could not help runing a
+parallel in my mind between the happy condition of the <persName>adopted
+citizens </persName>of your <placeName>country </placeName>and the people of this; indeed frankness
+and candure impels me not to withold from you the expressions of
+the opinions and thoughts that have so repetedly obtruded 
+themselves on my mind; (that is) that every <persName>family </persName>ought to bless his<pb n="3"/>
+happy star that conduced them to a <placeName>country </placeName>blessed with the finest
+soil in <placeName>North Amarica</placeName>, with plenty, health, peace and happiness&#8212;
+and if they act wisely (as I hope and trust they will) they will
+foster and cherish the Government they live in, which will be the
+certain means of preserving their estamible rights unimpaired; and
+a sure protection of their property&#8212;while on the contrary in this
+<placeName>country </placeName>there are hundreds and thousands of <persName>familes </persName>who do not
+own a foot of land nor have they any hope of ever doing so (I mean
+of any <hi rend="italic">real value</hi>) who are barely able to sustain themselves with
+the most common coarse food and raiment&#8212;In the short time since
+my arival at home I have assertained beyond question that 40 or 50
+<persName>families </persName>would emigrate with me <date n="Fall - 1829">next fall</date> to your <placeName>country </placeName>if they
+could introduce their <persName>slaves</persName>, many of them are <persName>large holders</persName> of that
+description of <persName>property</persName>; and I consider it a duty I owe myself as
+well as you, to assure you that I shall moove to your <placeName>country </placeName>next
+<date n="Fall- 1829">fall </date>if I can with safety bring mine; for I find I have not one <persName>slave</persName> that is willing to be sold from me;</p>
+
+<p>I feel a deep interest in the prosperity of your <placeName>country </placeName>and hope
+you will do me the favour (for I shall prise it highly) to write to me
+by the <persName>first safe hand</persName> after the receipt of this letter; let me know if
+we will be alowed to bring in <persName>Slaves </persName>under any circumstances, if not
+what are the future prospects&#8212;what has been done with my 
+petition, can I locate the <placeName>Heseandar </placeName>[hacienda] <placeName>on the west bank of the
+colorado River</placeName></p>
+
+<p>If I can bring in fifty <persName>families</persName>, I believe I can get $50. a <placeName>League</placeName>
+from them, and I should give you one half if you will reserve good
+land for them as I have always thought that compensation not
+enough for the <persName>founder of a colony</persName> in adition to his <placeName>premium lands</placeName>&#8212;
+but this will depend on the <hi rend="italic"><persName>Slave </persName>Question</hi> can <placeName>fifty good Leagues
+be got between the colorado and auroyo lavaca&#8212;</placeName>that is now vacant&#8212;
+I know when you reach home how much you will be provoked and
+how much you will (on <hi rend="italic">many acounts</hi>) regret the deception and
+fraud played off on me and many respectable <persName>citizens </persName>of your <placeName>colony</placeName>
+by <persName>William Pettus</persName>&#8212;for he even sold my <persName>boddy servant</persName> and did not
+take (perhaps) a dollar with him to the <placeName>Rio Grande</placeName> to purchase
+Mules for me, for his <persName>wife </persName>said in my presens she allways blamed
+him for not carring the money with him; nor have I received one
+cent for the fine mar I caried to that <placeName>country </placeName>for all he paid me
+dos not even pay the interest upon the debt&#8212;I paid for him as an
+inocent security Such an abuse of confidence, and once I admit
+friendship; proves beyond the most remote possibility of a doubt, a
+dereliction of all honourable principal and a depravity of <hi rend="italic">hart </hi>that
+can never be reclaimed nor reformed, I believe I might use the same
+language to you <persName>Sir John Falstaff</persName> did to <persName>prince Henry</persName> (of <placeName>Poins</placeName>)<pb n="4"/>
+"he is the most omnipotent <persName>villain </persName>that ever cried stand to a true
+man's what he has done with all the property, goods and money,
+he had</p>
+
+<p>[Richard Ellis.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

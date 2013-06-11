@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1473">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. H. Bell, 01-01-1828</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-29">07-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. H. Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Lower Settlement, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1-2
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-01-01">01-01-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting ticket for election of first ayuntamiento of San Felipe.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1828-01-01">Jany 1-1828</date></p>
+<p>Dr Sir,</p>
+
+<p>I am happy to find myself once more amongst my large <persName>family</persName>
+after so long an absence</p>
+
+<p>On the <date when="1828-02-03">3 </date>and <date when="1828-02-04">4 of Feby next</date> the genl election comes on in the
+<placeName>several districts</placeName> for one <persName>Alcalde</persName>, two <persName>regidores </persName>or <persName>aldermen </persName>and one
+<persName>sindico procurador </persName>for the <placeName>whole colony</placeName>&#8212;these <persName>officers </persName>compose the
+<persName>Ayuntamiento </persName>or <persName>municipal corporation</persName>&#8212;great power is given to
+this <persName>corporation </persName>by the laws, and much depends on getting in good
+and intelligent <persName>men</persName></p>
+
+<p><persName>Kinny </persName>has positively refused to serve as <persName>Alcalde</persName>, and I think that
+<persName>Ira Ingram</persName> will be the best we can get&#8212;he is compelled to live in
+this <placeName>place </placeName>and it will not be as injurious to him to be absent from <placeName>home</placeName>
+as some others&#8212;in my opinion he is well qualified for the office
+and will do credit to the <placeName>colony </placeName>The <persName>Ayuntamiento </persName>must meet
+once a month at this place which will be a little inconvenient for
+those who live at a distance</p>
+
+<p>I think <persName>J. H. Bell</persName>&#8212;<persName>Wm Morton</persName> and <persName>L. K. Kinny</persName> ought to be
+the two <persName>regidores </persName>and the <persName>sindico Procurador</persName>&#8212;or if either of these
+will not serve <persName>M. B. Nuckols</persName> who lives here and is a very good and
+intelligent man.</p>
+
+<p>The nearer they could be elected to this place the better for they
+ought to meet at least once a month and sometimes of tener, and
+there is no kind of compensation allowed to them by law&#8212;Should
+the <persName>Alcalde </persName>be unable to act from sickness or death etc the <persName>alderman</persName>
+who had the highest vote takes his place which makes it still more
+important to elect good men&#8212;<persName>Rawson Alley</persName> has also been spoken
+of and he would make a good one also <persName>T. M. Duke</persName>, If you do not
+wish the appointment (which I presume you do not) for it will
+put you to great trouble owing to the distance you live from here, I
+think that <persName>Kinny </persName>and <persName>Morton </persName>for <persName><hi rend="italic">regidores </hi></persName>and <persName>Nuckols </persName>for <hi rend="italic"><persName>Sindico
+Procurador</persName> </hi>will be the best we can get&#8212;Write me your opinion on
+the subject and wheither <persName>Ingram </persName>for <hi rend="italic">Alcalde</hi>&#8212;<persName>Kinny </persName>and <persName>Morton</persName>
+for <hi rend="italic">regidores </hi>and Nuckols for <hi rend="italic">Sindico Procurador</hi>, will suit the<pb n="2"/>
+<persName>people </persName>in that <placeName>quarter</placeName>&#8212;if not write me what ticket you think will
+suit them&#8212;let us try and be united and harmonious in this election
+I have sent the <persName>Alcalde </persName>of that <placeName>district </placeName>full instructions on the
+subject of conducting the Election&#8212;the forms etc and a <placeName>circular</placeName>
+which will give you an idea of the nature of the new system&#8212;</p>
+
+<p>remember me to <persName>Mrs Bell</persName>, it is a long time since I have seen her
+and I feel anxious to visit you and see you all once more. When the
+election is over I shall be free and will come and see you&#8212;</p>
+
+<p><persName>S F, Austin</persName></p>
+<p>[Addressed:]<persName>Mr. J. H Bell</persName>
+<placeName>Lower Settlement</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

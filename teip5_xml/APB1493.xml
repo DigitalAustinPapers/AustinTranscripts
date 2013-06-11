@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1493">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J C Peyton to Stephen F Austin, 02-06-1828</title>
+            <author>
+                <persName>J C Peyton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-30">07-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 13
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-02-06">02-06-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Ferriage.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Austin </persName>in Account with <persName>J. C. Peyton</persName></p>
+
+<p><persName>Col. Stephen, F. Austin</persName>                                                  Dr          $   cts</p>
+<p><date when="1827-01-02">January 2,1827</date> To Ferry Accompts</p>
+
+<p>By <persName>Washington </persName>and <persName>Henry</persName>-------------  1 1/2</p>
+
+<p><date when="1827-01-03">3</date>  By <persName>Washington </persName>G[oing]  and C[oming]------     25</p>
+
+<p>Ditto By <persName>Henry </persName>Gowing [going]-----  1 1/4</p>
+
+<p><date when="1827-01-23">23</date> By <persName>negro girl</persName> gowing---- 6 1/2</p>
+<p><date when="1827-01-24">24</date>   By <persName>Negro Boy</persName> <persName>C and G</persName>------ 12 1/2</p>
+<p><date when="1827-01-26">26Jany</date>&#8212;  <p>To self and <persName>Company g and c</persName> from</p></p>
+
+<p>a Dinner at <persName>Mr Westall</persName>s 15 persons-------1.87 1/2</p>
+<p>By <persName>Morley Waller</persName> <persName>G and C-</persName>--- 12 1/2</p>
+
+<p>By <persName>Spaniard </persName>Coming-------------6 1/2</p>
+
+<p>Self gowing-------------12 1/2</p>
+
+<p><date when="1827-01-28">28</date>    By <persName>Spaneard </persName>gowing--------------- 12 1/2</p>
+
+<p><date when="1827-02-05">Feb</date>.           Ditto By 2 Ferriages------- 12 1/2</p>
+
+<p>5                  Ditto By Bay 3 ferriages------------- 18 1/2</p>
+
+<p><date when="1827-02-06">6                  </date>By <persName>Spaneard </persName>and <persName>Washington </persName><persName>g and c&#8212;.</persName>------------------_-----       25</p>
+<p>
+By <persName>Washington </persName>Gowing------------12 1/2</p>
+
+<p>By <persName>Perroagne </persName>after Corn-------50</p>
+
+<p>$4.18 3/4</p>
+<p>Paid on settlement <date when="1828-10-11">Oct. 11, 1828&#8212;</date></p>
+
+<p>[Indorsed:] <persName>J. C. Peyton</persName> Ferry a/c</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
