@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1209">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>B. J. Thompson to Stephen F. Austin, 07-22-1826</title>
+            <author>
+                <persName>B. J. Thompson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-23">06-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1386-1387
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-22">07-22-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Turbulence at Nacogdoches. Asks Austin to indorse his request for permission to organize a volunteer
+company for protection against Indians</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>State of Chuahuila and Texas</placeName></p>
+<p><placeName>District of Nacogdoches</placeName> <date when="1826-07-22">22 July 1826</date></p>
+<p>DrSiR</p>
+
+<p>In my Communication to you of <date n="02-xx-1826">Febuary Last</date> as Respects 
+obtaining a <placeName>grant </placeName>for Land in your <placeName>coloney </placeName>I Received a verbal Answer
+by my <persName>father </persName>that you had Disposed of all your Land That you was
+orthised to Let out at that Time&#8212;under those considerations I 
+contracted for a claim of Land in this<placeName> section of country</placeName>&#8212;but sir heave
+not abandoned the Idia of obtaining a <placeName>grant </placeName>of Land in your <placeName>Coloney</placeName>
+when you are orthised to Let the same&#8212;</p>
+
+<p>I could be verry well satisf yed to stay in <placeName>this section of the country</placeName>
+If I could Do it in Peace But we are in a verry confused situation, no
+Harmoney Existing, in society owing to the malesetious and 
+Restless Disposition of one individual who is <persName>James gains</persName>&#8212;But sir I
+will not Enter into a Detail of our grevances but will Refare you to
+<persName>Judge Williams</persName> The Berier a worthy <persName>sitizen </persName>of this <placeName>Nabourhd </placeName>for
+Infermation&#8212;When the<persName> People of this <placeName>section of country </placeName></persName>lernd that
+your <placeName>colony </placeName>was Like to be Ingaiged in a war with the <persName>savages </persName>on
+our <placeName>fruntears </placeName>I was seelisited to Raise or attempt to Raise a <persName>company
+of volanteers</persName> to assist your or Do and perform all services Required<pb n="1387"/>
+in Defence of our <placeName>country</placeName>&#8212;I applied to the sd <persName>James gains</persName> and the
+<persName>alcalde of <placeName>Nacogdoches</placeName></persName> who assumed the commend of the <persName>Malitia </persName>of
+this <placeName>Districk </placeName>for Permeetion to Raise a <persName>company </persName>of that kind which
+was granted</p>
+
+<p>on the <date when="1826-07-12">12 of this Instant</date> I Drew and article (which you will see
+in my communication Through you to the government&#8212;marked No
+(1) my first attempt and my success, and on the <date when="1826-07-21">21st</date> I receved the
+order from the <persName>alcalde </persName>that you will find marked in said 
+communication No (2) forbiding me to Proseed any further I concluded to
+stay any further Proseeding untill I could ask the Permission of
+government for order to organise a <persName>company </persName>of that kind or 
+Directions to Desist and abandon the Idea of any further Persuit on the
+subject I have taken the liberty to make my communication through
+you to the <persName>governor of these States</persName>, If you can feel a willingness to
+assist us I know It is in your Power and your friendship would be
+greatfully Remembered by the good <persName>People of this <placeName>District </placeName></persName>I hope
+sir from our long acquaintance you could not harbor any Idia of any
+unfriendly motives I had in my attempt to Raise sd <persName>Company </persName>I
+do assirt to you upon the honer of a man that It was from the Purest
+motives and only to Raise the <persName>company </persName>for the Purpose as mentioned
+in my communication and to Establish Peace and Hormioney in the
+<placeName>country</placeName>&#8212;If you concer in the steps I heave taken I hope sir you will
+Lend me your assistance in sending on my Patisction to government
+in a maner that you think will be Recived making any alteration you
+may Deem nessary not to alter the Intent or meaning there off&#8212;I
+should be much Pleased to heave your oppinion on the subject and
+what Ever you advise I will cheerfully submit to I could Raise a
+Hundred stout hardy Resolute men men to assist you If nessary
+well armd and acquipt all we want is the sanction of government
+which I hope we will obtain</p>
+
+<p>My <persName>Father </persName>and <persName>Brother </persName>wishes to be Remembered to you&#8212;Pleas</p>
+
+<p>to Remember me to your <persName>Brother</persName>, and Accept for your self the Best
+wishes</p>
+<p>Your verrey Humble servent</p>
+
+<p><persName>B, J, Thompson</persName></p>
+<p><persName>Col. S, F, Austin</persName>   </p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

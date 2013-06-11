@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1210">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>T. Farelly to Stephen F. Austin, 07-22-1826</title>
+            <author>
+                <persName>T. Farelly</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-30">06-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Little Rock, Arkansas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Province of Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1387-1389
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-22">07-22-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking assistance in collecting debt from one Peter Tyler. Enclosures.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Little Rock Arkansas</placeName></p>
+
+<p><date when="1826-07-25">July 25th 1826</date></p>
+<p><persName>Stephen F. Austin Esqr</persName></p>
+
+<p>Dear sir   Presuming on the acquaintance I had with you while
+a <persName>citizen </persName>of our <placeName>Territory</placeName>&#8212;I have taken the liberty of enclosing<pb n="1388"/>
+a transcript of a Judgmt in my favour against <persName>Peter Tyler</persName> who
+formerly lived on <placeName>white River</placeName> in this <placeName>Territory </placeName>and whom you may
+have perhaps seen, while a resident here&#8212;he <persName>Tyler </persName>has been 
+reported as dead and letters of administrad granted on his <persName>Estate</persName>&#8212;
+but in consequence of the unsettled way in which he left his busness
+nothing has been obtained by the <persName>administr </persName>to satisfy the debts he
+was owing&#8212;many persons on <placeName>white River</placeName> where he formerly lived
+believe he is still living, and residing in some part of your 
+<placeName>settlement</placeName>&#8212;should this be the case he no doubt has property sufficient
+to satisfy the balance due me of the judgement. If <persName>Tyler </persName>is still
+living and in your <placeName>settlement </placeName>as reported&#8212; and you can do any
+thmg to secure this debt, it will lay me under obligations to you,
+which I shall always be happy to have it in my [power] to 
+reciprocate. I dislike to trouble you with this business and should not have
+done it&#8212;were it not for the assurance of our mutual friends <persName>Mesrs.
+Scott and Crittenden</persName></p>
+
+<p><persName>T. Farrelly</persName>,</p>
+<p>NB   Will you have the goodness to drop me a line on this 
+subject,   direct " <placeName>Post of Arkansas </placeName>"</p>
+
+<p>Dr Sir:</p>
+
+<p>The inteligence that you have rendered our mutual friend 
+<persName>Terrence Farrelly</persName> assistance on the subject of the enclosed business will
+be received with great satisfaction by us&#8212;we know the claim to be
+a just one, and believe that <persName>Tyler </persName>has not acted as a good <persName>citizen</persName>
+of your <placeName>colony </placeName>should act with regard to it,&#8212; Our respective 
+<persName>families </persName>are all in health&#8212; we have seen a <persName>gentelman </persName>by the name of
+<persName>Gross </persName>direct from your <placeName>settlement </placeName>a few days since who gives us
+a most flattering account of your porsperity and popularity&#8212; May
+both increase while life lasts is the prayer of your devoted friends</p>
+
+<p><persName>Andrew Scott</persName></p>
+<p><persName>Robt Crittenden</persName></p>
+<p>[Addressed:] <persName>Stephen F Austin Esqr</persName> <placeName>Province of Texas</placeName></p>
+<p><persName>Mr. Gross</persName>.</p>
+
+<p>[Enclosure]</p>
+
+<p>Amongst the Records and proceedings of this <persName>Circuit Court of
+Independence County</persName> appears the following</p>
+<p><persName>Terrence Farrelly</persName> against <persName>Peter Tyler</persName></p>
+
+<p>In debt   Vacation <date when="1822-04-01">Apl 1 1822</date></p>
+
+<p>This day personally appeared before me <persName>Thomas Curran Clerk
+of the <placeName>Circuit Court (of the first Judicial District)</placeName> in and for
+the <placeName>county of Independence</placeName> and <placeName>Territory of Arkansas</placeName></persName> the above
+named <persName>Peter Tyler</persName> and says he cannot deny the demand of the<pb n="1389"/>
+said <persName>Terrence Farrelly</persName>, nor but that he is indebted to him in the
+sum of Twenty Four hundred and fourteen dollars and 88/100
+cents Therefore it is considered that he recovered of said <persName>Tyler </persName>the
+said sum of Twenty four hundred and fourteen dollars and 88/100
+together with his costs of suit</p>
+<p>Attest</p>
+
+<p>(Signed)           <persName>Thomas Curron Clk</persName>.</p>
+
+<p>Upon Execution returnable the May term Eighteen hundred
+and twenty three and which appears to have been the last 
+Execution that any money was made issued upon the foregoing judgment
+there is a credit endorsed thereon for <hi rend="italic">thirteen hundred cmd seventy
+one dollars seventy one cents</hi>.</p>
+
+<p>[Enclosure]</p>
+<p><placeName>Territory of Arkansas</placeName></p>
+
+<p><placeName>County of Independence</placeName></p>
+
+<p>I <persName>John Redmon Clerk of the Circuit Court</persName> for the said county
+within the territory aforesaid do hereby certify that the forego [i]ng
+is a true copy (found upon record) of a Judgment confessed by
+<persName>Peter Tyler</persName> (in vacation) in favor of <persName>Terrence Farrelly</persName>, and further
+the aforesaid amount of thirteen hundred and seventy one dollars
+seventy one cents is the amount credited on the execution returnable
+as before stated.</p>
+
+<p>In Testimony whereof I have hereunto set my hand and affixed
+the seal of the <persName>Circuit Court of said <placeName>County at Batesville</placeName> </persName>this <date when="1826-07-17">17 day
+of July A D 1826</date> of the Independence of the <placeName>United States</placeName> the 51st
+year</p>
+
+<p>(Signed)           <persName>John Redmon <hi rend="italic">Clk</hi></persName></p>
+
+<p>Judgment_____________________________________________________2414.88</p>
+
+<p>Interest <date when="1826-04-01">1st Apl. 1826</date>____________________________________________   589.46</p>
+<p>
+Cost___,&#8212;._________-________________________-__________________       6. 70</p>
+<p>
+$3011.04</p>
+
+<p>Credit on Execution returnable to <date n="05-xx-1826">May ? 1823</date>_______________1317.17</p>
+
+<p>Interest on credit to <date when="1826-04-01">1st Apl 1826</date>_________________________   267. 37</p>
+
+<p>-----------1638.54</p>
+
+<p>1372.50</p>
+<p>Interest from <date when="1826-04-01">Apl 1st. 1826</date> till paid upon the Balance</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

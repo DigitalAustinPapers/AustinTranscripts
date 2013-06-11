@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1201">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 07-17-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-23">06-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1374
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-17">07-17-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting attack on Gonzales by Comanche and Tahuacano Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I conceive it to be my duty to inform your <persName>Lordship</persName>, that, a few
+days since, a parcy of about sixty <persName>Comanche </persName>and <persName>Tahuacano Indians</persName>,
+visited the <placeName>settlement </placeName>of the <persName>Empresario, Green De Witt</persName>. In the
+town of <placeName>Gonzales </placeName>in the <placeName>Guadalupe</placeName>, they <persName>killed </persName>one man and <persName>wounded</persName>
+another; they destroyed all the furniture of <placeName><persName>Mr Kerr</persName>'s house</placeName>, and
+stole all the horses they could find. The <persName>settlers </persName>retreated to this
+<placeName>Colony</placeName>, not knowing what to do; they had a certain quantity of corn
+sowed, and, but for this unfortunate occurrence, their <placeName>Colony </placeName>would
+be in a very thriving condition.</p>
+
+<p><persName>Mr Kerr</persName> was absent at the time; so soon as he heard of it he 
+returned to <placeName>Gonzales </placeName>with a <persName>party </persName>of men from <placeName>Colorado</placeName>. The 
+<persName>Indians </persName>have disappeared, and he writes to me that he will shortly go to
+<placeName>Bexar</placeName>, to make his report to your <persName>Lordship</persName>, in person.</p>
+
+<p>God and Liberty</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-07-17">July 17th, 1826</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

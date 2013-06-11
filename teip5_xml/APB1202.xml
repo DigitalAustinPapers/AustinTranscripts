@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1202">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 07-17-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-23">06-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1375
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-17">07-17-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks instructions concerning procedure for legal separation of husband and wife.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I am under the necessity of consulting Your <persName>Lordship </persName>in relation
+to a legal case which arose in this jurisdiction, and to request you to
+give me your instructions as to the mode of proceeding which will
+be in conformity to the laws of the <placeName>Country</placeName>.</p>
+
+<p>One of the <persName>colonists </persName>behaves so badly toward his <persName>wife </persName>and <persName>family</persName>,
+that she can not bear his ill usage any longer. He is a <persName>drunkard</persName>
+and if there are no means of preventing him, will soon squander all
+the property they have. The <persName>family </persName>is composed of his <persName>wife </persName>and
+three <persName>daughters</persName>; the property consists principally of <persName>slaves</persName>, furniture and cattle, to the amount of 7 or 8,000 dollars, all of which
+belongs to the <persName>wife</persName>, as is shown by legal titles of possession. He
+received <placeName>land </placeName>here as a <persName>colonist</persName>, but having neglected to cultivate
+it as is required by law, he forfeits his right. Now, <persName>she </persName>wishes to
+be separated from him and to take possession of <placeName>her property</placeName> for
+her own and her <persName>children</persName>'s support. He refuses to permit her to do
+so, and threatens to take the <persName>negroes </persName>to the <placeName>United States of the
+North</placeName>; she is even apprehensive of her personal security. I have
+neither <placeName>jail </placeName>nor guard, nor the means of securing men of his 
+character and disposition. In his intoxication he treats me and the
+other <persName>public officers</persName> of this jurisdiction with contempt.</p>
+
+<p>As I am unacquainted with the law in such cases, and the form
+of proceeding therein, I request your <persName>Lordship </persName>to instruct me on
+the subject; and, also, to tell me what I have to do with those who,
+when intoxicated, abuse, and speak contemptuously of the 
+<persName>authorities</persName>. If such conduct is tolerated all respect will be lost and good
+order can not be enforced. The actual cause of these offences is,
+that these <persName>men </persName>are aware that we have no means of confining them,
+and, they say, the laws do not allow the punishment of flogging,
+and they have no money to pay a fine. What am I to do with such
+bad <persName>characters</persName>, who ought to be punished for disturbing the peace,
+and appearing, publicly, in a state of drunkenness?</p>
+<p>God and Liberty.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-07-17">July 17th 1826</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

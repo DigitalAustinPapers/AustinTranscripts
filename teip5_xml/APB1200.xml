@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1200">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>WIlliam Laughlin to Stephen F. Austin, 07-17-1826</title>
+            <author>
+                <persName>WIlliam Laughlin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburgh, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1374
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-17">07-17-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harrisburgh </placeName><date when="1826-07-17">July 17th, 1826</date></p>
+<p><persName>Coln Austin</persName></p>
+<p>Sir</p>
+
+<p><persName>John Kenney</persName> presented me with an order from you threw his
+Petition directing me to take<persName> S. C Hirams</persName> as bail on the order of
+atatchmentt against him in favour of <persName>Taylor </persName>warein your Honer
+directed a bond in the sum of ten hundred dollars wich <persName>Hiram</persName>s
+Refused houghever after pestering me a day or tew I recived a
+sorte of Bond for delivery of the Property altho not sattisfactory I
+delivered up the Property in my Poseson <persName>Mr. Taylor</persName> not being 
+satisfied Refused to deliver tew Cows and Calves which he had Promised
+to him some time since on account of <persName>Mr Bayles</persName> that he would not
+deliver until he had got- his Pay then insude som hard wordes 
+betwixt the <persName>Partys </persName>in wich <persName>Kenney </persName>adresing him self to <persName>Mrs Taylor</persName>
+cald her a damned old ------ware uppon <persName>Taylor </persName>seised his gun and
+swore he would shute him <persName>Kenney </persName>fled and thus Ended the Tragedy
+<persName>Kenney </persName>then in a bussel determined to seake Redress by a second
+application to your Honor Presentes me with a certificate stating
+sircumstances Reilitive to the proceding and lest it shoul not contain
+all and he mis Reppresent sircumstances I take this method to state
+to your Honor the facts   yours humbel servant</p>
+
+<p><persName>Wm. Laughlin</persName></p>
+
+<p><persName>Col S F Austin</persName> </p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
