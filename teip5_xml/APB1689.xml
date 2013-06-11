@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1689">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Nathaniel Cox, 03-10-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Nathaniel Cox
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 181
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-03-10">03-10-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Wants to settle with the Hawkins estate on account of Hawkins's assistance in settling his first colony. Will visit New Orleans if Cox is authorized to settle. Lack of time and money will make visit short.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1829-03-10">March 10, 1829</date></p>
+<p><persName>Mr Nat. Cox</persName></p>
+<p><placeName>New Orleans</placeName></p>
+
+<p>Sir,</p>
+
+<p>I shall be fully prepaired by the middle or <date when="1829-04-30">last of next month</date> to
+make a final settlement and division of the interest which our friend
+<persName>Hawkins </persName>had in the land granted to me by the <persName>Mexican Govt</persName>, for
+settling this <placeName>Colony</placeName>, and I have to request of you to inform me by
+<persName>Mr John Austin</persName>, who will present this, whether you are fully
+Authorised as the <persName>agent </persName>of <persName>Hawkins </persName>Estate to close that business,
+for in the event of your being thus authorised I will visit <placeName>New
+Orleans</placeName> the next trip of the Schooner Eclipse, which will be some
+time in <date n="04-xx-1829">April next</date>&#8212;</p>
+
+<p>The title to the <placeName>land </placeName>cannot be vested in an <persName>alien </persName>and must remain
+in me or in some <persName>Mexican citizen</persName>, but I deem it necessary that a
+division and final settlement should be made, and all old contracts
+letters etc canceled and the business brought to a final close Should
+you wish that the title should still continue in me, and that I should
+take charge of the <placeName>property </placeName>and sell parts of it, or lease and settle
+other parts etc, I will do so cheerfully and faithfully, but this should
+be done under the authority of special instructions to that effect&#8212;¦
+from the legal <persName>agent of the Estate</persName> after the division is made and
+<persName>Hawkins </persName>part designated</p>
+
+<p><persName>Mrs Hawkins</persName> wrote to me to divide it myself and manage it as
+I deemed best but I prefer laying the plats all before you, as the
+<persName>agent </persName>and <persName>friend </persName>of the <persName>heirs </persName>and I also wish to consult with you as
+to the best mode of Making the <placeName>Estate </placeName>of some value to the <persName>heirs</persName>&#8212;</p>
+
+<p>My stay in <placeName>Orleans </placeName>must necessarily be short for two reasons,
+one is that my duty requires me here, and another is that I actually
+have not money to defray the expence of a long stay in that city&#8212;</p>
+
+<p>[Stephen F. Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

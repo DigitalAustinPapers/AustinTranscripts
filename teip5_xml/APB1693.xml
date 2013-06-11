@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1693">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Peter Ellis Bean to Stephen F Austin, 03-18-1829</title>
+            <author>
+                <persName>Peter Ellis Bean</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 192-193
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-03-18">03-18-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Assuring Austin that reports of Spanish invasion unfounded.   Opinion of law to protect debtors.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacagdoches </placeName><date when="1829-03-18">March the 18ths 1829</date></p>
+
+<p><persName>Sor Corl Dn Esteban F, Austin</persName></p>
+
+<p>My Dr Sir I have Recivd a letter from you with out Dait Stating
+that <persName>Corl Pedras </persName>had Sent you and ofiseal Stating that thare was
+an Expodision fiting out in the <placeName>Habana </placeName>for this <placeName>Cuntrey </placeName>thare was
+a rumor en <placeName>Neworlans</placeName> that en the <placeName>Habana </placeName>they was aPresing Vesels
+to Carry men to Some <placeName>Port</placeName>, But in a few Days after all Was 
+Contradicted and aserted that it was fals and By what I Can larn if
+the <persName>Spanish troops</persName> leaves <placeName>Havana </placeName>thare will with out [doubt] be a
+Revilusion in that Piase and I expect that in <placeName>Spain </placeName>they are now
+in the same as the <persName>french troop</persName> had orders to march from <placeName>Spain </placeName>and
+at that moment it was Begun in Some Parts of <placeName>Spain</placeName>, But the
+Reason that <persName>Col. Pedras</persName> Rote this ofisial Was that a <persName>Mexican </persName>Rote
+By me and Before he ast me aney thing about it he Startid and
+Extreordenero Express as he Done onse Before When he Said that
+the <persName>Royalists </persName>was in <placeName>tranity Bay</placeName> But you will See that all is
+Nothing I am hapy to hear that your Peopel is all united in Defens
+of the <placeName>Cuntrey </placeName>Whare thir Intrust lies I gave you thanks for the
+Copey of the Law that Delebrate [delivers?] the <persName>Settlers of this
+<placeName>Cuntrey </placeName></persName>from Paying Debts Before Contracted untill 12 years after
+the Date it will give Roome for men to make Property and not be
+Broke up as it has bin the wish of Some to Buy in the <placeName>united Staits</placeName>
+at and under value those Debts for spacilasion But I am hapy
+that thare is astop to all.</p>
+
+<p>as for <placeName>News Papers</placeName> I have at the moment None But I will Send you
+Some as you Direct me as Soon as Posibel&#8212;   I Should of answerd<pb n="193"/>
+your letter last Mail But it Never Came to hand untill the Mail
+was Goan</p>
+
+<p>I hop you will Pass the time well and Command Your friend</p>
+
+<p><persName>P. Ellis Bean </persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

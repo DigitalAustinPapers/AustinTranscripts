@@ -88,7 +88,9 @@ while (scalar(@ARGV) != 0)
     $fileContents =~ s/<\/<\/location_mentioned>p>/<\/location_mentioned><\/p>/g;
     # And more:
     # <</date_mentioned>/p>
+    # <</person_mentioned>/p>
     $fileContents =~ s/<<\/date_mentioned>\/p>/<\/date_mentioned><\/p>/g;
+    #$fileContents =~ s/<<\/person_mentioned>\/p>/<\/person_mentioned><\/p>/g;
     
     
     my $textId="TODO";
