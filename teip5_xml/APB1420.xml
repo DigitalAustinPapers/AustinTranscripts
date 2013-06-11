@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1407">
+xml:id="APB1420">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John W. Hall to L. R. Kenny, June 4, 1827</title>
+            <title>M. Slocum to Stephen F. Austin, 06-25-1827</title>
             <author>
-                <persName>John W. Hall</persName>
+                <persName>M. Slocum</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB1407">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-07-24">07-24-2010</date>
+            <date when="2010-07-25">07-25-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        L. R. Kenny
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB1407">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1656
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1662
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,43 +59,47 @@ xml:id="APB1407">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">letter</channel>
             <constitution type="single"/>
             <derivation type="original"/>
-            <domain type="domestic"/>
+            <domain type="private"/>
             <factuality type="fact"/>
             <interaction type="none"/>
             <preparedness type="prepared"/>
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date>June 4, 1827</date>
+            <date when="1827-06-25">06-25-1827</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-07-24" who="#DL">Digital creation of XML file</change>
+        <change when="2010-07-25" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Asking aid in correcting false statements.</add></p>
+            <p><add hand="#barker">Publication of Texan matter in Natchitoches.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><persName>Mr L R Kenny</persName></p>
-<p>Dear sir</p>
+<p>Natchitoches, June 25, 1827</p>
+<p>Col: S. F. Austin,</p>
 
-<p>I saw a few lines written By <persName>coln Austin</persName> to <persName>Mr Warren</persName> 
-informing him his petition could not Be Received I think that their
-Has Been some false and malisious statements made against <persName>Mr
-Warren </persName>and I wish you would Enquire in to it and iff so you will
-assist Him as a friend and it will accomodate yours with Respect</p>
+<p>Dr. Sir, Your favour by <persName>Gen. Fullerton</persName> with some <persName>Mexican</persName>
+papers and the account of the celebration of the adoption of the
+State Constitution have been duly recd for which you will please
+accept my thanks&#8212;The Celebration I will publish <date when="1827-07-01">next week</date>&#8212;The
+Constitution I had previously recd of <persName>Mr. J Durst</persName> who is having it
+published in a <placeName>pamphlet form</placeName>&#8212;I have given <persName>Mr. Cable</persName> several
+<placeName>papers </placeName>to forward you by<persName> Mr. Callaghan</persName> If at any time you should
+see fit to forward any news of your <placeName>country </placeName>it will be recd and 
+published with pleasure</p>
 
-<p><persName>John W Hall</persName></p>
+<p><persName>M Slocum</persName></p>
 
 
         </div1>

@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1407">
+xml:id="APB1419">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John W. Hall to L. R. Kenny, June 4, 1827</title>
+            <title>J. Cable to Stephen F. Austin, 06-26-1827</title>
             <author>
-                <persName>John W. Hall</persName>
+                <persName>J. Cable</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB1407">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-07-24">07-24-2010</date>
+            <date when="2010-07-25">07-25-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        L. R. Kenny
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB1407">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">Austin's Colony, Texas</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1656
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1662
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,33 +69,33 @@ xml:id="APB1407">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date>June 4, 1827</date>
+            <date when="1827-06-26">06-26-1827</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-07-24" who="#DL">Digital creation of XML file</change>
+        <change when="2010-07-25" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Asking aid in correcting false statements.</add></p>
+            <p><add hand="#barker">Introducing William Calahan.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><persName>Mr L R Kenny</persName></p>
-<p>Dear sir</p>
+<p><placeName>Natchitoches </placeName><date when="1827-06-26">26th June 1827</date></p>
+<p>Dr sir</p>
 
-<p>I saw a few lines written By <persName>coln Austin</persName> to <persName>Mr Warren</persName> 
-informing him his petition could not Be Received I think that their
-Has Been some false and malisious statements made against <persName>Mr
-Warren </persName>and I wish you would Enquire in to it and iff so you will
-assist Him as a friend and it will accomodate yours with Respect</p>
+<p>Permit me to introduce to your acquaintance <persName>Mr. William Calahan</persName>
+of this place who is on a visit to your <placeName>Settlement </placeName>any politeness
+shone him will be greatly acknowledged by your assured friend</p>
 
-<p><persName>John W Hall</persName></p>
+<p><persName>J. Cable</persName></p>
+<p><persName>Col. S. F. Austin</persName><placeName> Austin's Colony.   Texas</placeName></p>
+
 
 
         </div1>

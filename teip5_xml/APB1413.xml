@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1413">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert D. Dawson to Stephen F. Austin, 06-16-827</title>
+            <author>
+                <persName>Robert D. Dawson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-25">07-25-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Postmaster at Nachitoches
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="sender">
+                         Louisiana
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Madrid, Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin's Colony, Province of Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1658-1659
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="827-06-16">06-16-827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning collection of a note.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Madrid. Mri</placeName> <date when="1827-06-16">June 16th 1827</date></p>
+<p>Dear Sir</p>
+
+<p>You would no doubt pardon an old <persName>acquaintance </persName>under any 
+circumstances for presuming to write to you without prefacing his
+communication with " Your Excellency &amp;c &amp;c &amp;c but really and in
+truth I am not so Democratical in my feelings as to omit to give
+you your just and proper title from any repugnance of feeling but
+simply because I am ignorant of the title you really bear and beg
+you on this ground to excuse me</p>
+
+<p>A friend of mine <persName>Mr. Alexander La forge</persName> in a settlement with
+<persName>George Tennille</persName> some years ago obtain'd from him by assignment
+a note drawn in his favour by you for $1500.00 given as is 
+undestood by <persName>Mr Laforge</persName> in consideration of the purchace by you of some
+<placeName>land </placeName>from said <persName>Tennille</persName>, <persName>Mr Laforge</persName> is anxious to know whether he
+may justly entertain the expectation that you will ultimately redeem
+this obligation, and if so when and how it is contemplated to be
+done. He suffered greatly by <persName>Tennille</persName> whose obligation he now
+holds for a considerable amount independent of the note assigned
+him on you, and being in moderate circumstances only with a young
+and increasing <persName>family </persName>would be greatly benefitted by the receipt of
+the amount appearing to be due him by you.   On this subject he<pb n="1659"/>
+has frequently conversed with me and I have constantly assured him
+of my firm belief that if the debt was considered just by you&#8212;you
+would make no difficulty whatever in the payment of it whenever
+your means would enable you to do so. This cannot now be doubted
+as from the best information we are able to obtain the success of
+your <placeName>colony </placeName>is beyond a doubt, and if rightly judged of here must
+long ere this have secured you wealth in as great abundance as you
+have honors in your New Government</p>
+
+<p>You will confer a particular favor on me and render <persName>Mr Laforge</persName>
+a great kindness if you will write me fully on this subject as early
+as your convenience will permit and in addition my obligation will
+be heightened by the receipt of any information of the condition of
+your <placeName>colony</placeName>&#8212;province and Government which you may deem worthy
+of communication to an old acquaintance and friend</p>
+
+<p><persName>Robt D Dawson</persName></p>
+
+<p>The <placeName>Postmaster at Natchetoches</placeName> will confer a favour on the writer
+of this if he will forward this to its place of Destination by mail if
+there is any, if not by any safe private conveyance as early as 
+possible.</p>
+
+<p>[Addressed:] <placeName>New Madrid</placeName> <date when="1827-06-17">June 17th </date><persName>Stephen F Austin</persName> <placeName>Austin's
+Colony Province of Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

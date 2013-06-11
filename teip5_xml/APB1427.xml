@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1407">
+xml:id="APB1427">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John W. Hall to L. R. Kenny, June 4, 1827</title>
+            <title>Samuel A. Cartwright to Ira Lewis, 07-08-1827</title>
             <author>
-                <persName>John W. Hall</persName>
+                <persName>Samuel A. Cartwright</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,20 @@ xml:id="APB1407">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-07-24">07-24-2010</date>
+            <date when="2010-07-26">07-26-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
+                <person>
+                    <persName type="sender">
+                        Doctor Lyman Cronkrite
+                    </persName>
+                </person>
+
 
                 <person>
                     <persName type="recipient">
-                        L. R. Kenny
+                        Ira Lewis
                     </persName>
                 </person>
 
@@ -41,14 +47,14 @@ xml:id="APB1407">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Natchez,Mississippi</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1656
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1673
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,33 +75,34 @@ xml:id="APB1407">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date>June 4, 1827</date>
+            <date when="1827-07-08">07-08-1827</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-07-24" who="#DL">Digital creation of XML file</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Asking aid in correcting false statements.</add></p>
+            <p><add hand="#barker">Recommending a resident physician.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><persName>Mr L R Kenny</persName></p>
-<p>Dear sir</p>
+<p><p><placeName>Natchez </placeName><date when="1827-07-08">July 8th 1827</date></p>
+Dr. Sir</p>
 
-<p>I saw a few lines written By <persName>coln Austin</persName> to <persName>Mr Warren</persName> 
-informing him his petition could not Be Received I think that their
-Has Been some false and malisious statements made against <persName>Mr
-Warren </persName>and I wish you would Enquire in to it and iff so you will
-assist Him as a friend and it will accomodate yours with Respect</p>
+<p>I have heard you express a wish to have a <persName>physician </persName>in the 
+<placeName>neighborhood </placeName>of your <placeName>plantation </placeName>on the river. <persName>Doctor Lyman Cronkrite</persName>
+the <persName>bearer </persName>of this is looking out for a situation to locate himself
+as a practitioner of medicine. He has been recommended as a worthy
+young man well qualified for the duties of his profession.</p>
 
-<p><persName>John W Hall</persName></p>
+<p><persName>Saml A Cartwright</persName></p>
+<p>[Addressed:] <persName>Ira Lewis Esqr</persName></p>
 
 
         </div1>
