@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1434">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>C. B. Penrose to Stephen F. Austin, 09-10-1827</title>
+            <author>
+                <persName>C. B. Penrose</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Saltillo, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1678-1679
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-09-10">09-10-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking advice on subject previously proposed.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1827-09-10">Sep 10th 1827</date></p>
+<p>Dear sir</p>
+
+<p>I have, for some weeks past, waited for some communication from
+you, respecting by business, but my expectations have been 
+disappointed, Your last letter found me on the eve of departure for the
+<placeName>Bay</placeName>&#8212;and as you then mentioned your intention of immediately
+returning to <placeName>San Felipe</placeName>, I thought it unnecessary to write.&#8212;Upon
+my return to <placeName>Town</placeName>, I found you had prolonged your stay in <placeName>San
+Antonio</placeName>, and as there was a pressure of other and important business,
+I felt an unwillingness to obtrude my business upon your attention,
+subsequent events increased that unwillingness, and I have waited
+patiently untill the arrival of today's mail, in the hopes of your<pb n="1679"/>
+informing me of at least the disposition of my papers&#8212;my entire
+ignorance of their fate, induces me, to trouble you with the present
+communication and the only apology I can offer, is the importance of
+the business, to my future prospects&#8212;Your entire silence has
+induced me to suppose, that my business may possibly trench too
+much upon time, allready devoted to the welfare of <persName>individuals</persName>, who
+have claims upon your attention, I can pretend to none&#8212;if my
+supposition is correct, I can only express my regret that your 
+politeness should have mislead me</p>
+
+<p>It is still my intention to prosecute the business which brought me
+to the <placeName>Country</placeName>, and in conformity with your advice I intend going
+to the <placeName>City of Mexico</placeName> so soon as I can adjust some business in the
+<placeName>United States</placeName>, whither I shall go during the present month&#8212;I was
+and still am anxious to obtain the sanction of the <persName>state government
+</persName>for my projected enterprise, and feel well assured that that sanction
+would very much facilitate my business with the<persName> Genl Gov</persName>&#8212;If you
+can do so without interfering too much with your business I should
+feel myself much indebted to you if you would present my petition
+to the consideration of the Govt at <placeName>Saltillo </placeName>and forward to me the
+result at <placeName>Mexico</placeName>&#8212;directed to myself or <persName>Joseph B Wilkinson</persName> care of
+<persName>Mr Poinsett</persName>&#8212;if however you should deem this course impolitic&#8212;or
+too troublesome to yourself I beg that you will frely inform me so
+any letter you address me will find me in <placeName>Neworleans </placeName>as late as the
+<date when="1828-01-15">middle of January</date>.   Accept my good wishes for your safe return&#8212;</p>
+
+<p><persName>C. B. Penrose</persName></p>
+
+<p><persName>Col. S. F. Austin </persName><placeName>Saltillo</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

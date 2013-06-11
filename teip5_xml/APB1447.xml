@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1447">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Victor Blanco, 10-11-1827</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Victor Blanco
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1697-1698
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-10-11">10-11-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Petition to establish a town.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To his <persName>Excellency the Governor of the <placeName>State of Coahuila and Texas</placeName></persName>
+.</p>
+
+<p><persName>Citizen Stephen F. Austin</persName>, most respectfully represents to <persName>Your
+Excellency</persName>, that he has been solicited by several of the <persName>inhabitants</persName>
+of <placeName>Bexar</placeName>, to settle some <persName>families </persName><placeName>on the borders of the River 
+Colorado</placeName>, at the place <placeName>where that river is crossed by the road leading
+from Bexar to Nacogdoches</placeName>, in order to found a <placeName>town</placeName>, <placeName>at the above-<pb n="1698"/>
+mentioned crossing</placeName>, with a view not only to afford the necessary
+<placeName>facilities </placeName>to the <persName>travellers </persName>of that road, but also to penetrate with
+the new <placeName>settlements</placeName>, further into the <placeName>interior of the country, towards the <persName>Savage Tribes</persName>, but as this <placeName>road is the Northern boundary of the
+Colony</placeName></placeName>, I have already contracted, and as the best site for the 
+settlement of the Town, is <placeName>on the Eastern bank of the river Colorado</placeName>,
+<placeName>above the said road</placeName>, and <placeName>beyond the limits of any colonization 
+contract</placeName>, I am unable to effect the <placeName>settlement </placeName>proposed, without 
+entering into a new contract, with the <persName>Government</persName>, for the purpose, and
+believing that the Settlement of said Town, will be highly 
+beneficial affording <placeName>facilities </placeName>for travelling, and to the mails and <persName>Troops</persName>,
+frequently passing from <placeName>Bexar </placeName>and <placeName>Nacodoches</placeName>, and also prevent
+in some degree the incursions of the <persName>Indians</persName>, who are continually
+harassing the <placeName>neighborhoods of Bexar</placeName>,<placeName> La Bahia</placeName>, and the new 
+<placeName>Settlements</placeName>, and infest the <placeName>roads</placeName>, I have considered it my duty, in
+order to promote the welfare and progress of <placeName>that section of the
+State</placeName>, to lay the matter before your <persName>Excellency</persName>, and recommend the
+establishment of the before-mentioned <placeName>town</placeName>, offering on my part,
+to discharge all the duties of <persName>Empresario</persName>, in effecting the same,
+and to settle <placeName>in the vicinity of the town proposed,</placeName> the <placeName>lands which
+may not be within the limits of any Colonization Contract</placeName>; 
+provided the favors and privileges allowed to <persName>Empresarios </persName>are granted
+to me, and also that one of the stipulations of the Contract is, that
+each <persName>Colonist </persName>is to pay the sum of Thirty Dollars, for my services,
+in attending to their business, and making the translations to the
+completion of the title to their lands, by the <persName>Commissioner </persName>
+guaranteeing the contracts made between the <persName>Colonists </persName>and myself, I offer
+to settle <persName>One hundred families</persName> in this <placeName>new Colony,</placeName> but upon the
+conditions, that should there not be a sufficiency of land, within the
+limits assigned for the said <placeName>new colony</placeName>, to locate them in conformity
+with the law in the case; Your Excellency will permit me to 
+complete to them the quantity deficient, within the limits of the <placeName>colony</placeName>
+which I have already contracted with the <persName>Government </persName>of this <placeName>State</placeName></p>
+
+<p><placeName>Saltillo</placeName>, <date when="1827-10-11">Octr. 11, 1827</date>.</p>
+<p><persName>Stephen F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1436">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H. H. League to Stephen F. Austin, 09-10-1827</title>
+            <author>
+                <persName>H. H. League</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1680-1682
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-09-10">09-10-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stockholders in the Nashville company. Plans of the company.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>It is the wish of the <persName>Company </persName>that they as a <persName>Company </persName>may be
+Recognized as the <persName>proprietors </persName>of the <placeName>colony</placeName>, that the persons names
+assigned to the Memorial may be Recognized as <persName>Directors of the
+company</persName>, the <persName>company </persName>Concisted first of <persName>52 persons</persName> towit <persName>Nelson
+Paterson</persName>&#8212;<persName>William  Campbell</persName>&#8212;<persName>Ira Ingram</persName>&#8212;<persName>J. Roan</persName>&#8212;<persName>W.  Tanne-<pb n="1681"/>
+hill</persName>&#8212;<persName>Felix Robinson&#8212;</persName><persName>Thos Hill</persName>&#8212;<persName>William Barrow</persName>&#8212;<persName>Sam B. 
+Marshell</persName>&#8212;<persName>J. McLoughlin</persName>&#8212;<persName>John W. Overton</persName>&#8212;<persName>John P, Erwin</persName>&#8212;<persName>Simon
+Bradford</persName>&#8212;<persName>John Criddle</persName>&#8212;<persName>George A. Bedford</persName>&#8212;<persName>John Waters</persName>&#8212;
+<persName>Henry P. Loyd</persName>&#8212;<persName>Alexr&#8212;Barrow</persName>&#8212;<persName>Horace Green</persName>&#8212;<persName>E. Talbot</persName>&#8212;<persName>Daniel
+A.  Dunham</persName>&#8212;<persName>Peyton Robison</persName>&#8212;<persName>James R. Robertson</persName>&#8212;<persName>John M. 
+Robertson</persName>&#8212;<persName>Pleasant Craddock</persName>&#8212;<persName>William B. Robison</persName>&#8212;<persName>David B. Green</persName>&#8212;
+<persName>William Harding</persName>&#8212;<persName>Sam. Houston</persName>&#8212;<persName>John D. Bowen</persName>&#8212;<persName>A. W. 
+Johnston</persName>&#8212;<persName>Charles Douglas</persName>&#8212;<persName>John Harding</persName>&#8212;<persName>Abram Demoss</persName>&#8212;<persName>Will
+Williams</persName>&#8212;<persName>John Davis</persName>&#8212;-<persName>James R. Baslie</persName>&#8212;<persName>Isaac. Watkins</persName>&#8212;<persName>Robert
+Hill</persName>&#8212;<persName>Leonard P. Cheatham</persName>&#8212;<persName>Will White</persName>&#8212;<persName>James S. Martin</persName>&#8212;<persName>James
+Pateson</persName>&#8212;<persName>Edward  Daniel</persName>&#8212;<persName>Hugh  Rollend </persName> <persName>Josiah  Horton</persName>&#8212;<persName>Roger
+B.   Sappington</persName>&#8212;<persName>Abram P. Murray</persName>&#8212;<persName>Joel Parish</persName>&#8212;<persName>S. C. Robison
+[Robertson]</persName>&#8212;<persName>Sam L. Whorton</persName><persName>&#8212;Mathew Barrow</persName>&#8212;</p>
+
+<p>After <persName>Andrew Erwin </persName>and <persName>Robert Leftwich</persName> went on to <placeName>Mexico </placeName>the
+<persName>Company </persName>held a meeting and <persName>Twenty two persons</persName> more became 
+interested whose names I have not but amongst them is <persName>Andrew
+Hynes</persName>&#8212;<persName>Richard Hyde</persName> <persName>John Shelby</persName> and <persName>James Overton</persName> who is now
+<persName>Directors of the company</persName>&#8212;</p>
+
+<p>After the Return of <persName>Mr. Leftwich</persName> from the <placeName>Republick of Mexico
+</placeName>to the <placeName>united States</placeName> those <persName>74 share holders </persName>had a meting and 
+Subdivided Each share in to 8 Parts making 592 in all and distributed
+them amongst their Particular <persName>friends </persName>in Certificates intending that
+Each-Certificate should entitle a <persName>man </persName>to Save [sic]<placeName> a League square
+of land,</placeName> they having the Requisate Qualifications prescribed by the
+colonization Law&#8212;and these persons amongst whome thease 
+Certificates wer divided Paid in the Sum or Sums of mony mentioned
+in the <persName>Companies </persName>Memorial, it is therefore praied by the <persName>company</persName>
+that Every <persName>person </persName>holding one of those certificates shall have a 
+preference of Settleing in the <placeName>colony </placeName>to one that has none until the 592
+is setled and then the ballance of the <persName>800 Families </persName>to be setled in the
+ordinary way they at the Same time complying with the laws of the
+<placeName>Land</placeName>&#8212;</p>
+
+<p>they also desire that the <placeName>boundery of the colony </placeName>may be Extended
+making the <placeName>Colorado River the Boundery on the west</placeName> and if any
+further Extention can be added in any way it will be much advantage
+to the <placeName>Colony </placeName>to do so&#8212;and be thankfully received I am Authorised
+by the company to Vouch to the Government in their name that
+they will introduce none but honest industrious <persName>Agriculturists </persName>and
+<persName>stock Raisers</persName> the most of whom is wealthy, and that the 
+population shall be Immediately brought into the <placeName>Country </placeName>to an amount
+sufficient to defend that [part] of the <placeName>Frontier</placeName>, that all due faith
+and obeidence shall be observed toward the Constitution and laws
+of the Government and due Respect paid to all Constituted 
+<persName>Authorities</persName>.<pb n="1682"/></p>
+
+<p>from your Experience in the Buisness of collonizeing and 
+knowing as you do the Foliey of the Government it is much safer for me
+to depend entirely on your Judgement to point out the Necessary
+Requisites for the advancement of the <placeName>colony </placeName>which I hope you will
+attend to than to prescribe my self should the Change be made 
+according to the Prayre of the memorial you will pleas to inform me
+by letter Immediately that I may communicate with the <persName>company</persName>
+and be preparing for the <placeName>Settlement</placeName>-</p>
+<p><placeName>San Felipe De Austin </placeName>the <date when="1827-09-10">10 Sept 1827</date></p>
+
+<p><persName>H. H. League</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

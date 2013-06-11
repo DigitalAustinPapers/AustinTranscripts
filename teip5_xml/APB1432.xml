@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1432">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H. H. League to Stephen F. Austin, 08-28-1827</title>
+            <author>
+                <persName>H. H. League</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Antonio, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1677-1678
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-08-28">08-28-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Business in Saltillo. Disturbances in the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe De Austin</placeName> the <date when="1827-08-23">28th August 1827</date></p>
+<p><persName>Col. Stephen F Austin</persName></p>
+
+<p>D sir I this moment Received your Communication dated at
+<placeName>San Antonio</placeName> informing me of your resolution to set out on the <date when="1827-08-30">30th</date>
+for <placeName>Saltillo </placeName>I doubt whether it will be possible for me by any
+Exertion to be in <placeName>Saltillo </placeName>in the time mentioned. I am unprepared
+to go on immediately. I shall however use Every possible 
+Exertion to do so&#8212;<date when="1827-08-21">about a week since</date> I sent a man to <placeName>Natchitoches </placeName>for
+the <persName>company </persName>Documents that I rote for by <persName>General Fulerton</persName> I
+also drew on the <persName>company </persName>for the funds necessary to perform the
+Trip without which it would be impossible for me to go on. I
+shall however Try to prepare myself otherwise and if I find it 
+practicable I will be on in about 2 weeks after you leave <placeName>San Antonio</placeName>
+if I find it impossible to do so I will inclose you all the Necessary
+Documents to <placeName>Saltillo </placeName>with all the information and advice on the
+subject in my power with full authority for you to act in all Respects
+that I could do were I present, we have some little commotion
+amongst the <persName>people in the <placeName>out settlements of the Colony</placeName></persName>&#8212;which
+has been got up by this man <persName>Daton </persName>that was here when you left
+<persName>Pittises [Pettus's?]</persName> insolvency and bad conduct has produced some
+Excitement amongst a good many that will loose by him. Yet Ive
+no idea that any thing serious will Result from it your <persName>Brother</persName>
+<persName>James B.</persName> and also <persName>Majr Burnet</persName> may advise you to Return on that
+account I do not know that they will, but I do not beleave that
+the emergency Requires your presence so much that it would be
+justifiable to loose any important advantage to the <placeName>Colony </placeName>by 
+Returning. I will use Every Exertion in my power to Tranquilise
+them.    Should this letter Reach you at <placeName>San Antonio</placeName> before you<pb n="1678"/>
+leave Pleas to write me without fail I will address you at <placeName>Saltillo</placeName>
+by next mail more fully on Every Subject about which you would
+like to be informed whether I go on or not my <persName>family </persName>is in fine
+health and the <placeName>colony </placeName>in general</p>
+
+<p><persName>H. H. League </persName>   [Rubric]</p>
+<p>[Addressed:] <persName>Col. Stephen F Austin</persName> <placeName>San Antonio Coahuila &amp;
+Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

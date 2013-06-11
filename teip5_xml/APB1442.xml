@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1442">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, [10-1-1827?]</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1686-1687
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-10-01">[10-1-1827?]</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's draft of a bill to establish a seminary of learning, [October 11 1827?].</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[October 11, 1827?]</p>
+
+<p>The <persName>Congress </persName>of the <placeName>State of Coahuila y Texas</placeName> have thought
+proper to decree as follows&#8212;</p>
+
+<p>Considering Education as the basis of good morals of good order
+and of the Republican System of Govt, and seeing the necessity there
+is for the establishment of a <placeName>Seminary </placeName><placeName>at the Town of San Felipe
+de Austin </placeName>in <placeName>Texas </placeName>for the purpose of instructing the <persName>Children of
+the new Colonists</persName> who have emigrated to that point in the <placeName>Spanish</placeName>
+language, Therefore it is decreed</p>
+
+<p>1&#8212;That a <placeName>Seminary of learning</placeName> shall be established at the said
+Town of <placeName>San Felipe de Austin</placeName> in which shall be taught the various
+branches of Education</p>
+
+<p>2. The Said <placeName>Seminary </placeName>shall be under the direction of <persName>13 trustees
+</persName>who may [be] appointed yearly by the <persName>Ayuntamiento </persName>of Said Town
+of <placeName>San Felipe de Austin</placeName>; and the said <persName>trustees </persName>may appoint a
+<persName>President </persName>and <persName>secretary </persName>and <persName>treasurer</persName>, and shall employ all the
+<persName>teachers </persName>and make rules and regulations and Bye laws for the
+Government of said <placeName>seminary </placeName>and have the control of the funds 
+belonging to it and appropriate the same for the use and benefit of
+said <placeName>seminary</placeName></p>
+
+<p>3&#8212;Untill there is an <persName>Ayuntamiento </persName>at the said Town of <placeName>San
+Felipe de Austin</placeName> the above named <persName>trustees </persName>shall be appointed by
+<persName>S. F. A. the Judge</persName> commissioned to administer the municipal 
+government of said <placeName>Town </placeName>for the present&#8212;</p>
+
+<p>4&#8212;For the endowment of said <placeName>Seminary </placeName>with funds there is
+hereby granted to it the quantity of <placeName>Six Leagues of land</placeName> to be
+selected by the said <persName>S. F. A</persName>. in such size tracts as he may deem most
+advantageous and in any part of the <placeName>Country </placeName>not otherwise disposed
+of <placeName>East of the Colorado Rlver in Texas</placeName>&#8212; An entry of said selections
+shall be made in the <placeName>archives of the new Colony on the Brasos and
+Colorado</placeName> at the said town of <placeName>San Felipe de Austin</placeName> and a certified
+copy therefor shall be sent to the <persName>Governor of this state</persName> who shall
+file the same in his <placeName>office </placeName>as an evidence of said entries-&#8212;</p>
+
+<p>5. The said <placeName>seminary </placeName>shall form a Body Corporate under the
+name of the <placeName>Seminary of Austin</placeName> and may have a seal and buy and
+Sell property and sue and be sued&#8212;</p>
+<pb n="1687"/>
+
+<p>6. The <persName>treasurer </persName>of said <placeName>seminary </placeName>shall publish annually an A/C
+of all the receipts and expenditures of said <placeName>seminary </placeName>for the 
+information of the <persName>public</persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

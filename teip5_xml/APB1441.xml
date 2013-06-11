@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1441">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R. R. Royall to Stephen F. Austin, 10-10-1827</title>
+            <author>
+                <persName>R. R. Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Tuscumbia, Alabama</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1685
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-10-10">10-10-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans for returning to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Tuscumbia Ala</placeName>, <date when="1827-10-10">Octr 10th 1827</date></p>
+<p><persName>Col Austin</persName></p>
+
+<p>Dear Sir The <persName>Bearer </persName>affords me an opportunity of 
+communicating with you by private hand which Renders its passage more
+certain. I have felt much anxiety about that <placeName>country </placeName>and still feel
+But the Last measure of Your <persName>Govt </persName>on the <persName>slave </persName>question totally
+forbids by mooveing there under existing circumstances Yet I will
+most certainly see that <placeName>country </placeName>again probably in about <date when="1828-10-10">12</date> or <date when="1829-04-10">18
+months</date> from this if not Required sooner to attend to my <placeName>Land
+claims</placeName> which If necessary you will please apprise me. I have a
+wish to make an establishment there of a <placeName>stock pen</placeName> and probably
+will come prepared for the purpose and If so may make it a 
+partial <placeName>Residence </placeName>and If the named objection should be Removed there
+is no <placeName>country </placeName>in which I would be contented to till the soil except
+that while <placeName>Texas </placeName>is Recollected by me.</p>
+
+<p><persName>Judge Ellis</persName>' letter to his <persName>Lady </persName>dated in <date n="10-xx-1827">Augt</date>. came to hand and
+before you receive this he will no doubt have departed for <placeName>home</placeName>
+If not his <persName>family </persName>remains as usuall except <persName>Mrs. Ellis</persName> has sold his
+<placeName>Land </placeName>and is Looking with much anxiety for his Return his 
+Business Remains otherwise as he left it and his <persName>family </persName>generally well
+and much Restored since the Rect of his letter in feelings as they
+had become very uneasy I will close after asking you to be so good
+as to Honour me with some Information from that <placeName>country </placeName>such as
+may be of Interest and particularly Relative to my <placeName>Land claim</placeName> which
+I left with you, what is Likely to be done with the <placeName>old claims</placeName> and
+what necessary on my part how are the prospects of the <placeName>country</placeName>
+generally etc It would give me great satisfaction as a matter of
+Interest and afford an additional pleasure from consideration of
+high Regard, present me to <persName>majr Herd</persName> If with you, your <persName>Brother</persName>
+and <persName>friends </persName>tell your <persName>Brother </persName>I have two as pretty grey hounds as
+he ever saw pups of <persName>Doctr Robertson's slutt</persName> which he had in <placeName>Texas</placeName>,
+and would send them If I knew the passage could be relyed upon,
+the <persName>old man </persName>(bearer) have known for some time by sight only.</p>
+
+<p><persName>R. R. Royall </persName>   [Rubric]</p>
+<p><persName>Col S. F Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

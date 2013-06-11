@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1440">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to John Cummings, 10-05-1827</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-26">07-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John Cummings
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1684-1685
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Price List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-10-05">10-05-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Col. Stephen F. Austin in a/c with John Cumings   Dr.</p>
+<p>1827</p>
+
+<p><date when="1827-01-13">Jany 13th</date> To 7 1/2 bushels corn at 8/ pr Bushel__________________$ 7. 50</p>
+
+<p>280 feet plank delivered unto <persName>Westall </persName>at 5C pr Hhd____________14.00</p>
+
+<p><date when="1827-02-15">Feby 15  </date>           Cash $5.00 ditto pr order <persName>Richd </persName>and <persName>Dan </persName>$9______14.00</p>
+<p>2 lb Tobacco a 50c______________________________1</p>
+<p><date when="1827-07-05">July 5 </date>            1 Bushel Meal delivered to <persName>Brown Austin</persName> _______1.25<pb n="1685"/></p>
+
+<p><date n="xx-xx-1827">1827</date></p>
+
+<p><date when="1827-08-25">Augt. 25</date>           2 Bushels Meal delid to <persName>Mrs. Pickett</persName> a 1.25_________   1.25</p>
+
+<p><date when="1827-10-05">Octr 5 </date>          1 do delivered to <persName>Mrs. Picket</persName>______________________   1.25</p>
+<p>
+<date when="1827-08-25">"   "  </date>          1 ditto pr Self_________________________________   1.25</p>
+
+<p>1260 feet Scantling at 4 d________________________50.40</p>
+
+<p>$93.95</p>
+<p><date n="xx-xx-1826">1826 </date>  Contra   Cr   Deer. 1st.   By 22 1/2 Bushels of Corn borrowed</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
