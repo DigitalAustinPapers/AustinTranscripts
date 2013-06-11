@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1235">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Kerr to Stephen F. Austin, 08-08-1826</title>
+            <author>
+                <persName>James Kerr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-01">07-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">(DeLeon's) Guadalupe River, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1402
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-08-08">08-08-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Friction with Martin De Leon.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Delion's Guadaloupe River</placeName> <date when="1826-08-08">8th August 1826</date>&#8212;</p>
+<p>Dear Col°-</p>
+
+<p>I have just arrive[d] here on the way to <placeName>San Antonio</placeName>, and hope
+to see your <persName>Bro</persName>. there. I came by the <placeName>mouth of the La vacca</placeName>, where
+I saw <persName>Col°- Dewitt</persName>, and a number of people, say 40. <persName>men</persName>, <persName>women</persName>,
+and <persName>children</persName>&#8212;all in good health. They wish to get up the <placeName>river </placeName>to
+the <placeName>red Bluffs</placeName>.</p>
+
+<p>It can be satisfactorily proven that <persName>Delion </persName>or his <persName>sons</persName>, broke
+up and tore to pieces the little vessel of <persName>Dickerson </persName>that was Left
+in the <placeName>Grssite [Garcitas] Creek</placeName> last <date n="summer - 1826">summer </date>and has removed part
+of the planks to this place and had it stacked up. The ballance of
+the planks are thrown on the <placeName>bank of the Creek</placeName>, to season as is
+supposed by the <persName>citizens </persName>here.</p>
+
+<p>I am not very well&#8212;have some fever and head Ache&#8212;I hope you
+have before this recovered your health, and able to attend to
+business.</p>
+
+<p>I shall make all possible haste in my power, but the hotness of
+the weather; a poor horse, and bad health makes it quite uncertain
+when I shall be at <placeName>San Felipe</placeName>&#8212;</p>
+
+<p><persName>James Kerr</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

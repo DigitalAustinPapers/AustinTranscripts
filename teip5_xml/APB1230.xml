@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1230">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Littleberry Hawkins to Stephen F. Austin, 08-06-1826</title>
+            <author>
+                <persName>Littleberry Hawkins</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-01">07-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1398-1399
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-08-06">08-06-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning his and Mrs. J. H. Hawkins's claims. Active emigration from Kentucky to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington </placeName><date when="1826-08-06">August 6. 1826</date></p>
+<p><persName>Stephen F Austin Esqr</persName></p>
+<p>Dr Sir</p>
+<p>I have so repeatedly written you and have never received aline
+from you, that I have frequently almost determined to decline the<pb n="1399"/>
+matter I am still using great industry in geting up <persName>Company </persName>to
+visit your <placeName>grant </placeName>and have left nothing undone on my part since the
+death of my <placeName>Brother </placeName>I have been a perfect <persName>slave </persName>and have great 
+difficulty in Keeping the two <persName>families </persName>from actual want they ware left
+without One Dollar I have gotten <persName>George the Eldest son of my
+Brother</persName> in the <persName>Navy </persName>and he is ordered into the service I inclosed to
+you my two <placeName>Grants </placeName>of land By <persName>J E B Austin</persName> do the best you can
+with them for me hand the letters inclosed and say what is 
+necessary, from the intimacy and friendship between the <persName>families </persName>I had
+hoped to been by you advised etc as to the interest we had taken in
+the <placeName>Grant </placeName>you are labouring under fals impressions as to <persName>Botts </persName>and
+my self On <date n="08/28/1826">Next monday</date> there is to be a large meeting of <persName>Citizens</persName>
+at <placeName>Versailles Woodford County</placeName> on the subject of going to your 
+<placeName>settlement </placeName>I find it stands higher than any other grant the colonel
+is about starting please [write] me and <persName>Mrs. J. H. Hawkin</persName>s when
+you find it Convenient so soon as I can place the <persName>families </persName>in that 
+situation that will Keep them from actual want It is my intention to
+come to the <placeName>Country </placeName>Change if necessary my two <placeName>grants </placeName>and have
+them located where you think best particularly the One on 
+<placeName>Guadeloupe </placeName>if best so to do the reports as to the inundation of the lands on
+<placeName>Brassos </placeName>and <placeName>Colorado Rivers</placeName> is unfavourable and I am disprising (?)
+those impressions believing they are not true</p>
+
+<p>god bless you and your friends</p>
+
+<p><persName>L Hawkins</persName></p>
+
+<p>Please speak of me to your <persName>Brother   </persName>I would give all I possess to
+have two hours conversation with you</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

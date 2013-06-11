@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1248">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Ingram to Stephen F. Austin, 08-16-1826</title>
+            <author>
+                <persName>John Ingram</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-05">07-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Peach Creek, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1424-1425
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-08-16">08-16-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Application for land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Peach Creek</placeName> <date when="1826-08-16">Aug 16. 1826</date></p>
+<p>Dear Sir</p>
+
+<p>I understand that your <placeName>office </placeName>is again opin to receive applications
+for <placeName>land</placeName>; and having never yet recd any <placeName>land </placeName>in the <placeName>Colony</placeName>, I wish to
+embrace the first opportunity to secure my alloted portion&#8212;As you
+have once made out my deed for half a league I hope you will yet con-<pb n="1425"/>
+sider me entitled to that Quantity; particularly as I have been one of
+the first <persName>settlers </persName>in this <placeName>Colony</placeName>, and have never been backward in
+doing a <persName>soldier</persName>'s duty.&#8212;The <placeName>good land</placeName> has been so generally taken
+up that I hardly know where to make a choice.&#8212;Perhaps there may
+be some <placeName>forfeited land </placeName>that you could recommend; if not, I have
+thought to take it on a small <placeName>stream </placeName>which heads in the <placeName>Bay prairie</placeName>,
+and runs, perhaps, into the bay of <placeName>Matagorde</placeName>&#8212;you will please to give
+me a verbal reply by <persName>Mr. Rabb</persName>&#8212;</p>
+
+<p><persName>John Ingram</persName></p>
+<p><persName>Col. S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
