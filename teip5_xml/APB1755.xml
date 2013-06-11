@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1755">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Kennerly to Stephen F Austin, 08-24-1829</title>
+            <author>
+                <persName>James Kennerly</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Jefferson Barracks near St Louis Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 249
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-08-24">08-24-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking information about Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Jefferson Barracks near St. Louis Mo</placeName> &#8212;<date when="1829-08-24">Augt 24, 1829</date></p>
+<p>To <persName>Mr Steven Austin</persName>,</p>
+
+<p>I am verry desireous of geting some information about the part
+of the world called <placeName>Austin Settlement</placeName> in <placeName>Texas</placeName>, The first inquerey
+is, the climate, the health of the <placeName>Country </placeName>and by what means 
+accessable,</p>
+
+<p>The Kind of population and number, the general persuits wheather
+<persName>Traders </persName>or <persName>agriculturealists</persName>, what produce is raised and is best
+adapted to the climate for exportation. The principal <placeName>Towns </placeName>and
+<placeName>water courses</placeName>, and the language most in use, I have for several years
+had a desire to visit the <placeName>country </placeName>with a view of settling with my
+<persName>family</persName>, I have some small means principally in <persName>negroes</persName>, with some
+merchandize, and would be glad to hear from you candidly on the
+subject and will feel greatfull for your immedeate reply, should it
+be favourable.   I will visit your <placeName>country </placeName>this <date n="Fall - 1829">fall</date></p>
+
+<p><persName>Jas Kennerly</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

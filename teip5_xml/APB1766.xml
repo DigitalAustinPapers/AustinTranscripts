@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1766">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>S Hatch to Stephen F Austin, 11-25-1829</title>
+            <author>
+                <persName>S Hatch</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-15">08-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 260
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11-25">11-25-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Application for land. Economic condition of immigrants.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir</p>
+
+<p>I was in <placeName>St Philapey</placeName> a few dais Sins But your Situashun was
+Sutch I did not think prudent to visett you I am In hops Sir that I
+may hear Shortley of your Recuvry&#8212; I have ariv with My <persName>Familey</persName>
+and am Destitute of any plase to put them in&#8212;<persName>Mrs. Hatch</persName> is in a
+Bad State of helth and was <date when="1829-09-21">fore dais past</date> delivered of a <persName>Child</persName>
+makes me Certrianley anxious to put up Some <placeName>Buildings </placeName>and to prepare
+for a Crop as Soon as I Can doo that I wish to Return to
+<placeName>Louisiana </placeName>its My wish to Settle Some whare on the <placeName>Nevedad </placeName>or
+<placeName>Corenkeway Bayo</placeName> Should I not hear from you I shall go on down
+and put up Some Ruff <placeName>Cabins </placeName>allso have anther man thats here with
+me Should I Make a Sitution that mite Intarfeare with Lans
+that you or the <persName>Commishioner</persName>&#8212;wishes to take it will be arraind to
+your Satisfaction</p>
+
+<p><persName>Silvanus Hatch</persName></p>
+
+<p><date when="1829-09-25">25 of Sept 1829</date></p>
+
+<p>[Addressed:] <persName>Colonel Stephen Austoon</persName>   <placeName>St. Philapey</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1782">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Elias R Wightman, 11-04-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Elias R Wightman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Matagorda, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 280-281
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11-04">11-04-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advice concerning manufacture of salt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Mr. E R Weightman</p>
+<p>Dr Sir,</p>
+
+<p>In regard to the <placeName>salt lots</placeName>. I think that if you could lease to
+<persName>Burnham</persName>, and give him the previlege for a certain number of years-
+say three or four or five, on condition that he kept the <placeName>works </placeName>agoing,
+and at the end of the lease the <placeName>lots </placeName>to be given up with such 
+improvements and kettles etc as may then be on the place, without
+binding him to any specific kind or value of improvements&#8212;The
+main object is to start the thing now for the benifit of the <placeName>place</placeName>,
+the <placeName>lots </placeName>hereafter will be valuable, and it is better to give the use
+of the <placeName>lots </placeName>for nothing for a certain number of years than to sell-
+also it is better to give the previlege to <persName>Burnham </persName>to keep all his
+kettles when his time is out-&#8212; This is my opinion-tho you must do
+as you think best or proper and either sell or lease as may be thought
+by you best&#8212;</p>
+
+<p>I am ready at any time to give you a full power of attorney as
+<persName>agent of the proprietors</persName>, I proposed to <persName>League </persName>on my return <date n="Summer - 1829">last
+summer</date> to go immediately down and he promised to do so, but has
+been in bad health&#8212; As soon as it is possible for me to do so I will
+go down there and make a final arrangement and in the meantime
+I will agree to any dispositions of <placeName>lots </placeName>to actual <persName>settlers </persName>who im-<pb n="281"/>
+prove them, that you may make&#8212; The time has not quite arrived
+to push that <placeName>place</placeName>&#8212;there must be some more <placeName>settlements </placeName>and some
+more wealth round<placeName> Bay Prairie</placeName> and <placeName>on the river </placeName>and it will not
+advance the place much to sell lots at this time, for they will get
+into the hands of <persName>persons </persName>who will keep them merely for 
+speculation and they had better remain in the hands of the <persName>proprietors</persName>
+than in any others. I am in favor of letting <placeName>lots </placeName>go to actual <persName>settlers</persName>
+who will improve them but think that the <placeName>lots </placeName>will be better in the
+hands of the <persName>proprietors </persName>than in those of such persons as would
+be likely to buy at a <placeName>public sale </placeName>at this time, tho I am willing to do
+on my part whatever may be thought best&#8212;</p>
+
+<p>I have been greatly disappointed by the long delay of the 
+<persName>Commissioner</persName>&#8212; I do not expect him now for <date when="1829-11-25">three weeks</date>&#8212;and I can do nothing until] he arrives.</p>
+
+<p><persName>S. F. Austin </persName>  [Rubric]</p>
+
+<p><date when="1829-11-04">Nov 4. 1829</date></p>
+
+<p>[Addressed:] <persName>Mr. Elias E. Weightman</persName> <placeName>Matagorda</placeName> <persName>Cap. Burnham</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1768">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John M McCalla to Stephen F Austin, 10-06-1829</title>
+            <author>
+                <persName>John M McCalla</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-15">08-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Gregg
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 261-263
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-10-06">10-06-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Henry Clay, the evil genius of Kentucky. Andrew Jackson.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington </placeName><date when="1829-10-06">October 6th 1829</date></p>
+<p>My dear friend.</p>
+
+<p>Just <date n="10-xx-1828">one year ago </date>you wrote me a letter from <placeName>Texas</placeName>, by <persName>Mr Gregg,</persName>
+and now by the same gentleman I send a reply. I shall be glad to
+renew and to perpetuate our old friendship, which on my part, I
+assure you is undiminished. I never recall the happy days of 
+boyhood, but you appear in the list of remembered <persName>friends</persName>, and many
+scenes which we enjoyed together are among the " greenest spots " in
+my recollections. Our female friends <persName>Eliza </persName>and <persName>Paulina</persName>, for whom
+we both had pretty strong <hi rend="italic">penchants</hi>, I see occasionally, but that
+<placeName>little " paradise "</placeName> in which we were both sometimes admitted, is grown
+up with weeds, and its <persName>fair inhabitants</persName> transplanted to other scenes,
+and surrounded by other objects. The first you know married <persName>Thos
+A Marshall</persName>. She lives in <placeName>Bourbon county</placeName>, has 6 or 7 <persName>children</persName>, breeds
+like a rabbit, and looks almost as well as ever. <persName>Paulina </persName>was married
+to <persName>Brooks </persName>who died and she remained some years a <persName>widow</persName>, and <date n="04-xx-1828">18
+months since</date> married a second time, to <persName>Capt. Maurice Langhorne</persName>
+who now keeps a <placeName>large house of entertainment</placeName> at <placeName>Louisville</placeName>. I
+saw her last week, she does not look so well as formerly, in 
+consequence of a spell of fever. She is however pretty much the same,
+especially the tone of voice, and her lively agreable manner. <persName>Mrs
+January </persName>is still living, also her sister <persName>Sally (Mrs Todd)</persName>. <persName>Jas. B
+January</persName> is barely living being much reduced by excessive 
+intemperance. <persName>Mrs Todd</persName> has a large <persName>family</persName>. <persName>Will O Butler</persName>, who married
+<persName>Levi Todds sister</persName>, has no children. <persName>Nannette Price</persName> who married
+<persName>Tom Smith</persName> is also laughed at as childless, altho her <persName>husband </persName>is
+pretty generally blamed for it. I have heard several jokes against
+<persName>Smith </persName>coming from <persName>Mr Clay</persName> and the <persName>ladies of the family</persName>.<pb n="262"/></p>
+
+<p><persName>Mr Clay</persName> is now here with his <persName>family</persName>. He is in my opinion, the
+<persName>evil genius of <placeName>Kentucky</placeName></persName>. He set in motion all the springs of 
+discord, and keeps society in a continual excitement. He appeared as
+<persName>counsel </persName>at the trial [of] <persName>Wickliffe's son</persName> for the murder of the <persName>editor
+of the Gazette,</persName> and volunteered on the occasion, and has not appeared
+in any other case before or since. He has been lately on trip to the
+<placeName>lower part of this state</placeName> making speeches at dinner parties and 
+keeping all his engines in motion against <persName>Genl Jackson</persName>. As for the
+<persName>President</persName>, he goes on as he has always heretofore done, attentive to
+<hi rend="italic">his </hi>duty, and making all under him do their duty. His health has
+been somewhat injured by confinement but a visit to the seashore
+restored his health, and he is now progressing rapidly in the reform
+of the abuses which existed in the administration. It is melancholy
+fact, that great abases had grown up, and many who wore the front
+of honesty were guilty of great dishonesty and peculation. Party
+spirit still runs high, and the growlings of the storm are still heard
+although its main fury was exausted in the late election, <persName>Genl
+Jackson</persName>, if he lives, will be re-elected as <persName>President</persName>.</p>
+
+<p>I am sorry to pereieve that <placeName>Mexico </placeName>is again exposed to <placeName>foreign</placeName>
+war as well as intestine divisions. We are all anxious to purchase
+<placeName>Texas </placeName>from <placeName>Mexico</placeName>, and the subject is beginning to excite a great
+deal of warm discussion in our public prints. If <placeName>Mexico </placeName>will 
+dispose of it on reasonable terms, I believe our <persName>government </persName>will no
+doubt be glad to obtain it, and I am sure it will meet the almost
+universal desire of our <persName>citizens</persName>. The consequences to the <persName>holders
+of property</persName> in <placeName>Texas </placeName>would be very important, and it would 
+promote the happiness and prosperity of all the <persName>citizens </persName>of the <placeName>province</placeName>.
+A great many <persName>citizens of <placeName>Kentucky</placeName></persName> would move to your <placeName>settlement</placeName>
+instantly, if it were under our government.</p>
+
+<p>In relation to your last and most important particular, to wit <hi rend="italic">the
+<persName>widow</persName></hi>, I can safely say that if you will come on here, and plead
+your own cause I can point out to you both <persName>maids </persName>and <persName>widows</persName>, who
+would make your heart go pit apat, and who would doubtless be
+willing <hi rend="italic">to emigrate</hi> to any part of the known <placeName>world </placeName>with clever
+fellows. Only let me know that you will pay us a visit and I will
+arrange matters and things so far as, that if you can be satisfied
+with beauty, good temper, and affectionate dispositions, you shall
+have a fair opportunity to lay siege forthwith. I should indeed be
+truly glad to see you here once more, and to shew you my four <persName>children</persName>,
+ my <persName>eldest </persName>a boy going on thirteen years of age, and my 
+<persName>youngest </persName>a girl (I have two of each) about 13 months old. Two of them
+are talking to me and playing round me and far as their prattle
+can go, disturbing me.<pb n="263"/></p>
+
+<p>Wishing you that success and prosperity, which your interprize
+and industry so well deserve, I am as "in auld lang syne' Your
+affectionate friend</p>
+
+<p><persName>Jn° M. McCalla</persName></p>
+
+<p><persName>S. F. Austin Esqr</persName> <placeName>Texas</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1763">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Austin, 09-22-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-14">08-14-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Matamoras, Tamaulipas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 258
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-09-22">09-22-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Warning him not to be deceived by an advertisement of lands in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1829-09-22">September 22,1829.</date></p>
+
+<p>This letter was to have gone by the mail the <date when="1829-09-01">1st of this month</date> but
+on the <date when="1829-08-29">29th of last</date> I was taken with the fever and was insensible and
+at the point of death for some time. I am now proped up to write
+this&#8212;the object of which is to guard you against such wild schemes
+as the one which I have seen for the first time this day in the <placeName>national
+Intelligencer</placeName>, of which <persName>Dennis A Smith</persName> is the <persName>agent </persName>and <persName>Exiter</persName>
+[Exter] the principal&#8212; it is all a deception&#8212; <persName>Exiter </persName>is what
+the law calls an <persName>Empresario </persName>and an <persName>Empresario </persName>is nothing more than
+an <persName>agent </persName>hired by the <persName>Govt</persName>, to bring in a certain number of <persName>families</persName>
+of a particular discription&#8212;, if he introduces them he will be 
+entitled to receive a premium at the rate of five leangues for each 100
+<persName>families</persName>&#8212; this is all he can get and he is not entitled to that until
+after the <persName>families </persName>have been received by the <persName>Govt</persName>, <persName>commissioner</persName>-
+he has no right nor authority to survey nor to do any kind of act of
+any description whatever except barely to bring in the <persName>families </persName>and
+his agency may be annulled by the <persName>Govt</persName>, for good cause, in the same
+manner than any other principal can revoke authority given to any
+<persName>agent</persName>&#8212; This is all the authority that <persName>Exiter </persName>has to do what he is
+doing</p>
+
+<p><persName>S F Austin</persName></p>
+
+<p>[To Henry Austin, Matamoras.]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

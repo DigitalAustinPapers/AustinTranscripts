@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1777">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Austin to Stephen F Austin, 10-28-1829</title>
+            <author>
+                <persName>John Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brasoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 276
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-10-28">10-28-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade in mules and horses with New Orleans.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr Sir</p>
+
+<p><persName>Mr McConnell</persName> will start in a few days for <placeName>N. Orleans</placeName> with a drove
+of horses and mules I wish to send by him three mules which I have
+here and the two you have at <placeName><persName>Buckner</persName>s</placeName> if you will give an order to
+<persName>Mess McConnell</persName> and <persName>Blair </persName>they will receive the mules at <placeName><persName>Cooper</persName>s</placeName>
+place <placeName>on the peach Creek a few miles above <persName>Mr Hope</persName>s</placeName> I intend to
+deliver the three there, if they will give 35$ each I intend to take
+it for mine if you will take the same write to me by <persName>Mr. Blair</persName> and
+I will take their draft on <persName>J. W. Collins</persName>, for the amount. I will Come
+to town in a few days perhaps about the middle of next week, I
+have got some cloth for two pair of pantaloons for you <persName>Eliza </persName>is
+making them I will bring them up when I come</p>
+
+<p><persName>John Austin</persName> [Rubric]</p>
+
+<p><placeName>Brasoria </placeName><date when="1829-10-28">Octr 28th 1829</date></p>
+
+<p><persName>Col. S F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1765">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Stephen F Austin, 11-24-1829</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-15">08-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Comargo,Chihuahua</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 259-260
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11-24">11-24-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Difficulties of navigating the Rio Grande.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Comargo  </placeName><date when="1829-09-24">Sept 24th  1829</date></p>
+<p><persName>Col. S F Austin</persName></p>
+
+<p>My deae Sir I wrote you from <placeName>Matamoros</placeName>, advising you of my
+arrival there with a steamboat to commence the navigation of this
+<placeName>river</placeName>. <placeName>Bravo del Norte</placeName> I have been up nearly to <placeName>Revilla</placeName>, where I
+found the <placeName>river </placeName>so dangerous in low water that I did not think it
+prudent to proceed up at <date n="Fall - 1829">this late season.</date>&#8212; At the 
+commencement of the wet season the <placeName>river </placeName>May be Navigated quite to <placeName>presidio
+del Norte,</placeName> but as that season is now nearly passed, I shall confine
+My trips for the <date n="Winter-1829">winter </date>to this place</p>
+
+<p><placeName>Between Matamoros and this</placeName>, the <placeName>river </placeName>is navigable and Safe
+but I have great reason to apprehend there will not be business
+enough to support the boat We have by law the privilege of taking
+up lands but the <placeName>unoccupied lands on this River</placeName> are not worth
+having.</p>
+
+<p>I was induced to embark in this operation by the hope of 
+retrieving my ruined fortune and of laying a foundation for an estate for
+my <persName>family </persName>by Securing a large tract of land. Before leaving the
+<placeName>US</placeName> I laid before <persName>Govt </persName>a Memoir on the <placeName>western boundary</placeName> pointing
+out the advantages of exchanging the <placeName>land beyond the Rocky 
+Mountains for those between this River and the U S</placeName> and suggesting the
+Mode in which it might be effected had I a Sure conveyance I would
+Send you a copy of it&#8212; I have reason to believe there is now a
+negociation pending on the Subject-
+Now I have reason to apprehend that my present effort will not
+realize the expected advantages and some reason to fear it may result
+in a failure&#8212;in which case, I should only be able to save my self
+from ruin by taking the boat to some place where She could be
+Sold or employed to advantage-</p>
+
+<p>Can you inform Me whether the <placeName>laguna </placeName>which is laid down on the
+<placeName>Map </placeName>as <placeName>extending from Brassas St lago to the Colorado River</placeName> is
+Navigable with four feet water, if not by what rout could a 
+Steamboat be transported <placeName>from the Mouth of this river to Galveston bay
+or to New Iberia</placeName> Is there sufficient wealth produce and travel in
+your <placeName>quarter </placeName>to employ a steamboat Could I obtain in your 
+<placeName>neighbourhood </placeName><placeName>a tract of good land</placeName> in perpetuity either through you or by
+application to the State</p>
+
+<p>I wish extremely to have an interview with you but it is impossible
+for me to leave the business I am engaged in even for three days&#8212;
+I shall leave this in a week for <placeName>Matamoros </placeName>and return from there
+with a cargo immediately&#8212;during the <date n="Winter - 1829">winter </date>I will be alternately<pb n="260"/>
+<placeName>here </placeName>and at <placeName>Matamoros </placeName>as frequently as business May offer for the
+boat and probably Make 2 or 8 trips pr month&#8212;</p>
+
+<p><persName>Henry Austin</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

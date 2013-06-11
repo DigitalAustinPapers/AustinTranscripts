@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1792">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to John Durst, 11-17-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John Durst
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nacogdoches, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 288-289
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11-17">11-17-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advising memorial to government urging exemption of Texas from the emancipation decree. Argues that it is unconstitutional. Opposition must be temperate but firm. State officials are standing against it</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1829-11-17">Nov 17. 1829</date></p>
+<p<persName>>Mr John Durst</persName></p>
+
+<p><persName>Nacogdoches</persName></p>
+
+<p>Dr Sir I have recd your letter by this days mail dated the <date when="1829-11-10">10th
+instant,</date> on the subject of the decree of the <persName>President </persName>freeing all the
+<persName>Slaves</persName>.</p>
+
+<p>You say to me in your letter "in the name of God what shall we
+do.&#8212; do for God's sake advise me on the subject by return of mail,
+we are ruined for ever should this measure be adopted "</p>
+
+<p>What the <persName>people of <placeName>Texas </placeName></persName>have to do, is to represent to the 
+<persName>Government</persName>, through the <persName>Ayuntamientos </persName>or some other channel, in a very
+respectful manner; that agreeably to the constitution, and the 
+colonization laws <hi rend="italic">all </hi>their <persName>property </persName>is guaranteed to them without 
+exceptions in the most solemn and sacred manner-&#8212; That they brought
+their <persName>slave </persName>property into the <placeName>country </placeName>and have retained it here,
+under the faith of that guarantee, and in consequence of a special
+invitation publically given to <persName>emigrants </persName>by the <persName>Government </persName>in the
+Colonizacion law to do so&#8212;that they have taken an oath to defend<pb n="289"/>
+the constitution and are bound to do so. That the constitution of
+the <placeName>state </placeName>expressly recognises the right of property in <persName>slaves</persName>, by
+allowing six months after its publication for their introduction into
+the <placeName>State</placeName>&#8212;That they <hi rend="italic">will </hi>defend it, and with it, their <persName>property</persName>.</p>
+
+<p>There ought to be no vocifirous and visionary excitement or noise
+about this matter&#8212; Our course is a very plain one&#8212;calmn, 
+deliberate dispationate, inflexible, <hi rend="italic">firmness</hi>; and not windy and ridiculous
+blowing and wild threats, and much less any thing like opposition
+to the <persName>Mexican </persName>constitution, nothing of this kind will do any good,
+it will in fact be unjustifiable, and will never be approved of by me
+but on the contrary opposed most decidedly. I will <hi rend="italic">not </hi>violate my
+duty as a <persName>mexican citizen</persName>.</p>
+
+<p>The constitution must be both our shield, and our arms, under it,
+and with <hi rend="italic">it </hi>we must constitutionally defend <persName>ourselves </persName>and our
+<persName>property</persName>.</p>
+
+<p>The <persName>chief of department Dn Ramon Musquiz,</persName> has taken a firm
+and noble stand, he has suspended the publication of said decree,
+and has represented in a very able manner against it. If he should
+finally be compelled to publish and circulate it, the <persName>Ayuntamientos</persName>
+must <hi rend="italic">then</hi>, take an unanimous, firm, and <hi rend="italic">constitutional </hi>stand. The
+people will unanimously support them.</p>
+
+<p>I know nothing of the <persName>men </persName>who compose the <persName>Ayuntamiento </persName>of
+<placeName>Nacogdoches</placeName>, if they are true <persName>patriots</persName>, and true <persName>friends </persName>to themselves
+and to <placeName>Texas</placeName>, they will not suffer that decree to be published or 
+circulated in that <placeName>municipality </placeName>and they will take the stand I have
+indicated or some other that will preserve the constitution and our
+constitutional rights from open and direct violation</p>
+
+<p>These are my ideas on the matter. I have said the same to my
+<persName>friends </persName>in <placeName>Bexar</placeName>, and when the decree arrives officially (which it has
+not yet) I shall say the same to the <persName>Govt</persName>&#8212;What I do in this matter
+will be done openly&#8212;<placeName>Mexico </placeName>has not within its whole <placeName>dominions</placeName>
+a man who would defend its independence, the union of its 
+<placeName>territory</placeName>, and all its constitutional rights sooner than I would, or be more
+ready and willing to discharge his duties as a <persName>Mexican citizen</persName>; one
+of the first and most sacred of those duties is to protect my 
+constitutional rights and I will do it, so far as I am able. I am the
+owner of one <persName>slave </persName>only, an old decreped <persName>woman </persName>not worth much,
+but in this matter I should feel that my constitutional rights as
+a <persName>Mexican </persName>were just as much infringed as they would be if I had
+a thousand, it is the principle and not the amount, the latter makes
+the violation more agravated, but not more illegal or 
+unconstitutional</p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+
+<p>P. S.   Let me know what your <persName>Ayto</persName>. will do&#8212;</p>
+
+<p><persName>S. F. A </persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
