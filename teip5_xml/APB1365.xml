@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1365">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John R. Harris to Stephen F. Austin, 04-15-1827</title>
+            <author>
+                <persName>John R. Harris</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburg, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1630-1631
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-04-15">04-15-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harrisburg,</placeName> <date when="1827-04-15">April 15, 1827</date>.</p>
+<p><persName>Col. Stephen F. Austin</persName></p>
+
+<p>Dear Sir at the request of the <persName>widow McCormick</persName> I have taken
+the liberty to address you on the subject of her difficulties with 
+<persName>Johnson Hunter</persName>, while acting as <persName>alcalde </persName>I recd an Order from you to
+appoint six disentristed <persName>men </persName>to settle all difficulties between them I
+made the appointments agreeable to your request, and the <persName>Arbitrators</persName>
+awarded to <persName>John Hunter</persName> thirty Nine Dollars with costs, of suit. <persName>Mrs.
+McCormick</persName> has caled on <persName>Jackson, the Alcalde</persName> for an appeal in order
+to have a new Trial and have it brought before <persName>your honor</persName>. <persName>Jackson</persName>
+refuses to grant it on the ground that all such suit was to be settle'd
+in this <placeName>district</placeName>, her object in visiting your place is to get an order
+from you to the <persName>alcalde of <placeName>San Jacinto</</placeName>person_mentioned> to send the papers up to you.
+and have it try'd before your honorable <placeName>court </placeName>at the next Term&#8212;
+<persName>Earle </persName>has arrived at the <placeName>mouth of the Trinity</placeName> with the Schooner
+Augusta, with four or five <persName>families </persName>on board, you informed me that I
+could have my <placeName>league </placeName>altered so as to make it wider than the present
+survey, as it now stands it is only 2400 Bars wide the alteration that
+I want to make is not agoing to interf ear with any one.   and I would<pb n="1631"/>
+be under obligations to you to forward by <persName>Mrs. McCormick</persName>. the
+plot of my <placeName>league of land on Buffaloe Bayou</placeName>, (or a copy of it) that I
+deposited in your, your compliance will lay me under many
+obligations.</p>
+
+<p><persName>John R. Harris </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

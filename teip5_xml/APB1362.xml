@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1362">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W. Sutherland to Stephen F. Austin, 04-12-1827</title>
+            <author>
+                <persName>W. Sutherland</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austi(
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Rio Bravo, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1629
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-04-12">04-12-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>R Bravo</placeName><date when="1827-04-12"> April the 12 1827</date></p>
+<p><persName>Col. Austin</persName></p>
+
+<p>Sir I send a few lines to you to enquire how affairs are with
+<persName>Singleton </persName>respecting his <placeName>land </placeName>whether he holds <placeName>all of the land between
+<persName>Fisher</persName>s League and <persName>Car</persName>s League</placeName> or not And whether he is competent to transfer it away as he has bound himself and wishes to 
+receive the pay for it I should wish to know whether I may depend on
+any <placeName>part of that tract</placeName> and if not that I may know it I have paid him
+for <placeName>one quarter of a League adjoining <persName>Fisher</persName>s League</placeName> for which the
+bond more clearly shows I send you the bond to show that he may
+not deed it away to any other person. Please to give me some 
+information by <persName>Mr Arnold</persName> that I may know what to do</p>
+
+<p><persName>Walter Sutherland</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
