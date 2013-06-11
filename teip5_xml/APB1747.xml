@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1747">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Aylett C Buckner to Stephen F Austin, 08-07-1829</title>
+            <author>
+                <persName>Aylett C Buckner</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bernard, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 245
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-08-07">08-07-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting methods of collecting debts due Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Bernard </placeName><date when="1829-08-07">7th Agst 1829</date></p>
+<p><persName>Colo Austin</persName></p>
+
+<p>D Sir; Those to whom I have talked with relative to the claims
+You have against them for what may be owed on their <placeName>lands </placeName>
+consider it high time they were paid; But you know Where long
+indulgence is given and a long laps of time taken place without any
+demand a great many all most conclude the debt is paid. According
+to My opinion the most expeditious way of getting or collecting your
+claims would be to make a demand of each ones debt; if so those who
+are oweing Will begin to make preparations to discharge what they
+owe; You Know the nature of a great many for so long as they can
+get indulgence so long will they refrain from paying I am well
+apprised that there is very little money but if such property as they
+have will suit you at Cash valuation&#8212;I have but little doubt but
+most of them would pay&#8212; Any assistance I can give you in that
+way I will Cherfully do it I am thankful to you for having the
+error in the deed from <persName>Selkirk </persName>to Me rectified and whatever expences
+accruing from the same You will please let me Know&#8212; In 
+consequence of the flys continueing so long I could not start as soon as I
+would but before long I will take the Mules due you to <placeName>San Felipe de
+Austin</placeName>   Yours with Esteem</p>
+
+<p><persName>Ay. C. Buckner</persName></p>
+
+
+<p>In conversation with some I have taken the liberty of saying it
+would be better [to] pay as soon as possible otherwise they would
+perhaps be compelled to do it,&#8212;and with cost to the <persName>debtor </persName>(some
+require it)</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

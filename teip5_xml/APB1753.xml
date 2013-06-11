@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1753">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Zeno Phillips, 08-18-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Zeno Phillips
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 246-247
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-08-18">08-18-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructing him to be on guard against landing of Spanish forces on the coast.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>You will perceive by the enclosed printed proclamation of his
+<persName>Excellency the Governor</persName> and official letter of the <persName>Chief of Depart-<pb n="247"/>
+ment</persName>, that the inveterate <persName>enemy of our republic</persName> has landed on the
+<placeName>coast of Tamaulipas</placeName> and that the <persName>Govr </persName>has ordered that the <persName>militia
+of the State</persName> should be placed in the best possible State for active
+operations. In cumplyance with this order I have directed the 
+<persName>Captains </persName>to muster their respective <persName>companies </persName>with the least possible
+delay and inspect them and return to the first adjutant a full 
+statement of their force arms etc.</p>
+
+<p><persName>Mr. Bakus</persName> of the Schooner Augusta who came into <placeName>Galveston </placeName>a
+few days since from <placeName>Orleans</placeName>, reports that he was boarded off the
+<placeName>Mississippi </placeName>by the boats of a <persName>Spanish </persName>frigate that had been 
+dismasted;] in a storm off <placeName>Tampico</placeName>&#8212;this fact warns us that the
+<persName>enemy </persName>are near us, and some storm, or other circumstance may throw
+them onto our <placeName>coast</placeName>. Supposing that such a case is possible, I have
+directed <persName>Caps Baily and Sims</persName> to be watchful, and I must request
+that you should also be in readiness to repair to the <placeName>coast </placeName>at the
+first alarm and should an <persName>enemy </persName>appear, take such measures as 
+circumstances may permit to prevent them from taking the stock of
+cattle horses, hogs, etc., which would be an important supply for
+them&#8212;and you will inform me by express of whatever may occur,
+and of the force and appearance of any <persName>enemy </persName>who may be 
+discovered, and give me such or other information as you may deem
+important to the public service and to the security of the <persName>people of
+this <placeName>jurisdiction</placeName></persName>.</p>
+
+<p>God and Liberty</p>
+
+<p><placeName>Town of Austin</placeName> <date when="1829-08-18">18 Augt 1829</date></p>
+To <persName>Lieut Zeno Phillips.</persName>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
