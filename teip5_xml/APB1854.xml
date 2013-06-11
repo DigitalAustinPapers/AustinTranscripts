@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1854">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Abiel P Mead to Stephen F Austin, 02-15-1830</title>
+            <author>
+                <persName>Abiel P Mead</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-18">08-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Essextown, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 332-333
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-02-15">02-15-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Six or eight families desire information about conditions for obtaining land. Transportation system.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Essex town Essex County State of<lb/>
+New York.</placeName> <date when="1830-02-15">Feb. 15th 1830</date></p>
+<p>To<persName> Colo S. F. Austin</persName></p>
+<p>Sir</p>
+
+<p>A <persName>writer </persName>in the <placeName>Ohio Monitor</placeName>, under date of <date when="1829-10-14">Oct 14 1829</date>, after
+giving a short history and discription of your settlement at <placeName>San
+Felippe de Austin in Texas</placeName>, proceeds to say that " Lands can be
+obtained by <persName>emigrants </persName>with great facility from the <persName>Empresario</persName>
+and the <persName>Commissioner </persName>of government under the Colonization Law
+which authorizes the <placeName>grant </placeName>to <persName>families </persName>of actual <persName>settlers </persName>of<placeName> one
+league Mexican Measure</placeName>, equal in English to <placeName>4446 acres </placeName>superficial
+surface and <persName>unmarried men</persName> can obtain the 4th part of that quantity.
+The expenses of which will not amount to four cents per acre."</p>
+
+<p>The object of this communication is to inquire whether the 
+statements in that article can be relied on. There are from eight to
+twelve <persName>families </persName>in this place respectable for intelligence sobriety and
+industry, who if they could be assured of realizing the prospects
+held out to them by the writer of the article alluded to, would like
+to set out for that <placeName>place </placeName>as soon as they could make proper 
+arrangements; but we feel it to be too serious an undertaking to engage
+in without a better guarantee than an <persName>anonymous writer</persName> in a 
+<placeName>newspaper</placeName>.</p>
+
+<p>We should be particularly gratified to receive from you a speedy
+answer to the enquiry whether such a <persName>company </persName>could be located
+together in a <placeName>favorable spot</placeName>, and on what conditions with as many
+particulars relative to the soil, climate, civil and religious 
+regulations etc as you can afford time to devote to such an object.   If<pb n="333"/>
+<persName>settlers from the <placeName>north</placeName></persName> is an object worthy of your attention, we
+flatter ourselves that we should be able to draw after us if 
+everything should prove favorable, a great number of <persName>families </persName>in a few
+years, in as much as we can avail ourselves of internal navigation
+from this place (the shores of <placeName>Lake Champlain</placeName>) to <placeName>N. Orleans</placeName> a
+<placeName>distance of three thousand miles</placeName>. Our first <persName>company </persName>would consist
+of one or two <persName>physicians</persName>, some <persName>mechanics </persName>and some <persName>agriculturalists</persName>.</p>
+
+<p><persName>Abiel P. Mead M. D</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

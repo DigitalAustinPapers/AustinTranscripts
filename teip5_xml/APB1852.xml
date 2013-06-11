@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1852">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas F McKinney to Stephen F Austin, 02-13-1830</title>
+            <author>
+                <persName>Thomas F McKinney</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-18">08-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 331-332
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-02-13">02-13-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing James Bowie. Arrival of Padilla has much improved conditions in East Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdoches </placeName><date when="1830-02-13">13 Feby 1830</date></p>
+<p>Dr. Sir</p>
+
+<p>permit me to introduce to you <persName>Mr. James Bowie</persName> a <persName>gentleman </persName>who
+stands highly esteemed by his <persName>acquaintances </persName>and merits the attention
+particularly of the <persName>citizens of <placeName>Texas </placeName></persName>as he is disposed to become a
+<persName>citizen </persName>of the <placeName>country </placeName>and will evidently be able to promote its
+general interest. I hope you and <persName>Mr. Bowie</persName> may concur in 
+sentiments and that you may facilitate his views.   We are happy to<pb n="331"/>
+boast of a most happy change of things since the arrival of <persName>Dn J. Á.
+Padilla</persName>. I think your hopes will be realized by the course adopted
+by the <persName>Commissioner </persName>and we will be able to glide calmly along 
+without any remains of former curses. The <persName>military </persName>appear to have their
+duty much better than formerly. If they are doing anything in
+the old dishonesty it is in a private way and their impertinences
+have abated. in much haste</p>
+
+<p><persName>Thomas F. McKinkey   </persName> [Rubric]</p>
+<p><persName>Col. Stephen F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
