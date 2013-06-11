@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1951">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Stephen F Austin, 06-03-1830</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-21">08-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 407
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-06-03">06-03-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reason to fear that Terán wants to remove Austin from Texas and hold him as a hostage.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matamoros </placeName><date when="1830-06-03">June 3d 1830</date></p>
+<p><persName>Col. S F Austin</persName></p>
+
+<p>My dear Sir In a letter which I wrote you by <persName>Captn John
+Austin</persName> I expressed a wish that you might be induced to accept
+<persName>Genl Teran</persName>s invitation to meet him here rather than at <placeName>La bahia
+</placeName>or <placeName>St Antonio</placeName>&#8212; Since writing circumstances have transpired
+which cause me to suspect the <persName>Genl</persName>s Views to be somewhat
+treacherous</p>
+
+<p>When he came here one of his <persName>aids </persName>told <persName>Col Bradburn</persName> who was
+then with me that one of the<persName> Genl</persName>s objects in visiting <placeName>Texas </placeName>was
+to remove you from the <placeName>Colony</placeName>, your influence with the <persName>colonists</persName>
+being dangerous to the security of the province&#8212;</p>
+
+<p>I paid but little attention to the observation at the time 
+supposing it to be impossible for the <persName>Genl</persName> to meditate so rash a
+measure&#8212;</p>
+
+<p>Today there is great excitement amongst the <persName>Americans</persName>, on acct
+of a declaration <date when="1830-06-02">last night</date> by the <persName>Genl </persName>to a <persName>Mexican </persName>in presence
+of an <persName>American </persName>whom he supposed not to understand <persName>Spanish</persName>,
+that he viewed the <persName>foreigners </persName><placeName>in this part of the country </placeName>as the
+Most dangerous <persName>enemies </persName>of it particularly the <persName>North Americans</persName>
+whose sole object was to wrest from the <persName>Mexicans </persName><placeName>their property</placeName>
+and so much of their <placeName>territory </placeName>as they could get&#8212; The <persName>American</persName>
+could not refrain from asking him if it were possible that such were
+his real sentiments to which he replied they were&#8212; You know
+the duplicity of the <persName>Mexican </persName>character&#8212;their general want of
+faith in all transactions and the necessity of being guarded against
+their villany&#8212; It is possible the observation of the<persName> Genls Aid to
+Col B </persName>was with good information of the subject. It may therefore
+be wise to keep yourself under cover of your own rifles, which
+<persName>Genl Teran</persName> has not nerve nor power to encounter you must take
+good care not to let it transpire that I communicate with you on this
+subject as it would probably consign me to the <placeName>Calabose</placeName></p>
+
+<p>I shall be off as soon as I possibly can but have too much property
+outstanding to do it immediately</p>
+
+<p><persName>H Austin  </persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

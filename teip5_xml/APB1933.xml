@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1933">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, unknown</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-21">08-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 386-391
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Argument</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date>unknown</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Argument by Austin for repeal of the anti-immigration article of the Law of April 6, 1830.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>At the period of Mexican independence in <date n="xx-xx-1821">1821</date>, <placeName>Texas </placeName>was 
+uninhabited by a civilized <persName>population</persName>, except the towns of <placeName>Bexar </placeName>and
+<placeName>Goliad</placeName>-&#8212; It was infested by numerous bands of hostile <persName>Indians</persName>
+who sallied forth at pleasure to rob and desolate the <placeName>settlements </placeName>on
+the <placeName>rio Bravo</placeName>, extending their depradations into the <placeName>mountains </placeName>to
+the <placeName>neighborhood </placeName>of <placeName>Monclova </placeName>and <placeName>Monterey</placeName>, and along the <placeName>coast of
+Tamaulipas</placeName>&#8212;</p>
+
+<p>The system of <placeName>frontier </placeName>defence used by the <persName>Spanish Govt</persName> of 
+establishing <placeName>military posts</placeName> or <hi rend="italic">presidios </hi>was never an effectual barrier,
+for when those <placeName>posts </placeName>were in their best state of armament, the most
+that was done was to protect the immediate <placeName>vicinity </placeName>without being<pb n="387"/>
+able to cover the whole <placeName>country</placeName>, or prevent the <persName>Indians </persName>from 
+harassing the <placeName>frontier settlements</placeName>, and committing robberies on the <placeName>public
+roads</placeName></p>
+
+<p>The natural consequence was, that the civilized <placeName>settlements </placeName>were
+limited to the <placeName>garrisoned towns</placeName>. A few scanty <placeName>villages </placeName>were thus
+sustained like isolated specks in the midst of a <placeName>wilderness </placeName>at an
+enormous expense to the <persName>govt </persName>and a great waste of men and money&#8212;
+A <placeName>country </placeName>thus situated could evidently yield no revenue in return
+for the millions expended in its defence; it could not advance much
+in population or improvement, nor add anything to the physical
+force of the nation, but on the contrary, weakened it.</p>
+
+<p>It may therefore be said with truth, that under the old system of
+<hi rend="italic"><placeName>presidial </placeName></hi>defence, the whole of that part of the <placeName>Mexican territory</placeName>
+situated <placeName>north and east of a line from near <hi rend="italic">Soto la Marina</hi> on
+the gulf of Mexico to the Gulf of California </placeName> was an expence and a
+dead weight to the government.</p>
+
+<p>The experience of years had already convinced the <persName>Spanish 
+authorities</persName> of the<placeName> internal provinces</placeName>, of the absolute inefficacy of the old
+system of <placeName>frontier </placeName>defence, and that the only effectual and 
+permanent barrier was population, the <placeName>settlement </placeName>of the <placeName>frontier </placeName>by a
+hardy and interprising race of people before whom the <persName>savages</persName>
+would retire, or become submissive</p>
+
+<p>The result of this new opinion was a total change of the ruinous
+restrictive system which had for centuries locked up the whole of
+the <persName>Spanish </persName>possessions from the rest of the <placeName>world</placeName>&#8212; The first step
+that was taken towards the new system of <placeName>frontier </placeName>defence was
+the <placeName>grant </placeName>to<persName> Moses Austin</persName> on the<date when="1821-01-17"> 17 January 1821</date>, to settle a <placeName>colony</placeName>
+of <persName>Forth Americans</persName> in the <placeName>wilderness of Texas.</placeName></p>
+
+<p>During that year, <date n="xx-xx-1821">1821,</date> the independence was achieved, and the
+lights of liberal and republican principles shed their benign 
+influence over the whole <placeName>country</placeName>. One of the first acts of the new 
+<persName>government </persName>was to open the door to the emigration of <persName>foreigners</persName>, the
+colonization laws were enacted, and <persName>emigrants </persName>were expressly and
+earnestly invited to enter. Under the faith and operation of those
+laws the settlement of <placeName>Texas </placeName>was commenced, and its <placeName>wilderness </placeName>was
+rapidly changing its <placeName>uninhabited state and wild aspect</placeName>, and 
+yielding to the progress of <persName>civilized population</persName>, led on by enterprise and
+perseverance.</p>
+
+<p>The <persName>emigrants </persName>to <placeName>Texas</placeName>, it is well known, have never received
+any succors from the <persName>government</persName>&#8212;no <placeName>garrisons </placeName>were sent to 
+protect them during their infancy from the hostile <persName>indians </persName>who then
+filled every part of the <placeName>country</placeName>, They have never cost the government
+one cent&#8212;all they have ever recd was permission to settle in the
+<placeName>country</placeName>, and a title for the <placeName>lands </placeName>they redeemed from the <placeName>wilderness</placeName>,<pb n="388"/>
+<placeName>lands that were then valueless</placeName> to <placeName>Mexico </placeName>or to civilized man&#8212; Left
+to their own resources and daring enterprise, they have conquered
+a <placeName>wilderness</placeName>, and made known to <placeName>Mexico </placeName>and to the <placeName>world </placeName>the true
+value, and developed the resources, of a <placeName>large portion of the Mexican
+territory</placeName> which was before hid in obscurity,&#8212; They have also
+greatly contributed to the new system of <placeName>frontier </placeName>defence by means
+of population and fully tested its efficacy, for the <persName>savages </persName>have 
+retired before them, as they will continue to do, if the same system is
+pursued, until they are reduced to full subjection or settled in
+<placeName>villages </placeName>as <persName>agriculturists</persName>.</p>
+
+<p>It is certainly a natural and very rational inquiry. What 
+inducements, what incentives, what hopes, could have operated so 
+powerfully upon the minds of the <persName>emigrants </persName>to <placeName>Texas</placeName>, as to have given
+them fortitude to brave the dangers of savage <persName>foes</persName>, to dispise the
+hardships and privations of the <placeName>wilderness</placeName>, to support them through
+tryals and privations at which the stoutest hearts shrink&#8212; The
+cries of their little <persName>children </persName>even for bread, the well founded fears
+and despondency of their <persName>wives</persName>, surrounded as they were the first
+years of the settlement, by <persName>Indians</persName>, famine, and sickness and by
+the dark gloom of moments when even hope almost recoiled from
+the future?&#8212; What impulse of freedom and deeply imbeded hope
+bore them up and carried them through <hi rend="italic">such </hi>difficulties?&#8212; Was it
+the bare expectation of getting a <placeName>piece of land in a wild wilderness</placeName>
+and there living on the mere products of their manuel labor, and
+degenerating into the habits of wild <persName>Indians</persName>? No&#8212;common sense,
+and the characters and former habits of those <persName>settlers</persName>, unite in 
+saying NO&#8212; But on the contrary the great and nerving hope that
+bore them onward, was to redeem this <placeName>country </placeName>from the <placeName>wilderness</placeName>,
+and convert it into the abode of <placeName>civilization</placeName>, of abundance and 
+happiness, and by <hi rend="italic">that </hi>means to repay themselves, their <persName>wives </persName>and
+<persName>children </persName>for the hardships and sufferings of their early settlement,
+and also to repay the <persName>government </persName>more than thousand fold for the
+privilige of settling in <placeName>Texas</placeName>, and of making <placeName>wild lands </placeName>valuable,
+that before were valuless&#8212;</p>
+
+<p>On what grounds was such a hope as this founded? It was
+founded on the colonization laws, on the general, liberal and broad
+invitation given in those laws to the whole <placeName>world </placeName>to come and settle
+in <placeName>Texas</placeName>&#8212;on the faith of the Govt that such an invitation would
+not be <hi rend="italic">thus </hi>given merely to draw a few unsuspicious <persName>emigrants </persName>to
+this <placeName>wilderness </placeName>and <hi rend="italic">then </hi>to close the door and shut them out 
+forever from their <persName>friends </persName>and <persName>relations</persName>, and in fact from the balance
+of the civilized world, when years of struggling through difficulties
+had just begun to realize their hopes&#8212; Could the first <persName>emigrants</persName>
+have supposed that they would have been deprived of the privilege
+of settling by their sides a <persName>son </persName>or <persName>daughter</persName>, an aged <persName>father </persName>or wid-<pb n="389"/>
+owed <persName>mother</persName>, a <persName>brother </persName>or <persName>sister</persName>, an old and affectionate <persName>friend </persName>or
+<persName>neighbor </persName>of other days and of other <placeName>countries</placeName>, because they did
+not emigrate on this or on that particular day? Could they have
+supposed that the general invitation of the colonization laws were
+mere time serving and temporary expedients which were to be
+changed without any apparent reason and without any violation of
+duty on the part of the first <persName>emigrants</persName>, is it reasonable to suppose
+that they would have labored as they have done, suffered what they
+have suffered, to bring forward this <placeName>country</placeName>, and give value 
+character, and credit to it? No&#8212;they built their hopes on the 
+permanency of the colonizing system, on the faith of the government
+pledged in their colonization laws, on the broad basis of 
+philanthropy and republican freedom which they supposed had been
+adopted as the foundation on which the social institutions of <placeName>Mexico</placeName>
+were erected&#8212; Those hopes were certainly not entertained 
+without a sufficient cause, and neither are they now destroyed 
+notwithstanding the restrictions which are imposed by the law of <date when="1830-04-06">6 April
+1830</date> which totally interdicts the emigration of <persName>North Americans
+</persName>for it is confidently believed that those restrictions grew out of
+peculiar circumstances, party excitements and hasty jealoucies
+which no longer exist&#8212;</p>
+
+<p>It seems to have been received as a correct opinion that the 
+<persName>inhabitants of <placeName>Texas</placeName></persName> wished to separate from <persName>Mexico </persName>and unite with the
+<placeName>U. S. of the North</placeName>&#8212; It seems that the virulence of party feelings
+even went so far as to suspect that a friendly and republican govt
+whose <placeName>territory </placeName>is already too great for its population, wished to
+sieze upon <placeName>Texas</placeName>&#8212; such opinions and suspicions are evidently at
+variance with the conduct and avowed wishes of those <persName>emigrants</persName>,
+and with the true and substantial interests of <placeName>Texas</placeName>, on the one hand;
+and with the good faith and established policy and principles of the
+<persName>Govt of the <placeName>U. S.</placeName></persName>, on the other&#8212; <placeName>Texas </placeName>could gain nothing by a
+separation from <placeName>Mexico</placeName>, except a removal of the ruinous restrictions
+that now impede its progress in population and wealth, and if those
+restrictions were taken off, there is not a rational <persName>man </persName>in the <placeName>country</placeName>
+who would not oppose a separation&#8212; The true interests of <placeName>Texas</placeName>
+are to become a <placeName>State of the Mexican confederation,</placeName> and this is the
+desire of its <persName>inhabitants</persName>&#8212; By the law of <date when="1824-05-07">7 of May 1824,</date> forming the
+<placeName>State of Coahuila and Texas</placeName>, the latter was only provisionally 
+annexed to the former, untill it possessed the necessary elements to form
+a<placeName> state of itself</placeName> and this very law was another inducement to the
+<persName>emigrants </persName>to preserve, for it held out the inducement amounting
+even to certainty, that <placeName>Texas </placeName>would be a <placeName>State </placeName>so soon as its 
+population and resources were sufficient. Moral obligation, and interests
+are the two great cords that bind <placeName>communities</placeName>, <placeName>states </placeName>and <placeName>nations</placeName>
+together&#8212;   In no instance can the principle of interest be stronger<pb n="390"/>
+than in the present one, supposing the restriction against emigration
+to be taken off</p>
+
+<p><placeName>Texas </placeName>must he an <placeName>agricultural country</placeName>, and the most of its 
+agricultural productions will find a much better <placeName>market </placeName>in the <placeName>Mexican
+ports</placeName> than in those of any part of the <placeName>world</placeName>. The <placeName>interior </placeName>trade by
+land will also be very important. At this time, this trade is 
+principally carried on <placeName>through Missouri to New Mexico and Chihuahua
+</placeName>but the geographical situation of the <placeName>country </placeName>and the practicability
+of <placeName>roads from the harbors of Texas,</placeName> evidently indicate that the 
+natural channel of that trade, is from those <placeName>ports</placeName>, in preference to the
+<placeName>circuitous route by Missouri through a foreign country</placeName>, subjecting
+merchandise to a double duty which they would be exempt from if
+taken from the <placeName>ports of this nation</placeName>&#8212; The <persName>manufactures of <placeName>Texas</placeName></persName>
+abounding as this <placeName>country </placeName>does in facilities for their establishment
+would evidently lose by a separation from <placeName>Mexico</placeName>. In fact there is
+not one interest in <placeName>Texas </placeName>that would not be injured by a separation
+not one that would not be materially benefited by the erection of this
+country into a <placeName>state of Mexico.</placeName></p>
+
+<p>This being the case, why drive the <persName>people of <placeName>Texas</placeName></persName> to desperation
+by a system of restriction, that is at varience with the inducements
+and well founded hopes first held out to the <persName>emigrants</persName>, and with
+the true interests of the <placeName>country</placeName>? The 11th article of the law of
+<date when="1830-04-06">6 April 1830</date> totally prohibits the immigration of <persName>North Americans,</persName>
+and suspends contracts previously entered into by the government
+thereby depriving the present <persName>settlers </persName>of the consolation of settling
+there <persName>relatives </persName>and <persName>friends </persName>along side of them. It also cuts off all
+hope of future advancements for years to come and condemns this
+country to a <placeName>wilderness</placeName>. The hope of bringing out <persName>emigra[n]ts
+</persName>from <placeName>Europe</placeName>, is a faint and distant one, and will require many years
+and a vast amount of capital to accomplish it. And besides, what
+security or guarantee have they, in coming here, that they will not
+also be deprived of the privilege of bringing out their <persName>relations </persName>and
+<persName>friends </persName>after they have suffered years of hardships in preparing a
+<placeName>home </placeName>for them, as the <persName>settlers </persName>from the <placeName>U.S</placeName>. have been by the law
+of <date when="1830-04-06">April 6, 1830</date>?</p>
+
+<p>under this view of the subjects, it certainly appears evident that
+that part of the law <date when="1830-04-06">of 6 April 1830 </date>prohibiting the immigration of
+<persName>north Americans</persName>, is unjust and at varience with the faith and pledges
+of the <persName>Govt </persName>and with the true and substantial interests of <placeName>Texas</placeName>&#8212;
+That law will not, and cannot prevent the introduction of hundreds
+and thousand into <placeName>Texas</placeName>, who, if they do not receive the sanction
+of the Govt to remain and acquire <placeName>real estate</placeName>, will, as a matter of
+course, become restive and perhaps, jeopardize the public tranquility
+But, on the other hand, by opening the door for admission of honest<pb n="391"/>
+and honorable <persName>men </persName>of high character and property, the moral 
+influence of such men will correct and direct public opinion, and make
+the moral tie, as well as that of interest, which does and ought to
+bind <placeName>Texas </placeName>to <placeName>Mexico </placeName>indisoluble&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

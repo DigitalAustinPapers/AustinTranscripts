@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1961">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas F Leaming, 06-14-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-21">08-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas F Leaming
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Philadelphia, Pennsylvania</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 413-417
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="private"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-06-14">06-14-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reasons for undertaking to
+colonize Texas, and difficulties encountered. Worked noiselessly to avoid
+exciting apprehensions of Government. The present law of April 6, 1830,
+does not apply to his colony. Friends inserted provisions exempting from its
+operation colonies already established. Desires to remain subject to Mexico,
+but fears that time may force separation from Mexico, in which case he
+would favor independence if Texas had sufficient population. Suggests Swiss
+and German colonists. His map designed as a bait to promote colonization
+by spreading information about Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1830-06-14">14 June 1830</date></p>
+<p><persName>T. F. Leaming Esqr</persName>.</p>
+
+<p>My dear Sir, It has been a long time since I had the pleasure of
+hearing from you by letter. My <persName>brother in law James F. Perry</persName>
+paid me a visit in<date n="04-xx-1830"> april last </date>and will remove his <persName>family </persName>to this <placeName>colony</placeName>
+in the <date n="Fall - 1830">fall </date>he expects to visit <placeName>Phia </placeName>this <date n="Summer - 1830">summer </date>and will call on
+you&#8212; I have as yet heard nothing of the <placeName>Map of Texas</placeName>, since I
+forwarded it the surveys have been considerably extended and I
+could now form a much more accurate map, tho the one I sent gives
+a very correct general idea of the <placeName>country </placeName>and is fully as correct as
+the first maps of new <placeName>countries </placeName>usually are and I think more so, it
+cost me great labor and trouble and considerable expence&#8212; My
+object was not individual profit, it was to bring this <placeName>country </placeName>
+forward into public view, for it has been literaly buried in obscurity up
+to the last year&#8212;</p>
+
+<p>Respect for the opinions and last will of my <persName>father </persName>caused me to
+explore <placeName>Texas </placeName>in <date n="xx-xx-1821">1821</date>. I was both delighted and astonished to find
+it to be the <placeName>most favord region I had ever seen</placeName>.   Its fertility and<pb n="414"/>
+natural resources, so far exceeding any thing I had imagined, 
+determined me to devote my life to the great object of redeeming it from
+the <placeName>wilderness</placeName>.</p>
+
+<p>It was a heavy undertaking for a young, inexperianced <hi rend="italic">and very
+poor man</hi>&#8212;My first step was to study the character of the <persName>Mexicans</persName>
+and ascertain their ideas and views as to <placeName>Texas</placeName>&#8212; I found they
+knew nothing about it, and were profoundly ignorant of its real
+value, and also that they considered it next to impracticable to form
+a <placeName>settlement </placeName>in its <placeName>wilderness </placeName>without the aid of a very strong 
+<persName>Military force</persName> for <placeName>garrisons </placeName>to keep the <persName>indians </persName>in check. I also 
+discover that strong prejudices existed against the <persName>North Americans
+</persName>owing to the conduct of some who were engaged in the <persName>revolutionary
+expeditions</persName> that had entered <placeName>Texas </placeName>at various times since <date n="xx-xx-1811">1811</date>, I
+saw that all the efforts to get foothold here by means of such 
+<persName>expeditions </persName>had failed and ended in defeat and ruin, and I believed they
+always would fail, These observations convinced me that the only
+means of redeeming this <placeName>country </placeName>from the <placeName>wilderness </placeName>was by 
+peaceful <hi rend="italic">silent</hi>, noisless, perseverence and industry, and that the axe, the
+plough and the hoe would do more than the rifle or the sword.
+under these impressions I began and have pursued the main object
+with a degree of patience and perseverence which nothing but its
+vast importance to the<placeName> civilized world </placeName>could ever have given me
+fortitude to continue through so many years of hardships and amidst
+so many discouraging obstacles&#8212; The worst is now over and the
+few clouds which seem to hang over us are mere shadows when 
+compared with those which have passed. I have laid a sufficient 
+foundation for others to build on, and a prudent course will make this
+<placeName>country </placeName>one of the finest in the <placeName>world</placeName>.</p>
+
+<p>The measures lately adopted by the <persName>Mexican Govt</persName>, prohibiting
+the emigration of <persName>North Americans</persName>, affords a striking proof of the
+nesesity of the <hi rend="italic">silent </hi>course which I have pursued in bringing 
+forward this <placeName>settlement</placeName>. I have never sent any notices or publications
+respecting it to be printed in the <placeName>news papers</placeName> untill lately, when I
+first began in <date n="xx-xx-1821">1821 </date>merely put in a notice in the <placeName>Orleans papers </placeName>that
+I was authorised to settle <persName>300 families</persName> and barely said enough to
+draw a little attention, last year I found that the Govt, were 
+begining to become suspicious that this <placeName>country </placeName>was of more value than
+they had supposed it was, <persName>Genl Teran</persName> passed through here, and
+saw it. I found that something must be done to draw emigration
+and I determined to have the <placeName>Map </placeName>published as the Most effectual
+means of operating on an intelligent <persName>people</persName>, and the least dangerous
+with the <persName>Mexicans</persName>, for not many of them know any thing about <placeName>maps</placeName>
+&#8212;unfortunately about this time "<hi rend="italic">Americanus</hi>" and other <placeName>publica-<pb n="415"/>
+tions </placeName>appeared and <hi rend="italic"><placeName>Texas </placeName></hi>became A general topic of discussion in
+the<placeName> U. S. papers </placeName>This roused the attention of the <persName>Mexican </persName>Govt,
+and excited their jealoucy that the <placeName>U. S.</placeName> were determined to take
+this <placeName>country </placeName>by force right or wrong, and this mistaken notion has
+produced the law of <date when="1830-04-06">6 of April</date> last prohibiting emigration from the
+<placeName>U. S. </placeName>and suspending all the contracts of colonization, except in the
+<placeName>colonies that are " <hi rend="italic">established </hi>"</placeName>&#8212; this clause was crowded in by
+my <persName>friends </persName>to cover this <placeName>colony </placeName>(for mine is the only one that is
+established) and under it I shall be able with good management to
+keep open the door for some time longer, and perhaps untill a new
+order of things takes place,</p>
+
+<p>I have had two difficult tasks to perform here, one to manage
+the Govt, and the other to manage the <persName>settlers</persName>, of these, the latter
+was by far the most difficult&#8212; I do say that the<persName> North Americans
+</persName>are the most obstinate and difficult <persName>people </persName>to manage that live on
+earth, tho I have had many "<persName> backwoods men</persName> " and " <persName>rough fellows</persName> "
+to do with. <persName>Emigrants from europe</persName> are not prohibited, and I
+sometimes think that <persName>Swiss </persName>and <persName>Germans </persName>will promote the 
+prosperity of this <placeName>country </placeName>much more than <persName>North Americans</persName>&#8212; They
+will introduce the culture of the vine, olive etc. they are industrious
+and moral, they have not in general, that horrible <hi rend="italic">Mania </hi>for 
+speculation which is so prominent a trait in the <persName>english </persName>and <persName>North
+American</persName> character, <hi rend="italic">and above all they will oppose slavery</hi>&#8212; The
+idea of seeing such a <placeName>country </placeName>as this overrun by a <persName>slave </persName>population
+almost makes me weep&#8212; It is in vain to tell a <persName>North American</persName> that
+the <persName>white population</persName> will be destroyed some fifty or eighty years
+hence by the <persName>negros</persName>, and that his <persName>daughters </persName>will be violated and
+<persName>Butch[er]ed</persName> by them&#8212; "it is too far off to think of&#8212;" "they can
+do as I have, take care of themselves "&#8212;" something will turn up
+to keep off the evil" etc, etc, such are the silly answers of the <persName>slave
+holder</persName>&#8212;to say any thing to them as to the justice of slavery, or its
+demoralizing effects on society, is only to draw down ridicule upon
+the person who attempts it&#8212; In the begining of this <placeName>settlement</placeName>
+I was compelled to hold out the idea that slavery would be tolerated,
+and I succeeded in getting it <hi rend="italic">tolerated </hi>for a time by the Govt. I
+did this to get a start for otherwise it would have been next to 
+impossible to have started at all, for I had to draw on <placeName>Louisiana </placeName>and
+<placeName>Mississippi</placeName>, <placeName>Slave States</placeName>, for the first <persName>emigrants</persName>&#8212; Slavery is now
+most positively prohibited by our Constitution and by a number of
+laws, and I do hope it may always be so.</p>
+
+<p>I have passed a truly slavish life here for nine years, my 
+constitution is much broken, my health bad, and my days are probably
+drawing towards a close, but I can claim some credit for what has
+been done towards laying a foundation for the formation of a rich
+and I hope a happy <placeName>community</placeName>&#8212; <placeName>Texas </placeName>no longer belongs to the
+<placeName>wilderness</placeName>&#8212;whether it will ultimately remain attached to <placeName>Mexico</placeName>,
+or unite with <placeName>the north</placeName>, or form an <placeName>independent nation</placeName>, is all mere
+matter of conjecture, If slavery is excluded, I think the latter the
+most probable&#8212;but if it is admitted, <placeName>Texas </placeName>will become what all
+<placeName>slave countries </placeName>are and of necessity must be destitute of physical force
+and dependent on some other power even for the preservation of its
+internal tranquility&#8212;in short it must have a <hi rend="italic">prop </hi>to lean upon, for
+no <placeName>slave country </placeName>can stand alone&#8212;</p>
+
+<p>I think that much good might be done by a series of publications in
+the<placeName> National Gazette</placeName> on the emigration of <persName>Swiss </persName>and <persName>Germans </persName>to
+<persName>Texas</persName>&#8212;also against the admission of Slavery here&#8212;against annexing
+it to the <placeName>U. S.</placeName>&#8212;in favor of its adhering to <placeName>Mexico </placeName>as long as the
+federal constitution stands <hi rend="italic">and no longer</hi>, but then to set up for
+itself, under the protection of the <placeName>U. S</placeName>.&#8212; you will of course 
+perceive that this letter is not <hi rend="italic">for the public eye</hi>&#8212; I have wished to
+give <hi rend="italic">you </hi>as a relative, some idea of my labors and views here, they
+are pure&#8212; I will die sooner than violate my duty to this 
+government, and if it would let me work I would make <placeName>Texas </placeName>the best state
+that belongs to this <placeName>nation</placeName>, but my dear sir the truth is that the
+<persName>Mexicans </persName>cannot sustain a <placeName>republic</placeName>-&#8212; The present form must fall
+and what is then to become of Texas ? we are too weak to set up for
+ourselves, unless under the protection of our <persName>powerfall neighbor</persName>&#8212;
+and the protection which the strong affords to the <hi rend="italic">weak </hi>is much to be
+feared-&#8212; If we had population, our course would be a very plain
+one, but we have it not&#8212; <placeName>Territory </placeName>we have to form a snug 
+<persName>republic</persName>,&#8212; I am in hopes the federal system may stand a few years
+longer and that by that time we shall get in some thousands of <persName>swiss</persName>,
+<persName>Germans</persName>, etc, and <persName>North Americans</persName>&#8212;the emigration is still 
+uninterupted to my <placeName>colony </placeName>and there will be a great accession of strength<date n="Fall - 1830">
+this fall&#8212;</</date>p>
+
+<p><persName>S. Rhoads Fisher</persName> of your city has paid us a visit and can give
+you much information as to this <placeName>country</placeName>&#8212;-</p>
+
+<p>I sent you a <placeName>pamphlet </placeName>sometime since containing translations of
+the laws of colonization etc&#8212;if you have not recd it you can get
+one from <persName>John P Austin</persName>, <persName>(Austin and Tayleur)</persName> <placeName>New York</placeName>, or from
+<persName>Arch. Austin</persName> same place&#8212;you will see by the law that what I stated
+to you relative to the impositions attempted by <persName>D. A. Smith,</persName> <persName>Stephen
+Wilson </persName>etc was correct&#8212;the publications of those men had its effect
+in producing the law of<date when="1830-04-06"> 6 of April</date> last. Had all other <persName>impresarios</persName>
+gone to work in good faith as I did, <placeName>Texas </placeName>would now have had a
+very heavy population, but I am the only one out of near 80 who
+engaged to settle <placeName>colonies </placeName>who has done any thing, <hi rend="italic">except harm</hi><pb n="417"/>
+they have not brought one <persName>family </persName>to the <placeName>country</placeName>, nor advanced one
+step.</p>
+
+<p>I have but little knowledge of my <persName>mothers family</persName> I idolised
+my beloved <persName>Mother </persName>and altho I know none of her <persName><placeName>Philadelphia </placeName>family</persName>
+connections personally I have towards them all the affection of a
+relative&#8212; Will you do me the kindness to send me by<persName> Mr. Perry</persName>
+a short historical sketch of my <persName>mothers </persName>parentage and <persName>family </persName>and
+of my <persName>maternal relations</persName> who are alive, where they live, their names
+etc I have a great desire to visit the <placeName>U. S. </placeName>and I have no doubt it
+would restore my health, but I am tied down here now, by many
+heavy and perplexing duties, and to tell the truth I am too poor as
+to <hi rend="italic">money</hi>) to bear the expence&#8212; I have land but it will not sell
+yet&#8212;notwithstanding, I do not dispair of seeing <placeName>Philadelphia </placeName>before
+I die&#8212;.</p>
+
+<p>I think I was called after <persName>Benjamin Fuller </persName>who married a <persName>sister
+of my mothers</persName>,&#8212; who inherited his fortune? he promised my
+<persName>mother </persName>to leave it to me&#8212; If I had it now I would make <placeName>Texas</placeName>
+much the better by it&#8212;</p>
+
+<p>I hope <persName>Tanner </persName>may make a fortune out of the <placeName>map</placeName>, if so, he
+must send me one [of] his best bound general Atlasses&#8212;</p>
+
+<p>you may have some curiosity to know my age,   I was born in
+<placeName>Wythe county Virginia </placeName><date when="1793-11-03">November 3. 1793</date>&#8212;</p>
+<p>very cordially your frend and relation</p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+<p>I regret to say that <persName>James Austina son of Aunt Margarette</persName>  died
+of consumption here a short time after his arrival from <placeName>Missouri</placeName>,
+he was nearly gone when he reached here&#8212;</p>
+
+<p><persName>A</persName></p>
+
+<p>[Addressed:] <persName>Thomas F. Learning Esqr.</persName> <placeName>Philadelphia Pen</placeName>.</p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

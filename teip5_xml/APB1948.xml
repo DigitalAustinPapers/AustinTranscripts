@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1948">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Austin, 06-01-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-21">08-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 404-405
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-06-01">06-01-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Law of April 6 a capital error
+because it tends to disaffect colonists who feel strong loyalty to Mexico. They
+do not want to belong to the united States. The law will not affect Austin's
+colony, however, where immigration will continue as before. Terán the
+author of the law.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>To <persName>Capt. Henry Austin&#8212;</persName></p>
+
+<p>My dear Sir&#8212;I have never heard what was the result of your
+application for a <placeName>grant of land</placeName> which you informed me you had
+presented to the <persName>Govt of this State</persName>&#8212;have you received any answer ?
+I presume you have of course seen the law of the <date when="1830-04-06">6th of April</date>&#8212; that
+law will be a <hi rend="italic">dead letter</hi> in <placeName>Texas </placeName>so far as regards my <placeName>colony </placeName>for
+the 10th Article covers me entirely:<pb n="405"/></p>
+
+<p>A more impolitic measure could not have been adopted by this
+<persName>Govt</persName>&#8212; All the <persName>new settlers</persName> were opposed to a change of Govt or a
+sale of <placeName>Texas </placeName>to the <placeName>U. S</placeName>.&#8212;they were becoming sincerely attached
+to this <persName>Govt</persName> and they always have been faithful and always would
+be&#8212; This <persName>Govt </persName>has a stronger hold on <placeName>Texas </placeName>in the respect which
+the <persName>new settlers</persName> have for their oaths to support the constitution of
+their <placeName>adopted country</placeName>, than any hold which a <persName>military </persName>force could
+give them&#8212; I wish you to write when the long expected <persName>army of
+<placeName>Texas</placeName></persName> is to be on, and its number etc&#8212; I now believe that the
+Federal constitution will fall and that the Govt will assume an
+arristocratical or monarchical form&#8212; I know not what will be the
+ultimate fate of <placeName>Texas</placeName>&#8212; I am myself opposed to a union with the
+<placeName>U. S</placeName>. unless we first receive some <hi rend="italic">guarantees</hi>, amongst them I should
+insist on the perpetual exclusion of slavery from this <placeName>country </placeName>write
+me how you are getting on, whether you can visit <placeName>Texas</placeName>&#8212; Are you
+friendly with <persName>Teran</persName>&#8212; he and myself are on the very best of terms&#8212;
+he has committed a capital error in advising the present measures
+against <placeName>Texas</placeName>, for the fact is he is the <persName>author </persName>of them although he
+has no idea that I am apprised of that fact&#8212; <hi rend="italic">I have always known
+it</hi>&#8212; The most perfect peace and harmony reigns all over <persName>Texas </persName>and
+will no doubt so continue&#8212; The timorous will hesitate about 
+immigrating here, but all who are fully informed on the subject will
+not,&#8212;for the fact is there is nothing to fear, neither will any
+embarrissments be interposed to stop emigration to my <placeName>colony</placeName>&#8212;
+I have letters of late date from <persName>Arch </persName>and <persName>John P Austin </persName><hi rend="italic">all well</hi></p>
+
+<p><persName>S. F. Austin.</persName>
+</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

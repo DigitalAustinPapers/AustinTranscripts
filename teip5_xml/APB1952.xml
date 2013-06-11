@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1926">
+xml:id="APB1952">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F Austin to Elias R Wightman, 05-17-1830</title>
+            <title>James Austin to Dr. Wells, 06-04-1830</title>
             <author>
-                <persName>Stephen F Austin</persName>
+                <persName>James Austin</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -30,16 +30,10 @@ xml:id="APB1926">
         </publicationStmt>
         <sourceDesc>
             <listPerson>
-                <person>
-                    <persName type="sender">
-                        an indian
-                    </persName>
-                </person>
-
 
                 <person>
                     <persName type="recipient">
-                        Elias R Wightman
+                        Dr. Wells
                     </persName>
                 </person>
 
@@ -54,7 +48,7 @@ xml:id="APB1926">
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 377
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 407
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -65,17 +59,17 @@ xml:id="APB1926">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Account</channel>
             <constitution type="single"/>
             <derivation type="original"/>
-            <domain type="domestic"/>
+            <domain type="private"/>
             <factuality type="fact"/>
             <interaction type="none"/>
             <preparedness type="prepared"/>
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1830-05-17">05-17-1830</date>
+            <date when="1830-06-04">06-04-1830</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -87,40 +81,25 @@ xml:id="APB1926">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Surveying, Indians, land grants.</add></p>
+            <p><add hand="#barker">Doctor's bill.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>Dr Sir. I recd your letter by the <persName>indian</persName> and am much, pleased with
-your account of the <placeName>country </placeName>and progress in surveying&#8212; It will be
-impossible for me to visit there for I shall leave here for <placeName>St Antonio</placeName>
-in a few days&#8212;</p>
+<p><persName>James Austin</persName> To <persName>Francis F Wells  </persName> Dr</p>
 
-<p>you will therefore exercise your own judgement in laying off that
-<placeName>country </placeName>so that there be no vacancies left and you will regulate the
-shape of the tracts as situations and circumstances may require and
-also intermix <placeName>quarters </placeName>where necessary to fill vacancies and above-
-all make all the <placeName>tracts </placeName>you can, and economise the <hi rend="italic">water fronts</hi> as
-much as possible so as to make as many tracts as possible I must rely
-on your judgement and give you discretionary powers in this matter
-which I do without hesitation and with the most entire confidence</p>
+<p><date when="1830-06-01">June 1st</date> Visit to <persName>Mr Bells</persName> prescription etc__________________________   $2.00</p>
 
-<p>I wish you to select <placeName>two leagues</placeName> there for me as a part of my
-<placeName>premium land</placeName></p>
+<p>2nd Visit to <persName>Mr Bells</persName> prescription Emetic and staying all day___   5.00</p>
 
-<p>I have given your letter to <persName>Mr. Williams</persName> to make the entries you
-mention&#8212;</p>
+<p>3rd Attention through day and night at my <placeName>house</placeName>_______________     5. 00</p>
 
-<p>Keep harmony with the <persName>Beedies </persName>and enjoin it on the <persName>Settlers </persName>to do
-the same and to treat them well and try and persuade them to settle
-on the <placeName><hi rend="italic">East </hi>side of the San Jacinto</placeName></p>
+<p>4th Attention through day and night__________________________     5.00</p>
 
-<p><date when="1830-05-17">May 17. 1830</date></p>
+<p>$17.00</p>
+<p><date n="xx-xx-1830">1830</date>   Recd, payment</p>
 
-<p><persName>E. R. Weightman</persName></p>
-
-<p><persName>S. F. Austin</persName></p>
+<p><persName>Francis F Wells</persName></p>
 
 
         </div1>
