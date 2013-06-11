@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3004">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John H. Folwer, Jr. to Unknown, 09-22-1825</title>
+            <author>
+                <persName>John H. Fowler, Jr.</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        John F. Fowler
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Miller County, Arkansas Territory</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1207
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Affidavit</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-22">09-22-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Affidavit concerning forgery</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Territory of Arkansas</placeName></p>
+<p><placeName>County of Miller</placeName></p>
+
+<p><date when="1825-09-22">This day</date> <persName>Clark Robinson</persName> being duly sworn before me <persName>John H.
+Fowler an acting justice of the Peace in and for <placeName>Miller County</placeName></persName>, 
+Territory afsd. sayeth that <persName>Ruben McHaws</persName> purchased early in this
+month a quantity of Merchandeze and endorse[d] notes to said <persName>Fowler</persName>
+for the same to the Amount of about two hundred and forty one 
+dollars and twenty five cents which notes has every appearance of being
+Forged and said deponent verrilly believes that they are forged notes
+and it appears to be a general opinion that the notes are spurious</p>
+
+<p>Great exersions were made use of to get hold of <persName>McHaws</persName> who
+with dexterity made his escape</p>
+
+<p><persName>Clark Robinson</persName>.</p>
+
+<p>Sworn and subscribed before me <date when="1825-09-22">22nd Sept 1825</date></p>
+
+<p><persName>J H Fowler Jr</persName></p>
+
+<p>The above affidavit taken before me would not be valed in law but
+is designed to shew you that [M]y claim does exist and every 
+necessary proof can be had to prove my statements true.</p>
+
+<p><persName>John F. Fowler</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

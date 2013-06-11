@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3003">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John H. Fowler to Stephen F. Austin, 09-22-1825</title>
+            <author>
+                <persName>John H. Fowler</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Miller City, Arkansas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1206-1207
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-22">09-22-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks help in apprehending a swindler. Choctaws are shortly to possess our country, and large number of settlers will emigrate to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Miller Cty. Ark. T.</placeName></p>
+
+<p><date when="1825-09-22">Sept. 22nd 1825</date></p>
+<p><persName>Mr. Austin</persName></p>
+
+<p>Dear sir My acquaintance with your general character, (though I
+have not the pleasure of a personal acquaintance, having seen you
+only a few times while at <placeName><persName>William Stevenson</persName>s</placeName> in <placeName>mount prairies</placeName>) and
+the high station you hold in the land in which you live induces me to
+hope for success on the present occasion</p>
+
+<p>A man by the name of <persName>Ruben McHaws</persName> has swindled me out of
+about $250,00 by tradeing me sundry forged notes of his own 
+manufactory on <persName>citizens </persName>that I knew to be good; the precise amount is
+$242,25   two <persName>negro fellows</persName> one belonging to <persName>Mr John Johnson</persName> the <pb n="1207"/>other to <persName>Saml Hopson</persName> has recently run away&#8212;<persName>Hopsons Negro</persName> was
+taken up makeing his way to your <placeName>province </placeName>and is of opinion the other
+perished <placeName>in the woods</placeName> I have not heard that he has ever been found
+and says that <persName>McHaws</persName> persuaded them to run away I made every
+exersion to catch the <persName>vilian</persName>, but finally failed; and the only hope I
+now have of detecting him, is in your concern for my interest from
+the merits of the case: You need have no apprehension of the 
+existance of my <placeName>claim </placeName>which is coroborated by the accompanied affidavit
+<persName>McHaws</persName> is of Moderate size with blue eyes and balld headed, And
+will perhaps pass through your dominions in the character of a
+<persName>pedler</persName>: Now sir if it be consistent with your authority to destrain
+his effects in order to secure me you will do me a favour never to be
+forgotten and I would be glad if you would write me immediately on the subject I feel the more anxiety on the occasion as this is a large
+amount for me, in my situation, to loose: And I do declare upon
+honour that I am able to establish the above accounts to all intents
+and purposes</p>
+
+<p>We have nothing of import; you have heard no doubt that the 
+<persName>Chactaws</persName> will shortly posses our <placeName>country </placeName>and many of the <persName>inhabitants</persName>
+talk of moveing to your <placeName>province </placeName>I intend so soon as my business
+will admit paying your <placeName>country </placeName>a visit and if I like to locate there.</p>
+
+<p><persName>John H. Fowler</persName></p>
+
+<p><persName>Stephen F Austin Gov. <placeName>Prov. Texes</placeName></persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

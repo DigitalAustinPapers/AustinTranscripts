@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3005">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William P. Perkins to Stephen F. Austin, 09-27-1825</title>
+            <author>
+                <persName>William P. Perkins</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Woodville, </placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1208
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-27">09-27-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks concerning method of holding his claims</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Woodville</placeName> <date when="1825-09-27">27th Sept. 1825</date></p>
+<p>Dr Sir,</p>
+
+<p>I have now made my arrangements to send two or three <persName>hands </persName>to
+your <placeName>country </placeName>some time in the <date n="Winter - 1825">winter</date>, to make a Crop <date n="xx-xx-1826">next year</date>, but
+I find it impracticable for me to move my <persName>family </persName>and <persName>hands </persName>for 
+several years, therefore I write this particularly to know from you, if I
+am there myself and make a Crop, will it be sufficient to hold my
+land, with the title I already have. I am anxious you would write
+to me by the <date when="1825-11-01">first of November</date> on this subject&#8212;if you think this will
+not answer I will probably decline the undertaking.</p>
+
+<p><persName>Wm. P.  Perkins</persName>.</p>
+
+<p>Give my respects to <persName>Coln Pettis</persName>and <persName>Mr. Williams</persName>.</p>
+
+<p>[Addressed:] <persName>Coln Stephen F. Austin</persName>, <placeName>Texas</placeName>   <persName>Doctr Kennady</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

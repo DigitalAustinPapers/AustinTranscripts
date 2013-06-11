@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3006">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 09-28-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1208-1211
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Referendum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-28">09-28-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Referendum on war with Comanches, Wacoes, and Tahuacanas. His own views are in favor of neutrality if it can be maintained, awaiting settlement of Robertson's and DeWitt's colonies.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>In Consequence of the depredations commited by the <persName>Weco</persName> or
+<persName>Tahuacana Indians</persName> in stealing horses from the <placeName>frontier of this Colony</placeName> great excitement has been produced, and some of the <persName>settlers </persName>express a wish to commence open war with said <persName>tribes</persName>. On hearing of
+the <persName>Comanche</persName> War at <placeName>San Antonio</placeName>, I wrote to the <persName>Chief of Department</persName> on the <date when="1825-08-20">20th of Augt</date> Stating the situation of this <placeName>Colony </placeName>and
+our illy prepared state for War, owing to our <placeName>scattered settlements</placeName>
+our weak numbers, the scarcity of Arms, Amunition and Horses
+fit for long and active service such as an expedition into the <placeName>Indian
+Country</placeName> etc and asked permission for this <placeName>settlement </placeName>to avail themselves of the friendly dispositions of the <persName>Indians </persName>to remain Neutral.</p>
+
+<p>Subsequently I received an order from the <persName>Military Commandant</persName>
+dated <date when="1825-08-21">21st. Augt</date> to attack the <persName>Wacos</persName> without delay and destroy their
+<placeName>Villages</placeName>, this order was suspended by another dated the <date when="1825-08-26">26th of Augt</date> by which I am informed that a body of <persName>Comanches</persName> was at the
+<placeName><persName>Waco</persName> Village</placeName> and the attack directed by the order of the <date when="1825-08-21">21st</date> was in
+consequence suspended untill I should hear of the departure of the
+<persName>Comanches</persName> but repeating the injunction to attack the <persName>Wacos</persName>, the
+first favourable opportunity, the <date when="1825-09-08">8th of September</date> I acknowledged
+the receipt of the two last mentioned orders and availing myself of
+the descretion given in the last one as to the time and mode of 
+Commencing the War, I informed the <persName>Military Commandant</persName>, that in
+consequence of the number of sick and the necessity of gathering
+our crops it would be impossible to commence hostilities at present
+and that I should therefore wait an answer to my proposition to
+the Govt of the <date when="1825-08-20">20th of Aug*</date> relative to a State of neutralship be<pb n="1209"/>fore any offensive measures should be adopted. It may be proper to
+state that the <persName>Military Commandant</persName> has ordered me in case I take
+any property from said <persName>Indians</persName> to give him an account thereof that
+he may determine what shall be done with it, this is the substance of
+what has passed betwen me and the <persName>Govt </persName>on the subject. If the
+Govt in answer to my proposition of the <date when="1825-08-20">20th of Augt</date> repeat the order
+for war positively the only subject for consideration will be the most
+efficient plan of conducting it, If they leave it discretionaly with
+us to commence War or not, several points of great importance present themselves for the mature and deliberate consideration of the
+settlers. In this state of things I have deemed it my duty to lay the
+subject before the <persName>inhabitants of each <placeName>Militia district</placeName></persName> for their consideration, opinion and advice, the course determined on by the majority shall be adopted, it is therefore of the highest importance
+that the subject should be fully and maturely discussed and deliberated in order that the united voice of the <placeName>Colony</placeName> may be known
+and that the course which is agreed on shall be carried into effect and
+supported by the unanimous exertions of every man.</p>
+
+<p>The propositions which present themselves for the consideration
+of the people may be reduced to the following heads&#8212;Should the
+Govt repeat the order positively for War.,</p>
+
+<p>1st What is the best plan of defence for the <placeName>frontiers</placeName>? Will a
+chain of <placeName>block houses</placeName> be nessisary if so at what points, how are those
+to be determined on, how are the expences of building them to be
+defraid, by the <persName>people of the imediate <placeName>neighbourhood</placeName></persName> or by general
+contribution, will it be nessisary for the <persName>settlers</persName> to abandon their
+<placeName>farms</placeName>, and embody at such <placeName>block houses</placeName>, if so what will be the best
+course to compel those who refuse to embody, and any other ideas
+connected with this part of the subject.</p>
+
+<p>2nd Will an <persName>expedition </persName>to the <placeName>Indian Towns</placeName> be expedient, if so
+what is the least number of men that ought to go how soon could it
+be fitted out, whether they should all be mounted or part on foot,
+how many days provisions ought they to start with&#8212;</p>
+
+<p>3rd Will it be good policy to send for the <persName>Lepan</persName> and <persName>Tankaway
+Indians</persName>, to join us in such expedition, those <persName>Indians</persName> will doubtless
+do some good as <persName>auxilleries </persName>but if we apply to them for aid we shall
+have them to feed and support, we must tolerate them to live in the
+<placeName>settlements</placeName>, and if so must expect them to steal our hogs and corn
+and kill some of our cattle for they will say we are bound to feed
+them as they are fighting for us&#8212;</p>
+
+<p>4th Could the<persName> men from the <placeName>lower settlements</placeName></persName> be safely drawn
+from there on account of the <persName>Karankaway Indians</persName>  or would it be
+most prudent to conclude a peace with these <persName>Indians</persName> so as not to
+have two <placeName>frontiers</placeName> to defend at the same time&#8212;<pb n="1210"/></p>
+
+<p>Should the <persName>Government </persName>give us discretionary Power eather for
+War or Peace&#8212;</p>
+
+<p>1st Is it most expedient to declare war at once, or to attempt a
+treaty of peace?</p>
+
+<p>2nd If the latter what is the best course to obtain it, will it be
+best for me to go in person to their <placeName>Towns</placeName>, and conclude a treaty
+or send a deputation for that object, or to invite the <persName>Chiefs</persName> to meet
+us, at the <placeName>San Antonio Road</placeName>&#8212;</p>
+
+<p>3rd If I go or send to their <placeName>Towns</placeName>, how many men should compose
+the <persName>party</persName>: how soon ought it to Start? will it be best to send a
+<persName>messenger </persName>a head and notify them of our approach and object, and
+request them to send for the <persName>absent Chiefs</persName>.</p>
+
+<p>4th Will it be best to demand the stolen horses, and make the restitution of them and the punishment of <persName>Tomlinsons Murderers</persName>, a
+condition of peace or War? or will it be best to say nothing about
+them and leave it for a future demand when we are in a better situation to enforce it?&#8212;</p>
+
+<p>5th Or will it be best to complain of those depredations but without making a positive demand of restitution, because a positive demand if made and refused is of course a declaration of war, for if
+it is made it must be enforced&#8212;</p>
+
+<p>6th Or will it be best to be governed by circumstances and the
+appearence of things after we see the <persName>Chiefs</persName>, and eather make the
+demand or not as those circumstances may require?</p>
+
+<p>7 I wish the <persName>people of each<placeName> Militia district</placeName></persName> to elect one person to
+accompany me if I go to treat with the <persName>Indians</persName>, for the purpose of
+forming a <persName>council </persName>or direct representation of the <placeName>Colony</placeName>, this person
+will be elected by each <persName>company </persName>when these propositions are submitted to them.&#8212;</p>
+
+<p>The foregoing except the last article I believe embraces the most
+material points that have been talked of amongst the <persName>settlers</persName>, the
+last one is a proposition of my own,&#8212;- This is an important subject in our present situation and I wish the free voice of the <placeName>Colony</placeName>
+to decide what is the best source to be adopted&#8212;and with such a
+<persName>council </persName>as the one I propose I shall feel more Confidence&#8212;</p>
+
+<p>Without wishing or intending to give my opinion as to the points
+submitted, it may be proper and nessisary for me to make some re-
+flections as to our present situation and future prospects&#8212;</p>
+
+<p>The Government have authorized a new Colony of 800 families on
+the <placeName>Brazos</placeName>and <placeName>Colorado River</placeName>s above the <placeName>San Antonio road</placeName> from
+<placeName>Tennessee</placeName>and <placeName>Kentucky</placeName>, and I have every reason to believe that by
+next <date n="04-xx-1826">April</date> that <placeName>Colony</placeName> will be at least 200 strong. Will a war at
+this time with the upper <persName>Indians</persName> have a tendency to stop emigration
+to that <placeName>Colony</placeName> altogether?  or to check it materially?    also the <pb n="1211"/><placeName>Colony</placeName> on the <placeName>Guadaloupe</placeName> is about commencing, will a war stop
+the settlement there or not? will a war stop emigration to this
+<placeName>Colony</placeName>? will it enduce any to move away? Can the people live
+in a state of war without forting and will they remain in the country
+if they are compelled to live in that manner?</p>
+
+<p>The <persName>Wacos</persName> and <persName>Tawakanys</persName> are at peace and in close alliance with
+the <persName>Comanches</persName>, the <persName>Cherokees</persName> and all the <persName>Indians</persName> <placeName>to the east of us</placeName>,
+and I am creditably informed that these <persName>latter Indians</persName> are very
+much dissatisfied that their <placeName>country </placeName>has been given to the <persName>American
+Empresarios</persName> to be settled.&#8212; In this state of feeling is there not
+some danger that all the <persName>Indians in the <placeName>Province</placeName></persName> may be induced to
+unite against the <placeName>American settlements</placeName>? If we destroy the <placeName><persName>Waco</persName>
+Villages</placeName> will not the other <persName>tribes </persName>consider it as a warning of the fate
+that must in the end befal them if the <placeName>american settlements</placeName> progress?
+and is there no[t] danger that they may become alarmed and unite
+to cut us off in our infancy ? The history of the <placeName>first settlements in
+the U. States</placeName>, presents numerous and horible examples of such combinations, which in most instances might have been avoided by a
+greater degree of prudence and forbearance on the part of the <persName>settlers</persName> in the first years of their establishment&#8212;</p>
+
+<p>No aid whatever may be expected from the <persName>Government</persName>, if we get
+into a war, we must get through it the best way we can, without
+expecting aid from any <placeName>quarter</placeName>&#8212; In this state of things the question which the people have to decide is whether it is better to submit
+to a few insults rather than risque bringing on a war with all the
+<persName>northern Indians</persName> by resenting them at this time I know that it is
+a difficult thing to control the passions but in such case as the present
+all passion should be set aside and cool deliberate Judgement should
+decide.&#8212; True it is we have received repeated Insults from the
+<persName>Indians</persName> which merrit punishment and great excitement and thirst
+for revenge exists in many persons, this is a correct feeling, but
+whether this is the proper time to seek revenge or not is a question
+which cool Judgement and not passion should decide&#8212;</p>
+<p><placeName>San Felipe de Austin</placeName> <date when="1825-09-28">Sept. 28th 1825</date></p>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

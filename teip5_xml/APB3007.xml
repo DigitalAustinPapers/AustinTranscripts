@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3007">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P. Coles to Stephen F. Austin, 09-29-1825</title>
+            <author>
+                <persName>John P. Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-21">05-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1211-1212
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-29">09-29-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a disputed land title.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1825-09-29">29th September 1825</date></p>
+<p>Dear Sir</p>
+
+<p>There is likely to be some difficulty between <persName>William Milican</persName> and
+<persName>Whitesides boys</persName> I will Explain the circumstances to you and wish
+your opinion   <persName>Henry and Boland Whitesides</persName> and <persName>Jack C. Davis</persName><pb n="1212"/>applied to me Jointly for Land I agreed to let them have the League
+of Land to be Equally divided but when <persName>Sims</persName> made his Return he
+left out the name of <persName>Davis</persName> and the Deed came out in the name of
+<persName>Henry and Boland Whiteside</persName> of which I Informed them when I
+delivered to them the deed they agreed it should make no difference
+that they wood secure to <persName>Davis</persName><placeName> one Third of said League of Land</placeName> as
+Soon as It was convenient <persName>Mr. Milican</persName> has now bot one Third
+of the Land from <persName>Henry Whiteside</persName> and has taken his obligation to
+make him a Deed to It he has also bot <persName>Davis</persName> land which constitutes
+another Third they made a Division of the Land as appears from
+the manner in which they have disposed of It. this is the only
+Evidence of, a Division <persName>Boland Whiteside</persName> now contends for One
+Half of the League of Land and says that as no Legal Division has
+been made he is not bound to be governed by the sales that were
+made he further contends that <persName>Davis</persName> has no Right to the Land
+that he has got the Deed and will hold the Land Now the question
+is wheather <persName>Davis</persName> Sale of the Land wood Intitle <persName>Mr. Milican</persName> to It
+or not or wheather <persName>Davis</persName> could hold the Land himself Independant
+of <persName>Boland</persName>s opposition and wheather the Division made among them
+previous to <persName>Mr. Milican</persName>s purchasing this Land wood be considered
+obligatory or Legal <persName>Mr Milican</persName> on faith of the Contract made
+with <persName>Davis</persName> and <persName>Henry Whiteside</persName> has moved on to the Land with
+his <persName>family </persName>your opinion on the subject might Enable me to have
+the matter arranged without any further difficulty or otherwise the
+Business will come before you for Decission</p>
+
+<p><persName>Jno P Coles</persName>    [Rubric],</p>
+<p>[Addressed:] <persName>Col. S. F Austin</persName> <placeName>San felipe de Austin</placeName>   <persName>Mr. Patch</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

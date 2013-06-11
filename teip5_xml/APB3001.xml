@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3001">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to B. W. Edwards, 09-15-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-19">05-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        B. W. Edwards
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1201-1205
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-15">09-15-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Interpretation of the colonization law. Analysis of his difficulties as empresario.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1825-09-15">Sept. 15. 1825</date></p>
+<p><persName>B W Edwards</persName></p>
+
+<p>Dr Sir On a reexamination of the Colonization law of the <date when="1824-03-24">24
+March</date> last under which the <placeName>new Colonies</placeName> are to be settled I find that
+a wrong impression had been made on my mind as to the quantity of
+land which the <persName>Empresarios</persName> are entitled to&#8212;I think I told you that
+no one could hold as grantee, more than Eleven Leagues, but this
+applies to grants to <persName>individuals</persName>, in speaking of <persName>Empresarios</persName> the <pb n="1202"/> 12th Article of the law says the <persName>Empresarios</persName> shall receive (5) five
+Sitios (Leagues) of pasture land and (5) five Labors of farming
+land for each hundred families he introduces and settles in the State,
+but this premium can only be recd for Eight hundred families, and
+the <persName>Empresario</persName> who in virtue of the number of <persName>families </persName>he introduces
+receives more than Eleven Leagues is obliged by the 13th Article of
+the law to alienate the excess over Eleven Leagues within twelve years</p>
+
+<p>In regard to <persName>Mr. Harrisson</persName> I will state to you the difficulty that
+presents itself to giving his <persName>heirs</persName> a title to land requesting at the
+same time that you would point out any course that in your opinion
+will obviate the difficulty&#8212;</p>
+
+<p>The authority under which titles in this <placeName>Colony</placeName> are granted was
+originally given by the <persName>Emperor</persName> on the <date when="1823-02-18">18 Feby 1823</date> after he
+was dethroned this decree or grant of the <persName>Emperor</persName>s  was presented by
+me to the<persName> Sovereign Constituent Congress </persName>and it was approved by
+them on the <date when="1823-04-11">11 of April</date> and passed to the <persName>Supreme Executive Power
+</persName>for their approbation, and approved by them on the <date when="1823-04-14">14 of April
+1823</date>&#8212;The law of Colonization under which this <placeName>Colony </placeName>is settled
+requires that the land should be cultivated within two years from
+the date of the deed&#8212;Now the difficulty is this&#8212;wheither or not a
+<placeName>grant </placeName>can be made to the name of <persName>Harrison</persName> as he was dead before
+the date of the authority under which the grants are made&#8212;A <placeName>grant</placeName>
+to his <persName>heirs</persName> who are not in the Country nor never have been might
+be objected to on the ground that they were not <persName>Settlers</persName>, nor <persName>inhabitants of the <placeName>Country</placeName></persName>, tho. I think such a <placeName>grant </placeName>ought to be good on
+the ground that the <persName>heirs as the representatives of Harrison</persName> would
+have been entitled to the land had the <placeName>grant </placeName>been made to <persName>Harrison</persName>
+before his death and in equity, his death, before the titles could be
+issued, ought not to deprive his <persName>heirs</persName> of the land he would have recd
+had he lived a little longer&#8212;-but doubts may arise on the subject&#8212;
+Another plan that I have thought of is to grant a tract to Some 
+<persName>inhabitant of the <placeName>Country</placeName></persName> in trust for the <persName>heirs</persName>, for instance to you, in
+trust for the <persName>heirs of Harrison</persName>&#8212;</p>
+
+<p>Another difficulty in the matter is as regards myself individually&#8212;
+promises are made for the whole of the <persName>300 families</persName> and to admit
+more I must necessarily cut out some who have been promised&#8212;
+this subjects me to abuse from a certain class of the <persName>Settlers</persName> as you
+have seen and heard from personal observation&#8212;tho this I 
+disregard and will arrange it in that way if it is considered satisfactory,
+or if no other plan can be adopted I can secure <placeName>half a League</placeName> to
+his <persName>heirs </persName>by giving that much out of my own individual <placeName>property</placeName>
+and rather than his <persName>heirs</persName> should think that I was unwilling to do
+all in my power to let them have the land I will do so&#8212;The claims
+to land here are rather novel in their nature and are not generally<pb n="1203"/> 
+understood out of this <placeName>Colony </placeName>and for this reason I am no doubt
+frequently blamed where I would not be if the facts were known&#8212;
+My task has been a very complicated and difficult one&#8212;the Govt
+have added to my dificulties by not compelling the <persName>Commissioner</persName>
+to remain here untill the business was completd. and thus throwing the whole burthen and responsibility on me alone unaided by
+any support whatever other than such as I could draw from the
+slender resources of my own judgement&#8212;for I have not been furnished with any code of written laws, any detailed instructions&#8212;
+My authority it is true was very full and ample, too much so for
+it vests me with discretionary powers in regard to the reception
+of <persName>settlers</persName> the Govt of the <placeName>Colony</placeName> the distribution of lands which
+necessarily subjects me to sencure jealousy or envy from some
+quarters, let me act as I would those powers were also under the
+control of a superior power, so that I have in many instances been
+compelled by the most imperious circumstances to deviate even from
+my own judgement&#8212;that I have committd errors I readily admit,
+indeed I must have been more than human had I not committed any
+placed in the situation in which I have been, in some instances I
+have yielded up my own judgement in an individual case to what I
+considerd the Genl interest of the <placeName>Settlement</placeName>, perhaps it was an error
+to have done so, but the motive was a good one. Some of these
+cases have been taken hold of in the abstract and have drawn on
+me sencure and misrepresentations&#8212;One great difficulty under which
+I have labord is that the <persName>Settlers </persName>are unacquainted with the language
+and nature of this Govt&#8212;There are no <persName>interpreters </persName>but myself and
+my <persName>secretary </persName>and consequently no way for them to know the orders
+of the <persName>Govt </persName>but through one of us&#8212;this places me in a truly 
+unpleasant situation for you know that it is innate in an <persName>American</persName>
+to suspect and abuse a <persName>public officer</persName> whether he deserves it or not&#8212;
+I have had a mixed multitude to deal with collected from all quarters strangers to each other, to me, and to the laws and language
+of the country, they come here with all the ideas of americans and
+expect to see and understand the laws they are governed by, and
+many very many of them have all the licentiousness and wild
+turbulence of <persName>frontiersmen </persName>added to this when they arrive here
+the worst of the human passions avarice is excited to the highest extent and it directs the vanguard in their attacks on me, jealousy and
+envy direct the flanks and maliciousness lurks in the rear to operate as
+occasion may require, could I have opposed them by showing a
+law defining positively the quantity of land they were to get and
+no more and a code of written laws by which they were to be governed I should have had no difficulty&#8212;but they saw at once that my
+powers were discretionary, and that a very great augmentation to<pb n="1204"/> 
+their <placeName>grants </placeName>could be made, and thus the colonization law itself and
+the authority vested in me under that law holds me up as a public
+Mark to be shot at by every one. If a person gets a League he knows
+that more could have been granted and he is therefore dissatisfied
+and instead of thanking me for what he gets, abuses me for treating him unjustly because he does not get more&#8212;In this State of
+things all who approached me as <persName>friends </persName>and offerd advice, were
+interested <persName>advisors</persName>, precidents were established by the power that
+controled me contrary to my wish and judgement, and those precidents were sufficient to involve me in endless difficulty-&#8212;for example
+in the case of <persName>Groce</persName> the <persName>Political chief of the Province</persName> himself whose
+orders I [am] bound to obey designated <placeName>ten leagues</placeName> as the smallest
+quantity that he ought to have, this produced general dissatisfaction,
+every man in his own conception was as much entitled to ten leagues
+as <persName>Groce</persName>, and because he did not get it, I was abused&#8212;but it was not
+my fault, and had I given <persName>Groce</persName> less and treated the wishes of the
+<persName>Political Chief</persName> with contempt or disrespect and soured his mind
+would it have benefitd the genl interests of the <placeName>Settlement</placeName> any? I
+was in his power and subject to his orders and my fate and that
+of the <placeName>Colony</placeName> were linked together and could not be separated&#8212;had
+I managed so as to loose the confidence of the <persName>officers of the Govt
+</persName>embarrassment might have been thrown in the way by them that
+could have destroyed the <placeName>settlement</placeName>)&#8212;Another difficulty that I have
+had to contend with is that my temper is naturally rather hasty
+and impetuous&#8212;the good of the <placeName>Settlement</placeName> required that I should
+control it and disregard the iddle slander of those who abused me
+from malice, from misconception, or from interested views&#8212;for one
+rash act in a moment of passion in my cituation might have
+jeopardised the welfare of many&#8212;also my disposition as I have when
+too late discovered is confidential unsuspicious and accomodating
+to a fault and therefore open to impositions&#8212;it is said by philosophers that he is a wise man who knows himself and he who governs
+himself is certainly still wiser&#8212;few such men appear in this world
+I am not one of those and never expect to be.&#8212;my temper has met
+many tryals and knowing it as I think I do I give myself some
+credit for governing it as well as I have, tho my <persName>friends </persName>have
+blamed me for being too mild. I may have errd on that extreme for
+fear of falling on the opposite one, but I deemd it the safe side to
+err on and I still think so considering the temper and dispositions
+of the people with whom I had to deal for among the ignorant part
+of the <persName>Americans</persName> indipendence means resistance and obstinacy
+right or wrong&#8212;this is particularly the case with <persName>frontiersmen</persName>&#8212;a
+violent course with such dispositions might have kindled a flame
+that would have destroyed them and the <placeName>settlement </placeName>entirely.<pb n="1205"/></p>
+
+<p>for it was with great difficulty that after more than one years unremitting exertions that I obtained the consent of the Govt to progress with this <placeName>Settlement</placeName>. One great objection was that they considered the <persName>Americans</persName> a turbulent people, difficult to govern and
+predisposed to resist and abuse their public officers&#8212;any commotions
+amongst ourselves here would have had a direct tendency to
+strengthen this unfavourable opinion and would opperate against
+the prosperity of the <placeName>settlement</placeName>, and probably [would have] the
+effect to prevent any more <placeName>grants </placeName>and I knew that a number were
+pending&#8212;but it has been impossible to avoid some difficulties, a few
+turbulent men in a <placeName>Settlement</placeName> can make much noise&#8212;This little
+affair of <persName>Kinny</persName>s<hi rend="superscript"></hi> is not at all calculated to benefit any one, he has
+behaved in a way which merits contempt and disapprobation of
+every good and well disposed <persName>Settler</persName>, for without any necessity of
+such a course he has indirectly attempted to weaken the confidence
+of the <persName>settlers</persName> in their titles and in me&#8212;If I do wrong his remedy is
+with the Govt and I alone ought to be punished but he would sacrifice the interests of the whole <placeName>Settlement</placeName> to gratify a pique. I am
+ready to show at any time that what I have done in the affair has
+been correct, and that I have done injustice to no one, but I will
+never condescend to notice <persName>Kinny</persName>, were I to answer every hound
+who barks at me I should soon become a hound myself and should
+deserve to be barked at</p>
+
+<p>I have had an unpleasant and unhappy life time of it but I look
+forward to better days and a better population and have the consolation to reflect that I have done my duty to the <persName>Settlers</persName> and to the
+<persName>Govt </persName>so far as my situation would permit and I think in the end
+they will all acknowledge it.</p>
+
+<p>[Endorsed:] rough copy of letter to <persName>B. W. Edwards</persName> <date n="xx-xx-1825">1825</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

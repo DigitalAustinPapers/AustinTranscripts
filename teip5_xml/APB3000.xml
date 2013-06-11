@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3000">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John R. Harris to Stephen F. Austin, 09-15-1825</title>
+            <author>
+                <persName>John R. Harris</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-19">05-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1201
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-15">09-15-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning boats which Austin desires.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1825-09-15">15 Sept 1825</date>.</p>
+<p><persName>Col Austin</persName></p>
+
+<p>Dear Sir According to your request I have made every inquiry
+in regard to the Boats. One of the Boats that I calculated for the
+Trip I found on Examination was worm Eaten I employed <persName>Bloodgood </persName>to put new planks on her Bottom but after all some of her timbers was found to be decad consequently I got <persName>Col Knight</persName> to go to
+<placeName>Trinity</placeName> after a N Boat that was new <date n="Spring - 1825">last Spring</date>, and also to call
+on <persName>Wilson</persName> on <placeName>San Jacinto</placeName> who has a good Boat but will want some
+repairs. <persName>Mr. Scott</persName> has a boat that will answer the purpose, he says
+that he cannot let her go. Since I recd your letter the Sloop Mexican
+came to this place and I have purchased her. you mentioned that you
+wanted to get a Sloop or Schooner of Light draft of water. She
+when loaded will draw 3 feet 3 inches and a first Rate Sailer. I
+will furnish a good <persName>master </persName>and <persName>Crew </persName>provisions etc etc for one
+Hundred and Thirty five Dollars pr month, and be at the expense of
+keeping every thing in good repair. I expect <persName>Knight</persName> in a few days
+from <placeName>Trinity</placeName>, and then I can let you know what Situation the Boats
+will be in. If you conclude to hire the Sloop Mexican, please to let
+me know by the first opportunity</p>
+
+<p><persName>Jno R Harris</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
