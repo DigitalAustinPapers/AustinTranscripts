@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1385">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. C. Peyton, 05-23-1827</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. C. Peyton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1643
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Receipt</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-05-23">05-23-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felepe de Austin </placeName><date when="1827-05-23">May 23nd 1827</date></p>
+<p><persName>Col S. F. Austin Dr</persName></p>
+
+<p>To Ferry for the year <date n="xx-xx-1826">1826</date>__________________________________$50.   6 1/4</p>
+
+<p>To 1 load wood 75 cts 2 pr Socks £1.50 pr_______________________   3. 75</p>
+
+<p><date when="1827-01-29">29th Janry</date> 4 1/2 lbs bullets&#8212;37 1/2&#8212;-pr__________________________    1.68 3/4</p>
+
+<p>1   Pile_______________________________________________      .50</p>
+
+<p>8 lbs sugar by <persName>Mrs. Picket_</persName>______________________________   2.00</p>
+
+<p>$58. 50</p>
+
+<p><date when="1827-04-25">25 Apl</date>. 50 cts on Battle Brandy_________________________________ . 50</p>
+
+<p>Amt bringing 3 Bushels meal from <persName>Groces </persName>25c. per bushel&#8212;_________     . 75</p>
+
+<p>$59.35</p>
+<p><date when="1827-05-24">May 24th 1827</date></p>
+
+<p>Recd paymt.                                      <persName>J. C. Peyton</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

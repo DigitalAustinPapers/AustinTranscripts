@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1384">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Freeman Pettus to Unknown, 05-21-1827</title>
+            <author>
+                <persName>Freeman Pettus</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1642-1643
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="private"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-05-21">05-21-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Freeman Pettus</persName></p>
+<p>versus</p>
+<p><persName>John C Reed</persName></p>
+
+<p>Sir Take notice that pursuant to the order of the <persName>Honble Superior
+Court of this <placeName>Colony</placeName></persName> I shall on the <date when="1826-09-10">Tenth day of September </date>and on
+the <date when="1826-09-11">following day</date> <placeName>at the house of <persName>William G, Doyle Esqr</persName> of Lawrence
+County in the State of Alabama</placeName> a <persName>Justice of the peace</persName> in and for
+said State proceed to take the deposition of <persName>Martin Sims</persName> and of
+<persName>William Sims</persName> of said <placeName>County </placeName>before the said <persName>Wm. G Doyle</persName> and
+that on the <date when="1827-10-10">10 day of October next</date> I shall also proceed to take the
+depositions of<persName> Mrs Price</persName> and of ------ <persName>Newell</persName> of <persName>Bayou Coti</persName> in the
+<persName>State of Louisiana</persName> at the <placeName>house of the said <persName>Mrs------Price </persName></placeName>at <persName>Bayou
+Coti</persName> afd before some <persName>officer </persName>properly authorised to take the same on
+which occasions you can attend if you think proper</p>
+
+<p>And take notice that said deposition will be adduced in Evidence
+on the part of the pff on the Trial of the issue in this matter at the
+Term of the sd <placeName><persName>Supr Court</persName> of this Colony</placeName> to be held in the Town of<pb n="1643"/>
+<placeName>San felipe de Austin</placeName> on the <date when="1828-02-01">1 Monday in feby 1828&#8212;</date><placeName>San felepe do
+Austin</placeName> <date when="1827-05-21">21 May (1827)</date></p>
+
+<p><persName>Freeman Pettus</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

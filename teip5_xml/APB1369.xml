@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1369">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Antonio Saucedo [?] to Inhabitants of Pecan Point, 04-19-1827</title>
+            <author>
+                <persName>Jose Antonio Saucedo [?]</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Inhabitants of Pecan Point
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Inhabitants of Pecan Point</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1633
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-04-19">04-19-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advice concerning local government and relations to United States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I have received from <persName>Messrs Nathaniel Robins</persName> and <persName>Doctor Lewis
+R Dayton</persName> the representation which you directed to me under date
+of <date when="1827-02-20">20 february of the present year</date> in which you complain that 
+<persName>officers from the Govt of the <placeName>United States of North America </placeName></persName>[are]
+exacting from you taxes and Contributions which in your opinion
+you ought not to pay on account of your being established on <placeName>Lands
+of the Republic of Mexico</placeName>. At the same time petitioning 
+protection and assistance from this <persName>Govt</persName>, as well to avoid those exactions
+as for your defence against the incursions of the hostile <persName>Indians</persName>,
+on which particular I have to state to you that it is not within the
+bounds of my faculties to remidy the evils which afflict you not
+knowing the place where the division line between the two 
+<placeName>Republics </placeName>will fall. You must therefore in the meantime bear with 
+patience the disgusts of such treatment with the understanding that
+under this date I forward your representation to <persName>His Excellency
+the Governor of this State</persName> asking of him the necessary <persName>auxilliaries</persName>
+for that part of the <placeName>frontier </placeName>of which you will undoubtedly reap
+[an advantage] should your fate decide that you are [to be a part
+of] <placeName>Mexican Territory</placeName>. In which event, I [do not see] any 
+objection to your provissionally forming and until the decission of the
+<persName>Supreme Govt</persName>, is given to your representation all the branches of
+organised government under a system already known and regulated
+by the laws which you are acquainted with until those of the 
+<placeName>Country </placeName>which you wish to adopt are furnished to you.</p>
+
+<p>God &amp; Liberty</p>
+
+<p><placeName>Snfelipe de Austin</placeName> <date when="1827-04-19">19th April 1827</date></p>
+
+<p><persName>[J. Antonio Saucedo?]</persName></p>
+
+<p>To the <persName>Inhabitants </persName>of <placeName>Pecan Point</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

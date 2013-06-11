@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1388">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. E. B. Austin to Mrs. E. M. Perry, 05-24-1827</title>
+            <author>
+                <persName>J. E. B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mrs. E. M. Perry(
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1644-1645
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-05-24">05-24-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's part in putting down rebellion. Immigration from Ohio. Slavery.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1827-03-24">24th March [May] 1827.</date></p>
+<p>My Dr <persName>Sister</persName>.</p>
+
+<p>A considerable period has elapsed since I had the pleasure of
+receiving a letter from my dear <persName>Emily</persName>&#8212;Can an absence of only a
+few years, entirely have obliterated from her memory a <persName>Brother</persName>
+she onced loved! What can be the cause of her long silence ? 
+perhaps she is so much engaged in her <hi rend="italic">domestic </hi>duties that she cannot
+"<hi rend="italic">steal</hi>" time to devote a few <hi rend="italic">leisure </hi>moments to her <hi rend="italic"><persName>Brown</persName></hi>, 
+Excuse me <persName>sister </persName><hi rend="italic">for </hi>reproaching you for your negligence for I <hi rend="italic">assure</hi>
+you I have been much <hi rend="italic">hurt </hi>at your long silence. You perhaps think
+I am hardly justifiable, in blaming you for a fault you think I
+am equally <hi rend="italic">censurable </hi>for but on this point I can satisfy you&#8212;For
+the last year I have been absent from the <placeName>Colony</placeName>&#8212;and in a <placeName>country</placeName>
+where there was no mode of conveying a letter to the <placeName>U. S</placeName>&#8212;Shortly
+after my arrival I wrote you from <placeName>Nacogdoches</placeName>, and since then I
+have been anxiously expecting a letter from you&#8212;</p>
+
+<p>You have no doubt heard long since, the happy termination of
+the disturbances on this <placeName>frontier </placeName>and the conspicuous part Our
+<persName>Brother </persName>acted in bringing to a close so unnatural rebellion&#8212;At this
+time the utmost harmony prevails in every part of this <placeName>country</placeName>, and
+<hi rend="italic">so far</hi> we are blessed with a prospect of a plentiful harvest in a
+healthy season,</p>
+
+<p>We are not entirely forgotten by our <persName>friends </persName><placeName>in the north</placeName> a few
+days since we received a lenthy letter from <persName>Henry Austin</persName> dated
+in <hi rend="italic"><placeName>New York</placeName></hi>&#8212;<persName>Stephen </persName>has answered it and recommen[d]ed him to
+come and see the <placeName>Country </placeName>and I think he will be out in the fall&#8212;
+My sole wish is to see our scattered <persName>family </persName>once more United and
+I think there is some little prospect of their being so provided
+<persName>Henry </persName>is pleased with the <placeName>Country</placeName></p>
+
+<p>I have nothing new to communicate&#8212;we have a prospect of a
+considerable emigration <hi rend="italic">from <placeName>Ohio</placeName></hi> <date n="Fall - 1827">next fall</date>&#8212;<pb n="1645"/></p>
+
+<p>Our State constitution is to be published in this place on the <date when="1827-05-29">29th</date>.
+inst it is an excellent one&#8212;no <persName>slaves </persName>are permitted to be 
+introduced <date when="1827-11-29">6 months after its publication</date>, which will give until the <date when="1827-11-29">29th
+of next November</date> to introduce them&#8212;No person can be born a
+<persName>slave </persName>in this <placeName>State </placeName>after the publication of the Constitution. If
+there are any <persName>persons </persName>in your part of the <placeName>Country </placeName>having <hi rend="italic"><persName>Slaves</persName></hi>,
+that wish to remove here&#8212;<hi rend="italic">hurry </hi>them on before the expiration of
+the time&#8212;</p>
+
+<p>I wish you to write me a lengthy letter and give me all the 
+<placeName>Neighbourhood </placeName>news Any thing is interesting to me at this immense
+distance from you. Tell me something about <persName>Elias's family.</persName> <persName>Mary</persName>
+&#8212;<persName>Adaline</persName>&#8212;<persName>Eliza</persName>&#8212;and <persName>Maria</persName>&#8212;remember me to them affectionately
+I <hi rend="italic">never </hi>hear from them&#8212;I suppose they have forgotten me too.
+<persName>Moses </persName>has lost a fortune by not comeing out to this <placeName>Country </placeName>in time&#8212;
+tho it is not too late&#8212;if he comes by <date n="Fall - 1827">fall</date>&#8212;Remember me 
+affectionately to my little <hi rend="italic"><persName>Nephews </persName></hi>and kiss my <hi rend="italic">dear </hi>little " <hi rend="italic">blue eyed <persName>Mary</persName></hi> "
+for me&#8212;My respects to <persName>Mr Perry</persName>&#8212;<persName>brother </persName>sends his love to you
+and will write you by this opportunity&#8212;</p>
+
+<p><persName>Jas B Austin</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>Mrs. Emily M. Perry </persName><placeName>Potosi, Mail Missouri</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
