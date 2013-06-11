@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1196">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Laughlin to Stephen F. Austin, 07-15-1826</title>
+            <author>
+                <persName>William Laughlin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">District of San Jacinto, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1372
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-15">07-15-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure. Resistance to an officer.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>District Of San jacinto</placeName></p>
+
+<p><date when="1826-07-18">July the 15th 1826</date></p>
+<p><placeName>Department of Texas</placeName></p>
+
+<p><placeName>Austins Colony</placeName></p>
+<p>To the <persName>Honble Stephen F. Austin Judge of the Supreme Court
+of the <placeName>Colony</placeName></persName> aforesaid the petition of <persName>William Laughlin</persName> 
+respectfully represents that he your <persName>petitioner </persName>received an attachmen[t|
+from your Honor dated <date when="1826-05-23">May the 23d 1826</date> in favour of <persName>John D. 
+Taylor</persName> against <persName>John Kenny</persName> which your <persName>petitioner </persName>levyed in parte on the
+<date when="1826-05-31">31st of May</date> on <placeName><persName>Diver</persName>s property</placeName> of said <persName>Kenny </persName>(viz) Two Cows and
+two yearlings and one Calf and sundry other property (viz) a 
+number of Books and one Gold watch etc. all by the direction of said
+<persName>Taylor</persName>&#8212;your <persName>petitioner </persName>having received your late instructions of
+the <date when="1826-07-12">12 of July</date> took said <persName>Kenny</persName>s Bond and Security for his 
+appearance before the <persName>Alcalde </persName>at his return to his <placeName>District </placeName>and your 
+<persName>petitioner </persName>went to the <placeName>House of said <persName>Taylor</persName></placeName> and he uterly refused to
+give them up declaring at the same time that they were in his 
+possession and he would keep them till the suit was decided And after
+some dissagreeable conversation the Said <persName>Taylor </persName>went into his <placeName>House</placeName>
+and came out with a loaded musket in his hand and ordered the said
+<persName>Kenny </persName>off his <placeName>premises </placeName>with many threats and swore at the same
+time that he would give the first man the contents of his musket
+that would attempt to enter his <placeName>cowpen </placeName>to turn out said<persName> Kenny</persName>s
+Calvs therefore your <persName>petitioner </persName>was prevented from discharging the
+dutys of his office according to your order. Your <persName>petitioner </persName>prays
+that your Honor will assist him in inforcing the laws and your 
+<persName>petitioner </persName>as in Duty Bound will ever pray</p>
+
+<p><persName>Wm Laughlin</persName></p>
+
+<p><persName>Const [able]</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

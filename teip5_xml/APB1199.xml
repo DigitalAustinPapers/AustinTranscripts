@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1199">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Hope to Stephen F. Austin, 07-17-1826</title>
+            <author>
+                <persName>James Hope</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1373
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-17">07-17-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade, currency, and Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><date when="1826-07-17">17 July. 1826</date></p>
+<p>Dear sir</p>
+
+<p>I have sent my <persName>son </persName>and <persName>Capt. Chrisman</persName> down to meet you and
+<persName>Mr- Castleman</persName> at your office in respect of <persName>Mr- Castleman</persName>'s 
+Improvement I wish to leave it to yourself <persName>Capt. Chrisman</persName> and <persName>Mr- 
+Castleman</persName> and whatever you agree on will satisfy me, paying him in cattle
+or any kind of Mirchandise that I have, I understood your <persName>Brother
+Brown</persName> that you were wanting Beeves. I have two one of them Being
+a very Excellent one. If you can make any arrangement with
+<persName>castleman </persName>I will drive them down to you.&#8212;We are all arlarmed here
+on account of <persName>Indians </persName>and have moved down to <persName>Milicans</persName>, But as yet
+we have seen no <persName>Indians</persName>&#8212;I should take it a favour of <persName>Mr- Castleman</persName>,
+as I am now on way down If I could at any leisure time I have be
+moving part of my Property on to the ground.&#8212;</p>
+
+<p><persName>James Hope</persName>.</p>
+<p><persName>Col. Stephen F. Austin.</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

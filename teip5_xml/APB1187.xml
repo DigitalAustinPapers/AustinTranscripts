@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1187">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas Jamison to Stephen F. Austin, 07-03-1826</title>
+            <author>
+                <persName>Thomas Jamison</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Caney,</placeName>
+                </place>
+                <place>
+                    <placeName type="destination"></placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1367-1368
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-03">07-03-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Misunderstanding concerning division of land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Caney </placeName><date when="1826-07-03">3rd July 1826</date></p>
+<p><persName>Colo Austin</persName></p>
+
+<p>Dr Sir, If you will recollect when we were talking about the
+division of the <placeName>47th league of land</placeName> granted to <persName>Tom </persName>and Myself;
+You said that I was to have first choice <persName>Ingrim </persName>and <persName>Mr. S. Williams</persName>
+were present and it was a fair and clear understanding between us
+that I was to have the prefference; the <placeName>lower half of said league</placeName> is
+my choice; but have understood that <persName>Tom </persName>has made a transfer of the
+<placeName>upper half</placeName> to me: But when you call to recollection the conversation
+that took place between us I am in hopes you will have the transfer
+altered and let me have the <placeName>lower half</placeName> agreeable to the understanding
+ that existed between us&#8212;The expences accruing in altering the<pb n="1368"/>
+transfer I will pay.&#8212;<persName>Tom </persName>has repeatedly observed that he would
+as soon have <placeName>one half as the other </placeName>and as I am willing to pay the
+charge requisite in altering the transfer I hope it is a matter of
+indifference with you</p>
+
+<p><persName>Thomas Jamison</persName></p>
+<p><persName>N. B</persName>.</p>
+
+<p>pleas inform me on the subject by <persName>Mr. Deckrow</persName> I have told you
+as much about my making choice as ever I did <persName>Tom </persName>or any other
+person, from the statement made to me by <persName>Selkirk </persName>and <persName>Tom </persName>himself,
+I expected I would take the <placeName>upper half</placeName> but upon taking a view of it
+myself I prefer the <placeName>lower half</placeName>, and <persName>Tom </persName>still says it is a matter of
+indifference with him. As for the improvement <persName>Tom </persName>claims I do not
+consider he has a greater claim to the improvement than I have for
+two thirds of the improvement was made by <persName>Morrison </persName>and <persName>McCoy</persName>
+who asked my permission to plant corn on sd- Land&#8212;I have a Crop
+now on the <placeName>lower half</placeName> and am building a House on same; which will
+be completed in three or four days.&#8212;</p>
+
+<p><persName>Tom </persName>nor no other person has ever called on me to make my choice</p>
+
+<p><persName>Thomas Jamison</persName></p>
+
+<p><persName>Col° S. F. Austin</persName></p>
+
+<p>N. B. The above stated improvement made by <persName>Morrison McCoy
+</persName>and <persName>Tom </persName>was made before the deed came out</p>
+
+<p><persName>T. Jamison</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

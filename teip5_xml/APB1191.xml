@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1191">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to General Public, 07-06-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        General Public
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1369-1370
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Election Notice</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-06">07-06-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Calling election of delegates to revise judiciary system and to frame tax regulations.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>notice</p>
+
+<p>The various duties imposed on me as <persName>Empresario </persName>and the time
+which must necessarily be devoted in the Course of the next <date n="Fall - 1826">fall</date>
+and <date n="WInter - 1826">winter</date>, to closing the affairs of the <placeName>old Colony </placeName>and commenceing
+those of the new added to <persName>Indian </persName>matters will render it difficult for
+me to give that attention to those subjects which their importance
+requires and at the same time attend to the Judicial business of the
+<placeName>Colony </placeName>in detail, for this reason a change is necessary in the 
+organization of the Judicial system of the <placeName>Colony</placeName>, such a change can
+be provisionally effected under the general authority vested in me,
+but I feel an unwillingness to do it without the advice of the<pb n="1370"/>
+<persName>settlers</persName>: I therefore request that the <persName>settlers </persName>of each <placeName>Alcalde district
+</placeName>will convene on the <date when="1826-08-05">first Saturday of August next</date> at the following
+places&#8212;In the <placeName>district of the Bravo</placeName> at the <placeName>house of <persName>William 
+Millican</persName></placeName>, in the <placeName>district of Sn felipe</placeName> at the town of that name, in the 
+<placeName>district of Victoria</placeName> at <placeName>Bolivar </placeName>in the <placeName>district of Mina</placeName> at <persName>Amos Rails</persName>, in
+the <persName>district of Colorado</persName> at <persName>James Cummins</persName> and in the district of <placeName>Sn
+Jacinto</placeName> at the<placeName> mouth of Buffalo Bayou</placeName>; for the purpose of electing
+two <persName>representatives </persName>from each <placeName>district</placeName>. The said <persName>representatives</persName>
+thus elected will meet at this place on the <date when="1826-08-21">third Monday of August
+next</date> for the purpose of forming a new provisional Judiciary System
+for this <placeName>Colony </placeName>and to adopt an equitable system of taxation for the
+support of such new system and to meet the exipences which may
+arise out of <persName>Indian </persName>difficulties.</p>
+
+<p>The above mentioned <persName>representatives </persName>are to be elected with the
+express understanding by the people that the acts of a majority of
+them which may be approved of by the <persName>Empresario </persName>are to be binding
+on the whole <placeName>Colony</placeName>.</p>
+
+<p>The <persName>Alcaldes of each district</persName> will preside at the said elections and
+give to the <persName>persons elected</persName> a certificate of their election and a Notice
+to meet at this place on the <date when="1826-08-21">third Monday of August next</date>.</p>
+
+<p><placeName>Sn felipe de Austin</placeName> <date when="1826-07-06">6 July 1826</date></p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1189">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Ellis H. Bean to Stephen F. Austin, 07-05-1826</title>
+            <author>
+                <persName>Ellis H. Bean</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1368-1369
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-07-05">07-05-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advising Austin to evade constitutional liberation of slaves by converting them into indented servants.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1826-07-05">July the 5th 1826</date></p>
+<p>Dier SIR,</p>
+
+<p>I have not the honor of Being aquented with [you] But I think it
+my Duty to enform you as a <persName>friend </persName>that I Recivd a letter from
+<placeName>Saltilla </placeName><date when="1826-07-04">yesterday </date>that states that the law will undoubtedly pess that<pb n="1369"/>
+all the <persName>Negros </persName>of the <placeName>Provens of Texas and Quaguila</placeName> will [be] set
+free in this case I spoke to the <persName>Presedent </persName>as he is an old <persName>frind </persName>of
+mine he states me the same But there is a way your <persName>Settlers </persName>can Stop
+it all But the sooner the Better that is to Gow in Presens of and
+<persName>Alcalde </persName>stating that this <persName>nigro </persName>cost you so much and when he Pays it
+by labor Don you have no charge against him he Discounts so much a
+month as any other <persName>hirid Persons</persName> a small sum so that he will be the
+same to you as Before and it will be no more notised this you will
+comunicate to the <persName>citizens </persName>on the <placeName>Ais bayo</placeName> so that they can take the
+same Measurs with thers it is ennabatebel [inevitable] necesario as
+quick as Posibel&#8212;</p>
+
+<p>I have nothin in this worth your atension Please enform the
+<persName>widow long</persName> that it is imposibel that this government will alow hir
+any Penchen as hir <persName>husband </persName>was not nown as a <persName>General </persName>on this
+Piase nor had no comisión from this Gverment&#8212;</p>
+
+<p><persName>Ellis H Bean</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
