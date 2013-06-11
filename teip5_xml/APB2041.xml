@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2041">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip T Dimmitt to Stephen F Austin, 06-19-1825</title>
+            <author>
+                <persName>Philip T Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-17">12-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Antonio, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">On the Brazos, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1137-1138
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-19">06-19-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Commerce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Sant. Antonia</placeName> <date when="1825-06-19">19 June 1825</date></p>
+<p>My Particular Friend</p>
+
+<p>Sir I Take this oppertunity of writing you etc. we have no
+news of Importance on <date when="1825-06-18">Yesterday </date>arived The <persName>Solders </persName>and many
+<persName>Strangers </persName><persName>Mr. Westall</persName> informed me he expected you and<persName> Mr 
+Williams</persName>, <persName>The Gudge</persName> and many of your <persName>friends </persName>have maid particular
+Inquire of you sir</p>
+
+<p>I am once More Engaged in Busness and have Some hopes of
+Suckseading in My wishes and expectations. I am at this Time
+wating for my <persName>brothers </persName>every Day sir</p>
+
+<p>I hope to see you in a short Time in This Place and sir you May
+be assured nothing would Give me more Pleasure</p>
+
+<p>I am Desirous in having the news of The <placeName>Settlement </placeName>etc etc</p>
+
+<p>My Best wishes to <persName>Mr. Williams</persName> and your<persName> Brother [cousin] John
+Austin</persName></p>
+
+<p><persName>P. T. Dimmiit</persName><pb n="1138"/></p>
+
+<p><persName>Mr. Dewitt</persName></p>
+
+<p>Sir if there is any Goods to be purchased in your <placeName>settlement </placeName>let
+us know and oblige</p>
+
+<p><persName>Westall &amp; Co.</persName></p>
+<p>[Addressed:] <persName>Colo S. F. Austin</persName> <placeName>en los Brassos</placeName>
+The Polightness <persName>Senos Americanos</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

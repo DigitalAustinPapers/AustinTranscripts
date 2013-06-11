@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2011">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>P S le Hicks to Stephen F Austin, 06-02-1825</title>
+            <author>
+                <persName>P S le Hicks</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-13">12-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Alexandria, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1112
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-02">06-02-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks what provision Government has made for granting land to participants in revolutionary struggles.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Alexandria </placeName><date when="1825-06-02">June 2d 1825</date> La</p>
+<p><persName>Mr. S F Austin Esq</persName></p>
+
+<p>Sir Having been informed that you are able to give me 
+information concerning the intentions of your <persName>Government </persName>in respect to
+those who served under the <persName>independent Standard</persName> in the late 
+revolution of the <placeName>Mexican State</placeName>s and whether there has yet been any
+thing done in <persName>Congress </persName>concerning the <placeName>grant of land </placeName>to such 
+persons I have taken the liberty of addressing this letter of enquiry
+to you requesting that you would return me an answer by the <persName>bearer</persName>
+and also please to inform me what encouragement there is to a
+<persName>Physician </persName>in <placeName>any part of your Province</placeName></p>
+
+<p>I hope you will excuse my troubling you with these enquiries when
+you are informed that it is my wish to receive a remuneration for
+property expended for provisions and my services as a <persName>Capt</persName>. for
+eighteen months and that it is and long has been my intention to
+settle in your <placeName>Province </placeName>if I could obtain a grant of a tract of land
+sufficient for Payment of Part of my sacrifices and good 
+encouragement to my profession</p>
+
+<p>These reasons I offer as apologies and hope you will accept them
+as such and deign to give me an answer by the <persName>bearer Mr J Brown
+</persName>and you will greatly oblige</p>
+
+<p><persName>P. S. Le Hicks</persName>    [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

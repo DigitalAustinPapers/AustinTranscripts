@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2049">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mrs John Hall, 06-26-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-24">12-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mrs John Hall
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1141-1142
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-26">06-26-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Major Isaac Thomas of <placeName>Rapide</placeName></persName> has sent me a Memorandum to the
+following effect&#8212;</p>
+
+<p>"<persName>Mrs Mary Hall</persName> exchanged with <persName>Archival P Williams</persName> <placeName>a tract
+"of land on the Bayou Robert </placeName>of two hundred arpents, one half
+" of which was the property of the <persName>heirs</persName>&#8212;I have a twelve month
+"bond against <persName>Mrs Hall</persName> for $700.&#8212;Now if the <persName>heirs </persName>will all go
+"before <persName>Judge Austin</persName> and relinquish all their claim to said two
+" hundred arpents of land in favor of <persName>Williams </persName>he will pay my bond
+" and discharge<persName> Mrs Hall</persName> therefrom&#8212;one of the <persName>heirs </persName>is a minor and<pb n="1142"/>
+" must [be] represented in the sale or relinquishment conformably
+" with the laws of <placeName>Texas</placeName>, after the title is there made it must be
+" sent to the <persName>Govr</persName>- to get his certificate that the act of <persName>Judge Austin</persName>
+" in receiving the conveyance is comformable to the laws of <placeName>Texas </placeName>"</p>
+
+<p>(Signed)           <persName>J. Thomas</persName></p>
+
+<p>The above is <persName>Thomas</persName>'s memorandum, I presume you understand
+the nature of it and if you wish to have the business done, I shall
+be at<placeName> <persName>Bell</persName>s</placeName> on the <date when="1825-07-05">5 of July</date> at which time you can bring forward
+all the <persName>heirs</persName></p>
+
+<p><date when="1825-06-26">June 26. 1825</date></p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+<p><persName>Mrs. John Hall</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

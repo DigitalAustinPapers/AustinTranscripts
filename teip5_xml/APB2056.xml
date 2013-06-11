@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2056">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Carr/ John Strowl to John Sprowl/ J T Gross, 07-11-1825</title>
+            <author>
+                <persName>John Carr/ John Strowl</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-24">12-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Doctor Le Hicks
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        John Sprowl/ J T Gross
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nachitoches, Louisiana/ Aysh Bayou, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1146
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-07-11">07-11-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Doctor Le Hicks. Sprowl transmits letter to Austin, July 13.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nachitoches </placeName><date when="1825-07-11">11th July 1825</date></p>
+<p>Dear Sir</p>
+
+<p>The <persName>bearer </persName><persName>Doctor Le Hicks</persName> came here recommended to me by the
+<persName>Parish Judge of the <placeName>parish of Iberville</placeName></persName> as a <persName>physician </persName>of talents who
+wished to establish himself in this <placeName>parish</placeName>, or <placeName>on your side of the
+Sabine</placeName>. <persName>Judge Dutton</persName> says he has known him for two years past,
+one of which he practiced in his <persName>family </persName>"with more than common
+success, and that as a <persName>Citizen </persName>he gained the friendship and Esteem
+of all who knew him " He states also that he was aboard the Steam
+boat Tennessee when she sunk, and lost considerable property, and
+concludes by observing that he thinks him deserving of the esteem
+and assistance of all persons who consider merit and talents essential
+to the forming a <persName>physician</persName>.&#8212;</p>
+
+<p>This is all I Know of this Gentleman</p>
+
+<p>My Respects to your <persName>family</persName></p>
+
+<p><persName>John Carr </persName>   [Rubric]</p>
+
+<p><persName>Capt. J Sprowl</persName></p>
+
+<p>D<placeName>ist. of Aysh Bayou</placeName>, <date when="1825-07-13">July 13th 1825</date></p>
+<p>Dear Sir</p>
+
+<p>the within Letter of Recommendation was sent from <persName>Judge
+Carr </persName>to my self&#8212;but on the <persName>bareers </persName>manifesting a desire to go on to
+<placeName>Cl° Austins Colony</placeName> I beg leve to recommend him to your faivour&#8212;
+thare is no doubt of <persName>Judge Carr</persName>s being a man of Honour Honesty
+and Probity&#8212;I am with the highest sentiments of Esteem your 
+Cincear friend&#8212;</p>
+
+<p><persName>John Sprowl</persName></p>
+<p><persName>Cl° J. T. Gross,</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

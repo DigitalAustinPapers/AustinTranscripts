@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2109">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mateo Ahumada, 09-08-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-26">12-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mateo Ahumada
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1196-1197
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-08">09-08-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning hostilities of Comanches and poor preparation of the colonists for war.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Your communication of the <date when="1825-08-19">19th of August last</date>, received <date when="1825-09-07">yesterday</date>,
+has acquainted me with the breach of peace committed by the
+<persName>Comanches</persName>, and apprizes me that the <persName>Tahuacanos </persName>and <persName>Tahuiases</persName>
+have joined them in that savage and unjust war, and killed the
+<persName>American</persName>, <persName>Dickenson</persName>. You instruct me to adopt every possible
+measure, that I may be ready in case they should extend their hos-<pb n="1197"/>
+tilities to the limit of the establishment in my charge; to pursue
+them, and take satisfaction for any outrages they may commit.</p>
+
+<p>The actual situation of this <placeName>Establishment </placeName>is by no means well 
+calculated to meet the commencement of a war, owing to the reasons
+already expressed in my communication of <date when="1825-08-20">August 20th</date>, and 
+<date when="1825-09-08">September the 8th</date> to the <persName>Political Chief of the Department</persName>. 
+Nevertheless we are all ready to obey, and to attack any people considered
+as <persName>enemies </persName>by the <persName>government</persName>.</p>
+
+<p>I will lose no time in adopting such measures as our circumstances
+permit for either attack upon or defence against the <persName>enemy</persName>. I have,
+in fact, already ordered the <persName>militia </persName>to be in readiness to march at the
+earliest notice, and I shall not omit to report to you any new 
+occurrences.</p>
+
+<p>God and Liberty.                                        <persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1825-09-08">September 8th, 1825</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

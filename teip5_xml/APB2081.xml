@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2081">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Gaines to Stephen F Austin, 08-13-1825</title>
+            <author>
+                <persName>James Gaines</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-24">12-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Sabine, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1165
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-08-13">08-13-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a Negro stolen from Louisiana.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Sabine </placeName><date when="1825-08-13">August 13th 1825.</date></p>
+<p><persName>Col. Steven F Austin</persName></p>
+
+<p>Dr. Sir I Regret to inform you the Documents on Examination
+are mislaid as Respects the Changes alluded to in my Letter all I
+can Recollect of them is as follows</p>
+
+<p>A young man by the name of <persName>Dally </persName>stold a Likely <persName>negro man</persName> of
+<persName>Henry Collins</persName> on the <placeName>River amite</placeName>, in the <placeName>Parish of East 
+Batonrouge State of Louisiana</placeName> <date n="xx-xx-1824">some time last year</date> <persName>Mr. Collins</persName> sent
+a young man by the name of <persName>West </persName>to the <placeName>Brassos </placeName><date n="xx-xx-1824">Last year </date>in
+pursuit of him but Returnd without success he <persName>Mr. Collins</persName> then
+sent me the Documents to Continue the inquiry until I made a 
+Discovery</p>
+
+<p>My inquiries has been as follows I found this <persName>Dally </persName>went to
+<placeName>Pecan Point</placeName> with the <persName>negro </persName>and Changed his name from <persName>Dally </persName>to
+<persName>Lively </persName><date n="Summer-1825">Early this summer</date> he came to the <placeName>naches </placeName>where a young
+man Lived by the name of <persName>Lively </persName>this <persName>Lively </persName>Lived at<placeName><persName> Ellis Bean</persName>s
+</placeName>and was a <persName>partner of Dalleys </persName><placeName>on the River amite in Luciana</placeName> when
+<persName>Dalley </persName>and <persName>Lively </persName>met <persName>Lively </persName>calld him <persName>Dally </persName>but after some apology
+they passed for <persName>Brs </persName>there and Left the <placeName>naches </placeName>with the <persName>negro </persName>for the
+<placeName>upper settlements on the Brasss</placeName> and was there a Rasing ... [illegible]
+some Time ago another one of the <persName>Dalley</persName>s has Lately passdd out
+in pursuit of them and Likely will pass by the name of <persName>Lively</persName>, a
+young man went out Lately with <persName>Mr. Lakely</persName> I am told Can Explain
+Probably the whole affair I have wrote on to <persName>Mr. Collins</persName>, and shall
+shortly Expect him on</p>
+
+<p>I hope for the sake of humanity you will secure the <persName>negro </persName>and
+Damage If possible for 18 months services of the <persName>negro </persName>together per
+Costs of Suit until the Said <persName>Henry Collins</persName> may come or send</p>
+
+<p><persName>Jas Gaines </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

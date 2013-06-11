@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2082">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Morgan A Heard to Stephen F Austin, 08-14-1825</title>
+            <author>
+                <persName>Morgan A Heard</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-24">12-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Franklin County, Alabama</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1165-1166
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-08-14">08-14-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Robert Gillespie of Alabama.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Franklin County Alabama</placeName><date when="1825-08-14"> Aug. 14. 1825</date></p>
+<p>Dear Colo</p>
+
+<p>In a few weeks my friend <persName>Mr Robt Gillespie</persName> will set out on a
+journey to your <placeName>State</placeName>, he has been much pleased with the 
+description he has received of <placeName>Texas</placeName>; and if his opinion on a view of it
+concurs with those who have described the <placeName>Country </placeName>to him he will
+be induced to locate himself in <placeName>Texas</placeName>. He will explore the <placeName>country</placeName>,
+and particularly your <placeName>Grant</placeName>; He is a Gentlemen who possesses an
+extensive knowledge of <persName>Mechanicks</persName>, there is scarcely any species of
+Machinery but what he is well acquainted with,   I have been ac-<pb n="1166"/>
+quainted with <persName>Mr. Gillespie</persName> for ten or twelve years past, He is
+<persName>gentlemen of excellent sense and strict integrity</persName>, and in evry respect
+will be a most useful and valuable member of our <placeName>Country</placeName>; I 
+recommend him to your polite Attention and trust you will afford
+him every information respecting the character of the Country,
+its Constitution and Laws. I know, of no man who can be more
+extensively useful in <placeName>Texas </placeName>than he could be therefore you must fit
+him with <placeName>a league of land</placeName> rich in soil well timbered, with a stream
+on which, all kind of <placeName>water works</placeName>, may be erected. I have progressed
+this far on my way to <placeName>Kentucky</placeName>, after I left you I purchased a good
+many mules on the edge of <placeName>Louisiana</placeName>; and have been detained in
+selling them out, I shall certainly be with you by the <date n="10-xx-1825">last of 
+October</date>,   present my respects to <persName>Mrs Gross</persName> <persName>Mrs Long</persName> and your <persName>brother</persName></p>
+
+<p><persName>Morgan A Heard</persName></p>
+<p><persName>Lt. Colo Stephen F Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

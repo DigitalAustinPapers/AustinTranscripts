@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2061">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, 07-18-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-22">12-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1149
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Deposition</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-07-18">07-18-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's deposition in the case of Groce v. Keep.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Deposition (Copy)</p>
+
+<p><persName>Mr. Jared E. Groce</persName> having called on me to state what passed 
+between him and <persName>Doctor Imla Keep</persName> at the time the Goods were landed
+which were brought on from <placeName>Orleans </placeName>by said <persName>Keep </persName>I have to State
+that a difficulty arose between <persName>Keep </persName>and the<persName> owner of the vessel</persName> in
+which they were brought as to the freight, and <persName>Groce </persName>repeatedly
+stated that he had plac'd Money in <persName>Keep</persName>s hands to purchase sundry
+articles for him in <placeName>New Orleans</placeName>, and that he should hold <persName>Keep </persName>
+responsible for the manner in which that money was expended&#8212;that
+he had nothing to do with the Goods until he recd, them of <persName>Keep </persName>and
+would then credit him for this amount on the Sums due by <persName>Keep </persName>to
+him, <persName>Groce</persName>, on account of Monies placed in <persName>Keep</persName>'s hands.</p>
+
+<p><placeName>Texas </placeName><date when="1825-07-18">July 18,1825</date></p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

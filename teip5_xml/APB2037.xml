@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2037">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James Cummins, 06-13-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-15">12-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Cummins
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1133-1134
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-13">06-13-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing settlement of the Buckner case.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The matter has been investigated which induced the summons
+of <persName>A. C. Buckner</persName> before me, and the result of such investigation
+has satisfied me that the acts of said <persName>Buckner </persName>which were deemed<pb n="1134"/>
+exceptionable proceeded from misconception, and the said <persName>Buckner</persName>
+having manifested a submission to the Laws and <persName>authorities of the
+Government</persName>&#8212;Therefore in order that the public may be satisfied as
+to the result of this matter it is directed that the whole affair be 
+dismissed, under the belief that his deportment will be such as to
+merit the approbation of the <persName>authorities of the Government</persName> and the
+more effectually to avoid any excitement which a reference to the
+subject in private conversation might create it is recommended that
+it be totally forgotten and consigned to oblivion.</p>
+
+<p><persName>San felipe de Austin</persName> <date when="1825-06-13">13 June 1825</date>.</p>
+
+<p><persName>Stephen F. Austin  </persName>  [Rubric]</p>
+
+<p>To <persName>James Cummins Esqr</persName></p>
+
+<p>[On the reverse:]</p>
+
+<p>La hospitalidad y amistad qe. hacia los <persName>extrangeros </persName>caracteriza
+los <persName>Mexicanos</persName>, con q. este sujeto fue tratado en lo <placeName>interior</placeName>, ha
+producido tal efecto sobre su orgullo propio qe. piensan qe. tiene
+influxo pa. trastornar un <placeName>Estado </placeName>y ahora según me dice el va llevar
+sus quejas al <persName>Congreso del Estado</persName>&#8212;estas consiste en esto&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

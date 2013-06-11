@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2059">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Lewis, Stephen F Austin, Jose Antonio Saucedo to Stephen F Austin, 07-16-1825</title>
+            <author>
+                <persName>Robert Lewis, Stephen F Austin, Jose Antonio Saucedo</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-22">12-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unkown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1148-1149
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-07-16">07-16-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and drafts.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To League of Land exclusive of surveying____________________________165.00</p>
+
+<p>To Seal and paper on same______________________3.50</p>
+
+<p>To wagon and Mule____________________180.00</p>
+
+<p>348.50</p>
+
+<p>Cr. By account________________52.45</p>
+
+<p><persName>Surveyor</persName>s order 64.93</p>
+
+<p>equal in cash to   ______________42.97                                  95.43</p>
+
+<p>Due in Cash_______253.07<pb n="1149"/></p>
+
+<p><persName>Mr Lewis</persName> will pay the one half of the above to <persName>Jose Antonio 
+Saucedo</persName> in <placeName>Bexar </placeName>and the other half to the <persName>Baron de Bastrop</persName> in <placeName>Saltillo</placeName>&#8212;
+<persName>Saucedo </persName>may be paid in goods&#8212;the <persName>Baron </persName>must be paid Cash</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1825-07-16">July 16. 1825</date></p>
+
+<p><persName>Stephen F Austin</persName></p>
+
+<p>[On back] Recd of <persName>Robert Lewis</persName> One Hundred and twenty six
+Dollars and [53 1/2] cts the amount of my proportion of the within
+Acct. this <date when="1825-08-22">22d August 1825</date>&#8212;</p>
+
+<p>Recibi del <persName>Sor Roberto Lewis</persName> los ciento veinte y seis pesos 
+sincuenta y tres y medio sueldos que me entrego por cuenta del <persName>Coronel
+Esteban Austin</persName>.   <placeName>Bejar </placeName><date when="1825-09-23">23 de Sepe, de 1825</date>.</p>
+
+<p><persName>José Ant°. Saucedo </persName>   [Rubric]</p>
+
+<p>Son 126 ps. 53 1/2 sueldos</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

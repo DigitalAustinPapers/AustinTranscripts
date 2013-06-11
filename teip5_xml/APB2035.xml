@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2035">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William and Andrew Rabb to Stephen F Austin, 06-10-1825</title>
+            <author>
+                <persName>William and Andrew Rabb</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-14">12-14-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Colorado, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1133
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="private"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-10">06-10-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning the Buckner case.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Colorado </placeName><date when="1825-06-10">June 10. 1825</date></p>
+
+<p>Agreeably to your request I have posted up the address which
+you sent to the <persName>people of this <placeName>nieghborhood</placeName></persName>, also the Documents
+accompanying it                                                                  </p>
+<p><persName>Wm Rabb</persName></p>
+
+<p>To <persName>Col. S. F. Austin</persName>:</p>
+
+<p>This is to certify that I read the above mentioned address and
+documents <placeName>at the houses of <persName>Mr. Buckner</persName> and <persName>Jackson </persName></placeName>in presence of
+<persName>most of the people of <placeName>theis nieghborhood</placeName></persName>&#8212;<date when="1825-06-10">June 10 1825</date></p>
+
+<p><persName>Andrew Rabb</persName></p>
+
+<p><placeName>Big Bernard</placeName> <date when="1825-06-11">June 11&#8212;1825</date></p>
+<p>Sir</p>
+
+<p>Agreeably to Your summon I have proceded thus far but on
+account of the complaint with which I am afflicted, I am unable to
+ride any further: If however my evidence should be material, I
+shall perhaps be able in a day or two to come to Town&#8212;All I know
+in this case is what almost every other person knows, with, perhaps,
+this exception&#8212;A few days ago, when in company with <persName>Mr. Buckner</persName>,
+he observed, that If you prosecuted <persName>Jackson</persName>, it would only be thro'
+malice, and that he (<persName>Buckner</persName>) would fight for <persName>Jackson </persName>" as long
+as he had a drop of blood in his veins "</p>
+
+<p><persName>Andrew Rabb</persName></p>
+
+<p>To<persName> Col. S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

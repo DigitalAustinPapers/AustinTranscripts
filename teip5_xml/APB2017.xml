@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2017">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Humphrey Jackson to Unknown, Unknown</title>
+            <author>
+                <persName>Humphrey Jackson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-13">12-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1116
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date>Unknown</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Humphrey Jackson's memorandum concerning the case of the Mary.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Memo, from <persName>H Jackson relative</persName> to <persName>Carrico </persName>when <persName>Nelson </persName>and 
+<persName>Cartwright </persName>applied for a process <persName>J.</persName> went down to<placeName> <persName>Hunter</persName>s</placeName> to see <persName>Carrico</persName>
+and <persName>Allen </persName>and try and compromise&#8212;<persName>Allen </persName>agreed that they were
+liable for the things lost but contended that they ought only to pay
+the <placeName>Orleans </placeName>price&#8212;and finally the <persName>parties </persName>went <placeName>on board the Mary</placeName>
+to receive as much property as would secure <persName>N.</persName> and <persName>C.</persName> leaving it for
+future determination at what price the lost property should be rated
+at but when they reached the mary <persName>C.</persName> and<persName> A.</persName> told them that if they
+got any thing it must be by law and refused to come to any settle-<pb n="1117"/>
+ment&#8212;afterwards they agreed to pay for the Goods at the <placeName>Orleans</placeName>
+price.&#8212;The Mary was aground <placeName>on red fish bar</placeName> when she was 
+attached and was got off by the assistance of the <persName>Constable </persName>and <persName>guard</persName>
+and run on by <persName>Carrico </persName>in trying to bring her <placeName>into the San Jacinto</placeName>&#8212;
+the <persName>Alcalde </persName>demanded before tryal wheither they had any objection
+to any of the <persName>Jury </persName>and furnished them with a list, and stated that if
+they had any objection others would be summoned on the morning
+of the tryal they agreed that they were liable for the property lost
+but only differd as to the price, so that the only thing for the <persName>Jury</persName>
+to decide was the price of the property.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2067">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Grant to Stephen F Austin, 07-24-1825</title>
+            <author>
+                <persName>James Grant</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-22">12-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Reynosa, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1155
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-07-24">07-24-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade with Mexico.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Reynosa </placeName><date when="1825-07-24">24th July 1825</date>&#8212;</p>
+<p><persName>Colnl Stephen F. Austin</persName>,</p>
+<p>Dear Sir</p>
+<p>I have been much longer detained in this <placeName>Country </placeName>than I had any
+Idea of when I started from your <placeName>settlement</placeName>, It was Six Weeks,
+before we reached <placeName>Refugio</placeName>, and have been longer in Settling my
+business than I had any Idea of. I then went up the <placeName>Country </placeName>and
+bought Some Wool to bring on to the <placeName>Settlement </placeName>but by high waters
+and loosing Mules and Horses, it is only the other day I was able to
+get my Cargos and Mules Collected in <placeName>Camargo </placeName>to start, but am
+again prevented by high waters all the <placeName>Water Courses</placeName> are up so
+that mules with Cargo cannot proceed and I am uncertain when I will
+be able to travel with my cargo there has been a great deal of Rain
+in this <placeName>Country </placeName>the <placeName>Rio Grande</placeName> is very high and likewise the
+<placeName>Nueces</placeName>; and as I am unable to proceed, I have concluded to go down
+to <placeName>Refugio </placeName>and purchase a few goods, to see if I can make up my lost
+time; I shall be with you as soon as it is practicable; as I have since
+I first saw the <placeName>Country </placeName>been determined to become a <persName>Settler</persName>; and
+have refused some good offers to make money, in consequence of
+making all my arrangements to go and settle with you; I hope <persName>Captn
+Jones</persName> has attended to my business and that all things are well my
+absence from the <placeName>Colonies </placeName>has not been my fault; which I know you
+are sensible of&#8212; If <persName>Captn Jones </persName>has not been able to pay you the
+balance; I will settle with you to your satisfaction.</p>
+
+<p><persName>James Grant</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2111">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mateo Ahumada, 09-10-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-26">12-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mateo Ahumada
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1197-1198
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-10">09-10-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning plan of procedure against Comanches and their allies. Austin's desire to maintain neutrality.   Karankawa hostilities resumed.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I received, <date when="1825-09-09">yesterday</date>, your two communications of the <date when="1825-08-21">21st </date>and
+<date when="1825-08-26">26th of August last</date>; the first, instructing me to gather the <persName>largest
+force possible</persName> and to march immediately and chastise the <persName>Tahuacanos</persName>
+and <persName>Tahuiases </persName><placeName>in their villages</placeName>; the second countermanding that
+order in consequence of a report received by you, to the effect that
+the <persName>hostile Commanches</persName> were in those <placeName>villages</placeName>, and might encounter
+us in considerable number, were we to attack them at present. I
+had received a similar report from some <persName>hunters</persName>, and was also 
+apprized that the <persName>Commanches</persName>, <persName>Tahuacanos</persName>, <persName>Tahuiases </persName>and <persName>Cherokees</persName>
+have made a treaty of peace and close alliance. I cannot say whether
+this last report deserves credit, but it seems to me very probable,<pb n="1198"/>
+considering the antecedents which I have communicated to <persName>His
+Lordship, the Political Chief of the Department</persName>.</p>
+
+<p>Some <persName>Americans </persName>recently arrived from the <placeName>Tahuacano villages</placeName>,
+told me, that the <persName>Chiefs of that tribe</persName> assured them it was not their
+intention to be hostile with the <persName>Americans</persName>, that the last 
+depredations were committed by some <persName>Tahuiases </persName>of <placeName>a village situated far
+up on Red River</placeName>, that they, (The <persName>Tahuacanos</persName>) wished to make a
+treaty of peace with the <persName>Americans</persName>.</p>
+
+<p>If the proposal I have made to the <persName>Political Chief of the 
+Department</persName>, in my communication of the <date when="1825-09-08">8th Instant</date>, is approved, I expect
+there will be no difficulty in preserving these <persName>settlers </persName>from <persName>Indian</persName>
+hostilities, if we avail ourselves of the friendly disposition of these
+<persName>Indians </persName>towards the <persName>Americans</persName>. However, in this, as in any other
+case, we shall remain at the disposal of the <persName>government</persName>, ready to obey
+and execute its orders; nothing but the critical circumstances in
+which we are placed, could induce me to think of a proposal of the
+kind. I request you to favor me with as early an answer on this
+subject as is possible, to enable me to take, without loss of time, the
+necessary steps either for war, or for neutrality with the <persName>Indians</persName>.
+It is not possible, at present, to raise a sufficient force to attack the
+<placeName>Indian villages</placeName>, owing to the number of our <persName>sick men</persName>, and, in 
+<date n="10-xx-1825">October</date>, the <persName>Indians </persName>will leave their <placeName>villages </placeName>to go buffalo hunting; so
+that if war, or peace is determined upon, it will be necessary to start
+before the <date when="1825-10-15">15th of October</date>.</p>
+
+<p>In consequence of the continuous hostilities of the <persName>Carancahuase
+Indians</persName>, and considering the conditions of the treaty of peace we
+made with them at <placeName>La Bahia</placeName>, in <date n="09-xx-1824">September last</date>; which was broken
+by them without any cause whatever, and <persName>one of their parties</persName> having
+lately shown themselves between the <placeName>Colorado </placeName>and <placeName>Brazos</placeName>, and in
+the <placeName>vicinity of some of the settlements</placeName> making hostile manifestations,
+I have been compelled in view of the security of our people, to give
+positive orders to the <persName>Lieutenant of Militia</persName> <placeName>in that section</placeName>, to pursue
+and kill all those <persName>Indians </persName>wherever they are found, with the 
+exception of <persName>Prudencia's party</persName>, provided said <persName>Prudencia </persName>remains <placeName>West
+of Buffalo Bayou</placeName>, because it would be impossible to make a 
+distinction between <persName>his people and the others</persName>, if they continue mixed 
+together in <placeName>our vicinity</placeName>. Which I communicate to you in order that
+you may be pleased to approve this measure, or to give me such
+orders and instructions as you deem proper, and which shall be
+strictly obeyed.</p>
+
+<p>God and Liberty.                                            <persName>Estevan F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1825-09-10">September 10th, 1825</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2034">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Aylett C Buckner to Stephen F Austin, 06-10-1825</title>
+            <author>
+                <persName>Aylett C Buckner</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-15">12-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1132
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-10">06-10-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">For the good of the colony suggests a referendum.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Sir I appears that I am called here for undertaking one of the
+most just causes in my opinion imaginable that which is not only
+admitted of under <persName>free Governments </persName>but even under the most 
+<persName>despotic Governments</persName> Now sir as it respects myself I disregard rigid
+measures but sir you probably are not apprised of the bad effects
+it may have I do assure you sir it will enrage the people beyond all
+calculation and it will be the downfall of your-self and I believe
+the <placeName>Colony</placeName>&#8212;These are the reasons why I make the following 
+proposition which is this&#8212;</p>
+
+<p>That the whole <placeName>colony </placeName>shall be called togather and if there is a
+majority in favor of the petition it shall go on if not it shall fall The
+people in every direction have herd of your irons for my 
+imprisonment, as it respects myself I disregard all you can do I ask no
+favors, but for the prosperity of the <placeName>Colony </placeName>is the reason why I
+make the above proposition It is a proposition that <persName>every man in
+the <placeName>Colony</placeName></persName> will approve of with few exceptions</p>
+
+<p><persName>Aylett C Buckner</persName></p>
+
+<p><persName>Mr Austin </persName>  <date when="1825-06-10">10th June 1825</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

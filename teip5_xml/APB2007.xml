@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2007">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 05-xx-1825</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-12">12-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1106-1108
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05">05-xx-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Regulations for immigrants. (1) Report intentions and file character certificate on arrival. (2) Get permission to select land. (3) Arrange to pay certain fees, including $60 to the empresario for each league.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[May?&#8212;, 1825.]</p>
+
+<p>Regulations to be observed by <persName>persons who wish to settle in the
+<placeName>Colony</placeName></persName> which the <persName>Govt </persName>have authorised <persName>Stephen F Austin</persName> to 
+establish in <placeName>Texas </placeName>by Contract dated <date when="1825-04-27">April [27] 1825 </date>being the <placeName>second
+Colony</placeName> of said <persName>Austin</persName></p>
+
+<p>Art 1st <persName>Every person wishing to become a settler </persName>must immediately
+after his arrival present himself to me and signify his desire to that
+effect and leave with me recommendations from the <persName>Authorities </persName>of
+the place where he moved from Accrediting his Cristianity morality
+and good habits which will be laid before the <persName>Commr </persName>as the Law 
+requires&#8212;he will also deliver in writing a statement of his name,
+whether married or single, his <persName>family </persName>specifying their number and
+sexes, the <placeName>place of his nativity</placeName>, his age, where from last, and his
+occupation as prescribed in the 3d article of the Colonisation Law,
+and he will at the same time take the oath prescribed by the 3d
+article of the instructions to the <persName>Commissioner </persName>to support the federal
+and state Constitution and the General and State Laws of his
+<placeName>adopted Country</placeName>, his name will then be entered in the <placeName>register book
+of the Colony</placeName> and from that time and not before he will be considered
+an <persName>applicant</persName>, and as such entitled by Law to the priviledges granted
+to the <persName>Colonists</persName>&#8212;the oath must be taken before the <persName>Commissioner </persName>or
+in his Absence before the <persName>Alcalde</persName>.</p>
+
+<p>Art 2d after Complying with the foregoing Article and receiving
+a permission in Writing from the <persName>Empresario </persName>to select <placeName>Land </placeName>as one
+of the <persName>Colonists </persName>he will proceed to make his selection on 
+<placeName>unappropriated Lands</placeName> and give notice at the <placeName>office of the <persName>Empresario</persName></placeName> of his
+selection Within 30 days after the date of his permission in order
+that an entry may be made of the same and instructions issued to the
+<persName>surveyors </persName>to survey it as the Law and their instructions require the
+<persName>applicant </persName>will also at this time present his petition to the 
+<persName>Commissioner </persName>on stamp paper in due form and in Spanish.</p>
+
+<p>Art 3d On the presentation of the petition as stated in the 
+foregoing article satisfactory arrangements must be made to the 
+<persName>Commissioner </persName>for the payment of fifteen Dollars to him, and five dollars into
+the <placeName>office to <persName>Mr Samuel M Williams</persName></placeName> and on receipt of the title five
+dollars more being for his services in extending and copying the
+title, this is exclusive of stamp paper</p>
+
+<p>Art 4th The <persName>Empresario </persName>as the <persName>general Agent of the Colonists</persName> has
+procured at his own expense and Labor, the priviledge of ennabling
+them to obtain Complete titles to land without the delay and expense
+and perplexities of personal applications at the <placeName>seat of Govt</placeName> by each
+individual&#8212;he has all the Labor of the translations&#8212;the 
+examination of the <persName>surveyors </persName>returns and translating them, the receiving,
+registering and locating of <persName>Colonists</persName>, also heavy responsibilities and<pb n="1107"/>
+much Labor of a Complicated and perplexing Nature&#8212;and as his
+Whole time must necessarily be devoted to the service of the 
+<persName>Colonists</persName>, and under heavy expences, he in justice and equity has a right
+to expect a proper remuneration from them and the 9th article of
+the Colonisation Law gives him a legal right to exact it. his object
+is to receive from the <persName>settlers </persName>a small recompence in Comparison with
+the benefits he procures and the Labor he undergoes for them.</p>
+
+<p>Every <persName>settler </persName>therefore who applies for admission into my <placeName>Colony</placeName>
+will be bound to pay me Sixty dollars, if he is entitled to <placeName>a League
+and thirty</placeName> if only to a quarter of a League&#8212; Ten Dollars of which
+sum must be paid at the time of obtaining the permission spoken
+of in the Second article, Twenty Dollars in Six months after the
+date of said permission, and the balance Thirty Dollars in 18 months
+from the date of sd permission.&#8212; the payment of which must be
+secured by Note and lien on the Land granted.</p>
+
+<p>5th In future No respect or preference will be given to any 
+<placeName>settlement </placeName>improvement or selection whatever made by any person Who
+shall not have Previously Complied with the foregoing regulations,
+(excepting however those who have at this time actually made 
+improvements who are allowed until the <date when="1825-10-01">first of October</date> to make 
+application as required in the foregoing articles.</p>
+
+<p>The payments on a quarter of a League must be made as follows
+Ten Dollars on the receipt of the permission as aforementioned and
+the balance in 6 months thereafter.</p>
+
+<p>6th Should I be absent from this place <persName>Mr Samuel M Williams
+</persName>is authorised to receive applications and grant permissions as 
+prescribed in the first and second articles of these regulations</p>
+
+<p>[Recapitulation]</p>
+
+<p>on making application to the <persName>Empr</persName>__________________________  $10.</p>
+
+<p>on presentation of petition which must be within 30 days after
+application to the <persName>comr</persName>___________________________________    15.</p>
+
+<p>to be paid into the <placeName>office </placeName>at the same time____________________      5.</p>
+
+<p>on receipt of title to be pd. into the <placeName>office</placeName>______________________      5.</p>
+
+<p>Stamp paper for original and copy__________________________      2.</p>
+
+<p>Six months application to the <persName>Empro</persName>_______________________    20.</p>
+
+<p>one year after ditto to do__________________________________    20.</p>
+
+<p>18 months after do to do________________________________________  25.</p>
+
+<p>4 years after date of title to the <persName>Ayto</persName>__________________________    10.</p>
+
+<p>5 years after do to do_______________________________________    10.</p>
+
+<p>6 years after do to do________________________________________  10.</p>
+
+<p> 132.<pb n="1108"/></p>
+
+<p>The above is exclusive of surveying fees which will be paid to the
+<persName>surveyors </persName>at the rate of 4 Dollars pr. mile.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

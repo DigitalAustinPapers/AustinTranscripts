@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2095">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Andrew Erwin to Stephen F Austin, 08-29-1825</title>
+            <author>
+                <persName>Andrew Erwin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-26">12-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nashville, Tennessee</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nachitoches, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1185-1187
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-08-29">08-29-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Leftwich and the affairs of the Nashville Company, stock of which is selling at about 100 per cent advance. Concerning the business misfortunes of A. Erwin, Groce &amp; Co.; and the character of Groce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nashville </placeName><date when="1825-08-29">August 29. 1825</date></p>
+<p>Dear Sir</p>
+
+<p>Strange as it may appear it is true that I have never until <date when="1825-08-27">two
+days ago</date> seen your lengthy epistle to me on various subjects of <date when="1825-02-18">18th
+February last</date> this is owing I presume to my absence from this State
+in <placeName>Georgia </placeName>and <placeName>South Carolina</placeName> from <date n="11-xx-1824">November </date>until<date n="04-xx-1825"> April last</date> and
+my attention to my election for <persName>congress </persName>from that time until the <date when="1825-08-05">5th
+inst.</date> in which I was again 2d on the list having 3 others to console
+with me in disappointment since when I visited this place for the first
+time since <date n="11-xx-1824">November last</date> and here find your letter previous to seeing
+of which however I have seen our old fellow sufferer <persName>Genl Leftwich</persName>
+and his <placeName>grant </placeName>and several meetings of the <persName>Texas association</persName>.    They<pb n="1186"/>
+had some difficulty in arranging matters with the <persName>Genl </persName>about his 
+compensation expenses etc. etc. which however now appears settled by
+allowing him his expenses and about $200 pr month for services and
+the stock is selling at about 100 pr ct advance It is now believed that
+<persName>Doctr Robertson</persName> one of our most worthy citizens will go out as <persName>agent</persName>
+and take with him a large connexion and many respectable <persName>friends</persName>
+you will find him a great acquisition to the <placeName>settlement </placeName>of your new
+<placeName>Country</placeName>, he possesses sterling integrity good sound sense mildness
+of manners and conduct and firmness suited to the undertaking and
+with all a good stock of practical experience in the ups and downs of
+life&#8212;I was a <persName>stockholder </persName>but poverty prevents my holding on to it&#8212;
+The old business of <persName>A. Erwin Groce &amp; Co</persName>. and <persName>Erwin &amp; C°</persName> of which
+you have heard so much and so varient from the true state of the case
+keeps me in poverty and at present on the limits prescribed for 
+unfortunate <persName>debtors </persName>from which I shall be released in about twenty
+days as I have twice within the last 7 years given up my last knife
+and fork to <persName>creditors </persName>I did expect to have escaped this ordeal but
+so it is owing to <persName>party </persName>feelings growing partly out of my defending
+myself and <persName>neighbours </persName>against <persName>Genl Jackson &amp; Co</persName>. with eventual 
+success excites feelings of hostility <placeName>from that quarter</placeName> and the 
+circumstance of <persName>Mr. Groce</persName>s leaving the <placeName>country </placeName>with property causes some
+to suppose I had knowledge of it which he knows is not the fact and
+the circumstances of my living <placeName>on a good tract of land</placeName> and having
+the use of <persName>14 negroes </persName>which are mortgaged to the <persName>government </persName>for
+three times what they would sell for furnishes a pretext for some
+<persName>illdisposed persons </persName>to say that I hold property and withold it from
+my <persName>creditors </persName>Even your neighbour <persName>Mr. Groce</persName> who knows these facts
+as well as I do sometimes I am told indulges himself in saying we
+are all rich and owe him and refuse to settle with him etc etc In your
+letter you ask how this matter is above you have the answer all of
+which I could prove by <persName>Mr. Groce</persName> himself <placeName>in a court of the United
+States</placeName> and by Record Testimony in the city of <placeName>Augusta </placeName>were he
+here&#8212;no man wishes <persName>Mr. Groce</persName> to prosper more than I do It is true
+he joined me in a <placeName>merchantile business</placeName> in which business I had been
+prosperous for more than 20 years&#8212;Both our objects were to make
+money in which I lost upwards of<hi rend="italic"> $100,000 </hi>of my own capital and
+<persName>Mr. Groce</persName> near $50,000 leaving us jointly bound for large sums which
+both he and myself exerted ourselves to settle and at our last meeting
+in <placeName>Augusta </placeName><persName>James Erwin</persName> <persName>Mr. Groce</persName> and myself each executed our
+notes to <persName>Col. McKinne</persName> for about ten thousand dollars which each
+were to pay and was to exonerate <persName>Mr. Groce</persName> from all other liabilities
+in <placeName>Georgia </placeName>and he exonerated us from him for all claims by him on
+either of us. <persName>Mr. Groce</persName> left the <placeName>country </placeName>without paying his note it
+was paid by us and I presume is the claim about which <persName>James Erwin</persName><pb n="1187"/>
+has been writing <persName>Judge Thomas</persName> to which you allude in your letter
+in this latter part, however, I may be mistaken as I seldom see
+<persName>James Erwin</persName> and when I do we speak and feel somewhat different
+about <persName>Mr. Groce</persName>. I make more allowances for his misfortunes and
+his disposition to turn molehills into mountains that he does I have
+no knowledge of any other unsettled business between him and us
+which would require references as to what was said in <persName>Mr. Groce</persName>'s
+letter to which you allude and which I had answered which answer
+<persName>Mr. Groce</persName> had not shown you&#8212;I viewed it all as intended for your
+eye and others and his own gratification whilst talking about it. as
+to either myself or <persName>family </persName>having anything to fear from any thing
+<persName>Mr. Groce</persName> could publish either in this <placeName>country </placeName>or that it is all a 
+mistake&#8212;we have no fears of the kind As to your expressions of 
+personal regard I assure you it is reciprocal&#8212;I view you as 
+instrumental in doing much good for yourself and friends and wish you long
+life and continued prosperity.</p>
+<p>Yours very respectfully,</p>
+
+<p><persName>Andrew Erwin</persName>.</p>
+
+<p>P. S. as I write a bad hand and dislike Copying I send you the
+above writen by my <persName>son George Washington Erwin</persName>, from a Copy
+written by myself Since writing the above <persName>Doctor Felix Robertson</persName>
+has been appointed <persName>sole agent</persName> for the <persName>Texas association</persName> and will
+depart thence in <date n="10-xx-1825">October </date>or <date n="11-xx-1825">November </date>next</p>
+
+<p>PS. In addition to all I have said I wish to be remembered 
+affectionately to<persName> Mr Groce</persName> and all his <persName>Children </persName>that are with him, my
+regard for all of them as old <persName>acquaintances </persName>is undiminished and
+had <persName>Mr Groce</persName> been as cautious in speaking of my means and 
+Intentions to relieve him as was his duty and his Interest I do believe I
+should have Effected that Desirable object long since, he has Injured
+me without Bennifiting himself&#8212;I however am Blessed with a <persName>family</persName>
+who view <persName>Enemies </persName>and Misfortunes as removeable by time and proper
+Exertions where truth and Justice is right in front as the poler star,
+this rule we adhere to and of Course fear nothing man can do or
+say&#8212; my best respects to <persName>Mr Westall</persName> and <persName>family </persName>and all other
+acquaintances with you</p>
+
+<p><persName>A E</persName></p>
+
+<p>[Addressed:] <persName>Stephen F. Austin Esqr.</persName> Care of <persName>Jacob Cable</persName> 
+<placeName>Nachitoches Louisiana</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2029">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Inhabitants of Colony, 06-07-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-13">12-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Inhabitants of Colony
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1124-1131
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Notice</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-07">06-07-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explains his authority under the Government, declares that he is willing to have a public investigation of his acts under this authority and has asked for one, but that the procedure of Buckner is illegal and harmful to the colony. Therefore he has ordered his arrest fortrial at Bexar. Documents to support his statements.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><hi rend="italic">To the <persName>Inhabitants </persName>living within the limits of this <placeName>jurisdiction</placeName>&#8212;</hi>.</p>
+
+<p>Fellow <persName>Citizens</persName>, I have regretted to see that a Spirit of 
+discontent and contention has manifested itself in a few <persName>individuals of
+this <placeName>colony</placeName></persName> since its first commencement.&#8212;A rigid adhereance to
+the instructions of the government would have compelled me long
+since to have noticed such disturbances of the public peace; but
+actuated by a hope that reason and reflection would lead them back
+to that path of subordination to the laws from which passion had<pb n="1125"/>
+unfortunately drawn them, I forbore to exercise the authority vested
+in me in such cases.&#8212;Unfortunately, my forbearance has been 
+misconstrued, and has produced the opposite effect to that which was
+hoped for and expected.&#8212;It has been attributed to timidity, to a
+consciousness that I lacked authority, or, to a conviction that I had
+violated the instructions of the <persName>Government </persName>and to many other
+things of this nature.&#8212;.&#8212;</p>
+
+<p>The public peace is now disturbed, and the minds of many of the
+<persName>settlers </persName>publicly disquieted by the acts of these <persName>contentious men</persName>.
+It has therefore become an imperious, tho' a painful duty, to change
+the mild course which has heretofore regulated my conduct, and to
+bring them before the <persName>tribunals of the Government </persName>to answer for
+their conduct.&#8212;.&#8212;So many misrepresentations, (arising probably
+from misconceptions,) have been propagated relative to my acts, as
+well as to those of other <persName>officers of the Government</persName> who were united
+with me in the organization of this <placeName>new colony</placeName>, that, I owe it to
+myself, as well as to every quiet and well-disposed <persName>settler</persName>, to request
+a public investigation of all my acts and conduct of a public nature,
+since I came to this <placeName>Nation</placeName>.&#8212;.&#8212;I approve of the principle that
+every <persName>public officer</persName> is amendable to the law for his official acts.&#8212;It
+is the only solid basis upon which free institutions can rest.&#8212;I hold
+myself responsible for mine, and have already requested, and shall
+again, and again request of the <persName>Government</persName>, that they should be
+publicly examined. I recognize also, as one of the dearest privileges
+of freemen the principle, that, every person has a right to seek
+redress of grievances, and, <hi rend="italic">lawfully </hi>to meet, and petition the 
+<persName>Government </persName>for that purpose, and I would ever be ready to lend my
+feeble aid at any such meeting.&#8212;properly convened for the public
+good.</p>
+
+<p>An invitation for a Meeting has been made and secretly circulated
+by an <persName>individual </persName>whose turbulent and refractory disposition has
+long disturbed the peace and public order, purporting to have for its
+object an investigation of my authority, and with a view " to shake
+off the Yoke and disperse that dark cloud that has so long kept
+the <persName>settlers </persName>in darkness."</p>
+
+<p>As regards this Meeting, I will merely observe that, it has been
+proposed in open violation of the laws of the land, and particularly
+that of the <date when="1824-01-10">10th January 1824</date>, for those laws require an application
+to the <persName>constituted authorities</persName>; and no such application has been
+made. This invitation proposes <hi rend="italic">"to shake off the yoke."</hi> What
+yoke? the words have but one meaning&#8212;they are plain, and the
+inference direct, which is the Yoke of the <persName>Government</persName>.&#8212;.&#8212;</p>
+
+<p>Fellow <persName>Citizens</persName>, are you prepared to join any man in an open
+rebellion against the <persName>government </persName>under which you have voluntarily<pb n="1126"/>
+sought a settlement? Which has received you with every public
+mark of confidence and favour? Are you aware of the fatal 
+influence it will have on your future prosperity, as well as the 
+obstacles it will create against the admission of <persName>new settlers</persName>, to 
+impress on the <persName>Government </persName>the idea, that, the <persName>Americans </persName>are disposed
+at the very moment of their entrance into the <placeName>country</placeName>,&#8212;while yet
+at the threshold and even before their full reception is completed
+and they are received in all the rights of Citizenship, to <hi rend="italic">array
+themselves </hi>in opposition to the <persName>authorities </persName>placed over them? and
+to doubt, suspect and distrust the good faith of the <persName>Government</persName>,
+by declaiming, that, the <persName>officers </persName>appointed by it are without 
+authority, and therefore ought not to be obeyed?&#8212;</p>
+
+<p>I know that it is unnecessary for me to caution you against 
+compromiting yourselves in any such acts, for I know, that, you will
+never do it unless misled or drawn into error without reflection, and
+this is the only reason why I now allude to the subject, and not
+because I ever believed that any well disposed man would knowingly
+engage in any act not sanctioned by the laws of the <placeName>Country</placeName>. If
+the object of the <persName>discontented persons</persName> be an investigation of my
+conduct by the <persName>Government</persName>, I hope they will be gratified, for, as I
+before said, I have petitioned the <persName>Government </persName>for such an 
+investigation ; and I now declare that I will give a pasport to any person who
+applies for it who wishes to proceed to the <persName>Government </persName>for the
+purpose of entering complaints against me, and that, I will myself
+sign any petition respectfully drawn up requesting an investigation
+of my conduct by the <persName>Government</persName>, and that such investigation may be
+<hi rend="italic">public </hi>and at this place in order to give every man an opportunity to
+come forward and exhibit his proofs.&#8212;</p>
+
+<p>My duty, however, and the positive orders of the <persName>Government</persName>,
+relative to such cases, imperiously demand, that, open acts of 
+insubordination tending to disturb the public peace should be noticed.&#8212;I
+have therefore issued an order for the arrest of the turbulent 
+<persName>individual </persName>before alluded to and shall send him to the <persName>Government </persName>to be
+disposed of as it may deem just.&#8212;</p>
+
+<p>As regards the fees ordered to be paid by the <persName>settlers </persName>on their lands,
+I have to state, that, they were fixed by the official order of the
+<persName>Governor of <placeName>Texas</placeName></persName>, published on the <date when="1824-05-20">20th- May 1824</date>, and sanctioned
+by the most <persName>Excl- Provincial Deputation</persName>, who ordered them to be
+exacted as will appear by their official letter dated <date when="1824-09-24">21st Sept. 1824,</date> A
+translation of which is hereto annexed.&#8212;The <persName>Governor </persName>informed me
+that they were in conformity with the <hi rend="italic">fee bill</hi> established by the
+<persName>ancient audience [audiencia] of <placeName>Mexico</placeName></persName>, and other laws then in force;
+Whether they are legal or not, the establishment of them was not my
+act; it was the act of the <persName>highest authority of the then <placeName>Province of<pb n="1127"/>
+Texas</placeName></persName>, and that authority most positively commanded me to collect
+them, and my duty as an <persName>officer </persName>compelled me to obey the order.&#8212;</p>
+
+<p>As regards the quantity of land to be distributed to <persName>individuals</persName>,
+very great discretionary powers were lodged by the <persName>Government </persName>in
+the <persName>Commissioner </persName>and myself, as will appear by reference to the
+original concession, which, together with all the documents relative
+to my authority, are at all times open in my office for inspection, and
+an extract of which is annexed to this communication.&#8212;</p>
+
+<p>Whether any person who applies to be received as a <persName>settler</persName>, has a
+right to dictate to the<persName> officers of Government</persName> how much land they
+are to receive, and in what way the discretionary powers vested in
+those <persName>officers </persName>are to be exercised&#8212;and whether I am bound as the
+<persName>founder of this colony, (Empresario)</persName> to receive every <persName>foreigner </persName>who
+applies, and satisfy all his desires, or, submit to their unreasonable
+complaints and misrepresentations.&#8212;And whether those who, for
+such causes disturb the public peace of the <placeName>settlement </placeName>by their 
+disorganizing clamours, are not <hi rend="italic">liable </hi>to the severest punishments of
+the laws&#8212;and whether the colonization Law itself, and the authority
+granted to the <persName>commissioner </persName>and myself, as the legal organs of the
+<persName>Government</persName>, do not, of themselves make a distinction; and 
+contemplate that a very great one should be made in the distribution of land
+to the <persName>new settlers</persName>, according to their respective situtions, <hi rend="italic">are 
+questions,</hi> which <hi rend="italic">reason</hi>, and the <hi rend="italic">Laws </hi>must decide.</p>
+
+<p>The investigation of my conduct already solicited by me, and
+which I now invite, will however elucidate these as well as all other
+points. If, in my official capacity I have done wrong the remedy is
+in the law&#8212;if those who have questioned the legality of the order of
+the <persName>Government of Texas</persName> relative to the fees required of them on
+their lands, and who refuse to obey it, have done wrong, the remedy
+is also in the law&#8212;and an opportunity is now presented to apply this
+remedy as justice may require. The investigation sought for by me
+will therefore at once show the <persName>settlers </persName>the nature and extent of the
+authority vested in me. All they have now to do is to support the
+authority of the <persName>Government</persName>, <hi rend="italic">discountenance </hi>the <hi rend="italic">turbulent</hi>, and 
+separate themselves from them, and quietly wait the result, under the firm
+assurance, that, the <persName>Government </persName>will be equally prompt in protecting
+the rights of every good <persName>Citizen </persName>as in punishing the refractory.&#8212;</p>
+
+<p>By doing this, no one implicates himself in any manner, the public
+order is not disturbed by illegal meetings, and the <persName>Government </persName>must
+acquit every peaceable <persName>settler </persName>of any participation in such 
+disorganizing acts&#8212;and also by adopting this course, even the discontented
+will obtain what they profess to seek, which, is, an investigation of
+my conduct, and obtain it legally without incurring responsibility or
+blame,&#8212;.&#8212;Therefore in virtue of the authority vested in me by the<pb n="1128"/>
+<persName>Government </persName>as the <persName>civil and Military chief of this jurisdiction </persName>I
+call on all the <persName>Inhabitants </persName>and other persons within its limits, to
+unite in the support of the laws and protection of the constituted
+<persName>authorities of the Government</persName>, and I command them to hold 
+themselves in readiness at all times to suppress any acts of 
+insubordination, or <hi rend="italic">others</hi>, tending to disturb the public peace; <hi rend="italic">hereby </hi>forbidding
+all meetings unauthorized by the laws, or unsanctioned by the proper
+<persName>authorities</persName>, under the penalties prescribed by the laws of the <placeName>state</placeName>
+and of the <placeName>nation </placeName>to which we belong.</p>
+<p><placeName>San Felipe de Austin</placeName>, <date when="1825-06-27">Jun 7th 1825.</date></p>
+
+<p><persName>Stephen F. Austin  </persName>  [Rubric]</p>
+
+<p>[Translation]</p>
+
+<p>The supreme executive Power appointed provisionally by the 
+<persName>Sovereign Mexican Congress</persName> to all who shall see these presents, <hi rend="italic">Know
+Ye</hi>, That considering the great evils resulting to the people from
+the abuse of unpopular Meetings, "<hi rend="italic">Juntos</hi>" to treat of subjects
+which are deemed by them of importance when each one of the 
+constituted authorities has its limits, and attributions designated, and
+the course which they' are to pursue in the different cases that may
+occur pointed out <hi rend="italic">We Have Thought Proper </hi>to resolve as a general
+principle.</p>
+
+<p>1st That all meetings, <hi rend="italic">" Juntos "</hi> or unions of whatever class they
+may be which are not authorized by the Laws are positively 
+prohibited, and those who in violation of this decree, form them, altho' they
+may have been invited to attend them, whether <persName>private citizens</persName>,
+<hi rend="italic"><persName>" paisanos "</persName></hi> <persName>Military </persName>or <persName>Ecclesiastics </persName>shall be punished severely, and
+without reprieve for having committed a crime according to the
+respective laws.&#8212;.&#8212;.&#8212;</p>
+
+<p>2nd Also it is prohibited [that] the <persName>Corporations </persName>and <persName>authorities</persName>
+whose powers are designated by the laws shall meet in one Body to
+deliberate for the purpose of making representations, and to take
+resolutions which are without the scope of their Power.&#8212;.&#8212;</p>
+
+<p>3rd Also when in the case provided for in the last article a 
+corporation exceeds its powers, it shall be responsible agreeably to the
+established laws.</p>
+
+<p>4th This Decree shall be communicated to the <persName>General Staff</persName>, and
+<persName>commandants</persName>, <persName>Generals </persName>and <persName>local commandants</persName>, and to the <persName>Political
+Chiefs </persName>for its exact and punctual comp[l]yance.&#8212;</p>
+
+<p>Therefore, We command all persons to Execute and obey this Decree in all its parts.</p>
+
+<p><placeName>Mexico </placeName><date when="1824-01-10">January 10th 1824</date></p>
+
+<p>Signed           <persName>Alaman</persName><pb n="1129"/></p>
+
+
+<p>[Translation of an official letter from the most excellent deputation
+of Texas.]</p>
+
+<p>The <persName>Baron de Bastrop commissioner of the Government of this
+<placeName>province</placeName></persName> for the organization of your <placeName>Colony </placeName>and to issue the titles
+of possession to its <persName>inhabitants</persName>, has paid to this Provincial 
+Deputation One thousand dollars which he collected from some of those 
+<persName>individuals </persName>on account of the payment which they must make on the
+<placeName>lands </placeName>they receive; declaring, that, two years had been granted to
+those <persName>inhabitants </persName>counting from the <date when="1824-12-01">first of next December</date> for the
+payment of Eleven thousand Dollars which remains due for the
+value of said lands, (which is the $30 each League mentioned in the
+fee bill,) and also for the fees belonging to him as the <persName>commissioner</persName>,
+the whole payable in two anual installments within the time above
+specified, and also for the amount of Sealed paper.&#8212;Although this
+arrangement is not in conformity with the orders that were 
+communicated by the <persName>Government </persName>to the said <persName>Commissioner</persName>; this 
+<persName>corporation </persName>accepts of it under the positive requisition, that the said
+<persName>Commissioner </persName>[is] responsible for the collection of that sum, and
+when it is concluded his commission shall cease, for which reason it
+is inclispensible that at the time of delivering the letters to those 
+<persName>inhabitants </persName>you exact from each one of them an obligation for the sum
+total which they are to pay as well for the value of the <placeName>lands granted
+</placeName>them, as also for the fees of the <persName>commissioner </persName>and other expences
+securing them by the lands they receive for which object you will
+form a Book in which the said Mortgages or obligations must be
+entered.&#8212;</p>
+
+<p>God and Liberty <placeName>San fernando de Bexar </placeName><date when="1824-09-21">21st [September] 1824</date></p>
+
+<p><persName>Jose Antonio  Saucedo</persName></p>
+<p><persName>Miguel Arsiniega, Secy</persName>.</p>
+
+<p>To <persName>D. Col. Stephen Austin.</persName></p>
+
+<p>A true Translation from the original,</p>
+
+<p><persName>Austin</persName>    [Rubric]</p>
+
+<p>[Translation of the Treasurers Receipt.]</p>
+
+<p>As <persName>treasurer of the Public funds of this <placeName>Province </placeName></persName>I have received
+of the <persName>Baron de Bastrop Commissioner of the Government for the
+same Province</persName> for the organization of the Colonial establishment
+undertaken by <persName>Stephen F. Austin</persName> <placeName>on the Colorado and Brazos 
+Rivers</placeName>&#8212;One thousand dollars which he collected of the <persName>inhabitants </persName>on
+account of the fees they are bound to pay to the aforementioned funds<pb n="1130"/>
+for the value of the <placeName>sitios of land which have been granted to them</placeName>,
+and for the security and acknowledgement of the sum I give the
+present receipt signed with my own hand in this <placeName>district of San
+Antonio</placeName> this <date when="1824-09-16">16th day of September 1824</date> Acknowledged by the chief
+of the same Province.</p>
+
+<p>Signed              <persName>Miguel Arsiniega</persName>.</p>
+
+<p>$1000   Acknowledged   <persName>Saucedo</persName></p>
+<p>True Translation</p>
+
+<p><persName>Austin    </persName>[Rubric]</p>
+
+<p>[Extracts from the Decree of the Emperor of Mexico dated 18th of
+February 1823 and confirmed by the Sovereign constituent 
+Congress and supreme Executive Power of the Mexican nation on the
+11th and 14th of April the same year after the dethronement of
+the Emperor.]</p>
+
+<p>"That in conformity with the law of colonization there may be
+" distributed to each <persName>colonist </persName>the<persName> head of a family</persName> one <hi rend="italic"><placeName>Labour</placeName></hi>, or
+" one <hi rend="italic"><placeName>sitio</placeName></hi>, according to the industry he may profess, offering to in-
+" crease the quantity of land for all those who may have a large
+" <persName>family</persName>, or who may deserve it by the establishment of any new
+" species of industry, or the perfection of those already known, or
+"by other circumstances that may be useful to the <placeName>Province </placeName>or
+" <placeName>Empire</placeName>, understanding that to the <persName>Colonist </persName>who, besides occupy-
+" ing himself in farming, also dedicates himself to the raising of
+" stock, there may be given one <hi rend="italic"><placeName>sitio </placeName></hi>and one <hi rend="italic"><placeName>Labor </placeName></hi>in conformity
+" with the eighth article of said law.&#8212;. &#8212;.
+"as regards the second point <persName>Austin </persName>is authorized, accompanied
+" by the <persName>Governor of Texas</persName>, or a <persName>Commissioner </persName>appointed by him, to
+" divide, and mark out, and put each of the <persName>new Colonists</persName> in posses-
+" sion of the quantity of land above indicated, and to issue to each
+" one his title in the name of the Government, for which purpose and
+"the others indicated in the concession,&#8212;certified copies shall be
+" remitted to the said <persName>Governor</persName>.&#8212;.&#8212;
+" And finally, He is authorised to organise the <persName>Colonists </persName>in a body
+" of <persName>National Militia</persName> to preserve the <placeName>interior </placeName>tranquility, giving
+" an account of all things to the <persName>Governor of Texas</persName>, and acting under
+" his orders, and those of the <persName>Captain General of the Province</persName>, and
+"until the Government of the settlement is organised, he is also
+"charged with the administration of justice Settling all differences
+"which may arise between the <persName>inhabitants </persName>and preserving good
+"order and tranquility giving an account of any remarkable event
+" that may occur, to the <persName>Government</persName>.&#8212;</p>
+
+<p>Note The documents containing the authority and Power vested
+in me, and the instructions of the <persName>Government</persName>, are very lengthy, they<pb n="1131"/>
+were fully explained at the meeting of the <date when="1824-06-05">5th June last year</date> and
+are at all times open for public inspection</p>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

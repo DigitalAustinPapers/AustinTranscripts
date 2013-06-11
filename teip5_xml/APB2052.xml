@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2052">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R C Langdon to Francis Keller, 06-28-1825</title>
+            <author>
+                <persName>R C Langdon</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-24">12-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Francis Keller
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchez, Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1143
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-28">06-28-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Wants to establish a press and publish a paper in Texas. It would do much to counteract false reports in Ohio and Kentucky.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Francis Keller, Esqr</persName>.&#8212;</p>
+
+<p>Dear Sir: As you are about to visit the <placeName>Colony of <persName>Colonel Austin</persName></placeName>,
+I shall take it a particular favor if you will make enquiries 
+respecting the prospects of establishing a printing Press in that place.
+Should <persName>Col. Austin</persName> be of opinion that a well conducted Journal
+would aid his views and assist in peopling that interesting <placeName>section
+of country </placeName>I can remove with an entire new establishment, which I
+lately selected in <placeName>Cincinnati</placeName>, and is at present here&#8212;The original
+cost, with paper sufficient for one year, and all expences of 
+transportation from this to <placeName>Texas</placeName>, will cost not quite $1000, or at most
+would not exceed it.</p>
+
+<p>A paper established there at this period would more materially aid
+the improvement of that <placeName>country </placeName>than any thing I know of.&#8212;Various
+and erroneous opinions have gone abroad in <placeName>Ohio </placeName>and <placeName>Kentucky</placeName>, 
+respecting the soil, climate, products, etc. and if a paper was printed
+there it would receive a wide circulation in the <placeName>United States</placeName>&#8212;In
+<placeName>Ohio</placeName>, several <persName>families </persName>would have moved over but for fear of the
+truth of what they had heard against the <placeName>country</placeName>&#8212;I endeavored to
+do away with those impressions and promised to write to them&#8212;they
+are persons of easy circumstances, and respectable character, you can
+acquaint <persName>Col. Austin</persName> with my situation, etc., etc.</p>
+
+<p>Request him to write to me on the subject&#8212;</p>
+
+<p><persName>R. C. Langdon.</persName></p>
+
+<p><placeName>Natches</placeName>, <date when="1825-06-28">June 28,1825</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

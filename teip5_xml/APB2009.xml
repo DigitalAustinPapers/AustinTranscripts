@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2009">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Emily Perry, 05-xx-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-13">12-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Emily Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1108-1109
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05">05-xx-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">New contract to settle 500 families.  Authority to sue for Missouri and Arkansas property.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[May &#8212;, 1825.]</p>
+<p>Dr <persName>Sister</persName>,</p>
+
+<p>I  have lately recd instructions from the <persName>Govt </persName>to attend to the
+<placeName>Settlement </placeName>of five hundred <persName>families </persName>more in this <placeName>country </placeName>and shall
+set about it immediately&#8212;this renders it impossible for me to think<pb n="1109"/>
+of visiting <placeName>Missouri </placeName>for some years to come and besides&#8212; it will
+be a long time before I can raise the means of going there as I
+wish&#8212;my labors in this <placeName>country </placeName>altho arduous and in every way
+perplexing will not yield me anything for some years and then
+not the fortune which some have supposed&#8212;I shall benefit others
+much more than myself in proportion&#8212; but thank heaven I am
+not avericious&#8212;</p>
+
+<p>I wish you [to] ask the advice of <persName>Barton Ed Bates</persName>, <persName>John Scott</persName>,
+and other <persName>Lawyers </persName>relative to the <placeName>mine a Burton property</placeName> and
+make any bargain with them you think proper, except as to 
+engaging Money&#8212;I can pay no money now or for several years to
+come&#8212;if they will undertake it for an interest of the property I
+am agreed to give up an interest&#8212; do as you please but delay no
+time&#8212;</p>
+
+<p>Also take their advice relative to the <placeName>Little Rock property</placeName> and
+have suit commenced on that without delay, and give them an 
+interest in that also&#8212; You are the proper person to attend to that
+business&#8212; and do not delay anytime&#8212; See what can be done
+immediately.&#8212;</p>
+
+<p>Send on from the <persName>Lawyers </persName>the form of a power of attorney for
+<persName>brother </persName>and me to sign and instruction how it must be 
+authenticated&#8212; it is a long distance to the<placeName> seat of Govt</placeName> to have it executed
+before the <persName>Govr </persName>and I am myself the <persName>highest civil authority</persName>, <placeName>this
+side the seat of Govt</placeName> there are <persName>justices of the peace</persName> here, called
+<persName>Alcaldes </persName>before whom it might be executed&#8212;</p>
+
+<p><persName>Brother </persName>started a few days ago to <placeName>San Antonia</placeName> and will be
+absent about six weeks&#8212; I have nothing new&#8212;The Season has
+been very wet so far&#8212;too much so&#8212;tho the crops are very good&#8212;<persName>Mr
+Green DeWitt</persName> I am told has obtained permission for the 
+Settlement of <persName>400 families </persName>from <placeName>Missouri </placeName>on a River in this Province
+called the <placeName>Guadalupe </placeName><placeName>about 70 miles west of this</placeName>&#8212;it is a fine country,
+very well waterd and very healthy&#8212;he will be on shortly from
+the <placeName>interior </placeName>and I will write by him&#8212; in the meantime see the
+<persName>lawyers </persName>and set about the <placeName>Mine a Burton property</placeName> without delay
+and also the <placeName>Little Rock</placeName> business you need not wait for me&#8212; it
+will be four or five years at least before I shall have the means of
+going to <placeName>Missouri</placeName>&#8212;</p>
+
+<p>Remember me to <persName>Mr Perry</persName> and the <persName>children </persName>and write often to
+your</p>
+
+<p>ever affectionate <persName>brother</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Mrs E M. Perry</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

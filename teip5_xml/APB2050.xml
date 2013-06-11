@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2050">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J Child to Stephen F Austin, 06-26-1825</title>
+            <author>
+                <persName>J Child</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-24">12-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. Francis Keller
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchez, Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1142
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-06-26">06-26-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Rapid emigration from Mississippi to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchez </placeName><date when="1825-06-26">June 26, 1825</date></p>
+
+<p><persName>Col. Austin</persName> Dr sir.</p>
+
+<p>The<persName> Bearer Mr. Francis Keller</persName> a respectable citizen of this <placeName>State</placeName>,
+visits your <placeName>Colony </placeName>with a view to make a permanent settlement for
+himself and <persName>family</persName>, if he should be pleased with the <placeName>country</placeName>.</p>
+
+<p><persName>Mr. Keller</persName> has resided at <placeName>Woodville </placeName>for the last 10 or 12 years&#8212;
+and justly merits the character he sustains&#8212;of an honest industrious
+citizen&#8212;Should he be able to procure lands in your settlement&#8212;on
+the <placeName>Brassos</placeName>&#8212;he intends removing with his <placeName>family </placeName>and property and
+connections soon enough to make a crop <date n="xx-xx-1826">next year</date>. His force will
+be no inconsiderable acquisition to the agricultural interests of the
+<placeName>Colony</placeName>. <persName>Mr. Keller</persName> is a countryman of the <persName>Baron de Bastrop</persName>&#8212;I
+think you may afford to grant him a choice reserve&#8212; on account
+of the strength and capital he will add to the <placeName>country</placeName>.</p>
+
+<p>Remember me to your <persName>brother</persName>&#8212;and tell him there will be a plenty
+of <persName>plump girls</persName>&#8212; in the <hi rend="italic"><placeName>Arms of God&#8212;los Brassos de Dios</placeName></hi> [The
+Brazos River] by <date n="Spring - 1826"> next spring</date>. I see most of the respectable 
+<persName>travelers </persName>who are passing to the <hi rend="italic"><placeName>Brassos </placeName></hi>both as they go out and return&#8212;
+They for the most part come back highly pleased&#8212;<persName>Teizer</persName>, <persName>Wood</persName>
+<persName>Hurd Thompson</persName> &amp;c are delighted with the soil and climate&#8212;as well
+as the growing prospects&#8212;hastening the future importance of these
+delightful regions.</p>
+
+<p>God preserve you 1,000 years</p>
+
+<p><persName>J. Child</persName></p>
+
+<p><persName>Col Austin</persName></p>
+
+<p>I wish I was out of this sickly country, and well settled among
+you                                                                                                         </p>
+
+<p><persName>J. C</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

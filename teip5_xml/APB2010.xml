@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2010">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Warren Buford, 05-xx-1825</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-13">12-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Warren Buford
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1110-1111
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05">05-xx-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Summary of the colonization law and other terms of settlement.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[May&#8212;, 1825?]</p>
+<p><persName>Mr. Warren Buford</persName></p>
+
+<p>You state that a number of your <persName>neighbors </persName>and <persName>friends </persName>from the
+<persName>Attackapas </persName>and <persName>Oppelusas </persName>wish to remove to this <placeName>Colony </placeName>and have
+requested of me to inform you on what terms they can be recd the
+quantity of land that will be allowed them etc in answer to which
+enquiry I have to inform you</p>
+
+<p>1&#8212;I am authorised by the <persName>Government </persName>as a<persName> Contractor 
+(Empresario)</persName> to introduce and settle <persName>five hundred families </persName><placeName>on the waters
+of the Brazos and Colorado rivers</placeName> including also <placeName>the East side of
+La Baca and the West side of San Jacinto from the upper or San
+Antonio road to within ten Leagues of the Sea Coast,</placeName> no new <placeName>grants</placeName>
+of <placeName>upland </placeName>can be made nearer than that distance from the <placeName>Coast</placeName>.</p>
+
+<p>2&#8212;The 5th Article of the law of Colonization declares that all
+<persName>new settlers</persName> shall prove their Christianity morality and general 
+characters by certificates from the <persName>authorities of the place where they
+moved from</persName>. If these certificates are satisfactory they will be recd
+and if not they will be rejected, for the law, contemplates and the
+instructions of the <persName>Government </persName>strictly enjoin that none but <persName>men of
+integrity</persName>, <hi rend="italic">Sobriety </hi>and industry should be permitted to settle in the
+<placeName>country</placeName>&#8212; <persName>Criminals</persName>, <persName>fugitives </persName>from justice and <persName>notorious 
+vagabonds</persName> proven to be such are ordered to be driven from the <placeName>State </placeName>by
+<persName>military force</persName> or otherwise punis[hed] for having imposed or 
+attempted to impose them[selves] on the Govt, for <persName>honest and 
+industrious men</persName>.</p>
+
+<p>2&#8212;The 11th article of the same law says that " a Square of land
+which measures one League or five thousand <hi rend="italic">varas </hi>(Mexican yards)
+on each side, or what is the same thing a Superficie of 25,000,000
+Square varas shall be called a <placeName><hi rend="italic">Sitio</hi></placeName> and this shall be the unit for
+counting one two or more <hi rend="italic">Sitios</hi>, and the unity for counting one two
+or more <placeName><hi rend="italic">labors</hi></placeName> shall be a Superficie of one million Square varas, or
+one thousand varas on each side which shall compose a labor of land</p>
+
+<p>3&#8212;The 14 article of the same law says that " to each <persName>family </persName>whose
+" only occupation is cultivating the earth (labrar la tierra) there
+" shall be granted one <placeName><hi rend="italic">labor</hi></placeName>, if he is also a <persName>Stock raiser</persName> there may be
+" added one <placeName><hi rend="italic">Sitio</hi></placeName> of land proper for raising stock, and if he is only
+" a <persName>Stock raiser</persName> he can only have a Superficie of Said Stock land of
+" 24,000,000 square varas</p>
+
+<p>4&#8212;The 15 Article provides that <persName>Single men</persName> shall only receive the
+fourth part of what is allowed by the 14 article for <persName>married men</persName>&#8212;<pb n="1111"/></p>
+
+<p>5&#8212;The 17 article provides that on the recommendation of the
+<persName>Commissioner </persName>the <persName>Government </persName>can augment the quantity of land
+above designated in proportion to the size of the <persName>family</persName>, capital and
+enterprise of the <persName>Settler</persName>, but in no instance to exceed Eleven leagues.</p>
+
+<p>6&#8212;The said law also says that the <persName>Commissioner </persName>appointed by the
+<persName>Govt</persName>, shall employ <persName>Surveyors </persName>and lay of the land for such <persName>settlers </persName>as
+are recd by the <persName>Contractor (Empresario)</persName> and returned to him as
+<persName>settlers</persName>, and that he shall issue to each one of them a complete title
+for his land in the name of the <persName>Government</persName>&#8212;The expences of 
+Surveying&#8212;the <persName>Commissioners </persName>and other office fees and thirty dollars
+on each league to the <persName>Government </persName>must be paid by the <persName>settler</persName>&#8212; the
+30 Dollars pr. league to the <persName>Govt</persName>, is to be paid in three instalments
+the first four years the 2d. five years and the 3d. 6 years after the
+date of the <placeName>Grant</placeName>, the amount of the Surveying fees will depend
+on the contracts made by the <persName>Commissioner </persName>with the <persName>Surveyors</persName>&#8212;
+heretofore a fraction more than three dollars pr. english mile has
+been given, these fees must be paid when the title is recd as the 
+<persName>Commissioner </persName>has not yet arrived I cannot state what his fees or the
+other expences will be, tho I will insure that all the expences including
+<persName>Government</persName>, <persName>Commissioners</persName>, and all other fees and surveying will
+not exceed 12 1/2 cents pr. <placeName>english acre</placeName> if so much and but a small part
+of that will be required down I have hereto fore never rejected any
+man as a <persName>settler </persName>because he had not the means of paying the expences
+on his land in such cases I have on my own responsability allowed
+time for the <persName>settler </persName>to make his payments even the surveying fees&#8212;
+in many instances of this nature I have been deceived and suffered
+a total loss, this will compel me to be more particular in future,
+tho as a genl, rule no <persName>settler </persName>who has a <persName>family </persName>and satisfactorily
+proves his integrity <hi rend="italic">Sobriety </hi>and industry and who has been reduced
+by misfortunes, will be rejected by me no matter how poor he may
+be A <persName>settler </persName>on his arrival here presents himself to me with his
+credentials of character, if these are satisfactory a register is made
+of his name, where he moved from whether married or single&#8212; the
+number ages and sexes of his <persName>family</persName>: the oath prescribed by law
+is then administered to support the constitution and no one can get
+a title to land untill he has actually removed to the <placeName>Country</placeName>. Six
+years is allowed to improve and settle the land, and anyone who
+moves out of the <placeName>country </placeName>forfeits his <placeName>land </placeName>unless he had sold it&#8212;
+and if he sells it without improving it as the law requires the sale is
+void and the land reverts to <persName>Govt</persName>, but every one who has improved
+his land can sell it and leave the <placeName>country </placeName>and the sale is good 
+provided it is made before he moves away.</p>
+
+<p>[Stephen F. Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

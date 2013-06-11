@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB2063">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Keep, Groce, Stephen F Austin to Stephen F Austin, 07-19-1825</title>
+            <author>
+                <persName>Keep, Groce, Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-22">12-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1150-1151
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Judicial Procedure</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-07-19">07-19-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Procedure in a maritime insurance case. Keep and Groce. Trade with New Orleans.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>It appearing by the protest of the <persName>Master and Mate of the
+Schooner Lady of the Lake</persName> of and from <placeName>New Orleans</placeName> and other
+evidence herewith presented, that a part of the Merchandise shipped
+on board of said Schooner were damaged by the sea water that
+leaked into her, and the said Goods having been insured by the
+<persName>Louisiana Company</persName> and their being no <persName>port wardens</persName> or other
+<persName>Officers </persName>here specially appointed to attend to such matters&#8212; 
+Therefore the Undersigned <persName>Consignees</persName> and <persName>Owners </persName>of said Goods 
+petition that <persName>appraisers </persName>be appointed to examine said Goods and assess
+the damage under oath and should the damage amount to more
+than 5 per Cent on said Goods your <persName>petitioners </persName>pray that the goods
+so damaged may be sold at public sale under the direction of said
+<persName>Appraisers </persName>for the benefit of the <persName>Underwriters</persName></p>
+
+<p><persName>Keep </persName>and <persName>Groce</persName></p>
+
+<p>To the <persName>Honbl. Stephen F Austin Judge of the <placeName>Brazos</placeName>, <placeName>Colorado</placeName>
+and<placeName> San Jacinto</placeName></persName></p>
+
+<p><placeName>United Mexican States Department of Texas</placeName></p>
+
+<p><placeName>Jurisdiction of the Brazos Colorado and San Jacinto</placeName></p>
+<p>I <persName>Stephen F Austin Principal Judge of the Jurisdiction 
+</persName>aforesaid having seen the above petition of <persName>Keep </persName>and <persName>Groce </persName>have thought
+proper to appoint and by these presents do appoint <persName>Samuel Sexton</persName>,
+<persName>Samuel M Williams</persName> and <persName>Elias R Wightman</persName> <persName>inspectors </persName>or <persName>appraisers</persName>
+to examine and estimate the damage done to the Goods refered to
+in the said petition and should the damage on any of the articles
+amount to five per cent that they assess the proportion of said
+damage and sell the articles so damaged at public sale, after giving
+10 days public notice for a/c of the Concerned and that the said
+<persName>Appraisers </persName>furnish the parties with a Certificate specifying the<pb n="1151"/>
+proportion of damage said goods may have sustained Given under
+my hand this <date n="11-xx-1825">[19 ?] day of July 1825</date> In the <placeName>District of San
+Felipe de Austin</placeName></p>
+
+<p><persName>Stephen F. Austin</persName>    [Rubric]</p>
+<p><placeName>Department of Texas</placeName></p>
+
+<p><placeName>District of San Felipe de Austin</placeName></p>
+<p>This day personally appeared before me <persName>Stephen F Austin Judge
+of this <placeName>Jurisdiction</placeName></persName> <persName>Samuel Sexton</persName>, <persName>Samuel M William</persName> and <persName>Elias
+R Wightman</persName> who took an oath well and truly to inspect the goods
+submitted to their inspection refered to in the petition of <persName>Keep </persName>and
+<persName>Groce </persName>and to assess the proportion of damage on said Goods and
+to do and perform the other duties required of them in the order of
+<persName>Judge Austin</persName> on the subject to the best of their abilities</p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
