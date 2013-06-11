@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1838">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Elias R Wightman, 01-15-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Borden
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Elias R Wightman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Matagorda, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 320-321
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-15">01-15-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land, fees, surveying.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1830-01-15">Jany. 15, 1830.</date></p>
+
+<p>Dr. Sir</p>
+<p>I have been expecting you [with] great anxiety and should have
+written to you long ago, but suppose from your letter that you
+would be here<pb n="321"/></p>
+
+<p>As regards entries for the <persName>families </persName>who came on with you, they
+must be made in the manner stated in my notice of<date when="1829-11-20"> 20 Novr</date> Those
+who do not apply in conformity with that notice will get nothing,
+and no attention will be paid to their applications.</p>
+
+<p>As regards the fees that have to be paid promptly, I have spoken
+to <persName>Williams </persName>to do all their writing and wait for the fees except the
+stamp paper.</p>
+
+<p>I have left a commisison for you as <persName>surveyor</persName>, and wish you to
+survey <placeName>all the vacant land on the river below Betts League and
+Jinnings camp</placeName> and <placeName>all the land on Trespalacios Creek, Praririe
+Creek, Cany Creek</placeName> but you will have to wait until I get there for
+owing to your not coming up I cannot now make out all the 
+instructions.   I will try and go from <placeName>La baca</placeName> to <placeName>Matagorda</placeName>.</p>
+
+<p><persName>S. F. Austin</persName>.    [Rubric]</p>
+
+<p>[Addressed to:] <persName>Mr. E. B. Weightman</persName> <placeName>Matagorda</placeName>. <persName>Mr.
+Borden</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

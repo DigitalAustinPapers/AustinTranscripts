@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1837">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Dexter C. Gunn and David Bucklin to Stephen F Austin, 01-10-1830</title>
+            <author>
+                <persName>Dexter C. Gunn and David Bucklin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Demascus, Henry County, Ohio</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 320
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-10">01-10-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiring concerning Texas. Six families wish to move.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Demascus Henry County Ohio</placeName> <date when="1830-01-10">10th Jany. 1830</date></p>
+<p>Very Dear Sir</p>
+
+<p>Having seen an account of your <placeName>settlement in Texas </placeName>coppyd in one
+of our <placeName>Journals </placeName>and it being the wish of a number of <persName>Inhabitants </persName>in
+this vicinity to learn the perticulars of your progress in the <placeName>colony</placeName>.
+Its natural productions, the distance from <placeName>New Orleans </placeName>to your 
+settlement as likewise the Diseases incident to your climate, We 
+understand by the <placeName>public papers</placeName> That a man of a <persName>family </persName>that comes with
+a good recommendation will draw <placeName>one league square of land</placeName> <persName>Mexican</persName>
+measure, and that the population is rapidly increasing. If the 
+prospect should prove to be as flattering as it is represented in the public
+prints. There is six <persName>Familys </persName>in this place that will Move from this
+<placeName>country </placeName>to your <placeName>coliny</placeName>. We now live in the <placeName>western part of the
+State of Ohio</placeName> on the<placeName> Maumee river</placeName> which Discharges its waters into
+<placeName>Lake Erie</placeName>, we have lived here some years and the place proves to be
+quite unhealthy. We are subject every summer to fevers. Ague
+&amp; fever etc Our object in writing to you is to learn from your self
+whether the statements respecting your <placeName>colony </placeName>are true etc and
+please have the goodness to write us on the receibt of this [and] Much
+oblige a number who are anxious to come to <placeName>Texas</placeName>. With all due 
+respect we subscribe ourselves</p>
+
+<p><persName>Dexter C Gunn</persName></p>
+<p><persName>David Bucklin P. M.</persName></p>
+
+<p><persName>Col Steven Austin</persName></p>
+
+<p>P S. please direct your letter to <persName>David Bucklin Postmaster </persName>
+<placeName>Demascus Williams County State of Ohio</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

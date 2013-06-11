@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1844">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Elias R Wightman, 01-24-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-18">08-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Elias R Wightman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 325
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-24">01-24-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for surveying. Schools.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr Sir,</p>
+
+<p>I have sent <persName>Mr Selkerk</persName> for the purpose of making up another
+set of hands so as to start another compass. The work that is
+wanted will not be a very profitable job and rather bad railing.
+I wish the <placeName>coast </placeName>meandered, <placeName>beginning at <persName>Jinnins</persName>' camp on Colorado
+and meandering down to its mouth, thence along the coast to the
+Karankaway Bay</placeName>.</p>
+
+<p>I have understood that you had taken up a <placeName>school </placeName>and could not
+leave there to survey, if this be the case I wish you to let <persName>Selkerk</persName>
+have your compass. If it is in any manner injured I will pay you
+its full value or should you wish to sell it I will give you Eighty
+Dollars cash for it.</p>
+
+<p>I wish you to speak to <persName>Burnham </persName>for the use of his best perogue
+to take fresh water and provisions along the <placeName>coast</placeName>. We cannot do
+without it and will pay for the hire if <persName>Burnham </persName>will not lend it.</p>
+
+<p>Considering the badness of the running and the quantity of work
+that must be done before <persName>Leagues </persName>can be run off I think that this job
+will not be an object of sufficient importance for you to quit
+your <placeName>school</placeName>. After the <placeName>coast </placeName>is all meandered the <placeName>creeks </placeName>must also
+be all meandered and a general plot of the whole made and then
+laid off in <placeName>Leagues</placeName> so that it will not be a profitable job for it is
+probable that not more than <placeName>one third of the Leagues</placeName> will be
+taken for some years&#8212;you can do as you please&#8212; If you want this
+job you have had the promise of it, and can get it.</p>
+
+<p>I shall wait here untill the meanders of the <placeName>coast </placeName>are all completed.</p>
+<p>I think the best plan will be to let <persName>Selkerk </persName>have the compass.
+Shall come by <placeName>Matagorda </placeName>on my return.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><date when="1830-01-24">Jany 24, 1830</date></p>
+
+<p>[Addressed] <persName>Mr. E. R. Weightman</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

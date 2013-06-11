@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1803">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Colonlists, 11-xx-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Colonlists
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 295-296
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">notice</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11">11-xx-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instruction for obtaining titles. Fees.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>notice</p>
+
+<p>All the <persName>emigrants </persName>who have removed here as a part of the <persName>families</persName>
+which I am authorized by the <persName>Govt </persName>to settle in <placeName>Texas </placeName>and who have
+not received their deeds are notified that they must furnish me in
+person as soon as possible with a list of their names, where from,
+the number and sex of their <persName>white family</persName>&#8212;the number of <persName>servants</persName>&#8212;
+and the day they arrived in this <placeName>Colony</placeName>&#8212;I hope none will neglect
+this for those who neglect this notice will have cause to repent it.
+A certificate will be issued to each one who thus applies and is recd
+by me as a part of said <persName>families</persName>, which will be an incipient step to<pb n="296"/>
+their getting a title. Fifty cents must be paid to the<persName> secreta[ry]</persName> by
+each one, when the said certificate is issn[edj and ten dollars must
+be paid to said <persName>secretary </persName>on receipt [of] title, and fifty dollars to
+me in one and two years after receipt of title this sum being for
+the expense and labor of translating and attending to the business for
+which we are entitled to pay. I reserve the right of changing these
+terms for those who do not apply until after the <date when="1830-01-01">first of Jany next</date>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

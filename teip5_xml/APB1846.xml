@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1846>
+<project_title>Digital Stephen F. Austin Papers</project_title>
+<project_editor>Andrew J. Torget</project_editor>
+
+<document_creation>01-26-1830</document_creation>
+<document_citation>Eugene Barker, ed., <hi rend=">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to John Austin, 01-26-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-18">08-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 327
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-26">01-26-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Col. Stephen F. Austin</persName></p>
+
+<p><date n="xx-xx-1829">1829 </date>          To <persName>John Austin</persName> Dr</p>
+
+<p><date when="1829-10-25">Octr.   25th. To 5 Yds Sattinett________________________________@10            6. 25</p>
+
+<p><date when="1829-10-25">" </date>1 1/2   Cotton  for  lining__________             75</p>
+
+<p><date when="1829-11-09">Nov       9 </date>    " paid <persName>Cooper </persName>and <persName>Cheeres </persName>for Cloathing for Washing---------8. 50</p>
+
+<p><date when="1829-11-13">13</date>      Cash paid <persName>Mrs Angier</persName> on<persName> White</persName>s Note________________          52.98</p>
+
+<p><date when="1829-11-23">23 </date>     1/2. Ream paper pr <persName>John Cummins</persName>_______5</p>
+
+<p><date when="1829-12-15">Decr   15 </date> paid on your note to <persName>Mrs. Angier</persName>_____109. 97</p>
+<p><date when="1830-01-02">Jany     2 </date>     6 Bales of Tobacco_________9$          54</p>
+<p><date when="1830-01-08">"      8 </date>    do             do-___________________________________10$          80</p>
+<p><date when="1830-01-26">26</date>      paid <persName>J. H. Polly</persName> his a/c for hauling at<placeName> San Felipe_</placeName>___          12. 50</p>
+
+<p>Cr       </p>
+                                                                                                          $329.95</p>
+<p>By <persName>Anthony Winstons</persName> a/c__________________________________100.00</p>
+
+<p>" Dr <persName>Ant Hutchinson_</persName>_____________________________________300.00</p>
+<p>400</p>
+<p><placeName>Brasoria </placeName><date when="1830-01-28">Jany 28., 1830</date></p>
+<p><persName>George Tennel</persName> a/c and order__________________________   39.28</p>
+<p>Your order in favor of <persName>Bowman</persName>_______________________   35.00</p>
+<p>74.28</p>
+
+<p>404.23</p>
+
+<p>paid <persName>Ira Ingram</persName> over the amt of net proceeds of <persName>Jack</persName>________          51.00</p>
+
+<p>paid<persName> Capt Russell</persName> his a/c agst you____          16.00</p>
+
+<p>$471. 23</p>
+<p>400.00</p>
+
+<p>71.23</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

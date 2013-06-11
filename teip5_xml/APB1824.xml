@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1824">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 01-01-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 311-312
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-01">01-01-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging him to move to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austin</placeName>,<date when="1830-01-01"> Jany. 1, 1830</date>.</p>
+<p>My dear <persName>brother </persName>and <persName>sister</persName>,</p>
+
+<p>I have taken a few moments of Leisure to present to you my
+sincere wishes that the <date n="xx-xx-1830">new year </date>which has just entered may be<pb n="312"/>
+a happy and prosperous one to you and that before its close we may
+all be united once more in this <placeName>country</placeName>.</p>
+
+<p>I wrote you <date n="12-xx-1829">last month</date> advising and urging you to remove here
+as soon as possible. I again repeat the same, I wrote you that
+I had petitioned for <placeName>land </placeName>for you I have asked of the Govt <placeName>eleven
+Leagues of land</placeName> for you on the condition that you remove here.
+My <persName>friends </persName>are of the opinion the whole Eleven Leagues will be
+granted which will be near 50,000 acres. The land I have selected for
+you <placeName>lies on Galveston Bay and within six miles of Galveston harbor</placeName>.
+if land is ever worth anything,<hi rend="italic"> one single</hi> league at that <placeName>place </placeName>will
+be worth a fortune. I cannot say positively that the whole <placeName>Eleven
+Leagues</placeName> will be granted, but I have no doubt that at least five will
+be.   I shall know the final result in <date n="03-xx-1830">two months</date> and inform you.</p>
+
+<p>There is an opening here now for <persName>merchandising</persName>. Goods can be
+brought in free of duty until <date n="11-xx-1830">November next</date>, and if you have an
+idea of removing here you ought to come immediately so as to bring
+in a large assortment of goods before the time expires for free
+importations.</p>
+
+<p>I am very desirous for you to remove and there now cannot be
+a doubt remaining [as] to the rapid rise of this <placeName>country</placeName>. [I can] do
+something for you <hi rend="italic">now</hi>, and you must come in time. If the <persName>Govr</persName>
+grants the land I have asked, the title will be void unless you remove
+at least within 18 months from this time but if you delay untill after
+<date n="11-xx-1830">Novr </date>you will have to pay heavy duties on every thing you bring.</p>
+
+<p>You may be sure that I would not urge your removal in so 
+positive a manner if I was not convinced that you will be greatly 
+benifited. <hi rend="italic">There is no time for hesitation or delay</hi>. You will find us a
+plain set of <persName>people</persName>, and you need not be at much expense to bring
+furniture.</p>
+
+<p>Farewell and let me hear from you as quick as possible.</p>
+
+<p><persName>S. F. Austin.</persName>    [Rubric]</p>
+
+<p>Direct your letter post paid to the care of <persName>James W. Breedlove
+</persName><placeName>New Orleans</placeName>, and if you wish for any information relative to vessels
+coming to this <placeName>colony </placeName>write to <persName>Breedlove</persName>, also if you wish to send
+anything here, consign it to him with instructions to ship it to the
+care of <persName>John Austin </persName><placeName>Brazoria</placeName>. <persName>Breedlove </persName>does most of the business
+of this <placeName>colony </placeName>and I wish you to give him yours if you come here,
+<hi rend="italic">and you must come</hi> and that immediately.</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+<p>Bring all kinds of fruit seed and a quantity of it</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

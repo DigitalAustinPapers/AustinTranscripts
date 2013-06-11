@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1822">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 12-31-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 307-309
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-12-31">12-31-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging him to remove to Texas. Good description of productions and economic condition of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName>. <date when="1829-12-31">31 Decr 1829</date></p>
+<p>Dear <persName>Brother </persName>and <persName>Sister</persName>,</p>
+
+<p>I have reflected very much on your removal to this <placeName>country</placeName>, and
+after weighing the matter carefully I have become convinced that
+it is my duty to advise your removal, and I now do so, and urge you
+not to delay any longer than is absolutely necessary to close all your
+affairs, or to put them in train to be closed</p>
+
+<p>I have peti[ti]oned the <persName>Govt of the State</persName> for <placeName>eleven Leagues of
+land for you on Galveston Bay,</placeName> <placeName>within Six or seven Miles of 
+Galveston harbor,</placeName> if the half of that quantity is granted it will be a
+fortune, My standing with this Govt justifies the expectation that
+the whole will be granted but there will be a condition that the <placeName>grant</placeName>
+shall be void unless you actually remove to this <placeName>colony </placeName>within <date when="1832-01-01">two
+years from tomorrow</date> (1 of Janry 1830) and the limit may possibly
+be 18 months, tho. I have asked two years&#8212;</p>
+
+<p>There is a fine opening here for a good <persName>Merchant</persName>, and a regular
+trading shooner to ship produce such as corn, lard etc. to <placeName>Tampico</placeName>
+and <placeName>vera Cruz</placeName> would make money rapidly&#8212; there is considerable
+cotton made and some sugar&#8212; Beef, Tallow, pork, Lard, Mules etc
+All goods can now be introduced free of duty but this previlege
+expires the <date when="1831-11-01">1 of Novr next</date> so that <date n="Spring - 1830">next Spring</date> is the best time to
+move or if you come in the <date n="Fall - 1830">fall </date>let it be before <date n="11-xx-1830">November</date>, for after
+that time you will have to pay enormous duties. I really do not
+think that a greater prospect ever before presented itself and I shall
+think that you are trifling with fortune if you do not embrace it.</p>
+
+<p>This matter ought to be considered in another point of view&#8212; I
+am quite alone here&#8212; My beloved <persName>brother </persName>is no more&#8212; he has left
+but one <persName>child </persName>and I had taken care to secure a <placeName>large tract of land </placeName>in
+my <persName>brother</persName>s name, which will be a handsome provision [for] my
+little <persName>nephew</persName>&#8212; my constitution is much broken&#8212; at my death I
+shall leave some land to some one and I wish to see all my <persName>sisters
+children</persName> provided for, The <placeName>eleven Leagues </placeName>I have petitioned for,
+will be in the names of both of you and for the equal benefit of
+both&#8212; that is half for <persName>Sisters children by Bryan,</persName> and half for you,
+to be disposed of as you think proper, this will be a handsome 
+provision even if they get nothing more, It is now uncertain wheither
+I shall ever Marry, and if I do not, I shall perhaps have some <placeName>land</placeName><pb n="308"/>
+to divide amongst them this however is uncertain, and I do not
+urge your removal on account of any expectations of that kind,
+I wish to secure you a certainty in the <placeName>11 Leagues</placeName> and that is an
+object worthy of removing to, seting aside every thing else&#8212; If
+you want more land more can be had&#8212; I can now buy <placeName>50 Leagues</placeName>
+at about 8 to 400 dolls, pr. League and less&#8212; The <placeName>11 Leagues</placeName> I
+have petitioned for will cost you about $1000 including every thing,
+and you will be allowed 4, 5, and 6, years to pay a part of that in
+and the balance can be settled by me easily&#8212;</p>
+
+<p>I have not heretofore urged your removal because I have never
+been so thoroughily convinced as I now am of the future rapid rise
+of this <placeName>country</placeName>-&#8212; you have no idea of it, or you would be <hi rend="italic">here
+before </hi><date n="04-xx-1830">April</date>, <persName>family </persName>and all&#8212; There is a good situation on the
+land I have asked for you, for a <placeName>Steam Saw Mill&#8212;</placeName> lumber sells
+at <placeName>Tampico</placeName> <placeName>Vera Cruz</placeName> etc at from 50 to 80 dolls, per 1000&#8212; none
+can be imported from the <placeName>U. S</placeName>. for it is a prohibited article&#8212; your
+<persName>servants </persName>must be <persName>indented </persName>or <persName>hired by contract</persName> executed before a
+<persName>Jud[g]e</persName> or <persName>Clerk of the County</persName> with his certificate under seal-
+indenture them for life at a small hire; and let each one acknowledge
+in the indenture that he or she is indebted to you 5. 6. or 800 dolls,
+according to the value of the <persName>slave</persName>&#8212; No <persName>Slaves </persName>can be admitted,
+but there is a special law guaranteeing all contracts made in a 
+<placeName>foreign country </placeName>with <persName>servants </persName>or <persName>hirelings</persName>-
+Bring ail manner, and great quantities of fruit seeds with you and
+some Gooseberry and rasberry roots, in particular</p>
+
+<p>Furniture is scarce here and high, but as we are all poor 
+<persName>backwoodsmen</persName>, costly furniture is unknown and unnessary, but you
+ought to bring enough to be comfortable</p>
+
+<p>I have set my heart on your removal and I shall be dreadfully
+disappointed if you do not&#8212; Consign any thing you wish to
+send here to <persName>James W. Breedlove</persName><placeName> New Orleans </placeName>with orders to ship
+it to <persName>John Austin</persName> <placeName>Brazoria Texas</placeName>&#8212; Send your letters to <persName>Breedlove</persName>,
+<hi rend="italic">post paid </hi>and enquire of him as to vessels, freight, etc he is the
+<persName>Mexican consul for <placeName>New Orleans</placeName></persName> and my friend, do all your 
+business with him&#8212; Send some letters directed to me, care of <persName>Hugh
+McGuffin</persName>, <persName>Post Master at the <placeName>Sabine Parish</placeName> of <placeName>Nachitoches</placeName></persName> post
+paid&#8212; as soon as I get an answer from the Govt I will write,
+in the meantime prepare to move for I must have you here&#8212; You
+must come indeed you <hi rend="italic">Must </hi>I have fine situations for building
+in this <placeName>place </placeName>and all round it, you can take choice I will live with you
+until I marry&#8212;that is to say until I die&#8212;<persName>Brothers widow</persName> and <persName>little
+Stephen</persName> will join us, I wish the remnant of our <persName>family </persName>united once
+more, and it can be done with all ease<pb n="309"/></p>
+
+<p>This is the most <persName>liberal and munificent Govt </persName>on <placeName>earth </placeName>to 
+<persName>emigra[n]ts</persName>&#8212; after being here one year you will oppose a change
+even to <persName>Uncle Sam</persName>&#8212;</p>
+
+<p>I can now help you&#8212;but if you delay it will be out of my
+power&#8212;   <hi rend="italic">now then</hi> is the time&#8212;</p>
+
+<p>All the difficulties as to <persName>Slaves </persName>about which I wrote you are 
+removed, by a new law excepting <placeName>Texas </placeName>from the Gen1 emancipation
+law of <date when="1829-09-15">15 Sepr</date> this applies to <persName>Slaves </persName>brought in before the time
+expired for introducing them&#8212;this shews that the principle of
+Slavery is admitted as to <placeName>Texas</placeName>, and I have no doubt that in a few
+years this will be a <placeName><persName>Slave </persName>State</placeName>&#8212; I have no doubt that it is the
+Settled policy of the present administration of this Govt to fill up
+<placeName>Texas </placeName>with <persName>emigrants </persName>from the<placeName> U. S</placeName>. as soon as possible and from
+it into a <placeName>State of this confederation,</placeName> it will be the best <placeName>State in
+the Mexican Union</placeName>&#8212;</p>
+
+<p>Now is the golden Opportunity&#8212;if you loose it, such another will
+never offer&#8212;</p>
+
+<p>I send this by way of <placeName>Opelusas </placeName><date when="1830-01-01">tomorrow </date>I will write by way of
+<placeName>Orleans </placeName>and in a few days by way of <placeName>Nachitoches </placeName>for fear some
+of the letters may miscarry. I shall tax you for postage, but the
+object is worth it for if you come to this <placeName>country </placeName>I see nothing to
+prevent your being rich <hi rend="italic">very </hi>rich in a few years&#8212; <placeName>11 Leagues of
+land</placeName> is near 50.000 acres-
+try and bring some of the breed of English cattle, nature never
+made a better place for stock than the land I have asked for you&#8212;
+oysters and fish and fowls at your door etc the<placeName> latitude is about
+29° .10'</placeName>&#8212; it is about <placeName>80 miles from this place</placeName>&#8212; so soon as the
+<placeName>grant </placeName>comes in I will go in person and have it surveyed</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p><persName>J. F. Perry</persName> and <persName>Emily M. Perry</persName></p>
+
+<p>Bring <hi rend="italic">all </hi>your capital it can be well employed here&#8212; I have
+said to the Govt that your capital is considerable&#8212;</p>
+
+<p><persName>A.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

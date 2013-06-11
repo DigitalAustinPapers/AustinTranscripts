@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1819">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Austin to Stephen F Austin, 12-27-1829</title>
+            <author>
+                <persName>John Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 304-306
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-12-27">12-27-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging Austin to take a rest and to collect debts from those owing him. Plans for Mrs. J. E. B. Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr Sir</p>
+
+<p>I received yours of the <date when="1829-12-18">18th inst</date> by <persName>Mr. Smith son in law to Ellis</persName>.
+I am very sorry to hear that you do not recover your health I am
+sure that your confinement at <placeName>San Filipe</placeName> tends greatly to retard the
+recovery of your health and I would advise you by all means to go
+<placeName>into the woods </placeName>this <date n="WInter - 1829">winter </date>and to arrange your business so as to take
+a trip to the<placeName> U. States,</placeName> <date n="Summer - 1830">next summer</date> a trip of that kind would be of
+great service to you I have no doubt and I see no reason why you
+should not take some time to yourself after serving seven years
+apprenticeship to the Colonizing trade, but to say the least it is
+nessisary for you to leave the <placeName>office </placeName>if it is only for a change of<pb n="305"/>
+business I know that you have become tired of being cursed by
+<persName>persons </persName>who have received the most favours by your exertions and
+at your hand but you know it is the way of the world those who
+are most Virtuous or most patient are not known until they are
+tried therefore I suppose it is nessisary to give them a trial I think
+that you have been tried sufficeintly to retire a short time from trial
+make these <persName>men </persName>who want land now pay up and those who are
+oweing you on the <placeName>old colony</placeName> pay they may grumble some but let
+them do so they will do it at any rate;&#8212;</p>
+
+<p>you observed that you thought you had had written a cross letter Just
+before you started to me if so I never have received it I have never
+received a letter from you saying that you were going to <placeName>San
+Antonio</placeName> if I had received such a letter from you I would have
+concluded that you were Scolding for my own benefit or giveing me
+good advise   I never have received the cross letter&#8212;</p>
+
+<p>You asked my opinion concerning the Situation of <persName>Eliza </persName>had I
+not expected you here long before this I would have given it to you
+at <placeName>San Felipe </placeName>When I was last there she has been positive about
+keeping <placeName>house </placeName>by herself untill lately within a few days she has
+been living with us at my <placeName>house </placeName>where she will always be welcome
+if she can make herself so I think that she has discovered the many
+difficulties that would attend the house keeping or living by herself.
+She says that she never will go home to her <placeName>Fathers House</placeName> on any
+account and will not hear a word about the matter&#8212; I have 
+advised it to her as the most prudent step and I thought the Most
+pleasant to herself but when she read the letter which you wrote
+to her and sent by me she said in the most positive manner that
+she never would live with her <persName>parents </persName>again now if she can 
+content herself at my <placeName>House </placeName>I think it will be best to move the <placeName>log
+house</placeName> unfinished <placeName>on my lot </placeName>and finish it for her to live in if you think
+so I will do it but when the <persName>Commissioner </persName>leaves there I wish you
+would take a few days time and come down here then we can settle
+upon some plan for future operation, if there is any <persName>porter </persName>in the
+Vessel I will have some for you I wish you to come soon that some
+arrangement Can be made with <persName>Harris </persName>at the <placeName>Gin </placeName>the business
+will not detain you more than three or four days at this and the
+<placeName>Gin</placeName>, <persName>Mr Westall</persName> has an account for Boarding I do not know the
+amount I presented his Bill and have not yet settled with him on
+account of the Bill he has against yourself and <persName>Brother </persName>he will
+present it when Called upon I intend to allow it should he present
+it before I see you as I suppose he would not bring a wrong bill
+I wish that you would make some of those <persName>persons </persName>who are oweing
+you pay up in produce or Cotton   if they would do so I want the use<pb n="306"/>
+of some money untill I can collect   I wish to pay all demands in
+<placeName>Orleans </placeName>as soon as possible&#8212;</p>
+
+<p>Nothing new the vessel has not yet arrived</p>
+
+<p><persName>John Austin  </persName>  [Rubric]</p>
+
+<p><persName>Col. S. F. Austin</persName>&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

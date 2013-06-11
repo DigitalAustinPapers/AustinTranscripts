@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1807">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>David G Burnet to Stephen F Austin, 12-05-1829</title>
+            <author>
+                <persName>David G Burnet</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Louisville, Kentucky.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 299
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-12-05">12-05-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting a contract with the Mexican Government for exclusive navigation of Brazos and Colorado Rivers with steam.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Louisville </placeName><date when="1829-12-05">5 Decr 1829</date></p>
+<p>My Dear Sir</p>
+
+<p>I have accompanied our <persName>friend </persName><persName>Genl Fullerton</persName> this far and shall
+return probably this <date when="1829-12-05">afternoon </date>to <placeName>Cincinnati</placeName>&#8212; I have suggested
+to the <persName>General </persName>a speculation which I think promises great benefits
+and I have no doubt of its practicability&#8212; It is the procuring the
+exclusive right of navigating the <placeName>Texas waters</placeName> Say the <placeName>Colorado</placeName>
+the <placeName>Brasos </placeName>and the <placeName>Trinity </placeName>by Steam&#8212;The <persName>Genl</persName> and myself would
+be happy to unite with you in this [s]cheme if the monopoly could
+be obtained 20 or 25 years or even for 15 years it would be an
+immense affair Should the <placeName>U. S</placeName> get the <placeName>territory</placeName>&#8212; Should you
+think well of the proposition you are hereby authorized to sign
+my name to a petition to that effect&#8212; I beg you will think seriously
+of the matter&#8212;and if you do will summon up all your ingenuity
+in drafting a petition so as [not] to leave a single flaw for the
+jealousy of this government to pick at&#8212; It should [be] So drawn
+as to embrace not only the <placeName>rivers </placeName>but all passes and passages from
+one <placeName>river </placeName>to the other&#8212;the <placeName>Netchez </placeName>might also be included&#8212; I
+have only time to hint at this matter&#8212;<persName>Genl Fullerton</persName> will explain
+my views more fully to you&#8212;   in haste</p>
+
+<p><persName>David G. Burnet </persName>[Rubric]</p>
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p><placeName>San Felipe</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

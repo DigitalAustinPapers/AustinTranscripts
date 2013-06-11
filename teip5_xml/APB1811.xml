@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1811">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Stephen F Austin, 12-14-1829</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 300-301
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-12-14">12-14-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Accompanying a memoir on Texan boundary. Understands that this started United States to negotiating for Texas. Asks Austin to help him get land in Texas before United States acquires it.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matamoros </placeName><date when="1829-12-14">Decr 14th 1829</date></p>
+<p><persName>Col. S F Austin</persName></p>
+
+<p>My dear Sir I avail myself of an opportunity for your place to
+send you a copy of a <placeName>Memoir </placeName>on the <placeName>Western boundary of the US
+</placeName>which I sent to <placeName>Washington </placeName>and which I understand has originated
+a negociation on the Subject&#8212; When I first proposed the purchase
+I expected to have had through <persName>Col Bradburn</persName>, extensive concessions
+in <placeName>Texas</placeName>, but <persName>Bradburn </persName>has failed to perform his engagements and
+as yet I have no land secured, at the Same time I was influenced by
+the knowledge that If I obtained no land myself the success of the
+plan would secure to you a splendid fortune promptly My <persName>friends</persName>
+now write that a <persName>Special Mission</persName> has been sent to <placeName>Mexico </placeName>to treat
+on this Matter and the<placeName> papers of the US</placeName> contain Many articles
+Strongly in favor of the purchase I have no doubt it will take
+effect in Some Shape or other-&#8212;</p>
+
+<p>Now if there be any mode by which I could secure a <placeName>grant </placeName>of good
+<placeName>land </placeName>in my own name I would thank you to point it out</p>
+
+<p>By the terms of the grant of the privelege of Navigating this
+<placeName>river </placeName>we are authorised to Colonise any of the <placeName>vacant lands on this
+river </placeName>but there are none vacant that are worth having or that can
+be got at Conveniently&#8212; The <placeName>River </placeName>is not Navigable excepting in
+<placeName>high Water above Mier </placeName>and the<placeName> banks of the River</placeName> below that
+are occupied<pb n="301"/></p>
+
+<p>My own affairs go on badly My <persName>Men </persName>have all been sick nearly
+three months and at the time when the boat might have been most
+profitably employed&#8212;</p>
+
+<p>I am now in treaty with the <persName>Merchts </persName>of this place to sell them half
+this boat to be run permanently <placeName>between this and the Mouth of the
+river</placeName>&#8212; if I effect this arrangement it will relieve me from my
+present confinement and perhaps enable me to visit <placeName>your part of the
+Country </placeName>if I do not effect it I shall take the boat to <placeName>New Orleans
+</placeName>as soon as I can and sell her to close the concern&#8212; I regret 
+extremely the misfortune you have experienced in the death of your
+<persName>brother</persName>, it is indeed a severe blow to you under your present 
+circumstances&#8212; My last letters bring me the Melancholly intelligence
+of the death of My <persName>Mother </persName>it has been truly a severe year to the
+<persName>family   </persName>God grant the next may prove More propitious</p>
+
+<p><persName>Henry Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

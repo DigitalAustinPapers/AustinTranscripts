@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1816">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Jose Antonio Navarro, 12-24-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Navarro
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Bexar, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 302-303
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-12-24">12-24-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thinks Navarro's income as collector of customhouse at Galveston will be small. Future depends on policy of the Government. Late decree concerning slavery retards development. Commerce in the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1829-12-24">24th of December [1829]</date></p>
+
+<p>My esteemed <persName>friend </persName>:&#8212;</p>
+
+<p>I received your letter of the <date when="1829-11-29">29th of last month</date> and I give you my
+sincere thanks for the just reflections that you make relative to the
+loss by early death of my <persName>brother</persName>. The mail arrived very late and
+is now leaving and I have not time to write much.</p>
+
+<p>In regard to the employment that the <persName>Government </persName>has given to
+you as <persName>administrator [of the port] of Galveston</persName> I believe like you
+that for some time it will not produce sufficient to live upon. If it
+shall or shall not be productive in the future depends entirely on the
+progress of <placeName>Texas</placeName>, and it appears that this is doubtful on account
+of the last decrees sent out by the <persName>legislature </persName>extraordinary and
+unknown in the Constitution which has been established in <placeName>Mexico</placeName>.
+I think if the <placeName>country </placeName>was well established the office would be of
+sufficient consideration.<pb n="303"/></p>
+
+<p>The <persName>father-in-law of Don Samuel</persName> lives on <placeName>San Jacinto</placeName>, and has
+a boat suitable for going from the landing on that <placeName>river </placeName>to the
+<persName>island of Galveston</persName>. If you think of making a visit you can do so
+in this way without difficulty. The <placeName>Island </placeName>is depopulated and I
+am of the opinion that now the <placeName>custom House</placeName> should be at <placeName>Brazoria</placeName>
+on the <placeName>Brazos</placeName>.</p>
+
+<p>The 75 lbs. of Coffee are in <placeName>Brazoria </placeName>and as soon as <persName>Soe</persName> comes I
+will see that he takes it if he can do so.</p>
+
+<p>I cannot say positively when the vessel will leave for <placeName>Orleans</placeName>.
+The interest which my <persName>brother </persName>had in her has been sold&#8212;I will write
+to <placeName>Brazoria </placeName>upon this particular and will advise you.</p>
+
+<p>I shall be much pleased to see you here. I live with <persName>Don Samuel
+</persName>and you must come direct to our <placeName>jacal </placeName>it is <placeName>one mile from the villeta</placeName>.</p>
+
+<p>I shall not speak of the last letters, because I have no time to
+answer them by this mail. I shall rest in the confidence and wisdom
+of the <persName>authorities </persName>there. The memorial of our worthy <persName>chief of
+department</persName> is most helpful, and can not fail to carry much influence.</p>
+
+<p>By the next mail I shall write to you about your estimate 
+concerning lands and shall only say now that if I can get the money I shall
+return the estimate.</p>
+
+<p>In regard to the decrees I shall only say that in not more than one
+or two months at most notices of them will be spread through the
+<placeName>Gazetas of Orleans</placeName> for from there they will receive notices every day
+from <placeName>Vera Cruz</placeName>, <placeName>Tampico </placeName>and <placeName>Matamoras</placeName>. I doubt not that there
+are some in <placeName>Nacogdoches </placeName>whom, I shall see and speak to of this
+matter with pleasure.</p>
+
+<p>Give my respects to your <persName>brothers </persName>and to <persName>Mr. Ruiz</persName> and to your
+<persName>father</persName>.</p>
+
+<p>Your friend                                                  <persName>E. F. Austin.</persName></p>
+
+<p>(P. S.) I forgot to say that you can come with mules and horses,
+I think the first you can sell for money although this is an article
+which is very scarce, and there is no certain market for anything in
+money.</p>
+
+<p><persName>E. F. A.</persName></p>
+
+<p>Addressed to <persName>Jose Antonio Navarro</persName>   <placeName>Bejar</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

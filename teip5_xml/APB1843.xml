@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1843">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J Child to Stephen F Austin, 01-24-1830</title>
+            <author>
+                <persName>J Child</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-18">08-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchez, Mississippi</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 323-325
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-24">01-24-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggests a plan for hastening the settlement of Texas. Does not care whether slavery is permitted or not.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchez </placeName><date when="1830-01-24">Janry 24, 1830</date></p>
+<p>Dear Col,</p>
+
+<p>Since I visited <placeName>Texas </placeName>in the year <date n="xx-xx-1822">1822</date>, at your request for the 
+purpose of aiding in the establishment and support of your <placeName>colony</placeName>, it is
+well known to you that my exertions have been unremitting in the
+promotion of the original plan of the <placeName>settlement</placeName>, and perhaps my
+subsequent absence has been more beneficial to the undertaking, than
+I could have been by remaining among you. And at the same time
+I flatter myself that something has been gained on the scores of
+individual fortune and reputation both.<pb n="324"/></p>
+
+<p>At the present crisis however a thought has struck me, that a
+movement might be made highly beneficial to the <placeName>colony</placeName>, in strict
+pursuance of the views and policy of the<persName> Mexican government</persName> and
+in accordance with your own. A movement, which <placeName>England </placeName>must
+approve and to which the <placeName>U. States</placeName> can raise no substantial 
+objections, as it will have a direct tendency to perpetuate a friendly
+understanding between the <persName>three powers</persName>, my efforts in the service
+of <persName>Mexican</persName> Independence, and to suppress subsequent revolt, in
+<placeName>Texas</placeName>, are also well known to you and the government.</p>
+
+<p>With this project in view, which I will hereafter more fully
+detail, I was on the eve of visiting the <placeName>city of Mexico</placeName> to confer with
+the <persName>general government</persName> on the subject- But thinking perhaps that
+your powers were already amply sufficient to authorise a beginning
+and having made up my mind to abandon the plan, unless it should
+meet with your approbation, it was thought most adviseable to 
+consult you in the first place. Since my first visit to <placeName>Texas </placeName>in <date n="xx-xx-1812">1812</date> it has been my uniform opinion that, this <placeName>section of the country
+</placeName>is destined to become the strongest arm of the <placeName>Mexican Republic</placeName>.
+At that early period I fixed on the site you now occupy, as the
+future <placeName>seat of government</placeName> unless the <placeName>opposite point on this side
+the river bottom</placeName> should be deemed more eligible on account of wood
+and water, A<placeName> military lookout post at fort Bolivar,</placeName> a <placeName>trading
+establishment at the head of the navigation on the Buffalo Bayou</placeName>
+connecting these <placeName>settlements </placeName>with your Town on this side and 
+securing the trade and attachment of the <persName>Indians </persName>and <persName>whites </persName><placeName>on the
+waters of the Trinity</placeName>, and extending the same line on the other side
+to the <placeName>navigable waters of the St. Bernard.</placeName> With this view let the
+<persName>Mexican government</persName> open a <placeName>land office</placeName> at <placeName>St. Felipe de Austin </placeName>with
+full powers to make indefeasible complete <placeName>grants </placeName>of land to actual
+<persName>settlers </persName>at a price certain for any quantity not exceeding 640, or
+1,000 acres, let them invite the <persName>Mexicans </persName>in the <placeName>interior </placeName>to move
+down and settle in <placeName>Texas</placeName>, and permit <persName>foreign emigrants</persName> of good
+character and small capital with industrious habits to settle 
+permanently among them, whose attachment will <hi rend="italic">ex necessitate rei </hi>be
+stronger in favor of their <placeName>adopted country</placeName> than any other, and my
+word for it, in three or four years we will give a spur to commerce
+and agriculture greatly enhancing the price of lands, and converting
+the present drone like apathy that broods over those delightful
+regions into the busy hum of the beehive in May.</p>
+
+<p>This done, I will undertake to establish the <placeName>trading house on
+the Buffaloe</placeName> and make a <placeName>settlement </placeName>of some 100 or more persons,
+and it will not be material with me whether slavery is tolerated
+or not.</p>
+
+<p>Be so good as to inform me whether you approve of the 
+experiment, and if so whether you deem it within the scope of your<pb n="325"/>
+powers to authorize me to commence it upon my own plan or one
+of your own suggestion,</p>
+
+<p><persName>J[oshua] Child</persName></p>
+<p><persName>Col Ph Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

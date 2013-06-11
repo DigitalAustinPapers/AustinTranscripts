@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1831">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 01-03-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Dr. Hutchison
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 317-318
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-03">01-03-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging him to move to Texas, and showing advantages of doing so at once.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin,</placeName> <date when="1830-01-03">Jany 3, 1830</date></p>
+<p>Dr brother and Sister</p>
+
+<p>Altho, I have written three letters to you within the last two
+weeks on the subject of your removal to this <placeName>country</placeName>, I again repeat
+the same advise contained in my other letters, least they may have
+miscarried.<persName> Dr. Hutchison</persName> of the<placeName> Boons Lick country</placeName> takes on
+this. He will remove, and perhaps <persName>Genl T. A. Smith </persName>(a <persName>brother</persName>
+of <persName>Jack</persName>'s, tho quite a different man) will also remove in the <date n="Fall - 1830">fall</date>.
+When such men as <persName>Genl Smith</persName> begin to turn their attention this
+way, you may be sure the <placeName>country </placeName>must rise. I have lately made an
+arrangement for a large emigration of <persName>men </persName>of the first respectability
+from <placeName>North Alabama </placeName>round <placeName>Tuscumbia</placeName>, <placeName>Huntsville </placeName>etc they are all
+<persName>men of wealth.</persName> Within the last two months one hundred and fifty
+three <persName>families </persName>have arrived and they are generally of the better
+class and <persName>men of property</persName>. In a year more this <placeName>colony </placeName>will be filled
+up, <hi rend="italic">now then is the time</hi>, if you remove soon you must make a 
+fortune. The land I have asked for, for you and <persName>Emily </persName>I have no doubt
+will be granted&#8212;that is <persName>Eleven Leagues</persName> but the title will be void 
+unless you remove. I have asked two years for you to remove in, but
+am of opinion that only one year will be granted. I can do 
+something for you now but after my colonizing business is done, the door
+will be closed in comparison to what it is now.</p>
+
+<p>The whole expenses of a <placeName>League </placeName>to a <persName>settler </persName>is about $150, and
+there is 4, 5, and 6 years to pay a part of that. Many of the <persName>settlers</persName>
+are poor and will give one half to any one who clears out and pays
+the expenses on the <placeName>whole League</placeName>.</p>
+
+<p>In <date n="11-xx-1830">November next</date> the <placeName>custom house</placeName> will be established and duties
+collected, for the law which exempted <placeName>Texas </placeName>from all duties for
+seven years will expire in <date n="11-xx-1830">November</date>, so that you ought to be here
+with an assortment of goods before <date n="11-xx-1830">November</date>.</p>
+
+<p><persName>Slaves </persName>cannot be introduced as <persName>slaves</persName>, but as <persName>indented </persName>or <persName>hired
+servants</persName>. I shall start in about <date when="1830-01-13">ten days</date> to survey the <placeName>land I have
+petitioned for</placeName>, for you, and select a <placeName>building place</placeName>, and then write
+more particularly. If you will send on a trusty <persName>man </persName>with two or
+three <persName>hands </persName>to build some <placeName>cabins </placeName>it would not be amiss to do so.
+Stock cattle can be got for goods and if you can bring on a good
+<persName>family </persName>to put on your land and tend stock you might soon have a
+1000 head. Beeves may be shipped <placeName>from the spot to Orleans </placeName>not
+more than four days run&#8212;in fact to include all in a few words
+<hi rend="italic">you must remove and that immediately</hi>.</p>
+
+<p>My constitution is failing rapidly, and I want you here, to see
+my <persName>sisters children</persName> all provided for before I die.</p>
+
+<p>Bring all kinds and barrels of fruit seed of the best kind.<pb n="318"/></p>
+
+<p>In dry weather there is a very good <placeName>wagon or carriage road</placeName> <placeName>from
+Alexandria to this place</placeName>. You can take choice of roads either to
+send everything by water, and bring the <persName>family </persName>out in a carriage
+from <placeName>Alexandria</placeName>, or embark the <persName>family </persName>in <placeName>Orleans </placeName>and come by
+water. The <placeName>road </placeName>is a very good one and much used and it is settled
+and safe, the <placeName>settlements </placeName>tho are thin. You must bring bedding
+and furniture. I have nothing of that kind and want some for
+myself.</p>
+
+<p>Send your articles or goods to <persName>James W. Breedlove</persName> <placeName>New Orleans
+</placeName>with instructions to ship them to <persName>John Austin</persName> <placeName>Brazoria Texas.</placeName>
+Also send your letters <hi rend="italic">postpaid </hi>by the same channel. Close your
+affairs in that <placeName>country </placeName>and push on as fast as possible. I have
+applied for a grant for <persName>Henry Austin</persName> who is now running a steam
+boat on <placeName>Rio Grande.</placeName> If you come by land bring a decent carriage,
+you will need it here, and if not, it can be sold. We are beginning
+to get <hi rend="italic">up </hi>in this <placeName>country </placeName>and decent and fine clothes have taken
+the place of buckskin.</p>
+
+<p>Present my respects to my old friend <persName>Saml Perry</persName> and tell him my
+advise is to quit that cold region and emigrate to <placeName>Texas</placeName>. With
+his capital he might make a princely fortune here.</p>
+
+<p>Do the same to my old friend <persName>John Perry</persName> and to his lively and
+agreeable <persName>Lady</persName>. Why not all come? They can command my
+friendship, and I can do something for them if they come quickly.</p>
+
+<p>What are <persName>Elias Bates</persName> and <persName>Honey </persName>doing? Also <persName>James Austin's
+children.</persName> I would get them <placeName>land </placeName>if they would come but I shall not
+write to them anymore for I wished them all to move years ago,
+and they [have] not even answered my letters. Bring <persName>Adeline</persName>.
+She can get a league of land and a <persName>husband </persName>afterwards.</p>
+
+<p><persName>S. F. Austin.</persName>    [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

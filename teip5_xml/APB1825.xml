@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1825">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Austin to Stephen F Austin, 01-01-1830</title>
+            <author>
+                <persName>John P Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 313-315
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-01">01-01-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Prospects of purchase of Texas by the United States. Terms of recognition of land grants.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><hi rend="italic">Duplicate</hi></p>
+
+<p><placeName>New York</placeName>, <date when="1830-01-01">January 1, 1830</date></p>
+<p>My dear Sir,</p>
+
+<p>I took this liberty some few weeks since, which letter I hope
+came safe to hand. I now confirm its contents, and remark that
+nothing has been done <hi rend="italic">Publicly</hi>, at <placeName>Washington</placeName>, relative to the
+<placeName>Texas Country</placeName>; as the <persName>President </persName>was silent on the subject in his
+message, so also have <persName>Congress </persName>been <hi rend="italic">thus far</hi>, and it is perhaps
+probable that any thing in contemplation, either on the part of the
+<persName>administration</persName>, or the <persName>Congress</persName>, will be delayed until late in the
+session, to gain time, for <persName>Mr. Poinsett</persName>'s return to <placeName>Washington</placeName>, or for
+further advice from <placeName>Mexico</placeName>. <persName>Persons however high in office</persName>, it is
+said, and others at <placeName>head quarters</placeName> whose opinions are entitled to
+some credit have, <hi rend="italic">I know</hi>, expressed opinions favorable to the
+obtainment of that <placeName>Province</placeName>, and it is admitted to be understood
+that this <persName>Government </persName>have determined on the measure provided it
+can be <hi rend="italic">reasonably obtained</hi>. But when the thing will be formally
+moved is uncertain and may depend on many circumstances which
+are not within my reach to divine. The project is now making
+some noise in the<placeName> English papers</placeName>, and perhaps will call forth a
+protest from <placeName>Spain</placeName>. Yet it appears probable that sooner or later
+<hi rend="italic">and I believe ere long, </hi>the change will be brought about some how or
+other by amiable negotiation. There seems (as far as I have been
+able to learn) a considerable disposition to speculate in the <placeName>Texas lands,</placeName>
+ which can only be accounted for on the supposition that they
+will soon belong to the <placeName>U. States</placeName>.</p>
+
+<p><date when="1830-01-09">January 9th.</date> Since the above I have reason to believe, (by 
+information received from <persName>persons </persName>who have good means of judging
+at <placeName>Washington</placeName>) that the <placeName>Texas </placeName>negotiations, <hi rend="italic">although in embryo
+yet</hi>; are still going on, and something has no doubt been fixed on
+by this Government, <hi rend="italic">that is</hi>, the acquisition for reasonable 
+considerations, and I further learn, that this <persName>Govt</persName>, will probably not be
+satisfied with the sovereignty of that <placeName>territory </placeName>alone, but must have
+something more, that is all the lands they can get, to reimburse the
+payment and satisfy the people, and make the measure popular.
+I<hi rend="italic"> am also informed</hi>, it is (or more properly speaking) <hi rend="italic">will be </hi>
+determined among other things that, <hi rend="italic">all </hi><placeName>grants </placeName>whatever, having
+relation to that <placeName>country </placeName>(<hi rend="italic">and particularly land, grants</hi>) will be
+strictly scrutinzed and if found informal, or not duly given, or the
+conditions of the said grants not fully complied with,<hi rend="italic"> will not be
+recognized as valid by this <persName>Govt</persName>.</hi>   Those of a fair legal character<pb n="314"/>
+and whose conditions are fully complied with, will doubtless, on
+principles of justice be confirmed. I loose no time in giving you this
+information (in confidence) which I am satisfied comes from a
+correct <persName>source</persName>. Having the best of opportunity of obtaining the
+earliest information, and such as can be relied on, as to the views of
+<persName>both Governments</persName> will give me pleasure to communicate it to you,
+feeling confident, [it] can but prove of interest, and tend to guard
+you against <persName>speculators</persName>. A <persName>special minister </persName>arrived here a few
+weeks since from <placeName>Mexico</placeName>, (one high in favor with its <persName>President</persName>) and
+now on his way to <placeName>Washington</placeName>, if not full power to act, is authorized
+to listen to such proposals as our Govt, may have to offer touching
+the purchase of <placeName>Texas</placeName>, and there appears on the part of the <persName>Mexican
+Govt,</persName> a strong disposition to cultivate a friendly feeling with this
+<persName>Govt</persName>., and at the same time no little jealousy towards the <persName>powers of
+<placeName>Europe</placeName></persName>, and not without good cause from what recently came to
+light respecting their views towards both <placeName>Columbia </placeName>and <placeName>Mexico</placeName>.
+All of which will attribute much to aid the purchase of <placeName>Texas </placeName>on
+more favorable terms, and which I have no doubt now occupies the
+attention of this Govt, and under existing circumstances should not
+be surprised if an early transfer took place. Letters from <placeName>Vera
+Cruz </placeName>state that<persName> Mr. Poinsett</persName> and <persName>secretary </persName>had taken passage in the
+packet ship Virginia to sail about the <date when="1829-12-15">15 Dec</date>. for this <placeName>port</placeName>. We are
+without news from <persName>brother Henry </persName>since last I wrote, which left him
+at <placeName>Matamoras</placeName>, to proceed on his second trip <placeName>up the river </placeName>in a few
+days. With the hopes of soon being favored with a letter, I close
+in haste, as the packet sails in a few moments</p>
+
+<p><persName>Jno. P. Austin.</persName></p>
+
+<p>P. S. The enclosed queries, (from the <placeName>daily advertiser</placeName> of <date when="1829-12-31">last
+thursday</date>) proposed to his <persName>Highness Prince Paul William of
+<placeName>Wiirtemberg</placeName></persName>, <hi rend="italic">are from a source whence his movements are well
+known</hi>, and fully explain the motives of his <persName>Highness </persName>scientific
+researches.</p>
+<p><date when="1830-01-22">January 22d 1830</date>.</p>
+<p>Dear Sir&#8212;</p>
+
+<p>Referring to above duplicate of my last report leaves me now
+but little to add further than a confirmation. <persName>Mr. Poinsett</persName> did
+not arrive in the Virginia as was anticipated, but promised would
+embark in the Falmouth sloop of war, which remained at <placeName>Sacrificios</placeName>
+on the<date when="1829-12-22"> 22nd of December</date>. Among the <persName>Virginia passengers </persName>were
+<persName>Col. José Maria Tornell, Minister plenipotentiary from Mexico to
+this Govt,</persName> and<persName> Col. Mejia secretary of legation </persName>with their <persName>families</persName>.
+They leave <date when="1830-01-23">tomorrow </date>for <placeName>Washington</placeName>, where they will meet <persName>col.
+-----</persName>, referred to in the above, who arrived there some weeks since,
+as a <persName>special agent from Mexico</persName> and whom <persName>Col. Tornell</persName> says enjoys<pb n="315"/>
+the unlimited confidence of <persName>Guerrero</persName>. Should I get anything of
+importance, [I shall] loose no time in communicating it.<persName> Brother
+Henry</persName> writes from <placeName>Matamoras </placeName><date when="1829-12-02">Dec. 2d </date>that, that <placeName>country </placeName>
+heretofore so healthy, the last of <date n="09-xx-1829">September </date>a flood came in, which would
+have enabled him to go quite to <placeName>Sante Fe</placeName>, but he was unable to
+avail himself of it, for it brought with it a pestilence which 
+prostrated every body and that he was the only one of the <persName>boat's crew</persName>
+who escaped it. He had made a second trip to <placeName>Camargo </placeName>and on
+his return trip had but <persName>two well men</persName> and when he wrote was
+thus unable to move the boat as his <persName>engineer </persName>and men were too
+feeble to do anything. I hope you have communicated with him
+as it might prove mutually advantageous.</p>
+
+<p><persName>John P. Austin. </persName>   [Rubric]</p>
+<p><persName>Col. Stephen F. Austin, </persName><placeName>San Felippe de Austin, Texas.</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

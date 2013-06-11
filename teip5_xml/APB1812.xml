@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1812">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H H League to Stephen F Austin, 12-19-1829</title>
+            <author>
+                <persName>H H League</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 301-302
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-12-19">12-19-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking Austin to obtain for him leave of absence from service in the ayuntamiento. His unpopularity makes it inconvenient to serve.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Town of Austin</placeName> <date when="1829-12-19">Decr 19. 1829.</date></p>
+<p><persName>Col Stephen F. Austin</persName></p>
+
+<p>Dear Sir My Extreem bad health precludes the possibilitys of
+my Visiting your <placeName>office </placeName>as often as my business would require it
+after weighing the Subject maturely I find it all important for the
+interest of the <placeName>Community </placeName>to quiet the outrageous Clammer that
+actually threatens at this moment the Over throw of every thing
+and as a Step of Self preservation that I should by all means be
+Released from serveing any longer as a <persName>Rigedore</persName>, it is impossible
+that my health can ever be restored under my present State of
+Depressed and mortified feelings, my hopes and prospects are all
+blasted; and my oppression is beyond the Controll of all the
+philosiph[y] and fortitude I can Call to my aid my health has
+actually Sunk, and unless I can produce a Change, the 
+Conseiquences will be fatal to me and that Very Shortly, thare is no laber
+or fatigue I would not willingly under go for the advancement of
+the <placeName>Country </placeName>if my Exertions Could avail, but Such is the Violence
+of feeling Existing against me at this moment, that any 
+interfearance with the <persName>publick </persName>business by me or Even an Idea that I will
+interfear infuriates them to madness&#8212;it is resolved that the next
+<persName>Ayuntamiento </persName>shall not be contaminated with my (Rascally
+intrigues) as they Say-&#8212;, be the conseiquences what they may&#8212;, my
+own Idea is this, the <persName>Ayuntamiento </persName>will dispence with my meeting
+them on account of my bad health and if it is possible for me to
+obtain Two month leave of Absence from the <persName>Chief of Department</persName>,<pb n="302"/>
+I wish to take a Trip to <placeName>N. Orleans </placeName>to See if it will not facilitate my
+recovery, and if the <persName>Commissioner </persName>can be prevailed upon to represent
+my Case to the Government at the Same time it is possible I may
+obtain a total Exemption, and should I recover my health which I
+have much reason to doubt I may be useful to the <persName>publick </persName>in 
+someother way&#8212;, will you have the goodness to lay the case before the
+<persName>comissioner </persName>and do all in your power for me, which I Shall always
+acknowledge as the gratest of favours.</p>
+
+<p><persName>H. H. League </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1827">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H H League to Stephen F Austin, 01-02-1830</title>
+            <author>
+                <persName>H H League</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-17">08-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 315-316
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-01-02">01-02-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Informing Austin that Nestor Clay is insubordinate and declares that he will not obey the tax law.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Col. <persName>Stephen F. Austin</persName>&#8212;</p>
+
+<p>Dear Sir but a short time since <persName>Mr Nester Clay </persName>came to this
+<placeName>place</placeName>. I accidentally fell in his <persName>company</persName>, and he told me he had
+been wishing to speak to me on the subject of the Tax law and 
+proceeded to make many violent remarks amongst which was the
+following: I will never pay one cent of the taxes while I am able
+to raise arms against it the best <persName>men </persName>in the <placeName>country </placeName>will oppose
+it with force and arms. You would be astonished to know who they
+are. You had better pay it yourself if it costs all you are worth,
+than to attempt collecting the Taxes, by God we will have a <placeName>Boston</placeName>
+Tea Scrap of it, we will come armed and show you whether you
+will collect it. I know my <persName>neighbors </persName>will join me, and if you
+report us in a state of rebellion, we will take no other notice of you
+than to Tar and feather you, and many other remarks of a similar
+kind.<persName> Mr. T. M. Duke</persName> and<persName> H. Cheves</persName> was present and paid 
+attention to the conversation, he is the sort of <persName>charactors </persName>that has always
+kept this <placeName>community </placeName>in an uproar, and has always broke down order
+and established confusion it is my duty as an <persName>officer of this municipality</persName> to inform you of all such outrage, for now is the time to put
+a check to Such <persName>Charactors</persName>,    this is therefore to inform your self<pb n="316"/>
+and the honorable the <persName>Commissioner General of the State </persName>that the
+facts as above stated is just and true all of which I am prepared to
+prove</p>
+
+<p><persName>H H. League</persName></p>
+<p><persName>First Regedor of the municipality of Austin</persName>.</p>
+<p><date when="1830-01-02">January 2nd 1830</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

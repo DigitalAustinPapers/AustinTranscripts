@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1802">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James W Breedlove to Stephen F Austin, 11-30-1829</title>
+            <author>
+                <persName>James W Breedlove</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 294-295
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11-30">11-30-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thanking Austin for information about Texas. Rumors that United States is negotiating for Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1829-11-30">Novr 30. 1829</date></p>
+<p><persName>Col Stephen F Austin</persName></p>
+
+<p>Dear Sir Your esteemed favor of the <date when="1829-10-12">12 Oct </date>came to hand by
+<persName>Captain Pettet</persName> and for the valuable information therein contained
+be pleased to accept my warmest thanks, I have shown your letter to
+several of my <persName>friends </persName>who are interested in <placeName>Texas </placeName>and they have 
+advised me verry Strongly to have it published, this I have declined
+doing, as you had [not] expressed such a wish. Your letter has
+shed light on the subject of the Colonization Laws and regulations.<pb n="295"/>
+which many <persName>persons </persName>stood in need of and to such <persName>persons </persName>I have
+taken pleasure in reading it. I shall feel under much obligation to
+you when I receive the promised translation of all the Laws on
+that subject as it will afford me the means of giving such 
+information as is almost daily asked of me, as the <persName>representative of the
+Mexican Government</persName> in this <placeName>City</placeName>. The impression is rapidly
+spreading that the <placeName>United States</placeName> are now negotiating for the 
+purchase of <placeName>Texas </placeName>it may be without foundation, but it has already
+had the effect to cause many to look in that direction for a future
+<placeName>residence</placeName>&#8212;</p>
+
+<p>for your friendly feelings in recommending the <persName>Planters of your
+-<placeName>Country </placeName></persName>to me as an <persName>agent </persName>to Transact their business accept my
+best wishes, and you may rely on my best exertions for the 
+protection of their Interest whenever intrusted to my care;</p>
+
+<p>Should it ever fall in my way to render Service to the <placeName>Settlement
+of Austin</placeName>, rest assured it Shall be done</p>
+
+<p><persName>J W Breedlove</persName></p>
+
+<p>P. S. A <persName>friend </persName>of mine <persName>Genl Smith</persName> of <placeName>Missouri </placeName>is now here, and
+has a great wish to make a contract with your <placeName>State </placeName>for the 
+Settlement of two or three hundred <persName>families</persName>, and wishes me to Join him,
+he is a <persName>Gentleman </persName>of great Integrity and inteligence, and is in 
+possession of Considerable means, he would visit <placeName>Texas</placeName>, but his 
+business Calls him to <placeName>Mo</placeName>. he requests me to ask <placeName>if the land originally
+granted to <persName>Edwards </persName></placeName>is vacant and also what Kind of a <placeName>Grant </placeName>Could
+be obtained in other <placeName>Sections of your State</placeName>, and when your 
+<persName>Legislature </persName>meets, and what are the requisites to be Done to make a 
+Contract,   your answer to those enquiries will oblige</p>
+
+<p><persName>J W Breedlove</persName></p>
+
+<p>[Addressed.] <persName>Col. Stephen F Austin</persName> <placeName>Austin Texas</placeName> Schr.
+Santa Ana</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
