@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1250">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Emily M. Perry, 08-21-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-08">07-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Col. Matson
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Emily M. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Mine a Burton, Wanshington County, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1427-1428
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-08-21">08-21-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Conditions in the colony&#8212;Indians, crops, slavery, biographical.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName><date when="1826-08-21"> Augt. 21, 1826</date>
+</p>
+<p>Dr <persName>Sister</persName>,</p>
+
+<p>I embrace the opportunity by <persName>Col. Matson</persName> to drop you a line, he
+has promised to stay one night at <placeName><persName>Mr Perry</persName>s</placeName> and as he has seen a
+good deal of this <placeName>country </placeName>he can give you information relative to it&#8212;
+<persName>Brother </persName>has taken a trip into the <placeName>interior </placeName>about six hundred miles
+and I do not expect him back before <date n="01-xx-1827">January</date>, he started <date when="1826-08-01">three weeks
+ago</date> and I have heard from him once, he was well&#8212;the affairs of the
+<placeName>colony </placeName>are going on tolorably well tho imigration is not very rapid
+we have had some difficulties with the <persName>Indians </persName>which no doubt are
+very much magnified <placeName>abroad</placeName>, they are not serious and I think will
+soon terminate, the <persName>tribe </persName>that troubles us is not over 200 strong and
+their depredations are confined to stealing horses, you need not be at
+all uneasy about any reports you hear on this subject&#8212;we have had
+some sickness owing to an unusual wet season, tho but few deaths
+and those confined to new comers&#8212;</p>
+
+<p>The constitution of this <placeName>State </placeName>will be finished shortly and when I
+see it I can give <persName>Mr Perry</persName> more certain advice as to the prospect of
+a removal here, and untill then I do not wish him to derange his
+business where he is by making any preparations for a removal&#8212;</p>
+
+<p>I have heard by report that the suit between <persName>Price</persName> and <persName>Sam1 Perry</persName>
+has been decided in favor of <persName>Perry</persName>&#8212;if so does it not fully decide
+the principle that the whole <placeName>Estate </placeName>can be recovered? I have not
+heard from you since the <date when="1826-01-08">8 of January</date> and feel very anxious to know
+the particulars&#8212;My prospects of making a fortune here are bad, I
+shall be but poorly compensated tho. expect to pay my debts and
+make a comfortable support for my old age&#8212;If <persName>brother </persName>succeeds in
+procuring Stock as he expects and which is the object of his journey
+I shall settle down on a stock farm and perhaps follow the example
+of <persName>Mr Perry</persName> and hunt a jolly old <persName>widow</persName> to comfort me in my old
+age&#8212;The truth is that both <persName>brother </persName>and myself are too much 
+unsettled as yet to trammel ourselves with a <persName>family</persName>, or one of us would
+no doubt have been married before this&#8212;</p>
+
+<p><persName>Mr Andrews</persName> and <persName>family </persName>and the <persName>Allys </persName>are all well and appear
+very well contented&#8212;I think it probable that slavery will not be
+allowed in this <placeName>country</placeName>, tho the constitution will decide it, and as
+soon as I know the result I will write you&#8212;</p>
+
+<p>We have most extraordinary crops this year corn is plenty at 25
+cents, pork and Beef is also cheap and abundant, our cotton is of a
+superior quality and produces very well the average highth of 
+cotton on the <placeName>bottom lands</placeName> is from 9 to 12 feet and yields generally 2500
+to 3000 pounds to the acre<pb n="1428"/></p>
+
+<p>We are begining to have some little trade with <placeName>Orleans</placeName>, tho not
+much as yet.</p>
+
+<p>Kiss all the <persName>children </persName>for me and be sure and make <persName>business men</persName>
+of them, learn them some occupation or profession that will support
+them through life&#8212;I am not in a situation to take any of them yet,
+and it is rather uncertain when I shall be</p>
+
+<p>I have nothing very particular to write as you perceive&#8212;your 
+letters must have miscarried for I have not heard from you since <date n="01-xx-1826">Jany</date>
+except by report of <persName>travellers </persName>which informed me of your health&#8212;</p>
+
+<p>Remember me to my old <persName>friend </persName><persName>Mrs John Perry</persName> and her <persName>husband</persName>
+and all the <persName>Perrys </persName>and all other <persName>friends </persName>and write oftener&#8212;
+your <persName>brother</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Mrs. Emily M. Perry</persName> <placeName>Mine á Burton Washington
+County Missouri</placeName>   <persName>Col. Matson</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

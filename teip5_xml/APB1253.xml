@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1253">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. Brown Austin to Stephen F. Austin, 08-23-1826</title>
+            <author>
+                <persName>James E. Brown Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-08">07-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Antonio, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1430-1434
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-08-23">08-23-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Authorities at San Antonio have made strong protest against abolition of slavery- Feels sure that slaves of the
+first colony will be safe. Valuable services of Bastrop in representing interests of Texas. Much regret at union with Coahuila. Saucedo approves collection of fee from colonists to reimburse you for labor and expense. Other matters.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>San Antonio</placeName> <date when="1826-08-22">August 22 de 1826 (Wednesday)</date> </p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>I arrived at this place last <hi rend="italic"><date when="1826-08-18">fryday </date></hi>but declined writing untill
+the present moment as I had not collected matter sufficient for a
+lengthy letter and the mail does not go out untill <date when="1826-08-24">thursday</date>. on
+my arrival here I found a letter from you and last mail brought
+another; your " triste " letter by last mail has almost given me the
+<hi rend="italic">horrors</hi>, to see you so gloomy&#8212;I am happy to hear your health is
+so much improved&#8212;and I hope a favourable <persName>Slave </persName>Law will have
+a <hi rend="italic">salutary effect</hi> in removing the <hi rend="italic">hippo </hi>and other <hi rend="italic">affecting </hi>
+complaints&#8212;such as the frets, lowering the eye brows etc etc&#8212;</p>
+
+<p>now for the news&#8212;in the first place <persName>Bernardo Gutierris</persName> has been
+removed from office and yr friend <persName>Genl Anastacio Bustamente</persName> 
+appointed in his place&#8212; The <persName>Government </persName>is much displeased at the
+conduct of <persName>Gutierris</persName> he has deceived them on every point relative
+to the state of <persName>Indian </persName>affairs in this Department&#8212;the <persName>Government</persName>
+has made sufficient appropriations to carry on the <persName>Indian </persName>War with
+energy but it appears he applied the appropriations of Govt to his
+own private use; and represented to the Govt that the Campaign
+was proceeding with all possible vigor&#8212; <persName>Bustamante </persName>will make
+this <placeName>head Quarters</placeName> untill the war is finished&#8212;no doubt exists that he
+is on the way&#8212;his proclamación to the <persName>inhabitants </persName>of this 
+Department has already arrived   you will receive one by this mail&#8212;</p>
+
+<p>I perceive by your letter that the <persName>Slave </persName>question has caused 
+considerable sensation in the <placeName>Colony </placeName>I have had much conversation
+with <persName>Saucedo </persName>and others on this subject I see no reason why you
+should apprehend the abolition of the <persName>Slaves </persName>belonging to the <persName>300
+families</persName>; the thing is decided with regard to that point&#8212;<hi rend="italic">those
+<persName>slaves </persName>are guaranteed to the <persName>settlers </persName>by the Law of Colonization and
+they cam, not he deprived of them</hi>&#8212;this is the opinion that prevails
+in this place&#8212; The <hi rend="italic"><persName>Ayuntamiento </persName></hi>of this place presented a 
+memorial to the <persName>Legislature </persName>as soon as the project arrived&#8212;praying that
+the discussion on that important point might be suspended untill
+they could have time to <hi rend="italic">consider </hi>upon it, and inform the other
+<persName>Ayuntamientos </persName>of the Department that they might do the same.
+Since then they have given it the attention it merited&#8212;and by the
+last mail <hi rend="italic">have sent</hi> up a <hi rend="italic">representation couched</hi> in the strongest<pb n="1431"/>
+language they could express in <hi rend="italic">favor </hi>of the <hi rend="italic">admission <placeName></hi>in the New
+<hi rend="italic">Colonies</hi></placeName>&#8212;they <hi rend="italic">declare </hi>it to be <hi rend="italic">indispensable </hi>to the prosperity of
+this Department; in fact they have said all they can say&#8212;as to
+the prospect of freeing the <persName>slaves </persName>of the <persName>300 families</persName> they declare
+it to [be] an unjust abuse of the rights of the <persName>Colonists</persName>&#8212; As to the
+plan of indemnifying the <persName>Settlers </persName>for their <persName>slaves </persName>it is absurd
+where is the <placeName>State </placeName>to obtain <hi rend="italic">500,000</hi>&#8212;in. <hi rend="italic">cash </hi>to pay for the <persName>slaves</persName>
+that are already introduced&#8212;for it is not expected they will be
+deprived of them&#8212;and lay out of their capital 3 or 4 years&#8212;all
+these things have been considered&#8212;and <hi rend="italic">for my part</hi> I have a more
+flattering hope of a favourable <persName>slave </persName>law&#8212;at this time than I have
+ever had before&#8212;your <hi rend="italic">representation </hi>has been sent on&#8212;they say
+it is "algo duro"&#8212;but they make allowances&#8212;<persName>Saucedo </persName>showed
+me a letter from the <persName>Baron </persName>and the <persName>Senator Cevallos</persName> on this subject
+the <hi rend="italic"><persName>viejo </persName></hi>is very warm on the subject&#8212;you will receive a copy of
+it by mail&#8212; The <persName>Old Baron</persName> has strove hard for us&#8212;I know not
+what would have been our fate if he had not been a member of the
+Legislature&#8212; Our situation would have been a deplorable one 
+indeed&#8212;</p>
+
+<p>If a favourable <persName>Slave </persName>Law is passed it will be attributed in a great
+measure to the <hi rend="italic">unremitted </hi>exertions of the <persName>Baron </persName>and I wish the
+<persName>Settlers </persName>to know it&#8212;as many of them are inimical to him&#8212;popular
+opinion has changed very much in his <hi rend="italic">favor </hi>within the last year in
+this place&#8212;I wrote him a lengthy letter last mail to act a " contra "
+to the " Triste " one I supposed you had written At all events if it
+comes to the worst and the <persName>slaves </persName>of the <persName>300 families</persName> are <hi rend="italic">freed </hi>we
+have a right to appeal to <persName>Congress</persName>&#8212;where I am convinced all will
+go right&#8212;</p>
+
+<p>I have conversed with <persName>Saucedo </persName>and <persName>Flores </persName>relative to yr. contract
+with <persName>Burnett </persName>and <persName>Fullerton</persName>&#8212;<persName>Saucedo </persName>is fully of the opinion that
+you are at <hi rend="italic">liberty </hi>to make any contract of that kind you may think
+proper&#8212;and recommends the plan as the surest and most expeditious
+to settle the <placeName>New Colony</placeName>&#8212;he and <persName>Flores </persName>also observes that no 
+objection can be made as to reserving a certain extent of <placeName>country </placeName>for them
+and having it <hi rend="italic">surveyed </hi>against they arrive&#8212;even if they should not
+arrive under a year&#8212;as the Law allows six years for the settling of
+the <placeName>new Colonies</placeName>&#8212;</p>
+
+<p>I think you misunderstand the law relative to the introduction of
+<persName>100 families</persName> before they can receive possession&#8212;<persName>Saucedo </persName>say's that as
+fast as they arrive they can have the quantity of land designated to
+them the law allows&#8212;and they can go on to it and go to work and
+when the <persName>Commissioner </persName><hi rend="italic">arrives </hi>they can be put in possession&#8212;<persName>Flores</persName>
+will wait untill he hears more from you&#8212;or untill the <persName>Slave </persName>
+question is decided but he tells me to inform you that you may expect<pb n="1432"/>
+the utmost <hi rend="italic">latitude </hi>from him that can be given&#8212;without infringing
+the Law of Colonization too much&#8212;</p>
+
+<p>I have fully explained to <persName>Saucedo </persName>the necessity of your <hi rend="italic">receiving</hi>
+something to satisfy you for your trouble and the expense you
+are at&#8212;</p>
+
+<p>he feels fully convinced that it is just and right you should do
+so&#8212;and says there will be no difficulty on that head&#8212;If you can make
+a <hi rend="italic">contract </hi>with the <persName>new Settlers </persName>to pay 20, 30, or 100 dollars; if you
+please over and above what the Govt requires&#8212;he says you have a
+right to do so&#8212;as the Law makes all contracts on the part of the
+<hi rend="italic"><persName>Empresario </persName></hi>and <persName>Colonists </persName>binding provided it is with their consent&#8212;
+however&#8212;he has promised me to do all he can for you on this point&#8212;
+The <persName>New Arancel Mr. Kerr</persName>&#8212;will take on&#8212;I have seen the 
+instructions of <persName>Flores </persName>they are very <hi rend="italic">full </hi>and <hi rend="italic">explicit </hi>but they are so lengthy
+that owing to my <hi rend="italic">bad health</hi> I shall not be able to copy them for
+you&#8212;With the advice of <persName>Saucedo </persName>I do not think it necessary for me
+to go on to <hi rend="italic">Saltillo </hi>but I have written the <persName>Baron </persName>that should it be
+necessary&#8212;to write me Directed to <placeName>san Carlos</placeName>&#8212;</p>
+
+<p>I shall leave this the <date n="8-24-1826">day after to morrow </date>for <placeName>Laredo</placeName>&#8212;I wish you
+to write to me directed to <placeName>San Carlos</placeName>&#8212;you must expect no assistance
+from this place untill the <persName>Comdt Genl Bustamante</persName> arrives then I 
+expect <persName>troops </persName>will be stationed on the <placeName>Brazos</placeName>&#8212;<persName>Ahumada </persName>will be removed
+to <placeName>Nacogdoches</placeName>&#8212;with the <persName>Troops </persName>under his command, and a 
+<persName>garrison </persName>will be placed on the <placeName>Sabine</placeName>&#8212;the Govt has appropriated an 
+immense sum for the payment of <persName>Troops </persName>stationed in this Department
+$60,000 dollars arrived not long since and 30,000 will arrive next
+week&#8212;and 30,000 more is <hi rend="italic">already </hi> "habilitado "&#8212;</p>
+
+<p>Your draft on the Govt at this place has been duly <hi rend="italic">honored </hi>and I
+can get the money today&#8212;</p>
+
+<p>The <placeName>French </placeName>fleet has met with a <hi rend="italic">total defeat</hi> <placeName>10 miles the other
+side of the San Marks</placeName>&#8212;6 <persName>Indians </persName>stole 80&#8212;mules and 25 horses and
+left them completely on foot&#8212;they have procured 30 yoke of oxen
+in this place&#8212;and have been a week gone to bring in the waggons&#8212;</p>
+
+<p>The order for an Election for <persName>Electors </persName>was published in this
+place on <date when="1826-08-20">Sunday last</date>&#8212;and the same will be forwarded on to the
+<placeName>Brazos </placeName>by this mail&#8212;It appears the <persName>Electors </persName>are to meet at this
+place on the <date when="1826-09-06">6th of next month</date> for the purpose of Electing an <persName>Elector</persName>
+to vote for <persName>Deputies to Congress</persName> the <persName>Elector </persName>that is appointed has
+to go all the way to <placeName>Saltillo </placeName>to give in his vote&#8212;and has to bear
+his own expense there and back; the <persName>inhabitants </persName>of this place are
+very much disgusted with so absurd a regulation&#8212;and I believe they
+have come to the conclusion to vote for the <persName>Baron</persName>; as he is already
+there and it is well known he will only vote for those that are 
+favourably disposed towards this Department&#8212;they speak of <persName>Dn Victor
+Blanco</persName>, <persName>Gonzales</persName>, <persName>Cevallos</persName>, or <persName>Yesca [Viesca]</persName>&#8212;we are entitled to 4<pb n="1433"/>
+<persName>Electors </persName>and they must be instructed to vote for the <persName>Baron </persName>as
+<persName>Elector</persName>&#8212;O! how the <persName>Citizens </persName>of this place do curse the day they
+connected themselves to <hi rend="italic"><placeName>Coahuila</placeName></hi></p>
+
+<p>I cannot tell when I shall return I am determined not to do so
+untill I do something&#8212;If slavery is not permitted I have come to
+the conclusion provided I can get 100 mules to employ 4 or 5000
+dollars in goods and bring them to this place&#8212;I have never seen so
+good a prospect to clean 8 or 9000 dollars as offers at this time&#8212;
+here (and owing to the prohibition laws which they have lately 
+received the strictest orders to enforce) And the additional <hi rend="italic">number</hi>
+of <persName>troops </persName>to be stationed here, the prospect will be better&#8212;6 or 7
+months hence&#8212;</p>
+
+<p>As to the <placeName>Colony </placeName><persName>Saucedo </persName>says there is no restriction&#8212;there is
+one thing I wish to caution you&#8212;There has lately arrived here a
+new <hi rend="italic">decree </hi>relative to passports and you must be particular to whom
+you give pasports hereafter&#8212;(the same order has been sent on to
+you) you will have to express in the pasports whether they are
+<persName>Colonists </persName>or not&#8212;if they bring goods the <hi rend="italic">kind </hi>and the amt The
+cause of this last Decree relating to pasports is owing [to] <hi rend="italic">abuses</hi>
+comitted by <persName>strangers </persName><placeName>on the Coast</placeName> against the <hi rend="italic">Revenue </hi>laws&#8212;and
+also for fear <placeName>Spain </placeName>may introduce <persName>Emissaries </persName>into this <placeName>republic </placeName>as
+she has lately done in <hi rend="italic"><placeName>Buenos Ayres</placeName></hi>&#8212;</p>
+
+<p><persName>Berrimende</persName> and <persName>Dn Erasmo's son Juan </persName>will start on the <date when="1826-09-01">1st of next
+month</date> for <placeName>New Orleans</placeName> they calculate to go by <placeName>Sn Felipe</placeName> you must
+try and be at home&#8212;I wish you to be <hi rend="italic">very particular</hi> in yr attentions
+to <hi rend="italic"><persName>Juan </persName>for my sake</hi> for I am certainly <hi rend="italic">indebted </hi>to his <persName>family </persName>for
+inumerable favors&#8212;<[should] he want a new supply of provisions
+furnish him with the best let it cost what it may&#8212;Also he will want
+letters of recomendation to <persName>persons </persName>in 
+ which I wish
+you to furnish him with he goes on to purchase goods, probably
+to the amt of 1000 or 1,200&#8212;Also tell <persName>Mrs. Picket</persName> to have some good
+<hi rend="italic">butter </hi>for him to take along on the road&#8212;I would rather that you
+and <persName>J. E. G[ross]</persName>&#8212;would come to some understanding different
+from the one you are now on&#8212;as to Keep from what I have learned
+since I left you&#8212;it is his intention to leave the <placeName>country </placeName>shortly&#8212;</p>
+
+<p><persName>Parker </persName>has been imprisoned in <placeName>La Bahia</placeName> very unjustly I have
+procured an order for his release&#8212;which the <persName>Govr </persName>has sent on to
+day-</p>
+<p>Do, let me beg of you to assume more cheerfulness you always
+put the worst construction on things and thereby render yourself
+fretful and melancholy&#8212;you are . . . [three lines torn away] there
+has been and is still much sickness on this place</p>
+
+<p>I wish you to inform <persName>Huber </persName>that he can do well in this place; as to
+His procuring a situation in the army it is uncertain untill the arrival<pb n="1434"/>
+of <persName>Bustamante </persName>for the <persName>Comte</persName>- of this place has petitioned for a
+<persName>surgeon </persName>some time since&#8212;And the Govt- has promisd to <hi rend="italic">furnish</hi>
+one&#8212;but in the mean time <persName>Huber </persName>could come on and learn the
+language and form acquaintances&#8212;The obligation of <persName>Roxo the
+Chief</persName> has [been] received and enclosed I send you his receipt&#8212;
+<persName>Saucedo </persName>has informed me that from recent information reced- (not
+officially) <persName>Edwards </persName>will not be <hi rend="italic">permitted </hi>to go on with his <placeName>Colony</placeName>
+but will have to leave the <placeName>Country </placeName>beyond a doubt&#8212;</p>
+
+<p>I think <persName>Burnett</persName>'s prospect pretty good&#8212;If <persName>Burnett </persName>gets the
+settling of that <placeName>country </placeName>I think you ought to make some 
+arrangement to have an interest in it.</p>
+
+<p>Do not neglect to ascertain if <persName>Bingham </persName>will sell his <placeName>Gin </placeName>and for
+what price&#8212;and let <persName>Musquis </persName>know by next mail if possible&#8212;I wrote
+to him on the subject before I left home&#8212;Also I wrote to<persName> Capt.
+Hirams</persName> to collect me a few pounds of Turpentine and to send it to
+<persName>Williams</persName>&#8212;to be forwarded on to <persName>Dn Erasmo</persName> by the <persName>mail rider</persName>&#8212;it
+is for <persName>Musquis </persName>and . . . [three lines torn away.]</p>
+
+<p>Tell <persName>Williams </persName>that <persName>Dn. Erasmo</persName> has not time to write him this
+mail owing to Multiplicty of business&#8212; he thinks he had better come
+on here&#8212;</p>
+
+<p>Enclosed I send you the measure of <persName>Saucedo </persName>for a pair of shoes
+which do not fail to send him by the <persName>Mail rider</persName> if they can be 
+procured.</p>
+
+<p>My health is bad&#8212; I continue weak and you must excuse errors in
+this lengthy scrawl&#8212;</p>
+
+<p><persName>Lewis </persName>is still in <placeName>Santa Rosa</placeName> his business is unfinished as yet but
+has taken <hi rend="italic">favourable turn</hi>&#8212; I am told he is engaged in working
+a mine&#8212;</p>
+
+<p>(<date when="1826-08-24">Thursday</date>) Since writing the above Owing to my weakness and
+the <persName>company </persName>that starts to day for <placeName>Laredo </placeName>not being sufficiently
+strong I shall wait until the <date when="1826-09-01">1st. of next month</date>&#8212; When we can make
+up a considerable <persName>party</persName>&#8212; I am <hi rend="italic">informed </hi>the <placeName>road </placeName>is infested by
+<persName>Indians</persName>.</p>
+
+<p>Give my respects to <persName>Williams </persName>and <persName>Burnett</persName>&#8212; I am glad to hear
+that <persName>Williams </persName>" <hi rend="italic">devil</hi>" has started I hope he will have more peace
+of mind than formerly&#8212;The mail has just arrived from the 
+<placeName>interior</placeName>&#8212;The first part of the Constitution has arrived&#8212; (that is the
+project) no part of it has yet been adopted The Discussion comd
+[commenced] on the <date when="1826-08-22">22d inst</date>. next month will bring something
+final&#8212;<persName>Bustamente </persName>left <placeName>San Luis Potasi</placeName> on the <date when="1826-08-11">11th of the present</date>&#8212;
+etc. etc.&#8212;</p>
+
+<p>I believe I have given you all the news that I am possessed of&#8212;</p>
+
+<p>Remember me to the <persName>widow </persName>and all of my <persName>friends </persName><persName>Dn. Erasmo</persName>
+and <persName>family </persName>send their respects&#8212;</p>
+
+<p><persName>J. B. Austin    </persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
