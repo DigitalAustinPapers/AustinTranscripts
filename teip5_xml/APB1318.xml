@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1318">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Carroll to Stephen F. Austin, 11-05-1826</title>
+            <author>
+                <persName>William Carroll</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-16">07-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Colo. Foster
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nashville, Tennessee</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1489
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-05">11-05-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing B. F. Foster.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nashville</placeName>, <date when="1826-11-05">November 5. 1826</date></p>
+<p>Sir:</p>
+
+<p>Altho not personally known to you, I make no apology for 
+introducing to your acquaintance<persName> Colo Benjamin F Foster</persName> of this place,
+who goes to <placeName>Texas </placeName>as the <persName>agent </persName>for the <placeName><persName>Leftwich</persName> Grant.</placeName></p>
+
+<p><persName>Colo Foster</persName> is a young <persName>Lawyer </persName>of fine education and good talents&#8212;
+of extensive and highly respectable connections and has always 
+sustained the character of a moral, intelligent and honorable young
+<persName>gentleman</persName>-&#8212;As such it gives me pleasure to recommend him to your
+kind civilities and friendly offices.</p>
+
+<p><persName>Wm. Carroll</persName></p>
+
+<p>[Addressed:] <persName>Colo. Stephen F Austin</persName> <placeName>Texas</placeName>.    <persName>Colo Foster</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

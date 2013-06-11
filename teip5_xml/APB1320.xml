@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1320">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James F. Perry to Stephen F. Austin, 11-05-1826</title>
+            <author>
+                <persName>James F. Perry</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-17">07-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Jared Cable
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Potosi, Mossouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Natchitoces, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1490-1493
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-05">11-05-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Title to Mine a Burton tract. Biographical.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Potosi Mo</placeName> <date when="1826-11-05">Nov 5th 1826</date></p>
+<p><persName>Mesrs S. F and J. B Austin</persName></p>
+
+<p>Gentln You have several times expresed a wish to know the 
+prospect of recovering the<placeName> Mine A Burton tract of Land</placeName>. I long since
+spoke to <persName>John Scott</persName> and his <persName>partner </persName>a <persName>Mr Alen</persName> on the Subject 
+beleaving they could give as good an oppinion on the subject as any of the
+<persName>atternies </persName>at the bar they being at that time imployed in a case <persName>R Price
+</persName>vs <persName>Marten</persName> . . . and <persName>W M and S Perry</persName> where the tital of this
+<placeName>tract of land</placeName> was to be tryed.   They [delayed] giving me there op-<pb n="1491"/>
+penion untill there would be a desition in that [case] which has been
+had, and a few days since, they handed me there opinion in writing,
+a copy of which will give you more information on the Subject than
+any thing I can say which is as follows</p>
+
+<p>We have considered the proposetion submitted for our 
+examination with due deliberation. In whom the title of the <placeName>Mine A Burton
+Tract of Land</placeName> is, and whether the <persName>heirs of Austin </persName>could under any
+circumstances recover the property.</p>
+
+<p>We are not perfectly satisfyed, that the title to the <placeName>Mine A
+Burton tract of Land</placeName> from the <persName>Spanish Government</persName> to <persName>Moses Austin
+</persName>was complete, But such Title as he had seems to have been disposed
+of either by the process of Law, or by his own consent. It appears
+that <persName>Moses Austin</persName> stood actually Indebted to the <persName>bank of <placeName>St Louis</placeName></persName>
+in a Large Sum of money, to secure the payment of which he 
+mortgaged a portion of the <placeName>Mine A Burton tract of Land </placeName>the <persName>Bank </persName>not
+satisfied to close the mortgage alone to secure the debt proceded on
+<persName>Austin</persName>s Notes, obtained a Judgement issued execution and Sold
+the <hi rend="italic">whole </hi>of <persName>M Austin</persName>'s Interest to the <hi rend="italic">whole </hi>of the <placeName>Mine A Burton
+Tract</placeName> the <persName>Bank of <placeName>St Louis</placeName> </persName>by there <persName>agent </persName>Become the <persName>purchasers</persName>,
+and a deed was executed by the <persName>Sheriff </persName>for the same, this deed to
+the <persName>Bank </persName>by the <persName>Sheriff </persName>though Incomplete for want of proper
+acknowledgment and Seal we think gave to the <persName>Bank </persName>an Equitable
+title to the property, which equitable title the <persName>Bank </persName>in circuitous
+manner pretended to convey to <persName>R H Price</persName>. It appears that this
+Incomplete title acquired by the <persName>Bank </persName>under the <persName>Sheriff</persName>s deed was
+Subsequently Ratified by <persName>Moses Austin</persName> in his settlement with the
+<persName>Bank </persName>and whether this Ratifecation amounted to a new deed or a
+new acknowledgement of the sale under the <persName>Sheriff </persName>makes no 
+difference so far as the equitable Interest created in the <persName>Bank </persName>was
+concerned. If the amount of money for which the special <placeName>tract
+of Land</placeName> was Mortgaged for [was] paid Independent of the General
+sale of the whole property, then the <persName>Heirs of Moses Austin</placeName> would
+be entitled to the tract that was mortgaged, if the debt due by
+<persName>Austin </persName>to the <persName>Bank </persName>was satisfied it was done by the sale of the <placeName>Mine
+A Burton Tract</placeName>. If not satisfied the debt still exists against the
+<persName>Estate of Austin</persName>. It appears that <persName>Price </persName>for and in consideration of
+this property Released the<persName> Bank of <placeName>St Louis</placeName></persName> from a large debt
+due by the <persName>bank </persName>of <placeName>St Louis</placeName> to the <persName>Bank of <placeName>Edwardsville </placeName></persName>and 
+became liable to the <persName>Bank of <placeName>Edwardsville </placeName></persName>for the debt due the <persName>Bank
+of <placeName>Edwardsville </placeName></persName>from the <persName>Bank of <placeName>St Louis</placeName></persName>, the whole of the 
+proceedings appear to have had much notoriety. Now if the <persName>heirs of
+Austin </persName>were to pursue and acquire that <placeName>property </placeName>they would appear
+to be in the situation of <persName>purchasers </persName>with notice of the Equitable
+title of the <persName>Bank of <placeName>St Louis</placeName></persName> or of <persName>Price </persName>under the <persName>Bank</persName>, <persName>heirs </persName>can
+not inherit while their are debts due by the <persName>Estate </persName>and if the <persName>heirs</persName><pb n="1492"/>
+were to acquire this <placeName>property </placeName>we think they would take it subject
+to either the <persName>Bank </persName>debt if unsatisfied or subject to the equitable title
+of the <persName>Bank </persName>if the title still remains in the <persName>Bank </persName>or the equitable
+title of <persName>Price </persName>under the Bank. If <persName>Price </persName>has regularly acquired an
+equitable title it is then a question of some moment if the <placeName>property</placeName>
+is worth pursuing under those clogs, which we consider incident to
+success the debt with the accumalated Interest will be great nor are
+we sure that the proceeds of the property would be decreed equal
+to the accruing Interest of the debt</p>
+
+<p>We have not been favoured with a view of the second opinion
+of the <persName>Supreme Court</persName> as regards this title but the Law of the
+Land protects Equitable titles against <persName>heirs </persName>or <persName>purchasers </persName>with
+Notice and are inclined to think to pursue this case would be
+incuring Cost expense and trouble that even success would not
+remunerate</p>
+
+<p>Signed           <persName>John Scott</persName> and <persName>Beverly Allin</persName></p>
+
+<p><date when="1826-10-23">Oct 23d 1826 </date>                                                        </p>
+
+<p>from the above oppenion there is but a poor prospect of ever 
+receving anything from that <persName>Estate</persName>. I have wrote to<persName> Edward Bates
+</persName>for his oppinion as he stands now next to the head of the Bar and
+has been employed in the above mentiond case [he] has had an
+opertunity of becoming acquanted with the [title] of that 
+<placeName>property </placeName>but he has not answered my letter yet. [My] opinion is 
+different from <persName>Scott </persName>and <persName>Allins </persName>I will write [of it later ?] We received
+<persName>Stephens </persName>letter of <date when="1826-08-21">21st August</date> forwarded by <persName>[Co1] Matson</persName> although
+that letter was very full We are [sorry] <persName>Co1 Matson</persName> did not call
+on us as he could have [given] more minute information than the
+Bounds of a letter would admit of. Your <persName>acquantances </persName>in this
+<placeName>country </placeName>are I beleave quite well. You will have heard of the
+death of <persName>Mrs. Wm C Carr</persName> and his only <persName>son </persName>before this reaches you
+they both died in a short time of each other. <persName>Mr Carr</persName> is our <persName>Circuit
+Judge</persName> he was here not long since he enquired very particularly
+after you both. Now for <persName>Famaly </persName>matters We have added since
+our marage two to our <persName>famaly </persName>a <persName>son </persName>and <persName>daughter </persName>prety well in
+two years. <persName>Stephen </persName>is a fine healthy child and <persName>Emily Rosannah</persName> is
+a fine girl six weeks old if we keep on as we have begun we will
+soon have to retreat to the west for land to occupie the rest of the
+<persName>children </persName>are all very well. <persName>Joel </persName>and <persName>Austin </persName>goes to <placeName>school </placeName>and are
+improving some under <persName>Mr Brickey</persName>['s] direction though not so fast as
+I think they might under a better teacher Write to us often as we
+are allways anxious to hear from you</p>
+
+<p><persName>Jas. F. Perry</persName></p>
+
+<p>[In Margins:] <persName>S.</persName> your old flame <persName>Miss Isabella Hord</persName> [has turned]
+<persName>methodist </persName>and is going to heaven as fast as possible.   <persName> Mrs. John<pb n="1493"/>
+[Bri]ckey</persName> is dead she died <date n="Spring - 1826">last spring</date>. <persName>Abraham Brinker Esq
+</persName>after twelve years electioneering [he has] been elected to the 
+<persName>Legislature</persName>. <persName>Thompson H Ficklin</persName> is our other <persName>representative </persName>and <persName>Edward
+Bates</persName> was elected to <persName>congress </persName>in [the place] of <persName>Scott</persName>. <persName>Scott </persName>and
+<persName>Benton </persName>are now condi dates for the <persName>United States Senate</persName>. [It is
+thought?] by many <persName>Scott </persName>will oust <persName>Benton</persName></p>
+
+<p><persName>Emily </persName>is anxious to remove to your <placeName>country </placeName>but unless the 
+prospects are very flattering I think it is verry doutfull whether ever
+we remove there</p>
+
+<p>[Addressed] <persName>Co1. Stepehn F Austin</persName> <placeName>San Philip D Austin Rio
+Brases Provance of Texas</placeName></p>
+
+<p>To the Care of <persName>Jared Cable Esq</persName> <placeName>Natchetoches</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

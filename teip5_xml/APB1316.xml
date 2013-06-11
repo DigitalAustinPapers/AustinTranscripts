@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1316">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Baron de Bastrop, 11-03-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-15">07-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Baron de Bastrop
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1486-1488
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-03">11-03-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggestions for legislation&#8212;judicial system, digest of laws, sub-political chief, recording titles, land fees, appointment of commissioners to extend titles,</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To the <persName>Baron de Bastrop member of the State Legislature from
+Texas</persName>&#8212;</p>
+
+<p>One of the most important subjects to the <persName>people </persName>of the <placeName>State of
+Cuahuila and Texas</placeName> is a speedy organization of the <persName>Judiciary </persName>on a
+system which promises permanency uniformity in the 
+interpretation of laws, and convenience to the <persName>people</persName>&#8212;A <persName>Superior Court</persName> to
+sit at <placeName>Saltillo </placeName>and at <placeName>Bexar </placeName>alternately, and <persName>subordinate Circuit
+Courts</persName> would probably be the best. The <persName>Department of Texas
+</persName>might be divided into two Circuits <placeName>from the Sabine to the Baca</placeName> to
+form one, and thence <placeName>to the Western limit of the Department</placeName> to
+form another, and the <placeName>balance of the State</placeName> to be divided as 
+circumstances may require with a <persName>Judge </persName>in each <placeName>Circuit</placeName>. The <persName>Circuit
+Courts</persName> might have final appellant Jurisdiction in all cases sent up
+from <persName>Alcaldes </persName>and original jurisdiction in all Civil and Criminal
+Cases beyond the Jurisdiction of <persName>Alcaldes</persName>, and the <persName>Superior Court</persName>
+appellant jurisdiction from the Circuit Courts in all civil cases over
+a certain amount, and original jurisdiction in cases of great 
+importance. The <persName>Circuit Courts</persName> to have jurisdiction in all cases of
+probate and settling Estates, recording will[s] etc. regulating the rates
+of ferriage and granting licenses to <persName>ferrymen</persName>, <persName>tavern keepers</persName> etc.<pb n="1487"/>
+etc. and in case the trial by <persName>jury </persName>is not allowed their decision in
+Criminal Cases should be subject to the revisal of some <persName>Superior
+tribunal</persName> so as not to give one <persName>man </persName>the power of deciding finally in
+Case of Life and death. The Circuit Courts for this Circuit might
+hold three terms <placeName>at this place</placeName>, and three terms at <placeName>Nacogdoches </placeName>in
+the year; say in this place on the <date n="10-xx-xxx">second Mondays of October,</date> 
+<date n="02-xx-xxxx">February</date> and <date n="06-xx-xxxx">June</date>, and at <placeName>Nacogdoches </placeName>on the <date n="12-xx-xxxx">second Mondays of
+December</date>, <date n="04-xx-xxxx">April </date>and <date n="08-xx-xxxx">August</date>. There should be a <persName>clerk </persName>appointed
+at each place where the <persName>Circuit Courts</persName> are held to keep the records
+of said Court [to] issue process etc and his fees clearly defined by
+law.</p>
+
+<p>There should be a <persName>sheriff </persName>or <persName>alguacil </persName>in each place where said
+<persName>Court </persName>is held to execute its orders and decrees and his duties and
+fees defined.</p>
+
+<p>There should be a <persName>Notary Public</persName> for this <placeName>Colony </placeName>and one for
+<placeName>Nacogdoches </placeName>with his fees clearly defined.</p>
+
+<p>The <placeName>jurisdiction </placeName>of the <persName>Alcaldes </persName>and their specific duties and
+powers should be clearly defined even to the furnishing of forms
+so as to give uniformity to their proceedings.</p>
+
+<p>Judicial proceedings in the department of <placeName>Texas </placeName>originally had
+in the English language when translated by the proper <persName>person</persName>
+should have the same validity as if originally had in Spanish.
+Without this the new <persName>settlers </persName>will be totally debarred all access to
+courts of Justice for not one in a hundred understands Spanish&#8212;
+Also there should be some provision for the appointment of 
+<persName>translators </persName>and their perquisites or fees fixed by law.</p>
+
+<p>There should be a complete digest of all the laws in force, 
+published in a bound book and generally circulated gratis to every
+<persName>officer </persName><persName>civil judicial</persName> and <persName>militia </persName>throughout the <placeName>State </placeName>and sold to
+the <persName>people </persName>on moderate terms.</p>
+
+<p>Owing to the distance <placeName>from the new Settlements to Bexar</placeName> and
+the inconvenience that will arise in Communicating with the Govt
+by the <persName>Alcaldes </persName>individually there should be a <hi rend="italic"><persName>Gefe Subalterno</persName></hi>
+(Subaltern Civil Chief) to reside at <placeName>San Felipe de Austin</placeName> whose
+authority should extend <placeName>from the Sabine to Labaca</placeName>, or two <persName>Chiefs</persName>
+of this description, one for the Country <placeName>from Sabine to Neches</placeName>
+and another <placeName>from there to Labaca</placeName>&#8212;This <persName>Chief </persName>or <persName>Chiefs </persName>should
+understand both Spanish and English and be the organ of 
+Communication between the <persName>Govt </persName>and the <persName>Alcaldes </persName>and the other 
+<persName>subordinate officers</persName> of the <placeName>jurisdiction</placeName>, and be a <persName>subordinate executive
+officer </persName>subject to the orders of the <persName>Chief of Department</persName> and <persName>Govor</persName> of
+the <placeName>state </placeName>etc.&#8212;he should have a <persName>Secretary </persName>legally appointed and
+his fees for translating and other perquisites as well as his duties
+clearly defined by law. If such a <persName>chief </persName>is not appointed great in-<pb n="1488"/>
+convenience will arise in communicating with each <persName>Alcalde </persName>
+separately by the <persName>Chief of Department</persName> in consequence of the want of
+a knowledge of the Spanish Language and Customary forms of
+doing business.</p>
+
+<p>All deeds or Mortgages for real Estate should be recorded in the
+<placeName>office of the <persName>Notary </persName></placeName>in a bound book or should there be no <persName>Notary </persName>in
+the <placeName>office of the Clerk of the Circuit Court</placeName> within three months after
+they were executed or be void.</p>
+
+<p>I deem it very important that there should be a clear 
+understanding with the <persName>Govt </persName>as to the fees which the <persName>Empresario </persName>can ask and
+receive from the <persName>Settlers </persName>for he must be at a great expence, for 
+<persName>translators</persName>, <persName>Clerks</persName>, attending in person to the Surveying, locating the
+<persName>Settlers</persName>, showing new <persName>Emigrants </persName>the <placeName>Country</placeName>, making presents to
+<persName>Indians</persName>, keeping an open house, as he must do for some time for
+persons who come into explore the <placeName>Country </placeName>and many other expences
+which at first view do not appear important but at the end of a year
+amt to a large sum.</p>
+
+<p>Also the manner of running the <placeName>division line along the reserve
+on the Coast</placeName> should be defined&#8212;The law calls for the " <placeName>Gulf of
+Mexico </placeName>" as the base, and to leave the margin of the <placeName>Gulf </placeName>and<placeName> meander
+round the lakes</placeName> such as <placeName>Galveston </placeName>and <placeName>Matagorda </placeName>will entirely be a
+departure from the law&#8212;it appears to me equally as proper to follow
+<placeName>up a River</placeName> to its head because it discharges <placeName>into the Gulf</placeName> and to
+begin the measurement there, as to follow <placeName>round the meanders of a
+Lake or shallow Bay</placeName> that has a <placeName>narrow inlet</placeName>. The expense of runing
+this line will be very great if the <placeName>lakes </placeName>are to be meandered, and who
+is to pay it. I think the <placeName>line </placeName>ought to be nearly straight and the <placeName>out
+side of the Coast</placeName>, that is the <placeName>shore of the " Gulf of Mexico "</placeName> taken as
+the base to measure from.</p>
+
+<p>Many old claims are said to exist on the <placeName>Trinity</placeName>, <placeName>Neches </placeName>and in the
+<placeName>Nacogdoches district</placeName>&#8212;there ought to be <persName>commissioners </persName>appointed
+with full power to decide on them finally so that it may be known
+what <placeName>land</placeName> is vacant and what is not, if this is not done several claims
+may be set up for the same <placeName>land </placeName>and hence will arise endless lawsuits
+and confusion, and it will also be impossible for the <persName>Empresario </persName>to
+know what <placeName>lands </placeName>he can settle or what are taken up by previous
+claims for the records of most of these old claims are said to have
+been lost in the revolution which renders it difficult to decide from
+any legal written evidence as to their validity</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date n="11-03-1826+">3 November 1826</date></p>
+
+<p><persName>Stephen F. Austin    </persName>[Rubric]</p>
+
+<p>[Endorsed:]-Reflections sent to the <persName>member of the Legislature of
+this state for <placeName>Texas</placeName>,</persName> the <persName>Baron de Bastrop</persName>&#8212;copy</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

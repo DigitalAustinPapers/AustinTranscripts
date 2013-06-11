@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1319">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Sprowl to Stephen F. Austin, 11-05-1826</title>
+            <author>
+                <persName>John Sprowl</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-16">07-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Ayish Bayou, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1490
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-05">11-05-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Character of James Gaines.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Ayish Bayou District</placeName> <date when="1826-11-05"> Nov. 5. 1826</date></p>
+<p>Dear Sir,</p>
+
+<p>Understanding that complaints have been made to yon by <persName>James
+Gaines</persName>, respecting some of the <persName>inhabitants </persName>of your <placeName>colony</placeName>, who he
+has represented, have written letters to <persName>citizens </persName>of this <placeName>District </placeName>
+calculated to excite dissaffection to the laws and the government, I
+herein inclose the letters which gave rise to this complaint. They are
+written you will see, by my old <persName>neighbors </persName>and <persName>friends</persName>, Messrs 
+<persName>Thompson </persName>and <persName>Payton</persName>, and not, as <persName>Capt. Gaines</persName> imagined by <persName>Mr White</persName>.</p>
+
+<p>The leters were brought to me from <placeName>Nacogdoches </placeName>by <persName>Gaines</persName>, who,
+when he delivered them, remarked that the handwriting was <persName>Squire
+Whites</persName>', and desired me to permit him to read them. Finding that
+they contained intelligence which I was requested to keep a secret,
+and knowing <persName>Gaines </persName>of all men in the world to be the most unfit to be
+trusted with one, I refused. Immediately his fruitful and 
+disturbed imagination gave birth to the most dreadful suspicion and
+he saw at once, in vision, the <placeName>peaceful fields of the Ayish Bayou,
+</placeName>a prey to all the horrors of rebellion. Its indeed unfortunate that
+we are debarred the privilege of friendly and confidential 
+correspondence without incurring the imputation of treasonable designs.</p>
+
+<p>I avail myself of the same opportunity to send you a copy of a
+letter written by <persName>Capt. Gaines</persName> to the <persName>Governor </persName>at <placeName>Saltillo</placeName>. It needs
+no comment. You will see that he has proscribed some of the most
+respectable <persName>inhabitants </persName>of this <placeName>District </placeName>as well as yourself, and that
+even an aged and defenceless <persName>female </persName>could not escape the poison of
+his malice.</p>
+
+<p><persName>Jn° Sprowl</persName></p>
+
+<p>[Addressed:] <persName>Stephen Austin Esq</persName>. <placeName>San Felipe de Austin Coahuila
+&amp; Texas</placeName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

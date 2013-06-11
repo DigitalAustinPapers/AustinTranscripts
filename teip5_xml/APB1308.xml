@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1308">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Enoch Brenson to Stephen F. Austin, 10-23-1826</title>
+            <author>
+                <persName>Enoch Brenson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-15">07-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Jacinto Bay, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1479-1480
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-10-23">10-23-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Sn Jacinto Bay </placeName><date when="1826-10-23">October 23rd, 1826</date></p>
+<p><persName>Col Stephen F. Austin</persName></p>
+
+<p>Altho I am aware that you think us a troublesome <persName>people </persName>and no
+doubt but you are tired of our noise, still I must beg the indulgence
+of one more hearing.</p>
+
+<p>You are Aprised of the relative standing of <persName>Johnson</persName>, <persName>Hunter </persName>and
+myself, as it respects the surveying of my land, as well the land of
+<persName>others</persName>, and I am persuaded that you will not incourage him in 
+impositions, and as we can have no decision on his lines, it can not be
+reasonable that he should collect and keep the money for his 
+surveying altho I have actually paid him for the surveying of <placeName>my
+League</placeName>, yet still I owe him a ballance on our private settlement,
+which ballance he has brought suit for and obtained a judgment
+before our <persName>Alcalde</persName>. Yet I hope, sir that you will authorise me to
+withhold the payment of this judgment untill a decision can be had
+respecting these disputed lines. I am not nor never was opposed to
+the payment of any just debt, but I can not think that it is just for
+<persName>Johnson </persName>or <persName>Hunter </persName>to receive the full payment for his surveying
+when his work is so obviously disputed. I hope, sir you will take
+this matter into consideration and deal justly and strictly between<pb n="1480"/>
+<persName>Hunter </persName>and <persName>myself</persName>. Justice is all I want and if it is justice for
+<persName>Hunter </persName>to recover the money for the surveying of my land and
+keep it under these existing circumstances I submit. But if it is
+justice for me to keep back (at least) a part, I want to do so. The
+amount of the judgment that <persName>Hunter </persName>holds against me is $41 the
+amount of the surveying is much more than that some, but if I could
+retain the amount of the judgment in my hands untill the correctness
+of the lines could be ascertained, it would fully satisfy me.</p>
+
+<p>But in all cases I am willing to submit to the judicious laws of my
+<placeName>Country </placeName>and in this case, to your better judgment I subscribe myself
+with every degree of submission</p>
+
+<p><persName>Enoch Brenson</persName>    [Rubric]</p>
+
+<p><persName>Col. Stephen F Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

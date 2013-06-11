@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1302">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J.E.B. Austin to Stephen F. Austin, 10-10-1826</title>
+            <author>
+                <persName>J.E.B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-14">07-14-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1473-1475
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-10-10">10-10-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Leaving Saltillo. Favorable attitude of legislature toward slavery. Friends of the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Brother</persName>,<placeName>Saltill° </placeName><date when="1826-10-10">0ct 10th 1826</date> </p>
+<p>I wrote you <date when="1826-10-07">two or three days since</date> and calculated before this to
+have been in or near <placeName>Monterrey </placeName>but <date when="1826-10-09">last evening</date> I received inteli-<pb n="1474"/>
+gence that a <persName>band of Robbers </persName>had stationed themselves <placeName>on the road
+</placeName>to attack the <persName>Americans </persName>who might be returning to <placeName>Refugio </placeName>from the
+<placeName>fair </placeName>and what <persName>americans </persName>are in this place have concluded to join
+together for their mutual defense&#8212;We certainly start the <date when="1826-10-12">day after
+tomorrow</date>&#8212;- have this moment taken my leave of the <persName>members of
+the Legislature</persName>&#8212;they have assured me to dispel all doubts relative
+to the 13 Art.&#8212;The representation you made on the subject appeared
+so just and well founded that the <persName>Author of the <hi rend="italic">Article </hi></persName>himself
+(<persName>Carrillo</persName>) asked permission to withdraw it&#8212;I think the <persName>children</persName>
+born after the publication of the Constitution will not be freed under
+fourteen: Several of the <persName>members </persName>since I have proposed it, are 
+inclined not to free them under the age of 25 or 21-&#8212;the arguments and
+reasons adduced by myself to convince them of the <hi rend="italic">justice </hi>and 
+necessity of this law are to lengthy to insert in this communication but
+the principle was the <hi rend="italic">advantage </hi>that would result to the <persName>slave </persName>as
+well as to the <persName>Public </persName>to be freed at that age possessed of some useful
+branch of industry whereby they might gain a livelihood&#8212;instead of
+becoming <hi rend="italic"><persName>vagabonds </persName></hi>and [illegible] ; without any certain way of 
+procuring the necessaries of life except in a dishonest manner&#8212;which
+must be the case if they are freed at 14. after that age they are 
+compelled to stay no longer with their <persName>masters </persName>unless they choose&#8212;At
+any rate it is presumable that no <persName>Master </persName>will maintain a large <persName>family</persName>
+of <persName>young Negroes </persName>a term of years without receiving some 
+compensation for it&#8212;and I say for the trouble and expence the <persName>master </persName>is at
+to maintain them from the time they are born untill they are 14&#8212;
+let the <persName>slave </persName>serve a few years to recompense them&#8212;after that he
+can be <hi rend="italic">freed </hi>possessing health, strength; and <hi rend="italic">Means </hi>to support 
+himself without being a <persName>Public pest</persName> and continually a <persName>subject of 
+correction</persName>&#8212;</p>
+
+<p>I have stated every <hi rend="italic">reason </hi>that I can invent&#8212;to try and procure
+this last clause as favourable as possible&#8212;I am confident if I had not
+arrived here, the <persName>children </persName>would have been declared <persName>free </persName>from their
+birth&#8212;and if the <hi rend="italic">Art </hi>is <hi rend="italic">passed</hi>&#8212;extending the period of 
+Emancipation to 14&#8212;21&#8212;or 25&#8212;I shall flatter <hi rend="italic">myself </hi>as <hi rend="italic">contributing </hi>in a
+small degree in obtaining it&#8212;</p>
+
+<p>Since my last to you I have had much conversation (reserved) with
+<persName>Padilla </persName>relative to your situation&#8212;and touching the subjects 
+generally you have addressed him upon&#8212;</p>
+
+<p>he is your <hi rend="italic">warm </hi>and <hi rend="italic">disinterested <persName>friend</persName></hi>&#8212;he informs me that he
+is <hi rend="italic">afraid </hi>at present to do much on the various points you have been
+so frank as to submit to his consideration&#8212;because he has no 
+confidence in the <persName>members </persName>composing the <persName>Legislature </persName>except the <persName>Baron</persName>
+and one or two others the ballance I may say are bought by <persName>Carrillo</persName>-
+he says have patience&#8212;as soon as the new <persName>Legislature </persName>takes its seat-
+he will present the points you wish granted and has no doubt of sue-<pb n="1475"/>
+cess in the mean time lie says you can present any thing else that
+you wish&#8212;and consider him as your legal <hi rend="italic"><persName>agent </persName></hi>in all yr transactions
+with Govt</p>
+
+<p><persName>Saucedo </persName>is also yr. warm <persName>friend </persName>you must cultivate the same
+friendship for him that has always existed&#8212; If he is appointed
+the <persName>Commissioner </persName>to pass to the <placeName>frontier </placeName>I expect <hi rend="italic"><persName>Arcinega </persName></hi>will be
+appointed his <persName>Secretary</persName>&#8212; No doubt you will receive the 
+appointment of <hi rend="italic">Gefe Subalterno</hi>&#8212; This is proof that the <persName>Govr </persName>has a
+friendly disposition towards you, As to <persName>Gains </persName>he is so Contemptious
+that I have declined makeing any representation to the Gov on
+<hi rend="italic">paper</hi>&#8212; I have conversed with all the <persName>Members </persName>respecting him&#8212;
+and referred them to the <persName>Baron</persName>&#8212; When the subject comes before
+the <placeName>house</placeName>&#8212; I shall not be surprised if those letters be the cause
+of his expulsion from the <hi rend="italic"><placeName>Country</placeName></hi>&#8212;</p>
+
+<p>The <persName>English </persName>have left no <hi rend="italic">method untryed</hi> but on the contrary have
+used every exertion to induce the <persName>Genl Govt</persName> to regard the <persName>Americans</persName>
+with jealousy and suspicion&#8212; They have used all their <hi rend="italic">intrigue</hi>
+and <hi rend="italic">influence </hi>to injure the <hi rend="italic">Character </hi>of the <persName>Americans </persName>and many
+representations have been made in <placeName>Mexico </placeName>against Amern 
+Emigration but the Govt, attributed it to Ambition and <hi rend="italic">that </hi>natural 
+antipathy the <persName>English </persName>possess towards us&#8212; Respects to all <persName>friends</persName>
+the <persName>Barron </persName>and <persName>Padilla </persName>wish to be remerd&#8212;</p>
+
+<p><persName>Jas B Austin </persName>  [Rubric]</p>
+
+<p>P. S. I have just seen the <persName>Comt Genl</persName> he appeared glad to see me
+and wishes me to remember him to you he also observed that he
+hoped to give you u <hi rend="italic">un Abrazo</hi> " between this and <date n="Fall - 1827">next fall</date>, he says
+" <hi rend="italic">consider him as your <persName>friend</persName>, and old acquaintance</hi> " he also 
+observed that you need have no trouble about the letters <persName>Gaines </persName>and
+<persName>Norris </persName>have been writing for men of that stamp are not calculated to
+injure you.</p>
+
+<p>The <persName>Baron </persName>says <hi rend="italic">twig </hi>old <persName>McFarland</persName>s memory about some bacon
+he was to have paid long <hi rend="italic">since </hi>he wishes it delivered to the order of
+<persName>La Baum</persName>&#8212;</p>
+
+<p><persName>Jas B. Austin</persName></p>
+
+<p>Take good care of my <hi rend="italic">horse</hi>&#8212;</p>
+
+<p>[Endorsed:] <placeName>Saltillo </placeName><date when="1826-10-10">Octr 10 1826</date></p>
+
+<p>[Addressed:] Al <persName>Ciudado Tente Cor1- Estevan F Austin</persName> en la
+Villa de <placeName>San Felipe de Austin</placeName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
