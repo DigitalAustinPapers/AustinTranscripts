@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1718">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Green DeWitt to Ramon Musquiz, 05-08-1829</title>
+            <author>
+                <persName>Green DeWitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ramon Musquiz
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Gonzalez, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 215-216
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-05-08">05-08-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report of plans for an Indian invasion.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From  Bexar Archives]</p>
+
+<p>Dear Sir,   On <date when="1829-05-07">last evening</date> a man by the name of <persName>Jesa McCoy
+</persName>who is a resident of this <placeName>colony </placeName>who has been with the <persName>Comanches</persName><pb n="216"/>
+for several weeks passed arrived here, and gave me the following
+information. He says that a few days ago, the <persName>principal chief of
+the Tawaccanes</persName>, and the <persName>principal chief of the Wacoes</persName>, called upon
+the<persName> head Chief of the Comanches</persName> and solicited him to join them
+the <persName>Wacoes </persName>and <persName>Tawaccanes </persName>in a general war against the <placeName><persName>Mexican</persName>
+and <persName>American </persName>settlements</placeName>&#8212;Saying at the same time that the 
+<persName>Mexicans </persName>had taken from them a Caveard and the <persName>Americans </persName>had killed
+some of there men, and therefore they had declared war against both;
+He further states that the <persName>Comanches </persName>intirely refused to Join in the
+warfare; saying that they were now at a perfect peace with the
+<persName>people of this <placeName>country</placeName></persName> and wished to remain so&#8212;.</p>
+
+<p>I beleave my informant to be a man of truth and that what he has
+stated may be relied upon.</p>
+
+<p>God and Liberty   <placeName>Gonzales </placeName><date when="1829-05-08">8th May 1829</date></p>
+
+<p><persName>Green DeWitt</persName>    [Rubric]</p>
+
+<p>His <persName>Excellency Ramon Muzquiz Chief of the Department of
+<placeName>Texas</placeName></persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

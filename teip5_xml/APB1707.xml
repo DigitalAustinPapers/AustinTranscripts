@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1707">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Josiah H Bell, 04-16-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Josiah H Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 205-206
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-04-16">04-16-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks Bell to assist in preparing
+a list of settlers who have not obtained land titles. Object to show the land
+commissioner the importance of finishing that task, which his predecessors
+had generally imposed on Austin. Progress of subscription for the academy.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1829-04-16">April 16&#8212;[1829]</date></p>
+<p>Dr Sir,</p>
+
+<p>I have not yet heard of the arrival of the <persName>comr </persName>at <placeName>St Antonio</placeName>,
+tho I expect he has arrived there, and I think it probable that he will
+be here some time <date n="05-xx-1829">next month</date>&#8212;he will not be able to attend to 
+business for some time after his arrival here&#8212;I shall advertise the time
+when he will be ready to receive applications, and it will be 
+necessary for <persName>Mrs Powel</persName> to come up at that time</p>
+
+<p>I find that it will be necessary for me to insist that the 
+<persName>commissioner </persName>shall attend to the duties which the law requires him to attend<pb n="206"/>
+to, and if he does so, I shall be totally relieved from the vexation of
+distributing land to the <persName>settlers</persName>, for the law imposes all that duty on
+the <persName>commissioner</persName>, but heretofore the <persName>comr </persName>imposed it all on me&#8212;he
+will be compelled to form some general rules on the subject and to
+follow them with very great rigor, or there will be much confusion.
+I wish to get a complete list of all those who have not yet recd
+land, in order to convince the <persName>commissioner </persName>of the necessity of his
+staying here untill the business is all finished, for if I do not do this,
+he will only remain a short time and leave me as the other 
+<persName>commissioners </persName>have [be]fore the business is half finished&#8212;I have [asked]
+the favor of <persName>Mr Ingram</persName> to get a list of all in that <placeName>section</placeName>, and I
+must ask the favor of you to aid him in doing so&#8212;</p>
+
+<p>Things are getting on better here, and there is some more harmony
+than there was&#8212; The <persName>people </persName>must be more particular in electing a
+man for <persName>Alcalde</persName>&#8212;If it will not injure you too much I think you
+ought to be the next <persName>Alcalde</persName>&#8212;-many persons speak of you&#8212;in fact I
+do not think there would be any opposition at all&#8212; I have been
+spoken to by many, and I wish to get that idea out of their heads,
+for I am compelled to visit the <placeName>United States</placeName> <date n="Fall-1829">next fall</date>, and I shall
+spend the season there&#8212; It will not do for me to be <persName>Alcalde</persName>&#8212; I
+have not the same patience that I once had&#8212; I have also other
+things to attend to of much more importance to the <placeName>colony </placeName>than
+settling little <placeName>neighborhood </placeName>disputes about cows and calves-
+There are some erronious impressions about the <persName>Ayuntamiento</persName>,
+amongst the <persName>settlers</persName>&#8212;those kind of impressions are very injurious
+and ought to be corrected<persName>&#8212;Mr Ingram</persName> can give you much 
+information on [this?] and I will promptly afford all the information in my
+power to any one who will [write] me or take the trouble to inquire&#8212;
+Our <placeName>Academy </placeName>subscription goes on very well there is over 1300
+dollars subscribed and I think we shall be able to get a <placeName>brick 
+building.</placeName> I am anxious to see the matter succeed for I think it will be
+attended with much public good</p>
+
+<p>I will be down and try and spend some time in that <placeName>quarter </placeName>after
+the <persName>commissioner </persName>arrives&#8212;</p>
+
+<p>My respects to <persName>Mrs Bell </persName>                           <persName> S. F. Austin</persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

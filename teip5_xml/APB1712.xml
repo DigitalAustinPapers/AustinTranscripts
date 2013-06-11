@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1712">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Elias R Wightman, 04-27-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Elias R Wightman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 213
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-04-27">04-27-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Arrangements concerning land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1829-04-27">April 27. 1829</date></p>
+<p><persName>Mr Elias E Wightman</persName></p>
+
+<p>Sir, My object in making the offer of the <placeName>land </placeName>when you was
+here, out of the <placeName><persName>Jones </persName>and <persName>Kuykendall </persName>Leagues</placeName> was to enable the
+<persName>families </persName>that came with you to have a place to go on to immediately,
+and not as a matter of speculation&#8212; I am now willing that you
+should take the quarter out of the <placeName>Jones League </placeName>in exchange for
+the part my <persName>brother </persName>has in the <placeName>Matagorda tract</placeName>&#8212;this will close that
+business and relieve you from the necessity of making an immediate
+settlement on it&#8212;</p>
+
+<p>The <persName>families </persName>who are at <placeName><persName>Huff </persName>s</placeName>have all determined to settle on
+the <placeName>Bernard</placeName>, as I am informed&#8212;none of them will therefore go
+to the <placeName>Colorado</placeName>&#8212; I will give one Labor gratis to any <persName>family </persName>who
+will settle on the <placeName>Kuykendall League west of the river,</placeName> by the <date when="1829-10-01">first
+of October next</date>, he paying for the title&#8212;</p>
+
+<p>I return you the two instruments of writing you sent me 
+unsigned&#8212; It does not suit me to agree to the alteration you wish
+for the necessity, or rather the reason on which the offer was made
+has ceased, for the <persName>families </persName>at<placeName> <persName>Huff</persName>s</placeName> as I before observed have 
+determined to settle on the <placeName>Bernard</placeName>&#8212;and the present arrangement will
+suit you better than the other, for the <placeName><persName>Jones</persName> quarter</placeName> is worth two
+of the <placeName>Crownover League</placeName>, and you can remain where you are during
+the whole season&#8212;</p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

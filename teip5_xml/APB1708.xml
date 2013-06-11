@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1708">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Elias R Wightman, 04-17-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Elias R Wightman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 206-207
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-04-17">04-17-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agreement to grant land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>For the sake of accomodating the <persName>families </persName>brought out by <persName>Elias
+R. Weightmann</persName> and in order that they may have a <placeName>home </placeName>in the 
+<placeName>settlements</placeName>, I agree that they may have the <placeName>quarter of a League out of
+the upper half of the League that was granted to <persName>James W Jones</persName>
+</placeName>which half League I bought of said <persName>Jones </persName>and the <placeName>quarter of a<pb n="207"/>
+League out of the upper half of the League that was grantd to
+<persName>E. Kuykendall</persName> on the West side of the Colorado river</placeName> which half
+League I bought of said <persName>E. Kuykendall</persName>&#8212;the said quarters must
+be laid off to extend <placeName>from the river out to the back lines</placeName> of said
+Leagues&#8212;the side lines to be <placeName>parallel with the side lines of the
+said League.</placeName> I will charge seventy five dollars in property for
+each of said quarter Leagues, payable in one year&#8212; Also the 
+condition on which I make this offer is that each of said <placeName>quarters </placeName>must
+be actually sele[c]ted and inhabited and cultivated by one <persName>family</persName>
+at least within <date when="1829-06-17">two months from this day</date> and the <placeName>settlement </placeName>kept
+up on each of them without any intermission for at least <date when="1832-06-17">three years
+in succession beginning two months from this date</date>, otherwise this
+offer is to be void and of no effect&#8212; Should the settlement be made
+on one of said <placeName>quarters </placeName>and not on the other, I am willing to comply
+with what I have stated above as to the quarter that is so settled&#8212;
+I allow <persName>Mr Elias E Weigh[t]man</persName> <date when="1829-05-17">One Month from this date</date> to
+give me an answer wheither the Above offer is accepted or not,
+and I shall require that notice should be given to me <date when="1829-06-17">at the end of
+two months</date> wheither the settlement is made as above Stated or
+not&#8212;for if it is not made in that time then this offer is to be null
+and void it is also to be null and void if the <placeName>settlement </placeName>is not kept
+up for <date n="06-xx-1832">three years in succession</date> as herein before stated&#8212; I am
+willing to take<persName> Elias E. Weigh [t] mans</persName> note for the Amount which
+I have before stated is to be paid on the said land, and to make the
+transfer any time after the settlement has been made but always
+with the express condition that the said transfer shall be null and
+void if the settlement is not kept up for three years in succession as
+before Stated&#8212;</p>
+
+<p><persName>San Felipe de Austin</persName> <date when="1829-04-17">April 17, 1829</date></p>
+
+<p><persName>Stephen F. Austin </persName> [Rubric]</p>
+<p>If the foregoing offer is accepted I wish it to be done in writing
+at the end of this paper or at the end of a true copy thereof signed
+by the persons who accept of the same</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

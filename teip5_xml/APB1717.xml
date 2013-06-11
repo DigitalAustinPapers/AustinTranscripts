@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1717">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Green DeWitt to Ramon Musquiz, 05-08-1829</title>
+            <author>
+                <persName>Green DeWitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ramon Musquiz
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Gonzales, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 215
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-05-08">05-08-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reports contraband trade which he has no means to stop. Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Bexar Archives]</p>
+
+<p>Dear Sir I feel it my duty to inform you that there is and has
+lately been a very considerable quantity of contraband passed on in
+the Direction of <placeName>Bejar </placeName>and I beleave both <persName>Mexicans </persName>and <persName>Americans</persName>
+are ingaged in that traffic&#8212; There are two <placeName>roads </placeName>formed within a
+few months which cross the <placeName>Guadaluop </placeName><placeName>below this place one about a
+league, and the other about three leagues below this Town</placeName>&#8212; I have
+no <persName>troops </persName>at my command&#8212;and therefore it is out of my power to
+detect it without it should come through this <placeName>town </placeName>which they
+always avoid&#8212; This contraband is not owned by <persName>people </persName>under my
+Jurisdiction; neither do they wish it to pass through this 
+<placeName>neighborhood</placeName>, least they should be blamed for incouraging it; And you well
+remember the censure which has been thrown on me at the <placeName>Labaca</placeName>
+on account of contraband of which I never took any part&#8212; And
+now again passing so near me compells me to give you this 
+information; and hope there may be mean[s] taken to prevent its coming
+through our <placeName>vicinity</placeName></p>
+
+<p>The threats of the <persName>Indians </persName>I fear will greatly retard the settling
+of the <placeName>country</placeName>; but should a Campaign be sent against them in a
+properly manner I think there can be an end put to them at once.</p>
+
+<p>Could a few <persName>troops </persName>be furnished us at this time, it would greatly
+add to the settling of the <placeName>colony</placeName>, and there by strengthen the <placeName>country</placeName>.</p>
+
+<p>I would be truly happy to recieve a line from you respecting the
+<persName>Indians </persName>and the probability of our geting some <persName>troops </persName>at this place
+etc.</p>
+
+<p><date when="1829-05-03">Five days ago </date>another <persName>family </persName>arrived here from <placeName>Missouri</placeName>; consist
+of a <persName>man </persName>and his <persName>wife </persName>and seven <persName>children</persName>. "We have now in the
+<placeName>Colony </placeName>thirty <persName>families</persName>.</p>
+
+<p><persName>Green DeWitt</persName>    [Rubric]</p>
+
+<p><placeName>Gonzalez </placeName><date when="1829-05-08">8th of may 1829</date>.</p>
+
+<p>His <persName>Excellency Ramon Muzquiz Chief of the Department of <placeName>Texas</placeName></persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

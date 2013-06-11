@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1702">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Josiah H Bell, 04-04-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Josiah H Bell
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Lower Settlement, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 200-205
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-04-04">04-04-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Pointing out errors in the public attitude toward the ayuntamiento, and explaining its duties. Budget, manuscript translation of the laws, "shyster" lawyers.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date n="04-04-129">April 4 1829</date></p>
+<p><persName>Mr J. H. Bell</persName></p>
+
+<p>Dr Sir, I have heard with regret and surprise of the numorous
+reports and rumors that are in circulation, and fomenting the <persName>public</persName>
+mind&#8212; When I first heard of them I paid but little attention to
+them, for they were so absurd and unfounded that I thought they
+would correct themselves&#8212; I also felt confident that the good sence
+of the <persName>people </persName>would point out to them the necessity of harmony and
+union, and the justice of at least enquiring into the truth of rumors
+before they were received as facts-
+It is reported, as I am told, that " the <placeName>colony </placeName>is to be loaded with
+Taxes to build a splendid<placeName> court house</placeName> for the <persName>lawyers </persName>to strut in"&#8212;
+All the answer that is necessary to this rumor is, that it is false.</p>
+
+<p>The law requires certain duties of the <persName>Ayumtamiento </persName>and the
+<persName>members </persName>can be severely punished if they are not strictly attended
+to, and they cannot be discharged without some funds&#8212; The <persName>Ayto</persName>
+of <date n="xx-xx-1828">last year</date> did not comply with their duty in any one particular&#8212;
+they did nothing that the <persName>people </persName>ever heard of, and they were 
+therefore popular, but it cost me and <persName>Williams </persName>a great deal of labor and
+it required all I could do to keep them from being fined severely&#8212;
+they contracted a debt of upwards of four hundred dollars which
+was turned over to this <persName>Ayto </persName>to be paid</p>
+
+<p>It is necessary to have a <persName>secretary </persName>who understands both languages
+and a Salary of 1000 Dollars was offered to <persName>Williams</persName>- The other
+necessary expenses will be two hundred dollars more at least, for
+Blank Books, Stationary, fire wood, house rent, <persName>Indian </persName>expences;
+<placeName>post office</placeName> account etc these items make $1600&#8212;- It is by law the
+duty of the <persName>Ayto </persName>to provide a safe and secure place to keep the <persName>public</persName>
+records in and it is also a duty due to the <persName>people </persName>of the <placeName>jurisdiction</placeName>&#8212;
+The records are now kept in a <placeName>log cabin</placeName>, in danger of being distroyed
+by fire, and are dayly becoming defaced by wet and exposure and
+it was intended to try and build a <placeName>fire proof room</placeName> of brick merely
+large enough for the object, and to put up a <placeName>frame house</placeName> similar to<pb n="201"/>
+the one built by <persName>Cooper </persName>which would have cost about three hundred
+dollars to serve as a <placeName>court house</placeName> or <placeName>office </placeName>for the <persName>Alcalde</persName>&#8212; The law
+requires that there should be a <placeName>jail </placeName>and it was intended to try and
+put up a small one&#8212; this is the extent of what was contemplated
+provided funds could be raised&#8212; The plan that was adopted as to
+raising funds, was to make an estimate of all the expences, including
+every thing, under the supposition that the <placeName>buildings </placeName>would all be
+put up, and 4700 dolls was the highest estimate, of this sum 100
+would be raised by the ferry and it was calculated that about 1500
+could be raised by the tax on <placeName>stores</placeName>, groceries, <persName>Lawyers </persName>and <persName>doctors</persName>,
+and out of the sale of town and out lots in this <placeName>place </placeName>making a sum
+of 1600 dollars, without calculating anything from fines on 
+<persName>drunkards</persName>, a law by the bye which I will insist shall be inforced with the
+utmost rigor not because I delight in punishing a <persName>drunkard </persName>but
+because it is time to stop the confusion and disorder they have 
+heretofore produced, agreeably to this calculation there would have been
+about $3000 to raise by taxes on property, but it was not intended to
+raise this sum all at once&#8212; The System that was intended to pursue
+was [to] raise enough first to pay off the old debt and to meet the
+common current expences; and then to make an exhibit of the same
+to the people&#8212; to procure the best data that could be obtained as to
+the expence of a small <placeName>building </placeName>for the records and another for a
+<placeName>court house</placeName>, or for only one of them, and also for a small <placeName>jail</placeName>, and
+if it was found after making an experiment that the funds could be
+raised to build them, it was intended to raise them and not otherwise,
+and never to raise them all at once, but gradualfy as they were
+needed&#8212; and if from the unproductiveness of some of the sources of
+revenue that were calculated on, it was found that the tax on 
+property would be oppressive, it was intended to lower it and only to
+raise as much as was necessary and no more&#8212; I did believe that
+enough could be raised to defray the common expences and to build
+the <placeName>office </placeName>for the records this <date n="xx-xx-1829">year </date>and the <placeName>jail </placeName>could be built next
+year but I am now induced to think nothing can be raised and that
+the Municipal Govt must totally stop and be suspended&#8212; 
+arrangements were made to procure a <persName>secretary</persName>&#8212; but they are broken up&#8212;
+there will be no <persName>secretary </persName>and the only way I see of getting along is
+for me to do all the writing that has to be done in Spanish&#8212; it is a
+much heavier burden than is supposed, but it seems that when I
+undertook the <placeName>colony </placeName>I inlisted myself for life&#8212; I am getting weary
+and less patient that I once was, tho I will not " give up the ship 
+while I live and the people shall have the use of my time and labor
+so long as I can be of use to them in any way <hi rend="italic">except one</hi> I never will
+be <persName>Alcalde </persName>if I can avoid it for if I ever take the oath required by
+that office I will rigidly execute it, and if I do I can hope for noth-<pb n="202"/>
+ing but abuse and misrepresentation&#8212; the <persName>people </persName>are too much 
+disposed to lissen to those who have <hi rend="italic">more </hi>to says and <hi rend="italic">less </hi>to loose than
+any body in the <placeName>country </placeName>honest <persName>men </persName>will become disgusted and will
+fly the <placeName>country </placeName>rather than accept of an office&#8212;</p>
+
+<p>Another report is that no petition will be recd unless drawn up by
+a <persName>lawyer</persName>&#8212; that report is totally false and I cannot but be surprised
+that any one should have believed it for one moment&#8212; They have
+no idea of their rights or of the constitution or they never would
+have believed such a rumor&#8212; The <persName>Alcalde </persName>made a set of Court rules
+and posted them up in his <placeName>office </placeName>I never read them untill this day,
+and I send you a copy of the articles which I presume gave rise
+to the reports&#8212; they regulate the number of times that a person may
+speak, which is no more than is done in all <placeName>courts</placeName></p>
+
+<p>There is a report that the <persName>Alcalde </persName>will allow no suits to be brought
+before the <persName>Commisarios </persName><hi rend="italic">this is also false</hi> Some have insisted that
+he should issue process all over the <placeName>colony </placeName>for all sums and he has
+done so I believe in a few instances&#8212; for the future he will do so
+no more but compel all suits within the <placeName>jurisdiction </placeName>of a <persName>Commissario</persName>
+to be brought before that <persName>officer</persName>&#8212;the <placeName>jurisdiction </placeName>of a <persName>commisario </persName>is
+100 Dollars and no more</p>
+
+<p>Excessive and illegal fees have been allowed to the <persName>sheriff</persName>, but
+this <persName>Alcalde </persName>followed the example of the last one&#8212; I believe that
+the fee bill was not published <date n="xx-xx-1828">last year</date> because it was feared the
+<persName>sheriff </persName>would make a clamour, and it appeard that whoever abused
+the <persName>Alcaide </persName>was lissened to wheither he was right or wrong&#8212;
+<persName>Williams </persName>has translated the fee bill and it was published a few
+days ago&#8212;</p>
+
+<p>There appears to be a great prejudice against <persName>Major Leagues</persName> and
+the most scurrulous and unjust abuse is heaped upon him&#8212;I believe
+that all this is unjust and unfounded so far as I can understand or
+know of his acts&#8212; and I am of opinion that it all originated from
+personal animosity and nothing else&#8212;</p>
+
+<p>The ears of the <persName>people </persName>have been tickeled and irritated by the cry
+of<hi rend="italic"> party party</hi> and <hi rend="italic">corruption </hi>untill they begin to doubt wheither
+there is an honest <persName>man </persName>in this <placeName>place </placeName>or in the <placeName>world</placeName>&#8212; I believe
+that this cry of party and corruption etc is all false, and that it is
+gotten up by personal <persName>enemies </persName>of <persName>League </persName>for the express purpose
+of trying to distroy him&#8212; I belong to no party and will engage in
+no personal animosities but I do say, justice compels me to say that
+<persName>League </persName>is an injured and persecuted man or I am more deceived than
+I ever was before in my life&#8212;   he has been challenged and threat-<pb n="203"/>
+ened with clubs and death&#8212; I know not for what}&#8212; It is said the
+people will rise and mob him&#8212; I cannot understand for what&#8212;
+he has one fault which has injured him greatly&#8212; he is too' 
+irritable&#8212; his personal <persName>enemies </persName>are if possible more so&#8212; all is 
+combustable matter ready to blaise out at every trifle and thus the best
+interests of the <placeName>colony </placeName>are actually sported with by a set of hot
+headed <persName>madmen</persName>, let the people frown upon all these inflamitory
+beings, alike, and they will all learn to keep their tempers, and not
+be wantonly playing with the public tranquility, the character, and
+best interests of the <placeName>colony</placeName>, and let them investigate both sides of
+every question, before they condemn or approve&#8212;</p>
+
+<p>As regards the <persName>Lawyers</persName>, they abuse each other-&#8212; and charge
+each other with unfair practices etc, all this is in the natural order
+of things&#8212; they do the same in all <placeName>countries</placeName>, but I have never 
+before seen a people who paid any other attention to such quarrels
+than to treat them with contempt&#8212;in this <placeName>country </placeName>the <persName>Lawyer </persName>who
+is most active in getting the ears of the <persName>people</persName>, has generally 
+succeeded in inlisting their feelings in his favor and in rousing their
+inflamitory passions or creating violent prejudices against his 
+<persName>opponent</persName>&#8212; I totally disapprove of this course in all&#8212; It is both
+criminal and contemptable in the <persName>lawyer </persName>who does it&#8212; and displays
+a want of common sence in the <persName>people </persName>to be operated on by such
+means&#8212; The <persName>people </persName>descend from the lofty dignity of sovereigns,
+when they suffer their passions to be inlisted in the disputes and
+animosities of a gabling <persName>lawyer</persName>&#8212; you wish the <persName>lawyers </persName>to be put
+down the way to do it is for the <persName>people </persName>to curb their contentious
+dispositions, and instead of calling on <persName>lawyers </persName><persName>sheriffs </persName>and <persName>Alcalde</persName>,
+call in their <persName>neighbors </persName>and settle their disputes by means of 
+arbitrations&#8212; in this way they will be put down&#8212; they fatten on the
+dissentions of the <persName>people</persName>, I do believe that a <persName>Lawyer </persName>would get
+rich by picking to pieces the property of one hundred <persName>americans</persName>,
+when he would starve on 20,000 of any other people on earth&#8212;</p>
+
+<p>The truth is the <persName>people of this <placeName>colony </placeName></persName>are better off and might be
+happier than any other <persName>people on <placeName>earth</placeName></persName>&#8212;and it is also true that
+they are now on the broad road to total ruin&#8212;they are destroying
+themselves&#8212;most of the evils that now exist, or are supposed to
+exist have their origin with the people themselves&#8212;they are too
+much disposed to run into extreems, at one time withholding all
+confidence, and suspecting or doubting every thing, and opening their
+ears to idle rumors, and at another shewing the most perfect 
+indifference as to who are elected to manage their affairs, or wheither the
+laws are executed or not&#8212;at the last election for <persName>Alcalde </persName>but few
+votes were taken in any part of the <placeName>Colony</placeName>, and part of those that
+were given in, were worse than thrown away&#8212; At the late <persName>Militia</persName>
+election about 150 votes were taken out of upwards of five hun-<pb n="204"/>
+dred&#8212; in the <persName>3d company </persName>out of about 140 <persName>men </persName>44 votes were taken,
+in the 4th company out of 106 <persName>men </persName>14 voles were taken&#8212;it was
+considered a matter of no consequence altho, those who are now
+elected are to be commissioned by the <persName>Governor </persName>and unless they 
+resign or are broke are <persName>officers </persName>for life and rise by regular promotion
+as vacancies occur to the highest rank in the <persName>Regiment</persName>&#8212; It is 
+considered a matter of no importance to elect an <persName>Alcalde </persName>to administer
+justice, an <persName>Ayuntamiento </persName>to manage our civil matters, and <persName>officers</persName>
+to lead us into battle&#8212;notices for elections are treated with 
+indifference and contempt, and in this way the best and dearest interests
+of the <persName>Community </persName>are wantonly sported with, and are as likely to
+fall into the hands of a fugitive <persName>vagabond </persName>or an ignorant <persName>fool </persName>as
+into those of an honest or intelligent <persName>man</persName>&#8212; A community that
+tramples on so sacred a privilege as the elective franchise deserves to
+suffer, and sooner or later it will suffer&#8212; But if a talking, 
+inflamitory and artfull <persName>demagogue </persName>opens his mouth, all is attention, these
+same <persName>officers </persName>whose election was of no consequence are suspected,
+watched, and often [abused?] and cursed and condemned by the
+awful . . .l ion without invest[gation] . . . This inconsistency . , .
+[This is a very seri?]ous situation, there is a general [spirit of cav-?]
+iling that will lead to ruin if it is not checked&#8212; The <persName>people </persName>must
+repose confidence in some one, and believe that there is some 
+honesty in the world, or they are lost&#8212;their own wild passions will
+destroy them</p>
+
+<p>If they will have confidence in me and apply to me to explain
+what they do not understand, I will attend to their requests&#8212;their
+enquiries shall all be answered so far as I can answer them</p>
+
+<p>The laws cannot be published in print so that every man will
+have a copy of them, and there is no other way but for the <persName>people</persName>
+to come and read the manuscript translations that are in the <placeName>office</placeName>,
+or to have confidence in some one&#8212; I am bold to say that I have
+done nothing to forfeit the confidence of the people of this <placeName>Colony</placeName>-&#8212;
+and yet I have no doubt but that I should be abused if I was <persName>Alcalde</persName>
+as much as any body else</p>
+
+<p>I hope you will all be satisfied as to the reports which I have
+noticed and that there will be no more excitement on that ground&#8212;
+and I also hope that in future the <persName>people </persName>will enquire before they
+judge or condemn&#8212;</p>
+
+<p>[Stephen F. Austin.]</p>
+
+<p>I have written in haste and expressed my feelings frankly&#8212;I am
+uneasy and concerned to see so much unnessery exictement. Would
+it not have been better to have ascertained the truth of all these<pb n="205"/>
+matters before passion was indulged&#8212;? What I have said to you
+I say to all, and if you think proper to shew my letter you can do
+so to who you please</p>
+
+<p><persName>SFA</persName></p>
+
+<p>It is very important to send in the reports of births and deaths
+agreeably to the advertisement on that subject, and I hope it will
+not be neglected&#8212;for the <persName>Ayto </persName>are obliged to make this return every
+three months or be fined&#8212; I have explained this matter fully to
+<persName>Cap Baily</persName> for it is not understood</p>
+
+<p>[Addressed:] <persName>Mr J. H. Bell</persName>  <placeName> Lower Settlement</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
