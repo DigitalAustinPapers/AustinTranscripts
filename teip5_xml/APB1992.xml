@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1992">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 07-14-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Price
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="sender">
+                        Morgan
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Philadelphia, Pennsylvania</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 451-453
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-14">07-14-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hostility to Americans in Mexico subsiding. Orders various books. Is to be elected to the legislature.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>In addition to the memorandum I sent you in my letter of the
+other day, I wish you to get me copies of the constitutions of<pb n="452"/>
+<placeName>Columbia</placeName>, of<placeName> Buenos Ayres</placeName> of <placeName>Chili</placeName>, of <placeName>Peru</placeName>, and what is called
+the <hi rend="italic"><placeName>Bolivia</placeName>n Code</hi> or constitution given by <persName>Bolivar </persName>to <placeName>upper Peru</placeName>
+or <placeName>Bolivia</placeName>, they are all in Spanish&#8212; I think you can get them
+at some of the bookstores, or perhaps from some individual who
+has been to those <placeName>countries</placeName>.</p>
+
+<p>In place of the scarlet jacket which I wrote for get me a blue
+clothe vest to suit the surtout and not a scarlet one &#8212; bring me a
+good raisor or two.</p>
+
+<p>you must be particular if you come by <placeName>land </placeName>to have contracts
+with the <persName>servants </persName>or the <persName>officer </persName>at <placeName>Nacogdoches </placeName>will interpose some
+difficulties.   If you come by water contracts are also necessary.</p>
+
+<p>I hope you may get here by <date when="1830-12-01">1 of Decr</date> for it is possible I may
+have to leave here in the <date n="Winter - 1830">winter</date>, the mail of today brings me letters
+stating that I shall be voted for at <placeName>Bexar </placeName>to represent <placeName>Texas </placeName>in the
+<persName>state Legislature, </persName>if so I shall be elected of course, for in this <placeName>colony</placeName>
+I shall not loose a vote, and but few if any at <placeName>Goliad </placeName>and 
+<placeName>Nacogdoches </placeName>they have started me at <placeName>Bexar </placeName>the whole thing originated
+with the <persName>native Mexican population</persName> of that place and <placeName>Goliad</placeName>&#8212;
+I had no idea, and no wish for such a thing I cordially detest
+politics in any <placeName>country</placeName>, and our affairs in <placeName>Mexico </placeName>have been so 
+entangled by some one (and it is suspected by an <persName>american</persName>) that I
+dread entering within their reach&#8212; True it is that the prejudices
+against <persName>north Americans</persName> are subsiding in <placeName>Mexico</placeName>, but still, there
+are some remnants of bitter feeling left among the uninformed who
+believed that <persName>Poinsett </persName>was the <placeName>U. S.</placeName> Government, and that all 
+<persName>north Americans </persName>were connected with his intreagues&#8212; The situation
+will be an unpleasant, and perhaps a critical one, but an honest
+and prudent course has always carried me safely through many
+difficulties in this <placeName>country </placeName>and I have faith that it will continue
+to do so.</p>
+
+<p>The election is next <date n="08-xx-1830">month</date>&#8212; The <persName>Legislature </persName>meets <date when="1831-01-01">1 of 
+January</date>&#8212; there are two <persName>members </persName>only from all <placeName>Texas</placeName>: tho after this
+year we shall have several more owing to an increase of population,
+and the ratio is to be new moddled next session.</p>
+
+<p>The result of the election will be published after it is over&#8212; 
+contrary to the custom in the <placeName>U. S.</placeName> but little is said about elections and
+there is but little electionering in this <placeName>country</placeName>, a <placeName>candidate </placeName>who says
+any thing himself, to influence votes can be deprived of his seat&#8212;
+this has prevented open and public electionering&#8212;</p>
+
+<p>"Remember me to <persName>Mr Learning</persName> and see about the <placeName>Maps</placeName>&#8212; I 
+perceive they are out, I want a number on rolers&#8212; they are for 
+presents to <persName>Mexicans </persName>and of course I wish for the best&#8212; <persName>Tanner </persName>will
+realise more by that <placeName>map</placeName>, than by any thing he ever published in his
+life and I rejoice that he will do so&#8212;   tho I need some cash to pro-<pb n="453"/>
+cure a few choice Spanish, and English books of a literary and 
+historical character to try and improve my mind which needs it much,
+for during the ten years I have spent in <placeName>Texas</placeName>, but few books have
+come within my reach&#8212;</p>
+
+<p>farewell may heaven bless you and land you and <persName>sister </persName>and the
+<persName>young one[s]</persName> safe in the "<placeName> wilds of Texas</placeName> "</p>
+
+<p><persName>S. F. Austin </persName>  [Rubric]</p>
+
+<p><date when="1830-07-14">July 14 1830</date></p>
+
+<p>I am greatly in need of <hi rend="italic"><persName>Waits </persName>State papers</hi>, published in <placeName>Boston</placeName>.
+I had them in <placeName>Missouri </placeName>but lost them in <placeName>Arkansas</placeName>&#8212; A number 
+subscribed for them at the <placeName>Mines </placeName>and I think a set might be got there
+cheap.&#8212; In my other letter I wrote to you to get me a blue undress
+Military surtout with a standing collar trimmed with black silk
+cord&#8212;yellow bridle bits yellow spurs and yellow stirrups, these I
+need very much and a pair of boots</p>
+
+<p>[Addressed:] <persName>Mr James F. Perry</persName> Care of <persName>Price and Morgan</persName>
+<placeName>Philadelphia</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1983">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jesse Woodbury to Stephen F Austin, 07-08-1830</title>
+            <author>
+                <persName>Jesse Woodbury</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 444
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-08">07-08-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Receipt for $14 with which to buy books. Report on the commission.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Sn Felipe de Austin</placeName> <date when="1830-07-08">8th July 1830</date></p>
+<p>Recd of <persName>Stephen F Austin</persName> fourteen Dollars handed me by him for
+the purpose of my purchasing for him in <placeName>New York</placeName> some Books as
+per Memorandum given Me by sd <persName>Austin</persName></p>
+
+<p><persName>Jesse Woodbury</persName></p>
+
+<p><persName>J. WoodBury Jr</persName>.</p>
+
+<p>Bot of <persName>Collins and Hanney</persName> <placeName>No. 230 Pearl Street</placeName></p>
+
+<p>1  Webbters Dictionary&#8212;----$2.00</p>
+
+<p>2  Spanish and English do------$4.00</p>
+
+<p><date when="1831-01-27">January 27th 1831.</date>   Recd Peyt-----$3.00</p>
+
+<p>The orthography of The Spanish academy of Madrid Could not be
+found Through The <placeName>City</placeName></p>
+
+<p><persName>J W Jr</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

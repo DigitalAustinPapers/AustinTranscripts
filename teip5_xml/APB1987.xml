@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1987">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 07-11-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 445-447
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-11">07-11-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advising Perry in Philadelphia what goods to buy for store in Texas and giving information about Texas ports. Orders uniform of an infantry colonel. Harmony restored in Texas. Austin's motives in founding Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1830-07-11">July 11 1830</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I wrote you a few days ago to <placeName>Potosi </placeName>and to <placeName>Philadelphia </placeName>and now
+improve the opportunity presented by <persName>Cap Brown</persName> who goes direct
+to <placeName>new york</placeName> in the Sloop Nelson he is a <persName>settler </persName>here and has a
+good house at <placeName>Brazoria</placeName>, and intends returning immediately with a
+new vessel suitable for this trade&#8212; I[t] would be a good 
+opportunity for you to send out your goods. <persName>Col Jesse Woodberry</persName> who
+was here with you goes out in the Nelson and will return in her
+should you wish for information write to<persName> Austin and Tayleur</persName> <placeName>New
+York.</placeName> The first of that house <persName>John P. Austin is a cousin</persName> of mine,
+a <persName>brother of Henry</persName>, <persName>Horace</persName>, etc. <persName>Woodberry </persName>will do his business
+with them.</p>
+
+<p><persName>Fisher the collector of <placeName>Galveston</placeName></persName> has recd orders from Govt to
+suspend the <placeName>custom house at Galveston</placeName> for the present the reason
+assigned is that no <placeName>custom house</placeName> is wanting, owing to the exemptions
+from duties and other laws in favor of <placeName>Texas</placeName>.</p>
+
+<p>I made an engagement with <persName>Mr Morton</persName> to put me up a <placeName>small brick
+house</placeName> in this place that would do for you to winter in, but he has
+been taken sick, and I fear a total disappointment. The <placeName>steam mill</placeName>
+is going and does very well, and I will have a <placeName>house </placeName>ready, either
+here, or <placeName>at the point on the bay</placeName>&#8212;</p>
+
+<p>I think it will not be material which place you land at, <placeName>Brazoria</placeName>
+or <placeName>Harrisburgh</placeName>, the water over <placeName>red fish bar</placeName> is about the same as over
+the <placeName>Brazos bar</placeName> 5 feet&#8212; it will be more convenient to send goods to
+<placeName>Trinity </placeName>from <placeName>Harrisburgh</placeName>-&#8212; I think that you might bring out a
+considerable assortment and some <persName>indian </persName>goods among them one
+hundred <persName>troops </persName>are stationed on the <placeName>Brasos </placeName>at the <placeName>upper or San
+Antonio road</placeName> and a <placeName>small store</placeName> would do well there to supply them
+and the <persName>Indians</persName>&#8212; there has been a great emigration and this <date n="Fall - 1830">fall</date>
+it will be much greater than ever. I need some articles. I hold the
+commission of <persName>full colonel of the militia</persName>, the law requires that I
+should provide myself with an uniform The uniform is that of a
+<persName>colonel of infantry of the Mexican Army</persName>, with gold epaulets and
+gold or yellow mounted sword etc.&#8212;The uniform coat and the<pb n="446"/>
+epaulets ought to be made in a particular manner, and unless you
+could meet with some one in <placeName>Pha </placeName>who could give instructions about
+them, it would be difficult to get them of the right kind-&#8212; Tho I
+must have a Sword, Sash, and belt, yellow Mounted. I also want
+a military surtout with a standing collar, handsomely tho plainly
+trimmed with black silk cord and pantaloons trimmed in the same
+manner&#8212; All of navy blue clothe, also a scarlet wescott with gold
+round cord on the edges, a pair of boots and yellow spurs&#8212; As I am
+the <persName>highest militia officer of <placeName>Texas</placeName></persName> it is expected that I should
+provide myself with these things and a handsome set of holsters.
+Also a yellow bitted bridle&#8212;I cannot use an <persName>american </persName>saddle, but
+should like a <persName>Spanish </persName>saddle well rigged&#8212;   that I can get here&#8212;</p>
+
+<p>I want <persName>Vattel</persName>'s law of nations in Spanish, a portable writing desk,
+and a large plain secretary and book case to keep my private papers
+in-&#8212;   such a thing cannot be got here except at great cost.</p>
+
+<p>If <persName>Tanner </persName>makes a good profit out of the <placeName>Map </placeName>I sent him he ought
+to give me one of his best bound and last <persName>American </persName>Atlass, it is the
+best now extant and would be very useful to teach the <persName>children</persName>
+geography&#8212;</p>
+
+<p>I have sent the <placeName>Texas gazette</placeName> containing the law of <date when="1830-04-06">6 april</date> to the
+<persName>Editor of the <placeName>Nat. Gazette</placeName></persName> where you can see it I wish you to
+subscribe for that paper and for the <hi rend="italic">quarterly review</hi> for me, and
+have them sent in packages to an <persName>agent in <placeName>new Orleans</placeName></persName> to be sent
+out by private conveyance by water, otherwise I shall not get the
+half of them, and if such an arrangement cannot be made it will be
+useless to take them.</p>
+
+<p>Our <placeName>colony </placeName>matters are getting on very well, there is the utmost
+harmony among the <persName>settlers </persName>and between them and the Government.
+All the difficulties which appeared to be brewing when you were
+here about stopping emigration from the <placeName>U. S.</placeName> have passed away
+and I have been officially informed that I can go on and introduce
+the whole number of <persName>families </persName>I have contracted for and finish all
+my contracts&#8212; My standing with the Govt, has always been good
+and it is better now than ever, for they know more of me owing to
+the investigations which the stir in <date n="04-xx-1830">april </date>created, by which it has
+appeared that I am the only <persName>empresario </persName>that has done any thing who
+has performed his duty and followed the law in good faith. The
+advertisements in the <placeName>U. S. papers</placeName> by <persName>D A. Smith</persName> and others to sell
+<placeName>millions of acres in Texas</placeName> has done great harm for all that kind of
+speculation is fraudulent and it threw a shade of suspicion and 
+censure at first, over <hi rend="italic">all </hi>the <persName>empresarios</persName>. My letter to <persName>Learning </persName>that
+was published in the <placeName>Nat. Gazette</placeName> has made some of those speculating
+<persName>gentlemen </persName>my bitter and deadly <persName>enemies</persName>&#8212;and they are now secretly<pb n="447"/>
+at work in <placeName>Mexico </placeName>to try and get revenge by injuring me&#8212;   they will
+find themselves gnawing a file&#8212;</p>
+
+<p>I wrote to <persName>Learning </persName>to send me a genealogical account of my
+<persName>mothers family</persName>&#8212; call on him for it. Also bring or send me the
+number of the <placeName>Nat. Gazette</placeName> that has my letter about selling <placeName>Texas</placeName>
+lands&#8212;I wish for it to send to the Govt, in case those <persName>gentry </persName>should
+attempt to injure me, also get the <placeName>newspapers </placeName>that contain their
+advertisements on the subject.</p>
+
+<p>Instead of roaming about in other <placeName>countries </placeName>to speculate I have
+devoted my life to the arduous task of trying to redeem this <placeName>country</placeName>
+from the <placeName>wilderness </placeName>and I have succeeded greatly beyond what was
+supposed possible, for I was ridiculed by some for attempting such
+a thing. I had no capital, and have supplied its defect by personal
+labor and attention, and by putting my shoulder to the wheel in
+earnest and in good faith. I have not made a fortune for my self
+(except in lands which now have no value) and probably shall not
+live to derive much personal benifit, but I have greatly benifited
+many others, hundreds of them, and made them and their <persName>families</persName>
+rich who were worth nothing before, and I have opened and enlarged
+a fine field for human enterprise and human happiness. This has
+always been the main object of my ambition and not a mere 
+avaricious view to personal speculation. I have no fears that my motives
+or my acts will not receive the reward in public opinion which they
+merit, or that a few <persName>speculators </persName>can materially injure me, but they
+may harrass me. In a <placeName>democratic republic</placeName> <persName>enemies </persName>are sometimes
+more troublesome and dangerous than in any other form of Govt,
+for popular opinion is as often moved by whim or accident, as by
+reason or justice</p>
+
+<p>Farewell I long to see you that we may all settle down on a quiet
+<placeName>Stock farm</placeName>, far from the reach of politics or popular whims&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
