@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1976">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Stephen F Austin, 07-02-1830</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 435-437
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-02">07-02-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Good account of Terán's attitude toward Texas. Political news.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matamoros </placeName><date when="1830-07-02">July 2d. 1830</date></p>
+<p><persName>Col S F Austin</persName>
+</p>
+<p>My dear Sir I have recd your favor dated <placeName>Bexar </placeName><date n="06/01/1830">June 1st </date>and
+regret to observe you have heard nothing of my application for a
+<placeName>grant </placeName>of land&#8212; My <persName>agent </persName>at <placeName>Saltillo </placeName>said under date<date when="1830-05-08"> 8 May</date> that
+he had made enquiry and found my business in a fair train, that
+some document wanted your signature, this the Govt had sent to
+<placeName>Texas </placeName>for signature and so soon as returned signed the solicitation
+would be atended to&#8212;but as orders have been recd from the Genl
+Govt not to grant any more <placeName>land </placeName>to <persName>citizens of the <placeName>US</placeName></persName> I fear I shall
+be defeated&#8212;</p>
+
+<p>The law of the <date when="1830-04-06">6 April</date> no doubt originated in a Jealousy of the
+Views of the <placeName>US </placeName>and fears of the growing strength of the <persName>Colonists</persName>
+in <placeName>Texas</placeName>&#8212; The Govts and <persName>people of <placeName>Mexico </placeName></persName>appear to become more
+hostile daily to the <persName>citizens of the <placeName>US</placeName></persName>. and I am of opinion will 
+ultimately drive them from <placeName>Mexico </placeName>or reduce the <placeName>U S</placeName> to the necessity of
+compelling them to respect the rights of her <persName>Citizens</persName>&#8212; The 
+<persName>authoritys </persName>here are now enforcing a law of this state which requires all
+<persName>foreign Merchants</persName> except <hi rend="italic"><persName>English</persName>, <persName>German </persName></hi>and <hi rend="italic"><persName>Dutch </persName></hi>to pay one
+pr ct on their capital in trade and on all importation during the last
+year, whether on acct or consignment&#8212;</p>
+
+<p>This <hi rend="italic">retroactive </hi>law in direct contravention of the Cons[titu]tion
+is levelled so directly against the <persName>citizens of the <placeName>US</placeName></persName> (they being the
+only <persName>merchts </persName>affected by it) as to give good grounds for serious
+alarms, they are compelled to pay instanter or go to <placeName>prison</placeName>&#8212;</p>
+
+<p><persName>Genl Teran</persName> is still here with two or three hundred <persName>men </persName>he is 
+supposed to have orders to march to <placeName>Texas </placeName>but I am of opinion he will<pb n="436"/>
+not leave this&#8212; The receipts at this<placeName> custom house</placeName> are the only 
+resource for the payment of the <persName>troops </persName>in this department, the <persName>Genl</persName>
+probably suspects that heretofore not one half the legal duties have
+gone to acet of Govt and seems determined that in future every dollar
+shall be secured his <persName>troops </persName>perform the duty of <persName>French </persName><hi rend="italic">Gens d'Arms</hi>
+every point is guarded and the <persName>soldiers </persName>appear to be converted into
+<persName><placeName>custom house</placeName> officers</persName>&#8212; The <persName>Genl </persName>dictates in all things he will kill
+the goose in search of the golden eggs as this troublesome and
+hazardous trade is profitless paying the whole dutys and will be
+abandoned&#8212;</p>
+
+<p>It is now said 1600 <persName>men </persName>are to be here shortly <p>to be drilled I do</p>
+not believe they will be marched to the <placeName>frontier </placeName>as the <persName>Genl </persName>is 
+convinced that the apprehensions of hostilitys by the <placeName>US</placeName> are without
+grounds and that the <persName>colonists </persName>are content to remain as they are He
+professes a disposition to favor the <persName>colonists </persName>in everything, says
+he will make this part of the <placeName>country </placeName>flourish etc, but until more
+stability can be infused into their Govt this is impossible</p>
+
+<p>I think he has more apprehension of a Grito for Centralism in
+the <placeName>South </placeName>and a separation of those <placeName>northern states</placeName> which are federal,
+than of the <placeName>US </placeName>or <placeName>Texas </placeName>where in fact there is nothing to fear until
+outrage shall produce difficulty&#8212;</p>
+
+<p>I also suspect he counts upon much support from <placeName>Texas </placeName>in such
+an event&#8212; I have abandoned the Navigation of this <placeName>river</placeName>, as I
+have no benefit from the past and no security for the future&#8212;and
+am preparing the steamboat for <placeName>Sea </placeName>I should be off in a Week
+could I close my business but I do not like to leave 6 or 8000 dollars
+behind me and shall continue two weeks to save what I can and
+leave the rest to an <persName>agent</persName>&#8212; My intention is to run first to the
+<placeName>Brassos de dios</placeName> where if the boat can be employed she shall remain,
+if not, when the season will permit I will take her to the <placeName>Teché
+River</placeName>&#8212; She is a boat of great speed and power carrys 100.000 lbs
+freight and according to <persName>Capt J Austin</persName>s acct can run up to <persName>St
+philipe </persName>excepting in the <placeName>lowest water</placeName>&#8212;- If she could get one full
+freight a Month at the present rate of costage she would do better
+than here&#8212;and the influx of population and goods should I think
+warrant the expectation of so much employment&#8212;<persName> Col Bradburn
+</persName>has again joined the army under <persName>Genl Teran </persName>and is now under orders
+for <placeName>Galveston </placeName>in one of two Govt Schrs expected from <placeName>Tampico</placeName>
+ostensibly to survey the <placeName>coast of Texas</placeName>&#8212; he is also I believe to
+act as <persName>commisary </persName>for supplying the <persName>troops </persName>with provisions from <placeName>N Orleans</placeName>, He has recently returned from <placeName>Orleans </placeName>where he was sent by the <persName>Genl </persName>for the purpose as I have reason to believe of 
+ascertaining the object of the <placeName>US </placeName>in establishing a <placeName>port on the sabine</placeName> and to
+collect information as to the views of the <persName>Colonists</persName>&#8212;   His report<pb n="437"/>
+as far as I can discover was that the <persName>troops </persName>were Stationed <placeName>near the
+frontier</placeName> to prevent smuggling and that the <persName>colonists </persName>were quiet and
+well disposed excepting some <persName>newcomers </persName>and idle disorderly young
+men that no measures were necessary but to support <persName>Col Austin
+</persName>with sufficient authority to controul this class of people you ask
+if I am on good terms with the <persName>Genl </persName>I was on the best of terms
+and had a high opinion of him, but since his return from <placeName>Tampico</placeName>
+he has been too great a man to hold familiar intercourse with&#8212;
+he obviously wishes to make himself popular in <placeName>Texas </placeName>and here&#8212;
+but here he has rendered himself very unpopular, and is now thought
+to be a very weak and arbitrary man&#8212; I am told he says "the
+<persName>north americans</persName> who now think him their <persName>enemy </persName>will in a few-
+months be perfectly satisfied with him&#8212;" what does this mean
+can he contemplate bringing about some important change?</p>
+
+<p>I wrote you two letters by <persName>Captn J Austin</persName> which I hope went
+safe altho he had the misfortune to loose his sloop near <placeName>Matagorda</placeName>&#8212;
+I adhere to the opinion expressed in the last, the report by <placeName>capt
+Harkens</placeName> that you were coming here on your return from <placeName>Bexar</placeName>
+gratified the <persName>Genl </persName>very much and he expresses a strong desire to
+see you <hi rend="italic">here</hi></p>
+
+<p>If it please God to permit me to escape from this detestable place
+alive and to reach the <placeName>Brassos </placeName>in safety I may have the pleasure
+to see you <date n="08-xx-1830">within a month</date> but so many difficultys spring up here
+unexpectedly that no man can calculate upon any thing a week a
+head&#8212; at present there is nothing in the way to prevent my
+prompt departure but my reluctance to leave a large amount of
+property to the mercy of <persName>agents </persName>in such a <placeName>country</placeName>&#8212;</p>
+
+<p><persName>H Austin </persName>   [Rubric]</p>
+
+<p>The <placeName>country </placeName>is parched with drought Thermometor at 98 or
+100 in the shade I fear the <placeName>river </placeName>may dry up and prevent my
+departure The Sand drifts like the <placeName>desart of arabia</placeName> and makes us
+very uncomfortable</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1974">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Horatio Alsberry to Stephen F Austin, 06-29-1830</title>
+            <author>
+                <persName>Horatio Alsberry</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Comargo</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 432-433
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-06-29">06-29-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Don Gaspar Sais. Alarming rumors of the Government's intentions in Texas. </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Comargo</placeName><date when="1830-06-29"> 29th June 1830</date></p>
+<p>Dr Sir,</p>
+
+<p>The <persName>bearer </persName>of this letter goes to <placeName>New Orleans</placeName> with letters from
+a <persName>Lady </persName>of this place to her <persName>husband </persName>one of the <persName>Expulsed Spaniards
+</persName>in which is enclosed a passport or certificate from <placeName>Mexico </placeName>that he is
+excepted from the law of twenty Eight with the intention of 
+bringing him to the <placeName>Brazos </placeName>if not to <placeName>Comargo </placeName>He is a <persName>gentleman </persName>highly
+Esteemed, here by Every person   by request of his <persName>wife </persName>I address<pb n="433"/>
+you this letter requesting you as a <persName>friend </persName>to the distressed and
+oppressed that should your influence be necessary for the 
+forwarding on of the Express or the protection of <persName>Don Gaspar Sais (Dicha
+Spaniard)</persName> should he come to <placeName>Brazos</placeName>, to use your influence in his
+behalf also if you see proper to write him a note promising your
+protection by the <persName>Express </persName>and by so doing procure a wealthy and
+respectable <persName>citizen </persName>in your <placeName>Colony </placeName>as she wishes to move on and
+join him in <date n="09-xx-1830">Septembre</date>&#8212;</p>
+
+<p><date when="1830-06-28">yesterday </date>arrived here above a hundred <persName>convicts </persName>destined for
+<placeName>Texas </placeName>condemned to three years labor on the <placeName>public buildings</placeName> that
+<persName>General Teran</persName> is going to Establish there (for <persName>vagrants</persName>) Report
+says here that you have notified the <persName>general </persName>that if he does not take
+immediate steps to establish a <persName>military force</persName> in <placeName>Tejas </placeName>that there
+will be revolution in <placeName>Nacogdoches </placeName>Also that eighteen thousand
+<persName>Spaniards </persName>have disembarked in <placeName>Tejas </placeName>and destroyed the <persName>Military
+force</persName> of that Department the latter however is not believed Several
+<persName>Companies of troops</persName> have and are starting on to that point and
+an <persName>officer </persName><date when="1830-06-28">yesterday </date>told me that they were going to " Empinar " the
+<persName>Americans </persName>in <placeName>Tejas </placeName>" muy pronto " There is a great deal said of the
+<persName>Spanish Expedition</persName> this fall Also that <persName>Bustamente </persName>is determined
+to stop the emigration of <persName>Americans </persName>to <placeName>Tejas </placeName>and even expulse those
+that are there however <persName>Teran </persName>speaks highly of you and your
+<placeName>colony </placeName>but does not yet know when he will start for <placeName>Tejas </placeName>you will
+oblige me by contesting [answering] this</p>
+
+<p><persName>Horatio A. Alsberry</persName></p>
+
+<p>[Addressed]Al<persName> C. Esteban F. Austin</persName>   <placeName>En San Felipe   Rio Brazos</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

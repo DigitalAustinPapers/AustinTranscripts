@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1963">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 06-16-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-21">08-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 419-421
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-06-16">06-16-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for shipping goods to Texas. Rumors in Mexico that United States will take Texas by force of arms.   Anxious to close his public business and rest.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Brother</persName></p>
+
+<p>I returned from <placeName>Bexar </placeName>in much better health than when you left
+here&#8212; There appears to be some clouds hanging over this <placeName>country</placeName>,
+tho I apprehend nothing from them, and my opinion as to your
+removal here is the same as when you left. If you come by land
+write to <persName>Breedlove </persName>for a passport and state the number of your
+<persName>family</persName>. The law requires all persons to bring passports and it
+should be done because it is the law.</p>
+
+<p>The <persName>custom house officer of <placeName>Galveston</placeName></persName> has fixed his office for the
+present <placeName>at the mouth of the Brasos river&#8212;</placeName>vessels must be cleared<pb n="420"/>
+out for <placeName>Galveston</placeName>, and if you send a vessel from <placeName>Philadelphia </placeName>clear
+out for <placeName>Galveston </placeName>and not for the <placeName>Brasos </placeName>but come to the <placeName>B</placeName>. if you
+wish from <placeName>Phia </placeName>you can get debenture allowed, but in <placeName>new Orleans
+</placeName>you cannot</p>
+
+<p>They have some very erroneous ideas in <placeName>Mexico </placeName>relative to <placeName>Texas</placeName>,
+but I think that a few months will convince them of their error&#8212;
+The last dates from <placeName>Mexico </placeName>says that the <placeName>united States of the north
+</placeName>are about to send a large <persName>army </persName>to take this <placeName>country </placeName>by force etc,
+etc. how they should entertain an idea that the <placeName>U S.</placeName> is unfriendly
+I can not conceive&#8212;</p>
+
+<p>All kinds of provisions and lumber are free and no duties will
+be collected untill after <date n="12-xx-1830">November </date>as I informed you when here&#8212;</p>
+
+<p>Poor <persName>James </persName>died before I returned from <placeName>Bexar </placeName>and I did not
+see him&#8212;</p>
+
+<p>I am making final arrangements to close all my business this <date n="Fall - 1830">fall</date>
+and <date n="Winter - 1830">winter</date>, and prepare myself to spend my time in a retired and
+quiet manner with you&#8212;</p>
+
+<p>I was very well received at <placeName>Bexar </placeName>and all things stand well with
+the <persName>State authorities</persName>&#8212; They wish me in <placeName>Bexar </placeName>to go to the
+<placeName>Legislature </placeName>but I have refused&#8212; The fact is that unless I can take
+some rest I shall not live much longer for I am nearly worn down&#8212;
+for nine years since I came to <placeName>Texas</placeName>, my mind has had no rest,
+nothing to releave it from continued cares and anxieties&#8212; I have
+felt towards all the <persName>settlers </persName>as tho. they were all my <persName>relations</persName>,
+Some of them have not merited the anxiety I have suffered for
+them I have been a faithful servant of this Govt, and have 
+performed much important service for it&#8212; wheither I shall receive
+thanks, or abuse, is doubtful, <persName>Poinsett </persName>has left an impression in
+<placeName>Mexico </placeName>which has reduced the <persName>North American </persName>character to a low
+grade there.&#8212; I do not pretend to say that he has done right, or
+wrong, for I know nothing about his conduct-&#8212; he has certainly
+been the most unfortunate <persName>minister </persName>that was ever sent to any Govt.</p>
+
+<p><persName>Gen Teran </persName>has not yet left <placeName>Matamoros </placeName>and the news of the
+<persName>Spanish </persName>invasion will probably prevent his coming on.</p>
+
+<p>Every thing is peace and quietness in <placeName>Texas </placeName>and so likely to
+remain.</p>
+
+<p><persName>Col Milam</persName> says that the <placeName>roads </placeName>are good for a carriage all the
+way to <placeName>Nachitochs </placeName>and he advises you to remove by that route&#8212;
+it will be a very long and tedious journey, but you and <persName>Emily </persName>must
+decide, inform me which route you will take so that I may provide
+the nessery matters for you&#8212;- I have an idea of puting up a
+<placeName>House </placeName>in this place which will do for you to winter in&#8212; The
+<placeName>Steam Saw mill</placeName> is in operation and works well<pb n="421"/></p>
+
+<p>A new <persName>Commissioner </persName>will be on shortly and I shall soon complete
+all the titles&#8212; Did you call on the <persName>Comte at <placeName>Nacogdoches </placeName></persName>and how
+did he treat you. Inform me wheither you intend sending out goods
+from <placeName>Pa</placeName>. it will be best to land them in the <placeName>Brasos</placeName>, I think, tho if
+the vessel is large she must come into <placeName>Galveston </placeName>I expect your best
+plan will be to ship them to <placeName>Orleans </placeName>and thence to this <placeName>country</placeName>.
+I will write by every opportunity, both to <placeName>Potosi </placeName>and to 
+<placeName>Philadelphia </placeName>to the care of <persName>Price and Morgan</persName></p>
+
+<p>Tell all the <persName>emigrants </persName>to call on <persName>Breedlove </persName>for a passport, because
+the law makes it necessary&#8212;</p>
+
+<p>remember me to the <persName>children</persName>, I have received several letters from
+you of old date since you left and one from <persName>Emily</persName>. I saw <persName>Sam
+Browne</persName> <date when="1830-06-15">yesterday</date>, he is in very good health, but I had not time
+to Say more than how do you do, to him for it was mail day&#8212;</p>
+
+<p><persName>S. F. Austin </persName> [Rubric]</p>
+
+<p><date when="1830-06-16">June 16 1830</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
