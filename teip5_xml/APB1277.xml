@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1277">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel C. Hirams to Stephen F. Austin, 09-08-1826</title>
+            <author>
+                <persName>Samuel C. Hirams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-12">07-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburg, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1451-1452
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-09-08">09-08-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Building for Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harrisburg </placeName><date when="1826-09-08">September 8th 1826</date></p>
+<p>Dear Sir</p>
+
+<p>After so long a time the <persName>sawyers </persName>are come on to gow to work at
+your plank. I hope you will excuse me, for it was completely out of
+my power to send sooner.</p>
+
+<p>I have made my bargain so that you have to furnish them 
+provission and pay them One dollar pr. hundred after the logs are hewd.
+I wish you to call on <persName>Mr Mason</persName> who is at <persName>Mr Iron</persName>s who is to hew the
+stuff. Also furnish <persName>Mason </persName>with that Bill of hewing, and the <persName>sawyers</persName>
+will [with] the bill of sawing that I left with you. Draw off the
+bill of hewing on a separate piece of paper and hand to <persName>Mason</persName>. Be
+so good as to gow with the <persName>workman </persName>and show them the place and
+timber, and after the stock for the plank and scantling is hewn, and
+<persName>Mason </persName>comes back to <placeName>Sn Filipe</placeName>, show him where to hew the sills and
+sleepers etc</p>
+
+<p>If <persName>Mr Williams</persName> still continues in the notion of building, let his
+bill remain with your own, if he has declined building, take his part
+out of your bill, so that the <persName>sawyers </persName>may not be bothered.</p>
+
+<p>I expected to have come over with the <persName>sawyers</persName>, but owing to 
+company and having no person to assist my <persName>wife</persName>, I am obliged to remain
+at home, but I hope there will be no dificulty. Be perticular in 
+getting sound timber for your planks   Have the flooring planks hauled<pb n="1452"/>
+as soon as it is sawn so that it may draw as soon as possible, And as
+soon [as] <persName>Mason </persName>returns and hews the sills etc let me know it and I
+will come on to work. You will have to send for your saw as <persName>Mr
+Keels</persName> has sold his saw without my knowledge, and there is no other
+saw to be had here.</p>
+
+<p><persName>Saml C. Hiram</persName>s</p>
+<p><persName>Col. S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

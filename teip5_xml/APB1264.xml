@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1264">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 08-28-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-11">07-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1440-1443
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-08-28">08-28-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking approval of a plan formulated by a local convention for maintaining a standing militia force on frontier.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Through my communication of the <date when="1826-08-14">14th Instant</date>, I informed your
+<persName>Lordship </persName>that I had called a meeting of the <persName>people</persName>, to agree upon
+some system of defence for this <placeName>section</placeName>, until the <persName>Government </persName>can
+adopt measures for the protection of the whole <placeName>frontier of Texas</placeName>.
+The <persName>board </persName>assembled on the <date when="1826-08-21">21st Instant</date>, and, after due deliberation,<pb n="1442"/>
+we agreed upon the following articles, which are to receive the 
+approbation of your <persName>Lordship </persName>before they are carried into effect.</p>
+
+<p>Articles agreed upon by the <persName>Board</persName>.</p>
+
+<p>First: All the <persName>militia </persName>of this <placeName>Jurisdiction </placeName>shall be organized into twelve <persName>sections</persName>; one section to be sent to the <placeName>frontier </placeName>every month, to do duty as <persName>spies</persName>, or <placeName>frontier </placeName><persName>guard</persName>.</p>
+
+<p>Second: These <persName>sections </persName>shall include all the <persName>men </persName>living in this
+<placeName>Jurisdiction</placeName>, whether resident in lawful possession of land, or not;
+provided they are able to bear arms. All those who own <placeName>half a league
+of land</placeName> shall be included in said <persName>section</persName>, even though he be exempted
+from service in the <persName>National Militia</persName> Regulations, in consequence of
+his age, physical impediment, or for other reasons; all those who
+have <placeName>two leagues of land</placeName> shall be counted as two <persName>men </persName>in the 
+organization of said <persName>classes</persName>; those who have <placeName>four leagues</placeName> shall be counted
+as four <persName>men</persName>; and those who have more than <placeName>eight leagues</placeName> shall be
+counted as five <persName>men</persName>.</p>
+
+<p>Third: Those who have <placeName>half a league and upwards,</placeName> and are not
+actual <persName>residents </persName>of this <placeName>Jurisdiction</placeName>, shall enter said <persName>classes </persName>and be
+counted at the call of one man for each half league, up to two leagues;
+above which quantity, they shall come within the provisions of the
+following article. In case said <persName>persons </persName>should be absent and should
+fail to supply a man in their place, they shall be considered as 
+responsible for the ordinary rate of the hire of a <persName>substitute</persName>, which amount
+shall be collected by the civil <persName>authorities </persName>and be paid into the 
+Treasury of this Department.</p>
+
+<p>Fourth: In case that any person should fail to serve at his time,
+or to supply a <persName>substitute </persName>agreeably to these regulations, then the
+<persName>Commanding Officer of the Militia</persName> of the <placeName>district </placeName>to which that
+person may belong, shall hire a <persName>substitute </persName>to serve in his place, 
+provided that such <persName>substitute </persName>shall not receive more than $40, a month,
+to be paid in merchandize, or the productions of the <placeName>Country</placeName>;
+and said <persName>Commanding Officer of the district</persName> shall forthwith make
+his report to the <persName>Alcaldes of the <placeName>Jurisdiction</placeName></persName> in which the <persName>absentee</persName>
+and the <persName>substitute </persName>hired in his place may reside; and the <persName>Alcalde </persName>shall
+order the <persName>Sheriff </persName>to collect the amounts, due by said <persName>absentee</persName>, from
+his property by a public sale of the same, the proceeds, when 
+collected, to be paid to said <persName>substitute</persName>. In case of the sickness of any
+of the <persName>men</persName>, the <persName>officers of the district</persName>, jointly with the <persName>Alcalde</persName>, may
+relieve him from one tour of duty, but no more. <persName>Volunteers</persName>, shall,
+in all cases, be received to supply the place of <persName>absentees</persName>.</p>
+
+<p>Fifth: The <persName>Commanding Officer of the Jurisdiction</persName>, having a due
+regard to the respective strength of the various <persName>parties</persName>, and in
+conformity to the inventory of <placeName>lands </placeName>belonging to each person, shall<pb n="1442"/>
+assess the number of the <persName>militia</persName>, that each <placeName>district </placeName>shall supply every
+month, and he shall give corresponding orders to the respective 
+<persName>commanding officers of the districts</persName>; and these <persName>officers</persName>, jointly with the
+<persName>Alcalde</persName>, shall divide the <persName>men of their district</persName>, who are thus bound
+to serve according to these regulations, into twelve <persName>sections</persName>, one for
+each month, in a just and impartial manner.</p>
+
+<p>Sixth. Said <persName>Commanding Officer of the Jurisdiction</persName>, shall, if 
+possible, engage an <persName>officer </persName>to take the permanent command of the <persName>party</persName>
+referred to in the first article of these regulations; and, if it be 
+impracticable, from want of the necessary funds to pay the <persName>officer</persName>, the
+said <persName>Commanding Officer</persName> shall detail from among the <persName>officers of
+the Militia</persName>, one for every month, selecting those whom he deems
+best qualified for that duty.</p>
+
+<p>The object of the plan is to keep twenty or thirty mounted <persName>men</persName>
+continually on the <placeName>frontier </placeName>as <persName>spies</persName>; as well for the preventing of
+the incursions of small parties of <persName>Indians</persName>, as to give timely notice
+should they come in force to make a formal attack.</p>
+
+<p>The intention of the several articles is, to compel every one to 
+contribute his share in the common defence in proportion to the interest
+he has in the <placeName>Country</placeName>.</p>
+
+<p>Some <persName>persons </persName>who have received and own lands here, have gone
+to <placeName>Nacogdoches </placeName>in consequence of the <persName>Indian </persName>difficulties, thus hoping
+to avoid being compelled to furnish their proportion towards the
+defence of this <placeName>Jurisdiction</placeName>, alleging that the laws governing the
+<persName>National Militia</persName> only require their personal service in the <placeName>district
+in which they reside</placeName>, and that while they live at <placeName>Nacogdoches </placeName>they
+are bound to do militia service there, and, that, therefore, they 
+cannot be compelled to serve in this <placeName>Jurisdiction</placeName>, although all of their
+property is here; adding, furthermore, the colonization law 
+exempting the <persName>Colonists </persName>from taxes for some years, no taxes can be levied
+on the property they leave here, and that to compel them to serve
+in this manner amounts to a tax. Those who have <placeName>more than two
+leagues of land</placeName> say also, that the law on <persName>Militia </persName>makes it obligatory
+on them to be in readiness to serve personally, but that they cannot
+be compelled to serve two, three or five terms more than any other
+persons on account of the greater interest they may have in the
+<placeName>country </placeName>alleging that it would be a tax imposed upon them in 
+opposition to the colonization law.</p>
+
+<p>I anticipate the most favorable results from this plan if there is
+no impediment thrown in the way of its execution; and I pray your
+<persName>Lordship </persName>to communicate to me such doubts as you may feel 
+respecting its realization. If you approve it I wish you would send me
+a formal approbation, with such corrections and additions as you<pb n="443"/>
+may deem necessary, that I may publish and circulate it for the
+information of all concerned.</p>
+
+<p>God and Liberty.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-08-28">August 28th, 1826</date>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1278">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 09-11-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-12">07-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1452
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-09-11">09-11-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Discouragement of the colonists over  uncertainty  concerning  slavery. Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I inclose to your <persName>Lordship </persName>an original letter of the <persName>Cherokee Chief
+Richard Fields</persName>, informing me of the movements of the <persName>Comanches</persName>,
+and other particulars.</p>
+
+<p>I had already received, a few days since, a similar notice from a
+<persName>Chickasaw Indian</persName>, and I am convinced that, <date n="Fall - 1827">next fall</date>, the <persName>Indians</persName>
+will unite to make a grand effort upon the <placeName>frontier </placeName>particularly that
+of <placeName>Texas</placeName>.</p>
+
+<p>We are not well prepared here to resist an attack. <persName>More than one
+half of these people</persName> are awaiting the decision of <person_mentiSoned>Congress </persName>in regard
+to their <persName>slaves</persName>, as they intend to leave the <placeName>Country </placeName>if their 
+emancipation is decreed. They are already making preparations for their
+journey. The remainder of the <placeName>settlers </placeName>are so disheartened that they
+have no energy to make an effort. Therefore, if the <persName>slaves </persName>are 
+emancipated the <persName>government </persName>must not depend upon the assistance of this
+<persName>militia</persName>. It is to be feared that the tardiness in making provisions
+for the friendly <persName>Indians </persName>will dissatisfy them; which would be 
+unfortunate, as 100 <persName>Cherokee warriors</persName> are decidedly superior to 500
+<persName>Comanches</persName>.</p>
+
+<p>God and Liberty.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-09-11">September 11th 1826.</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
