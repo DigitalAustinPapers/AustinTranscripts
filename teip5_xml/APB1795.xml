@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1795">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Durst to Stephen F Austin, 11-24-1829</title>
+            <author>
+                <persName>John Durst</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-16">08-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 290
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-11-24">11-24-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Will follow procedure advised by Austin concerning Guerrero's emancipation decree. Character of the local authorities.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdochs</placeName>.<date when="1829-11-24"> Novr 24 de 1829</date></p>
+<p><persName>S. F. Austin Esqr</persName></p>
+
+<p>Dear Sir I receivd yours of the <date when="1829-11-17">17th Instant</date> and am very 
+thankful to you for the troble you have taken in the complyence of
+my request, it has aforded Great Satisfaction to our <persName>friends</persName>, and
+I am confident that the corse indicated will unanimosley be adopted
+to a man; you wish to Know what the <persName>Ayuntamto</persName>. of this place
+will do it is hard telling so farr they have agreed to cooparate with
+My vews on that subject, but there [is] no Knowing what turn they
+may take they are a Boddy without souls and subjects easy worked
+on by intrigue the <persName>Militery comte</persName>,. of this <placeName>place </placeName>has a considerable
+influence over them and is much of a <persName>scoundrel</persName>, I have this day
+been credibly informd that he has long since conceivd the Plan
+of efecting a revolution amonst the <persName>Slaves </persName>against their <persName>Masters</persName>
+he has even told me previos to this that he was astonished it did
+nott take place, but Little did I suspect him Capable of inducing
+them What are we to do with such a rascal, I hope el <persName>Sor. Padilla</persName>
+will soon be on and put things to wright</p>
+
+<p><persName>John Durst </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
