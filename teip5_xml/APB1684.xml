@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1684">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John A Williams to Stephen F Austin, 03-02-1829</title>
+            <author>
+                <persName>John A Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Pine Bluff, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 174-175
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-03-02">03-02-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thanking Austin for assistance in getting land for settlers on the Trinity, and warning him against certain inhabitants of that section.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Pine Bluff</placeName> <date when="1829-03-02">2nd March 1829</date></p>
+<p><persName>Col Austin</persName></p>
+
+<p>Dr Sir. Your favour of the <date when="1829-01-31">31st Jany</date> came to hand and its 
+contents has been duly considered, The course you propose for us to
+persue relative to the <persName>commissioner </persName>accords with my opinion intirely
+but my extreme bad health I fear will prevent my adopting the course
+you have suggested</p>
+
+<p>Permit me to inform you that the success which has crowned
+your late efforts on the subject of our land petition has gained you
+much applause among the <persName>inhabitants of <placeName>Trinity</placeName></persName>. But I fear it
+will work a great injury to yourself at least, for new favours in the
+opinion of the multitude beget new obligations, and as emty 
+acknowledgments are the only tribute they expect will be exacted for the
+important servises you have rendered, you may expect future 
+aplications in abundence and perhaps I shall be the first to draw on your
+benevolence <date when="1829-03-01">yesterday </date>one of the <persName>inhabitants of this <placeName>vicinage</placeName></persName>, and
+soil [?] set out for the <placeName>interior </placeName>on some weighty mission, the object
+of which I do not exactly comprehend, not belonging to their <persName>cabinet</persName>.
+I have not been honoured with a sight of their embassage nor 
+credentials but I expect they will stop at <placeName>san Filipe </placeName>and perhaps exhibit
+their documents to you. The request I now have to make is this
+that should this important personage honour you with a call, that
+you receive him with just such marks of distinction as his 
+occupation his station in life and the importance, or non importance of his<pb n="175"/>
+mission merits and no more, and further I would observe we wish the
+great favour which the <persName>Mexican government </persName>has though[t] fit to
+bestow upon us in granting us land to be caried into effect without
+being contaminated with foul hands, I should not have said any
+thing on this subject had it not been for the great industry, intreague
+and management with which some petitions of sale has I am 
+informed, have been goten up and Subscribers obtained</p>
+
+<p><persName>Jno A. Williams </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

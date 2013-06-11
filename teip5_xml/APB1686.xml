@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="1686">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to W C Carr, 03-04-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        W C Carr
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Hazelwood, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 177-179
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-03-04">03-04-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Sends him for record receipts for $2,000 from Anthony Butler on account of Moses Austin's debts. Progress of Texas and difficulties which he has overcome. Personal items. Interpretation of Jackson's election.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName><date when="1829-03-04"> 4 March 1829</date></p>
+
+<p>Copy to <persName>W. C. Carr<</persName>/p>
+<p>My dear Sir,</p>
+
+<p>Since my last, which I beleive was in <date n="10-xx-1828">October</date>, I have had a final
+settlement of accounts with <persName>A. Butler</persName> and have paid him upwards
+of two thousand dollars, and arranged the balance in three 
+payments in <date n="xx-xx-1831">1831</date>. <date n="xx-xx-1832">32</date>. and <date n="xx-xx-1833">33</date>.&#8212; The interest was all exacted to a cent
+and in some instances compounded, which has caused the debt to
+accumulate very much. I still owe considerably over four 
+thousand dollars on it&#8212; this has been a cruel affair and has harrassed
+me very much, more than any event of my life ever did, I hope
+it is done with&#8212; Enclosed I send you an order to the <persName>clerk of
+<placeName>Jefferson county</placeName></persName> to enter satisfaction on the judgement against
+<persName>Bryan </persName>and My <persName>Father </persName>which I wish done, provided it cannot in any
+manner be construed as implicating me, by construction, as having
+assumed the payment of debts generally due by <persName>Bryan </persName>and My
+<persName>Father </persName>unless where I am individually bound as was the case in
+this debt&#8212;</p>
+
+<p>The prospects of this <placeName>country </placeName>are brightening very rapidly and
+<persName>emigrants </persName>of the most respectable character are flocking to it.</p>
+
+<p>Perseverance and time have removed the obstacles that impeded
+the settlement of <placeName>Texas </placeName>when I commenced. It was then a total
+<placeName>wilderness</placeName>, destitute of resources, infested by hostile <persName>Indians </persName>and
+without an organised Government and the real value of the 
+<placeName>Country </placeName>unknown, or very generally doubted. When I look back at the
+substantial impediments, that were calculated to retard or totally<pb n="178"/>
+defeat my progress in planting a new <placeName>settlement </placeName>in this <placeName>wilderness</placeName>,
+I find abundant cause of surprise that it should have advanced at
+all. I was of the opinion that perseverance and time would 
+surmount them. The event proves that I was right&#8212;A few more years
+and the prosperity of <placeName>Texas </placeName>will astonish many. I am bold to say,
+that as a <placeName>Country</placeName>, taken in the general average, it is unequaled by
+any portion of <placeName>North America</placeName>. You will recollect that I have had
+<hi rend="italic">some opportunity </hi>of forming an opinion on this matter, for I have
+seen this <placeName>continent </placeName><placeName>from Connecticut to the City of Mexico</placeName>, and
+have generally been a close observer of localities, soil, climate, etc.
+Apart from the peculiar value of the <placeName>Mississippi river</placeName> and the
+<placeName>harbors</placeName>, I deem <placeName>Texas </placeName>to be of more intrinsic value as a <placeName>country</placeName>,
+than all the<placeName> States of Louisiana</placeName> <placeName>Mississippi</placeName>, <placeName>Alabama </placeName>and <placeName>Georgia</placeName>
+and the <placeName>territories of Florida </placeName>and <placeName>Arkansas</placeName></p>
+
+<p>Our Govt gets on very well, <hi rend="italic">All things considered</hi> the federal
+system was an experiment and a very dangerous one for <placeName>Mexico</placeName>
+because their former habits and ideas as to political subjects, had
+not prepaired the <persName>people </persName>for such a System, there must be some
+collisions for a while, but good will grow out of them; for they tend
+to elicit discussion and to diffuse knowledge. I may perhaps at some
+leisure time write you a long and rather speculative letter on the
+formation, progress and probable future advancement of this new
+born <placeName>republic</placeName>, and notice some variations from their Model the
+<placeName>U. S</placeName>&#8212;</p>
+
+<p>This day belongs, most emphatically, to the history of <placeName>North
+America</placeName>, I may indeed say to the history of the <placeName>civilized world</placeName>&#8212;the
+<date when="1828-03-04">4 of March</date>, the inauguration of the <persName>President </persName>of a <placeName>republic </placeName>whose
+comercial ramifications have penitrated every <placeName>inhabitable corner of
+the Globe</placeName>, and whose moral influence has cheered every heart that
+loves freedom, and thrown a gloom around the thrones of despotism.</p>
+
+<persName>Jackson </persName>goes into office with the advantage of an overwhelming
+<persName>majority</persName>, and should his <persName>cabinet </persName>possess talents and <hi rend="italic">" Management"</hi>
+to retain their popularity he cannot fail to get through hapily and
+prosperously&#8212; I am of opinion that his <persName>administration </persName>will in the
+general be very popular, and very advantageous to the <placeName>nation</placeName>, for
+I think that the experiments which have been made of the Tariff
+Systim has clearly demonstrated the course that ought to be adopted,
+and I think it will be adopted&#8212;Popular opinion will give this 
+administration <hi rend="italic">all the credit</hi>, altho they may be governed by lights elicited
+by others&#8212;I have taken no great interest in the election, tho I have
+no objection to see <persName>Jackson President</persName>&#8212;Your Govt is founded on the
+popular will&#8212;and agreeably to the principles on which it is based,
+whatever the people will, <hi rend="italic">is right</hi><pb n="179"/>
+
+<p>I recd your kind letter of <date when="1828-11-08">8 novr </date><date when="1829-03-03">yesterday </date>and thank you for the
+sentiments it contains&#8212; the dificulty I mentioned in a former letter
+is all settled whether it will ever occur again I know not&#8212;</p>
+
+<p>Please remember me very particularly to your <persName>daughters</persName>. <persName>Ann
+Maria</persName> I expect will hardly recollect me. I do " long " to see you all
+and to see <placeName>Missouri </placeName>once more, and I <hi rend="italic">will </hi>see you as soon as I can
+arrange my affairs to leave this <placeName>country </placeName>so as to be absent one year&#8212;
+when you go to <placeName>Potosi </placeName>remember me to them all there.</p>
+
+<p><persName>Brother James</persName> has a <persName>son </persName>a few weeks since, he lives at a new <placeName>town</placeName>
+we have laid off on the <placeName>Brasos river</placeName> <placeName>15 miles from its mouth</placeName> called
+<hi rend="italic"><placeName>Brasoria</placeName></hi>, a name which I gave it for the single reason that I know
+of none like it in the world. I shall remove below myself as soon
+as I can get a divorce from colonizing perplexities, and I do assure
+you <hi rend="italic">they are many</hi>&#8212;I am weary of them, a <placeName>Small farm</placeName> a moderate
+independence and a <persName>wife </persName>would render my life much happier than
+it is or has been lately&#8212;but I am too poor as yet (as to active capital)
+to think of those matters&#8212; <persName>Brother </persName>has denounced me as an old
+bachelor confirmed and hopeless and has undertaken to fit up a
+fruit garden for me to growl away old age in. I shall disapoint
+him I hope tho am in favor of the fruit and therefore remind you
+of your promise to send seeds and roots to <persName>Mr. Cox</persName> of<placeName> N. Orleans</placeName></p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p>[W. C. Carr, Hazelwood, Missouri.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

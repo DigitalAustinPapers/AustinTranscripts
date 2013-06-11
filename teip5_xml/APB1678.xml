@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1678">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Commodore David Porter, 02-16-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Commodore David Porter
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 166-168
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-02-16">02-16-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging him to apply to government for a grant of land in Texas. Description of the country; population, cattle raising, cotton, opportunities for developing trade with England, which resents tariff of the United States, coasting trade, and foodstuffs.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felepe de Austin</placeName><date when="1829-02-16"> 16 Feb. 1829</date></p>
+<p>Dr Sir:</p>
+
+<p>I had the pleasure of seeing <persName>Capt. A. Thompson</persName> of the <persName>navy </persName>during
+his visit to the <placeName>coast of Texas</placeName> <date n="Fall - 1828">last fall</date>, and in a conversation with
+him I learned that you had it in contemplation to procure a <placeName>grant</placeName>
+from Government on the <placeName>Guazacualco river</placeName> with the view of 
+establishing a number of <persName>families</persName>, and the <persName>Cap.</persName> suggested the possibility
+of your giving a preference to <placeName>Texas </placeName>when fully apprised of its
+advantages in point of soil, locality, and temperature.   Never 
+having seen any part of the <placeName>Guazacualco country</placeName> I cannot pretend to a
+correct opinion as to its relative advantages or disadvantages when
+compared with <placeName>Texas</placeName>, and can only say that the discription I have
+recd of it from several intelligent <persName>men </persName>who professed to have 
+explored it has left an impression on my mind that, as a country, <placeName>Texas</placeName>
+is greatly its superior.   It is true that our climate will not admit
+of the culture of coffee or cacao, and other <placeName>tropical </placeName>productions but
+we can boast of the quality and abundance of our cotton crops and
+sugar and all the other productions of <persName>Louisiana </persName>and <persName>Mississippi</persName>
+succeed very well.    The <placeName>pasturage</placeName>, or "<placeName>range</placeName>" as we term it, is
+certainly superior to any thing I have ever seen in any <placeName>country</placeName>, and
+the <placeName>facilities </placeName>for raising Cattle horses, mules, sheep and hogs, etc.
+almost exceeds credibility.    The general appearance of this <placeName>country</placeName>
+is pleasing and in many places beautifull, being diversified with
+extensive broad <placeName>Prairies </placeName>clothed with the most luxurient growth of
+grass and <placeName>groves of timber,</placeName> <placeName>rivers </placeName><placeName>creeks </placeName><placeName>streamlets </placeName>and elevated
+<placeName>undulating tracts.</placeName>    The latter, in general commence from <placeName>thirty to
+fifty miles from the coast</placeName> and extend far into the <placeName>interior </placeName>before
+the <placeName>country </placeName>becomes hilly   The  facilities  of interior navigation
+are considerable and susceptible of extensive improvements, and no
+country is better adapted for the cheap construction of good roads,
+our <placeName>harbors </placeName>will not admit vessels of the largest class, but are 
+sufficiently deep for brigs and the smaller class of merchant ships and
+are very safe and secure from gales   The climate of <placeName>Texas </placeName>I deem
+to be decidedly superior in point of health and salubrity to any 
+portion of <placeName>north America</placeName> in the same parallel   The margins of our<pb n="167"/>
+<placeName>rivers </placeName>in common with all the <placeName>rivers of the world</placeName> are somewhat 
+subject to fever and agues and other complaints incident to similar
+situations but I think that the practical experience of seven years
+justifies me in saying that the <placeName>rivers of Texas </placeName>are less liable to 
+diseases than <placeName>any river of the U. S.</placeName> <placeName>below latitude 36</placeName>. Situations back
+from the <placeName>rivers</placeName>, or <placeName>near the Coast</placeName> are remarkably healthy&#8212;</p>
+
+<p>The munificent and liberal policy of the Govt towards <persName>emigrants</persName>
+has drawn many very worthy and valuable <persName>settlers </persName>from the <placeName>United
+States of the north </placeName>and they bring with them the enterprise, 
+perseverance and industry which forms so prominent a trait in the
+national character of our <placeName>native country.</placeName> When I Commenced
+this <placeName>settlement </placeName>in <date n="xx-xx-1821">1821</date>. <placeName>Texas </placeName>was an <placeName>uninhabited desert</placeName>. This
+<placeName>colony </placeName>at the present has about <persName>3000 inhabitants</persName> and <placeName>settlements </placeName>are
+<placeName>extending in other sections</placeName>. The great interprise and industry
+of the <persName>north American emigrants</persName> must and will make this a rich
+and valuable <placeName>country</placeName>. We shall next year be able to export a 
+considerable amt. of cotton and it is considered by many that if the
+" Tariff System " is continued by the<persName> Govt of the<placeName> U. S</placeName>.</persName> a 
+discrimination will be made by <placeName>G. Britain</placeName> in the article of cotton which will
+give to that of other <placeName>countries </placeName>a decided advantage in the<placeName> English
+market</placeName> over the <placeName>United States</placeName>&#8212;be this as it may the <persName>planters of
+<placeName>Texas </placeName></persName>can compete with those of the <persName>U. S</persName>. for the means of 
+subsistence here can be raised cheaper and no capital of consequence will
+be required, at least for several years, to procure land. And besides
+this labor here will produce more than in any part of the<placeName> U. S.</placeName>
+within my knowledge, not even excepting the <placeName>Red River country</placeName>,
+owing to the superior fertility of our soil.</p>
+
+<p>Should the suggestion made by <persName>Cap Thompson</persName>, that you might
+possibly prefer this <placeName>country </placeName>to <placeName>Guazacualco </placeName>be correct, and you
+should wish for information as to any particular <placeName>sections </placeName>I will take
+great pleasure in affording it so far as may be within my power.
+I believe that the <placeName>country </placeName>embraced within the following limits has
+not been granted to any <persName>Empresario</persName>, that is, <placeName>begining at the Mouth
+of the San Jacinto River</placeName> and <placeName>folowing up it ten leagues</placeName> (which is
+the extent of the reserve made by the law of <date when="1824-08-18">18 August 1824</date> of <placeName>lands
+bordering on the coast</placeName> thence <placeName>Eastwardly following the said reseive
+line to the 20 league reserve</placeName>, thence <placeName>northwardly following this last
+line to the main road leading from Nacogdoches to Nachitoches</placeName>,
+thence<placeName> Eastwardly along that road to the Sabine,</placeName> and <placeName>down the
+Sabine to its Mouth and along the coast to the mouth of San
+Jacinto</placeName>&#8212; The <placeName>20 league reserve line </placeName>spoken of is also agreable
+to the Genl colonization law of <date when="1824-08-18">18 Aug. 1824</date> which reserves <placeName>ten
+leagues on the coast</placeName> and <placeName>20 leagues on the boundary line of the U. S</placeName>.</p>
+
+<p>The above <placeName>tract </placeName>is about <placeName>120 miles north and south</placeName> and <placeName>60 east
+and west</placeName> and will admit of good <placeName>settlements</placeName>.    The <placeName>Naches </placeName>and<pb n="168"/>
+<placeName>Trinity rivers</placeName> run through it both navigable and they both afford
+good pine cypress and cedar oak and ash timber in abundance and
+numerous situations on creeks for <placeName>Mills</placeName>. The proximity of this
+tract to the <placeName>U. S.</placeName> would cause it to settle rapidly&#8212; The <placeName>Naches</placeName>
+discharges into <placeName>Sabine Lake</placeName> which may be connected with an 
+eastern arm of <placeName>Galveston Bay</placeName> by a cut of not more than two or three
+Miles through low prairie as I am told.</p>
+
+<p>I expect that a <persName>cousin </persName>of mine <persName>Mr John Austin</persName> will visit <placeName>vera
+Cruz</placeName> shortly with the Schooner Eclipse for the purpose of procuring
+a <persName>Mexican </persName>register in proper form. A provisional pasport has
+been issued for her by the <persName>Comt Genl Bustamte</persName> which I am informed
+is sufficient to carying the cargo from here she is owned entirely
+by <persName>Mexican citizens</persName> We shall be able next year to supply a 
+considerable amt. of Beef Pork, lard, Bacon and peas and Butter and
+Sweet Potatoes should those articles be wanting for naval supplies,
+they perhaps may be had on better terms from here than from any
+other quarter of the <placeName>Mexican territory</placeName>&#8212;¦</p>
+
+<p>With the most sincere desires for your health and happiness I
+have the honor to remain your Most Obt. Sert.</p>
+
+<p>[Indorsed:] Letter to <persName>Commodore Porter</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

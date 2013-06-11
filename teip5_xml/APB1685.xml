@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1685">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Green DeWitt to Stephen F Austin, 03-03-1829</title>
+            <author>
+                <persName>Green DeWitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Gonzales, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 175-177
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-03-03">03-03-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting depredations of Indians in his settlement and battle with Tahuacanas. Recommends appointment of Rangers to patrol the frontier.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Gonzales </placeName><date when="1829-03-03">March 3rd 1829</date></p>
+<p>Dr Sir The <persName>indians </persName>have been commiting such outrages on the
+<persName>people of this <placeName>colony</placeName></persName>, by killing a few hogs and stealing one horse;
+and robed the <placeName>camp </placeName>of some <persName>men </persName>who were sawing some plank <placeName>3
+miles above this place on the Guadalupe River</placeName>&#8212;the hogs were stolen
+below&#8212;<placeName>on the River</placeName>, by the <persName>Tankawas</persName>&#8212;, horse was stolen by the
+<persName>cados </persName>and taken from them again on the waters of the <persName>St Marcus</persName> by
+a party of 19 <persName>men </persName>which I sent after them, the <placeName>Camp </placeName>above 
+mentioned was robed by the <persName>Tawaccanies</persName>&#8212;of about $100 worth of
+Tools&#8212; I sent a <persName>party </persName>of men out to find their course&#8212;after a
+march of 4 days on foot&#8212;they returned and reported that there were
+four in number&#8212;when they commited the theft, but were joined by
+about 25 more at the <placeName>Cappoto</placeName>&#8212;and bent their course for <placeName>LaBahia</placeName>,
+and crossed the <placeName>San Antonio road 24 miles west of this place</placeName>&#8212;I
+raised a party of 17 <persName>men </persName>besides myself and followed them within
+<placeName>about 15 miles of LaBahia </placeName>finding on their trail parts of saws which
+they had broken which convinced us they were the same <persName>indians</persName>
+there they had fallen in with a bout 40 more who had been encamped
+there during the last Storm, on that evening we struck their trail
+on their way from <placeName>LaBahia </placeName>with a Caviard of a bout 50 horses.&#8212;I
+put three <persName>spies </persName>ahead with orders to report should they see any
+<persName>Indians </persName>in a bout one hour, one of the <persName>spies </persName>discovered an <persName>Indian</persName>&#8212;
+riding down from a <placeName>prairie hill</placeName>; when he broke in to full speed 
+without reporting what he had seen&#8212;he was too far ahead to hear me
+when I ordered him to keep order&#8212;consequently he went on and
+those who had good horses went on&#8212;others whose horses were tired
+were <placeName>a mile behind</placeName>&#8212;when I arrived there were five <persName>men </persName>on the
+ground&#8212;and them scatered for the distance of two hundred yards&#8212;
+I ordered them to form <placeName>in a small bunch of muskeet trees</placeName> in about
+100 yards of the <persName>Indian </persName>horses&#8212;4 <persName>men </persName>besides myself formed there&#8212;
+when <persName>Capt McCoy</persName> who was <placeName>in the rear of me</placeName> order a retreat to
+better ground, and reported that the <persName>Indians </persName>were a bout to cut off<pb n="176"/>
+our <persName>men </persName>who were on tired horses and intirely behind us&#8212;this put
+the <persName>men </persName>in confusion, and the <persName>indians </persName>having made a bold charge
+upon us with a hot fire&#8212;in order to cover their own <persName>men </persName>who were
+then securing their horses&#8212;<persName>John and Andrew Tumlinson</persName> who had
+tied their horses in the edge of the same thicket where the <persName>Indians</persName>
+were, got almost surrounded one of their horses being slightly hit
+by a ball, broke a way and joined our horses the other horse being
+tied with two hard knots, was siezed by an <persName>Indian </persName>in a few Steps of
+<persName>John T,</persName> whose gun would not fire&#8212;the <persName>Indian </persName>untied the ho[r]se
+which got frightened at him; broke loose and Joined our <persName>company</persName>
+the <persName>Indians </persName>followed those <persName>men </persName>a few yards and stopt, two of whom
+were shot down by our <persName>men </persName>They then retreated in to their thicket,
+carrying off their <persName>dead</persName>&#8212;we were not able to charge in to their hold
+without great loss, as they were too superior in number&#8212;therefore
+we took our stand in the <placeName>fork of a small creek </placeName>in their view in order
+to draw them out&#8212;where we could be Sheltered by a few muskeet
+trees; where we remained for some time, but without any attack&#8212;
+we then with drew Slowly for a few hundred yards when we 
+discovered them in full chase on horse back&#8212;we then took our stand
+and drove them with the loss of two more of their number; it then
+being after dark we Struck our course for <placeName>home</placeName>; as I did not wish
+to hazard the lives of any the <persName>Citizen </persName>on such unequal grounds; for
+we were compelled to fight them at a place of [their] own selection;
+and which was almost impenetreble.</p>
+
+<p>I have given you this detail of the affair precisely as it was
+tra[n]sacted, in order to show you we were not the <persName>agressers</persName>, but
+were persuing our property and were fired upon first by themselves.
+Your Old friend <persName>Don G. Flores</persName> was robed of his horses<placeName> between
+this and San Antonio </placeName>and went home on foot as I am informed&#8212;.
+I have received information from <placeName>Bexar</placeName>&#8212;that the <persName>Indians </persName>have
+stolen a great many horses from that place and that there are 200
+<persName>Soldiers </persName>now in persuit of them. The fact is I believe the <persName>Caddos</persName>
+<persName>Wacos </persName><persName>Comanches </persName>and <persName>Tawaccanies </persName>are all concerned in the affair;
+and unless there is some precaution taken they will harrass the
+<persName>people </persName>on the <placeName>frontiers </placeName>of both of these <placeName>Colonies</placeName>; and the only means
+will be to keep <persName>troops </persName>of some discription on the alert from the
+<placeName>Colorado </placeName>to the <placeName>Guadalupe</placeName>, and thence to <placeName>San Antonia</placeName> which would
+be the means of giving information of their approach and put people
+on their guard so that they could protect them selves and property.
+I would wish you to take these things in to consideration; and should
+you approve of the measure&#8212;use your influence to affect it, either
+by a<persName> Company of Rangers,</persName> or the <persName>public troops</persName> which would be a
+great security to the <persName>people of <placeName>San Antonia</placeName> and <placeName>LaBahia </placeName></persName>as well
+as to <placeName>American Settlements</placeName>.<pb n="177"/></p>
+
+<p>I have addressed a short note to the <persName>Alcalde at <placeName>San Felipe</placeName></persName> on
+the subject of the expected election at this place which is very much
+wished for and needed as well for the Organization of the <persName>Militia</persName>
+as that of a <persName>civil officer</persName> in this place which I hope you will urge as
+soon as possible, as our Safety greatly depends on a well Organized
+<persName>Militia</persName>.</p>
+
+<p>Our place is strenghening fast, <persName>Mr. Lockhart</persName> has arrived in the
+<placeName>Bay of Aransas</placeName>&#8212;with 55 <persName>souls </persName><persName>men </persName><persName>women </persName>and <persName>Children </persName>bound for
+this place; he himself has been up and returned to the <placeName>Bay </placeName>with
+Waggons Carts and horses for their transportation; and will arrive
+in a few days&#8212; I would be happy to hear from you; often and get
+the news of the day, and have your opinion on the best means and
+measures in case the <persName>Indians </persName>should prove hostile.</p>
+
+<p><persName>G. DeWitt</persName>    [Rubric]</p>
+
+<p><persName>Col Stephen F Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
