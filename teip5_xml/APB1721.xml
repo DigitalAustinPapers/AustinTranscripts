@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1721">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Emily M Perry, 05-26-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Emily M Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brasoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 217
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-05-26">05-26-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Texas is tranquil and progresses. Lack of schools.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brasoria</placeName>, <date when="1829-05-26">May 26, 1829</date></p>
+<p>Dr <persName>Sister</persName>.</p>
+
+<p>your last came to hand in 16 days after its date. I am happy to
+hear of your health and that of your fine <persName>family of children</persName>&#8212;
+I wish I was in a situation to take <persName>Austin</persName>, but I think that he will
+do better for the present where he is, we have no good <placeName>schools</placeName>
+here, I will accept of the offer you make of him as soon as I think
+it will be for his advantage to come out here&#8212;</p>
+
+<p>I am now at <placeName>brother</placeName>s who has settled at this <placeName>place </placeName>probably for life or at least for many years&#8212;he is quite in the woods as yet, tho
+comfortable, and has a fine <persName>Boy </persName>as ever I saw&#8212; this place is <placeName>20
+miles by water from the Mouth of the river</placeName> and about <placeName>10 miles
+from the coast in a direct line</placeName> I think it will become a place of
+business</p>
+
+<p>It is very uncertain when I shall visit <placeName>Missouri </placeName>not this year&#8212;
+I cannot advise <persName>Mr. Perry</persName> to [move] here, neither do I advise
+him not to move, he cannot form any correct opinion on the 
+subject without visiting the <placeName>country </placeName>and spending at least two months
+to examine it&#8212;</p>
+
+<p>My health is none of the best, tho the <placeName>country </placeName>has been very
+healthy this season, and we have the most promising appearances of
+crops</p>
+
+<p>I have nothing worth filling a letter with and therefore shall
+wind up with the most sincere wishes for your health and prosperity
+remember me to <persName>Mr Perry</persName> and all the <persName>children </persName>and to <persName>Mrs John
+Perry,</persName> she ought to take a trip to the <placeName>coast of Texas</placeName>&#8212;this is a
+wonderfull prolific and fertile country and much pleasanter than
+that frozen region&#8212;remember me to my old friend <persName>John P</persName>&#8212;and to
+<persName>Saml</persName>. etc</p>
+
+<p><persName>Stephen   </persName>[Rubric]</p>
+
+<p>there is no news of any Kind, this <placeName>country </placeName>improves&#8212;the <persName>settlers</persName>
+are satisfied with the Govt and we have universal peace and 
+tranquility in all <placeName>Texas</placeName>&#8212;</p>
+
+<p>[Addressed:] <persName>Mrs Emily M. Perry</persName>   <placeName>Potosi Missouri</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
