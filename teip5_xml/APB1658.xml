@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1658">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Cooper to Stephen F Austin, 12-26-1828</title>
+            <author>
+                <persName>William Cooper</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="10-08-09">08-09-10</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 154
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-12-26">12-26-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="10-08-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Stephen F. Austin</persName>
+	With <persName>William Cooper</persName>-----------Dr.</p>
+
+<p><date n="01-xx-1828">January</date>
+									$    cents</p>
+<p>this 1828
+	To  Two Bottles Whiskey By <persName>Singlet </persName>on-----------1.00</p>
+
+<p><date when="1828-04-14">Aprile 14</date>
+	4 lbs Sugar and 2 lbs Coffee------------------2. 00</p>
+
+<p><date when="1828-04-19">19.</date>   By <persName>L. R. Kinney</persName> recd one gallon Whiskey----------2.00</p>
+	<p>3 lbs Coffee and 6 lbs Sugar---------------------3.00</p>
+<p><date when="1828-05-05">May 5</date>
+	2 Gallons Whiskey at $2 pe Gallon----------------4.00</p>
+	<p>2 qts Whiskey and 2 lbs Sugar <persName>W.Whiting</persName>----------1.50</p>
+	<p>2 qts Whiskey and 2 lbs Sugar <persName>W.Whiting</persName>----------1.50</p>
+									<p>13.50</p>
+<p><date when="1828-09-22">Sepr 22nd</date>
+	for Order Brought by <persName>Indian</persName>----------------------1.12 1/2</p>
+	<p>2 Quires letter paper----------------------------1.00</p>
+<p><date when="1828-11-29">Nov. 29</date>
+	2 Sheets Drawing Paper-----------------------------12</p>
+<p><date when="1828-12-26">Dec. 26</date>
+	1 quire           do          do ----------------1.00</p>
+									<p>16.75</p>
+<p>Assumption for <persName>Leall</persName>---------------------------------- 3.00</p>
+									<p>19. 75</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

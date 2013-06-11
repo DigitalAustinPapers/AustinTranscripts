@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1642">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Rabb to Stephen F Austin, 11-24-1828</title>
+            <author>
+                <persName>William Rabb</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-08">08-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 144-145
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-11-24">11-24-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Has been compelled to abandon temporarily his settlement on the Colorado. Blames some of the settlers for the Indian troubles.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1828-11-24">Nov 24 1828</date></p>
+<p>Dear Sir</p>
+
+<p>I have again been compelled to abandon my place <placeName>above the La
+Bahia road</placeName>, much against my will I do assure You,    So long as
+the <placeName>upper Settlement</placeName> maintained their ground I did not dispair<pb n="145"/>
+being able to complete my <placeName>mills</placeName>; but after being deserted by my
+<persName>neighbors </persName>I deemed it useless, and perhaps unsafe, to remain there
+any longer;&#8212;however, I do not dispair of returning in a short
+time&#8212;nothing within my power shall be wanting to reestablish a
+<placeName>Settlement </placeName>at that place;&#8212;For this purpose I shall make such 
+proposals to those who wish to Settle <placeName>in that part of the colony </placeName>as
+cannot fail being accepted by all who wish well to the country <placeName>half
+my land at that place</placeName> will I give, if necessary, to effect this desirable
+object&#8212;could the <persName>uper settlers</persName> view the importance of maintaining
+that place in the same light that I do, I am sure they would be less
+captious and hard to please than I am afraid will be found to be
+the case&#8212;If that <placeName>settlement </placeName>is suffered to break up and disperse it
+will be a misfortune to the <placeName>colony </placeName>that many years may not be able
+to retrieve&#8212; The late visits of the <persName>Comanchas </persName>must be ascribed
+to the misconduct and imprudence of some of the <persName>inhabitants </persName>
+themselves, who for the sake of a little base dishonest self interest would
+sink the <placeName>colony </placeName>in irretrieveable ruin&#8212;If some means could be
+devised to keep the <persName>Tonkuays </persName>and <persName>Lapans </persName>from coming among us,
+it is probable we should not be troubled with the <persName>Comanchas</persName>
+unless they wish to commence unprovoked hostilities against us,&#8212;
+<persName>Two Indians of the Shawneys tribe</persName> came to my place more than
+<date n="10-xx-1828">a month ago</date>, stayed with me several days and then started <placeName>up the
+river </placeName>to explore the <placeName>country of the San Sabo</placeName>&#8212;They have not 
+returned at the time they appointed, which was last <date when="1828-11-19">Wednesday</date>,</p>
+
+<p>Considering the punctuality of <persName>Indians </persName>in keeping such 
+appointments I think it very probable that they have been killed by the
+<persName>Comanchas</persName>, as they are now in the <placeName>country </placeName>through which they
+were to travel&#8212; These <persName>Shawneys </persName>had traveled a great deal through
+the <placeName>U. S.</placeName> were <persName>men of considerable intelligence</persName>, and must have had
+a good deal of influence with their <persName>nation</persName>&#8212; They said that if
+they liked the <placeName>upper country</placeName> their people would commence settling
+<placeName>35 or 40 miles above the San Antonio road</placeName> within three months
+after their return&#8212;they left 58 deer skins, a little ammunition and
+some other <persName>Indian </persName>trinkets with me&#8212;I have brought them away
+and will leave them with<persName> Mr. Newman
+</persName></p>
+<p><persName>William Rabb</persName></p>
+
+<p><persName>Col. Stephen F Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

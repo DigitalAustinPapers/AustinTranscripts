@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1661">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Tennille to J E B and J Austin, 12-xx-1828</title>
+            <author>
+                <persName>George Tennille</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-09">08-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J E B 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        J Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 156
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1828-12">12-xx-1828</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill and price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<date n="12-xx-1828">[December (?) 1828.]</date>
+
+<p><persName>Judge Tennel</persName> [George Tennille]</p>
+<p>Bot from <persName>J B and J. Austin</persName>&#8212;</p>
+<p>1/2 Doz Cups and Saucers @_ -  $1.00</p>
+<p>1/2 Doz Spoons_______        .50</p>
+
+<p>A Doz plates_ .37 1/2</p>
+
+<p>1 lbs Tea&#8212;_______3.00</p>
+
+<p>1 Carving Knife&#8212;&#8212;__ 0.75</p>
+
+<p>1 Wilson Ditto____ 0.50</p>
+
+<p>1 Tea Pot Brittania__ 3.50</p>
+
+<p>6 lbs Sugar a 209___   1.20</p>
+
+<p>10 lbs Coffee @ 3 1/2___  3.75</p>
+
+<p>1  Bottle Mustard @ 4 1/2_____$0. 50</p>
+
+<p>2  Handkfs @ 75 and 5/8_____   1.37 1/2</p>
+
+<p>2 lbs Tobacco @ $2.00&#8212;_____ 10.00</p>
+
+<p>6 1/2 Yds. Hamdton Stripe @ 6 1/2_______  5.06 1/4</p>
+
+<p>2 lbs Powder @ $1.00&#8212;_____   2.00</p>
+
+<p>4 lbs Lead @ 25&#8212;&#8212;  1.00</p>
+
+<p>$35.51 1/4</p>
+
+<p><persName>Tennel</persName>'s Act with<persName> J. B. and J Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
