@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1898">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Lucas Alaman to Governor Viesca, 04-07-1830</title>
+            <author>
+                <persName>Lucas Alaman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-19">08-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Governor Viesca
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 365-366
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-04-07">04-07-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Quoting orders to General Terán to enforce the law of April 6 against further settlement of Americans in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>First Secretairys office of the State, of Exteriour department</persName></p>
+
+<p>Most Excellent Sir</p>
+
+<p>on this date I have written to the <persName>General of division Don Manuel
+de Mier y Teran</persName> as Follows&#8212;</p>
+<p>" Most Excellent Sir »</p>
+
+<p>The discussion concerning the project of law mentioned in note
+bearing date The <date when="1830-02-17">17th of February last</date> has been concluded 
+yesterday and ordered to be published Comformably&#8212; I Send you
+Copies of them and at present I limit myself in Sending you them&#8212;
+reserving to send you by the first mail, your respective instructions,
+for you to act Comformably and according to what <persName>his excellency
+The Vice president</persName> has thought proper to appoint <persName>Your 
+Excellency&#8212;Commissioner of those States</persName>, to which Nomination the
+same law gives you the faculty of&#8212;and in consequence of what has
+been told your Excellency in the Supreme order above Staled&#8212;
+So untill you receive Some instructions The <persName>Vice president</persName> wishes,
+that you together with his <persName>Excellency the Governor of that State
+</persName>Should take the Correspondant measures, to put an end to those
+Contracts, which have not been Complied with and those which
+may be contrary to the adjunct law&#8212; His <persName>Excellency </persName>hopes by
+taking this Step, that your <persName>Excellency</persName>, will act with the prudence
+and Judgement which characterises you in Such a high degree&#8212;
+and that Such measures Shall not now or hereafter, be a motive,
+of which they may take advantage, to Suscítate any inquietud, by
+putting an end to the introduction of <persName>North american Colonists</persName>, a<pb n="386"/>
+proper, Consideration of this effect, Shall be given to the <persName>agents </persName>of
+the <placeName>republic</placeName>, which are in those <placeName>States</placeName>, and they must let it be
+known, to avoid any Claimes whatever&#8212;-</p>
+
+<p>I transfer it to your Excellency, for his notice, and 
+Corresponding effects&#8212;   <placeName>Mexico </placeName><date when="1830-04-07">7th April 1830.</date>   <persName>Alaman </persName>God and Liberty</p>
+
+<p><persName>Most Excellent Sir Governor of the State of Coahuila y Texas</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
