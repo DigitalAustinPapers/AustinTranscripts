@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1741">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W Taylor to Stephen F Austin, 07-28-1829</title>
+            <author>
+                <persName>W Taylor</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Veracruz, Veracruz</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin Settlement, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 241-242
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-07-28">07-28-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Wants land for settlement in Texas. Asks advice.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Veracrus </placeName><date when="1829-07-28">28 July 1829</date></p>
+<p>Dear Sir</p>
+<p>Various have been our fortunes since we met and parted in
+<placeName>Mexico</placeName>&#8212;   You remember that this was then as it still is, my post,<pb n="242"/>
+at which, I have ever since resided&#8212;Save occasionally a tour into the
+<placeName>interior</placeName>, or a trip to the <placeName>States </placeName>I have heard of the progress of
+your <placeName>Settlement </placeName>which I consider to be too firmly rooted, to be easily
+or readily eradicated&#8212; I have not forgotten your invitation to me
+to settle in <placeName>Texas</placeName>&#8212;- After which I have always had a kind of
+<hi rend="italic">hankering </hi>my present <hi rend="italic">object </hi>is to obtain a small grant of from Fifty
+to one hundred to embrace both sides of some <placeName>water course</placeName>, with due
+attention to soil, wood, and water, as I have a number of <persName>friends</persName>
+whom I could induce to move out, and who would form no 
+inconsiderable acquisitions to your <hi rend="italic">infant </hi>State&#8212;but I can do nothing&#8212;
+viz will attempt nothing without your <hi rend="italic">aid </hi>and <hi rend="italic">advice</hi>. What I would
+have you to do for me in this business is, to select Me <placeName>tracts </placeName>of country&#8212;
+draw the plot with the boundaries etc. and to furnish me with your
+advice as to the Measures to be taken by me in order to secure the
+Grant. All which, from your local Knowledge of the <placeName>County</placeName>, may
+be done in your <placeName>office</placeName>.</p>
+
+<p>please write to me thru <persName>Messrs Jas. W. Zackerie</persName> and <persName>Co N. orls</persName>
+as well as under Care to the <persName>Honorable J. E. Poinsett Envdo Extrary
+Min. Píen, de <placeName>Los E. E. U. U. de America</placeName></persName>&#8212;<placeName>Mexico </placeName>provided thro'
+this latter channel I could expect to hear from you in any reasonable
+time&#8212; perhaps it were better to send both original and Dupls Via <placeName>N.
+orls</placeName>&#8212; my intention is to leave this part of <placeName>Mexico </placeName>next <date n="Winter - 1829">winter</date>, and
+therefore am the more anxious to hear from you soon</p>
+
+<p><persName>W. Taylor</persName> [Rubric]</p>
+
+<p><persName>Genl Sant Ana</persName> who was <persName>gouvanor of the State of <placeName>VeraCrus</placeName></persName> and
+<persName>Military Comand1 of the District</persName> is now here with about 2000
+<persName>Troops </persName>in the expectation of being attacked by an <persName>expedition </persName>sd to
+have recently left the <placeName>Hava </placeName>but that expedn must be detined else
+where.</p>
+
+<p><persName>T</persName></p>
+
+<p>[Addressed:]  <persName> Colo  Stephen  Austin</persName>   <placeName>Austin   Settlement   Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
