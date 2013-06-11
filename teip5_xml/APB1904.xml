@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1904">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Austin to Stephen F Austin, 04-05-1830</title>
+            <author>
+                <persName>John Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-20">08-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brasoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 369
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-04-05">04-05-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Is being delayed by lack of papers which Austin's secretary was to send him.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brasoria </placeName><date when="1830-04-15">April 15 1830</date></p>
+<p><persName>Col S. F. Austin</persName></p>
+
+<p>Dr Sir <persName>Mr. Saml Williams</persName> has never yet sent the papers for
+the Sloop althoug[h] I have written him at two different times
+since he left this <placeName>place </placeName>to send them down and if no safe 
+opportunity offered to hire some <persName>person </persName>to come down that there might
+be no disapointment the Sloop left this <date when="1830-04-10">five days ago</date> and has been
+laying at the <placeName>mouth of the River</placeName> <date when="1830-04-12">two or three days</date> with a fair wind
+but could not proceed for want of papers four days since we 
+dispatched a <persName>messenger </persName>to <placeName>San Felipe</placeName> who ought to have returned
+<date when="1830-04-14">yesterday </date>by 12 oClock he has not yet come I think <persName>Williams</persName>
+has detained him, it is a verry serious injury to us the season is far
+advanced and our Corn is somewhat injured and it is all important
+that we should get it to market imediately; I do not know <persName>Mr
+Williams</persName> reasons for treating us so unfriendly when he has 
+received favours from our concern and never has yet been denied, if
+our buisness could have been done at another place I then would
+not have thought so hard of <persName>Williams </persName>but he knowing that we were
+dependent on him for the papers he ought to have given more 
+attention to it,</p>
+
+<p><persName>John Austin</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

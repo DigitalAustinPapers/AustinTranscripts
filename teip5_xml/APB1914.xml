@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1914">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Joseph D Grafton to Stephen F Austin, 05-05-1830</title>
+            <author>
+                <persName>Joseph D Grafton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-20">08-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">St Genevieve, Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 372
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-05-05">05-05-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiring conditions of settlement in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St. Genevieve, Mri,</placeName>  <date when="1830-05-05">May 55 1830</date></p>
+<p>Dr Sir,
+</p>
+<p>At the request of my <persName>wife </persName>(<persName>late Mrs. Henry Elliot</persName>t) I take the
+liberty of addressing you.&#8212;</p>
+
+<p>As the bearer leaves this in a few minutes, I have only time to
+ask a few questions, and will be thankful for your reply at an early
+day.&#8212;</p>
+
+<p>1.  My <persName>family </persName>consists of myself, <persName>wife </persName>and 7 <persName>children</persName>, four of whom
+are of the <persName>late Henry Elliott</persName>.&#8212; What encouragement for such a
+<persName>family </persName>to join your <placeName>settlement</placeName>?</p>
+
+<p>2.  What encouragement for persons<hi rend="italic"> half way <persName>professional</persName>,</hi> I
+being successor to the<persName> late Thos. Oliver</persName>, as <persName>Clerk of the Courts</persName>,
+here ?&#8212;</p>
+
+<p>3.  Is it necessary, in your <placeName>Colony</placeName>, to profess the Catholic faith ?</p>
+
+<p>4.  My <persName>wife </persName>requests me to ask whether you would make to <persName>Henry
+Elliotts' only son (Charles)</persName> any donation of <placeName>lands</placeName>, on account of
+<persName>H. Elliott</persName>'s trip to <placeName>Texas </placeName>in <date n="xx-xx-1822">1822</date>&#8212;?</p>
+
+<p>5.  Whether a <persName>business man</persName>, but without much capital, could 
+probably acquire a good living in connexion with<persName> Capt. Henry Austin</persName>s
+Steam boat line ?</p>
+
+<p>As business in the <placeName>Courts </placeName>is getting very small in this <placeName>County</placeName>,
+I have an idea of removing to some other place, but with so large
+a <persName>family</persName>, I would not like to do it without a reasonable certainty of
+belter things elsewhere.&#8212;your early reply will greatly oblige me.-&#8212;
+<persName>Mrs. Grafton</persName> unites with me in the expression of sentiments of
+true respect.&#8212;</p>
+
+<p><persName>Jos. D. Grafton</persName>    [Rubric]</p>
+<p>[Addressed:] <persName>Stephen F Austin Esq</persName>. <placeName>San Fellipe De Austin
+Texas</placeName>   <persName>Mr. Beard</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

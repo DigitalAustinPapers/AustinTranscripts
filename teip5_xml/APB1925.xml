@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1925">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Emily Perry, 05-16-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-20">08-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Emily Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 376
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-05-16">05-16-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inscription for tomb of Moses Austin and wife, by Austin. Biographical.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>This Sacred to the memory of <persName>Moses Austin</persName> and <persName>Maria his wife</persName>;
+who departed this life at <placeName>Hazel Bun St Francis County</placeName>: the first, on
+the <date when="1821-06-10">10 of June 1821</date>. and the latter on the <date when="1824-01-08">8 of January 1824.</date></p>
+
+<p><persName>Moses Austin</persName> was born at <placeName>Durham, New Haven County State of
+Connecticut</placeName> on the <date when="1765-10-04">4 of October 1765</date>. and was the youngest child
+of the Family of<persName> Elias Austin</persName></p>
+
+<p><persName>Maria his wife</persName> was born in <placeName>Sussex County State</placeName> or <placeName>New Jersey</placeName>
+<date when="1768-01-01">1 of Jany, 1768</date> and was the eldest <persName>daughter </persName>of <persName>Abia Brown</persName>&#8212; They
+emigrated to <placeName>upper Louisiana</placeName> from <placeName>Virginia </placeName>in <date n="xx-xx-1798">1798 </date>and settled the
+<placeName>Mine A Burton</placeName> now called <placeName>Potosi</placeName>&#8212; in <date n="xx-xx-1821">1821 </date>he opened a door for
+the settlement of <placeName>Texas </placeName>by <persName>North American Emigrants</persName> He was
+distinguished for enterprise, liberality, and an honorable character.
+She, by all the virtues of an affectionate wife and Mother</p>
+
+<p>I wish my dear <persName>sister </persName>to shew the rough draft on the other page
+to <persName>Mr. Carr</persName>, and get his opinion, and such alterations as he may
+deem proper in fact I have only put the dates etc. without giving
+it a proper form. <persName>Mr. Perry</persName> can tell you that I have not even time
+to eat in quiet and I am now intruding upon the hours of sleep to
+commune a little with you&#8212;</p>
+
+<p><date when="1830-05-16">May 16, 1830</date></p>
+
+<p><persName>Stephen.</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

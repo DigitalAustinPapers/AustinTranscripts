@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1920">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas J Chambers to Stephen F Austin, 05-12-1830</title>
+            <author>
+                <persName>Thomas J Chambers</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-20">08-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 373
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-05-12">05-12-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Great alarm in East Texas over rumors that State and Federal Governments plan injury to American settlers. Imprisonment of Padilla, the land commissioner, strengthens suspicions.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col. Stephen F. Austin</persName>,</p>
+
+<p>Dear Sir, I have been sometime hunting for you, and not 
+having been able to fall in with you, I have determined to await you
+a few days in this <placeName>place</placeName>. Business of importance to the <persName>public</persName>
+brings me to see you. The <persName>Commissioner </persName>is imprisoned <hi rend="italic">and 
+suspended by the <persName>Political Chief</persName></hi> on a charge of murder. The most
+violent and fatal meaures are takeing both by the <placeName>States </placeName>and 
+<persName>general governments</persName> in relation to the <placeName>colonies </placeName>of this department, so
+far as relates to the <persName>Americans</persName>. Some of these measures are open
+and public, but others consist in <hi rend="italic">Secret orders</hi> directed to various
+<persName>persons in the department</persName>. The information I possess on this
+subject, I will communicate to you when I see you.</p>
+
+<p>The ebullition of public feeling in our <placeName>quarter </placeName>is fearfull. I
+think the public wellfare requires your immediate atention. I hope
+to see you in a few days.</p>
+
+<p><persName>T. J. Chambers </persName>   [Rubric]</p>
+
+<p><placeName>Sn. Felipe de Austin</placeName><date when="1830-05-12"> May 12th 1830</date></p>
+
+<p>[Addressed:] <persName>Col. Stephen F. Austin</persName> Donde se halle <persName>Majr.
+Lewis</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
