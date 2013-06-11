@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1730">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to J L Woodbuy, 07-06-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J L Woodbuy
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 226-228
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-07-06">07-06-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Welcoming him as a fellow empresario and describing the natural advantages of Texas. Manufacturing would be profitable&#8212;particularly cotton textiles.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1829-07-06">July 6. 1829</date></p>
+
+<p><persName>Doctor Lucius Woodberry</persName>.</p>
+
+<p>Dr Sir, On my return to this place a few since I recd your
+much esteemed favor of <date when="1829-05-27">27 May.</date> I regret that I was absent when
+you passed as I should have been happy to have seen you</p>
+
+<p>It gives me great pleasure to hear that you are bound to 
+<placeName>Philadelphia </placeName>for the purpose of consulting with the <persName>House </persName>in that City
+who are concerned with you in Colonization, and I flatter myself
+that an efficient impulse will be given to the <placeName>settlements </placeName>on <placeName>Trinity</placeName>
+by your exertions and those of your <persName>friends</persName>&#8212;there cannot be a
+doubt that individual profits, as well as much general good to the
+<placeName>country </placeName>will result from the settlement of the <placeName>section which has
+been assigned to you</placeName> to the <placeName>eastward of my Colony&#8212;</placeName> That section
+embraces a very interesting portion of <placeName>Texas</placeName>-&#8212;the <placeName>Trinity and
+Neches rivers run through it</placeName>, both navigable, and the former 
+discharges into <placeName>Galvecton Bay</placeName>&#8212; you will however obtain a more
+correct knowledge of its geographical position by examining my <placeName>map
+of Texas </placeName>which you can see by calling on<persName> Mr. Thos. F. Learning</persName> of
+that City to whom I have sent it.<pb n="227"/></p>
+
+<p><placeName>Texas </placeName>as a <placeName>Country</placeName>, wheither viewed with reference to its 
+geographical position, its soil, its climate, the number of its <placeName>rivers </placeName>and
+creeks of pure running water, its <placeName>Bays </placeName>and the variety, abundance,
+and value of its productions, may be advantageously compared with
+any portion of <placeName>north America</placeName>. This <placeName>country </placeName>has laid dormant for
+ages&#8212; It was the policy of the <persName>Spanish Govt </persName>to keep it out of view
+and to conceal, as much as possible, its natural advantages&#8212; The
+<placeName>grant </placeName>to my Father <persName>Moses Austin </persName>to settle a <placeName>colony in Texas </placeName>made
+by the <persName>Spanish Authorities</persName> in <date n="01-xx-1821">January 1821</date>, a few months before the
+independence of <placeName>Mexico</placeName>, was the first deviation from this policy
+that had ever occured. After the death of my <persName>father </persName>I explored the
+<placeName>country </placeName>in the <date n="Summer - 1821">summer </date>and <date n="Fall - 1821">fall of 1821</date>, and in the succeeding <date n="Winter - 1821">winter</date>
+and <date n="Spring - 1822">spring </date>commenced my <placeName>settlement </placeName>in the midst of its <placeName>wilderness</placeName>
+<placeName>on the Brasos and Colorado rivers</placeName> Since when the progress of the
+<placeName>new settlements</placeName> under the fostering hand of the <placeName>Republic of Mexico
+</placeName>has gradually developed the value of <placeName>Texas </placeName>and brought it into
+notice. The touch Stone of experience has been applied, and the
+result has shewn that our climate is healthy and pleasant, our soil
+productive beyond expectation, our seasons regular and rain 
+sufficiently abundant. Our <placeName>rivers </placeName>are navigable, and our <placeName>harbors </placeName>safe
+and of sufficient depth for all the purposes of commerce.</p>
+
+<p>When I entered <placeName>Texas </placeName>in the winter of <date n=Winter - 1821/1822">1821-22</date> with the first 
+<persName>emigrants</persName>, the idea of forming a <placeName>settlement in this remote wilderness</placeName>
+amidst <persName>tribes </persName>of uncivilized <persName>Indians</persName> was ridiculed by my best <persName>friends</persName>
+as visionary and impracticable&#8212; The value of the <placeName>country </placeName>was
+unknown or greatly doubted, and it was entirely uninhabited except
+by <persName>savages </persName><placeName>from the Sabine to the Towns of Bexar and La Bahi</placeName>a
+(now called <placeName>Goliad</placeName>) and those places were reduced to a weak state
+by the <persName>indian </persName>war Also at that time the <persName>Mexican Govt</persName> was in an
+unsettled and revolutionary state and it was beyond the calculation
+of the most judicious to say what shape or form it would ultimately
+assume. In answer to any doubts that may now exist as to the value
+of <placeName>Texas as a Country</placeName>, I would merely refer to what it was when I
+commenced, to the difficulties and impediments which retarded my
+progress and then ask, wheither I or any other person however
+great his perseverance may have been could have formed a 
+settlement of intelligent worthy and industrious <persName>north Americans</persName> in this
+<placeName>wilderness</placeName>, and that too without the aid of power full patronage or
+wealth,<hi rend="italic"> if the <placeName>country </placeName>itself had not afforded the strongest 
+inducements to emigration by its real and intrinsic value.</hi></p>
+
+<p>There is an immense opening in <placeName>Texas </placeName>for the establishment of
+<placeName>Cotton Manufactories</placeName>&#8212; The raw material is raised here in
+abundance and of superior quality.&#8212; Provisions are cheap and will
+daily become cheaper, there are numerous good situations for 
+Machenery and abundance of good oak, Pine, Cypress, Cedar, Ash<pb n="228"/>
+and other timber&#8212;the Tariff of <placeName>Mexico </placeName>causes a Domestics " to sell
+high and as the restrictive System appears to have become a part
+of the national policy, fair prospects may be calculated on for the
+manufacturer for Many years to come. [Deleted:] I would very
+freely engage in an establishment of this kind and nothing but my
+being tied down here with colonizing matters prevents my visiting
+the <placeName>north[ern] States </placeName>of that union with the view of trying to form a
+<placeName>large manufacturing company</placeName> in <placeName>Texas</placeName>.</p>
+
+<p>[Added In a copy&#8212;apparently made by J. E. B. Austin:] It will
+afford me much pleasure to become acquainted with the <persName>house in
+<placeName>Philadelphia</placeName></persName> with which you are concerned in colonization and to
+render them any aid in my power in forwarding the settlement of
+<placeName>Texas</placeName>.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1729">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Martin Allen to Stephen F Austin, 07-05-1829</title>
+            <author>
+                <persName>Martin Allen</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburg, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 225-226
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-07-05">07-05-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report on militia muster for campaign against Waco Indians. Discussion of Indian population of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harisburg </placeName><date when="1829-07-05">5th July 1829</date></p>
+
+<p><persName>Col Austin</persName></p>
+
+<p>Sir Agreeable to your order dated <date when="1829-06-23">23rd June</date> for the purpose of
+raising <persName>Volunteers</persName>; I Calld a muster of My <persName>Company </persName>on the <date when="1829-07-02">Second
+of this instant</date> and red your order to the <persName>Company </persName>and told them I
+was willing to go&#8212;but the Shortness of the notice and the want of
+Horses being in order and the extream hotness of the weather renders
+it all most imposable to fit out a Compaign at this time altho the
+<persName>men </persName>in My <persName>Company </persName>Seam to Show the greatest marks of Patriotism
+in defending ther <placeName>Country </placeName>but wish to be Commanded by <persName>american
+officers</persName>&#8212;I advised the men in my <persName>Companey </persName>to hold them selves in
+readiness to go as soon as horses Could be put in order. I gave it
+as my opinion that a Campaign would be fitted out altogather from
+this <placeName>Coloney</placeName>. and <persName>Capt Hiram</persName> informed me on his return from 
+<placeName>San-felip</placeName> that it is your opinion Also&#8212;at the time Your order arived
+here there was a large number of <persName>indians </persName>at this place and of different
+<persName>tribes </persName>there was <persName>Caddoes </persName><persName>Anadarkoes </persName><persName>Ieshes </persName><persName>Inies </persName><persName>Beedies </persName><persName>Coshaties</persName>
+and <persName>Delawares </persName>and <persName>Kickapooes </persName>they ware all friendley and Showed
+every mark of to remain so except the <persName>Kickpooes </persName>they purchased
+All the powder that was here and put off amediately&#8212;I was not at
+home my self when the <persName>Kickapooes </persName>was here or they Should not
+have goten any powder from this place I wish you to send me the
+Law relitive to Selling amunition to <persName>Indians </persName>that a Stop may be
+put to it in time, the <persName>Indians </persName>ware very inquisitive to know if the
+<persName>whites </persName>were going against the <persName>WayCoes</persName>, there <persName>Chiefs </persName>all apply to me
+for information as they had appointed me there <persName>white Chief</persName> as they
+term it&#8212;in place of there <persName>Greate Chief Capt Toolin</persName> of<placeName> Red river</placeName>
+I kept them as much in the dark as posable in order to Learn from
+them how the Different <persName>tribes </persName>Stood affected to wardes our <persName>inimyes</persName>&#8212;
+they seemed to All be against the <persName>waycoes </persName>except a part of the
+<persName>Caddoes </persName>who told me that the <persName>waycoes </persName>and them ware <persName>Friends </persName>which
+I believe to be the Case&#8212;I have Learnt a few days Since from a
+very Smart intilagent <persName>Coshatty </persName>who Stayed at my <placeName>hose </placeName>All night
+Directly from the <placeName>Villiege</placeName>&#8212;he informed me that a jenril <persName>Expedition</persName>
+was to be fitted out against the <persName>waycoes</persName>, of All the different <persName>Tribes</persName>
+<placeName>between the Brazors and Red river </placeName>nameley the <persName>Coshatties </persName>
+<persName>Alabammoes </persName><persName>Baluckshes </persName><persName>Chocktoas </persName><persName>Cherokees </persName><persName>Kickapooes </persName><persName>Caddoes </persName>and
+all the other Small <persName>tribes </persName>in ther vicinty he says they are to devide
+them Selves in different bands and all march at one time by different
+routs So that the enimy Can have no Chance of ascaping&#8212;he says
+they intend to kill all <persName>men </persName><persName>wimmin </persName>and <persName>Children</persName>&#8212;he says also they
+are to March in two moons&#8212;this <persName>Indian </persName>gave this information 
+without being able to have heard any thing from the <persName>Whites</persName>, relitive to<pb n="226"/>
+the expedition at preasant I think it would be good policy when
+there is an expedition on foot against the <persName>Waycoes </persName>or aney of them
+<persName>tribes </persName>to keepe it as much from the Knowledge of other <persName>indians </persName>as
+posable&#8212;there being so much Communication from one <persName>tribe </persName>to 
+another the <persName>waycoes </persName>and <persName>Caddoes </persName>ware friendly some years go to my
+own Knowledge&#8212;I was at a <placeName>Council of the Chiefs</placeName> of both <persName>tribes</persName>
+held with <persName>old Capt Toolin</persName> there greate <persName>Chief </persName>at Camp ty on <placeName>Red
+river</placeName> <persName>Capt Samul C Hiram</persName> informed me you are comeing over soon
+to go down on the <placeName>bay </placeName>I am going Down soon my self and would
+be very glad of your Company&#8212; I have an exelent Skiff for the
+purpose if she is sent home in time to repair her for the trip I lont
+her to <persName>Captain Scott</persName> when he Came on to Convey <persName>Misstriss Williams
+</persName>Down from this place as she was two weak to ride throng the hot
+sun I Should be very glad to be furnished with the Militia law
+as soon as is Convenient and also to know the cause of the 
+<persName>Commission[er]s</persName> not comeing on&#8212;Your order never reached my hand untill
+the <date when="1829-06-29">29th of June</date>&#8212;you will do me the favour to write to me as soon
+as is Convenient&#8212; I am Allways ready and ever have been to Serve
+My <placeName>Country </placeName>and My <persName>Friends </persName>and remains</p>
+
+<p><persName>Martin Allen</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

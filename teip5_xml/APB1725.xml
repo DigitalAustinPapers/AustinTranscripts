@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1725">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to Stephen F Austin, 06-09-1829</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mr Scott's house</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 221-223
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-06-09">06-09-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Shipping in Galveston Bay.
+Doctor Woodbury wants Austin's opinion about security of slaves in Texas.
+He says that Poinsett is interested in Zavala's contract to settle families in
+east Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>At <placeName><persName>Mr Scott</persName>s</placeName> <date when="1829-06-09">June 9th 1829</date></p>
+<p>My Dear Sir</p>
+
+<p>After much fatigue and some bruising the Eclipse has arrived
+safely at <placeName>Rightors point bar</placeName>. We got into <placeName>Galveston Bay</placeName> on 
+<date when="1829-06-03">Wednesday</date>&#8212;Came into the <placeName>Bay </placeName><placeName>by the S. W. Channel</placeName>&#8212;beat in and found<pb n="222"/>
+it a good passage 11 feet shoalest Cast&#8212;I think it first rate for all
+vessels not over 9 feet draft of water.&#8212;We touched slightly on two
+<placeName>bars </placeName>but got off without difficulty&#8212;beat up to <placeName>Redfish bar</placeName> on 
+<date when="1829-06-04">Thursday morning</date>&#8212;good <placeName>Channel </placeName>about 10 feet&#8212;from Thursday to 
+<date when="1829-06-07">Sunday evening</date> We were watching the bar <persName>John </persName>and myself sounded it
+all over&#8212;We found it staked out but as the water was low hoped to
+find a <placeName>deeper place</placeName> however We were disappointed&#8212;and on Sunday
+night and <date when="1829-06-08">monday morning</date> pressed and worried her over in 41/2
+feet water she drawing 5 1/2. <hi rend="italic">twont do</hi> except at full, and change
+tides, except for vessels of an easy draft. About the same water
+at <placeName>Righters point bar</placeName>,&#8212;<persName>Harris </persName>has gone up to <placeName>Harrisburg </placeName>and I
+expect the Eclipse will be discharged at the <placeName>point</placeName>&#8212;The freight for
+her was sent on in the Alert and the Eclipse will have to go in
+without freight&#8212;While we were lying at the <placeName>bar </placeName><persName>Doctors Woodbury</persName>
+and <persName>Cameron</persName> Came on <placeName>board </placeName>us I had some conversation with the
+former, he expressed much anxiety to receive a letter from you&#8212;he
+told me he had received the sanction of the <persName>Superioridad </persName>for the 10
+<placeName>litorales </placeName>adjoining you <placeName>Eastwardly </placeName>and <placeName>extending six leagues in
+the limitrofe</placeName>&#8212;Our friend <persName>hatchet </persName>faced <persName>Davy </persName>is too late&#8212;further
+he said this, a branch in <placeName>Mexico </placeName>he expected to interest a very wealthy
+House in <placeName>Phila</placeName>. and flatters himself with doing much for <placeName>Texas</placeName>&#8212;said
+much about the<placeName> Hacienda Nacional</placeName>, no money&#8212;no prospect except
+from <placeName>Gran Bretaña</placeName>, for which he thinks the <placeName>southern territory</placeName> will
+go&#8212;he says we shall soon be left to take care of ourselves&#8212;he 
+expressed very much anxiety to have your letter Contain, a sentence
+respecting the <hi rend="italic"><persName>Nagurs </persName></hi>about the security for introduction etc. had
+understood at<placeName> S. f. de A</placeName> and at other places on the road this side of
+<placeName>Bexar</placeName>, that they could be introduced, and would be secure&#8212;this
+opinion Came from you&#8212;he asked me many questions on the subject
+and said on account of yr known standing etc much weight would be
+given to any thing <hi rend="italic">U</hi>&#8212;said on the subject and wished you to be full
+on that point, alth° he did not wish you to enter into Compromisos&#8212;
+I enclose you his note,&#8212;<persName>Cameron </persName>also wished to hear from you&#8212;</p>
+
+<p>I expect <persName>Mr, Scott</persName> will go over about the <date when="1829-07-01">first of next month</date> to
+bring <persName>Sarah </persName>and the <persName>Children </persName>over here, and as it is probable that
+<persName>Gorge </persName>may be anxious to come likewise, and that you may not wish
+to use all the time about Town I wish you to get <persName>Mr. Ingram</persName> to stay
+there, and give <persName>Aunt mary</persName> instructions how to track.<pb n="223"/></p>
+
+<p><persName>Woodbury </persName>informed me that <persName>Poinsett </persName>was interested in the 
+Contract which had been made by the <persName>Govt </persName>to <persName>Zavala</persName>, I also in one on the
+<placeName>Guazacoaleo </placeName>and Complained much of having been interfered with
+by <persName>Poinsett </persName>in his Contracts with the Govt particularly in the 
+Contract for the <persName>litorales </persName>in front of his <placeName>Colony</placeName>&#8212; I presume that 
+<persName>Poinsett </persName>has been speculating in his official capacity to his individual
+benifit.</p>
+
+<p>I hope we will be off in a day or two, and am as ever yours</p>
+
+<p><persName>S M Williams </persName>   [Rubric]</p>
+<p><persName>S F Austin Esqr</persName>.</p>
+
+<p>[On margin:] Please write to <persName>Brown </persName>and request him to send up
+my saddle by some safe oppy.</p>
+
+<p><persName>S. M. W.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

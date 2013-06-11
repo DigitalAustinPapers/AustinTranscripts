@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1724">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Commodore David Porter, 09-08-1829</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-12">08-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Commodore David Porte(
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 220-221
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-09-08">09-08-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Welcomes Porter's
+application for a grant of land, which he forwards to the governor. Suggests
+study of State colonization law. Texas needs admission of slavery and 
+extension of tariff exemption for six years after 1830, when present exemption
+expires.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>St Felepe</placeName></p>
+
+<p>Your esteemed favr of the <date when="1829-04-10">10 April</date> came by the last mail and I
+rece'd it <date when="1829-06-07">yesterday </date>at this place together with the copy of your
+memorial to the <persName>President </persName>on the subject of a grant for seteling a
+<placeName>colony </placeName>in <placeName>Texas</placeName>, and meeting with <persName>Cap Pettet</persName> here in the <placeName>Schooner
+Santana</placeName> I improve the oppertunity to reply.</p>
+
+<p>I will enclose the memorial to the <persName>Govr of the <placeName>State </placeName></persName>by the next
+mail accompanied with a letter strongly recommending your 
+application, and and I think there will be no difficulty provided the 
+memorial to the <persName>President </persName>is granted so far as he has the power to grant
+it, I also recommend that you procure a letter from <persName>L. Z. [Lorenzo
+de Zavala]</persName> to the <persName>Govr </persName>and <persName>Lieut Govr</persName> of this <placeName>State</placeName>, I have 
+understood, indirectly, that <persName>Z.</persName> once had an idea of applying himself for
+the same section of <placeName>country</placeName>, wheither the information was correct
+or not I am unable to say, I believe that his standing with the
+<persName>authorities </persName>of this <placeName>State </placeName>is very good&#8212; a private or unofficial letter
+from <persName>Guerrero </persName>if such a thing could be procured would effectually
+secure the matter&#8212; The <persName>Senater Agustin viesca</persName> is a <persName>brother </persName>of the
+<persName>Govr </persName>Also the <persName>Deputy from this <placeName>State</placeName></persName> <persName>vicente Campos</persName> stands very
+well with the Govr. it perhaps might be well to cultivate their
+acquaintance etc.</p>
+
+<p>It will be necessary for you to examine the colonization law of this
+<placeName>State </placeName>passed <date when="1825-03-25">25. March 1825</date> in order to comprehend the nature of
+the system which this <persName>Govt </persName>have adopted in regard to the 
+colonization of the <placeName>vacant lands in the State</placeName>, and as you can easily procure
+that in <placeName>Mexico </placeName>by applying to <persName>Z</persName>. I do not now explain it at length&#8212;
+the law was published in the <placeName>Águila </placeName>about two years ago 
+Agreeably to the law and the system which the Govt have pursued your
+memorial ought to have stated the number of <persName>families </persName>you offered
+to introduce and settle within the limits applied for the law allows
+to the <persName>Empresario </persName><placeName>five Leagues and three labors</placeName> for each 100 <persName>families</persName>
+not exceeding 800.</p>
+
+<p>Should it be practicable for you [to] visit this <placeName>country </placeName>and 
+examine it particularly yourself before commencing the settlement of the
+<placeName>colony </placeName>I think it would be advantageous Capital can be profitably
+employed here, and perhaps a company might be formed which
+could command capital, and tend greatly to the advancemt of the
+<placeName>country </placeName>as well as being profitable to those concerned&#8212;<pb n="221"/></p>
+
+<p>The colonizing business has been in the highest degree laborious
+perplexing and harrassing to me and not profitable but I commenced
+in an entire <placeName>wilderness </placeName>and have had difficulties to work through
+which do not now exist&#8212; My object was to settle the <placeName>country </placeName>and I
+have kept that object in view much more steadily than the 
+advancement of my own fortune, I think that a sufficient foundation is now
+laid for the profitable investment of capital in various ways</p>
+
+<p>The <persName>Govt </persName>may easily make <placeName>Texas </placeName>a very flourishing and 
+advantageous <placeName>member of the confederation</placeName> it is now a dead weight&#8212; <placeName>Texas</placeName>
+once settled and the <placeName>whole of the frontier of the Rio Grande from
+New Mexico to Matamoros</placeName> would be effectually protected from the
+<persName>indians </persName>which would be an incalcutable advantage, The revenue
+which the commerce of this <placeName>country </placeName>could yield in ten years would
+be a very great object to the <placeName>nation</placeName>&#8212;</p>
+
+<p>There are some leading points of policy necessary for <placeName>Texas</placeName>.&#8212; Such
+as the admission of slavery and such a system of revenue and
+commercial regulations as will leave our trade free of duty for <date n="xx-xx-1835">five
+years after </date><date n="xx-xx-1830">1830 </date>when the present law of exemption expires. Should
+the restrictive system be continued in the<placeName> U. S.</placeName> <placeName>England </placeName>will no doubt
+receive <persName>Mexican </persName>cotton on advantagious terms</p>
+
+<p>Much might be said on this subject-&#8212; I think it is the true policy
+of this <placeName>nation </placeName>to have the most of their <placeName>work shops</placeName> in <placeName>Europe </placeName>for
+some years to come, and in the mean time give existence to the
+agricultural and planting interest for as yet it can scarely be said
+to exist except so far as is necessary for domestic use&#8212;</p>
+
+<p>[Stephen F. Austin.]</p>
+
+<p><date when="1829-06-08">8 june 1829</date></p>
+
+<p>[Austin to Governor Viesca:] Tengo el honor de elevar a V. E.
+la solicitud del <persName>comodoro Daniel [David] Porter</persName> en qe solicita se
+le concede una <placeName>colonia en Texas</placeName>, El <persName>Sor Porter</persName> es bien conocido y no
+cabe duda que adquirirle por <persName>ciudadano Cuahuiltejano</persName> sera de mucha
+ventaja al <placeName>Estado </placeName>y contribuirá touchissimo al fomento de la 
+población de los <placeName>desiertos de Texas</placeName>, en este concepto tomo la libertad de
+recomendar su solicitud con mucho interés y empeño&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
