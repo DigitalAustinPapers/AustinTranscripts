@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1331">
+xml:id="APB1352">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>James Hope to J. E. B. Austin, 02-16-1827</title>
+            <title>J. Cable to Stephen F. Austin, 03-28-1827</title>
             <author>
-                <persName>James Hope</persName>
+                <persName>J. Cable</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB1331">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-07-17">07-17-2010</date>
+            <date when="2010-07-19">07-19-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J. E. B. Austin
+                        Stephen F. Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB1331">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">unknown</placeName>
+                    <placeName type="origin">Nachitoches, Louisiana</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">Nacogdoches, Texas</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1602
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1621
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,36 +69,47 @@ xml:id="APB1331">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1827-02-16">02-16-1827</date>
+            <date when="1827-03-28">03-28-1827</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-07-17" who="#DL">Digital creation of XML file</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Asking for garden seed from Mexico.</add></p>
+            <p><add hand="#barker">Performance of certain commissions.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><date when="1827-02-16">Feby 16,1827</date></p>
+<p><placeName>Natchitoches</placeName>, <date when="1827-03-28">28th. March 1827</date>.</p>
+<p>Dear Sir,</p>
 
-<p>Dr SIR</p>
+<p>I reed your letter of the <date when="1827-03-23">23d. March</date> by <persName>Mr. John Cortes</persName>, and;
+Enclosed letter to <persName>M. Slocum</persName> <date when="1827-03-27">last evening</date> and <persName>Slocum </persName>has Put
+your name down as a <persName>subscriber </persName>to the <placeName>courier </placeName>and will Forwd__</p>
 
-<p>I understand that you have brought a few Garden and other seeds
-from the <placeName>Interior</placeName>&#8212;I should be happy if you could spare me a few
-of them, and should I be fortunate with them I will replace them
-again, or any other seeds that I have you can get with pleasure&#8212;
-please send them down by <persName>Capt Chriesman</persName> when he comes down.</p>
+<p>it as circumstances will admit&#8212; I have Inclosed two letters To
+<persName>Samuel M. Williams</persName> and some <placeName>News Papers</placeName> of late dates which
+may give you some news that you have not Recd. I forwd&#8212; them
+by a <persName>Mr. Wetherspoon</persName> stranger to me who is a going to <placeName>St. Phillipe
+De Austin </placeName>  there was no letters in our <placeName>Post Office</placeName> for you__</p>
 
-<p><persName>James Hope</persName></p>
+<p>I wish you would doe me the favor to send me some <placeName>Mexican
+News Papers</placeName> if you can Obtain them convenient, <persName>Mrs Cable</persName> wishes
+to be remembered to you&#8212;I am your friend</p>
 
-<p><persName>Mr-Brown Austin</persName></p>
+<p><persName>J. Cable</persName></p>
+
+<p>P. S. if you are in <placeName>Nacogdoches </placeName>when you receive this Please
+to tell <persName>John Durst</persName> th[at] his <persName>family </persName>is well&#8212;</p>
+
+<p><persName>J. Cable</persName></p>
+<p>[Addressed:] <persName>Col. Stephen F Austin</persName> <placeName>Nacogdoches Texas</placeName></p>
 
 
         </div1>

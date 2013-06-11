@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1337">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Kerr to Stephen F. Austin, 02-26-1827</title>
+            <author>
+                <persName>James Kerr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-19">07-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Major Philips
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Labaca Station, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Colorado, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1607-1608
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-02-26">02-26-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Movements of Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Station on the Labaca</placeName> <date when="1827-02-27">26th febuary 1827</date></p>
+<p>Dear sir</p>
+
+<p>I am sorry to be the herrold of bad news&#8212;<persName>Baptist Lacount</persName> came
+here <date when="1827-02-25">2 days since</date> who states that a very large band of <persName>Comanches</persName>,
+and <persName>Weehoes</persName>, had attacked <persName>Cahoe</persName>'s party of the <persName>lepans</persName>, and nearly
+all the <persName>tonkowas</persName>, on the <placeName>San Marcos rio</placeName> <placeName>about 9 miles above the Town
+of Gonzalez</placeName>&#8212;that the <persName>lepans </persName>and <persName>tonkowas </persName>were whiped with the
+loss of 5 or 600 horses, and that they retreated <placeName>down the river</placeName>&#8212;some
+of them (the <persName>lepans</persName>) are now at <placeName>Delions</placeName>&#8212;the <placeName>fort at Gonzales </placeName>was
+not finished, and what few men was there were in greate danger&#8212;
+some of them talke'd of leaving the place, another defeat in 
+attempting to settle the <placeName>Sn Marks</placeName> if not already, will soon take place.</p>
+
+<p>Inclosed you will have some certificates&#8212;I have call'd on the <placeName>Colo</placeName>,
+to make out certificates relative to . . . guns, and those that were in
+his charg, but [he has] not done so.<pb n="1608"/></p>
+
+<p>The <persName>people </persName>here seeme industrious, and are useing much exertions
+to plant corn etc they are all in good health. They are anxious that
+the <placeName>Colo</placeName>, should appoint some person as an <persName>agent </persName>in fact to manage
+his business------think of this------and perhaps you had better write to
+him&#8212;</p>
+
+<p>We have had a great [d]eal of rain; so much that we can not plant:</p>
+
+<p><persName>James Kerr</persName></p>
+
+<p>Note   Please write to me by the first opportunity</p>
+
+<p>[Addressed:] <persName>Colo S. Austin</persName><placeName> San felipe de Austin</placeName> Care of <persName>Major
+Philips </persName><placeName>Colorado</placeName></p>
+
+<p><date when="1827-02-26">26th February</date> <persName>Capt Lockhart</persName> has just came from <placeName>Gonzales </placeName>and
+[states] that, he quit surveying and joined the <persName>settlers </persName>and assisted in
+building the <placeName>fort</placeName>&#8212;that they resolved to keep the place etc and that
+they [are] planting corn there. Be will return <date when="1827-02-27">tomorrow</date>. Could a
+small piece of arteary [artillery] be obtained from the Govt, it
+would no doubt be of great utility to that place&#8212;would be glad if
+you would mention this to <persName>His Excellency the Chief of the 
+Department</persName>.</p>
+
+<p><persName>James Kerr</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1359">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas Corwin to Ira Lewis, 04-07-1827</title>
+            <author>
+                <persName>Thomas Corwin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-21">07-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ira Lewis
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lebanon,</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Natchez, Mississippi</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1627
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-04-07">04-07-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Collection of debt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lebanon </placeName><date when="1827-04-07">7th Ap1 1827.</date></p>
+<p>Dear Sir,</p>
+
+<p>I have been employed by the <persName>Administrators of Tobias</persName> ... to
+collect the debts of that <persName>estate</persName>, amongst others I find a due bill
+against you for $150&#8212; with about 4 years interest due thereon. My
+<persName>clients </persName>have requested that I should forward the note to some 
+person <placeName>in your neighborhood</placeName>, but as I knew yourself and no one else 
+in that <placeName>quarter</placeName>, I thought due to old acquaintance to let you know
+the claim was in my hands. If you will forward a draft to me or
+any person in . . . [illegible] with a request to some friend there to
+receive the note and pay the amot I will deliver the note to such
+<persName>person </persName>[upon re]ceiving the money &#8212; The <persName>Admrs </persName>[want] to settle
+soon and th[is is] the only claim not in suit &#8212; please to favor me
+with a reply by return of mail &#8212; How stands matters in your
+<placeName>country </placeName>in a professional way &#8212; Do you make fortunes at pleasure
+or are you languishing as we are here in the debts of humility Are
+you really all <persName>Jacksonians </persName>or not let me hear from you in regard
+to these matters.</p>
+<p><persName>Thos. Corwin</persName></p>
+
+<p><persName>Ira Lewis Esq</persName> <placeName>Natches Mississippi</placeName></p>
+
+<p>[Addressed:] <persName>Ira Lewis Esq Attorney</persName> at law <placeName>Natchez Missisippi</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

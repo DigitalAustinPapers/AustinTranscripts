@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1331">
+xml:id="APB1334">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>James Hope to J. E. B. Austin, 02-16-1827</title>
+            <title>Mateo Ahumada to Jess Thompson, 02-22-1827</title>
             <author>
-                <persName>James Hope</persName>
+                <persName>Mateo Ahumada</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,14 +26,14 @@ xml:id="APB1331">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-07-17">07-17-2010</date>
+            <date when="2010-07-19">07-19-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J. E. B. Austin
+                        Jess Thompson
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB1331">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">unknown</placeName>
+                    <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1602
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1605
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB1331">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Bill</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,36 +69,38 @@ xml:id="APB1331">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1827-02-16">02-16-1827</date>
+            <date when="1827-02-22">02-22-1827</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-07-17" who="#DL">Digital creation of XML file</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Asking for garden seed from Mexico.</add></p>
+            <p><add hand="#barker">Bill for military transportation.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><date when="1827-02-16">Feby 16,1827</date></p>
+<p><persName>Colonel Mateo Ahumada</persName> to <persName>Jesse Thompson Dr</persName></p>
 
-<p>Dr SIR</p>
+<p><date n="xx-xx-1827">1827 </date>To the Services of 2 teams 34 days from the <date when="1827-01-20">20 January</date> to <date when="1827-02-24">22d.</date></p>
 
-<p>I understand that you have brought a few Garden and other seeds
-from the <placeName>Interior</placeName>&#8212;I should be happy if you could spare me a few
-of them, and should I be fortunate with them I will replace them
-again, or any other seeds that I have you can get with pleasure&#8212;
-please send them down by <persName>Capt Chriesman</persName> when he comes down.</p>
+<p><date n="02-xx-1827">february </date>inclusive on Government Service at $12 per day_____$408.00</p>
 
-<p><persName>James Hope</persName></p>
+<p>To 12 days allowed for the return of my teams to the <placeName>Brazos </placeName>per
+Contract at 12$_________________________________________$144. 00</p>
 
-<p><persName>Mr-Brown Austin</persName></p>
+<p>$552. 00</p>
+<p>Cr. By Cash____________________________________________________     30.00</p>
+
+<p>Balance due______________________________________________$522. 00</p>
+
+<p><persName>Jesse B. Thompson</persName>,</p>
 
 
         </div1>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1351">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>M. Slocum to Stephen F. Austin, 03-27-1827</title>
+            <author>
+                <persName>M. Slocum</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-19">07-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nachitoches, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Ausitn, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1620-1621
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-03-27">03-27-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Disapproval of the insurgents. Purchase of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1827-03-27">March 27. 1827</date></p>
+<p>Dr.  Sir,</p>
+
+<p>I have thro the politeness of <persName>Mr Cable</persName>, recd your favour of the
+<date when="1827-03-21">24th inst</date>. It gives me pleasure to learn that you do not attribute
+to me bad motives for the course I have pursued relative to the late
+unfortunate troubles which have been brought upon your <placeName>province</placeName>
+by the late <persName>Fredonians</persName></p>
+
+<p>I can assure you that every <persName>person </persName>in this <placeName>place </placeName>is opposed to
+the conduct of these late <persName>renegades</persName>&#8212;and also throought the <placeName>U. S.</placeName>
+with the exception of a few who would be glad to embark in any
+course, however desperate and unprincipled&#8212;</p>
+
+<p>You have probably ere this heard the report that <persName>H. Clay, sec.
+of State</persName> has wrote to a <persName>Mr. Stockton, of <placeName>Virginia</placeName></persName> that the U. S,<pb n="1621"/>
+were in Treaty for the purchase of the <placeName>Province of Texas</placeName>&#8212;<persName>Mr.
+Clay</persName>, has denied ever having intimated any thing of that nature&#8212;
+If convenient I should be glad to obtain the Constitution of the
+<placeName>Province of Texas and Cohuila</placeName>, as soon as it is published for the
+purpose of republishing in English&#8212;Also any <persName>Mexican </persName>papers you
+may be able to spare for the purpose of translation I will send
+you nothern papers at every convenient opportunity, which I am
+in hopes I will be able to do regularly thro the kind aid of <persName>Mr
+Cable</persName>&#8212;</p>
+
+<p><persName>Milton Slocum</persName></p>
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p>P. S.   If you will send <placeName>papers </placeName>or any communications you may
+wish to make <persName>Mr. Durst</persName>, he will forward them on</p>
+
+<p><persName>M. S.</persName></p>
+
+<p>[Addressed:] <persName>Col: S. F. Austin</persName>, <placeName>Nacogdoches, Tex</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

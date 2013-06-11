@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1343">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Scott to Stephen F. Austin, 03-10-1827</title>
+            <author>
+                <persName>William Scott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-19">07-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Point Pleasant, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1612-1613
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="private"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-03-10">03-10-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Point pleasant</placeName>.<date when="1827-03-10"> March 10th 1827</date>.</p>
+<p>Dear sir</p>
+
+<p>In discharge of my duity which Charity calls for to assist a pore
+distresed and desolate <persName>widow </persName>with two <persName>orphants</persName>, who is toiling with
+Industry to maintain <persName>herself </persName>and <persName>children </persName>her situation language<pb n="1613"/>
+can't Express and God above onley knows her suffering, to think
+that <persName>Hunter </persName>should be permitted to destroy that pore unhapy <persName>woman</persName>
+by his persuading her to take some medisin, and she was sworn on
+trial, and she states that he was to cure her and the charge would not
+exced seven Dollars, he state there was no contract, but swore to his
+account and not supported by other evidence as I thought to find
+a Judgement there appears that by some stratagim or other there is
+an account put with the papers which was not on trial or before the
+<persName>arbitrators </persName>for near $30. and upon what grounds the <persName>arbitrators</persName>
+found a judgement I'm not able to judge, and at the rendition of
+the judgement an appeal was applyed for and the aplycation Entered
+I was to enter hir security, I started down to the coast and did not
+get back as soon as I expected on account of the weather when I
+returned the time of Ten days had relaps,d so that she cant get
+an appeal, the <persName>Alcalda </persName>informs me. If I have under stood your
+opinion we did not gow upon formality but to give Justice, and this
+case calls for Justice your absence has stop,d the <persName>widow </persName>from seeing
+you there can be more Evidence produced and when your honour
+Has the depositions before you you will be the better <persName>judge</persName>, repoart
+says [he] has produced to a petition to you that he is a sober <persName>man </persName>and
+so fourth if so it is not correct, if you have formed a good opinion
+of him you are mistaken in the man and you will be better informed
+I remain your most obedient Hbl, St</p>
+
+<p><persName>Wm Scott </persName>   [Rubric]</p>
+<p>[Addressed:] <persName>Coln S. F. Austin</persName> <placeName>San Philepi D Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

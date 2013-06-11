@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1345">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Sibley to Stephen F. Austin, 03-12-1827</title>
+            <author>
+                <persName>John Sibley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-19">07-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Col. Thorn
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nacogdoches, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1615-1616
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-03-12">03-12-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report that United States has acquired part of Texas. British designs on Cuba.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1827-03-12">March 12. 1827</date></p>
+<p>Dr. Sir.</p>
+
+<p>I had the pleasure to Receive your letter by <persName>Col Milam</persName> dated
+<placeName>Nacogdoches </placeName><date when="1827-03-04">March 4th</date>&#8212;for which I thank you. You say you
+had not Recd a packet I sent you by <persName>Mr. Dubois</persName> when I mentioned
+that to <persName>Col. Milam</persName> he informed me that <persName>Dubois </persName>had not arrived
+when he left you&#8212;I Embrace the Opportunity by <persName>Col Thorn</persName> of
+sending you a few <placeName>papers </placeName>to which Refer you for the news as we
+have it. several circumstances have Occurred corroborative of the
+Report of <placeName>Taxas </placeName>or some part of it being ceded to the <placeName>United States</placeName>
+it will in a short time be officially communicated<persName> Genl Gains</persName> left
+here <date when="1827-03-12">this Morning</date> we shall heare from him from <placeName>Baton Rouge</placeName>
+some new disposition of the <persName>U. S. Troops</persName> in this <placeName>quarter </placeName>will soon
+be made a <persName>Regiment </persName>probably will soon be Rendezvoued at 
+<placeName>Cantonment Jessup</placeName>&#8212; If it was possible for you to Remain in the
+<placeName>district of Nacogdoches</placeName> for a short time I have no doubt but you
+may be farther informed on that subject, it may be of great 
+Interest. Our <persName>Congress </persName>Rose the <date when="1827-03-04">4th of March</date> without finishing one
+half of the Business before them it may be necessary for the
+<persName>President </persName>to call the <persName>members </persName>together again before the Meeting
+Ordinary. Our Relations with <placeName>England </placeName>may Require it. There is
+some Reason to believe <placeName>England </placeName>may attempt to occupy <placeName>Cuba </placeName>that
+we cannot agree to, that Govt has already shut their <placeName>West India
+Ports</placeName> to our Vessels, they would do the same in <placeName>Cuba </placeName>did they
+command that <placeName>island</placeName>&#8212;<placeName>England </placeName>is now engaged in defending 
+<placeName>Portugal </placeName>against the agressions of <placeName>Spain</placeName>, when that affair is finished,
+which cannot last long they will be Looking Out for new 
+Employment for their immence Land and Naval forse, the Bermes
+War in <placeName>India </placeName>is settled.&#8212;</p>
+
+<p>I send you some More <placeName>News papers </placeName>There is a man leaving here
+by the name of <persName>John Williams</persName>, who says he lived some time in the
+<placeName>Trinity Bay</placeName>, he says he has a Grant from you of a League Square
+of Land you will oblige me if you will inform me if his Right
+is a good one and if he should transfer his Right if it would be good,
+and what formality would be required in Case of a sale. As I
+contemplate moving into that <placeName>Country </placeName>in some future time I feel
+Enclined to secure some Land for the Benefit of my <placeName>children</placeName>&#8212;Some
+suspension of our correspondence did take place. I am not 
+disposed to discuss the subject relative to who was in fault. I dislike
+to look backwards, much more than forward.&#8212;You will greatly
+Oblige me by attending to my demand against the State of <persName>John
+McFarlane</persName> I am told his place is valuable. I will take that in<pb n="1616"/>
+full discharge of my judgement provided by your Permission I can
+obtain a Right.&#8212;you will Add to my present Obligations to you
+If you will give me such information about it as the case will
+suggest to you I might wish to know. Our <persName>Legislature </persName>will rise
+this week, the <placeName>River </placeName>is in fine Steam Boating Order. I know of
+nothing important the <persName>Legislature </persName>has done It has been occupied
+much in private matters, giving the Right of granting divorces to
+the <placeName>District Courts</placeName>, and seperating the corporation of <placeName>New Orleans</placeName>
+are the principal things.</p>
+
+<p>If I could have known at what time you would have been at
+<placeName>Sabine </placeName>I certainly would have met you there, we wish much to
+have some arangement about our Exchange of Mails from <placeName>Mexico</placeName>&#8212;</p>
+
+<p>When you see your <persName>Brother </persName>please to present to him my 
+compliments and Best wishes. I wish he would write to me occasionally
+a correspondence with him would give me pleasure. I shall be
+glad to serve him and you in any way in my Power. I Expect
+<persName>Judge Johnston</persName> in three or four Weeks, his family will remain
+at <placeName>Washington </placeName>of course his visit to <placeName>Louisiana </placeName>will be short.
+</p>
+<p>John Sibley</p>
+
+<p><persName>Hon S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Honble. Stephen F. Austin </persName><placeName>Nacogdochis</placeName>-by <persName>Col
+Thorn</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

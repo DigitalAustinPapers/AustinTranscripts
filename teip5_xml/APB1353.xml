@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1353">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Ben Milam to Stephen F. Austin, 03-30-1827</title>
+            <author>
+                <persName>Ben Milam</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-19">07-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Natchitoches, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1621-1622
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-03-30">03-30-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Distressed at exclusion of slavery and at the admission of the Shawnee Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Natchitoches </placeName><date when="1827-03-30">March 30th 1827</date></p>
+<p><persName>Col Austin</persName></p>
+
+<p>Dr Sir I received your favor by <persName>Mr Cortis</persName> and am much 
+conserned in consequence of the many troubles and difficulties that
+appear to oppose the colonizing sistem<pb n="1622"/></p>
+
+<p>The manner in which the <persName>slave </persName>question is desided will be a grait
+objection to the <persName>American population</persName> and I fear will put a Suden
+stop to that population, that would be benificial to <persName>Embroserios
+[empresarios.]</persName> The <persName>shawnies </persName>you say is admited by an order of the
+Governor to become <persName>setlers</persName>, and I understand it corectly they have
+all the privaleges of other <persName>citizens </persName>in cais they cultivait the soil.
+If this be the cais we may bid adue to our antisapated pleasure for
+<persName>society </persName>never will improve under those circumstances</p>
+
+<p>As it respects the commercial arangement I was not able to do
+aneything definait I converst with <persName>Jas W Zacharia</persName> he I believe
+would Enter in to the business if he was sertain the <persName>parties </persName>was
+well acquainted with the Mercantile business</p>
+
+<p>I am of the opinion that it would be well for <persName>John Austin </persName>to visit
+<placeName>Orleans </placeName>give to <persName>Zacharia </persName>a fool [full] description of the <placeName>Country</placeName>
+and the prospects of traid and I have no doubt but he would advans
+to aney amount that would be required</p>
+
+<p>I only spent three days in <placeName>Neworleans </placeName>and had not an opertunity
+of completing the hole of my business and had not a decisive answer
+on yours whil in <placeName>Orleans </placeName>I received leter from <persName>wavell </persName>as lait as the
+<date when="1826-12-30">30 of December</date> he has much dificulty in making his aragements
+but says he will leave in a few weaks for this plais.</p>
+
+<p>As it respects the Extention of <placeName>teritory </placeName>I believe it has all blown
+over as there has been nothing said on the subject through the hole
+sesión of <persName>congress</persName>.</p>
+
+<p>I leave this in the <date when="1827-03-31">morning </date>for <placeName>pecoun pint [Pecan Point]</placeName>. A
+little Tristy in consiquens of the inducements Extended to the 
+<persName>Indians </persName>by the Government. I feare they will be a little troublesom
+to the <placeName>setelments </placeName>but I will distroy Every thing like discord as fair
+as is in my power and hope for a chainge a spedy chainge for the
+better</p>
+
+<p><persName>Ben E Milam</persName></p>
+
+<p>Give my respects to all <persName>friends </persName>and write as often as you have
+opertunity&#8212;the <persName>fredonians </persName>is all here rather under the wether
+[Addressed:] <persName>Col Stephen F Austin</persName> <placeName>San philipa de Austin Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
