@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1858">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Archilbald Austin, 02-24-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-19">08-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Archilbald Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 336-337
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-02-24">02-24-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advantages in Texas for Swiss immigrants.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Texas</placeName>.&#8212;It is a singular phenomenon that a <placeName>colony </placeName>of <persName>Americans</persName>,
+almost in the infancy of our <placeName>country</placeName>, should be planted on a <placeName>foreign
+soil</placeName>&#8212;there to establish our <placeName>institutions</placeName>, speak our language, practice
+our virtues, and cherish our religion. Although under a <persName>foreign
+government</persName>, it is impossible not to regard them as " bone of our bone
+and flesh of our flesh," and to feel an honest pride when we see them
+extending the influence of civilization and industry over a <placeName>territory</placeName>
+the most inviting perhaps on the face of the <placeName>earth</placeName>, but hitherto, only
+the abode of wild beasts and roaming <persName>savages</persName>. We have been
+favored with a letter from a <persName>gentleman long resident in <placeName>Texas</placeName></persName>, from
+which we make the following extracts :&#8212;</p>
+
+<p><hi rend="italic"><placeName>San Felipe de Austin</placeName>,<date n="02/24/1830"> Fed. 24, 1830</date>.</hi></p>
+
+<p>You ask me as to <persName>Swiss emigrants</persName>. They of all others would be most
+benifltted by a removal to <placeName>Texas</placeName>, The <persName>Government </persName>is highly in favour of
+<persName>Swiss </persName>and<persName> German emigrants</persName>, and they would be well received. They carry
+industry and peace wherever they go; and the <persName>Swiss </persName>in particular, would
+introduce the culture of the vine, and the making of wine. It is the decided
+opinion of some very intelligent <persName>Europeans </persName>who have visited this <placeName>country</placeName>,
+that its soil and climate are equal to the <placeName>best wine regions of France</placeName>. We
+have in fact every variety of soil, from the richest alluvion <placeName>on the margins of
+the rivers</placeName>, to the high and rich uplands;&#8212;-clay and sandy soils, and all possible
+varieties and intermixtures of them, and also rocky soils,&#8212;level, rolling, 
+undulating and hilly lands. There is a large portion of very black, sandy soil,
+having a clay foundation of eighteen inches to three feet in depth, which is
+surprisingly productive; and I perceived that land of this kind is covered
+with an excessive growth of wild Grape of very superior flavour to any other
+wild Grape I have ever met with.    Sugar, Cotton, Indigo, etc, will yield most<pb n="337"/>
+abundantly; and the crops are certain and less liable to casualties, than in
+<placeName>Louisiana</placeName>. Corn, Tobacco and Flax, have been tried with great success. The
+<placeName>upper part of the country</placeName> <placeName>on the Colorado and Brasos </placeName>is rolling and in places
+hilly. It is believed that wheat will succeed well in that <placeName>section</placeName>. None but
+substantial and useful <persName>emigrants </persName>are wanted or desired in this <placeName>country</placeName>;&#8212;Not
+as respects wealth, but as regards industry, moral character and habits, 
+education, enterprise and perseverance.</p>
+
+<p>The prospects here are <hi rend="italic">very good</hi> for enterprise and industry. The natural
+resources and wealth of <placeName>Texas</placeName>, in fertile lands, timber, pasturage, etc. are
+incomparably greater than any <placeName>country </placeName>I have ever seen. Its climate is mild
+and healthy, and it possesses abundant facilities for navigation, both <placeName>rivers</placeName>
+and <placeName>harbors</placeName>. We need nothing which nature could supply, but we do need
+population. We need <persName>agriculturists </persName>to develope the great advantages of our
+soil and climate. It is the settled policy of this <persName>Government </persName>to fill <placeName>Texas</placeName>
+with an <persName>industrial population</persName>, and to effect this object it has extended a
+degree of liberality to <persName>foreign emigrants</persName> which is altogether without a parallel.
+This liberality extends to all the sacred rights of security of <hi rend="italic">persons and
+property</hi>, which are primary considerations with all <persName>men</persName>; and also to every
+privilege and indulgence which any reasonable people could ask.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

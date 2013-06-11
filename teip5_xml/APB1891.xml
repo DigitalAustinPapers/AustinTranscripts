@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1891">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Edwin L Pettit to Stephen F Austin, 04-05-1830</title>
+            <author>
+                <persName>Edwin L Pettit</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-19">08-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 357
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-04-05">04-05-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting revolutionary conditions in Mexico. A bill has been framed by the Government to stop immigration to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>New Orleans April 5th 1830</p>
+<p>Dear Sir;</p>
+
+<p>By the Schr. Pocahontas which leaves this <date when="1830-04-06">tomorrow </date>for <placeName>Texas</placeName>
+I take liberty of writing you, and sending the <placeName>N. A. Review</placeName> 
+containing an interesting peice on <placeName>Texas</placeName>.&#8212; I have succeed in recovering
+the amt of the insurance on my Vessel and am anxiously waiting the
+next Vessel from <placeName>Vera Cruz</placeName> (which is hourly expected) to determine
+whether to proceed to <placeName>Mexico</placeName>, you are doubtless in possession of what
+is transacting in that <placeName>city</placeName>, and I presume that <persName>Genl. Teran</persName>, as well
+as the <persName>troops </persName>and the national Sch. of War, Mosque will have arrived&#8212;
+by the last accounts from <placeName>Vera Cruz</placeName>, It appears that a <persName>committee
+of Congress</persName> have reported a project of a Law (which If passed
+will violate the Public Faith in the instance of your contracts with
+the Government) to stop the Emigration of <persName>Americans </persName>to <placeName>Texas</placeName>,
+The Brig of war Bravo was also preparing for sea to arrive <placeName>between
+Tampico and Galveston Bay,</placeName> Between us in confidence from all
+I have been able to learn the <placeName>country </placeName>is very unsettled, the <placeName>States<pb n="358"/>
+of Yucatan and Tabasco</placeName>, have determined to split off unless a central
+Government is Established, and it is my opinion that <persName>Genl. Santa
+Ana</persName> is only waiting until the <persName>present administration</persName> becomes a little
+unpopular to raise a Grito, and place himself at the <persName>Head of the
+Republic</persName> as <persName>Dictator</persName>,&#8212; The <persName>present administration</persName> are taking
+some high handed Measures, at <placeName>Vera Cruz</placeName>, the <persName>Commandant of the
+Marine</persName> has been taken from his <placeName>station </placeName>and dismissed the service
+without even the form of a tryal, Commissions which were issued
+by <persName>Guerrero </persName>to <persName>privateers </persName>have also been taken from them when
+just ready to sail (after incuring all the Expense of fitting out) &#8212;
+Poor <persName>Thompson </persName>who went from this place to <placeName>Vera Cruz</placeName> recently
+has been arrested there and confined to the <placeName>Congresso 74</placeName>. and I
+am free to confess that I entertain some fears myself if I return
+that I my take up my summer quarters in the <placeName>Castle of San Juan
+de Ulloa</placeName> for overstaying my leave, however the next accounts will
+determine me, if I believe there is a probability of being arrested I
+shall be sent down by the <persName>consul </persName>as <persName>bearer of Dispatches</persName> for the
+<persName>Government </persName>which will protect me until my arrival in the <placeName>City
+of Mexico</placeName> where I can resign&#8212;</p>
+
+<p>Meanwhile old foolish <persName>Ferdinand </persName>is preparing another expidition
+to reconquer <persName>Mexico</persName>&#8212;8000, <persName>men </persName>have saild from <placeName>Cadiz</placeName>, to be 
+followed by 7000 more and also a new <persName>Governor for the <placeName>Island of
+Cuba</placeName></persName>, but it is doubtful, if they gett farther than <placeName>Cuba </placeName>for the
+present (unless they turn their attention to <placeName>Hayti </placeName>the <persName>President </persName>of
+which has Declared wars against <placeName>Spain</placeName>,) as I am told by some
+<persName>gentlemen </persName>recently from <placeName>Havana </placeName>that the <persName>Troops </persName>there manifest
+such a reluctance to embark for <placeName>Mexico </placeName>from the severe loss the last
+expedition sustained, that nothing short of a revolution will be the
+consequence if they are driven to the last extreemity&#8212; amongst
+other projects before <persName>Congress </persName>is one to repeal the law of <date n="xx-xx-189">last
+year</date> prohibiting the admission of foreign Cotton goods, so you
+may perceive that no dependence can be placed on the acts of the
+Goverment, the fact is Such a man as<persName> Santa Ana</persName> is much wanted
+at the Head of affairs, one who has energy enough to adhere to 
+measures when once adopted, and who will by the bayonet if it be 
+necessary, quiet the <placeName>country </placeName>and end this grito work,&#8212;</p>
+
+<p>I fear the law alluded to to stop emigration will pass&#8212; I do not
+presume to advise you what course to persue it would be 
+presumption in me to do so, but If I might be allowed to express an opinion
+it is that whatever may be done by the<persName> Present Party</persName>, no difficulty
+will exist when they go out to get things put on their proper and
+former footing by their <persName>successors </persName>who I think inevitably must be<pb n="359"/>
+<persName>Santa Ana</persName> or <persName>Guerrero</persName>, therefore it occurs that it would be most
+prudent to keep quiet for the present at least and watch how 
+affairs are going to turn&#8212; If I go to <placeName>Mexico </placeName>you may rest assured
+if I have any influence there it shall be exerted for you, and I shall
+certainly see <persName>Genl. Santa Ana</persName> before I leave that part of the 
+<placeName>country</placeName>.&#8212; and whatever course you may eventually adopt you can 
+depend on one person at least to act or suffer with you&#8212;</p>
+
+<p><date when="1830-04-07">April 7th</date> the Schr. Nimble so anxiously expected arrived <date when="1830-04-06">yesterday</date>
+and the accounts by her are very discouraging It is said that 
+<persName>Guerrero </persName>has taken the field, and that <persName>Genl. Montes de Oca </persName>and others
+have formed here not that this part is discouraging I alluded to
+such parts as interested myself. We have <placeName>Mexican papers</placeName> to the <date when="1830-03-19">19th
+Ult</date>. I see by the proceeding of <persName>Congress </persName>that the <persName>Eastern 
+department</persName> has been divided and a <persName>Commandancia General</persName> for the <placeName>State of
+Coahuila and Texas</placeName> will be Established at <placeName>San Antonio de Bejar.
+</placeName>That <persName>Troops </persName>are ordered from <placeName>different sections of the country</placeName>&#8212;
+to <placeName>Texas </placeName>quite from <placeName>Oajaca</placeName>, I am inclined to think if <persName>Guerrero </persName>assumed a prominent stand the <persName>troops </persName>or at least those the present
+party can rely on will be detained and I am not sure that the <placeName>Texas</placeName>
+story is [not] used as pretext for removing such part from the 
+<placeName>Capital </placeName>and <placeName>neighbourhood </placeName>as have not the confidence of the present
+gang&#8212;</p>
+
+<p>The <persName>Bravo Brig of War </persName>was still at <placeName>Vera Cruz</placeName>&#8212; <persName>Thompson</persName>
+sends me word not to come there at present&#8212;as I am entered as A
+<persName>deserter </persName>for overstaying my leave he is still arrested and is very
+like to continue so for some time&#8212; I think I shall go down and take
+the worst of it If I am quartered in the <placeName>Castle </placeName>this ensuing <date n="Summer - 1830">summer</date>
+I shall have one consolation at least, that I am out of the reach of the
+Yellow fever meanwhile by the next vessel that leave this for <placeName>Texas</placeName>
+You will be informed if I go and as I do not on any account mean to
+abandon my intentions relative to the <placeName>land </placeName>I applyed for I beg you if
+the grant has been received from the <persName>Governor </persName>to retain for me such
+as you may believe to be the best that can be located, and select for
+me as you may believe to be most desirable and I assure you I shall
+be satisfyed&#8212; If you deem my correspondence of any value I assure
+you I shall be extreemly happy to hear from you, and all letters 
+addressed to <persName>Mr. Breedlove</persName> will be forwarded to me whether I am to
+the <placeName>north </placeName>or <placeName>South</placeName>&#8212;and I will endeavour to be punctual&#8212;you will
+see that I have written this without much care or conections so I beg
+your indulgence of its numerous imperfections,&#8212;</p>
+<p><persName>Edward L. Pettit</persName>    [Rubric]</p>
+<p>To <persName>Col Stephen F Austin</persName>   <placeName>Texas</placeName>
+</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

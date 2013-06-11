@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1884">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Texas Gazette, 03-27-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-19">08-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Texas Gazette
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 351
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Editorial</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-03-27">03-27-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Benefits to be expected from Terán's military plans.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The latest information from <placeName>Mexico </placeName>gives a very favorable account
+of the state of public affairs, when compared with the events of the
+last six months.</p>
+
+<p>The 'Plan' of the Army of reserve,' at <placeName>Jalapa</placeName>, in favor of the
+Federal Constitution, and system of government, has been sanctioned
+by a decree of <persName>both Houses of Congress</persName>; and the <placeName>States</placeName>, in general,
+have taken a very firm stand to the same effect. This unanimity of
+public sentiment, once manifested throughout the <placeName>nation</placeName>, appeal's to
+have quieted party excitements; and the <persName>Constitutional authorities</persName>
+are busily engaged in restoring order and organization to the 
+different branches of the <persName>public administration</persName>.</p>
+
+<p>It is understood that <persName>His Excellency Gen. Teran,</persName> is shortly 
+expected in this <placeName>department</placeName>, with a respectable body of <persName>troops</persName>, intended
+for the protection of our <placeName>frontiers</placeName>.&#8212;The <persName>Tahaucana Indians</persName> have
+recently committed numerous depredations in the Vicinity of <placeName>San 
+Antonio de Bexar,</placeName> and are Daily becoming more insolent. The arrival of
+<persName>Gen. Teran</persName>, we make no doubt, will effectually check the predatory
+excursions of those faithless <persName>savages</persName>, and afford complete protection
+to the <placeName>settlements</placeName>. There is also much reason [on] the <placeName>frontier</placeName>
+to expect that important benefits will result to <placeName>Texas </placeName>from the 
+location of an <persName>officer </persName>in It, of the high military, scientific and moral
+character of <persName>General Teran</persName>.</p>
+
+<p>This effort of the <persName>government </persName>to protect and foster the infant
+<placeName>settlements </placeName>of this <placeName>remote member of the Union</placeName>, affords an 
+additional proof of the paternal care of the <persName>General Government</persName> towards
+the <persName>inhabitants </persName>of <placeName>Texas</placeName>.&#8212;If ever there was a <persName>people </persName>who have
+reason to be satisfied with their <persName>government</persName>, it is WE, the <persName>people
+of <placeName>Texas</placeName></persName>.                       </p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
