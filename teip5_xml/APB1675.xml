@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1675">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas White to Stephen F Austin, 01-31-1829</title>
+            <author>
+                <persName>Thomas White</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-10">08-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Franklin, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas, via Natchitoches, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 164-165
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1829-01-31">01-31-1829</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking information especially about social conditions and character of the colonists. Has heard disturbing reports about conditions on the Sabine border.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Franklin Louisiana</placeName> <date when="1829-01-31">31st Jan 1829</date></p>
+<p>Dear Sir</p>
+
+<p>As I contemplate becoming a <persName>resident of <placeName>Texas</placeName></persName>, I feel great
+solicitude about the nature of the population which will inhabit the
+country I have been informed that you permit no one to settle
+<placeName>within the limits of your colony </placeName>unless they produce vochers 
+sufficient to convince you that they possess a good moral character 
+indeed I beleive such is the law and I was truly glad to hear that
+you were disposed to rigidly inforce it&#8212; But I am fearful you
+may be imposed on for I do no of some very bad <persName>men </persName>who I have
+been told are going there. There are a number of <persName>criminals </persName>who
+after serveing in the <placeName>state prisons</placeName> who it is said when they are turned
+out look towards <placeName>Texas</placeName>. The <persName>planters </persName>here have a most desperate
+oppinion of the <persName>population </persName>there orriginating I presume from such
+<persName>vilains </persName>as has been driven from among them and who have taken
+shelter in that <placeName>province </placeName>There are others of my acquaintance whom
+I got acquainted with before I came to this <placeName>state </placeName>who I have 
+understood are now on their way there. I beleive they are from <placeName>Tennassee</placeName>
+and <placeName>Alabama </placeName>and I can assure you that I know no good of them
+I do not wish to make specific charges but be strict in your enquiries
+about character&#8212; I do not wish to mention names because I may see
+them when I arrive there-™ A Gentleman expects to leave <placeName>Attakapas</placeName>
+shortly for the purpose of exploreing your <placeName>country </placeName>If he gives a
+favourable report I shall certainly remove there and endeavour to
+carry along with me a numerous train of <persName>friends </persName>who I am sure
+you will find to be honest and industerous <persName>citizens </persName>and who will
+bring with them considerable <persName>property</persName>&#8212; The <persName>Gentleman </persName>above 
+alluded to feels some apprehension of danger of robery by <persName>persons
+liveing on the opposite side of the <placeName>Sabine river</placeName> </persName>from this and is
+waiting to get company to go with him a <persName>planter </persName>told me not long
+since that persons who stole his horses fled to the <placeName>Spanish country</placeName>
+meaning <placeName>Texas</placeName>. I mention these things to you to apprise you of
+the objections which the most respectable class of <persName>citizens </persName>have to
+comeing to your <placeName>county </placeName>thinking it probable that you would adopt
+some means to have those lawles <persName>fugatives </persName>from the laws of their
+<placeName>country </placeName>driven away from this <placeName>province </placeName>As it regards your <placeName>Colony</placeName>
+I have confidence in what I have heard that your intention is only
+to admit respectable <persName>persons </persName>But I am fearful that some persons
+haveing the appearance of gentlemen will impose themselves&#8212; I
+heard the other day of a<persName> man from <placeName>New York</placeName></persName> who says that he is
+an <persName>intimate friend of Bur </persName>going to <placeName>Texas </placeName>from what expressions
+which I heard he dropt I fear you will find him a restless sperit
+and perhaps a troublesome fellow&#8212;   Will you be so good as to write<pb n="165"/>
+me and let me know whether it is dangerous traveling on the <placeName>other
+side of the sabine</placeName> in consequence of <persName>Robbers</persName>&#8212; I have heard also that
+you have obtained an extension of your <placeName>colony </placeName>pray let me know
+at what time I could obtain land in it as I was informed that it
+was probable it would be ready for settlement this winter if that
+be the fact do let me know and the terms on which I could obtain
+lands for my self and five or six other <persName>families</persName>&#8212; I removed to this
+<placeName>state </placeName><date n="xx-xx-1828">last year</date> and have not purchased land yet&#8212; nor shall I 
+purchase largely untill I see your <placeName>country </placeName>or Know more about it from
+the <persName>Gentleman </persName>who is about to visit it</p>
+<p><persName>Thomas White</persName></p>
+<p>Ps</p>
+
+<p>I shall leave here in a few days for <placeName>St Martinsville</placeName> where I would
+thank you to write me</p>
+
+<p>Since writeing the within I have been told by a <persName>gentleman </persName>that
+there is liveing <placeName>near the sabine</placeName> a man by the name of <persName>William
+Knight</persName> who brok geoil here and frequently crosses the <placeName>river </placeName>and
+commits depredations on the <placeName>state of Louisiana</placeName> would it not be
+wise to send a <persName>force </persName>and detect him and his <persName>bandits </persName>I presume that
+the <persName>commander of the Mexican Troops at <placeName>Nacogdoches </placeName></persName>would order
+him and his <persName>gang </persName>arrested if information was given of the character
+of <persName>Knight and his associates</persName></p>
+
+<p>[Addressed:] <persName>Colo S. F Austin </persName><placeName>Natchitoches Louisiana</placeName> The
+<persName>post master</persName> will be so good as to foward this to <placeName>San Felipe de
+Austin Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

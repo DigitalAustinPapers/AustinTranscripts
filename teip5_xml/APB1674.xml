@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1661">
+xml:id="APB1674">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>George Tennille to J E B and J Austin, 12-xx-1828</title>
+            <title>Stephen F Austin to William Selkerk, 01-27-1829</title>
             <author>
-                <persName>George Tennille</persName>
+                <persName>Stephen F Austin</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,20 +26,14 @@ xml:id="APB1661">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="2010-08-09">08-09-2010</date>
+            <date when="2010-08-10">08-10-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
 
                 <person>
                     <persName type="recipient">
-                        J E B 
-                    </persName>
-                </person>
-
-                <person>
-                    <persName type="recipient">
-                        J Austin
+                        William Selkerk
                     </persName>
                 </person>
 
@@ -50,11 +44,11 @@ xml:id="APB1661">
                     <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">Matagorda</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 156
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 163
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -65,7 +59,7 @@ xml:id="APB1661">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Bill</channel>
+            <channel mode="w">Letter</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -75,59 +69,34 @@ xml:id="APB1661">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1828-12">12-xx-1828</date>
+            <date when="1829-01-27">01-27-1829</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="2010-08-09" who="#DL">Digital creation of XML file</change>
+        <change when="2010-08-10" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Bill and price list.</add></p>
+            <p><add hand="#barker">Instructions for surveying.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><date n="12-xx-1828">[December (?) 1828.]</date></p>
+<p><persName>Mr. Selkerk </persName>or <persName>Weightman</persName></p>
 
-<p><persName>Judge Tennel</persName> [George Tennille]</p>
-<p>Bot from <persName>J B and J. Austin</persName>&#8212;</p>
-<p>1/2 Doz Cups and Saucers @_ -  $1.00</p>
-<p>1/2 Doz Spoons_______        .50</p>
+<p>Dr Sir. We shall endeavor to find you at some place <placeName>on the coast
+</placeName>and wish you to fire the <placeName>prairie </placeName>at different places as you go along&#8212;
+In case we do not find you, I wish you to continue on the meanderings
+to the <placeName>forks </placeName>of <persName>Karankawy</persName>, and then go to <placeName><persName>John Brown</persName>s,</placeName> where you
+will find a letter of instructions                <persName>S. F. Austin </persName>   [Rubric]</p>
 
-<p>A Doz plates_ .37 1/2</p>
+<p><placeName><persName>Keller</persName>s</placeName> <date when="1829-01-27">Jany 27 1829</date></p>
 
-<p>1 lbs Tea&#8212;_______3.00</p>
-
-<p>1 Carving Knife&#8212;&#8212;__ 0.75</p>
-
-<p>1 Wilson Ditto____ 0.50</p>
-
-<p>1 Tea Pot Brittania__ 3.50</p>
-
-<p>6 lbs Sugar a 209___   1.20</p>
-
-<p>10 lbs Coffee @ 3 1/2___  3.75</p>
-
-<p>1  Bottle Mustard @ 4 1/2_____$0. 50</p>
-
-<p>2  Handkfs @ 75 and 5/8_____   1.37 1/2</p>
-
-<p>2 lbs Tobacco @ $2.00&#8212;_____ 10.00</p>
-
-<p>6 1/2 Yds. Hamdton Stripe @ 6 1/2_______  5.06 1/4</p>
-
-<p>2 lbs Powder @ $1.00&#8212;_____   2.00</p>
-
-<p>4 lbs Lead @ 25&#8212;&#8212;  1.00</p>
-
-<p>$35.51 1/4</p>
-
-<p><persName>Tennel</persName>'s Act with<persName> J. B. and J Austin</persName></p>
+<p>[Addressed:] <persName>Mr. Wm. Selkerk</persName> or <persName>E. R. Weightman</persName> <placeName>Matagorda</placeName></p>
 
 
         </div1>
