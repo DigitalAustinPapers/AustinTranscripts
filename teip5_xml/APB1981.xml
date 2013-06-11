@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1981">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas Barnett, 07-06-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas Barnett
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 442-444
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-06">07-06-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Order of court authorizing Austin to make a certain disposition of land belonging to his brother's estate,</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Department of<placeName> Bexar</placeName></p>
+<p>Jurisdiction of <placeName>Austin</placeName></p>
+<p>To the <persName>Citizen Thomas Barnett constitutional Alcalde of the 
+jurisdiction of <placeName>Austin</placeName>.</persName></p>
+
+<p>The petition of<persName> Stephen F Austin</persName> a Citizen of the Jurisdiction
+aforesaid, With respect represents that <persName>James E. B. Austin</persName> late
+of the Jurisdiction aforesaid died some time since leaving his 
+surviving <persName>widow </persName>and an infant male <persName>Child </persName>now aged about nineteen
+months. That at the time of the death of the said <persName>James</persName>, he held
+in his name an undivided <placeName>fourth part in a league of land </placeName>granted
+by the<persName> Mexican Government</persName> to <persName>Elias R. Wightman</persName>, lying at the
+<placeName>mouth of the Colorado River</placeName> and being the same part of which has
+been laid off by <persName>Elias R. Wightman,</persName> and <persName>persons </persName>interested into
+squares and lots with a view of fixing upon this same as a <placeName>town site</placeName>,
+Your <persName>petitioner </persName>further represents that the <placeName>fourth part of the said
+League</placeName> which is in the name of the said <persName>James E. B. Austin</persName> is really
+the property of your <persName>petitioner </persName>which he will make appear as soon as
+circumstances will permit and that the other three fourths are owned
+in unequal portions by<persName> H H League</persName>, <persName>Ira Ingram</persName> and the said <persName>Elias
+R. Wightman</persName>. The said League of land lying immediately at the
+<placeName>mouth of the Colorado River and partly on the Bay of Matagorda,</placeName>
+is thought to be an eligible situation upon which to fix a <placeName>town site</placeName>.</p>
+
+<p>That the persons now interested in the <placeName>said league of land</placeName> wish
+to associate themselves together for the purpose of laying off a <placeName>town</placeName>
+on said league by which it will be rendered more valuable and more
+immediately productive.</p>
+
+<p>That in order to effect this and enable him to act, he should be
+vested with power and authority to act and bind himself in his 
+<persName>representative capacity</persName> (so long as he acts in that capacity) as 
+<persName>administrator of the said James E. B. Austin </persName>deceased to do and perform<pb n="443"/>
+all and every act, Jointly with the other persons interested in the
+said league or with such others as may hereafter become legally
+interested therein with power and authority to sell lease or 
+otherwise bind the said land or make donations thereof. Jointly with
+the said other <persName>persons </persName>interested, and your <persName>petitioner </persName>prays such
+other and further relief in the premises, as from Equity, justice and
+law he may be entitled to and as in duty etc.</p>
+
+<p>(Signed)           <persName>S. F. Austin.</persName></p>
+
+<p><placeName>Austin </placeName><date when="1830-07-06">6th July 1830</date></p>
+
+<p>Department of <placeName>Bexar</placeName></p>
+<p> <placeName>Jurisdiction of Austin</placeName></p>
+Having read and maturely considered the facts stated in the
+foregoing petition and the evidence advanced in support thereof
+it is by reason thereof and of the law, and it having been made
+clearly to appear to my satisfaction that the <placeName>land </placeName>mentioned in
+the foregoing petition when laid off in part or in whole, into <placeName>town
+lots</placeName> will greatly increase the value thereof and will besides render
+it more immediately productive. It is therefore ordered, adjudged,
+and decreed that <placeName>Stephen F Austin administrator of the estate
+of James E B Austin </placeName>deceased be authorized and empowered and
+he is hereby authorized and empowered to form and connect himself
+into an association with the present <persName>owners </persName>of the league of land
+refered to in <persName>Plff</persName>. petition or with any other <persName>persons </persName>who may
+hereafter acquire an interest therein necessary to carry views of the
+said association into full and compleat effect having for object the
+establishment of a <placeName>town </placeName>on the said league of land&#8212;and in order
+to vest the said <persName>Stephen F Austin </persName>with full and compleat powers
+to do whatever may be necessary to the completion of the object
+set forth in the foregoing petition. It is further ordered adjudged
+and decreed that the said <persName>Stephen F Austin</persName> is hereby clothed with
+authority to sell transfer, lease, give or grant Jointly with the
+<persName>persons </persName>interested or who may hereafter become interested in the
+said league of <placeName>land</placeName>, any part or portion thereof, and it is further
+ordered and decreed that in order to effect the said object, and with
+a view to give regularity and permananey to said association of
+present and future <persName>owners</persName>, the said <persName>Stephen F Austin</persName> is hereby
+authorized and empowered to sign a constitution or charter for
+the government of the said <persName>association </persName>to make, agree to and consent
+to any rules or by-laws entered into by the said association of the
+present or <persName>future owners of the <placeName>said league of land </placeName></persName>which may
+be deemed necessary for their government. Signed with assisting
+<persName>witnesses </persName>as the law requires at my <placeName>offce </placeName>in the town of <placeName>San Felipe
+de Austin</placeName> this <date when="1830-07-07">seventh day of July in the year of Our Lord, 1830</date>,<pb n="444"/>
+
+<p>(Signed)   <persName>Thos.  Barnett</persName> assisting witness<persName> L.  Lesassier</persName> Assisting
+witness <persName>Samuel M. Williams</persName>,</p>
+
+<p>the words on first page "them" erased on second page the words
+"more valuable and" inserted, the third page the word "said"
+erased.</p>
+
+<p>I hereby Certify that I have carefully compared the foregoing
+copy with the original petition and decree in my possession and
+declare it to be an exact Copy of the original document.</p>
+
+<p><placeName>Houston </placeName><date when="1837-05-31">May 31, 1837</date></p>
+
+<p><persName>I. R. Lewis</persName> [Rubric]</p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

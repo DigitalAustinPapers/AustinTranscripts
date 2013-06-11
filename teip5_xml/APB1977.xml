@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1977">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Texas Gazette, 07-03-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Texas Gazette
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 437-440
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-03">07-03-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Calming popular apprehension over the law of April 6, 1830.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>We this day publish a translation of the law passed by the 
+National Congress, on the <date when="1830-04-06">6th of April last</date>, and also, the official
+letter of his <persName>Excellency General Manuel de Mier y Teran,</persName> to the
+<persName>Empresario of this colony</persName>.</p>
+
+<p>By an attentive perusal of the law it will be seen, that the 
+privileges granted in it relative to the coasting trade, and to the introduc-<pb n="438"/>
+tion of provisions and lumber free of duty into the <placeName>ports of Galveston
+and Matagorda </placeName>are of the highest importance to the prosperity of
+<placeName>Texas</placeName>, and must tend most efficiently to promote its rapid 
+advancement.</p>
+
+<p>The encouragement offered for the establishment of <placeName>manufactories</placeName>
+is also important, and there cannot be a doubt that many 
+enterprising <persName>capitalists </persName>will turn their attention to that branch of 
+industry. Perhaps no <placeName>country </placeName>combines more real advantages than
+are presented in <placeName>Texas </placeName>for the establishment of cotton and woolen
+<placeName>factories</placeName>. The raw material of the best quality can be raised in the
+greatest abundance, and cheaper than in any other part of <placeName>North
+America.</placeName> Our soil yields the most luxuriant growth of cotton of
+the best quality. Our natural <placeName>pasturage </placeName>for sheep, in the 
+<placeName>undulating and hilly sections in the northern parts of Texas,</placeName> are surpassed
+by none in any <placeName>country</placeName>; and countless thousands of them may be
+raised, with no other expense than a few shepherds. Provisions
+may be easily produced. Good situations for machinery, with water,
+steam, or ox power are numerous. Our <placeName>harbors </placeName>are sufficient for all
+the purposes of commerce. Our communications with the <placeName>Mexican
+ports</placeName> are open and unembarrassed. The <placeName>markets</placeName>, in those <placeName>ports</placeName>,
+are the best in the <placeName>world</placeName>, for the sale of cotton or other woolen
+goods, such as might be manufactured in <placeName>Texas</placeName>. In short, all that
+nature and a liberal and munificent government can do has been
+done, and nothing is now wanting but capital, enterprise and
+industry.</p>
+
+<p>The 10th. article of the law clearly secures the rights of the
+<persName>colonists </persName>who are already settled. It also guarantees the rights of
+all the <persName>emigrants </persName>who are comprehended in the contracts of 
+<persName>empresarios </persName>whose<placeName> colonies are established</placeName>, and permits the full 
+completion of such contracts, to the full number contracted for. So that
+emigration to the <placeName>colony </placeName>is not stopped as was erroneously rumored.
+The <persName>settlers </persName>who are not comprehended in any <placeName>colony</placeName>, may also be
+provided for, as will be seen by reference to the powers granted to
+the General Government [Commandant] in the 3rd article.</p>
+
+<p>The official letter of his<persName> Excellency General Teran,</persName> the 
+<persName>commissioner of the General Government</persName>, under the 3rd article, is very clear
+and explicit, as to the interpretation of the law, and as to the just
+and liberal views of the General Government, under whose 
+instructions he is acting.</p>
+
+<p>The name of this distinguished <persName>patriot </persName>and scientific <persName>general </persName>is
+closely connected with some of the most interesting events in <persName>Mexican</persName>
+history. A <persName>soldier </persName>under the banner of freedom from the first epoch
+of the revolution, he has uniformly been a firm defender of the rights
+of his <placeName>countrymen</placeName>.   As a <persName>legislator in the first constituent congress</persName>,<pb n="439"/>
+his voice was raised in opposition to despotism and in favor of a
+free, liberal and constitutional government. As <persName>secretary of war</persName> he
+established system and organization in the army after the convulsions
+of the <persName>Emperor</persName>'s short reign. At <placeName>Tampico </placeName>the <persName>invaders </persName>of his
+<placeName>country </placeName>sank before his military genius, and received from his
+humanity that protection and succor which their prowess could not
+secure to them. As <persName>commandant general of the eastern military
+department and commissioner of the General Government for 
+regulating the colonies of Texas</persName> and establishing new ones, he will 
+provide for the defense and permanent security of <placeName>Texas </placeName>from the
+<persName>Indians</persName>, and lay a foundation for such additional colonial 
+<placeName>establishments </placeName>and <placeName>maritime towns</placeName> and fortifications as may be necessary
+to advance its prosperity.</p>
+
+<p>The section of <placeName>country east of this colony</placeName> and particularity the
+<placeName>Nacogdoches </placeName>and <placeName>Ais district</placeName>s, demand the prompt attention of
+government. The land affairs of those sections require adjustment,
+and a totally different organization of the local government is much
+needed. Instead of having the whole civil and judicial power of
+the <persName>local government</persName> vested in <persName>alcaldes </persName>elected annually, it would be
+better to have a separate <placeName>partido </placeName>laid off with a <persName>chief of partido</persName>,
+and in addition to the <persName>alcaldes </persName>there ought to be a <persName>juez de letras, or
+judge learned in the law</persName>, appointed in the manner prescribed in the
+constitution, with a salary to insure a man of talents and 
+qualifications. It is sufficient to merely know how the <persName>local government</persName> of
+that section of <placeName>country </placeName>is and always has been organized to 
+understand the causes of all the little <placeName>local </placeName>difficulties which have arisen
+there. It cannot be supposed that an <persName>alcalde </persName>annually changed and
+elected by popular vote from the mass of a people speaking a variety
+of languages and who are themselves in general ignorant of the
+laws should be capable of discharging so important and responsible
+a position as that of a <persName>judge</persName>, whose jurisdiction embraces the 
+investigation of all matters of controversy and all criminal cases without
+limit. Under three hundred dollars his jurisdiction is final, over
+that sum there is the right of appeal to the <placeName>supreme court at Saltillo</placeName>,
+<hi rend="italic">six hundred miles distant</hi>. The <persName>alcaldes</persName>, however, cannot give final
+judgement in any important civil case and in no capital criminal
+case, without first consulting the <hi rend="italic"><persName>assesor general</persName></hi>, or <persName>attorney general
+</persName>who lives at <placeName>Saltillo</placeName>. It is very evident that such a system cannot
+secure to the people, nor to the government the benefits which 
+organization and regular administration of the laws are designed to 
+produce. The objections to the present <persName>alcalde </persName>system will apply more
+or less to every part of the state, and are very evident. They are
+severely felt here as well as elsewhere, for although the public 
+tranquility has never been interrupted in this <placeName>colony </placeName>from its first<pb n="440"/>
+establishment up to the present time, yet great individual 
+inconvenience is daily experienced from this mode of administration of
+the laws.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

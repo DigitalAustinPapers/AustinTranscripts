@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1978">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 07-04-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-23">08-23-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 440
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-07-04">07-04-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Assuring him that Texas affairs are clearing up.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austin </placeName><date when="1830-07-04">July 4. 1830</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I embrace an opportunity to say to you that all the difficulties
+which appeared to be brewing when you were here have passed away,
+and everything is going on well, and emigration to my <placeName>colony </placeName>will
+not be stoped&#8212; I have given you this information least what you
+see in the <placeName>U. S. papers</placeName> should cause you to forget what I told you,
+which was to have faith in me, and to pay no attention to any thing
+you saw or heard that did not come from me&#8212; I know more about
+these matters than the <placeName>news papers</placeName> and every thing has happend
+exactly as I told you it would, when you left here.</p>
+
+<p>The <placeName>custom house at Galveston</placeName> is suspended by order of Govt.
+and the reason given is that the exemptions from duties in favor of
+the <persName>colonist </persName>of <placeName>Texas </placeName>has rendered it unnecessary to establish any
+<placeName>custom houses</placeName> here for the present&#8212; All goes on well, very well,&#8212;
+Take care tho and bring no Tobacco, except a little of choise quality
+to chew for the use of the <persName>colonists</persName>, and try and get in by the <date when="1830-12-01">1 of
+December</date></p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+
+<p>I have sent a copy of the above to <persName>price and Morgan</persName> <placeName>Phia </placeName>I have
+engaged the building of a <placeName>house </placeName>in this place for you to winter in and
+a <placeName>store room</placeName> etc&#8212; bring all manner of peach seeds and a barrel of
+them&#8212;<persName>Sam Browne</persName> is well and more and more pleased with the
+<placeName>country </placeName>the more he sees&#8212;-   remember me to the <persName>children</persName></p>
+
+<p><persName>A </persName>[Rubric]</p>
+
+<p>[Addressed:]<persName> Mrs. Emily M. Perry </persName> <placeName> Potosi   Missouri</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
