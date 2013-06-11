@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1326">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Arthur McCormick, John R. Harris to Stephen F. Austin, 11-09-1826</title>
+            <author>
+                <persName>Arthur McCormick, John R. Harris</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-17">07-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburg, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1498-1499
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-09">11-09-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harrisburg</placeName>, <date when="1826-11-09">Nov 9 1826</date></p>
+<p><persName>Col. Stephen F Austin</persName></p>
+
+<p>Dear Sir&#8212;Permit me to trouble you for the following 
+information, what is the Law or practice in this <placeName>Country </placeName>in regard of a
+<persName>Physician </persName>Proveing his accounts, can he prove it by his own Oath<pb n="1499"/>
+or not. the reason of my making the inquiry is. <persName>Hunter </persName>has
+brought a Suit agt the <persName>widow McCormick</persName> for a Medical Bill and she
+insists on his proveing his demand but will not consent to his oath,
+being taken in evidence against her, <persName>Hunter </persName>has also brougt suit
+agt her on a note, given by <persName>Her Husband</persName> to <persName>Hunter </persName>for surveying,
+she object to the payment of the note, in consequence of there being
+exceptions made to the Survay by you, and she says she never has 
+received her Deed out of the <placeName>office </placeName>in consequence of <persName>Hunter </persName>lines being
+wrong, according to your request I have Taken a bond from 
+<persName>Hunter</persName>, with security for three Hundred Dollars, conditioned to resurvey
+all the lines that are wrong.   I send you a copy of the note</p>
+
+<p>On or before the first day of <date n="12-xx-1825">December next</date> I promise to pay to
+<persName>Johnson Hunter</persName> or order forty Eight Dollars in Cattle to be rated
+at current prices for such cattle when paid if the <persName>parties </persName>disagree
+on the price they shall select two <persName>men </persName>to decide for them it being
+for surveying of my <placeName>Land</placeName>, and if the survey is not accepted this
+shall be void otherwise to remain in full force and virtue against me
+Witness my hand this <date when="1824-12-01">first day of December 1824</date>.</p>
+
+<p><persName>Arthur McCormick</persName></p>
+
+<p>Attest</p>
+
+<p><persName>Danil. E. Battless</persName></p>
+
+<p>I will thank you for an answer between this and the <date when="1826-12-02">first Saturday
+in December</date>&#8212;I send you by <persName>Mr Moore</persName> all the Terpentine that I
+can procure at this time. If I had of known of it when the weather
+was warm. I could of procured any quantity of it; after the recpt of
+<persName>Mr Williams</persName> letter I bored several Trees, but the weather was to
+could, for the Turpentine to run</p>
+
+<p><persName>John E. Harris</persName>    [Rubric]</p>
+
+<p>[Austin's reply&#8212;filed with Austin to Saucedo, December 16,
+1826:] After an examination of the documents sent up to me by
+you in the case of <persName>Hunter </persName>vs the <persName>widow McCormick</persName> I have deemed
+it due to justice to order that you should admit the application of
+said <persName>widow </persName>for an appeal taking the security required by the 
+regulations and that a regular transcript of the whole proceedings should
+be sent up by you to the<persName> Superior Court</persName> of this <placeName>colony</placeName>&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

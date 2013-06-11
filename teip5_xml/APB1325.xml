@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1325">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Ayuntamiento of Bexar, 11-07-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="1826-07-17">07-17-1826</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ayuntamiento of Bexar
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Bexar, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1495-1498
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-07">11-07-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="1826-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Interpretation of law exempting colonists from tariff duties.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>A letter I have just received from the <persName>Empresario Green De Witt</persName>,
+dated from <placeName>La Vaca Bayou</placeName>, apprizes me of a disagreeable occurrence
+which took place there relative to the seizure of a cargo of goods
+consisting, principally of flour, corn, coffee, whiskey and dry goods.
+by virtue of the decree of <date when="1824-05-20">May the 20th 1824</date>, in relation to 
+contraband articles. I understand that this cargo was purchased at <placeName>New
+Orleans</placeName> by its <persName>owners </persName>for the purpose of assisting the <persName>colonists</persName>
+of that <persName>Empresario</persName>, at the commencement of his establishment, under
+the impression that the law permitted the introduction of such goods
+for the consumption of the <persName>people </persName>of <placeName>Texas</placeName>.</p>
+
+<p>I candidly state, that, with the decree of the Sovereign Constituent
+Congress, N° 141, of <date when="1823-09-29">September the 29th 1823</date>, and the Colonization
+law in my hand, I should, without the least hesitation have 
+introduced the same goods that have been seized; as well for my
+own consumption as for the purpose of selling them to the <persName>people</persName>
+of <placeName>Texas</placeName>. The above mentioned decree clearly declares, in the most
+specific terms, the object and intention of <persName>Congress </persName>in passing it.</p>
+
+<p>The text of the decree is as follows:</p>
+
+<p>"The Sovereign Mexican Congress, taking into consideration the
+deplorable situation to which the <placeName>Province of Texas </placeName>has been 
+reduced by <persName>Indian </persName>hostilities, and in order to give partial relief to
+the destitute condition of her <persName>civilized people</persName>, have determined upon
+decreeing, and do hereby decree, that all goods of what class soever,
+whether home products, or foreign, introduced in the <placeName>Province of
+Texas</placeName>, for the consumption of her <persName>people</persName>, shall be free from taxes;
+and the exemption shall continue in force for the term of seven
+years, from the date of the publication of this decree in the <placeName>capital
+of said province</placeName>."</p>
+
+<p>Now the object of that decree, was "to give a partial relief to the
+destitute condition of her <persName>people </persName>" by granting them certain definite
+privileges, for a limited term; to which <persName>Congress </persName>considered them
+entitled in consequence of their sufferings and "the deplorable 
+situation to which they were reduced by <persName>Indian </persName>hostilities." It is
+therefore obvious, that the object of <persName>Congress </persName>was to encourage the
+<persName>people </persName>of <placeName>Texas </placeName>by granting a well determined and clearly defined
+privilege, an absolute right, without restriction or reservation 
+whatever, except limitation of the term to seven years, during which this
+favor is to continue; and this very limitation to a specific term, is,
+in my opinion, indisputable proof that the object of <persName>Congress </persName>was to
+grant and guarantee to the <persName>people </persName>of <placeName>Texas </placeName>the full enjoyment and
+benefit of the privileges of said decree during that term, without any
+reservation of the power to rescind it by another decree, unless in<pb n="1496"/>
+cases of abuse, or such criminality on the part of her people as would
+place them without the pale of any law. For instance, if <persName>Congress</persName>
+for sufficient reasons, had, by decree, granted to an <persName>individual</persName>, (let
+us suppose a <persName>resident </persName>of <placeName>Bexar</placeName>) an exclusive right, or privilege to
+manufacture powder, or paper, or to introduce, for a limited period,
+certain goods free from taxes; and, subsequently by a general 
+decree, should prohibit the concession of such privileges to any person;
+can it be supposed that the local <persName>authorities </persName>of <placeName>Bexar</placeName>, would consider
+as annulled, by this latter decree, the special favor granted to that
+individual by the former, without any abuse of the privilege on his
+part?</p>
+
+<p>There cannot exist more general and at the same time more 
+explicit terms, than those of the decree of <date when="1823-09-29">September the 29th 1823</date>, it
+says: " all goods of what class soever, whether home products, or
+<persName>foreign</persName>;" which includes anything whatever, any production of
+every part of the <placeName>world </placeName>" that may be introduced in <placeName>Texas</placeName>." That
+is to say, not only by her own <persName>inhabitants</persName>, but by any other person
+having the right to trade with the <persName>Mexicans </persName>and to enter their 
+<placeName>territory</placeName>. " For the consumption of her <persName>inhabitants</persName>," that is to say,
+not only for the consumption of the <persName>individual </persName>who may introduce
+them, but, also, for the <persName>purchaser</persName>, if he is a <persName>resident of <placeName>Texas</placeName>.</persName> To
+pretend that the <persName>individual </persName>who goes personally to <placeName>New Orleans</placeName>, or
+any other place, to buy flour, coffee, sugar, etc., for his own 
+consumption, has the right to introduce these goods, but not to sell
+them to his <persName>Texian neighbor</persName> appears to me to be unjust, and 
+oppressive, repugnant to the system that rules us and to the Constitution
+in every sense, because it amounts to a declaration that the <persName>rich</persName>
+possess rights the <persName>poor </persName>are not to enjoy; that the <persName>rich man</persName>, who can
+take his gold and silver to purchase his necessaries in <placeName>foreign 
+countries</placeName>, can introduce whatever he pleases, and live in luxury; while
+the <persName>poor man</persName> who earns four reals a day by his labor, or by that
+of his mules, horses, or mares, with which he could each day parchase
+from a <persName>merchant</persName>, the flour, sugar, etc., necessary for the subsistence
+of his <persName>family</persName>, is deprived of the use of those indispensable articles
+because he has not a sufficient capital to absent himself from the
+<placeName>country </placeName>and to introduce them expressly for his own consumption.
+If a broad construction of this measure is recognized, it appears to
+me, that the fundamental principles solemnly acknowledged, and
+guaranteed by the Constitution, that all free <persName>citizens </persName>are to enjoy
+equal privileges and to be equal in the eyes of the law, is a nullity and
+a mockery.</p>
+
+<p>This is a very important matter, particularly to the <persName>older 
+inhabitants </persName>of <placeName>Texas</placeName>, who have been so long exposed to the depredations
+and hostilities of the <persName>Indians</persName>.   <placeName>Texas</placeName>, does not, at present, produce<pb n="1497"/>
+in sufficient quantities for her own consumption, flour, sugar, rice and
+many other articles; she has not a sufficient number of <persName>curriers</persName>, 
+<persName>shoemakers</persName>, <persName>hatmakers</persName>, <persName>tailors </persName>and other <persName>tradesmen</persName>; she has no <placeName>cloth
+factories</placeName>; and cannot expect to have any for some years to come, for
+want of <persName>hands </persName>and capital. A communication with the other <placeName>States</placeName>
+which might supply her with these articles, cannot be conducted
+without an escort of <persName>troops </persName>for protection against the <persName>Indians</persName>. All
+this was certainly well understood by the <persName>Sovereign General 
+Congress</persName> when they passed the decree referred to, and their object was,
+obviously, to admit from <placeName>foreign countries</placeName>, all the articles required
+by the <persName>people of <placeName>Texas </placeName></persName>until she extricated herself from her 
+unfortunate situation. <placeName>Texas </placeName>is now in the condition she was at the time
+of the publication of the decree of <date when="1823-09-29">September the 29th 1823</date>, and all
+the motives that urged <persName>Congress </persName>to grant the privileges contained in
+said decree, still exist to the same extent. Therefore, taking into
+consideration the text of the decree, and the evident intention of the
+<persName>Sovereign authority</persName> that made it, it appears to me that justice and
+the welfare of <placeName>Texas</placeName>, alike demand that the decree of <date when="1824-05-20">May the 20th
+1824</date>, which prohibits the introduction of certain articles, should not
+be so construed as to abrogate or in any wise impair, diminish, or
+change the decree of <date when="1823-09-29">September the 29th 1823</date>; and, that, by virtue of
+said last mentioned decree, any goods not coming from an <placeName><persName>enemy</persName>'s
+country </placeName>may be lawfully introduced into <placeName>Texas </placeName>by the <persName>citizens of
+any <placeName>nation </placeName></persName>at peace and in friendly relations with our <placeName>Republic</placeName>;
+and be sold to the <persName>people </persName>for their own consumption, agreeably to the
+letter and spirit of said law of <date when="1823-09-29">September the 29th 1823,</date> and the 
+intention of the <persName>sovereign Constituent Congress</persName> which was evidently to
+grant to the <persName>people of <placeName>Texas </placeName></persName>the liberty of introducing " all goods
+of any class whatever, whether home products or <placeName>foreign</placeName>," free of
+taxes for the term of seven years from the publication of the decree
+at <placeName>Bexar</placeName>. Indeed, if we admit the principle that a subsequent law
+may deprive the <persName>people </persName>of a portion of that favor we must also
+admit that they can be deprived of the whole. The law of <date when="1824-05-20">May the
+20th 1824</date>, on prohibited goods, and other laws published subsequently
+to the decree of <date when="1823-09-29">September the 29th 1823</date>, establish the taxes to be paid
+on goods introduced into the <placeName>Mexican Republic</placeName>. Now, why are these
+laws not extended to <placeName>Texas</placeName>; and why is it not declared that the
+goods introduced into <placeName>Texas </placeName>shall pay the same taxes as in other
+<placeName>sections of the country</placeName>? Why is the law establishing the tariff of a
+date posterior to that which exempts <placeName>Texas </placeName>from taxes? it occurs
+to me that it is as natural to give this construction, as to hold that
+goods are prohibited by a general law published subsequently to the
+law which grants the particular privilege of introducing them into
+<placeName>Texas </placeName>free from taxes "all goods, whether home products, or 
+<placeName>foreign</placeName>."   Furthermore the law of <date when="1824-05-20">May the 20th 1824</date>, makes no mention<pb n="1498"/>
+of that of <date when="1823-09-29">September the 29th 1823</date>, and does not declare that it is
+annulled. It must also be observed that the law of <date when="1823-09-29">September the
+29th 1823</date>, is a special law, concerning a <placeName>single province</placeName>, and not a
+general law; consequently if the object of <persName>Congress </persName>at the time of
+passing the law of<date n="05-0-1824"> May the 20th 1824</date>, had been to annul the prior
+law, it would certainly have been expressly stated, and be 
+accompanied by a declaration of the reason for its abrogation. Indeed, a
+particular and special privilege is as sacred a right as that of 
+property, which <persName>Congress </persName>would never withdraw without well grounded
+motives, nor without stating their reasons for doing so in the 
+preamble.</p>
+
+<p>The seizure of the cargo at the<placeName> mouth of La Vaca Bayou</placeName> is a 
+matter of great importance. As I understand, a part of this cargo was
+intended for the new <persName>settlers</persName>, and was necessary for their 
+subsistence ; and the other belonged to some <persName>merchants </persName>of the <placeName>United States
+of the North</placeName>, who came to trade with the <persName>Mexicans </persName>in <placeName>Texas</placeName>, in the
+belief that the law of <date when="1823-11-29">September the 29th 1823</date>, was still in force.
+That seizure withholds from the <persName>settlers </persName>indispensable provisions;
+and the <persName>citizen </persName>of a friendly and allied <placeName>nation </placeName>is deprived of his
+property. He will, undoubtedly, make his complaint to his 
+government, which will inevitably result in disagreeable demands on the
+part of that government.</p>
+
+<p>The <persName>people of <placeName>Texas</placeName></persName>, in their present condition, must possess the
+full and unrestricted enjoyment of all the privileges that the 
+<persName>Supreme Government</persName> has been pleased to grant them. The privilege
+of introducing any goods is very necessary; therefore, and 
+considering that they hold this right by virtue of the law of <date when="1823-09-29">September the
+29th 1823</date>, and as I am personally interested in the subject as a 
+<persName>resident of <placeName>Texas</placeName></persName>, and in my capacity of <persName>Empresario </persName>of one of the <placeName>new
+colonies</placeName>, I have made use of the freedom of a <persName>citizen </persName>in the 
+expression of my opinion, hoping that your Honorable Body will be pleased
+to forward it to the proper authority, in order to remove the doubt
+that exists in the interpretation of the decree of <date when="1823-09-29">September the 29th
+1823</date>.</p>
+
+<p>God and Liberty.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-11-07">November 7th 1826.</date></p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

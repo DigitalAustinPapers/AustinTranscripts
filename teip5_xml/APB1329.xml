@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1329">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John A. Williams to Stephen F. Austin, 02-07-1827</title>
+            <author>
+                <persName>John A. Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-17">07-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Headquarters, Sprowls plantation</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1601
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1827-02-07">02-07-1827</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Repulse of insurgents. Francis Biggam to Austin, February 13, 1827. Disquieting reports from Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head quarters Sprowls plantation</placeName></p>
+
+<p><date when="1827-02-07">7th Feby 1827</date>.</p>
+<p><persName>Col Austin</persName></p>
+
+<p>Dr sir   your favour of the <date when="1827-01-23">23rd Ult</date>. together with the <persName>gover
+nor</persName>'s procklamation has been recd.</p>
+
+<p>you will no dout before the reception of this have heard of the
+patriotic manner in which the <persName>Inhabitants </persName>have rallied in defence
+of their <placeName>country</placeName>, and dispersed the rebellious <persName>gang of <placeName>Nacogdoches</placeName></persName>.
+I refer you to <persName>Mr Kenney</persName> for further information. A quantity of
+property found in possession of the <persName>enimy </persName>has fal[len] into our 
+possessin I have to request that some <persName>person </persName>duly authorized be 
+immediately sent on to take charge thereof, or dispose of it as the
+<persName>government </persName>may direct, yesterday we detached fifty <persName>men </persName>for <date when="1827-02-13">7 day
+service</date> which will remain stationed at this place untill the 
+expiration of that time.</p>
+
+<p>Permit me to suggest the propriety of continuing a sufficient 
+<persName>Military force</persName> at this place for some time lest a remisness on our part
+might induce the disaffected to commit new outrages upon the 
+<persName>inhabitants of another class </persName>who have already suffered enough.</p>
+
+<p>A great deale has been done by the faithful <persName>subject </persName>in this section
+of <placeName>country</placeName>, but yet the work is far from being compleat</p>
+
+<p>We shall employ every means in our power to sustain the 
+government, and restore tranquility.</p>
+
+<p><persName>Jno. A. Williams </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
