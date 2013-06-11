@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1160">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 05-19-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-19">06-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1341-1344
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-19">05-19-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report on Indian relations. Building forts on the frontier. Trial of important case by a jury.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>In compliance with your <persName>Lordship</persName>'s communication of the <date when="1826-05-01">1st
+Instant</date>, in which you direct me to report to you any incidents, civil
+or military occurring in this <placeName>Colony </placeName>worthy of the notice of the
+government, I have the honor to enclose copies of my 
+communications to the <persName>Military Commander of Texas</persName>, relative to the late
+occurrences with the <persName>Tahuacano </persName>and <persName>Waco Indians,</persName> and the 
+movements of the <persName>Militia</persName>. I did not communicate these matters to the
+civil government at an earlier period, because they were purely
+military; and, having received all my orders on the subject from
+the <persName>Military Commander</persName>, I was led to the conclusion that it was
+my duty to acquaint the government with military transactions
+through that <persName>officer</persName>, and that I could irrespectively report to the
+<persName>Civil </persName>or <persName>Military Chief</persName>, both being, in their respective spheres,
+agents of the Supreme Government. I find myself mistaken, and
+pray your <persName>Lordship</persName> to receive this explanation as an apology if I
+have in any manner failed in the discharge of my duty. 
+Henceforth I shall communicate with you, as well as with the <persName>Military
+Commander</persName>, in all military matters.</p>
+
+<p>The attack upon the <persName>Tankuas </persName>which you direct me to report to
+you, took place on the <date when="1826-03-25">25th of March</date>, on the <placeName>Colorado</placeName>, about <placeName>eight<pb n="1342"/>
+leagues below the Atascosito road.</placeName> These <persName>Indians </persName>were encamped
+on the very same spot, where, some months previous, they had
+stolen from the <persName>settlers </persName>twenty odd hogs, and a large quantity of
+corn. A small party of the <persName>neighbors </persName>went to the <persName>Indians' </persName><placeName>villages</placeName>
+to arrest the <persName>thieves</persName>; the <persName>Indians </persName>presented their arms and refused
+to give up the guilty <persName>persons</persName>. Those who had lost the property
+came to me with their complaints. I sent for the <persName>Chief Carita</persName>, and
+the <persName>Tankua Chief</persName>, and told them they must keep out of the 
+<placeName>settlement </placeName>and deliver up the <persName>thieves </persName>for punishment by flogging, 
+otherwise they should be shot; after this understanding they withdrew
+from the <placeName>settlement</placeName>. This took place about eighteen months since.
+In the mean time the <persName>Chief Carita</persName> died, and during the month of
+<date n="03-xx-1826">March</date> his <persName>party </persName>came down to the <placeName>Colorado </placeName>where the hogs had been
+stolen, which made the <persName>people </persName>residing there believe that they 
+intended a renewal of their former robberies; and, unfortunately,
+some fat hogs being missed at the same time, they suspected the
+<persName>Indians </persName>of killing them. This, together with the robberies of the
+previous year, excited the <persName>settlers</persName>, who immediately assembled to go
+to the <placeName>villages </placeName>and ascertain the fact. The <persName>Militia Officer</persName> in that
+part of the <placeName>Colony </placeName>is a very young man, and he refused to take 
+command of the <persName>party</persName>, upon which they elected one of their number to
+lead them. On their arrival at one of the <placeName>villages</placeName>, two or three of
+the <persName>men </persName>commenced firing; their example was followed by six others,
+before they could be prevented by their <persName>commander </persName>giving, as an
+excuse for their attack, that the <persName>Indians </persName>were levelling their arms.
+Two of the <persName>Indians </persName>were killed and four wounded, as I since learned;
+and one of the <persName>American party </persName>who had lost his way in the <placeName>woods</placeName>
+was <persName>killed</persName>. So soon as I was informed of the fact, I made inquiry
+into it, and, from my investigations, I felt satisfied that the presumed
+depredations of the <persName>Indians </persName>were not sufficiently established to justify
+the attack, although there were good reasons to suspect them. I lost
+no time in calling the <persName>Indians </persName>together; they arrived here on the
+<date when="1826-04-29">29th of April</date> and remained <date when="1826-05-04">four days</date>. After having had a talk
+with them, they declared themselves fully satisfied, and withdrew,
+with the understanding that any of their <persName>tribe </persName>who should hereafter
+steal anything from our <persName>settlers </persName>should be surrendered for 
+punishment; and, that, on their failing to do so, the <persName>party </persName>would be shot
+wherever he was found.</p>
+
+<p>This is the plain history of the whole affair and it will be necessary
+to compel<persName> those who made the attack </persName>to pay the expenses incurred by
+calling the <persName>Indians </persName>together, there not having been sufficient 
+provocation to justify the attack that was made upon them. In the early
+part of <date n="03-xx-1826">March </date>five <persName>Choctaws </persName>killed some of the <persName>Tankuas </persName>I promised
+to interpose as peace maker between them.<pb n="1343"/></p>
+
+<p>The accompanying copies of my communications to the <persName>Military
+Commander</persName> will apprize your <persName>Lordship </persName>of the news relative to the
+<persName>Tahuacanoes</persName>, and of my consequent dispositions. I consider it
+highly important that your <persName>Lordship </persName>and the <persName>Military Commander
+</persName>should write to the <persName>Cherokees</persName>, <persName>Alabamas </persName>and <persName>Cushates</persName>, and to the
+<persName>Alcaldes </persName>and <persName>Captains of the Militia</persName> of <placeName>Nacogdoches </placeName>and the <placeName>Trinity</placeName>,
+to join us in the contemplated war.</p>
+
+<p>After <persName>Captain Boss</persName>' encounter with the <persName>Indians </persName>on the <placeName>Colorado</placeName>,
+I ordered a small log <placeName>fortification </placeName>to be erected there, for the 
+protection of the <persName>families </persName>in case of an invasion: the people of that
+section went to work very industriously and it is completed. I shall
+order other works of a similar character to be erected at the 
+<placeName>crossing on the Brazosof the road to Bexar</placeName>, and probably here, provided
+the war is continued for any length of time, as we are all determined
+to defend ourselves and the <placeName>Country </placeName>even if the whole <persName>Comanche</persName>
+nation come upon us. If the <persName>government </persName>can supply us with 
+ammunition, 150 escopets, 150 pistols, and 150 sabres it will be an important
+addition, also six cannon of small caliber two for Each <placeName>settlement</placeName>.</p>
+
+<p>Relative to colonization the business of the <placeName>first Colony</placeName> has not
+been completed, owing to the protracted absence of the 
+<persName>Commissioner </persName>; there are some complaints about it, and difficulties are likely
+to arise. This reason, and the fact that sothing as yet has been done
+towards the commencement of the <placeName>new Colony</placeName>, has caused the 
+<persName>inhabitants </persName>to petition me not to take the field and expose my person
+until their business is settled; which induced me not to take 
+command of the party who were sent out to protect the <placeName>frontier</placeName>.</p>
+
+<p>Respecting the administration of justice, we had, on the 1st 
+Instant, a suit which lasted seven days. The plaintiff was <persName>Imla Keep</persName>
+and the defendant <persName>Jared E. Groce</persName>. The case being important I called
+together twelve good <persName>men</persName>, <persName>residents </persName>of the <placeName>Colony</placeName>, as <persName>Jurymen</persName>, to
+hear the evidence and decide upon it, and after a laborious 
+examination of several <persName>witnesses </persName>for both <persName>parties</persName>, the decision of eleven of
+the <persName>jurymen </persName>was in favor of the <persName>plaintiff</persName>, <persName>Imla Keep</persName>, and I approved
+their verdict. The defendant, <persName>Groce</persName> was much dissatisfied, and he
+will, probably, appeal to the government. The affair that occurred
+between him and the <persName>Administrator Don Juan Veramendi</persName> at <placeName>Bexar</placeName>,
+will give your <persName>Lordship </persName>an idea of his character.</p>
+
+<p>The people in this <placeName>colony</placeName>, are now, more satisfied and united, live
+in greater harmony and display more industry than they have ever
+done before from its commencement.</p>
+
+<p>I request your <persName>Lordship </persName>to take into consideration my proposals
+to the <persName>Military Commander</persName> in relation to the <persName>Cherokee</persName>, <persName>Cushates</persName>,
+and <persName>Alabamas</persName>, and the <persName>Militia of <placeName>Nacogdoches </placeName>and the <placeName>Trinity</placeName></persName>.    If
+you approve them, I beg you will send me letters addressed to those<pb n="1344"/>
+<persName>parties</persName>, and that you will also send instructions to the <persName>Cherokees </persName>
+relative to the thieving <persName>tribes </persName>in their vicinity; giving them orders not
+to make war upon the <persName>Tankuas</persName>, on whom, they have written to me,
+it is their intention to avenge the death of some of their <persName>warriors</persName>
+who were killed three years since. It would also be advisable to write
+to the <persName>Cushates </persName>and the <persName>Alcalde </persName>of <placeName>Nacogdoches </placeName>to tell the <persName>Cherokees</persName>
+they must not carry on hostilities against the <persName>Tankuas</persName>, as that tribe
+is at peace with the <persName>Mexicans</persName>.</p>
+
+<p>The foregoing is in answer to your <persName>Lordship</persName>'s communication of
+the <date when="1826-05-01">1st Instant</date>.</p>
+
+<p>God and Liberty.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-05-19">May 19th, 1826</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

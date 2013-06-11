@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1156">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Mateo Ahumada, 05-18-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-19">06-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mateo Ahumada
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1338-1340
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-18">05-18-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Willingness of the Cherokees to join in war on Tahuacanos, Wacoes, and other tribes. Reports of hostile 
+preparations.  Conditions of militia service.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>In my communication of the <date when="1826-05-08">8th Instant</date>, I reported to you my 
+situation in relation to hostile movements against the <persName>Indians</persName>, and
+informed you that I had sent <persName>spies </persName>in various directions to watch the
+<persName>Indian party</persName> whom we had reason to believe had left their <placeName>villages</placeName>
+on their way to these <placeName>settlement</placeName>, in the meantime, the contemplated
+<persName>expedition </persName>remaining suspended. On the <date when="1826-05-13">13th Instant</date>, the express
+I had dispatched to the <persName>Cherokees </persName>returned with a letter signed by
+<persName>Captains Fields</persName> and <persName>Bowles</persName>, and other principal <persName>chiefs </persName>of this <persName>tribe</persName>,
+in which they stated to me, that after a secret council held among
+them, they unanimously agreed to march with all their <persName>forces </persName>and
+attack the <persName>Wacoes</persName>, <persName>Tahuacanoes </persName>and other <persName>Indians </persName>at war with the
+<persName>Mexicans</persName>, and that they were ready to assist the <persName>people </persName>of this 
+<placeName>Colony</placeName>, if the government ordered them to do so; but in consequence
+of the lated freshets of the <placeName>Neches </placeName>and <placeName>Trinity</placeName>, and of almost all
+the <placeName>streams </placeName>in that section of the <placeName>country</placeName>, and, also owing to the
+backwardness of their crops, they could not do so immediately. The
+<persName>express </persName>I had sent is an intelligent and trusty <persName>man</persName>, whom I had 
+instructed not to show my letters to the <persName>chiefs </persName>before he could 
+ascertain their intentions and views on the subject. He is well acquainted
+with the <persName>chiefs </persName>and several <persName>Indians </persName>of that tribe. He remained
+among them four days, and tells me that he has not the least doubt
+but that the <persName>chiefs </persName>and <persName>warriors </persName>are anxious to go to war; as well
+against the <persName>Tahuacanoes </persName>and <persName>Comanches</persName>, as the petty thieving
+<persName>Quincháis</persName>, <persName>Ainais</persName>, <persName>Apadache</persName>, <persName>Coco </persName>and other <persName>tribes </persName>who live in their
+vicinity. All those <persName>tribes </persName>are friendly with the <persName>Tahuacanoes</persName>, and I
+believe their destruction to be very important for the common 
+security. The <persName>express </persName>also reports that on the <placeName>Neches river</placeName> he met an
+old <persName>Apadache Chief</persName>, whom he had known at <placeName>Nacogdoches</placeName>; that he
+told the <persName>chief </persName>he was still living there, and that the <persName>Americans </persName>of
+that locality were very bad; his design being to draw from him his
+opinion of us. The <persName>Indian </persName>replied that the <persName>Americans </persName>of the 
+<placeName>Colorado </placeName>were very bad: that they had killed some of his <persName>friends </persName>the
+<persName>Tehuacanoes </persName>and <persName>Quichais</persName>; that all the <persName>small tribes</persName> in that part of
+the <placeName>country </placeName>were about to hold a great council called by the 
+<persName>Tahuacanoes</persName>, for the purpose of taking measures to destroy the new 
+<placeName>settlements </placeName><placeName>west of the Trinity</placeName>, and that the <persName>Comanches </persName>were invited to
+attend. He did not say when, or where the meeting was to take
+place, and he declared that the <persName>settlers </persName><placeName>East of the Trinity</placeName> were good
+<persName>friends </persName>and <persName>brothers</persName>. He said, also, that the <persName>Tahuacanoes </persName>had sent
+word to the <persName>traders </persName>who traffic with the <persName>Indians </persName>on the <placeName>Sabine River</placeName>.
+that they would give a good horse for ten musket loads of powder
+and lead, and a good mule for twenty loads.   On his arrival at the<pb n="1339"/>
+<placeName>crossing of the Trinity</placeName>, the <persName>express </persName>received information from the
+<persName>settlers </persName>there, either <persName>Americans</persName>, or <persName>Spaniards</persName>, that they had seen
+the day previous, five <persName>Quichais </persName>and <persName>Ainai Indian</persName>, who secretely told
+the <persName>Spaniards </persName>that 200 <persName>warriors </persName>of the <persName>small tribes </persName>would shortly 
+attack the <persName>Americans </persName><placeName>on the Brazos </placeName>and <placeName>Colorado</placeName>, but that the <persName>settlers</persName>
+<placeName>East of the Trinity</placeName> were <persName>friends </persName>and <persName>brothers</persName></p>
+
+<p>The <persName>militia of the <placeName>Colony</placeName></persName> detailed for the contemplated campaign
+were all ready, a part of them being encamped here; others on the
+<placeName>Colorado</placeName>, at the <placeName>fort </placeName>they have erected <placeName>between the roads to <placeName>La Bahia</placeName>
+and Atascosito</placeName>; and the balance on the <placeName>Brazos </placeName><placeName>near the road to
+Bexar</placeName>; mustering in the aggregate, 100 <persName>men</persName>.</p>
+
+<p>The <persName>spies </persName>referred to in my communication of the <date when="1826-05-08">8,th Instant</date> have
+seen no signs of the <persName>Indians </persName>supposed to have left their <placeName>villages </placeName>for
+these <placeName>settlements</placeName>; and, as I have already stated to you, I considered
+myself prevented, by your order of the <date when="1826-05-04">4th Instant</date>, from carrying
+on the campaign. However, on the return of the <persName>express </persName>with the
+above mentioned information, I felt convinced of the absolute 
+necessity to order out a <persName>party </persName>to watch over the <placeName>frontier</placeName>, inasmuch as
+the <persName>militia </persName>were very impatient to meet the <persName>enemy</persName>. Therefore,
+under the impulse of protective considerations, I ordered the<persName> senior
+Captain</persName> of the <persName>battalion </persName>who was to take command in my absence,
+agreeably to the seventh article of the Militia Regulations, to proceed
+with the <persName>men </persName>to the <placeName>frontier</placeName>, <placeName>above the road to Bexar, on the Brazos,</placeName>
+leaving a detachment in the <placeName>fort </placeName>on the <placeName>Colorado</placeName>, to protect this
+<placeName>section</placeName>.</p>
+
+<p>I gave general instructions to this <persName>officer (Captain A. C. Buckner)</persName>
+to keep a good lookout all along the <placeName>frontier</placeName>, and particularly for
+the 200 <persName>warriors</persName>, who, I have reason to believe are coming from the
+<placeName>Trinity </placeName>to join the <persName>Tahuacanoes</persName>; and to attack any hostile <persName>parties of Indians </persName>wherever our protection rendered it necessary, and 
+circumstances permitted. I hope you will not consider this step at variance
+with your orders of the <date when="1826-05-04">4th Instant</date> for the suspension of the hostile
+movements against the <persName>Indians</persName>. Circumstances rendering it 
+absolutely necessary for our defence The <persName>Captain </persName>Commanding the
+<persName>Militia </persName>may, possibly, be compelled to attack the <placeName>Indian Villages</placeName>, as
+there is some probability, if the <persName>Indians </persName>are aware of the movements
+of the <persName>Militia</persName>, that they will leave their <placeName>villages </placeName>should the attack be postponed to the month of <date n="07-xx-1826">July</date>. For it is impossible to assemble
+<persName>men</persName>, as scattered as our <persName>militia </persName>are, without a few days notice; 
+consequently, secrecy cannot be preserved in such cases, every one having
+to settle his business and make preparations previous to a march.
+Any <persName>traveller </persName>can perceive these movements among the <persName>militia</persName>, and
+there is not a day but some are passing on their way to <placeName>Nacogdoches</placeName>.
+Should anv of them mention it there, the news would soon reach the<pb n="1340"/>
+<persName>Quichais</persName>, or other of those mean thieving <persName>tribes </persName>that live in that
+<placeName>neighborhood</placeName>. In case that an attack on the <placeName>villages </placeName>might affect the movements referred to in your communication of the <date when="1826-05-04">4th Instant</date>, I
+will transmit to you any report so soon as it reaches me. <persName>Captain
+Buckner</persName> and his command will start <placeName>from their encampment on the
+Bexar road</placeName> on the <date when="1826-05-22">22nd Instant</date>.</p>
+
+<p>I have given secret instructions to a very reliable and intelligent
+man, who left us a few days since for the <placeName>Trinity</placeName>, to indirectly
+ascertain the disposition and views of the <persName>Cushate </persName>and <persName>Alabama
+Indians</persName>; and, also, to find out the feeling of the <persName>settlers </persName>in that 
+<placeName>section</placeName>, and the numbers of <persName>militia </persName>men that could be obtained from
+them in an emergency. I have no doubt that orders from you and
+the <persName>Political Chief to the Indians</persName> and <persName>militia</persName>, will induce them to
+join me in the war.</p>
+
+<p>God and Liberty.                                          <persName>Stephen F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-05-18">May 18th 1826.</date>
+</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1165">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Harris to Stephen F. Austin, 05-22-1826</title>
+            <author>
+                <persName>William Harris</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-20">06-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">District of Victoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1347-1348
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-22">05-22-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure. Economic conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>District of Victoria</placeName> <date when="1826-05-22">May 22d 1826</date></p>
+
+<p><persName>Benjamin Fowler</persName> came to me and made the following statement;
+That <persName>Isaac Hughs</persName> had been indebted to him three cow and calves
+and thirty two dollars on an account; that this amount had been
+due something like fifteen months and that the said <persName>Hughs</persName> had
+offered him three cows and calves third rate cattle, in place of the
+same number of first rate cows and calves which the note caled for,
+and he the said <persName>Fowler</persName> further stated that he refused to receive them
+unless the said <persName>Hughs</persName>&#8212;would pay him the difference between these
+cattle and first rate cattle which the said<persName> Hughs</persName> refused to do, and
+the&#8212;said <persName>Fowler</persName> further stated that he offered the said <persName>Hughs</persName> the
+privilege of choseing&#8212;two men himself to say what diference there
+was between these cattle and first rate cattle and abide by their
+judgement which&#8212;proposition the said <persName>Hughs</persName> refused to comply
+with. <persName>Fowler</persName> further says that the said <persName>Hughs</persName> told him that he was
+about to leave the <placeName>country </placeName>and should not pay him unless he was
+compeled to do so or words to that effect.</p>
+<p>On the above statement of <persName>Fowler</persName>, I issued a forthwith summons
+for <persName>Isaac Hughs</persName> which summons he refused to obey&#8212;I did not
+conceive it a proper way of doing business to give judgement on a
+forthwith unless the <persName>defendant </persName>was present. There was no 
+judgment entered nor any attachment issued nor any thing of the kind</p>
+<p>As to the cattle above mentioned which you order me to vallue
+<persName>Mr. Hughs</persName> sold them to <persName>Mr. Bailey</persName> about the time the above 
+transaction took place for thirteen dollars in trade I understood a head</p>
+<p>As the cattle alluded to in <persName>Mr. Hughs</persName> petition were sold by him
+I did not vallue them as you ordered me, as I supposed it was not
+necessary</p>
+
+<p>As to the judgement and attachment alluded to in <persName>Mr. Hughs</persName>'
+petition I do assure you there is no such thing the business&#8212;ended
+when the summons was returned without being obeyed<pb n="1348"/></p>
+
+<p>I do certify this to be a true statement of proceedings had before
+me in the above case</p>
+
+<p><persName>William Harris Alcalde</persName></p>
+<p>To <persName>Stephen F. Austin Judge</persName>
+</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

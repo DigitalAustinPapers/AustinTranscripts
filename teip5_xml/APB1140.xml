@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1140">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 05-10-1826</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-15">06-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1329
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Court Costs</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-10">05-10-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Costs of court in case of Keep v. Groce.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Imla Keep</persName> vs <persName>Jared E Groce</persName></p>
+<p><persName>Jared E Groce Dr.</persName></p>
+
+<p>Sectys fees</p>
+
+<p>To amt fees for decision of the Judge for trial and order-------$2.</p>
+
+<p>"     "      "     "   Writs of summons for <persName>Witnesses </persName>and <persName>Jurors </persName>8 a 2 1/2 bitts  each-------------------------------------------------------    2.50</p>
+
+<p>""    ""      "   for 2 Certified Copies of the Complaint and order for trial---------------    6. &#8212;</p>
+<p>""    "      *'   for  a   list  of  <persName>Colonists  </persName>furnished  the  <persName>Alcalde  </persName>for  to draw  <persName>Jurors</persName>______________________     1. &#8212;</p>
+
+<p>"    "      ""   for Copies of <persName>James Brown</persName> and <persName>L. W. Groce</persName>s 
+despositions------------------------------------ 6. &#8212;</p>
+<p>"    "   fee for writing down the evidence 8 sheets a 1$___._ $8</p>
+<p>"    "   6 days service a 3.25c ------------------------19.50</p>
+<p>27.50</p>
+<p>""   ""      ""   decision of the <persName>Council </persName><persName>Jury </persName>and <persName>Judge </persName>2 sheets at $1___     2. &#8212;</p>
+
+<p>""    "      "   order for the delivery of the <persName>Negroes</persName>_________________         62 1/2c</p>
+
+<p>""    "      "   for the Judgment passed by the <persName>Superior Judge</persName> of the
+<placeName>Colony</placeName> ----------------------------- 2. &#8212;</p>
+<p>$49. 62 1/2</p>
+<p>""  ""   ""   for 18 sheets paper a 6 1/4c ---------------------------- 1.12 1/2</p>
+
+<p>$50. 75</p>
+<p><placeName>Sn Felipe de Austin</placeName><date when="1826-05-10"> May 10th 1826</date>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

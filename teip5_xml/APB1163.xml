@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1163">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. Blair to Stephen F. Austin, 05-20-1826</title>
+            <author>
+                <persName>J. Blair</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-20">06-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1345-1346
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-20">05-20-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Offering services in fortification of coast.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1826-05-20">May the 20th 1826</date></p>
+<p>Colonel <persName>Austan</persName></p>
+<p>Dear sir</p>
+<p>presuming that after a perusal of the documents here with 
+presented to geather with such other information as you will be able
+to collect you will be able to form an opinion conclusive for your
+self as to granting of the requests   Actuated from motives of the
+highest sensibility I have ventured to submit for your 
+consideration and that of your infant <placeName>Republic </placeName>the Subject Matter of the 
+documents here with presented to geather with an offer of my services
+should your government be in a condition to Build a <placeName>torpedul Bat-<pb n="1346"/>
+tery</placeName> or disposed to Garrison their <placeName>harbours </placeName>on this principal if so
+and the government of <placeName>Mexico </placeName>will Extend their patronage with
+a degree of liberality that would support a <persName>family </persName>in a comfortabl
+manner and grant their <persName>petitioner </persName>an Exclusive privalage to 
+furnish all the lumber that may be wanted to garrison the <placeName>province
+of Texas</placeName> at a fair and Honest price togeather with a suitabl tract
+of land for a <placeName>plantation </placeName>for him self and <persName>family </persName>or any other
+arrangment that will insure a Comfortabl living your<persName> petitione[r]</persName>
+would be more than happy to be come a <persName>Citizen </persName>of the <placeName>Republick of
+america</placeName> etc etc</p>
+
+<p>Believe me Sir your Most devoted Servent and May God preserve
+your infant <placeName>Republic </placeName>from all internal strife till she [ ... ]
+a mong the Nations of the Earth that will yet giv laws to <placeName>Europe</placeName>
+is the prair of</p>
+
+<p><persName>J. Blair</persName>.</p>
+
+<p>NB Sir pleas to have this letter Translated and forwarded on
+to the General Government to Enable them to know how it was
+introduced to the General Government you may depend on the
+most unquestionable Recommendations of my carrector if necessary
+<persName>Colonel Austin</persName> will oblige me if he will inform me if the same law
+that advertises for all those who have clames on the Government
+for military services rendered in <date n="xx-xx-1812">1812</date> and <date n="xx-xx-1813">13</date> imbraces those of
+<date n="xx-xx-1819">1819</date>&#8212;<date n="xx-xx-1820">1820</date> and <date n="xx-xx-1821">1821</date> under <persName>General Long</persName></p>
+
+<p><persName>J. Blair</persName></p>
+<p>[Attached clipping:]</p>
+
+<p>"In the <placeName>Natehitiches Courier,</placeName> of the <date when="1826-04-24">24th April last</date>, we have
+seen a notice signed <persName>James Gaines</persName>, calling upon the several <persName>volunteers</persName>
+who fought in <placeName>Texas</placeName>, in <date n="xx-xx-1812">1812</date>, <date n="xx-xx-1813">13</date>, agreeably to a decree of the
+Mexican Congress, bearing date the <date when="1823-06-13">13th June, 1823</date>, to come forward
+in person, or by power of attorney within six months with proof
+of their services, to receive their pay, agreeable to engagements 
+entered into at <placeName>St. Fernando de Bexar</placeName>, between the <persName>Junta </persName>and 
+<persName>Americans</persName>, in <date n="05-xx-1813">May, 1813</date>."</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

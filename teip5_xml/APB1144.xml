@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1144">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. J. Ross and A. C. Buckner, Unknown</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-17">06-17-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J. J. Ross 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        A. C. Buckner
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1332-1333
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-13">05-13-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for expedition against Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>(private)</p>
+
+<p><persName>Mr Foster</persName>, the <persName>express </persName>sent by me to the <persName>Cherokes </persName>returned this
+<date n="05/13/1826">evening at 6 o'clock,</date> he brought me a letter from the <persName>chiefs </persName>of that
+<persName>Nation </persName>in which they say that they can raise 350 <persName>men </persName>and are ready
+and anxious to join us in the War as soon as their crops are laid by
+and the <placeName>rivers</placeName> fall which at this time are very high&#8212;<persName>Foster </persName>also
+says that he met with an old <persName>Apadachy Chief</persName> of the <persName>liaches </persName>who he
+had seen before and Knew, this <persName>chief </persName>told him that the <persName>Wacos</persName>
+and <persName>Tahuacanies </persName>had called a great Council of the <persName>Comanches </persName>and
+all the small <persName>tribes </persName><placeName>beyond the Trinity river above the road </placeName>except
+the <persName>Cherokees</persName>, that this <persName>council </persName>was to meet Soon and the objects of
+it was to unite all those <persName>tribes </persName>to distroy the <persName>Americans </persName>on the 
+<placeName>Colorado </placeName>and <placeName>Brazos</placeName>, and they were very mad and were determined to
+have satisfaction at the <placeName>Trinity </placeName>he was told by <persName>Mrs. Trammel</persName> that
+5 <persName>Keechis </persName>had been there the day before and that they told a <persName>Spaniard</persName>
+that they intended to kill all the <persName>Americans</persName>. She took an old <persName>Aynye
+chief </persName>into the <placeName>house </placeName>and asked him and he told her yes it was true
+they were all mad but would not kill her as she had treated them well,
+he also said that 200 of them were embodied to aid the <persName>Wacos</persName>. The
+old <persName>Apadachy chief</persName> also told <persName>Foster </persName>that the <persName>Wacos </persName>were offering a
+good horse for ten loads of powder and lead and a good mule for 20
+loads&#8212; He says the <placeName>Trinity </placeName>and <placeName>Naches </placeName>are <placeName>out of their banks</placeName> and
+thinks that no body of <persName>Indians </persName>can cross at this time to aid the
+<persName>Wacos</persName>&#8212;</p>
+
+<p>Under these circumstances I am decidedly of opinion that the 
+<persName>expedition </persName>should be immediately pushed for the <persName>Wacos</persName>, if we delay it
+will give them time to procure arms etc. to call in the aid of their
+<persName>friends</persName>&#8212;and to make the treaty which is spoken of <persName>Capn Hall</persName>
+will be here <date when="1826-05-14">tomorrow night</date>, he camps at the <placeName>water hole</placeName> <date when="1826-05-13">to night</date>.</p>
+
+<p>I wish one or both of you to come over here immediately in order
+to make the final arrangements for the trip owing to 
+circumstances it might be improper for me to go in person. I can however
+with propriety order out 200 <persName>men </persName>under the command of an <persName>officer</persName>
+appointed for that purpose to cut off the 200 Who I am informed are
+imbodied and who it is probable will endeavor to join the <persName>Wacos</persName>&#8212;
+I have ordered out <persName>Spies </persName>along the <placeName>La Bahia road</placeName> towards the 
+<placeName>Trinity</placeName>&#8212; <persName>Sims </persName>writes me that he has a <persName>party </persName>of active and confidential
+<persName>Spies </persName>out on the <placeName>San Antonio road</placeName> nearly over to the <placeName>Colorado</placeName>,
+another <persName>Company </persName>is out on the <placeName>La Bahia road</placeName>, they have as yet
+seen no <persName>Indian </persName>sign in that quarter&#8212;dispatch is now important, the
+men here are all ready, <persName>Sim's Company</persName> is also ready and there is
+about 20 <persName>volunteers </persName>of <persName>strangers </persName>all anxious for the trip Keep your
+<pb n="1333"/>
+men in readiness&#8212; let them be provided with provisions, 
+whenever you can get it so as not to produce delay I will see that it is
+paid for&#8212; out of the general contribution which is about to be
+raised all over the <placeName>Colony</placeName>&#8212;you can March from there and embody
+at the <placeName>San Antonio road</placeName>, the day it not fixed yet and will not be
+untill I see or hear from you for it will depend on wheither your
+<persName>companies </persName>are ready or not&#8212; all the others are ready at a short
+notice for they have not been harrassed as your men have&#8212;</p>
+
+<p><persName>[S. F. Austin.]</persName></p>
+
+<p>[Endorsed:]  Copy Letter sent to <persName>Ross </persName>&amp; <persName>Buckner </persName><date when="1826-05-13">May 13 [1826 ]</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

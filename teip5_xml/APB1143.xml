@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1129">
+xml:id="APB1143">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John Roe to Stephen F. Austin, 05-05-1826</title>
+            <title>James J. Ross to Stephen F. Austin, 05-13-1826</title>
             <author>
-                <persName>John Roe</persName>
+                <persName>James J. Ross</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,7 +26,7 @@ xml:id="APB1129">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="1826-06-15">06-15-1826</date>
+            <date when="2010-06-17">06-17-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
@@ -41,14 +41,14 @@ xml:id="APB1129">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                    <placeName type="origin">Colorado, Texas</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1322
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1331
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,37 +69,44 @@ xml:id="APB1129">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1826-05-05">05-05-1826</date>
+            <date when="1826-05-13">05-13-1826</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="1826-06-15" who="#DL">Digital creation of XML file</change>
+        <change when="2010-06-17" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Order for sum due for services with Indians.</add></p>
+            <p><add hand="#barker">Report of an expedition against Waco Indians.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><date when="1826-05-05">May 5th 1826</date></p>
-<p>
-<persName>Colonel Stevan F. Austin </persName>  Please Pay The <persName>bearer </persName><persName>Joshua Parker</persName>
-the Sum Due me for bringing in the<persName> tonkaway Indians </persName>and oblige
-yours</p>
+<p><placeName>Colorado</placeName> <date when="1826-05-13">May 13th 1826</date>&#8212;</p>
+<p>Dear Sir. <persName>Capn Buckner</persName> has not arrived yet but we expect him
+every minit I have had <persName>Spies </persName>out every day and night Since I
+Received your order and do expect to do so untill further orders and
+perhaps go with 20 or 30 <persName>men </persName>above the <placeName>San Antonio Road</placeName> where
+it is soposed the <persName>Wacos </persName>may be hunting Though I think it 
+immaginary. at all events it is our duty to keep a good look out&#8212;and
+if we Cannot hear from the <persName>Indians </persName>in 8 or 10 days it may be best
+to discharge the men. as it is about the time those <persName>Indians </persName>leaves
+their <placeName>villages </placeName>to go a hunting&#8212;</p>
 
-<p><persName>John Roe </persName>   [Rubric]</p>
+<p>The[y] genneraly Return when their Corn gets in Roasting Ears
+and their Water Mellons gits Ripe then I do think would be the
+best time to find them at <placeName>home </placeName>and as good a time to go a Campaign
+as any&#8212;I will see or hear from you before that time&#8212;</p>
 
-<p>[On reverse]    Recd of <persName>S. F. Austin </persName>twenty dollars on the within order</p>
-<p><placeName>San Felipe de Austin </placeName><date when="1826-05-10">May 10. 1826</date></p>
-<p><persName>Joshua Parker    [Rubric]</persName></p>
+<p>Yours Respectfully</p>
 
-<p>[On Margin] Paid order for money for bringing in the <persName>Tonkaways</persName>.</p>
+<p><persName>James J. Ross</persName>&#8212;</p>
 
+<p>[Addressed:] <persName>Colo Stephen F. Austin</persName> <persName>San Felipe de Austin</persName></p>
 
 
         </div1>

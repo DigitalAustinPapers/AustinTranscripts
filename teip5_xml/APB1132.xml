@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1132">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Cherokee Chiefs, 05-08-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-15">06-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Cherokee Chiefs
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1323
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-08">05-08-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Withdrawing plans for war against Waco and Tahuacano Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I wrote you by <persName>Mr Foster</persName> requesting that the <persName>Cherokees </persName>would
+aid me in attacking the <persName>Wacos </persName>and <persName>Tawakanies </persName>on the <date when="1826-05-25">25 of this
+month</date>, I have this day recd an order from the superior <persName>Government</persName>,
+directing me to suspend the meditated attack as it appears those 
+<persName>Indians </persName>wish for peace and there will be no necessity of going to war
+with them&#8212;The <persName>settlers </persName>of this <placeName>Colony </placeName>do not wish for war with
+any <persName>Indians </persName>and more especially with their <persName>neighbors </persName>and as it is
+likely that a peace will be made between them and us I have 
+abandoned the idea of attacking them and do not wish you to act under
+the letter which I wrote you by <persName>Mr Foster</persName>&#8212;</p>
+
+<p>I should be happy to hear from you and that you would inform
+me if I can befriend you in any way&#8212;I hope the <persName>Cherokees </persName>and
+<persName>Americanos </persName>will live as one people&#8212;</p>
+
+<p>P. S. three <persName>Indians </persName>were seen in this <placeName>Colony </placeName>a few days ago 
+supposed to be <persName>Keechies </persName>or some of those <persName>horse-stealing tribes </persName>in this
+<placeName>neighborhood </placeName>and I am this moment informed that a number of
+horses are missing&#8212;I must request the favor of you to try and find
+out if any of those <persName>tribes </persName>have any stolen horses and to take 
+possession of them and send me word.</p>
+
+<p>If no peace is made and the war should go on I will let you know
+by express for if there is a war I shall calculate on your aid&#8212;</p>
+
+<p>[Note on letter:] The above is copy of letter to <persName>cherokees </persName><date when="1826-05-08">may
+8 1826</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

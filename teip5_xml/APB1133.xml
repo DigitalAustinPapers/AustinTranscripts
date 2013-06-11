@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1133">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Ahumada, 05-08-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-15">06-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ahumada
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1323-1325
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-08">05-08-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Acknowledging receipt of order of May 4, and giving reasons for carrying out previous plans for war on the Wacoes,
+Tahuacanos, and Tahuiasea
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>My communication of the <date when="1826-04-30">30th of last April</date>, informed you of my
+preparations for an attack upon the <persName>Waco</persName>, <persName>Tahuacano </persName>and <persName>Tahuiase</persName>
+<placeName>villages</placeName>. All my arrangements were made for the <date when="1826-05-25">25th of this
+month</date>; the concentration of the <persName>militia </persName>was to take place at <placeName><persName>James
+Cortes</persName>' house</placeName>, at the <placeName>crossing of the San Antonio road</placeName> on the <placeName>Brazos</placeName>,
+on the <date when="1826-05-17">17th Instant</date>. The <persName>Cherokee Indians </persName>had been directed to 
+attack the <placeName><persName>Tahuacano </persName>village</placeName> on the head waters of the <placeName>Navasota</placeName>,
+about <placeName>ten leagues East of the other villages</placeName>; the best spirit prevailed
+among the <persName>militia</persName>. The above arrangements were made pursuant to
+your communication of the <date when="1826-04-10">10th of April</date>, when, <date when="1826-05-08">today</date>, at 12 o'clock,
+I received your reserved [reservado'] communication of the <date when="1826-05-04">4th 
+Instant</date>, in which you order me to suspend any hostile movements
+against the <persName>Indians </persName>for the present; and to send you, by the return<pb n="1324"/>
+of the Express a statement of the force at my disposal for an 
+expedition ; and, also, to appoint a place where I could meet you, your 
+intentions being to take the field with 250 <persName>men </persName>in the month of <date n="07-xx-1826">July</date>.</p>
+
+<p>In consequence of this order, I sent, at 3 o'clock P. M. an express
+to the <persName>Cherokees </persName>to suspend their operations, alleging a hope of a
+treaty of peace between the <persName>Indians </persName>and the <persName>Colonists</persName>, in order to
+conceal the true motive; stating to them at the same time, that they
+must remain in readiness to march at the earliest notice, in case the
+peace could not be affected. I had already written my orders to the
+<persName>Captains of Militia</persName>, informing them that the contemplated 
+expedition was suspended in consequence of some hope of peace, which I
+did, to give a reason for the counterorder without exposing the
+true motive; but previous to these orders leaving my office, I 
+received, at 6. o'clock P. M. by express a note from <persName>Captain Sims</persName> of
+the <persName>Company of Militia of the <placeName>Brazos</placeName></persName>, <placeName>District of Bravo</placeName>, near the
+<placeName>road to Bexar</placeName>, informing me that while he was executing my orders
+to explore a covered road to the <placeName>Indian Villages</placeName>, along the <placeName>bottom
+of the river</placeName>, to avoid being noticed on a march through <placeName>prairie
+lands</placeName>, he discovered, at about <placeName>twenty five leagues above the road to
+Bexar</placeName>, trails of mounted <persName>Indians</persName>, and a party on foot, leading to the
+<placeName>settlement</placeName>. He returned at once to give information. I doubt not
+but a <persName>party </persName>left their <placeName>villages </placeName>to attack us, and our <placeName>settlements </placeName>are
+so scattered that it is difficult to determine upon what point they will
+fall first. I have already transmitted orders in every direction to
+send out <persName>spies</persName>. In consequence of this notice I have thought it
+highly important not to communicate your order to suspend any
+hostile movements against the <persName>Indians</persName>, because the <persName>Militia </persName>are now
+ready to march to the <placeName>villages</placeName>, and I think, that if we are so 
+fortunate as to discover the party that came to attack us, it would be
+advisable, after having routed them, to proceed by forced marches
+to their <placeName>villages</placeName>, and to fall on them before they had recovered from
+the terror inseparable from defeat. I hope these circumstances
+will be considered a sufficient excuse for my not suspending hostile
+movements as you order me to do.</p>
+
+<p>If the occurrences above alluded to do not compel me to march to
+the <placeName>Indian Villages</placeName>, I shall defer the expedition agreeably to your
+orders, in which event, I think we ought to meet at the <placeName>crossing of
+the road to Bexar</placeName>, on the <date when="1826-06-27">27th of June</date>, so as to attack the <placeName>villages </placeName>by
+the <date when="1826-07-04">4th of July</date>. Thus time would be afforded me to call on the
+<persName>Militia of <placeName>Trinity </placeName>and <placeName>Nacogdoches</placeName>,</persName> the <persName>Cherokee </persName>and other <persName>tribes</persName>
+in that section of the <placeName>country</placeName>. In the meantime I shall take every
+step, my situation permits, to ascertain the movements of the 
+<persName>Indians</persName>, etc. The number of <persName>men </persName>in this <placeName>Colony </placeName>on whom I can 
+depend is from 175 to 200; 100 <persName>men</persName>, I believe may be expected from<pb n="1325"/>
+the <placeName>Trinity </placeName>and <placeName>Nacogdoches</placeName>; and, perhaps, 100 <persName>Cherokees</persName>, <persName>Shawnees</persName>
+and other trusty tribes of that section of the <placeName>Country</placeName>; provided you
+think proper to give orders to these <persName>tribes </persName>and the <persName>militia </persName>to join us
+in the contemplated expedition</p>
+
+<p>The above is in answer to your reserved communication.</p>
+
+<p>God and Liberty.</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-05-08">May 8th, 1826</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

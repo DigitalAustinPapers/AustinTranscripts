@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1129">
+xml:id="APB1145">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John Roe to Stephen F. Austin, 05-05-1826</title>
+            <title>Bartlett Sims to Stephen F. Austin, 05-14-1826</title>
             <author>
-                <persName>John Roe</persName>
+                <persName>Bartlett Sims</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,7 +26,7 @@ xml:id="APB1129">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="1826-06-15">06-15-1826</date>
+            <date when="2010-06-17">06-17-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
@@ -41,14 +41,14 @@ xml:id="APB1129">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                    <placeName type="origin">Bravo, Texas</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1322
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1333
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB1129">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Private</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,37 +69,42 @@ xml:id="APB1129">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1826-05-05">05-05-1826</date>
+            <date when="1826-05-14">05-14-1826</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="1826-06-15" who="#DL">Digital creation of XML file</change>
+        <change when="2010-06-17" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Order for sum due for services with Indians.</add></p>
+            <p><add hand="#barker">Report of a scouting expedition after Indians.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><date when="1826-05-05">May 5th 1826</date></p>
-<p>
-<persName>Colonel Stevan F. Austin </persName>  Please Pay The <persName>bearer </persName><persName>Joshua Parker</persName>
-the Sum Due me for bringing in the<persName> tonkaway Indians </persName>and oblige
-yours</p>
+<p>Coln <persName>Austin</persName></p>
 
-<p><persName>John Roe </persName>   [Rubric]</p>
+<p>Dear Sir Agreeable to your order I Dispatchd two men <persName>Washing
+Curtis</persName> and <persName>Robert Arm Strong</persName> to Examin the <placeName>countray west of this
+Place</placeName> they went out a Bout 35 miles <placeName>a Bout 10 miles west</placeName> thay
+came to <placeName>foot trail</placeName> Cold not asertain How many and then <placeName>10 miles
+west of Curtese</placeName> they came to a <placeName>foot trail</placeName> of 15 or 20 <persName>men </persName>and <placeName>8
+miles west of Curtises</placeName> thay came to a trail 15 or 20 Horses and But
+one Mule track a mong them to Be Discoverd Theas Horses was
+Rode By <persName>Indians </persName>as thay Traild them to whar thay Got Down and
+Drank all theas Trail was Traveling near a N :W Cours I Have
+just Receivd news of <persName>king Caid</persName> and <persName>Furn Ashes</persName> Horses all Being
+Stolen   all this Sign appears To Be 2 or 3 Days oald</p>
 
-<p>[On reverse]    Recd of <persName>S. F. Austin </persName>twenty dollars on the within order</p>
-<p><placeName>San Felipe de Austin </placeName><date when="1826-05-10">May 10. 1826</date></p>
-<p><persName>Joshua Parker    [Rubric]</persName></p>
+<p>I Hope you will Take Some affective measures</p>
 
-<p>[On Margin] Paid order for money for bringing in the <persName>Tonkaways</persName>.</p>
+<p><persName>Bartlett Sims</persName></p>
 
+<p><persName>Coln Austin</persName></p>
 
 
         </div1>

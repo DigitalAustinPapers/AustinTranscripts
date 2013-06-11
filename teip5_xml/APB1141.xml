@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1141">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Lewis to Stephen F. Austin, 05-12-1826</title>
+            <author>
+                <persName>Robert Lewis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-15">06-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Santa Rosa</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1330
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-12">05-12-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">His disputes with the comisario of Santa Rosa. Prospect of trade between north Mexican States and Texas.
+Bastrop.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col Austin, </persName>                                            <placeName> Santa Rosa</placeName> <date when="1826-05-12">12th May 1826</date></p>
+
+<p>D. sir,
+I am yet detaind here by the <persName>comisary </persName>I have expected every Mail,
+for the last 50 days to of gotten a discharge from the detention, The
+business is now before the <persName>President </persName>in <placeName>Mexico</placeName>, and he has requested,
+that I should make a full statement of every thing that has taken
+place between me and the <persName>Comisary</persName>, who has wrote several letters to
+<placeName>Mexico </placeName>against me, has committted himself so its of no effect, My
+Statement is proven in a proper Manner, and left here <date when="1826-05-04">eight days
+since</date>, as soon as it can reach <placeName>Mexico </placeName>it will be acted on, the 
+<persName>Comisary </persName>is verry uneasy he has resigned his office,&#8212;I have no doubt but
+the trade from this quarter, May be drawn to the <placeName>Brasses</placeName>, I am 
+endeavouring to effect this object, Severel <persName>Gentlemen </persName>of standing has
+promised as soon as there is a commercial House establishd, then
+they will come there to trade&#8212;I recd a letter the other day from our
+friend the <persName>Barron </persName>he was unwell at that time, A <persName>Docr </persName>from <placeName>Saltillo</placeName>
+was here the other day and sais he has the Dropsy in the chest, he
+speaks of going to <placeName>Texas </placeName>in a short time,&#8212;Inclosd is a letter to <persName>Col.
+Bynum</persName> I hope you will forward by the first safe opertunity.&#8212;The
+<persName>Indians </persName>are very troublesome at <persName>Sant Fernandes</persName>, they have taken a
+part of there public Caviyard they have not done any Mischief here
+for some time</p>
+
+<p><persName>Robert Lewis</persName>    [Rubric]</p>
+
+<p>(Address)   <persName> Col Estephen F. Austin</persName>, <placeName>San Felipe de Austin</placeName>, <placeName>Texas</placeName>.</p>
+
+<p>P. S. Since I wrote the above I have recd information from
+<placeName>Mexico</placeName>, that my business has taken a turn in my favour, but was
+waiting for the Documents, I have aluded to</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

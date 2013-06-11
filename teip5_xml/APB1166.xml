@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB1129">
+xml:id="APB1166">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>John Roe to Stephen F. Austin, 05-05-1826</title>
+            <title>S. A. Anderson to Stephen F. Austin, 05-28-1826</title>
             <author>
-                <persName>John Roe</persName>
+                <persName>S. A. Anderson</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -26,7 +26,7 @@ xml:id="APB1129">
         </titleStmt>
         <publicationStmt>
             <publisher>Digital Stephen F. Austin Papers</publisher>
-            <date when="1826-06-15">06-15-1826</date>
+            <date when="2010-06-20">06-20-2010</date>
         </publicationStmt>
         <sourceDesc>
             <listPerson>
@@ -41,14 +41,14 @@ xml:id="APB1129">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                    <placeName type="origin">Colorado, Texas</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1322
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1348
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,37 +69,45 @@ xml:id="APB1129">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1826-05-05">05-05-1826</date>
+            <date when="1826-05-28">05-28-1826</date>
         </creation>
     </profileDesc>
     <revisionDesc>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
-        <change when="1826-06-15" who="#DL">Digital creation of XML file</change>
+        <change when="2010-06-20" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
 </teiHeader>
 
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Order for sum due for services with Indians.</add></p>
+            <p><add hand="#barker">Payments for land. Indians.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><date when="1826-05-05">May 5th 1826</date></p>
-<p>
-<persName>Colonel Stevan F. Austin </persName>  Please Pay The <persName>bearer </persName><persName>Joshua Parker</persName>
-the Sum Due me for bringing in the<persName> tonkaway Indians </persName>and oblige
-yours</p>
+<p><placeName>Colorado</placeName> <date when="1826-05-28">May 28th 1826</date></p>
+<p><persName>Coln Austin</persName></p>
 
-<p><persName>John Roe </persName>   [Rubric]</p>
+<p>sir</p>
 
-<p>[On reverse]    Recd of <persName>S. F. Austin </persName>twenty dollars on the within order</p>
-<p><placeName>San Felipe de Austin </placeName><date when="1826-05-10">May 10. 1826</date></p>
-<p><persName>Joshua Parker    [Rubric]</persName></p>
+<p>Since I arrived heare I have not had an opportunity of going over
+to see you respecting the payment of my <placeName>land </placeName>and we consider our
+force so week that many of us cant leave the fort at a time but as
+soon as I can I will be over to see you,&#8212;I have made arrangements in
+<placeName>Allexandria </placeName>for the payment of my note by Draught if you think
+proper if not I will send on immediately after the money that is as
+soon as times will permit but I had rather had an indulgence till
+the ishue of the war as; if I cant go home this <date n="Fall - 1826">faull </date>I wish to return
+to <placeName>the states</placeName></p>
 
-<p>[On Margin] Paid order for money for bringing in the <persName>Tonkaways</persName>.</p>
+<p><persName>S. A. Anderson</persName></p>
 
+<p>N. B. I send you by <persName>Mr. George Duty</persName> a Bill for thirty Dollars
+in land or trade please to give me a credit on my Note for what it
+calls for in cash etc., etc</p>
+
+______                                  <p><persName>S. A. A</persName>.</p>
 
 
         </div1>

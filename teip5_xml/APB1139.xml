@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1139">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stpehen F. Austin to People of Colony, 05-08-1826</title>
+            <author>
+                <persName>Stpehen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-15">06-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        People of Colony
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1328-1329
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Sheriff's Sale</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-08">05-08-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Order for sheriff's sale.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1826-05-08">[about May 8, 1826.]</date></p>
+<p>167.50</p>
+<p>85.75</p>
+
+<p>253. 25</p>
+
+<p>The <persName>Sheriff </persName>of said <placeName>colony </placeName>is hereby commanded to seize and 
+expose to public sale so much of the property of <persName>J E G</persName> the <persName>defendent </persName>in
+the above case as may be sufficient to pay Eighty five dollars and
+Seventy Cents to the <persName>Secretary S M Williams</persName> 167.50 to the <persName>Sheriff
+J. H. Polly</persName> and 175.30 to the <persName>Jurors </persName>being the amt. of costs due in
+said case and ordered to be paid by said  <persName>defendent Groce </persName>by the
+Judgement of the <placeName>Jurisdiction </placeName>and <placeName>Supreme court of this 
+Jurisdiction </placeName>dated <date when="1826-05-08">8th May of this year</date>&#8212;and the said <persName>Sheriff </persName>will make 
+return of this execution to my <placeName>office </placeName>within <date when="1826-07-08">sixty days</date> from this day as<pb n="1329"/>
+respects the <persName>Secretary</persName>'s and <persName>Sheriff</persName>s costs and within <date when="1826-08-08">ninety days</date> as
+respects the <persName>Juror</persName>s fees&#8212;</p>
+
+<p>167.50</p>
+<p>37.75</p>
+
+<p>129. 75</p>
+
+<p>129.30</p>
+
+<p>85.70</p>
+
+<p>344. 75</p>
+
+<p><persName>[Stephen F. Austin.]</persName></p>
+
+<p><date when="1826-05-08">[About May 8, 1826]</date></p>
+
+<p><placeName>Department of Texas</placeName> <placeName>Austins Colony</placeName>   <persName>Imla Keep</persName> vs. <persName>Jared E Groce</persName></p>
+
+<p>The <persName>Sheriff </persName>of said <placeName>colony </placeName>is hereby commanded to seize and 
+expose to public sale so much of the property of <persName>Jared E Groce</persName> the
+<persName>Defendent </persName>in the above case as may be sufficient to pay the Sum
+of Two hundred and fifty three dolls, twenty five cents the amount
+of costs due in said case to the <persName>Secretary S. M Williams</persName> and <persName>Sheriff</persName></p>
+
+<p><persName>J. H. Polly</persName></p>
+<p><persName>[Stephen F. Austin.]</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
