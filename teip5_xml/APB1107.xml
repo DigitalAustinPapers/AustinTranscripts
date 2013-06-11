@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1107">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, 05-16-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-09">06-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1095-1096
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Deposition</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05-16">05-16-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Deposition of Wm. Pryor concerning a stolen slave.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Department of Texas</placeName></p>
+
+<p><placeName>District of San Felipe de Austin</placeName></p>
+<p>Before me <persName>Stephen F. Austin Judge</persName> of the <placeName>Colony on the Brazos
+River</placeName> in said Department personally apeared <persName>William Pryor</persName> who
+was summoned at the request of <persName>Leonard Duboys</persName> to give testimony
+relative to the <persName>Negro Gabriel</persName> and said <persName>Pryor</persName> being duly sworn, 
+deposeth and sayeth, that some time in the month of <date n="01-xx-1825">January last</date>
+<persName>Nicholas Trammel</persName> was at <persName>deponents </persName>house on the <placeName>Brazos River</placeName><pb n="1096"/>
+near this place and at that time the said <persName>Trammel</persName> told this Deponent
+that the <persName>Negro </persName>called <persName>Gabriel </persName>who was in dispute between him said
+<persName>Trammel</persName> and <persName>Maria Louise Veillon</persName> at <placeName>Nacogdoches </placeName>was then in his
+said <persName>Trammel</persName>'s possession and was at his <placeName>House </placeName>on the <placeName>Angelina</placeName></p>
+
+<p>Deponent further saieth that he has never seen said <persName>Negro </persName>since
+he saw him in <placeName>Nacogdoches </placeName>at the time of the Law suit with said
+<persName>Maria Louisa Veillon</persName> relative to said <persName>Negro</persName>, and never heard that
+he was brought to this <placeName>Colony </placeName>by any person.</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1825-05-16">16th May 1825</date></p>
+
+<p><persName>Wm Pryor</persName></p>
+
+<p>Sworn and subscribed to before me</p>
+
+<p><persName>Stephen F. Austin    [Rubric]    Judge</persName></p>
+<p>Witness</p>
+<p><persName>Samuel M Williams Secy</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

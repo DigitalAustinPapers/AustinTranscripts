@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1104">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Leftwich or Haden Edwards to Stephen F. Austin, 05-12-1825</title>
+            <author>
+                <persName>Robert Leftwich or Haden Edwards</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-09">06-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Refugio, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1093
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05-12">05-12-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Grant finally obtained. Suggests agreement among empresarios concerning local government
+and price of land.  Bastrop's fidelity and efficiency.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Refugio </placeName><date when="1825-05-12">12th [May] 1825</date>.</p>
+<p>Dear <persName>Austin</persName>.</p>
+
+<p>I have the pleasure of informing you that my long and unremitted
+exertions have been finally crowned with success having received a
+<placeName>Grant </placeName>bounded as asked for when you was in <placeName>Mexico </placeName>with the 
+exception of the part lying <placeName>below the San Antonio road</placeName><placeName> in the fork of the
+Rivers Brassos</placeName> and <placeName>Navisote </placeName>being informed by <persName>Baron de Bastrop
+</persName>that this part has already been disposed of I changed my application
+making the road the line.
+</p>
+<p>Several others have obtained <placeName>grants </placeName>of which <persName>Capt DeWitt</persName> will
+inform you this being the case it becomes necessary that all the
+<persName>Empresarios </persName>should make such disposition of their <placeName>lands </placeName>that will
+not effect the interest of an other and that will be satisfactory to the
+<persName>emigrants </persName>and that will promote the immediate settlement of <placeName>Texas</placeName>
+to affect this it will require that some uniform mode be established
+to Govern the whole which I have no doubt that each of the 
+<persName>Empresarios </persName>are disposed to agree to.</p>
+
+<p>I presume that you still adhere to your first price established viz
+12 1/2 cts per acre the exps of surveying and making the title which I
+am of Opinion is low enough when we take into consideration the
+trouble and hardships we have to undergo in settling a <placeName>wilderness</placeName>.</p>
+<p>On the subject I wish you to write me by<persName> Capt De Witt</persName> who can
+put the letter in the first <placeName>post Office</placeName> that he reaches in the <placeName>United
+States</placeName> unless a vessel should sail from your place to <placeName>New Orleans</placeName>
+in a short time.</p>
+
+<p>I will suggest to you that it is very important to the interest of
+<placeName>Texas </placeName>that <persName>Baron de Bastrop</persName> should be reelected as from what I
+have seen of him I presume that you can send no person that will
+use the same exertions for that section of <placeName>Country </placeName>or that is as well
+qualified for your representation. And I can assure you that he is
+devoted to your interest</p>
+
+<p>I refer you to <persName>Capt De Witt</persName> for a detail of the news in this part
+of the <placeName>Country</placeName></p>
+
+<p>Wishing you health and prosperity.</p>
+<p>Yours sincerely</p>
+
+<p><persName>[Robert Leftwich?]</persName></p>
+<p>[or <persName>Haden Edwards?]</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

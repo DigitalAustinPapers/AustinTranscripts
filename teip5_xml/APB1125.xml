@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1125">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Militiamen, 05-01-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-11">06-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Militiamen
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1317-1319
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Address urging discipline</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-01">05-01-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Address urging discipline and obedience during campaign against Waco and Tahuacano Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>[about May 1, 1826.]</p>
+<p>F[ellow] S[itizens]</p>
+
+<p>You are therefore now called upon to protect your own <placeName>homes</placeName>,
+your own <placeName>property</placeName>, to shield your <persName>wives </persName>and <persName>children </persName>from the 
+arrows of a savage and merciless <persName>enemy</persName>&#8212;your adopted <placeName>country </placeName>now
+also called upon you to rally around the national flag and fight its
+enemies the <persName>Wacos </persName>and <persName>Tahuacanies</persName>&#8212;every honorable and ardent
+impulse Therefore that can animate the bosoms of <persName>free men</persName> burns
+in yours and urges you forward to meet the <persName>enemy</persName>&#8212;the defence of
+your <placeName>firesides</placeName>&#8212;of your <persName>wives </persName>and <persName>childen</persName>, your <persName>friends</persName>&#8212;<persName>yourselves</persName>&#8212;
+your <placeName>property </placeName>and your <placeName>country</placeName>, fellow S. the motives which have
+caused you to take up arms is a sufficient guarantee that you will use
+those arms as becomes brave <persName>men </persName>fighting in a just cause. You are
+<persName>decendants of freemen</persName>&#8212;the <persName>decendants of brave soldiers </persName>also 
+<persName>Americans</persName>&#8212;the blood that fills your viens has warmed the hearts of <persName>those
+who fought in the American Revolution</persName> fought and conquered the
+<persName>oppressors </persName>of American Liberty. Perhaps the spirits of your <persName>Fathers</persName>
+watch over the conduct of their <persName>decendants</persName>, perhaps their eyes as
+well as those of your <persName>friends</persName>, your <persName>countrymen </persName>and your adopted
+Govt are upon you They see the great importance of the duties, 
+before you, that the prosperity the safety of an infant and flourishing
+new <placeName>colony </placeName>depends in a great degree on your bravery and good 
+conduct in this first effort to humble and punish our <persName>enemies</persName>. Shall their
+hopes, their prairs be disappointed&#8212;No. Your conduct since the first
+commencement of this <placeName>colony</placeName>, the union and determined spirit that
+now animates you are guarantees that the only obstacle to your 
+complete tryumph will be the flight of your <persName>enemies </persName>before you can find
+them.</p>
+<p>The depradations of your <persName>enemies </persName>the <persName>W. and T. indians</persName> and there
+hostile preparations, has driven us to the necessity of taking up arms
+in self defence. The <placeName>frontier </placeName>is menaced&#8212;The whole <placeName>colony </placeName>is
+threatened&#8212;under these circumstances it became my duty to call the<pb n="1318"/>
+<persName>militia </persName>to the <placeName>frontier </placeName>to repel the threatened attacks and to teach
+our <persName>enemies </persName>to fear and respect us.&#8212;It is with feelings of the deepest
+regret that I have yielded to a sense of duty in agreeing not to go out
+in person on this expedition, not because I think there is any 
+necessity for my presence, or that the <persName>officers </persName>who command you will need
+my aid, but because I wish to share equally with you in all your
+labors, and all your fatigues in defending this <placeName>colony</placeName>&#8212;but my duty
+to the <persName>settlers </persName>in attending to the unfinished business of the <placeName>Co</placeName>. and
+completing the genl system for our defence which is in contemplation
+to adopt and the wishes of the <persName>people </persName>strongly urged upon me 
+requires that I should remain at <placeName>home</placeName>. I shall not be idle in your
+absence. The command therefore of the expedition agreebly to the
+militia law devolves upon <persName>Capt A. C. B [Aylett C. Buckner]</persName> and
+the most prompt and attentive obedience to his orders is expected
+from all the <persName>officers </persName>and <persName>men </persName>composing the expedition.</p>
+
+<p><persName>Mr. John C. Quick</persName> has been appointed <persName>Adjutant </persName>during the 
+expedition and it will be a part of his duty to drill the <persName>officers </persName>and <persName>men</persName>
+and instruct them in their duty under the orders of the <persName>Commander</persName>
+whenever it may be deemd necessary to do so&#8212;The utmost attention
+is necessary to this part of your duties&#8212;A body of armed <persName>men </persName>
+acting in union and with system are formidable, frequently irresistable
+and always prepared to act on the defensive, whilst the same body
+without discipline or system are incapable of acting efficiently on the
+offensive and fall an easy prey to an attacking force.</p>
+
+<p>Your own security, your own strength and your own interests
+therefore requires that you should patiently and attentively attend
+to drilling, and apply all your leisure moments on the march to this
+highly important and essential branch of your duty&#8212;I present the
+<persName>Adjutant </persName>to you recommended by a long course of practice in
+ military duties both as an <persName>officer </persName>of the <placeName>U. S</placeName>. <persName>regular army</persName> and of <placeName>U. S.</placeName>
+<persName>militia </persName>in active service, and also recommended as a man of honor
+and confidence and I feel no hesitation in believing that you will find
+him a valuable <persName>officer</persName>&#8212;and that you will strictly attend to his 
+instructions&#8212;a rigid obedience to orders is the basis of all military
+discipline and organization&#8212;The <persName>officers </persName>who command you are 
+responsible for their conduct to their <persName>superior </persName>and their duty as well as
+their honor imperiously requires strictest obedience to the orders 
+issued to them so also with the <persName>privates</persName>, their duty as <persName>soldiers</persName>, and their
+honor as such, as good <persName>citizens</persName>, requires the most rigid attention and
+obedience or their part to the order they may receive from their
+<persName>officers</persName>&#8212;</p>
+
+<p>This is the commencement of hostile movements on our part in the
+only war of any consequence we have had since our settlement in this
+<placeName>country</placeName>, and I feel confident that your decisive conduct on this first
+expedition will so harrass our <persName>enemies </persName>that they will seek safety by<pb n="1319"/>
+humbling themselves and sue for peace&#8212;Much however very much
+depends on our first efforts&#8212;If we strike a decissive blow our future
+peace and security will probably be the result</p>
+
+<p><persName>friends </persName>and f&#8212;s I close by saying that your <persName>friends</persName>, your <persName>officers</persName>,
+and your <placeName>country </placeName>are confident that you will do your duty as <persName>soldiers</persName>
+fighting in a just cause, their prairs and blessings therefore go with
+you&#8212;their welcome and thanks will hail your tryumphant return.</p>
+
+<p><persName>[Stephen F. Austin.]</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

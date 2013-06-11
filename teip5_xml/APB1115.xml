@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1115">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Mateo Ahumada, 04-06-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-10">06-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mateo Ahumada
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1304-1305
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-04-06">04-06-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Quoting a report of April 4, by Capt. Ross of the destruction of a party of marauding Tahuacanos.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The <persName>Captain of the Militia of the <placeName>Colorado District</placeName>, James J. Ross</persName>,
+transmitted to me the following report bearing date of the <date when="1826-04-04">4th Instant</date>.</p>
+
+<p>"In compliance with your orders of the <date when="1824-03-28">28th of last March</date>, in which
+you inform me that a party of <persName>Tahuacanos </persName>had left their <placeName>villages</placeName>
+on their way to the <placeName>Colorado</placeName>, under the pretext of looking for the
+<persName>Tancahues</persName>, and order me to watch and attack them if they should be
+seen in this <placeName>neighborhood</placeName>; I lost no time in sending <persName>spies </persName>to the
+<placeName>frontier</placeName>, and <date when="1826-04-05">yesterday</date>, at noon, I received information that sixteen
+<persName>Indians </persName>of said <placeName>nation </placeName>had arrived near the settler <placeName><persName>Asa Anderson</persName>'s
+house</placeName>, about <placeName>five Leagues below the road to La Bahia</placeName> on this <placeName>river</placeName>.<pb n="1305"/>
+I collected the <persName>militia</persName>, and by ten o'clock at night, I mustered 
+thirty-one <persName>men</persName>, with whom I marched eight Leagues, and attacked the 
+<persName>Indians </persName>at daybreak. It was not an easy matter to get at them in their
+position; they were on a deep <placeName>creek</placeName>, the banks of which are covered
+with a dense thicket and chaparal, which induced me to divide my
+<persName>men </persName>into two parties. One <persName>party </persName>under the command of <persName>Lieutenant
+Rawson Alley</persName>, commenced the attack in front, from the bank of the
+<placeName>creek</placeName>, while I took position with the other <placeName>in the bottom of the little
+run</placeName>, above the place where the <persName>Indians </persName>were so as to be able to fire
+on them when they crossed the <placeName>creek</placeName>. This disposition had a good
+effect. At the first fire of <persName>Alley's party,</persName> the <persName>Indians </persName>ran for the 
+<placeName>bottom</placeName>, and there received a volley from my party. Eight <persName>Indians </persName>fell
+<persName>dead</persName>, and five were <persName>wounded </persName>and escaped to the thicket. We took
+five fire arms, seven bows, and a considerable number of arrows and
+quantity of ammunition. The thickness of the <placeName>Chaparal </placeName>prevented
+us from pursuing the <persName>fugitives</persName>, who scattered in various directions.
+There is sufficient reason to conclude, from the signs of blood and
+other indications on their trails, that only three of the sixteen 
+<persName>Indians </persName>will ever reach their <placeName>villages</placeName>. Each <persName>Indian </persName>had a leather rope
+and noose, and they were all on foot, having with them only one horse.
+They were a portion of the <persName>party </persName>who, last fall, stole horses at the
+<placeName>Atascosito crossing</placeName> on this <placeName>river</placeName>. I found among their property
+some papers which show that one of their dead was the <persName>chief called
+Cordero</persName>, and that two other <persName>chiefs </persName>named <persName>Lisaque </persName>and <persName>Guichupa </persName>were
+killed. It affords me great satisfaction to be enabled to say that the
+<persName>men </persName>obeyed my orders with alacrity, and behaved well during the 
+attack.    I send you herewith the papers I found."</p>
+
+<p>In consequence of this incident, I gave orders to the <persName>captains of
+Militia</persName> in this <placeName>Colony</placeName>, to have their <persName>men </persName>ready at a moments notice;
+and I would send spies to the<placeName> <persName>Indian </persName>villages </placeName>to watch their 
+movements and ascertain their intentions. I apprehend no danger of an
+attack on the <placeName>Colony </placeName>by these <persName>Indians</persName>, as, according to information
+I have received, the <persName>party </persName>destroyed by <persName>Captain Ross</persName> was the only
+one that visited this <placeName>neighborhood </placeName>for the purpose of stealing, and
+the other <persName>chiefs </persName>disapproved their conduct. I will leave today for
+the <placeName>upper road</placeName> from <placeName>Bexar </placeName>to <placeName>Nacogdoches</placeName>; I may there receive 
+information that will compel me to open a campaign against the <persName>Waco</persName>
+and <persName>Tahuacano </persName><placeName>villages</placeName>, in which case I shall report to you in due
+season.</p>
+
+<p>Which I have the honor to report to you, enclosing the papers and
+documents found in the possession of the routed party.</p>
+
+<p>God and Liberty</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p>Town of <placeName>San Felipe de Austin</placeName>, <date when="1826-04-06">April 6th, 1826</date>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

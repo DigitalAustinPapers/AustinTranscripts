@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1126">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Colonel Scriggins to William Pettus, 05-01-1826</title>
+            <author>
+                <persName>Colonel Scriggins</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-11">06-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William Pettus
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1319
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">receipt</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-05-01">05-01-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price list.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><persName>Colo Scriggins</persName> to <persName>Wm Pettus Dr</persName>.</p>
+
+<p><date when="1826-05-01">May 1st 1826</date></p>
+
+<p>7 meals_______________________________________________________    $2. 62 1/2</p>
+
+<p>32 pounds of salt_______________________________________________     2. 56 1/4</p>
+
+<p>Medacin from <persName>Nuccolds</persName>_________________________________________     5. &#8212;</p>
+
+<p>1 meal for young man___________________________________________         37 1/2</p>
+
+<p>1 Dress for Lady----------------------------------------------------------------------     3.&#8212;</p>
+
+<p>1 Handkerchief________________________________________________     1.</p>
+
+<p>$14. 56 1/4</p>
+
+<p>Recived payment in full by <persName>Mrs. Skriggins Administratress</persName> <date when="1827-10-19">Octo-
+ber 19th 1827</date></p>
+
+<p>(Signed)           <persName>Wm Pettus</persName></p>
+
+<p>Recived 2 Horses from <persName>Mrs. Skriggins</persName> one at $155 the other a $120___$275.</p>
+
+<p>Credit by her Act______________________________________________     14.56 1/4</p>
+
+<p>260. 43 3/4</p>
+<p>Balance Due which is to be paid in Land at 50 Cents an acre
+which amounts to 521 Acres which is to be paid off agreeable to
+Instructions</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

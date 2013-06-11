@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB1106">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P. Coles to Stephen F. Austin, 05-13-1825</title>
+            <author>
+                <persName>John P. Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-09">06-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1095
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-05-13">05-13-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a stolen negro.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><date when="1825-05-13">13th May 1825</date></p>
+
+<p>Dear Sir</p>
+
+<p>I Recd yours by <persName>Mr. Leonard Dubois</persName> and notice Its contents I
+am not able to get any proof here of <persName>Hall</persName>s Bringing the <persName>Negro </persName>to
+the <placeName>colony </placeName>which <persName>Mr. Dubois</persName> is claiming Report says that <persName>Hall</persName>
+did assist in Bringing of the <persName>Negro </persName>he was at <persName>Tramel</persName>s as I 
+understood at the time the <persName>Negro </persName>was Brot of I know nothing of the
+sircumstances myself nor neither doo I know any person who does
+know any thing about It the <persName>Negro </persName>is Either at <placeName><persName>Randon</persName>s</placeName> near
+<persName>Groce</persName>s or at <placeName><persName>Price</persName>s</placeName> or at <placeName><persName>Hall</persName>s</placeName> If he has not been secreted I think
+It would be well to send <persName>Mr. Dubois</persName> and an <persName>officer </persName>to <persName>Randon</persName>s
+Immediately and sirch for the <persName>Negro </persName>also to <persName>Price</persName>s I believe they
+are all concerned with <persName>Tramel</persName></p>
+<p>
+I noticed the Bill of <persName>Mr. Jones</persName> pocket Book money etc I can not
+see <persName>Mr Hope</persName> today and consequently cannot give you an ansa but
+I dont believe the money found by <persName>Mr Hope</persName> to be <persName>Jones</persName>, I will see
+<persName>Mr. Hope</persName> and Bring you down Information I shall start down
+on <date when="1825-05-15">Sunday Morning</date> and shall be in Town on <date when="1825-05-16">Monday </date>I shall bring
+down your Horses</p>
+<p><persName>Jno. P. Coles    </persName>[Rubric]</p>
+
+<p>(Addressed:) <persName>Col. S. F. Austin</persName> <placeName>San Felipe D. Austin</placeName></p>
+<p><persName>Pr Dubois</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
