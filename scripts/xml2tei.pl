@@ -81,6 +81,13 @@ while (scalar(@ARGV) != 0)
     $fileContents =~ s/<\/p><p>/<\/p>\n<p>/g;
     $fileContents =~ s/<\/p>(.*)/$1<\/p>/g;
     
+    # Two common patterns in the source files:
+    #</</location_mentioned>person_mentioned>
+    #</</location_mentioned>p>
+    $fileContents =~ s/<\/<\/location_mentioned>person_mentioned>/<\/location_mentioned><\/person_mentioned>/g;
+    $fileContents =~ s/<\/<\/location_mentioned>p>/<\/location_mentioned><\/p>/g;
+    
+    
     my $textId="TODO";
     my $title ="TODO";
     my $summary = "TODO";
