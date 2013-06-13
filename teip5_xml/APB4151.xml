@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4151">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William S Parrott to Stephen F Austin, 02-16-1831</title>
+            <author>
+                <persName>William S Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-06">09-06-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Saltillo, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 596-597
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-02-16">02-16-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking Austin's advice about applying for contract to settle Europeans instead of Americans in grant of widow Ross.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1831-02-16">February 16th 1831</date></p>
+
+<p><persName>Stephen F Austin Eqr</persName></p>
+
+<p><hi rend="italic"><placeName>Saltillo</placeName></hi></p>
+<p>Dear Sir,</p>
+
+<p>I last had this pleasure on the <date when="1831-02-09">9th inst</date> covering you a package
+received from an unknown hand which I am in hopes will reach you
+in safety.<pb n="597"/></p>
+
+<p>Last mail from <placeName>Saltillo</placeName>, brought me the resolution, of the 
+<persName>Governor of your <placeName>State</placeName></persName> in relation to the <placeName><persName>Ross </persName>grant</placeName>, of which I made
+mention in my last and reads as follows</p>
+
+<p>" Y abiendose pasado esta instancia y Documentos respectivos al
+<persName>Exmo. Sor Comandte General de los estados internos de oriente,</persName>
+como comicionado del <persName>Supmo Gobno General</persName> pa entender en la 
+colónizacion del departamento de <placeName>Bajar</placeName>, con el fin de que informan sobre
+el particular, y Habiendo manifestado dho <persName>Gefe </persName>con fha <date when="1830-12-27">27 de 
+Diciembre ultimo,</date> que la contrata á que se refiere la antecedente solicitud
+se opone, al cumplimiento de la ley de <date when="1830-04-06">6 de abril ultimo </date>y 
+compromete ademas la Seguridad de dho Departamento, No ha lugar
+a la petición que el <persName>C. Guillermo S. Parrott</persName> hace como apoderado
+de la <persName>Sra Viuda</persName> y <persName>Hermano del finado Reuben Ross</persName>." The object
+of the law of <date when="1830-04-06">6th april </date>above refered is to prevent <persName>americans </persName>from
+colonizing and I would be pleased to have your opinion, as to the
+propriety of presenting another solicitude, proposing to settle the
+number of <persName>families </persName>required of <placeName>European </placeName>extract, or <persName>Europeans</persName>,
+If you deem the course practicable I will renew my solicitude 
+accordingly, otherwise I will have to abandon it</p>
+
+<p>Respectfully your most obt Sert and friend</p>
+
+<p><persName>W. S. Parrott  </persName> [Rubric]</p>
+
+<p>[Indorsed by Austin: Ansd Feb 28.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

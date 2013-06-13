@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4138">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Cummings to Stephen F Austin, 08-24-1831</title>
+            <author>
+                <persName>John Cummings</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-06">09-06-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mill Creek, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 591
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-08-24">08-24-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Price of lumber.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mill Creek</placeName> <date when="1831-01-26">January 26th 1831</date></p>
+<p><persName>S. F. Austin</persName> To <persName>John Cummings </persName>                  Dr  </p>
+
+<p>To 106 1/2 feet of pine plank @ 5c------------$5.32 1/2</p>
+
+<p>"  955     do   Oak flooring @ 3c-------------28.65</p>
+
+<p>"   1200   Do Sheeting plank @ 2c----------24.00</p>
+
+<p>$57.97 1/2</p>
+<p><date when="1831-08-24">August 24th 1831</date></p>
+
+<p>pr <persName>Mr Kennon</persName></p>
+
+<p>To 256 ft of damaged plank @ 1 1/2-------- 3.84</p>
+
+<p>144 do of       do        do      @ 3c----------4.32</p>
+
+<p>$8.16</p>
+
+<p>66.13 1/2</p>
+
+<p><persName>Col. Stephen F Austins</persName></p>
+<p>Acct $66.13 1/2</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
