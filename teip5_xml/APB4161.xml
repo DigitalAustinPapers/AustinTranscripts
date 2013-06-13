@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4161">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 03-05-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-07">09-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 606-607
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-05">03-05-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a land grant. Danger in the political situation.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex ]</p>
+
+<p><placeName><hi rend="italic">Saltillo </hi></placeName><date when="1831-03-05">March 5.  1831</date></p>
+<p>Dr Sir.</p>
+
+<p>I recd nothing from you or anyone from <placeName>Texas </placeName>by the last mail
+your last letter <date when="1831-01-25">Jany. 25</date>.    I am really uneasy that I got nothing<pb n="607"/>
+by the last mail. I wrote you on the <date when="1830-12-19">19 of last month</date> a long letter,
+also to <persName>Luke [Lesassier]</persName> and <persName>Rhoads Fisher </persName>and <persName>Hunter</persName>, which I
+hope you have recd. My principal object here is to try and prevent
+harm&#8212;if I succeed in that I shall do a great deal&#8212;this you can say
+to the <persName>Ayto</persName>. to whom I intended to have written by this mail, but
+will write a long letter by next [mail].</p>
+
+<p>[I have] sent some <placeName>papers </placeName>to <persName>Dn Ramon</persName> [with the] request to
+send them to you, they [v]omit -<hi rend="italic">fire </hi>against the <persName>present 
+administration</persName>. The death of <placeName>Guerrero </placeName>appears to have given new vigor,
+and a vindictive rage to the <persName>fallen party</persName>. <persName>Bustamte </persName>can truly say,
+as <persName>Calvits negro</persName> did the night his drunken <persName>master </persName>shot him <hi rend="italic">"I
+have taken my head in my hand" </hi>But, how many storms have
+passed away with a simple <hi rend="italic">válgame Dios.</hi> Thank God <placeName>Texas </placeName>is
+beyond the reach of these internal hurricanes and I hope they never
+will reach there, tho this depends mainly on the people of that
+<placeName>country</placeName>. <hi rend="italic">Keep harmony and Union among yourselves</hi>&#8212;and all is
+safe.</p>
+
+<p><hi rend="italic">Private</hi>&#8212;I wrote by last mail that your petition was granted&#8212;
+since then I have recd the testimonio and will send it and all the
+others by <persName>Fernando Rodrigues</persName> who starts in a few days for <placeName>Bexar</placeName>.</p>
+
+<p>The power of attorney is effected in union with myself&#8212;the <placeName>lower
+line is ten leagues from the West&#8212;</placeName>the <placeName>upper on the heads of the
+Brazos and Colorado</placeName>: I wish the <hi rend="italic"><persName>[B]oss</hi> [Teran?],</persName> to take a part
+in this&#8212;if he will, all is safe. I am operating on a pritty large
+scale, for a taciturn and noisless man, but I have no other object in
+view that [than] the genl prosperity of <hi rend="italic">us all</hi> and particularly of
+this <placeName>nation </placeName>and <persName>government</persName>. Keep all this to yourself: The fate of
+<placeName>Texas</placeName>, in some respects depends on the month of <hi rend="italic"><date n="05-xx-1831">May next</date></hi>&#8212;untill
+then look back and take council from the past a[nd keep] all quiet&#8212;
+you can shew [parts of?] the letter to <persName>Luke </persName>if you think prop[er but]
+to no one else and he must not mention or breathe it to anyone.</p>
+
+<p>Remember me affectionately to <persName>Sarah </persName>and <persName>Eliza </persName>and my <persName>little
+nephew </persName>and write me how <persName>Stephen </persName>is, you say nothing of him&#8212;I
+presume he is still at <placeName><persName>Westall</persName>s</placeName>. Send the enclosed by first
+opportunity.</p>
+
+<p><persName>S. F. Austin </persName>   [Rubric]</p>
+
+<p>Tell <persName>Mancha </persName>[that] her <persName>son </persName>is well and    *    *    *</p>
+
+<p>[Addressed:] <persName>Sam M. Williams</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4154">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 02-19-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-06">09-06-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 599-604
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-02-19">02-19-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">TODO</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Saltillo </placeName><date when="1831-02-19">Feb. 19. 1831</date>.</p>
+<p><persName>S M. Willams.  </persName> Dr Sir</p>
+
+<p>Yours of <date when="1831-01-25">25 Jany</date> is recd and the letters enclosed except the one
+from my <persName>sister </persName>which I hope you will send by next mail as I am very
+anxious to see it.</p>
+
+<p>I am much pleased with the new arrangement of the pap[er] tho I
+do not like the motto&#8212;<hi rend="italic"><placeName>Mexico </placeName>es mi patria</hi>, would do better, for it
+will be as much as to say to people <placeName>abroad  </placeName>"we have a <placeName>country </placeName>and
+are proud of it, and we are ready and willing to defend her rights,"
+and it will remind our <hi rend="italic">home folks</hi> whom they belong to. I 
+recommend that [the] motto I have suggested be adopted, or something
+like it.</p>
+
+<p>That <placeName>paper </placeName>must be conducted with great prudence, you have no
+idea there, what importance is attached, even to trifles, coming from
+the <hi rend="italic"><persName>Austinians</persName></hi>. That little establishment badly as it has been 
+conducted, has been of great service to [Texas] and has had an agency
+in warding off some blows that were meditated against that <placeName>country</placeName>,
+for it has in some degree tended to correct some very erronious
+opinions as to the character of the <placeName>new settlements</placeName> and their feelings
+towards the <persName>Govt</persName>.<pb n="600"/></p>
+
+<p><date n="Spring-1830">Last spring</date> the idea was very general in <placeName>Mexico </placeName>that <placeName>Texas </placeName>was
+the <placeName>Botany Bay of the U. S.</placeName> and that the <persName>Govt, of the North</persName> was
+secretly encouraging the emigration of bad <persName>men </persName>and <persName>vagabonds</persName>,
+who were destitute of principle, for the purpose of enciting them
+to rebel against this Govt, and produce confusion on the <placeName>frontier</placeName>,
+which would have been a pretext to enter the <placeName>country </placeName>and put
+things to rights as <persName>Jackson </persName>entered <placeName>Florida </placeName>etc. This <persName>Govt</persName>, now
+believes that the <persName>settlers of <hi rend="italic"><placeName>my colony</placeName> </hi></persName>at least, are men of principle
+who will respect their oaths of fidelity, and will never forget that
+they have recd fortunes from this <persName>Govt</persName>, and favors which no other
+Govt ever extended to any people. The suspicions against the
+<persName>U. S. Govt</persName>, are also all removed. But what is deemed to be the
+dignity of this Govt, will not suffer it to move the repeal of the
+law of <date when="1830-04-06">6 April</date> unless some prominent reason can be given for so
+doing. I wish the <persName>people of <placeName>Texas </placeName></persName>to give such a reason by proofs
+of fidelity and attachment to <placeName>Mexico </placeName>and the best way of 
+manifesting these proofs is through the <placeName>news paper</placeName>-&#8212; Let it be what its
+title <hi rend="italic">[The Mexicon Citizen]</hi> professes. A <hi rend="italic"><persName>Mexican </persName></hi>defends 
+everything that is <persName>mexican</persName>&#8212;but in genl terms, without being in favor or
+against political <persName>parties</persName>.</p>
+
+<p>The <persName>parties </persName>of this <placeName>country </placeName>are not clearly defined and have not
+that definite and fixed character, nor permanency of purpose which
+<persName>parties </persName>generally have in other <placeName>countries</placeName>. Thus, since the to[t]al
+overthrow and imprisonment of <persName>Guerrero</persName>, a new <persName>party </persName>has sprung
+up composed of <hi rend="italic"><persName>Guerreroists </persName></hi>and <hi rend="italic"><persName>Pedrassistas</persName></hi> a most unnatural
+connection, for the former expelled the latter by the revolution of
+the <persName>Acordada</persName>, and it seems as tho they had now united to put down
+the present <persName>administration</persName>&#8212;that effected, the <persName>Guerreroists </persName>will 
+perhaps enter the lists with <persName>Pedraza </persName>for the supremacy. If we enter
+into such a scramble we shall be like children in a mob, and as
+likely to be trodden upon by <persName>friends </persName>as by <persName>foes</persName>. Hence it is that
+situated as we are, it is dangerous to be classed as belonging to any
+party. Our neutrality injures neither, for our weight is of not
+sufficient importance to injure or benefit either materially, and it
+may gain us the good will of both, or what is of just as much
+importance to us, both will let us alone.</p>
+
+<p>You are well aware that in my intercourse with this govt. I have
+followed a few fixed rules from which I have never deviated since
+<date n="xx-xx-1821">1821</date> when I first entered the <placeName>country</placeName>. In the first place I came
+with pure intentions. I bid an everlasting farewell to my <placeName>native
+country</placeName>, and adopted this, and in so doing I determined to fulfil
+rigidly all the duties and obligations of a <hi rend="italic"><persName>Mexican </persName>citizen</hi>&#8212;- have
+endeavored to keep all the <persName>officers </persName>with whom I was in direct 
+communication in a good humor, and to make <persName>friends </persName>of them. I have
+excused and even invented plausable reasons to justify or explain<pb n="601"/>
+away all the political errors of my <persName>adopted countrymen</persName>. I have
+been silent as to all their defects, and lavish of praise where there
+was the least pretext for bestowing it, but at the same time 
+decissive and unbending where a constitutional or vested right of vital
+importance was directly attacked. Rights of minor consideration
+I have paid no attention to, for bad feeling might be engenderd
+about <hi rend="italic">trifles</hi>, that would jeapordise an important interest. To sum
+up all I have endeavored to do my duty as a <hi rend="italic"><persName>Mexican citizen.</persName></hi></p>
+
+<p>My <persName>native countrymen </persName>are blunt <persName>republicans</persName>, and do not always
+reflect sufficiently, and some of them have accused me of debility,
+want of firmness temporising etc. It was my duty to steer my
+precious bark (the <placeName>Colony</placeName>) through all the shoals and quicks [ands]
+regardless of the curses and ridicule of the <placeName>passengers</placeName>. I knew what
+I was about&#8212;<hi rend="italic">they </hi>did not.</p>
+
+<p>The law of <date when="1831-04-06">6 April</date> was founded in error and unjust suspicions,
+but to have said so, would have been very impolitic, and highly 
+injurious, for it would have wounded <hi rend="italic">self love, pride</hi> etc. (dangerous
+things to touch among any people) and it would have strengthened
+the suspicions which produced the law for everything said against
+it would have been taken as evidence of disaffection. For these 
+reasons in the remarks which were made in the <placeName><hi rend="italic">Texas</hi>[Gazette]</placeName> in
+<date n="06-xx-1830">June</date>, <date n="07-xx-1830">July </date>etc the policy of the Govt, was rather defended than
+condemned, and circumstances were stated to shew that there were
+reasons for that measure which justified it. This gratified the <hi rend="italic">self
+love</hi> of its <persName>authors </persName>on the one hand, (a great point gained) and they
+were very much surprised on the other to see that the very people
+who were most injured by the measure, were the first to excuse and
+defend it. This caused inquiries to be made through various 
+channels, as to the real characters of the <persName>settlers </persName>and their feelings
+towards the Govt, and the result has been very favourable as to my
+<placeName>colony</placeName>. This at once explains the reasons why so many more favors
+have been extended to that <placeName>colony </placeName>than to any other. The people
+at large know of no favors they have recd, neither do they know,
+nor can they appreciate what I have done for them for the past ten
+years, but <hi rend="italic">you </hi>and <hi rend="italic">I </hi>know that emigration to that <placeName>colony </placeName>could have
+been stopped, and that all the <placeName>ports </placeName>could have been closed, or a
+<persName>George Fisher</persName> with a guard put at each. These things ought to
+convince every reflecting <persName>man </persName>in that <placeName>Colony </placeName>that this Govt, will
+reward and properly appreciate all those who <hi rend="italic">do their duty as 
+<persName>Mexican </persName>Citizens</hi>, and who obey the laws and set their faces against 
+confusion and illegal proceedings.</p>
+
+<p>The foregoing remarks are made as an introduction for what is to
+follow&#8212;you will soon find yourselves in an awkward and rather
+delicate situation in that <placeName>Colony</placeName>, and I thought it might shed some<pb n="602"/>
+light upon the path which you ought to take, to explain fully the
+rules and policy I have uniformly pursued.</p>
+
+<p>There are two points of collision in prospective in that <placeName>country</placeName>,
+both of them, <placeName>East of my Colony</placeName>. One is between <persName>Madero </persName>and
+<persName>Teran</persName>&#8212;The other between <persName>Zavala </persName>and <persName>Teran</persName>&#8212;or rather between
+the latter and a <persName>company </persName>who have contracted to settle <persName>Zavalas</persName>,
+<persName>Vielen </persName>and <persName>Burnetts </persName><placeName>grants</placeName>&#8212;the <persName>Settlers </persName>are to be <persName>Germans</persName>, <persName>Swiss</persName>
+<persName>french </persName>etc&#8212;all <persName>Europeans</persName>&#8212;have nothing to do with these collisions-
+do as I have frequently been compelled to do&#8212;play the turtle, head
+and feet within your own shell&#8212;some of the people may curse and
+abuse&#8212;no matter&#8212;they abused me the best friend they ever had.
+Better break all the timber in <placeName>Texas</placeName>, than to break<persName> Boss [Teran?]</persName>
+for the former is plenty and can be replaced, but the lat[t]er being
+a fine texture is not to be found everyday. That <placeName>colony </placeName>is the heart of
+<placeName>Texas</placeName>; keep all sound there, and we shall gain the confidence of the
+Govt, and save the <placeName>Country</placeName>, but if you go to the extremities to try
+and cure diseases, you interfere with the head doctor, which he will
+take very ill (for all doctors are jealous of their prerogatives), and
+besides there will be danger of introducing disease into the <hi rend="italic">heart</hi>,
+by infection.</p>
+
+<p>XXX Whether the <persName>Genl Govt</persName>, has authority to annul <persName>Zavala</persName>'s
+<placeName>grant </placeName>or not is no question for us to interfere with, neither have we
+anything to do with <persName>Madero</persName>'s commission etc. those are matters 
+between the interested <persName>parties </persName>and the <persName>Govt</persName>, with which my <placeName>colony</placeName>
+ought to have nothing to do, in any shape manner or form. My <placeName>colony</placeName>
+has cleared away the rude asperities of the <placeName>wilderness</placeName>&#8212;made <placeName>Texas</placeName>
+known&#8212;given it a station in geography&#8212;a place, and a distinguished
+one, in the class of <hi rend="italic">desirable <placeName>countries </placeName></hi>and has demonstrated its value,
+by developing its resources. In doing <hi rend="italic">this</hi>, it has done enough to
+aid others who now wish to settle in that <placeName>country</placeName>, and they ought
+not to expect that we will unite with them in projects for forcing
+their way against the will of the <persName>Govt</persName>, or that we are to make 
+common cause of their quarrels and collisions, and if they do expect
+it I hope they will be deceived, hope! I know they will, for there
+is too much sound common sense and too much honest patriotism
+in the people of <placeName>Austins colony</placeName> for them to be misled, or to deviate
+from the line of their duty as <persName>Mexican Citizens</persName>, and besides they have
+a <hi rend="italic">great deal</hi> to loose, the others have much to gain but <hi rend="italic">nothing </hi>to
+loose. XXX </p>
+
+<p>But while, on the one hand, you avoid suffering yourselves to
+be made <persName>parties </persName>to the collisions which I have alluded to, against
+the Govt, also try on the other, not to take any active, or open,
+or any part at all in them against the new <persName>settlers</persName>&#8212;   Be mere lookers<pb n="603"/>
+on&#8212;say nothing&#8212;give no opinions&#8212;no advice&#8212;-take no part&#8212;have
+nothing to do with the matter at all&#8212;refer them to the Govt, but
+if <persName>Genl Teran</persName> issues any orders <hi rend="italic">obey them</hi>. He is our main stay.
+You may rely upon it and he is worthy of our confidence and support.
+Don't let the <placeName>paper </placeName>be made the vehicle for venting the spleen or
+abuse of <persName>Madero </persName>or anybody else, make it a <hi rend="italic">Dignified Calm Judicious
+" <persName>Mexican </persName>Citizen "</hi> adopt the motto I have proposed and adhere to
+its principles rigidly&#8212;all will come round right&#8212;many of the most
+influential men of all parties, in office, and out, in the <placeName>City of
+Mexico</placeName> and elsewhere have procured <placeName>grants in Texas</placeName> and more are
+dayly making. <hi rend="italic">All these </hi>are true friends to the real prosperity of that
+<placeName>country</placeName>. We can make them <hi rend="italic">our </hi>friends by adopting the policy
+I have indicated, or rather by following the policy I have always
+followed.</p>
+
+<p>You can submit this letter to the <persName>Congress </persName>or to as many of my
+<persName>friends </persName>as you think prudent, and should any serious difficulty arrise
+and you should think that it would do any good to make my 
+opinions known, you can have it done so far as <hi rend="italic">Congress </hi>may judge
+prudent and correct, by means of an editorial article&#8212;that plan
+would do better than to make any extracts [f]rom this letter.</p>
+
+<p><persName>Padre Muldoon</persName> left some days since&#8212;he wrote me from 
+<placeName>Monterrey </placeName>that he had recd his appointment of <hi rend="italic"><persName>Cura de Austin</persName></hi> from the
+<persName>Provisor</persName>, and I presume will soon be with you&#8212;his councils will be
+of service to you, and the <placeName>colony</placeName>, for I believe he has the true
+interests of that <placeName>colony </placeName>much at heart&#8212;he has some vanity, and I
+think a very benevolent heart, and pure intentions. I told him that
+<placeName>Texas </placeName>might be made a <placeName>Bishoprick </placeName>of in a few years, if we could
+get rid of the 13 article of our State Constitution,2 and the 11
+Article3 of the law of <date when="1830-04-06">6 April</date>. I am very much pleased with him,
+as a man, and much better as a <hi rend="italic">Padre</hi>.</p>
+
+<p>I have spun out a long thread and it is time to break off, which
+I will do by requesting you to remember me affcy. to<persName> Mrs. W.</persName> and <persName>Mrs.
+S.</persName> and to <persName>Luke [Lesassier]</persName>, <persName>Willy [E. M. Williamson]</persName>, <persName>Jack [one of
+three brothers&#8212;William H., Spencer, or Patrick C]</persName>, <persName>[Oliver] Jones</persName>,
+<persName>[F. W._] Johnson</persName> etc, and take good care of my <persName>nephew Moses
+Austin Bryan</persName>, besides being the <persName>grandson </persName>and bearing the name of
+the man who was the first <persName>author </persName>of all our fortunes in that <placeName>country</placeName>,
+he is the <persName>son </persName>of a very favourite <persName>sister </persName>of mine.
+Hasta Cada Rato</p>
+
+<p><persName>S. F. Austin.</persName></p>
+
+<p>N. B. If times get very bad and public opinion should seem to
+waver, it might be well to publish the paragraph marked thus&#8212;[Inserted XXX XXX on each side as symbols did not transfer.  DML] as an extract from me&#8212;tho all this left <hi rend="italic">totally </hi>to the wisdom of <hi rend="italic">congress</hi>.<pb n="604"/></p>
+
+
+
+
+ 
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
