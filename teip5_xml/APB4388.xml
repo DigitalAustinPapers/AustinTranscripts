@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4388">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 07-22-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-29">09-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 823-824
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-22">07-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructing him to provide transportation and supplies for Mexican troops.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><persName>Mr Samuel M. Williams</persName></p>
+
+<p>Furnish the <persName>troops </persName>of <persName>Lieut. Col. Ugartechea</persName> two wagons and
+provisions to last to<placeName> La Bahia</placeName> and two hundred dollars in cash. I
+have recd, here two hundred dollars [more?] and will take them
+up with me&#8212;make contracts for the waggons etc so as to get the
+proper vouchers. The provisions can be got in part on the road,
+some on <placeName>Colorado </placeName>and some on <placeName>Navidad</placeName>.</p>
+
+<p><placeName>Brazoria </placeName><date when="1832-07-22">July 22 1832</date></p>
+
+<p><persName>S. F. Austin </persName>  [Rubric]</p>
+
+<p>The waggons are needed to <placeName>La Bahia</placeName>&#8212;it probably will be the
+better plan to get them as far as <placeName>Guadalupe</placeName>, and have them re-<pb n="824"/>
+placed there by others for<placeName> La Bahia</placeName>&#8212;or perhaps some may [be]
+had on <placeName>Navidad </placeName>or <placeName>La Bahia</placeName>, All this can be done by writing to
+<persName>James Kerr, </persName>or some others.</p>
+
+<p><persName>S. F. Austin </persName>  [Rubric]</p>
+
+<p>Also furnish a horse for <persName>Lieut. Manuel Pintado</persName> to  [co]me to
+this place&#8212;and Bagages for the <persName>officers </persName>to go to <persName>La Bahia</persName>.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>Amigo <persName>D.  Samuel</persName>: No tengo lugar escribirle solo le  digo qe
+<persName>Duclor </persName>queda con su destino, y yo marcho a <placeName>Matamoros </placeName>exp. a la
+Señorita, y le encargo a V. qe me abilite a mi <persName>tropa </persName>lo mas pronto
+hta <placeName>la Bahia</placeName> pa. qe no tengan dificultades.</p>
+
+<p><persName>D. Ugartechea   </persName>[Rubric]</p>
+
+<p>(Indorsed):<persName> S. F. Austin </persName>  <date n="07-xx-1832">July 1832</date>   Order in favor of 
+<persName>Ugartechea </persName>for money.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

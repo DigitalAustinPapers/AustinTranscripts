@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4398">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Bowie to Stephen F Austin, 08-08-1832</title>
+            <author>
+                <persName>James Bowie</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-29">09-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Angeline, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 832-833
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-08">08-08-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing expulsion of Piedras's garrison from Nacogdoches.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Angeline </placeName><date when="1832-08-08">Augt. 8th. 1832</date></p>
+<p><persName>Coln Stephn F Austin</persName></p>
+
+<p>Sir I write to inform you that the <persName>12th. Regt. of Infantry
+formerly of <placeName>Nagodoches</placeName></persName> and in command of<persName> Col. Jose de las Piedras
+</persName>has been induced by certain <persName>American </persName>arguments to declare in favor
+of the Constitution of <persName>Sa Anna</persName>&#8212;that <persName>Col. Piedras</persName> is a <persName>prisoner </persName>in<pb n="833"/>
+<placeName>Town </placeName>soon to be dispatched for <placeName>Anahuac</placeName>,&#8212;and that the <persName>Regt</persName>. has
+put itself under my command. They are now on their march for
+<persName>San Felipe de Austin</persName> They are very destitute of necessaries, and in
+particular of horses and provisions. The <persName>Officers </persName>are many of them
+on foot. If you have, or can procure twenty horses or cattle or
+provisions on a/c of Govt, and will forward them on to meet us
+you will much facilitate the cause of our <persName>Chief </persName>We depend much
+on you in this thing.</p>
+
+<p><persName>James Bowie</persName>   [Rubric]</p>
+
+<p>P. S.   There have been killed in the recent action at <placeName>N.------</placeName>of
+the <persName>Spanards </persName>33, and about 17 or 18 <persName>wounded</persName>&#8212;of the <persName>Sa Annistas</persName>
+3 and 7 <persName>wounded</persName>. More particus on arrival. The <persName>Alcalde of N.
+</persName>among <persName>killed</persName>.</p>
+
+<p><persName>J B.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

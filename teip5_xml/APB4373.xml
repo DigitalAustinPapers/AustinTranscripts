@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4373">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 07-02-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-27">09-27-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 810-811
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-02">07-02-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for extricating Texas from difficulties.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p>[Matamoros] <date when="1832-07-02">July 2 1832</date></p>
+<p>Dr Sir,</p>
+
+<p>Since writing things have changed&#8212;<hi rend="italic">Exert </hi>by which I wrote to
+<persName>Ugartechea </persName>and to <persName>Musquis</persName>, <persName>John</persName>, the <persName>alcalde </persName>and you went <placeName>ashore</placeName>
+<date when="1832-07-01">yesterday </date>and it is said will be lost&#8212;this will detain my letters. I
+send by <persName>Grey </persName>a duplicate to <persName>Ugartechea</persName>&#8212;keep a copy of it and my
+other letter to him of this date. I have sent a copy to <persName>Musquis </persName>of
+the letter of <date when="1832-06-29">29</date> and I wish you to send him a copy of my other of
+this date&#8212;also shew them to <persName>John</persName>, but do not have them made 
+public&#8212;tho use them as the public good may require.</p>
+
+<p>1.  Let the basis of all that is done be to sustain the constitution
+and authority of the <placeName>State of Coahuila y Texas</placeName>.</p>
+
+<p>2.  To adhere firmly to <placeName>Mexico </placeName>and the <placeName>Mexican confederation</placeName>, and
+to preserve entire the integrity of the <placeName>Mexican Territory</placeName></p>
+
+<p>3.  To approve of the principles of the <persName>democratic constitutional
+federal party</persName>, of which <persName>Genl. Santana</persName> is the active <persName>leader</persName>.</p>
+
+<p>The two first are the most important and must be the basis of all
+that is said or done.</p>
+
+<p><persName>Moctesuma </persName>left <placeName>Tampico </placeName>on the <date when="1832-06-23">23 </date>for <placeName>Victoria </placeName>with 1500 <persName>men</persName>.
+<persName>Teran </persName>was in that place on the <date when="1832-06-27">27</date>, so he cannot come here. <persName>Mexia</persName>
+has done himself great credit as a <persName>man </persName>and a <persName>soldier</persName>-&#8212;all is peace
+and harmony. The Grampus U. S. Schooner is here&#8212;the <persName>Cap. 
+Tatnall</persName> and the <persName>consul of <placeName>Tampico </placeName>Robertson</persName> are now in this place.
+I think one result of the <persName>commissioners </persName>appointed by <persName>Santana </persName>and
+the <persName>Govt</persName>, will be a treaty of peace. Get <persName>Greaves </persName>to translate my
+letters to <persName>Ugartechea</persName>, so that <persName>John </persName>and the <persName>Ayuntamto </persName>can 
+understand them, or get <persName>Chambers </persName>to do it&#8212;let him see them.</p>
+
+<p>It would be best to leave out the 3d point I mention on the other
+side, unless the state of things requires it and <persName>Ugartechea </persName>takes that
+side&#8212;should the <persName>chief </persName>be there try and animate him to sustain the
+dignity of the <placeName>State </placeName>against military attacks&#8212;have all things suspended 
+and try and keep the public mind quiet. I think I shall
+go to see <persName>Teran </persName>again and from there to <placeName>Saltillo</placeName>&#8212;my object is to get
+such orders as will put all matters in <placeName>Texas </placeName>at rest and if the <persName>Chief</persName>
+will prepare the mind of the <persName>Governor </persName>properly by a statement of
+the facts, so as to show that the people have in fact done no more<pb n="811"/>
+than to sustain the outraged dignity and authority of the <placeName>State</placeName>, I
+shall be able to do something. But if he throws all the blame on the
+<persName>people </persName>it will be a very bad business all round.</p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+<p>Seal <persName>Ugartechea</persName>'s letter after you have taken the copies and send
+it as quick as possible.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4393">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ramon Musquiz, 07-28-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-29">09-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ramon Musquiz
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 825-828
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-28">07-28-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explaining why his colonists declared for Santa Anna&#8212;primarily because he represents the liberal, republican, and constitutional party. Previous troubles due to Bradburn and Fisher. No one desires separation from Mexico; convinced, on the other hand, that that would ruin Texas. All wish to form a separate state of the Mexican federation. For this population is needed, and therefore the eleventh article of the law of April 6, 1830, must be repealed. Hopes that Bexar will declare for Santa Anna and petition for reforms.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>San Felipe de Austin</placeName> <date when="1832-07-28">July 28th 1832</date></p>
+<p>Most esteemed chief and friend</p>
+
+<p>I suppose that you have received the few lines that I wrote to you
+hurriedly from <placeName>Brazoria</placeName>. In that letter I manifested the opinion
+that under the actual circumstances it was very important for us
+all to join the plan of <persName>Santa Anna</persName>: I will in this letter explain that
+idea, and expose the reasons on which I ground it. In the first
+place, in regard to this <placeName>Colony</placeName>. On my arrival at <placeName>Brazoria</placeName>, I met
+the whole <persName>people </persName>unanimous and enthusiastic in favor of the plan
+of <persName>Santa Anna</persName>. They welcomed <persName>General Mejia</persName> with such rejoicing
+and enthusiasm as I had never witnessed in this <placeName>country</placeName>. On the
+day before in a large meeting they had resolved to persevere in their
+adhesion to the plan of <placeName>Veracruz</placeName>, and that previous to having heard
+of the arrival of <persName>Mejia</persName>. Under such circumstances, and observing
+that the personal feelings against the <persName>inhabitants </persName>who had not given
+their adhesion, and more particularly against the <persName>Ayuntamiento</persName>
+were rather violent, and even gave rise to strong excitement against
+some <persName>individuals</persName>; considering also the situation in which the <placeName>colony</placeName>
+would be in regard to the division command by Col. Mejia if they
+did not pronounce themselves; and finally taking into consideration
+that the <persName>party of Santa Anna</persName> is truly the <persName>liberal republican</persName>, and
+<persName>constitutional party</persName>, and that it is proper that a strong manifesta-<pb n="826"/>
+tion of opinion should be made throughout the <placeName>Republic </placeName>in favor
+of the plan of <placeName>Veracruz</placeName>, as the only means to bring civil war to an
+end, and to secure peace and the constitutional liberty of the 
+<placeName>Nation</placeName>. I expressed my opinion to the <persName>Ayuntamiento</persName>, advising them
+to pronounce themselves in order to avoid evils and local 
+misunderstandings which prove always fatal. A meeting of the 
+<persName>Ayuntamiento </persName>took place the <date n="7-26-1832">day before yesterday</date>, and another <date n="7-27-1832">yesterday</date>,
+of the <persName>people</persName>, which was well attended, and in which the plan of
+<placeName>Veracruz </placeName>was unanimously adhered to, the most perfect unison and
+harmony prevailing in that expression of the public will. The 
+resolutions and their preamble contain a true manifestation of the
+causes and origin of the difficulties at <placeName>Anahuac</placeName>, and of the objects
+of those who went to attack <persName>Bradburn</persName>, in short they offer a 
+concise history of the whole transaction. It was said by the <persName>partizans</persName>
+of the <persName>Cabinet at <placeName>Matamoras</placeName></persName>, that the <persName>colonists </persName>had risen against
+the integrity of the <placeName>territory</placeName>, and a thousand other false and
+imaginary versions.</p>
+
+<p>You may in your visit here have formed a correct idea of the
+whole affair, and I am convinced that there was no other object
+in view, but to show to the despot<persName> John Davis Bradburn</persName>, that
+there is such a thing as the constitution and <placeName>State of Coahuila and
+Texas</placeName>. That man was the cause of the whole evil, loss of life, and
+misfortune. I assure you most solemnly, that I have not heard,
+even from the mouth of the most exasperated, one word against
+any <persName>Mexican </persName>holding an important command, or in office in these
+<placeName>colonies</placeName>: The complaints are against <persName>Davis </persName>and <persName>Fisher</persName>, and most
+particularly against the despotic procedings of the first, always
+supported by <persName>General Teran</persName>. <persName>Fisher </persName>told me at <placeName>Matamoras</placeName>, that
+the untimely, impolitic, and impracticable order issued by him on
+the <date when="1831-11-24">24th of November last</date>, in relation to the Navigation of the
+<placeName>Brazos River</placeName> was dictated by <persName>General Teran</persName> himself, and cannot
+be charged to him, as he did but obey: In such case he has been
+very unfortunate, because the whole odium fell on his head. I
+assure you also, with the same solemnity, that I have not heard
+one single word, that might countenance insinuations, often made
+by <persName>friends </persName>of the <persName>Cabinet </persName>and <persName>enemies </persName>of <placeName>Texas</placeName>, that the <persName>colonists</persName>
+wished to secede and to declare their independence from the 
+<placeName>Mexican Federation</placeName>. On the contrary, the most intelligent among them,
+told me that the late difficulties have convinced them more than
+ever, that to think of such a thing would be the ruin of all. My
+own and the general wish is, to see <placeName>Texas </placeName>forming by itself a <placeName>State
+of the Federation</placeName>, and as long as it is not so, we can expect no
+peace, progress nor government, and in fact nothing.<pb n="827"/></p>
+
+<p>In answer to the question, what are the causes of the 
+convulsions in <placeName>Texas</placeName>, and why did they declare themselves in favor of
+the plan of <placeName>Veracruz</placeName>, You may say; that in <placeName>Texas</placeName>, there is a 
+<persName>military government</persName>, more or less despotic according to the character
+and disposition of the<persName> commanding officers</persName>: that there is a <persName>civil
+government</persName> more or less strong, according to the disposition and
+intelligence of the <persName>Alcaldes</persName>, and <persName>Ayuntamientos</persName>, and their distance
+from a <placeName>military post</placeName>, and thus there is no government at all in
+several points, excepting that which originates in a mutual 
+agreement on the part of the people to submit to the decisions of some
+persons elected by them: But at the same time, all acknowledge
+the authority and laws of the <placeName>Nation </placeName>and <placeName>State</placeName>: There is not
+throughout <placeName>Texas</placeName>, one single "<persName>Juez de Letras,</persName>" nor one 
+"<persName>Licenciado</persName>." The <persName>supreme tribunal of Justice</persName> is at <placeName>Saltillo</placeName>, a distance
+of 300 leagues. The <persName>legislature </persName>understands neither the situation
+nor the wants of <placeName>Texas</placeName>, nor can it understand them. The <persName>military
+powers</persName> under the anti-republican anti-liberal administration of
+<persName>Guerrero's assassins</persName> who have extended their iron sceptre over the
+<placeName>nation</placeName>, since the <persName><hi rend="italic">black cloud of </hi>Jalapa</persName> appeared, have treated the
+government and constitution of the <placeName>State of Coahuila and Texas
+</placeName>with a complete contempt. If the <persName>authorities </persName>of the <placeName>State </placeName>have
+borne such insults, there is no reason why the people should do so.
+In short, you may say that <placeName>Texas </placeName>needs a <hi rend="italic">government</hi>, and that
+the best she can have, is to be created a <placeName>State </placeName>in the <placeName>Mexican 
+Federation</placeName>. For which we want more population, and to obtain it,
+the Article 11th of the law of <date when="1830-04-06">April 6th 1830</date> must be abrogated.</p>
+
+<p>The <persName>inhabitants </persName>of <placeName>Texas </placeName>have always had their eyes and hopes
+fixed on the <persName>authority </persName>and <persName>Ayuntamiento of the Capital of <placeName>Bexar</placeName></persName>,
+they with that City, would take the lead in advocating and defending
+the interests and rights of <placeName>Texas</placeName>. It is the <placeName>oldest settlement</placeName>: the
+<persName>fathers </persName>and <persName>forefathers </persName>of its <persName>inhabitants</persName>, have conquered the 
+<placeName>wilderness </placeName>and struggled against the <persName>Indians</persName>. In the years <date n="xx-xx-1820">1820</date>-<date n="xx-xx-1821">1821</date>-<date n="xx-xx-1822">1822</date>
+and <date n="xx-xx-1823">1823</date>, they were reduced to almost the last stage of decline and
+suffering, and the whole of <placeName>Texas </placeName>was in danger of returning to its
+primitive state, to be untrodden by <persName>civilized people</persName>. The 
+<persName>immigrants </persName>did not, and do not believe that <placeName>Bexar </placeName>would shut its eyes
+to the evils that affect the <placeName>Country</placeName>, or would remain contented and
+silent, without even representing against the measures that prevent
+emigration, and paralyze the progress of the <placeName>land of their <persName>ancestors</persName>.</placeName>
+It is now time for it to meet the expectation of the people. <placeName>Bexar</placeName>
+must speak in a respectful, but firm and decided tone and voice,
+fearless of commanding <persName>generals</persName>, bayonets, <persName>ministers</persName>, or any body.
+Let it adhere to the pronounciamento of <placeName>Veracruz</placeName>, urge the whole
+of <placeName>Texas </placeName>to do the same, and thus unite us under the flag of the<pb n="828"/>
+Constitution. Let it represent against the laws preventing 
+imigration from other <placeName>countries</placeName>, request that the above be flung open to
+all <placeName>nations </placeName>at peace with the <placeName>Republic</placeName>. Let it complain of the
+maratime tariff, a barbarous contrivance ruinous to agriculture; let
+it expose clearly the abuses of the <persName>military power</persName>, and above all, let
+it be the first to urge a separation from <placeName>Coahuila </placeName>and the formation
+of a <placeName>seperate State</placeName>. The character of the <persName>people of <placeName>Texas </placeName></persName>is 
+interprizing and decided, they scorn dangers and laugh at obstacles;
+therefore if <placeName>Bexar </placeName>wishes to be at the head of these people, it must
+be decided in its course, it must be <placeName><hi rend="italic">Mexico-Texan</hi></placeName>.</p>
+
+<p>If <placeName>Bexar </placeName>will pronounce itself, <placeName>Nacogdoches </placeName>will follow, but 
+otherwise the people of that district will do what they have done here;
+they will attack <persName>Colonel Piedras</persName>, and the whole population will be
+up again, and <placeName>Mexico </placeName>overflowed with rumors and lies about the
+<hi rend="italic">rebellion of the <persName>colonists</persName></hi> of Texas: All this may be avoided if <placeName>Bexar</placeName>
+follows the example given by this town and <placeName>LaBahia</placeName> Things have
+now come to such a pass, that lukewarm measures are ruinous, it
+is necessary to adopt a <persName>party</persName>, and to declare it publicly, otherwise I
+apprehend that it would be difficult to avoid difficulties, divisions,
+and local ill feeling throughout <placeName>Texas</placeName>.</p>
+
+<p><persName>Señor Mejia</persName> left the<placeName> mouth of the Brazos </placeName>for <placeName>Anahuac</placeName>, and may
+thence proceed to <placeName>Nacogdoches</placeName>, in which case, the people will join
+him in mass. All this may be avoided if <placeName>Bexar </placeName>and <placeName>Nacogdoches</placeName>
+pronounce themselves, and the whole of <placeName>Texas </placeName>unites in mass under
+the same banner&#8212;that of <persName>Santa Anna</persName>. I have expressed my opinion
+to the<persName> government of the Nation</persName> and that of the <placeName>State</placeName>, as well as
+to <persName>General Santa Anna </persName>from <placeName>Matamoras</placeName>, with a particular notice
+of the slanderous, unjust and Machiavellian lie, of that imaginary
+ghost raised by the <persName>aristocratic and designing enemies</persName> of the 
+immigration of <persName>republican settlers</persName>&#8212;that the <persName>inhabitants </persName>of <placeName>Texas </placeName>wish
+to secede from <placeName>Mexico</placeName>. I have also declared that it is impossible
+to rule <placeName>Texas</placeName>, militarily, and that its peace would be endangered
+in proportion to the increase of regular <persName>troops</persName>, above the sufficient
+number for the protection of the <persName>frontier </persName>from the <persName>Indians</persName>. Some
+<persName>friends of the liberal party</persName>, asked me at <placeName>Monterey</placeName>: What are the
+<persName>Ayuntamiento </persName>and <persName>People of <placeName>Bexar</placeName></persName> about that they do not manifest
+to the <placeName>nation</placeName>, the true state of affairs in <placeName>Texas</placeName>? Why do they not
+represent against article 11th of the law of <date when="1830-04-06">April 6, 1830</date>, which
+opposes so many obstacles to emigration? I write to you with my
+accustomed candor, and with the most sincere wishes for the 
+prosperity and peace of my <placeName>country</placeName>, and in these terms I avail myself
+of this occasion to give you the assurance of the respect and cordial
+friendship of your fellow citizen and friend &amp;c.</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4391">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W C Whitaker to Stephen F Austin, 07-25-1832</title>
+            <author>
+                <persName>W C Whitaker</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-29">09-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Clinton</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 824-825
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-25">07-25-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking about political conditions in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Clinton</placeName> <date when="1832-07-25">July 25th. 1832</date></p>
+<p><persName>Col Austin</persName></p>
+
+<p>Dr Sir I have not written to you on my return <placeName>home </placeName>according
+to my promise when in your <placeName>Country</placeName>. I had for some time declined
+the Idea of visiting your <placeName>Country </placeName>again, owing to misfortune in my
+<persName>family </persName>etc. At present however I have become satisfied to come to
+Your <placeName>Country </placeName>in the <date n="Fall-1832">fall</date>, provided I can hear from you, and 
+understand the state of affairs, I see an account in one of your last <placeName>papers</placeName>,
+of a meeting of the <persName>Inhabitants </persName>of your <placeName>Colony </placeName>and resolutions past
+etc also I see an account of <persName>Bradburn</persName>s defeat at <placeName>Anhuac </placeName>by <persName>Capt
+Adams</persName> and also of the defeat of <placeName>Velasco </placeName>Commanded by <persName>Capt John
+Austin</persName> on the <date when="1832-06-27">27th June</date>, since which time I have become quite
+anxious to hear the true and correct statement of the state of the
+<placeName>Country </placeName>at present, Therefore Col I wish you to write me 
+respecting the same and give me your opinion with regard to what I could
+do there at present, and what I will have to depend on when I come<pb n="825"/>
+if I do,   I shall come to remain in the <placeName>Country</placeName>, to make it my home
+perhaps for life&#8212;</p>
+
+<p>I should be very happy to be there, in defence of your <placeName>Colony </placeName>and
+there is numbers in my <placeName>Parish </placeName>who would go at any time, where
+there should be and inducement held out to them worthy of their
+attention&#8212;we are all anxiously awaiting to hear of <persName>Santa Anna</persName>
+proveing Victorious and your <placeName>Colony </placeName>open for <persName>emigrants</persName>, and to see
+your <placeName>Colny </placeName>at peace and a Flourishing write me upon the reception
+of this, and you shall either hear from me amediately, or see me
+personally and accompanied by as many as you would wish If
+directed by you so to do&#8212;</p>
+
+<p><persName>W. C. Whitaker </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

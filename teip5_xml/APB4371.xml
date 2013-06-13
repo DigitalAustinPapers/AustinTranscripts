@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4371">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 07-01-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-27">09-27-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 807-809
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-01">07-01-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">The Santa Anna revolution. Advice for avoiding conflict in Texas. Fidelity to Mexico.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><date when="1832-07-01">July 1. 1832</date></p>
+<p>Dr Sir&#8212;</p>
+
+<p>A revolution&#8212;or rather a change of <persName>garrisons </persName>has taken place in
+this town<persName>&#8212;Col. J. A. Mexia </persName>entered on the <date when="1832-06-28">28 </date>without opposition,
+he fired three cannon shot at a small party of <persName>cavalry </persName>between this
+and the <placeName>Brazo</placeName>, which dispersed them. The most of them joined him,
+and escorted him <placeName>into town</placeName>, for he brought none but <persName>infantry</persName>, as he
+came by water.</p>
+
+<p>I have never seen anything conducted with so much good order&#8212;
+one <persName>party </persName>quietly marched off towards <placeName>San Fernando</placeName>, and the other
+as quietly marched in and took up quarters in the <placeName>barracks</placeName>. The
+ordinary business of the <persName>merchants </persName>was not interrupted one hour&#8212;
+not one cent of private property has been touched&#8212;not one act of
+confusion nor even of disorder has occurred since <persName>Mexia </persName>arrived.
+By the by, he is a very different man <hi rend="italic">now </hi>from what he was when
+you knew him&#8212;he has had ten years experience, a great part of the
+time as <persName>Secretary of Legation in <placeName>Washington city</placeName></persName>&#8212;he is now a useful,
+and I think quite a liberal and good man, I am much pleased
+with him.</p>
+
+<p>I have written to <persName>Ugartechea </persName>by the express which left here on the
+<date when="1832-06-27">27</date>, also <date when="1832-06-28">day before yesterday</date> by <persName>cap Ross</persName> of the <hi rend="italic">Exert </hi>bound to
+<placeName>Galveston</placeName>, he promised to call at the <placeName>mouth of the river</placeName>. I also
+wrote to <persName>Musquis</persName>, to the <persName>Alcalde</persName> to <persName>John </persName>and to you.</p>
+
+<p><persName>Ugartechea </persName>is ordered to take command at <placeName>Anahuac</placeName>. <persName>Duclor </persName>is
+ordered <placeName>from the mouth of the river to Brazoria</placeName>. <persName>Cortina is 
+provisional collector of <placeName>Galveston</placeName>.</persName></p>
+
+<p>The course for the people there to take in the present distracted
+state of the <placeName>nation</placeName>, is to declare that <hi rend="italic">they will take no part in the civil
+war at all&#8212;that they will do their duty strictly as <persName>Mexican 
+Citizens</persName>&#8212;that they will adhere to <placeName>Mexico </placeName>and to the gen. and State
+constitution, and resist any unjust attacks upon either, by any, or by
+all <persName>parties </persName>no matter who they may be.</hi></p>
+
+<p>This must be the basis of all they do, or say,&#8212;that is, should they
+find themselves bound to do, or say anything to protect their personal<pb n="808"/>
+security and property from unjust and arbitrary attacks-&#8212;but should
+there be no such necessity they ought not to say, or do anything&#8212;
+a dead calm is the best.</p>
+
+<p>I am told the <persName>chief of department</persName> has gone on&#8212;<hi rend="italic">he must act</hi>, and
+sustain the dignity of the <placeName>State</placeName>. I recd an officio from<persName> Genl Teran
+</persName>informing that he had ordered <persName>Ugartechea </persName>to advise with me, and
+put himself <hi rend="italic">de accuerdo</hi> with me, I am requested to do the same
+with <persName>Ugartechea</persName>&#8212;in obedience, and full complyance with this request
+I have written to <persName>Ugartechea </persName>twice. I sent a copy of my first letter
+to the <persName>Chief </persName>by the <persName>express</persName>, and of the last by the <hi rend="italic">Exert</hi>, and I now
+enclose you another for <persName>Ugartechea</persName>.</p>
+
+<p>From the best information I can get I think that <persName>Teran </persName>will be
+upon <persName>Mexia </persName>in this place in a day or two with his whole <persName>force</persName>&#8212;if so it
+will be a bad business, and I fear the result for <persName>Mexia </persName>is in a just and
+good cause and deserves to get through well&#8212;his movement here
+was bold and prompt, and well managed.</p>
+
+<p>I say that he is in a good cause for the reason that what is called
+the <persName>Santana party</persName>, is in fact the <persName><hi rend="italic">democratic republican federal</hi> part</persName>y
+of the <placeName>nation</placeName>, opposed to the <persName>aristocratic party</persName>.</p>
+
+<p>I have waited here to see the event of these things before I went
+to <placeName>Saltillo</placeName>&#8212;shall probably start <date when="1832-07-02">tomorrow</date> if nothing new occurs.
+Tho if <persName>Teran </persName>is close at hand, I will wait and see the end of his
+attack, he will take the place of course, for his <persName>force </persName>is very 
+superior&#8212;it is said that <persName>Moctezuma </persName>has taken the field, which it was
+thought would detain <persName>Teran</persName>, but I doubt that-&#8212;it is not certain.
+How horrid is civil war. God keep it away from <placeName>Texas</placeName>. <persName>Mexia </persName>will
+not go to <placeName>Texas</placeName>, there is no object he can affect by going there, but
+on the contrary it would only make confusion. I have advised him
+not to go there and he will not&#8212;neither did he intend to go when
+he left <placeName>Tampico</placeName>.</p>
+
+<p>The <persName>Governor of the State Vital Fernandez</persName> came with him from
+<placeName>Tampico</placeName>, the<persName> Lieut, Govr Juan Molano</persName> is also here.</p>
+
+<p>Keep peace in <placeName>Texas</placeName>, and if there is anything done, mind the
+<hi rend="italic">main basis</hi>, Union to <placeName>Mexico</placeName>, <hi rend="italic">and obedience and adherence to the
+Constitution,</hi> repeat this basis in all that is done, and all that is
+said&#8212;never loose sight of it one moment.</p>
+
+<p>I have had a good deal of talk with <persName>Fisher</persName>, and am reconciled
+with him&#8212;his intentions were better than were supposed, but he
+greatly mistook the means and committed imprudencies of which
+he is now aware&#8212;he never intended to go back&#8212;or at least not
+soon&#8212;let him alone&#8212;say no more about him&#8212;he is an unfortunate
+man and anything said against him now will be taken for persecu-<pb n="809"/>
+tion&#8212;he would finally have done well and made a good collector,
+but he thought that he must be very rigid at first&#8212;</p>
+
+<p>Let the past be forgotten&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Teran </persName>was still in <placeName>victoria </placeName>on the <date when="1832-06-27">27</date>.</p>
+
+<p><persName>S. M. Williams</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4360">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 06-24-1832</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-26">09-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 798-799
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Draft</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-06-24">06-24-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Draft of a law to abolish security for debt.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[June 24, 1832.]</p>
+<p>Desirous that the <persName>Colonists of <placeName>Austins Colony</placeName></persName> should prosper in
+wealth peace and harmony. From and after the promulgation of this
+Law no debt shall be recoverable by law that is contracted between
+any <persName>persons in the <placeName>Colony </placeName></persName> but it will be considered when one credits
+another [that] it is in faith of the good opinion and confidence he
+entertains of him and does it to oblige and not to ruin him and if
+the person credited decieve the other he is a base character and
+never will be respected and his credit for ever damd. many 
+objections may be raised but when both sides of the question are examined
+fairly it will appear evident it is very much in favor of the poor, as
+it is them generally who want credit&#8212;-then <persName>monied men</persName> prey upon
+them&#8212;they will apply for credit and if it is for property and the
+<persName>owner </persName>has it to spare he will deniand 50 or 100 per cent more than
+he would be willing to take in cash by waiting a year, there is
+from 50 to 100 per cent on his property and money is not worth
+more than 10 percent, I have known many <persName>widows </persName>and <persName>Orphans</persName>
+ruined by the like for the <persName>man </persName>would drink and trade while drunk
+and everyone [was then] his <persName>friend</persName>, because he had a little property
+and at the same time they are planning to ruin him. let him have
+what he wants for he is good and they can make him willing by
+law and every advantage is taken of his distress. The <persName>family </persName>is
+brought to suffer,   It is generally said that it is hard to pay a<pb n="799"/>
+security debt. This [law] prevents any one from giving or asking a
+security except in cases where men have confidence and are willing
+to pay one another's debts. Men generally do not credit for more
+than one Year and their is some one that will oblige him if he is a
+good <persName>man </persName>and if not they had better as they have been Obliged to
+do in this <placeName>country </placeName>suffer one year than be eternally ruined; For
+instance had there been plenty of provisions and clothing brought
+here and sold at the Enormous prices that the <persName>settlers </persName>would have
+given it would have been their ruin instead of that they have
+suffered and now are clear of debt and have plenty of provisions it
+may be said if one gets credit and dies the property is lost. It had
+better be than ruin a poor family but this can be remidied for every
+man intends for some one to manage his Estate when he dies let
+him take with him his <persName>friend </persName>and both pass their word and should
+one die all will be wright. The <persName>creditor </persName>does it to favor the <persName>debtor</persName>
+and not to ruin him. Much could be said on this subject.</p>
+
+<p>Let it be plainly understood that if one of this <placeName>Colony </placeName>Contracts a
+debt out of the <placeName>Colony </placeName>where a similar law does not exist the most
+speedy remedy at Law must be used for the collection of it and all
+debts contracted previously to this shall be collected by Law.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4383">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Antonio Mexia to John Austin, 07-16-1832</title>
+            <author>
+                <persName>Jose Antonio Mexia</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-29">09-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazos River on board the Brig of War Genl. Santana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazoria, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 818
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-16">07-16-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Informing Austin of the object of his expedition.  Will unite with Texans if their object is to support the Santa Anna movement.  Austin replies with accout of Bradburn's military aggressions.  Citizens are upholding the constitution and laws and cooperating with Santa Anna.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Translation, by Austin, of Col.  Mexias letter to the Alcalde John  Austin letter and reply]</p>
+
+<p>I have the honor to enclose you a copy of the convention entered
+into between the<persName> Commandant in chief of Matamoros</persName> and myself
+on the<date when="1832-07-06"> 6 of the present month.</date> This document will inform you of
+the motives which brought me to <placeName>Texas</placeName>, and what would have been
+my course had the late movements here been directed against the
+integrity of the <placeName>national territory</placeName>.</p>
+
+<p>But if, as I have been assured by respectable <persName>citizens</persName>, the past
+occurrances were on account of the <persName>colonists </persName>having adhered to the
+plan of <placeName>vera Cruz</placeName>, and I am officially informed of that fact in an
+unequivocal manner, you can in that case assure the <persName>inhabitants</persName>
+that I will unite with them to accomplish their wishes, and that
+the forces under my command will protect their adhesion to said
+place.</p>
+
+<p>This occasion affords me the opportunity of presenting to you the
+assurances of my consideration and respect&#8212;</p>
+
+<p>God and Liberty <placeName>off the mouth of the Brazos river on board the
+brig of war Genl Santana.</placeName></p>
+
+<p><persName>José Antonio Mexia</persName>.</p>
+<p>To Citizen <persName>John Austin Alcalde [of Brazoria]</persName></p>
+
+<p><date when="1832-07-16">16 July 1832</date>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

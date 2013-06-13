@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4378">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Jose Antonio Mexia, 07-09-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-27">09-27-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Mexia
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 813
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-09">07-09-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Will accompany Mexia to Texas. Convinced that the colonists have no designs on the integrity of Mexican territory, but that they are resisting unconstitutional acts of the military.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I have received your communication of the<date when="1832-07-08"> 8th inst</date>. accompanying
+a letter of <persName>Colonel Guerra</persName> of the <date when="1832-07-07">7th </date>also a copy of the articles of
+agreement, entered into between that <persName>officer </persName>and yourself on the <date when="1832-07-06">6th</date>.</p>
+
+<p>You are pleased to say to me in your communication that you and
+<persName>Colonel Guerra</persName> agree that I ought to accompany you in your 
+<persName>expedition </persName>to <placeName>Texas</placeName>, in order to contribute by my influence in the <placeName>colonies</placeName>
+to calm the passions of the <persName>people </persName>unhappily aroused there, In
+answer, I have the honor to say that I am ready to accompany you
+and anxious to contribute with all my power to the service of my
+<placeName>adopted Country</placeName>. At the same time I would observe that I am 
+convinced that the <persName>Colonists of <placeName>Texas</placeName></persName> have no views opposed to the
+integrity of the <persName>Mexican Government</persName>. The disturbances there were
+in consequence of the arbitrary conduct of the <persName>Officers of the 
+General Government</persName> and excesses committed against the Constitution
+and rights of the <placeName>State of Coahuila and Texas</placeName>, and had no other
+cause, How ever I believe that my presence in <placeName>Texas </placeName>is necessary
+to calm the irritation and to restore harmony.</p>
+
+<p>I avail myself of this occasion to present to you the assurances of
+my respect and consideration</p>
+
+<p>God and Liberty</p>
+
+<p><persName>Stephen F. Austin</persName></p>
+
+<p><placeName>Matamoras </placeName><date when="1832-07-09">July 9th 1832</date></p>
+
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4384">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Austin to Jose Antonio Mexia, 07-18-1832</title>
+            <author>
+                <persName>John Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-29">09-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Mexia
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 881-820
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-07-18">07-18-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Proceedings of public meeting at Brazoria.  Resolutions declaring adherence to Santa Anna.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Answer of the Alcalde John Austin to the foregoing official letter]</p>
+
+<p>I have recd, your official letter dated <date when="1832-07-16">16 of the present month</date>, and
+in reply have the honor to inform you that a <persName>committee </persName>appointed by
+the <persName>inhabitants of this <placeName>town </placeName></persName>will present to you copies of the acts
+and resolutions heretofore adopted and the documents as to the past
+occurrances, which will explain to you the principles that have 
+governed us up to this time&#8212;. These documents contain our true 
+sentiments, and will serve as an answer to your official letter to me dated
+the <date when="1832-07-16">16 of this month</date></p>
+
+<p>The <persName>enemies of <placeName>Texas</placeName>,</persName> the <persName>enemies </persName>of the enterprising <persName>men </persName>who
+have devoted their time and labor to improve a <placeName>country </placeName>that was
+never before trod by<persName> civilised man</persName>, have taken pains, and are 
+continually doing it, to attribute to us a disposition to separate from
+the <placeName>Mexican confederation</placeName>&#8212;   We have never entertaind, and have<pb n="819"/>
+not any such intention or desire, We are <persName>Mexicans </persName>by adoption,
+we are the same in heart and will so remain</p>
+
+<p>If the laws have granted to us the honorable title of <persName>citizens</persName>, we
+wish that that title should be respected, and that the <persName>authorities </persName>
+established by the constitution of the <placeName>State</placeName>, shall govern us. We are
+<persName>farmers </persName>and not <persName>soldiers </persName>and therefore desire that the <persName>military 
+commandants</persName> shall not enterfere with us at all&#8212;</p>
+
+<p>Since <date n="xx-xx-1830">1830 </date>we have been pretty much governed militarily, and
+in so despotic a manner, that we were finally driven to arms to 
+restrain within their limits the military subalterns of the <persName>general govt</persName>.</p>
+
+<p>We have not insulted the flag of our <placeName>adopted country</placeName>, as has been
+falsly stated by our <persName>enemies</persName>, but on the contrary we have defended
+and sustained its true dignity and attacked those who have outraged
+it by using it as a pretext for their encroachments upon the 
+constitution and sovereignty of the <placeName>state of coahuila and Texas</placeName>, and as a
+cover for their baseness and personal crimes. The <persName>commandant of
+<placeName>fort velasco</placeName></persName> acted under the orders of the <persName>commandant of <placeName>Anahuac</placeName>
+Col Juan Davis Bradburn </persName>who was his <persName>superior</persName>. An investigation
+into the conduct of this <persName>officer at <placeName>anahuac</placeName></persName> will inform you fully of
+the details of many despotic and arbitrary acts&#8212;He refused to
+respect the <persName>authorities </persName>or the constitution of the <placeName>state of coahuila and
+Texas</placeName>, or to adhere to the plan of<placeName> vera Cruz</placeName> which we had adopted.
+He was sustaind by the <persName>commandant of <placeName>Nacogodoches </placeName>Col Piedras</persName>,
+y [and] by that of <placeName>fort velasco</placeName> <persName>Lent. Col Ugartechea</persName>, and 
+consequently we were compelled to oppose them all. We attacked <placeName>Fort
+velasco</placeName> on the<date when="1832-06-27"> 27 of last month</date> with 112 <persName>farmers </persName>hastily collected
+without disciplin and badly armd, and after an obstinate and
+bloody engagement of 7 hours it capitulated on the terms expressed
+in the enclosed copy of the capitulation every article, of which has
+been strictly complyed with on our part, besides furnishing him with
+the provisions he needed for his <persName>troops</persName>&#8212;I herewith furnish you
+with a return of the <persName>killed </persName>and <persName>wounded </persName>on both sides as nearly as
+can be ascertained</p>
+
+<p>This sir is what has passed I hope it will be sufficient to convince
+you that these <persName>inhabitants </persName>have not manifested any other desire or
+intention than to unite with <persName>Genl Santana</persName> to procure the 
+establishment of peace in the <placeName>republic </placeName>under the shield of the constitution,
+laws, and that soverignty of the <placeName>states </placeName>shall be respected&#8212;</p>
+
+<p>It is a matter of pride and congratulation to me, that you have
+come to this place to see with your own eyes the rectitude of our
+sentiments, and that it has afford[ed] us the opportunity of 
+presenting to you our respects and the assurances of our hearty 
+cooperation in the great and glorious cause which is so nobly advocated by<pb n="820"/>
+our distinguisd <persName>Commander in chief Genl Santana</persName>&#8212;God and 
+Liberty   <placeName>Brazoria </placeName><date when="1832-07-18">18 July 1832</date></p>
+
+<p><persName>John Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

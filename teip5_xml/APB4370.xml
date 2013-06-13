@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4370">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Unknown, Unknown</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-27">09-27-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 806-807
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="Unknown"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date>[July 1, 1832]</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">The revolution at Matamoros.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>This <placeName>nation </placeName>is in a dreadful situation&#8212;it seems to be necessary
+that they should pass through an ordeal&#8212;a kind of revolutionary
+furnace, to purify them from the hereditary evils which unfit them
+for republicanism&#8212;the present struggle is between the <hi rend="italic"><persName>democratic
+republican federal party,</persName></hi> commonly called the <persName>Santana party,</persName> and
+<hi rend="italic"><persName>aristocratic central party</persName></hi>. I think the result of the present civil war
+will be the election of a <persName>President </persName>who is <hi rend="italic">not a <persName>military man</persName></hi>, and the
+organization of a <persName>democratic administration</persName> for the next four years&#8212;
+The <placeName>port of the Brazo Santiago</placeName> and the city of <placeName>Matamoros </placeName>
+containing about 10,000 <persName>inhabitants</persName>, were taken peaceable possession of on
+the <date when="1832-06-25">25 </date>and <date when="1832-06-28">28 June</date> by <persName>Col. José Antonio Mexia</persName>, The old <persName>garrison</persName>
+quietly marched off one way and the others marched in&#8212;not one drop
+of blood has been shed, nor one cent of private property lost or 
+interfered with. No <persName>foreigners </persName>here, not even <persName>naturalized citizens</persName>, have
+taken any part whatever, tho that will not prevent them from being
+unjustly censured by the other <persName>party</persName>, who would no doubt be well
+satisfied to see them all expelled the <placeName>country</placeName>. <persName>Mexia </persName>came from
+<placeName>Tampico </placeName>by water. The result of his expedition is doubtfull for it
+is said that <persName>Genl. Teran</persName> is near with his <persName>troops</persName>&#8212;those who left here
+expected to meet him&#8212;<persName>Mexia </persName>has about two hundred and fifty<pb n="807"/>
+<persName>men</persName>. His conduct so far has been very correct and highly honorable
+to him as a <persName>soldier </persName>and as a man. The <persName>Governor of the State
+of Tamaulipas, Don Vital Fernandez</persName> accompanied <persName>Mexia </persName>from 
+<placeName>Tampico</placeName>, where the events of the revolution forced him to seek refuge
+from the <persName>aristocratic party</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
