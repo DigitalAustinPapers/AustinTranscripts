@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3085">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to George Orr, 03-10-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-18">07-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        George Orr
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1272
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-03-10">03-10-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advice to avoid conflict with Mexican authorities.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San felipe de Austin</placeName> <date when="1826-03-10">March 10. 1826</date></p>
+<p>Dr Sir</p>
+
+<p><persName>Mr. Chastellier</persName> has drawn off copy of the Colonization law and
+takes it with him&#8212;</p>
+
+<p>I very much regret that there should have arisen any discontent
+among the <persName>settlers</persName> on the <placeName>Trinity</placeName> in regard to the manner of procuring their lands, every thing of this nature has a tendency to injure
+the progress of the <placeName>new Settlements</placeName> generally, and I would with due
+respect to those <persName>settlers</persName>, and as their <persName>friend </persName>and the friend of all the
+<placeName>new Settlements</placeName>, recommend to them to be extremely cautious not to
+do any thing of a violent or disorderly character towards the<persName> persons
+intrusted by the Government</persName> with the superintendence of those <placeName>new
+Settlements</placeName>&#8212;The utmost harmony should be cultivated&#8212;the <persName>agents
+of the Government</persName> should be treated with respect, and if causes of
+complaint exist against them, representations should be made to the
+<persName>proper authority</persName> in a mild manner and without any thing like passion or abuse. These ideas are respectfully suggested to you in
+friendship, they proceed from a sincere desire to see harmony prevail, and not from any disposition or desire on my part to intrude
+my advice or censure on any person and I hope you will receive
+them in the same spirit of candor and friendship in which they are
+offered&#8212;I can have no object in wishing harmony, but the prosperity
+of the <placeName>country</placeName>, for my conduct in regard to receiving settlers will not
+be regulated, or in any manner influenced, by what the other <persName>Empresarios</persName> may do&#8212;my guide shall be the law and the orders of the
+<persName>Government</persName>, and the price which the <persName>Government </persName>may direct me to
+exact of the <persName>settlers</persName> to pay the expences on their lands, is what must
+be paid: how much that will be, I cannot tell untill instructions are
+recd on the subject&#8212;I have applied for them and such instructions
+and shall do nothing in regard to the final location of <persName>new Settlers</persName>
+untill they arrive.</p>
+
+<p>My <persName>brother</persName> who starts to <placeName>Saltillo</placeName> in a few days will take on a
+report of the history and observations made by me at <placeName>Galveston</placeName> preparatory to the opening of the <placeName>port</placeName>, and in all pro[ba]bility some
+definitive measures will be adopted by the Govt in regard to the
+establishment of a <placeName>port town</placeName>, either at <placeName>Galveston</placeName>, or <placeName> some other
+convenient point on thecoast</placeName>, during the ensuing <date n="Summer - 1826">summer </date>or <date n="Fall - 1826">fall</date></p>
+
+<p>I shall at all times be happy to hear from you and of the increasing prosperity of the <persName>settlers</persName> in your <placeName>quarter of the country</placeName></p>
+
+<p>[<persName>Stephen F. Austin</persName>]</p>
+
+<p>[To <persName>George Orr</persName>]</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

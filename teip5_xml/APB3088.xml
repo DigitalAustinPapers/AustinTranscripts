@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3088">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John C. Walker to Stephen F. Austin, 03-15-1826</title>
+            <author>
+                <persName>John C. Walker</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-20">07-20-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Henderson County, Tennessee</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1274
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-03-15">03-15-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiry concerning Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Land Office Henderson County</placeName></p>
+<p><placeName>state of Tennessee</placeName> <date when="1826-03-15">March 15th 1826</date>.</p>
+
+<p>Dr. Sir&#8212;From an acquaintance I have with your <persName>fathers family</persName>
+particularly <persName>Jas. Austin</persName> who lived with me in my <persName>fathers family</persName>,
+in the state Of <placeName>Kentucky</placeName> while he was at <placeName>school </placeName>I take the liberty of addressing you a letter which I hope will be spedily answered
+there is about to be made up a <persName>company </persName>to emigrate to the <placeName>province
+Of Texas</placeName> I wish to make one of it but least I might not be satisfied
+with that <placeName>Country</placeName>, I wish you as I know you from Character to
+write me a letter concerning that <placeName>Country</placeName> as to the soil health waters
+etc and the particular terms upon which <persName>settlers </persName>go there upon, how
+much land a <persName>man of family</persName> would be entitled to, and also a sketch
+Of Your laws, and some of the most important clauses in your constitution, which might concern an <persName>american </persName>as well as your religiousrestrictions etc the distance from <placeName>New Orleans</placeName>, by water the distance from the <placeName>Chickasaw Bluffs</placeName> by land as near as you can guess&#8212;
+accompanied with your advise Of the importance of driving cattle
+hoggs etc. etc. whether your soil and climate is adapted to the culture of cotton, and whether groceries can be conveniently, and low,
+whether your lands are heavily Timbered Or barrony, the <placeName>Rivers</placeName>
+you would advise me On, etc. etc. etc If <persName>Jas Austin</persName> is with you
+Or in reach of you I should be verry glad, he could hear from me,
+and tell him to write to me etc</p>
+
+<p><persName>Jno. C Walker</persName></p>
+
+<p>[Addressed:] To <persName>His Excellency Stephen F. AustinGovernor of
+the <placeName>province of Texas</placeName></persName> </p>
+
+<p>Via of <placeName>Nacatoches</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

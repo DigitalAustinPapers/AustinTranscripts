@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB3079">
+xml:id="APB3083">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Leonidas W. Baker to James E. B. Austin, 02-26-1826</title>
+            <title>Stephen F. Ausin to Raleigh, 03-07-1826</title>
             <author>
-                <persName>Leonidas W. Baker</persName>
+                <persName>Stephen F. Ausin</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB3079">
 
                 <person>
                     <persName type="recipient">
-                        James E. B. Austin
+                        Raleigh
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB3079">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Ohio River</placeName>
+                    <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Ausin's Settlement, Texas</placeName>
+                    <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1267-1268
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1271
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@ xml:id="APB3079">
             </handNote>
         </handNotes>
         <textDesc>
-            <channel mode="w">Letter</channel>
+            <channel mode="w">Statement of Account</channel>
             <constitution type="single"/>
             <derivation type="original"/>
             <domain type="domestic"/>
@@ -69,7 +69,7 @@ xml:id="APB3079">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1826-02-26">02-26-1826</date>
+            <date when="1826-03-07">03-07-1826</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,36 +81,30 @@ xml:id="APB3079">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Inquiry concerning Texas.</add></p>
+            <p><add hand="#barker">Statement of account.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p><placeName>Steam Boat Hamilton.    Ohio River.</placeName></p>
+<p>Statement of a Settlement made with <persName>Mr Raleigh</persName> for seven Hogs.</p>
 
-<p><date when="1826-02-26">Feby. 26th 1826</date></p>
-<p>Dear sir,</p>
+<p>7 Hogs a 23$_________________________________________________    $161.&#8212;</p>
 
-<p>An opportunity just presents itself of conveying a few lines to
-you; and if the impressions of early youth are as pleasing to you as
-they are to me, this little memento may give birth to a few moments
-of cheerful reflection.</p>
+<p>Amt <persName>Mr Furnash</persName>'s note________________________________$127. 50</p>
 
-<p>I left <placeName>Forest Hill</placeName> (the theatre of our first acquaintance) in the year
-<date n="xx-xx-1819">1819</date>, and <date n="xx-xx-1820">twelve months after </date>commenced the study of law, completed
-it, and have since qualified myself for the practice of <persName>medicine</persName>, and
-am, at present, engaged in that capacity.</p>
+<p>"  note for Stamp paper $3.50&#8212;equal in property to_____       5.25</p>
 
-<p>Now if you believe, that the health, locality, and prospects of any
-part of the province of <placeName>Texas</placeName>, will suit me, or any of my <persName>friends</persName>, who <pb n="1268"/>
-might be disposed to embark on Fortune's schooner, you will be good
-enough to write, and give me a geographical history of the <placeName>country</placeName>.</p>
-<p>Direct your letter to <placeName>Hardenburgh, Breckenridge Cty, Ky</placeName>.</p>
-<p>Respectfully, your fellow student,</p>
+<p>"  Domestic purchased from <persName>Kerr</persName>_____________________     12. 00</p>
 
-<p><persName>Leonidas W. Baker</persName>.</p>
+<p>" paid for ferriage in cash 25¢ equal to_______________          37 1/2</p>
 
-<p>[Addressed:] <persName>Mr. James Austin</persName>, <placeName>Austin's Settlement Texas</placeName></p>
+<p>-------------145&#8212;12 1/2</p>
+
+<p>Amt. due <persName>Mr Furnash</persName> in property&#8212;_______________________   $15. 87 1/2</p>
+
+<p><date when="1826-03-07">March 7&#8212;1826</date></p>
+
+<p><persName>S. F. Austin</persName>    [Rubric]</p>
 
         </div1>
     </body>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3091">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Jose Antonio Saucedo, 03-18-1826</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-22">07-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Jose Antonio Saucedo
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1276-1280
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-03-18">03-18-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Examination of a contest between one Grey and Martin De Leon. Judicial procedure, and protest against arbitrary interference of executive authority.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I received, the day after my arrival from <placeName>Galveston</placeName>, your <persName>Lordships </persName>communication bearing date of the <date when="1826-02-16">16th of last February</date>, in
+which you say to me that the citizen <persName>Martin de Leon, Empresario
+of the <placeName>town of Guadalupe</placeName></persName>, has presented himself at the <placeName>Capital</placeName>
+complaining that the <persName>Alcalde of the <placeName>Colorado District</placeName></persName>, regardless
+of the consideration due him as <persName>Empresario</persName>, <persName>sole Justice of his
+District</persName>, maliciously and violently gave orders to one <persName>Briche</persName> to
+attach a cart and oxen and a load of corn, which he had sent to
+that <placeName>settlement</placeName> in charge of his son <persName>Sylvestre</persName>; and that for no other
+cause than a mere complaint made by <persName>Thomas Grey</persName> against his
+<persName>son</persName>. You instruct me further to cause the attached property to
+be returned to its <persName>owner </persName>at the town of <placeName>Victoria</placeName>, without delay,
+at the expense and risk of the <persName>Alcalde</persName>, if he has, indeed, commissioned <persName>Briche</persName> to execute the attachment, or of any person who
+may appear to have been guilty of the offense. You, finally, order
+me to cause the <persName>Alcaldes of the <placeName>Colonial Districts</placeName></persName> in my charge to
+abstain from issuing illegal judicial writs, particularly of the scandalous character of the one alluded to.</p>
+
+<p>At the issuance of said attachment, I was absent at <placeName>Galveston</placeName>,
+on the mission intrusted to me by your <persName>Lordship</persName>; upon the reception of your said communication, I sent for the <persName>Alcalde</persName> and <persName>Grey</persName>,
+to inquire into the matter, and from the prior circumstances, and
+the declaration of the <persName>witnesses</persName>, the facts appear to be as follows:</p>
+
+<p><persName>Grey</persName> bought an ass from <persName>Martin de Leon</persName>, paid for it, and left
+it with the bell mare; afterwards <persName>Grey</persName> sent for the ass by a certain <pb n="1277"/>
+<persName>Bison</persName>; <persName>De Leon</persName> refused to deliver it, claiming 25 Dollars or a cow
+and a calf for the Expense of keeping the ass, and furthermore
+declared to <persName>Bison</persName> that he owed nothing to <persName>Grey</persName>. When <persName>De Leon</persName>'s
+cart arrived at the <placeName>Colorado</placeName>, <persName>Grey</persName> appeared before the <persName>Alcalde</persName>,
+complaining that <persName>De Leon</persName> owed him the value of the ass and
+refused to deliver it, although it was claimed by <persName>Bison</persName>, and claiming from the <persName>Alcalde</persName>, a writ of attachment on <persName>De Leon</persName> until the
+case should be disposed of in law. The <persName>Alcalde</persName> issued the writ,
+which was executed; and the cart was attached for the purpose of
+securing a judicial hearing for the parties. Agreeably to the provisional law existing in this <placeName>Colony</placeName>, <persName>Sylvester De Leon</persName> might have
+stopped the attachment by giving security for his appearance before the <persName>Alcalde</persName> to answer <persName>Grey</persName>'s charges, but, instead of doing so
+he returned to the <persName>Guadalupe</persName>.</p>
+
+<p>The provisional law by which we are governed provides, that,
+whenever a <persName>person </persName>who is indebted to another is about to leave the
+<placeName>country </placeName>or to remove his property out of its jurisdiction, then, at
+the request of the <persName>plaintiff</persName>, the <persName>Alcalde </persName>shall issue a writ of attachment of said property to prevent its removal from the jurisdiction
+until the case is lawfully disposed of, the <persName>plaintiff </persName>being, in all
+cases responsible to the <persName>defendant </persName>for the damages accruing from
+said attachment if it should appear that the process was illegal,
+or without foundation; the <persName>defendant </persName>being allways at liberty to
+stop the attachment by giving security for his appearance before
+the <persName>competent authority</persName>.</p>
+
+<p>In this case of <persName>De Leon</persName>, <persName>Grey</persName> declared upon oath, before the
+<persName>Alcalde</persName>, that <persName>De Leon</persName> owed him the value of an ass, which he refused
+to pay, that he had property within the jurisdiction which he was
+about to remove. <persName>Grey</persName> applied to the <persName>Alcalde</persName> for a writ of attachment, agreeably to the regulations on the subject matter, and the
+<persName>Alcalde</persName> was in duty bound to issue the writ; in doing so he did not
+overstep the limit of his power, nor commit an abuse of authority,
+as your <persName>Lordship </persName>remarks in your communication; on the contrary,
+he did what the law compelled him to do.</p>
+
+<p>The only laws we have for our government in this <placeName>country</placeName>, are
+the provisional rules approved by the <persName>Political Chief of <placeName>Texas</placeName></persName>, and
+which His Excellency, the <persName>Governor</persName>, in his communication of <date when="1825-02-12">February the 12th, 1825</date>, ordered to be observed until the general laws
+were published. I think that if we have no other laws than these,
+the fault can be attributed neither to me, nor the <persName>Alcalde of the
+<placeName>Colorado</placeName></persName>. I have repeatedly applied for copies of the law of the
+<placeName>Country</placeName>, but I have, as yet, received no instructions from the <persName>government </persName>beyond a recommendation to administer justice and preserve
+the <placeName>Colony</placeName>. Owing to the total absence of laws and rules,
+I was compelled by necessity and my feeling of duty, being in charge <pb n="1278"/>
+of the <placeName>chief magistracy of this jurisdiction</placeName>, to frame some plain and
+provisional rules to preserve order and establish some kind of system;
+I did so with the consent, approbation and assistance of the <persName>Commissioner</persName>, and they have also received the sanction of the <persName>Superior
+authority</persName>; I therefore consider them as provisional laws, and cannot
+cease to do so without declaring that the <persName>Supreme Powers </persName>who sanctioned them, have exceeded their authority and overstepped the
+circle of their prescribed duty. This principle once Established, the
+only question that remains to be settled in the case of the <persName>Alcalde
+of the <placeName>Colorado</placeName></persName> and <persName>De Leon</persName> is the following: Did the <persName>Alcalde</persName>
+follow said rules, or did he not? In my opinion, formed upon the
+inquest I have made, he has followed them; he was compelled by
+said rules to act as he did, and had he not done so he would have
+deserved punishment. In this matter, in consequence of your <persName>Lordship</persName>'s order, the <persName>Alcalde</persName> finds himself between two fires, without a
+possibility of escaping both. Your <persName>Lordship</persName>'s order condemns him
+to a fine and cost which will ruin him, and, had he failed to follow
+the provisional rules, the <persName>plaintiif</persName> would have had sufficient incentive
+for complaint and suit against him for a dereliction of his duty in
+the administration of justice according to the existing laws. Said
+provisional rules are very plain and clear. It was <persName>De Leon</persName>'s duty
+to, and he ought now, according to said rules, give security for his
+appearance before the <persName>Alcalde</persName> there and then to answer <persName>Grey</persName>'s complaint, and if it appears that he is indebted, then he should pay,
+and in case of unwillingness on his part to abide by the decision of
+the <persName>Alcalde</persName>, he [could] bring the case before me, as local judge of
+the whole jurisdiction, and, as such, having power to inquire into
+the conduct of the Alcaldes within its limits; then, in case of dissatisfaction with my decision on the subject, he could carry the suit
+before the corresponding <persName>superior courts of justice</persName>; In this manner
+he will not deviate from the path laid down by law, and by the very
+essence of the system of government which controls us, and, which,
+Establishes a distinction between the <persName>judiciary and Executive powers</persName>. The <persName>Alcalde</persName>'s writ was a judicial process, and agreeable to
+the rules in force here. Your <persName>Lordship</persName>'s order was Executive, and
+annulled an act of a <persName>judiciary officer</persName>, imposing a ruinous fine on him;
+and this on the mere representation of one of the <persName>parties </persName>without
+giving the other a hearing, without any inquiry into the facts in
+question, by the <persName>local authority</persName>; and, consequently, without the possibility of ascertaining whether the act of the <persName>Alcalde</persName> was legal,
+or not.</p>
+
+<p>An other difficulty presents itself in thus reviewing the subject.
+What means had <persName>Grey</persName> at his command to obtain his money from
+<persName>De Leon</persName>, if it is, indeed, due him?   <persName>De Leon</persName> is the sole <persName>judge </persName>and <pb n="1279"/>
+<persName>commanding officer of the Militia of <placeName>Guadalupe</placeName></persName>, and, consequently,
+<persName>Grey</persName> would have had to present his complaint against <persName>Martin de
+Leon</persName> before <persName>judge De Leon</persName> for his decision, or to proceed against
+his property found in another <placeName>jurisdiction</placeName>. He adopted the latter
+course.</p>
+
+<p>I do not wish to make complaints against <persName>Martin de Leon</persName>; but
+my duty towards these <persName>new Colonists</persName> compels mo to say, that, according to statements made to me, it appears that he has treated a
+<persName>resident of this district</persName>, named <persName>Edward Dickenson</persName>, with injustice
+and cruelty. <persName>Dickenson</persName>'s <persName>brother</persName>, who was killed by the <persName>Indians</persName>
+near <placeName>Bexar</placeName>, gave to <persName>De Leon</persName> a kettle, which he promised to deliver
+to him; on his return he was killed. <persName>Edward</persName> went to <placeName>Bexar</placeName> to
+obtain his deceased <persName>brother</persName>'s property. <persName>De Leon</persName> claimed from him
+the kettle, which was then at <placeName>Bexar</placeName>, and which he promised to leave
+with <persName>Señor Sandoval</persName>; but he departed from <placeName>Bexar</placeName> prior to <persName>Sandoval</persName>'s arrival, and left it with other property in a <placeName>house </placeName>under
+lock and key, in charge of <persName>Nixon</persName> to be delivered to <persName>Sandoval</persName> when
+he arrived. A <persName>thief </persName>entered the house and stole the kettle On the
+arrival of <persName>Dickenson</persName> at <placeName>Guadalupe</placeName>, on his way from <placeName>Bexar</placeName> to this
+<placeName>town</placeName>, <persName>De Leon</persName> arrested him and seized upon his property; or, to
+express it more clearly, put him in <placeName>jail</placeName>, took from him his rifle and
+a bag of wool, and detained him for 32 days.</p>
+
+<p><persName>Dickenson</persName> made his complaint to me and presented an account
+against <persName>De Leon</persName>, as follows:</p>
+
+<p>$12 for a rifle, $5. for a sack of wool, $23. for one month's board,
+paid to <persName>Hardy</persName>, and $18 for one months detention, in all $53, without
+speaking of the forcible and violent manner in which he was detained. I do not say that <persName>Martin de Leon</persName>, went beyond the limits
+of his powers by taking from <persName>Dickenson</persName> all his property, detaining
+him for one month a <persName>prisoner</persName>, and sending him away on foot, without a real for his travelling expenses, because I have not heard what
+<persName>De Leon</persName> has to say in the matter, but I hope that Your <persName>Excellency</persName>
+will be pleased to give me your instructions respecting the course to
+be followed to ascertain the facts of the case. I consider it to be
+my duty to do so, because this business has created a great deal of
+excitement here, against <persName>De Leon</persName>, and some apprehension about the
+security of persons and property.</p>
+
+<p>Considering all the features of the transaction between <persName>Grey</persName>, <persName>De
+Leon</persName>, and the <persName>Alcalde of the Colorado</persName>, I find myself in an exceedingly delicate and embarrassing situation. I presume that my conduct, since I entered <placeName>Texas</placeName>, has been a proof of my obedience and
+submission to the <persName>lawful authorities</persName>, and this is the first order which
+I have not executed as soon as circumstances permitted, without
+hesitation, or delay. Like the <persName>Alcalde of the <placeName>Colorado</placeName></persName>, I am between <pb n="1280"/>
+two fires. On the one hand duty, as well as honor and inclination,
+urge me to obey faithfully the orders of the<persName> Superior authority</persName>; on
+the other, the same considerations cause me to doubt if my compliance, will not amount to an injustice, or produce fatal consequences.
+Our <persName>people</persName>, thus far, have been contented to live under the existing
+provisional rules, convinced that they were approved by the <persName>Superior Authority</persName>; but your <persName>Lordship</persName>'s order causes them to doubt
+their legality, and whether they are bound to obey them. Thus I
+run the hazard of finding the only rules and laws by which I could
+hope to succeed in preserving good order in the <placeName>Colony</placeName>, and keeping
+<persName>bad men</persName> in subjection destroyed and annulled by the very authority
+that sanctioned them and this without supplying their places by any
+others. It will be believed that if the rule under which the <persName>Alcalde
+of the <placeName>Colorado</placeName></persName> attached <persName>De Leon</persName>'s property is not lawful, no other
+rules are so, since they were established by the same authority.</p>
+
+<p>The amount of money in litigation with <persName>De Leon</persName> is nothing, nor
+ought the ruin of the <persName>Alcalde of the <placeName>Cororado</placeName></persName>, or any other person
+to have any weight if they are guilty. The difficulty lies in the disorganizing principles that may be created, and, also, in the belief that
+cannot fail to exist in the minds of the <persName>settlers</persName>, that the <persName>Executive</persName>, or
+<persName>political officers </persName>unite in their persons all the executive and military
+political and judiciary powers that were formerly vested in the <persName>Governors </persName>and the<persName> Spanish Government</persName>.</p>
+
+<p>Therefore I beseech your <persName>Lordship </persName>to decide that <persName>De Leon</persName>'s case
+shall follow the course prescribed by the existing provisional rules,
+and to excuse my hesitation in executing your orders to the effect that
+the <persName>Alcalde</persName> shall return, at his expense, the attached property to
+<persName>De Leon</persName> on the <placeName>Guadalupe</placeName>; considering that my delay has been
+caused by the doubt herein submitted, and not by a want of respect
+for the <persName>Superior authority</persName>.</p>
+
+<p>God and liberty.</p>
+
+<p><persName>Estevan F. Austin</persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1826-03-18">March 18th, 1826</date>.</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
