@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3047">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 12-31-1825</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-24">06-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1244
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Census Report</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-12-31">12-31-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Census report, District of Colorado.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Census of the <placeName>District of Collorado</placeName> for the Year <date n="xx-xx-1825">1825</date>.&#8212;<persName>Spaniards</persName></p>
+
+<p>No.	Heads of <persName>Families</persName>.	Occupations.		<persName>Male Children</persName>.		<persName>Female Children</persName>.		<persName>Hirelings</persName>.	<persName>Servants</persName>.</p>
+
+<p>1	<persName>James Cummin and Wife</persName>.		<persName>Farmer</persName>.......		1 Aged 7 years....	4-Aged 16, 14, 3, 1 yr.	........	3.</p>
+<p>2	<persName>Horatio A. Alsbury</persName>..		Do........			....................	....................	........</p>
+<p>3	<persName>James Ross and wife</persName>.		Do........			....................	1-Aged 1 y......		........	6.</p>
+<p>4	<persName>Louis Holloway and Wife</persName>.	Do........			....................	....................	........</p>
+<p>5	<persName>James Holloway and Wife</persName>.	Do........			....................	....................	........</p>
+<p>6	<persName>Henry Harrison</persName>......		<persName>Blacksmith</persName>.			....................	....................	........</p>
+<p>7	<persName>Elizabeth Tumlinson&#8212;Widow</persName>	<persName>Farmer</persName>.......		3 aged 20-19, 14 Yr.	1, aged-12 years...	........</p>
+<p>8	<persName>Jonathan Hopkins and Wife</persName>.	<persName>Tanner</persName>........		....................	....................	........</p>
+<p>9	<persName>Thomas Gray-Widower</persName>.		Do........			....................	....................	........</p>
+<p>10	<persName>George Duty</persName>.........		Do........			....................	....................	........</p>
+<p>11	<persName>Joseph Duty</persName>.........		Do........			....................	....................	........</p>
+<p>12	<persName>John De Moss wife Sister</persName>.	Do........			....................	Aged 16 ys........	........</p>
+<p>13	<persName>Asy Anderson and wife</persName>.		Do........			1 aged 11 ys.......	1 aged 13 ys.......	........	1.</p>
+<p>14	<persName>John Tobar and wife</persName>.		Do........			....................	1 aged 10 ys.......	........	4.</p>
+<p>15	<persName>Jesse Burnam and wife</persName>		Do........			2 aged 10, 8 ys.....	4 aged 11, 5, 3, 1 ys.	2......</p>
+<p>16	<persName>Robert Nails.</persName>........		Do........			....................	....................	........</p>
+<p>17	<persName>James Tumlinson and wife</persName>.	Do........			7 aged 20, 18, 14, 10, 8, 5, 2, ys.	1 aged-4 ys.......	........</p>
+<p>18	<persName>Benjamin Beeson and wife</persName>.	Do........			4 aged 15, 11, 9, 3 ys.	2 aged 17, 14 ys....	1......	7.</p>
+<p>19	<persName>Gabriel S. Snider and wife</persName>.	Do........			....................	1 aged-2 ys.......	5......</p>
+<p>20	<persName>Daniel Holloway.</persName>....		Do........			....................	....................	........</p>
+<p>21	<persName>Nathan Osburn.</persName>.....		Do........			....................	....................	........</p>
+<p>22	<persName>William B. Deweez</persName>..		<persName>Gunsmith</persName>.....		....................	....................	5......</p>
+<p>23	<persName>Robert Kuykendale and wife</persName>.	<persName>Farmer </persName>and <persName>stock-raiser</persName>. 2 aged 10 and 3 years.	2 aged 8 and 6 Years.	........</p>
+<p>24	<persName>William Rabb and wife</persName>.		Do........			1 aged-...........	....................	........	1 <persName>negro</persName>.</p>
+<p>25	<persName>Thomas J. Rabb.</persName>....		Do........			....................	....................	........</p>
+<p>26	<persName>Andrew Rabb and Wife</persName>.		Do........			1 aged 1 year......	....................	........</p>
+<p>	<persName>Wm. Cooper</persName>.........		................		....................	....................	........</p>
+<p>	<persName>Alexander Jackson.</persName>..		<persName>Farmer</persName>.......		1 aged 7 Years.....	3 aged 12, 10, 8....	........	4 negroes</p>
+<p>	<persName>Wm. Kincheloe and wife</persName>.		<persName>Farmer </persName>and <persName>stockraiser</persName>.	3 aged 14, 8, 5.....	2 Aged 15, 14......	........</p>
+<p>	<persName>Daniel Ralls and wife</persName>.		<persName>Farmer </persName>and <persName>stockraiser</persName>.	3 Aged 14, 10, 1....	1 Aged 5..........	........</p>
+<p>	<persName>Amus Ralls</persName>..........		<persName>Farmer </persName>and <persName>stockraiser</persName>.	1 Aged 8..........	1 Aged 12.........	........</p>
+<p>	<persName>Benjamin Ralls.</persName>.....		<persName>Farmer</persName>.......		....................	....................	........</p>
+<p>	<persName>Loid Sojourner</persName>.......		Do........			....................	....................	........</p>
+<p>	<persName>Samuel Chance.</persName>......		Do........			....................	....................	........</p>
+<p>	<persName>Thos. Williams and wife</persName>.	<persName>Farmer </persName>and <persName>stockraiser</persName>.	1 Aged 19.........	2 Aged 17-15......	1......</p>
+<p>	<persName>Thos. B. Bell and wife</persName>		Do........			1 Aged 1..........	2 Aged-6-4........	........	1 <persName>Negro</persName>.</p>
+<p>	<persName>A. Harrison and wife</persName>.		Do........			2 Aged-15-12......	....................	........</p>
+<p>	<persName>Moses Morrison</persName>.......		Do........			....................	....................	........</p>
+<p>	<persName>Pumphrey Burnett</persName>..		Do........			....................	....................	........</p>
+<p>	<persName>Caleb R. Robinson</persName>...		................		....................	....................	........</p>
+<p>	<persName>Jno. Bowman</persName>........		Do........			....................	....................	........</p>
+<p>	<persName>Eli Hunter and wife.</persName>.		Do........			....................	1 Aged 2..........	........</p>
+<p>	<persName>B. Bright and Wife</persName>..		Do........			1 Aged 15.........	1 Aged 17.........	........</p>
+<p>	<persName>M. De Moss and Wife</persName>		Do........			3 Aged 23, 22, 21...	3 Aged 14, 12, 10...	........</p>
+<p>	<persName>Peter De Moss and wife</persName>		Do........			1 Aged 5..........	1 Aged 3..........	........</p>
+<p>	<persName>Robert Brotherton</persName>...		Do........			....................	....................	........</p>
+<p>	<persName>William Parks</persName>.......		.....Do........		....................	....................	........</p>
+<p>	<persName>Aylett C. Buckner</persName>...		Do. (but despise the form of this paper because it is calculated to convey rong impressions for <persName>hirehands </persName>and <persName>Negros </persName>ought not to be in the same column.)</p>
+<p>	<persName>Rossen[Rawson]Alley</persName>		<persName>Surveyor</persName>......</p>
+<p>	<persName>Thomas V. Alley</persName>.....		<persName>Farmer</persName>.......</p>
+<p>	<persName>William Alley</persName>........		Do........</p>
+<p>	<persName>Abraham Alley</persName>......		Do........</p>
+<p>	<persName>James McNair</persName>........		................</p>
+<p>	<persName>James Cook</persName>..........		Do........</p>
+<p>	<persName>A. W. McLane</persName>.......		<persName>Tanner</persName>........</p>
+<p>	<persName>John Petty</persName>...........		<persName>Farmer</persName>.......</p>
+<p>	<persName>Robert Patton</persName>.......		<persName>Carpenter</persName>.....</p>
+<p>	<persName>M. Williams and Wife</persName>		<persName>Farmer</persName>.......</p>
+<p>	<persName>Nathan Osborn</persName>......		Do........</p>
+<p>	<persName>Joseph Toras</persName>.........		.....Do........</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

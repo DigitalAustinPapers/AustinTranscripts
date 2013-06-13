@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3058">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Alexander Calvit to Unknown, 01-11-1826</title>
+            <author>
+                <persName>Alexander Calvit</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-30">06-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1255-1256
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Notice</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-01-11">01-11-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Certain property belongs to his wife and is not subject to execution.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>notice</p>
+
+<p>Deeming it to be the duty of every <persName>man </persName>to deal with perfect Candour with his fellow <persName>Citizens </persName>as regards his pecuniary situation,
+and also as an act of justice to my <persName>family</persName> to prevent them from
+being improperly harrassed by the presecution of unjust claims
+against the <persName>property </persName>brought by them to this <placeName>Country</placeName> I have Considered it to be my duty to give public notice that the <persName>Negroes</persName> and
+property brought by myself and <persName>family</persName> to this <placeName>Colony</placeName>, are actually
+and bona fide the <persName>property </persName>of my <persName>Wife</persName> and <persName>Children</persName>, being in part
+the dotal <persName>estate of my Wife</persName> given to her by her <persName>parents</persName> and brought
+into the Marriage as her own individual <persName>property</persName>, and the balance
+is to make up for such parts of my <persName>Wife</persName>s said dotal <persName>estate</persName> as had
+been used and disposed of by me and was conveyed to my said <persName>Wife</persName>
+and <persName>children</persName> by a regular deed of trust bearing date <date when="1820-12-20">20 december
+1820</date> and which deed is on record  <placeName>in the office of the <persName>Parish Judge
+of Rapide</persName> in Louisiana</placeName>, and also in the <placeName>Office of <persName>Stephen F. Austin
+Judge of this Colony</persName></placeName>, therefore no Claims whatever against me can <pb n="1256"/>
+in any manner have any liens on or against said <persName>property </persName>or its
+proceeds, this notice is given to prevent any <persName>person </persName>from being
+deceived by purchasing Claims from the <placeName>United States</placeName> on me, for
+a part of those Claims are unjust, every just claim however on
+me shall be paid As soon as circumstances will admit, but the <persName>property </persName>itself or its&#8212;proceeds Can not be taken for any Claims whatever against me for the reasons above stated.
+<placeName>Sn felipe de Austin</placeName> <date when="1826-01-11">11th January 1826</date></p>
+
+<p><persName>Alexr Calvit</persName></p>
+
+<p>Executed before me  <persName>Stephen F  Austin Judge of this <placeName>colony</placeName></persName>
+[rubric]</p>
+
+<p>The above notice was posted up at the Town of <placeName>San Felipe de
+Austin</placeName> on this day <date when="1826-01-11">January 11&#8212;1826</date></p>
+
+<p><persName>Stephen F. Austin</persName> Judge   [Rubric] </p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

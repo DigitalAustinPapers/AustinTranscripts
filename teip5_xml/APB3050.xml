@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3050">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Coles to Stephen F. Austin, 01-07-1826</title>
+            <author>
+                <persName>John P Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-25">06-25-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1245-1246
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-01-07">01-07-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a guardianship. Indian relations.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1826-01-07">7th January 1826</date></p>
+<p>Dear Sir: I recd yours on the subject of <persName>whitesides&#8212;children</persName>
+feelings of Humanity was the only thing which Induced me first to become their <persName>Guardian </persName>and those feeling still Exist but why should I
+Involve myself in a life time difficulty for those whom from acquaintance nor no other causes have any claims on me as for the
+<persName>children </persName>I pitty them their <persName>uncle</persName> is not nor never will be capable of
+dooing anything for them. But this is not my business he is their
+<persName>Relation </persName>and I am not. therefore I am willing that you should ap<pb n="1246"/>point him   I will give him the <persName>children</persName> when ever he calls for them
+My obligation as <persName>Guardian </persName>I shall Expect Returned to me etc&#8212;</p>
+
+<p>We burried our little <persName>daughter</persName> <date when="1826-01-06">yesterday </date>she died suddenly I move to <placeName>Bravo</placeName> next week you Inclosed an order from <persName>Joshua
+Parker</persName> to a <persName>Mr. Bell</persName>, for 2 Horses in one of your letters without
+saying any thing about It. I know nothing about it. what is the
+meaning of it or what doo you want done with the order</p>
+
+<p>You say that the <persName>Goverment </persName>is displeased that you did not go
+to war with the <persName>Wacos</persName> and <persName>Coumanches</persName> I am sorry to hear this but
+sir we have better be driven out of the <placeName>country</placeName> by the <persName>Goverment</persName>
+than by the <persName>Indians</persName> there is no one in the <placeName>country</placeName> that is more
+disposed to defend the <placeName>country</placeName> than I am But as we are at peace
+with those <persName>Indians</persName> we must remain so and even put up with some
+abuse from them until we are able to fight them If we get into
+difficulty with those <persName>Indians</persName> the <persName>Goverment </persName>is not able to assist us
+and we are unable off ourselves to contend with them and my
+oppinion is that the only policy for us is to let those <persName>Indians</persName> alone
+say nothing to them and If the <persName>Goverment </persName>will force us into a war
+with them we must make the best of It. I am allways Ready to act
+my part,    in peace or war</p>
+
+<p><persName>Jno P. Coles  </persName>  [Rubric]</p>
+
+<p><persName>Benjamin Edwards</persName> was very angry a few days previous to his
+leaving here with you and I am convinced he was Rong and I
+believe I satisfied him that he was Rong for the want of paper I
+do not Relate the particulars but we will speak of It when I see you</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

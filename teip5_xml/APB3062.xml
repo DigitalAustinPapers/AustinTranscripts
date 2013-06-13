@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3062">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A. G. Wavell to Stephen F. Austin, 01-17-1826</title>
+            <author>
+                <persName>A. G. Wavell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-30">06-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Agua Nueva, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1257-1258
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-01-17">01-17-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Authorizing B. R. Milam to settle with Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir</p>
+
+<p>This will be delivered to you by <persName>Coll Milam</persName> who is empowered
+by me to settle with you relative to all concerns of cash and land
+now pending between us Although your silence equivalent to a
+refusal to enter into the engagements which I had made in <placeName>England</placeName>
+agreably to your own request and even sooner than you could
+have anticipated (since it was fully understood indeed even common
+reason proves that previously to forming a contract the Documents
+which proved your having possession of the <placeName>lands </placeName>were to be forwarded to me in <placeName>London</placeName>) compromised me most seriously and injured my interests more than I can describe, and you not having
+returned more than one very short answer to my numerous letters
+has amazed me it will be your fault if we do not meet hereafter
+on the same terms we hitherto have and you will I trust at hart
+allow that I have not been a bad <persName>friend </persName>towards you&#8212;<persName>Milam</persName> will
+write to me constantly and I shall be happy to hear from you&#8212;You
+will I hope come to a settlement with him as speedily as is possible
+since he is anxious to get on to the <placeName>Ud. States</placeName> and will remain with <pb n="1258"/>
+you only one or two days on my account&#8212;   wishing you health and
+success I remain very truly yours</p>
+
+<p><persName>A G. Wavell</persName>   [Rubric]</p>
+
+<p>Aquanueva <date when="1826-01-17">17th Jany 1826</date></p>
+
+<p>[Addressed:] <persName>Sor. Dn Estevan F. Austin</persName> en <placeName>Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

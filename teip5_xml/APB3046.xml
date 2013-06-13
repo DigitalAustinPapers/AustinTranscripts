@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3046">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H. Johnson to Stephen F. Austin, 12-29-1825</title>
+            <author>
+                <persName>H. Johnson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination"></placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1243
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-12-29">12-29-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning depredations in Louisiana of banditti on the Sabine who steal horses and slaves and take refuge in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName>, <date when="1825-12-29">29th December 1825</date></p>
+<p>Sir,</p>
+
+<p>As <persName>Chief Magistrate of this <placeName>State</placeName></persName>, I take the liberty to address
+you upon a subject of Deep interest to many of our <persName>Citizens</persName>. It
+has been represented to me from a source that may be relied on, that
+a number of <persName>slaves</persName> and horses of the <persName>inhabitants</persName> residing near the
+<placeName>Sabine</placeName>, in the <placeName>Western section of the State</placeName>, have been stolen and
+carried into the <placeName>Province of Texas</placeName>, by a lawless <persName>banditti</persName> associated
+for the purpose; and that many Dishonest <persName>Debtors</persName>, who fly from
+justice here, taking with them in some instances, property mortgaged
+for the payment of their Debts, take refuge in the said <placeName>Province</placeName>.
+Indeed, I am informed that property mortgaged here for a large
+amount has been thus carried off.</p>
+
+<p>Relying upon your high character, the people feel assured that
+you will cheerfully do all in your power to prevent the recurrence
+of the evils complained of. I should feel much gratified, Sir, to
+learn for the information of those interested, what steps should be
+adopted, best calculated to put a stop to such outrages, and for the
+recovery of the Debts alluded to.</p>
+
+<p>Connected as your <placeName>settlement</placeName> is with this <placeName>State</placeName>, it is important to
+both, that harmony should prevail, and that a friendly intercourse
+should be carried between them. So far as may depend upon the
+exercise of my authority, the object shall be effected.</p>
+
+<p><persName>H. Johnson</persName> [Governor of Louisana.]</p>
+
+<p><persName>Col. Stephen A. [sic] Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3074">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Littleberry Hawkins to Stephen F. Austin, 02-18-1826</title>
+            <author>
+                <persName>Littleberry Hawkins</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-07-15">07-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1265
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-02-18">02-18-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-07-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Mrs. Hawkins has received offer for her interest in Austin's colony. Asks advice. Interest of Kentucky in the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington</placeName> <date when="1826-02-18">18 February 1826</date></p>
+<p><persName>Stephen F Austin</persName></p>
+
+<p>Dr Sir <persName>George Ann</persName> has had an offer made for the Interest of
+our <persName>Brother</persName> in your <placeName>Grant</placeName> she is unwilling to do any thing without your advice the offer is made by one of the Most wealthy and
+Respectable <persName>me[n]</persName> in the State of <placeName>Kentucky</placeName> and <persName>9 other Gentlemen</persName> of
+<placeName>Louisiana</placeName> all of which Could take into the <placeName>Country</placeName> a great Number
+of Respectable <persName>familys </persName>under that consideration the sale would be
+mutually to the Interest of all <persName>Parties </persName>Concerned please have the
+goodness to advice me what to do and what to ask for her Interest
+by the first Person that Comes into the <placeName>United States</placeName> If I could
+spend One hour with [you I] should be satisfied
+Your <persName>friend</persName></p>
+
+<p><persName>L Hawkins</persName></p>
+<p>The situation of my <persName>sister</persName> <persName>her five helpless</persName> and my <persName>family</persName> of five
+more is glomy and desponding beyond description   all that I had
+was lost in the <placeName>Country</placeName>, say if you have saved any thing from <persName>Dimit</persName>
+or any other resource </p>
+
+        </div1>
+    </body>
+</text>
+</TEI>
