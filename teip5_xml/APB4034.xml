@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4034">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Texas Gazette, 09-25-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-27">08-27-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Texas Gazette
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 498
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Editorial</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-09-25">09-25-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Friendly disposition of Government toward Texas. Need of judiciary reform and separation from Coahuila.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Letters have been received by a <persName>gentleman </persName>in this <placeName>place </placeName>from 
+<persName>persons high in office </persName>and in the confidence of the nation. Their letters
+express the most friendly and natural disposition towards this and
+all other <placeName>colonies </placeName>or <placeName>settlements in Texas</placeName> that have been legally 
+established. Great solicitude is manifested in these letters for the
+prosperity of this <placeName>country</placeName>, and for its advancement. They say in
+positive terms, that none of the rumors which agitated public 
+opinion as to <placeName>Texas </placeName><date n="Spring-1830">last spring</date> had their origin from this <placeName>colony</placeName>; neither
+has there ever been any unfavorable impression against it. These
+rumors, they say, originated from a great mass of <placeName>newspaper </placeName>and
+<placeName>other publications</placeName> in the <placeName>U. S of the north</placeName>&#8212;stating among
+other things, that swarms of <persName>adventurers </persName>and <persName>fugitives </persName>from justice,
+who could remain no longer in their <placeName>country</placeName>, were about to overrun
+and occupy <placeName>Texas</placeName>. Such an event would have been ruinous to the
+tranquility and prosperity of this <placeName>country</placeName>, and therefore demanded
+the prompt attention of the government.</p>
+
+<p>It must be confessed that publications similar to that by "A 
+revolutionary officer," and many others which contain nothing but <hi rend="italic">base
+and infamous slanders</hi> were well calculated to ruin us, both in
+<placeName>Mexico </placeName>and in <placeName>foreign countries</placeName>. There is cause to suspect that one
+of the great objects of these <persName>slanderous scribblers</persName> was to stop the
+emigration from the <placeName>U. S. of the north</placeName>, or from other <placeName>foreign
+countries</placeName> to <placeName>Texas</placeName>. . . . They appear to have acted on the 
+principle <hi rend="italic">to make <placeName>Texas </placeName>a part of the<placeName> U. S. of the North</placeName>, or to keep it
+down and consign it for years to the <placeName>wilderness </placeName>and the occupancy
+of the <persName>Indians </persName>by damning its reputation so that no Honest, wealthy
+or civilized <persName>man</persName>, would remove to it</hi>.   .   .   .</p>
+
+<p>We have in former numbers of the <placeName>Gazette </placeName>stated that the cause,
+<hi rend="italic">and the sole cause</hi>, of any and all the little bickerings and confusion
+that may have existed in <placeName>Texas</placeName>, since <date n="xx-xx-1821">1821</date>, have proceded from
+the want of a proper organization of the <persName>local government</persName>, and
+especially of the <persName>judiciary</persName>. In this respect a change is necessary,
+and is daily becoming more so. It has become a matter of serious
+doubt whether <placeName>Texas </placeName>will ever rise or prosper, so long as it is united
+with <placeName>Coahuila</placeName>. The question of separating, with the view of 
+forming a <persName>territorial government</persName>, as a <placeName>territory of this nation</placeName>, is 
+beginning to occupy much of the public attention. This is a serious
+question, and merits the most calm and mature reflection.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

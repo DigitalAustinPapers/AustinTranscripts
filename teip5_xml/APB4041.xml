@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4041">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John C Walker to Stephen F Austin, 09-30-1830</title>
+            <author>
+                <persName>John C Walker</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-29">08-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Clinton, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Sn Felipe de Austin, Texas, via Natchitoches, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 502-503
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-09-30">09-30-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquiring concerning conditions of settlement in Texas.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Clinton Loui</placeName> <date when="1830-09-30">Sept 30th 1830</date></p>
+
+<p><persName>Col Stephen F. Austin </persName>                                                           </p>
+
+<p>Dr Sir This is the third letter I have had the honour of 
+addressing you they were upon the subject of your <placeName>cholony </placeName>and [to]<pb n="503"/>
+enquire after your <persName>brother James</persName>, who I lament to learn died in
+<placeName>New Orleans</placeName><date n="Summer - 1829"> last summer</date> poore fellow his loss is seriously felt
+by me My <placeName>fathers house</placeName> was his home for a year or two, he was my
+<persName>bosom friend</persName> a youth who Our whole family was as brothers to
+him and he to them, I wrote to <persName>James </persName>two or 3 times My object was
+to get an account of your <placeName>cholony</placeName>, I have yet serious notions of
+joining to your <placeName>cholony</placeName>, I presume you have filled the stipulations
+of the contract made by your <persName>father </persName>with the <placeName>Mexican nation</placeName> and
+that you are prepaired to advise as to the policy Of a poore mans
+emigrating to your <placeName>Country</placeName>, I have every confidence in your candor
+either interested Or not interested I hope therefore you will as soon
+as this reaches you answer my letters; to this address (<placeName>Clinton
+Louisiana</placeName>) as to the law now in force whether the american people
+have the right to emigrate and the inducements for so doing whether
+donations Are made to <persName>emigrants </persName>Or not and how much land, and
+whether there is <placeName>unappropriated lands</placeName> near you or not&#8212;the 
+Character of the Soil and Particularly the health, of the country about
+you, the most advisable way of getting there with a family, the
+price of provisions corn, meat etc whether goods wrould be advised
+to be carried on or whar would be best to carry etc. The distance
+by land <placeName>from the U. S. line crossing at Nachatochese</placeName>&#8212; By 
+answering this letter you will confer a particular favour&#8212;. I have the
+honour to be</p>
+
+<p><persName>Jno C Walker</persName>    [Rubric]</p>
+
+<p><persName>Col Stephen F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Col. Stephen F. Austin</persName> <persName>St. Philippi de Austin
+Texas</persName> Care of <persName>Missrs. Harrison and Hopkins</persName> or <persName>Kincaid and 
+Cockerill</persName> <placeName>Natchitoches</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
