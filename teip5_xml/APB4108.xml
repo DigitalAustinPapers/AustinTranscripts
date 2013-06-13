@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4108">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Austin to Stephen F Austin, 12-16-1830</title>
+            <author>
+                <persName>John P Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-02">09-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 556-558
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-12-16">12-16-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Tornel's efforts to prevent emigration to Texas. Formation of Galveston Bay &amp; Texas Land Co. Swiss immigrants.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1830-12-16">December 16. 1830</date></p>
+
+<p>My dear <persName>Cousin</persName>,</p>
+
+<p>I had this pleasure on the <date when="1830-10-28">28. Oct</date> per <persName>Mr. Wm T. Austin</persName>, who
+sailed from here, in the Schooner Nelson due for <placeName>Brazos</placeName>, to which I<pb n="557"/>
+beg leave to refer, and have now to add a few lines by <persName>Mr. Treat</persName> who
+was with you about a <date n="xx-xx-1829">year Since</date>, Now on the eve of sailing for
+<placeName>New Orleans</placeName> on his way to<placeName> Galveston Bay</placeName>. I presume with a view of
+fixing on a permanent location. Since my last I have not been able
+to obtain any further information worthy of Communicating relative
+to the proceedings of <persName>Mr. Wilson</persName> in regard to his<placeName> Texas lands</placeName>, but
+should not be surprised if he had paid you a Visit ere this, as he
+writes from <placeName>Matamoros </placeName><date when="1830-10-12">October 12th</date>&#8212;that he had in part succeeded
+in the object of his Visit to <placeName>Saltillo</placeName>, but not to his satisfaction, and
+of his intention of leaving in about a <date n="11-xx-1830">Month </date>to Survey his<placeName> Texas
+lands</placeName> and expected to reach here in about <date n="05-xx-1831">six Months</date>. <persName>Mr. Tornel,
+Mexican Minister at <placeName>Washington</placeName></persName>, a short time since addressed a 
+circular to the <persName>Mexican Vice Consuls</persName> directing them not to grant any
+passports for<placeName> Coahuila and Texas</placeName>, and to refer those applying for
+them to the legation, but on the consul here representing to him the
+situation he would be placed in by refusing them to <persName>American 
+Citizens</persName> against whom no doubt the order was expressly intended to
+operate, the <persName>Minister </persName>in reply authorized the <persName>Consul </persName>to use his own
+discretion in granting them since which have been obtained without
+difficulty. Passports were however at first refused and a vessel with
+a Valuable Cargo, bound to <placeName>Matamoros</placeName>, detained some days and until
+the above permission was received from <placeName>Washington</placeName>. Had the 
+Government known it at the time which it probably did not, from the
+order not being published and so soon annulled, I think <persName>Mr. Tornel</persName>
+would have been Called on for an explanation of so singular a 
+procedure. You will see by the Enclosed that a <persName>Company </persName>has recently
+been formed here to Colonize the <placeName>Grant of <persName>Zavala</persName>, <persName>Vehlein </persName>and 
+<persName>Burnet</persName>,</placeName> and <persName>Agent </persName>to be immediately Stationed at<placeName> Galveston Bay</placeName> to
+receive <persName>Settlers </persName>and afford them every facility in settling on the land.
+From what I can learn it is the Most extensive <persName>land Company</persName> that
+was ever known in this or any other <placeName>Country </placeName>probably extending its
+interests throughout the <placeName>States</placeName>, and its <persName>board of Directors</persName> is 
+composed of the most respectable and influential <persName>Men </persName>among us, with
+the <persName>President of one of our first Banks</persName> at its head, as also on the
+<persName>Trustees</persName>. They are soon to publish a <placeName>Pamphlet </placeName>which I shall not
+fail to send you and was in hopes to have got it in time for this
+opportunity.</p>
+
+<p>Should the <persName>Company </persName>Carry their plans into full operation and I
+see no grounds to doubt it, as the funds at Command are said to be
+very heavey, I should think could but be of essential benefit to your
+<placeName>Colony </placeName>as I look upon Emigration to any part of <placeName>Texas </placeName>as 
+favourable to your interest and more particularly <placeName>between you and the
+Sabine.</placeName>   I had a conversation <date when="1830-12-16">this Morning</date> with an intimate <persName>friend</persName>.<pb n="558"/>
+who is well acquainted and has considerable influence with the 
+<persName>Trustees</persName>, and strongly recommended that the above <persName>Company </persName>should and
+without loss of time Communicate to you direct their views and
+plans fully, that you may not get an unfriendly impression towards
+them, from the various reports which would reach you thro'. Various
+sources, and should<persName> Mr. Treat</persName> be detained a day or two longer I am
+in hopes he will be the bearer of their Communication as I feel 
+confident they will see their interest in Making it. the <persName>Company </persName>have
+already chartered a Vessel to take out 50 to 100 <persName>Swiss Emigrants</persName>
+and am told they have 250 <persName>families </persName>Engaged. They also load the
+vessel I presume mostly with provisions. For further particulars
+I would refer you to <persName>Mr Treat</persName> whom I have no doubt is well 
+acquainted with the Views of the <persName>Company</persName>, as well as to <persName>Mr. 
+Woodbury</persName> who also leaves here on <date when="1830-12-20">Monday </date>for your place Via <placeName>New
+Orleans</placeName> and will probably be with you as soon as this. The Coat
+ordered made for you by<persName> Mr. Perry </persName>I have the promise of this week
+and if not disappointed will be in time to send by <persName>Mr. Woodbury</persName>, who
+offers to take Charge of it or anything I may have to send you. I
+have however seen very little of him since he has been here this
+time. The Coat has been nearly a Month in the hands of the
+<persName>Embroiderer </persName>and not possible to send same sooner. <persName>Col. Mexia</persName>, who
+says he is a particular friend of yours, Very politely loaned the
+<persName>Taylor </persName>his Coat that there might be no mistake in the uniform, and
+is so much pleased with the Making of yours as to order one Made
+for himself. As yet no letters from <persName>brother Henry</persName> since his arrival
+with you, which I cannot account for it being nearly four Months
+and very anxious to know how he is likely to succeed there with the
+Boat.   In hopes of soon being in receipt of your esteemed favors</p>
+
+<p><persName>J. P. Austin</persName></p>
+
+<p>p. a</p>
+
+<p><date when="1830-12-17">December 17th</date>.&#8212;<persName>Mr. Treat</persName> being still detained it gives me sincere
+pleasure to add, that he is the <persName>bearer </persName>of a friendly Communication
+to you from the <persName>Trustees of the land Company </persName>refered to above
+which has been handed to me for perusal and perfectly coincides with
+my Views of the propriety of Making known to you their plan of
+operations as I can but think it will further the interest of the
+<persName>Company </persName>as well as yours by having a Mutual and friendly 
+understanding at the Commencement, as it will at all events prevent any
+unfriendly feelings that might arise from Various reports that may
+be in Circulation. That the success of the <persName>Company </persName>as they progress
+may advance your interest as I think it undoubtedly will is the 
+Sincere wish of your Affectionate <persName>Cousin</persName></p>
+
+<p><persName>J. P. Austin</persName></p>
+<p><persName>Mr. Zavala</persName> also writes you by this Conveyance</p>
+<p>To <persName>Col. Stephen F. Austin</persName>  <placeName> San Felipe dp Austin   Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

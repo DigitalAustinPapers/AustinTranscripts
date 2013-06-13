@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4109">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Anthony Dey and George Curtis to Stephen F Austin, 12-16-1830</title>
+            <author>
+                <persName>Anthony Dey and George Curtis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-02">09-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 559-560
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-12-16">12-16-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans of the Galveston Bay &amp; Texas Land Co.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1830-12-16">16th. December 1830</date></p>
+<p><persName>Col. Stephen F. Austin</persName>.</p>
+
+<p>Sir/ It is perhaps a duty we owe to you to communicate the 
+inteligence contained in this letter, lest from reports that are <placeName>abroad </placeName>you
+should be impressed with an idea in relation to our business, 
+unfriendly towards us, which we think you will not indulge when the
+business is fully and fairly understood We have no doubt that you
+are aware of the Contracts made by <persName>Government of <placeName>Mexico </placeName></persName>and the
+<placeName>State of Coahuila and Texas</placeName> with <persName>Govr Lorenzo de Zavala</persName>, <persName>Joseph
+Vehlein</persName> and <persName>David G. Burnet</persName> as <persName>Empresarios </persName>in relation to certain
+<placeName>Lands lying East of you and bordering on the United States.</placeName> The
+<placeName>land comprehended within the boundaries of the four grants</placeName> made
+to those gentlemen is estimated to contain about<placeName> 15 millions of Acres</placeName>.
+One condition among others is to put on in all 1200 <persName>families </persName>of 
+various <placeName>Nations </placeName>These <placeName>Grants </placeName>have been formed and combined into one
+<persName>company </persName>and conveyed to <persName>Anthony Dey</persName> and<persName> George Curtis of <placeName>New
+York</placeName></persName> and <persName>William H. Sumner of <placeName>Boston </placeName></persName>as <persName>Trustees </persName>and <persName>Attornies</persName>
+of the <persName>Empresarios </persName>to fulfil their engagement, and one great effort
+is about to be made to colonize those <placeName>grants </placeName>according to the laws of
+<placeName>Mexico</placeName>&#8212; For that purpose <persName>Mr. Zavala</persName> sails for <placeName>France </placeName>in a few
+days to procure <persName>settlers </persName>from <placeName>Germany</placeName>, <placeName>France </placeName>and <placeName>Switzerland</placeName>&#8212;
+other efforts are making by other <persName>Gentlemen </persName>to bring <persName>colonizers </persName>from
+<placeName>England</placeName>, <placeName>Ireland </placeName>and <placeName>Scotland</placeName>&#8212; A vessel will sail from this <placeName>City</placeName>
+in a few days with <persName>Swiss </persName>and <persName>Germans</persName>, with a few <persName>agents </persName>of the
+<persName>Company</persName>&#8212;these are intended as a pioneer party, to prepare <placeName>huts,
+shantees and other temporary accommodation</placeName> for the <persName>settlers </persName>as they
+arrive from <placeName>Europe </placeName>or elsewhere and to prepare for them bread stuff
+on which to subsist, until the <persName>settlers </persName>can make their locations and
+build <placeName>houses </placeName>for themselves&#8212; The combined interest in these <placeName>grants</placeName>
+is great and the pains taking to diffuse knowledge and information
+in relation to <placeName>Texas </placeName>will we think have the tendency to direct the
+attention of many persons towards that <placeName>country </placeName>and your <placeName>colony</placeName>
+must of course considering it[s] advanced state of cultivation have
+an advantage over any other We are making a publication which
+we will take pleasure in forwarding to you in a few days which
+developes our whole plan of operations and we expect to send <persName>Col.
+Mexia</persName> to see you, with an <persName>agent </persName>very shortly to propose to you 
+certain arrangements which we think will tend much to your advantage
+in relation to the future settlement of your <placeName>colony </placeName>and for 
+consideration of such other matters as may be considered for the joint benefit
+of all the <persName>Empresarios </persName>in <placeName>Texas</placeName>&#8212;<pb n="560"/></p>
+
+<p><persName>Govr Zavala</persName><persName> Mr. Vehlein</persName> and <persName>Mr. Burnet</persName> each retain large 
+interests in the <persName>Company </persName>and will use their best endeavours for the
+promotion of its interests.&#8212;</p>
+
+<p>We cannot however but express a wish, that there was a toleration
+as regards religion in that <placeName>Country</placeName>, many of the best <persName>farmers</persName>, who
+are not <persName>Roman Catholics</persName> would remove to it, were it not for the
+fact that they must become <persName>Romanists </persName>in their religion, and we hope
+soon to see a more benign feeling in the Government towards <persName>North
+Americans</persName>&#8212; The Government must be satisfied by this time that
+the <placeName>United States</placeName> have not had any disposition to take the <placeName>Country</placeName>
+by force of arms.</p>
+
+<p>The class of <persName>men </persName>that would improve the face of that <placeName>country</placeName>
+more than any others would be the <persName>hardy yeomanry of the<placeName> New
+England states</placeName></persName>. We now contemplate to send in their place 
+<placeName>Europeans </placeName>to comply with the Contracts but we hope the time is not
+far distant when a more friendly relation will exist between our
+<persName>governments</persName>&#8212; We shall be glad to hear from you any suggestion
+that will tend to our individual and mutual benefit&#8212; Our 
+<persName>Co-Trustee Mr. Sumner </persName>is at <placeName>Boston </placeName>at present, and we avail ourselves
+of the present opportunity by <persName>Mr. Treat</persName> to make this 
+Communication to you which we trust will be met with a corresponding feeling
+on your part, and</p>
+
+<p>remain very respectfully</p>
+
+<p><persName>Anthy Dey</persName></p>
+<p><placeName>No. 27 Nassau St</placeName></p>
+<p><persName>George Curtis</persName></p>
+<p><placeName>No. 17 Hanover Street</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

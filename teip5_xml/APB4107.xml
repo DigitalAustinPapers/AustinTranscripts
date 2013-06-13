@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4107">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 12-14-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-02">09-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 555-556
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-12-14">12-14-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Navigation. Galveston must be the principal port. Legislature.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1830-12-14">14 Decr 1830</date></p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>I have the satisfaction of acknowledging the receipt of yours of <date when="1830-10-02">2d
+October</date> from <placeName>New York</placeName>, and of informing you of the safe arrival
+of the Nelson. I recd a letter <date when="1830-12-13">yesterday </date>from <persName>John Austin</persName> stating
+that the Nelson was at <placeName>Brazoria </placeName>and he was then unloading your
+goods&#8212;She lost her false keel coming over the <placeName>bar </placeName>and thumped
+severely&#8212;the <placeName>bar </placeName>is much worse than when you came over&#8212;<persName>Henry
+Austin</persName> came near loosing his Steam boat going out, he put to Sea
+very much damaged and I have not heard of him since&#8212;</p>
+
+<p>I wrote to <persName>John </persName>to follow your instructions strickly as to the goods,
+and not open them untill <persName>Mr Hunter</persName> arrives.   I have not yet finished<pb n="556"/>
+the <placeName>Store house</placeName>, it is raised (in this place) the Shingles are hawled&#8212;
+the plank is all sawed and wagons have gone after it&#8212;So that I
+hope it will be ready by the time <persName>Hunter </persName>arrives&#8212;I have no <placeName>house</placeName>
+under way for the <persName>family</persName>&#8212;you will get out in the <date n="SPring-1831">Spring </date>and the
+weather will be pleasant, and you can get along very well untill
+some <placeName>buildings </placeName>are put up&#8212;<persName>Emily </persName>has seen a <placeName>new country</placeName> in times
+long past and can manage very well for a month or two&#8212;The fact
+is I have no one to attend to business and if I undertake to build
+while I am absent it will cost ten prices. My advise is that you
+build on the <placeName>out lots above <persName>Williams</persName></placeName>; in this place on the creek&#8212;-I
+think the situation a healthy one-</p>
+
+<p><persName>Edwards </persName>gets the <placeName>League at the point</placeName>-&#8212;There was no other way
+of arranging the thing&#8212;-The <placeName>tract between the two creeks</placeName> I think
+is the best <placeName>Stock farm</placeName> in the<placeName> lower country,</placeName> and I am clearly of
+opinion that Stock is the best business that can be followed, and if
+you intend to go into that business the <placeName>Clear Creek</placeName> and <placeName>Dickensons
+Creek </placeName>is the best tract you can get&#8212;I am very anxious for you to
+be here. We can soon fix ourselves comfortably&#8212;the <persName>family </persName>will
+have to undergo some privations the first year I leave here the <date when="1830-12-16">day
+after tomorrow </date>for <placeName>Saltillo </placeName>and shall not be back untill <date n="06-xx-1831">June</date>, and I
+then hope to see you all here in health&#8212;. I have left my will with
+<persName>S. M. Williams </persName>and he has a power of attorney to attend to all my
+business, there is considerable due me and you can get work and
+plank etc. without paying money Also I wish you to begin 
+collecting cattle due me&#8212;I think it will be a good plan to bring a <persName>mexican
+family</persName> with me from <placeName>Saltillo</placeName>&#8212;</p>
+
+<p>I have heard nothing from <persName>Hunter </persName>and am very uneasy about
+him&#8212;the <placeName>Brazos bar</placeName> is very dangerous <placeName>Galveston </placeName>must be the
+<placeName>principal port</placeName>&#8212;</p>
+
+<p>Call on <persName>Williams </persName>for any notes due me or all of them&#8212;and use
+any thing of mine as if it was yours without any kind of reserve.
+If I live through these two years, I am done for the balance of my
+life with all kind of public matters</p>
+
+<p>The person who takes this is waiting so I will close by wishing
+you all a safe journey and good health</p>
+
+<p>farewell</p>
+                                            
+<p> <persName>S. F. Austin </persName>   [Rubric]</p>
+
+<p>[Addressed:] <persName>Mr James F. Perry</persName>  <placeName> Potosi   Missouri</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
