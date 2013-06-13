@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4643">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H. Meigs to Stephen F Austin, 05-30-1834</title>
+            <author>
+                <persName>H. Meigs</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-05">12-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1056-1057
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-05-30">05-30-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inclosing letter from Louis McLane showing that United States has intervened in Austin's behalf.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName><date when="1834-05-30"> May 30 1834.</date></p>
+<p>Dear Sir</p>
+
+<p>The moment I learned that your safety was threatened by the
+<persName>Government of <placeName>Mexico</placeName></persName>, I endeavored to procure the interference of
+our <persName>Government </persName>in your behalf. You will see by the inclosed note
+from the <persName>Secretary of State</persName> and the brief indorsement by my
+brother <persName>Forsyth </persName>that such interference was made.<pb n="1057"/></p>
+
+<p>I wrote to you several months ago&#8212;I wish that you would answer
+that Letter&#8212;and favorably too.
+Long life and prosperity to you.</p>
+
+<p><persName> H Meigs</persName></p>
+
+<p><persName>Col. Stephen Austin</persName></p>
+<p>[Addressed:] <persName>Colonel Stephen Austin </persName>  <placeName>San Felipe de Austin Texas</placeName></p>
+
+<p>[Inclosure]</p>
+
+<p><placeName>Department of State</placeName></p>
+<p><placeName>Washington</placeName>, <date when="1834-05-26">26th May, 1834</date>.</p>
+<p>The <persName>Honorable John Forsythe, Senator of the United States</persName>.</p>
+<p>Sir:</p>
+
+<p>I have the honor to inform you that in compliance with the request in
+your letter to me of the <date when="1834-05-19">19th instant</date>, an instruction of the character 
+suggested by you has been addressed to our <persName>diplomatic representative at <placeName>Mexico</placeName></persName>.
+I am, respectfully,</p>
+
+<p>Your obedient servant,</p>
+
+<p><persName>Louis McLane</persName></p>
+<p>The answer to my letter asking interference for your friend <persName>Austin</persName></p>
+
+<p><persName>Forsyth</persName>.</p>
+<p>[Indorsed:] <persName>H. Meigs</persName> <date n="xx-xx-1834">1834</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

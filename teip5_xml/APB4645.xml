@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4645">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Oliver Jones, 05-30-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-05">12-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Oliver Jones
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">En Inquisicion, Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1057-1060
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-05-30">05-30-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggests that ayuntamientos of Texas thank State and Federal governments for recent relief measures and petition for his own release.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>En Inquisición Mexico</placeName> <date when="1834-05-30">May 30th 1834</date></p>
+<p><persName>Mr. Oliver Jones</persName></p>
+
+<p>Sir I am still in <placeName>prison </placeName>and I can form no idea when I shall be
+at liberty</p>
+
+<p>When I left <placeName>Texas </placeName>in <date n="04-xx-1833">April 1833</date> the position taken by the people
+was that the evils that threatened that <placeName>country </placeName>with ruin must be
+removed by the <persName>Government </persName>or the <persName>people </persName>[would] remedy them
+themselves and ought to do so as in that case they would have the
+right to do it. I sustained this position as the<persName> agent of the people</persName>
+firmly both verbally and in writing before the <persName>ministers </persName>and the
+<persName>Vice President</persName> and also in my letter to the <persName>Ayuntamiento of <placeName>Bexar</placeName>
+</persName>of <date when="1833-10-02">2nd of Oct.</date> last I represented my constituents as they were when
+I left them, and as I had right to believe they continued to be; 
+regardless of my personal safety liberty or life, it was my duty so to<pb n="1058"/>
+do&#8212;great good has resulted to <placeName>Texas </placeName>from my labors, and the noise
+which this business has made&#8212;all the evils complained of have been
+removed, my conscience is clear, I have discharged my duty faith
+fully, and for having done so I have suffered five months inprison
+ment-&#8212;Three of them in close and solitary confinement locked up
+in a <placeName>dungeon </placeName>day and night, the reflection that <placeName>Texas </placeName>would be
+benefited by my sufferings kept up my spirits and I have borne it all
+with patience and fortitude, I have understood indirectly from
+common rumor that those people in whose service I am suffering and
+have sacrificed so much time and money and fatigue are now
+calumniating me and rejoicing in my misfortunes, I do not believe this
+report&#8212;a few may do so, but not the mass&#8212;not the <persName>farmers</persName>-
+the honest and sound part of the community&#8212;they have always been
+correct sound and honest in their feelings intensions, and principles
+and I have no doubt that all their sympathies are in my favor
+will not calumniate them even in my thoughts by believing otherwise</p>
+
+<p>In my letter of the <date when="1834-01-17">17th January</date> from <placeName>Monterrey</placeName>, I requested them
+not to suffer themselves to be excited on act. of my imprisonment
+I did this to serve them, for all kinds of excitements in <placeName>Texas </placeName>are
+injurious to the farming and laboring classes and to the 
+improvement of that country. They complied with my request and I than
+them for having done so. I also requested them to be obedient to
+the <placeName>state of Coahuila and Texas</placeName>&#8212;they have been so, and for this
+also thank them&#8212;God knows when I shall be at liberty&#8212;I hope
+soon&#8212;a mild and respectful representation of facts from the 
+<persName>Ayuntamientos of <placeName>Texas</placeName></persName> stating the situation of that country and of
+public opinion when I left them In <date n="04-xx-1833">April last year</date>, as <persName>agent</persName>, the
+position above stated taken by those people which it was my duty
+as their <persName>agent </persName>to sustain, and my general character, conduct and
+services in favor of good order, of the integrity of the <placeName>mexican 
+territory</placeName> and of the welfare and improvement of my <placeName>adopted country</placeName>
+such a representation especialy from <placeName>Bexar </placeName>would open my <placeName>dungeon</placeName>
+at any time and would do it now. But perhaps this is to much to be
+done for <persName>S. F. Austin</persName>, I did not think that I was doing too much
+for those people when I risked everything for them.</p>
+
+<p>I understand that the main charge against me is an attempt to
+separate <placeName>Texas </placeName>from the <placeName>mexican Republic</placeName>, this charge is false as all
+<placeName>Texas </placeName>can testify, however I do not know what the charge is for
+up to this day no copy of charges or accusation of any kind has
+been furnished&#8212;neither do I know whether I am to be judged by a
+<persName>military or civil tribunal</persName> when informed of the charges against me
+(and God knows when that will [be] perhaps many months hence)
+it may be necessary for me to send to <placeName>Texas </placeName>for evidence, so that I
+may linger away years here&#8212;the <persName>Ayuntamientos of <placeName>Texas</placeName></persName> might
+have saved me all this,   I did not ask it but I confess that I ex-<pb n="1059"/>
+pected it would have been done. If I am calumniated I consider
+that it is a duty of the people there to defend me by a statement of
+facts&#8212;an able and clear but short exposition to the public.</p>
+
+<p>I hear from rumor that the <persName>state legislature</persName> have past a law to
+sell the vacant lands&#8212;such a law is necessary&#8212;public sales is the
+best, and only true basis for a land law, It will benefit the <placeName>state of
+Coahuila and Texas</placeName> greatly and fill its treasury and also benefit
+<placeName>Texas</placeName>&#8212;I recommend this system to the <persName>ministers </persName>here and the 
+establishment of the trial by <persName>jury </persName>and the <persName>minister of relations</persName> informed
+me that he had recommended both to the <persName>Government of the state</persName>
+by order of the <persName>Vice president</persName>.</p>
+
+<p>The aspect of things here indicates a great change or a civil war
+of some kind, But God knows what, the<persName> people of <placeName>Texas</placeName></persName>, in my
+opinion ought to have nothing to do with their family political 
+quarrels and I hope they will not. All you need in <placeName>Texas </placeName>is peace, a
+dead calm, and to make good crops. Remember me to all who
+remember me, Show this to <persName>Capt. Martin</persName>, to <persName>D. G. Burnett</persName> and to
+<persName>Miller</persName>&#8212;                                                                          <p><persName>S. F. Austin</persName></p></p>
+
+<p><date when="1834-06-02">June 2nd</date> I have just heard of the laws past by the <placeName>state </placeName>in favor
+of the <persName>local government</persName> in <placeName>Texas</placeName>the establishment of three 
+departments; <persName>judges</persName>, trial by <persName>jury</persName>, land law etc. In short every evil 
+complained of has been remedied&#8212;this fully compensates me for all I
+have suffered I do not regret it; I think it is the duty of the <persName>people
+of <placeName>Texas</placeName></persName>, to return thanks to the <persName>State Govt</persName>, in a public manner
+through the <persName>Ayuntamientos </persName>for these laws, and to make a most
+positive and clear declaration of their attachment and firm adhesion
+and union to the <placeName>state of Coahuila and Texas</placeName> and to the <placeName>Mexican
+confederation</placeName>. This ought to be done&#8212;it is due to the <placeName>state</placeName>&#8212;and
+it ought to be published in the <placeName>news papers of the U. S.</placeName> in order to
+correct the erroneous opinions, that have existed there as to the
+intentions or <hi rend="italic">objects </hi>of the<persName> people of <placeName>Texas</placeName></persName>,&#8212;they have been sound&#8212;
+they asked for a competant organization of their <persName>local government</persName>
+and nothing else, and they never had any other object, It was for
+this I came to <placeName>Mexico </placeName>and for this I am suffering&#8212;all this might be
+embodied in the document above mentioned And the <persName>people of
+<placeName>Texas</placeName></persName> would thus do justice to the State, themselves, and to me all
+at the same time. Some of the <persName>enemies of <placeName>Texas</placeName></persName> are beginning to
+snear at those people by reporting in this <placeName>city </placeName>that they have 
+abandoned me and wished me sacrifised&#8212;such an idea is injurious to the
+character of those people and totally false, and ought to be refuted
+by a plain, frank, and public statement of facts</p>
+
+<p><persName>S. F. Austin</persName></p>
+<p><persName>Mr. James F. Perry</persName></p>
+
+<p>Sir I send you the above letter which arrived here on the <date when="1834-05-09">9th inst</date>
+I have receive[d] your letter, as also <persName>Guy</persName>'s  nothing new, there will<pb n="1060"/>
+be something done for <persName>Uncle </persName>to day as there is a colecton [?] of
+people in town to day   <persName>Clayton </persName>is to be tried for his life</p>
+
+<p><persName>M. Austin Bryan</persName></p>
+<p>In a letter to <persName>Sam Williams</persName> of similar import to this he used
+these words " I was <hi rend="italic">incommunicado regororisimo</hi> from the <date when="1834-02-13">13th Feby</date>
+to <date when="1834-05-09">9 May</date>&#8212;no book or writing materials &amp; very little light&#8212;dreary
+enough but the idea that <placeName>Texas </placeName>&amp;c " Dated <persName>ex inquisición</persName>&#8212;<date when="1834-06-03">June
+3rd '34</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

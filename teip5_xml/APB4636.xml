@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4636">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 05-10-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-03">12-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1049-1055
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-05-10">05-10-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Describing prison and his imprisonment incomunicado. Observations on his past policy in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Ex-inquisicion</placeName> <placeName>Mexico </placeName><date when="1834-05-10">May 10th 1834</date></p>
+<p>Dr <persName>Brother</persName>.</p>
+
+<p>I improve the first moment that I could write to you since I
+arrived here which was on the <date when="1834-02-13">13 Feby&#8212;</date>on that day I was locked
+up in one of the <placeName>dungeons </placeName>of this vast building <hi rend="italic">incomunicado</hi>, that
+is I was not allowed to speak to, or communicate with any person
+whatever except the <persName>officer of the guard</persName>. I remained in this 
+situation untill <date when="1834-05-09">yesterday </date>when I was permitted to communicate with
+persons outside, receive books, writing materials, visits etc and to
+mix with the other <persName>prisoners</persName>&#8212;there are about 60 of them, all <persName>officers</persName><pb n="1050"/>
+except two <persName>clergymen (Padres)</persName> and all men of good <persName>families </persName>and
+respectability confined for political opinions in the revolution of the
+past year. The occupant of my <placeName>dungeon </placeName>before me was a <persName>Col</persName>. who
+was banished. <persName>General Bustamante former vice-President</persName> occupied
+one in <date n="07-xx-1833">July </date>and <date n="08-xx-1833">August </date>last near mine, as I am informed.</p>
+
+<p>You may have some curiosity to know how I am lodged and
+what sort of a place an <placeName>inquisición prison</placeName> is, about which so many
+horrid things are said all over the <placeName>world</placeName>, and which are no doubt
+true and probably much worse.</p>
+
+<p>My <placeName>room </placeName>is about 16 feet by 13&#8212;very high ceiling&#8212;two doors,
+one flush with the outside surface of the wall, the other near the
+inside surface and within the wall which is about 3 feet thick of
+large hewn stone&#8212;the latter door has an oblong hole large enough
+to admit a plate&#8212;the other is solid, both were always locked and
+bolted untill <date when="1834-05-09">yesterday</date>&#8212;no windows&#8212;a very small sky-light in the
+roof which barely afforded light to read on very clear days when
+the sun was high, say from 10 to 3 o'clock&#8212;quite free from damp
+except such as would naturally result from the want of a free 
+circulation of air. There are 19 similar <placeName>dungeons </placeName>in this range with
+the difference that some of them are a little larger than mine, tho
+most are the same size&#8212;they are <placeName>in the interior of this extensive
+building</placeName> and the doors open into an oblong<placeName> <hi rend="italic">patio </hi></placeName>or open court
+about 120 by 60 feet which has a varanda or gallery all round
+it supported by pillars and arches&#8212;a fountain of good water from
+the acqueduct in the centre. This part of the building is one story
+but is surrounded on every side by other parts of the same building
+that are two stories and present a solid wall above our range without
+windows that look into this patio. On two sides of the base of
+the two story wall before mentioned there are <placeName><hi rend="italic">solederos </hi>or sunning
+places</placeName> which are spaces about 14 feet square (one is much larger)
+ranged along the back of the <placeName>dungeons </placeName>and between them and the
+before mentioned two story wall&#8212;they are separated from each other
+by high walls&#8212;each has a door, locks etc&#8212;open above for the sun&#8212;
+they communicate with the patio by arched passages.</p>
+
+<p>When I came in each <placeName>dungeon </placeName>had its occupant and all were
+<hi rend="italic">incomunicado </hi>the same as myself. All the doors were locked and
+bolted no one came into the <placeName>patio </placeName>except the <persName>sentinel</persName>&#8212;all was silent-
+each one was taken out about two hours the middle of the day and
+put into one of the <placeName>solederos </placeName>or sunning places, alone and locked in.
+In time of the inquisición the <persName>prisoners </persName>were covered with a kind of
+sack or over garment with a mask at the top to cover the head and
+face, so that they could not be known, even by the guard in going
+through the <placeName>patio </placeName>to and from the <placeName>solederos</placeName>, nothing of the kind
+was done with us, we saw each other but could not salute or speak.<pb n="1051"/>
+I am told that in the time of the inquisición there were four other
+<placeName>patios </placeName>or open courts that belonged to the part of the building that
+was used as a <placeName>prison</placeName>&#8212;they formerly communicated with each other
+by obscure passages which are now closed. The entrance into each
+from the street was always separate as they still are so that if the
+<persName>friend of a prisoner</persName> saw him enter one of the outside doors, he could
+not from that circumstance form any idea of the <placeName><hi rend="italic">patio </hi></placeName>or part of
+the building where he was confined. The <placeName><hi rend="italic">patio </hi></placeName>I am in 
+communicates with the street by a narrow dark passage about 150 feet long.</p>
+
+<p><persName>Padre Servando Mier</persName> a very distinguished <persName>patriot </persName>was confined
+in the same <placeName>dungeon </placeName>I am in by the <persName>tribunal of the inquisición</persName> in
+its time, and also by the <persName>emperor Iturbide</persName>. I visited him here in
+this room in <date n="10-xx-1822">October 1822</date>, he was a <persName>member of congress</persName> and was
+arrested the <date when="1822-08-20">20 of August</date> with <persName>14 other members</persName>. <persName>General Morelos
+</persName>the most distinguished of the <persName>generals </persName>in the beginning of the
+revolution, was confined in a <placeName>dungeon </placeName>near mine in this range from
+which he was taken to be shot. In short each of these <placeName>dungeons </placeName>has
+some tradition of the sufferings of some <persName>victim of the inquisición
+</persName>or of the revolution. Since the Independence this building has been
+used as a <placeName>prison </placeName>for political opinions or offences&#8212;no one accused
+of felonious crimes is confined here.    The <persName>prisoners </persName>are well treated.</p>
+
+<p>The <date when="1834-04-01">first of April</date> all the <persName>prisoners </persName>were put in communication
+except myself and four others we remained shut up untill 
+<date when="1834-05-09">yesterday</date>&#8212;our doors are now open from sun rise to 9 o'clock at night&#8212;
+we have the free use of the <placeName><hi rend="italic">patio </hi></placeName>and can visit another extensive
+range of <placeName>dungeons </placeName>in the 2d story of the main building which 
+communicates with this patio by a dark passage and much darker stone
+staircase. From this range there is a passage onto the <placeName><hi rend="italic">asotea </hi>or
+roof of our range of dungeons</placeName> which is flat so that we can walk over
+our <placeName>dungeons </placeName>and all around our patio and have sufficient room for
+exercise I was shewn a <placeName>dungeon </placeName>in the 2d story where a man from
+<placeName>Guatamala </placeName>was confined by the inquiscion 30 years he is now
+living in a <placeName>hospital </placeName>of this city and has given some account of the
+treatment of <persName>prisoners </persName>in those days of superstition and despotism</p>
+
+<p>I have received no personal ill treatment from any of the <persName>officers</persName>
+or <persName>guards </persName>who have had charge of me since my first arrest up to this
+day I received such provisions as I needed them through the
+guard&#8212;they were handed in at the hole in the inside door. When
+I left <placeName>Monterey </placeName>the <persName>officer of the guard, Cap Manuel Barragan</persName>, told
+me that he would put no guard over me except my word that I would
+not attempt to escape nor speak or write to any one without his
+permission. I gave it of course, for I would have returned to <placeName>Mexico</placeName>
+on the simple order of the <persName>Govt</persName>my conscience told me that I had<pb n="1052"/>
+committed no crime. I was imprudent in urging the claims of <placeName>Texas</placeName>
+that were confided to me as an <persName>agent </persName>with more determination and
+obstenancy than was consistent with my personal security or 
+wellfare, but nothing more. I accepted the agency with reluctance, but
+in good faith and conformed to what I had every right to believe
+was the general wish of the people so far as the convention expressed
+that wish. Much good will result to <placeName>Texas </placeName>from my sufferings. The
+<persName>state government</persName> have been stimulated to apply proper remedies in
+many things and some of those who would have ruined the country
+and thrown it into confusion merely from personal feelings and low
+mean jealousies towards me, are now satisfied and rejoicing and are
+in favor of peace and quietness, because they think I am suffering-
+others who were restless and dissatisfied with me and with every
+thing without knowing why, are more calm and reasonable, and
+others who were my <persName>enemies </persName>a year ago, have no doubt had the 
+magninimity to do me justice&#8212; this conduct (if it be true as I am told it
+is) will do them honor and be remembered to their advantage at some
+future day when all personal feelings have passed away. My own
+personal <persName>friends </persName>(and the mass of the honest and laboring <persName>farmers</persName>
+are so) have always been in favor of peace and quietness and opposed
+to turbulence. They have no doubt blamed me for suffering violent
+men to involve me as I have been. They have seen that I have 
+permitted myself to be thrown into the mire by others whose sole object
+was my ruin. I was unsuspicious and acted in good faith&#8212;the fact
+is that when a few persons combine to ruin another who is 
+unsuspicious and acts in good faith and with honest intentions, it is very
+difficult for him to escape.</p>
+
+<p>Thus it is, that those who a year ago were the most anxious for a
+state and the most turbulent, are now for peace&#8212;they have in fact
+adopted my own principles which allways have been <hi rend="italic">peace quietness,
+patience and submission to the laws and no revolutions.</hi> If I ever
+wandered from those principles, it was because the public feeling
+was so disordered and things were so disjointed that my opposition
+would have increased the evils and in all probability caused a great
+deal of confusion. I yielded from this motive, <hi rend="italic">and yielded in good
+faith,</hi> and not to undermine or counteract. Thus my own principles
+of peace and quietness are now predominant, when had I attempted
+to have made them prevail by direct opposition to violent measures
+the reverse would have been the case.</p>
+
+<p>It is very evident that <placeName>Texas </placeName>must become a state at some future
+day and not very distant&#8212;all will be in favor of it&#8212; the attempt
+that has been made was premature and totally wrong as to the
+manner. The particular act that involved me in all this, was the
+calling of the convention in my absence.   I yielded after my return.<pb n="1053"/>
+So far as I am to blame in agreeing to those measures I am ready
+to be censured&#8212;they grew out of the situation of public feelings at
+the time&#8212;it would have been worse than useless for me to have
+opposed them&#8212;the only way I could have done it was to enter into
+the thing in bad faith so as to defeat and counteract. Such a course
+I did not think was correct or honorable&#8212; on my arrival here I
+could have put the state question to sleep. If I had done so those
+who now blame me for an excess of zeal would have been vociferous
+on the opposite extreem. All those things are mere matters of
+course&#8212;in short it is mankind. The only substantial matter in this
+business that is worthy of consideration is <hi rend="italic">that much substantial
+good will result to <placeName>Texas </placeName>from my sufferings</hi> and I am content&#8212;
+as to office or public employ you know that I have always been averse
+to it&#8212;I am more so now than ever&#8212; I am no <persName>office hunter</persName> nor no
+<persName>demagogue </persName>seeking popularity&#8212; I have tryed in good faith to do
+all the good I could to everybody&#8212;as to <persName>enemies </persName>and <persName>friends</persName>&#8212;
+the common acceptation of those words amongst mankind in general
+conveys to the mind the same idea of change, that the word <hi rend="italic">clouds</hi>
+does&#8212; not so with true personal friends&#8212; of these I shall never
+want. Such men for example as <persName>T. F. McKinney</persName>. These are the
+only kind of friends I wish for.</p>
+
+<p>I have no idea when I shall be at liberty. I think that all depends
+on the report of <persName>Almonte </persName>who has been sent to <placeName>Texas </placeName>and I presume
+is now there or on his way back. It is much in my favor that all
+remains quiet in <placeName>Texas </placeName>I was confident that no <persName>friend </persName>of mine
+would try to get up an excitement but I feared that my <persName>enemies</persName>
+would. Such a thing would have increased my difficulty, for I would
+have been blamed for it all. My confinement has been very rigid
+but I am in good health and have borne it with tolerable patience.
+I had no books the first month, and it was solitary enough&#8212;after
+that I prevailed on the <persName>sergeant </persName>to go to <persName>D. Victor Blanco</persName> who sent
+them&#8212;he and <persName>Padre Muldoon</persName> have been firm and unwavering in
+their friendship to me in all this business, so has <persName>Ramon Musquis</persName>
+and many others in <placeName>Bexar </placeName>who have written here in my favor I
+have never complained of the <persName>Vice President Farias</persName>&#8212;he has been
+deceived&#8212;he has been made to believe, as I am told, that my object
+was to separate <placeName>Texas </placeName>from <placeName>Mexico </placeName>and deliver it to the <placeName>United
+States of the north</placeName>, which is absolutely false and without the shadow
+of foundation besides being a great absurdity. In a moment of
+irritation I said to the <persName>vice President</persName> that if the evils of <placeName>Texas</placeName>
+were not remedied the public there would remedy them of 
+themselves&#8212;   this irritated him very much  and my difficulties com-<pb n="1054"/>
+menced. The truth is I lost patience and was imprudent and of
+course to blame, for patience is necessary in such cases. I hope
+that no friend of mine will blame the <persName>vice President</persName> or complain
+of him. I put on one side all considerations of personal safety or
+consequences to myself and thought only of suffering <placeName>Texas </placeName>and
+the fevered and excited situation of my constituents&#8212;had I erred
+from a want of zeal or industry or dilligence in the discharges of
+my duty as an <persName>agent</persName>, all would have had cause to censure me and
+my own conscience would have been the first to do it, for nothing
+can be more sacred than a public agency. My conscience is at rest-
+as an <persName>agent </persName>I did my duty, or, only erred from excess of zeal to
+do it&#8212;good has resulted even from that error if it was one. I am
+suffering but the evils of <placeName>Texas </placeName>are remedied&#8212; this idea consoles
+me for my misfortunes and enables me to bear them firmly. 
+Remember me to <persName>McKinney </persName>and show him this letter also <persName>H. Austin</persName> and
+if <persName>Mason </persName>and <persName>Hotchkiss </persName>are there remember me to them.</p>
+
+<p>Love to <persName>Emily </persName>and all the <persName>family</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>N. B. I sent you two mineatures from <placeName>Monterey </placeName>by <persName>Mr. Powel</persName>
+which I hope you have recd. The small one was taken the 
+beginning of <date n="10-xx-1833">October </date>when things were very unfavourable for <placeName>Texas</placeName>
+and I was not in a pleasant humour of course it therefore has
+rather a cross or frowning look&#8212;the other that is the large one
+was taken in <date n="11-xx-1833">November </date>when all was right. <persName>Mr Howard</persName> who
+painted them has gone to <placeName>Texas </placeName>and I recommend him to you
+very particularly as a good <persName>artist </persName>and a very good worthy young
+man. If <persName>Hotchkiss </persName>is in <placeName>Texas </placeName>remember me to him very 
+particularly-&#8212;he is an honorable and high minded man&#8212;his friendship
+is valuable for he has no deception&#8212;he will no doubt blame me
+very much for writing the letter of <date when="1833-10-02">2d of October</date> don't mind
+that&#8212;I blame myself because it was the imprudent act of an 
+excited impatient moment. If I find that I am to be detained here
+long, I will send you a power of attorney to sell any of my 
+property you think proper and make titles. I send you an extra-judicial
+power under which you can act if you think proper&#8212;-deeds may
+be wanted for the <placeName>Brazoria </placeName>lots and perhaps you may do some
+thing with <placeName>the place at the mouth of the river west side</placeName>. Do as
+you please with anything of mine and try and have a room for
+me at your <placeName>house</placeName>.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><date when="1834-05-10">May 10 1834</date></p>
+<p><persName>Mr James F. Perry</persName></p>
+
+<p>I know nothing about the political situation of the <placeName>country </placeName>but
+am told  it is very unsettled&#8212;some  say worse than  it has  ever<pb n="1055"/>
+been&#8212;party spirit is more bitter and vindicative&#8212;some think there
+will be another civil war worse than any of the others. These
+are the rumors which reach us in the <placeName>Patio </placeName>whether true or false
+God knows</p>
+
+<p><persName>S. F. A.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

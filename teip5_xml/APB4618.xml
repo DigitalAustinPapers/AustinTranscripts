@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4618">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to George Fisher, 01-15-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        George Fisher
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monterrey, Nuevo Leon</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Matamoros, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1036-1037
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-01-15">01-15-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing arrest. Policy in Texan affairs.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monterey </placeName><date when="1834-01-15">15 January 1834</date></p>
+<p><persName>Mr. Geo: Fisher</persName></p>
+
+<p><hi rend="italic">Matamoros</hi></p>
+
+<p>Dr Sir.    The affairs of <placeName>Texas</placeName>, which have given me labor and
+vexation enough for 13 years past, are likely, as it seems to keep
+me in difficulties for some time to come.   The fact is, that during
+the last year of general convulsions, it has been almost impossible<pb n="1037"/>
+for any one, who occupies any space in Society, to Keep clear of
+extanglements of some kind. I have been arrested by an Order from
+the <persName>Minister of War</persName>, on an accusation made by the <persName>State 
+Government</persName>, and I leave <date when="1834-01-16">to morrow</date>, I presume for <placeName>Mexico</placeName>.</p>
+
+<p>All I can be accused of is that I have labored diligently and 
+faithfully and with pure intentions to cover the<placeName> wilderness of Texas</placeName> with
+an agricultural and usefull <persName>population </persName>and to make it a <placeName>State of the
+Mexican Republic</placeName>, separate from <placeName>Coahuila</placeName>. This is no crime,&#8212;it
+is quite the reverse.</p>
+
+<p>I have sent some claims in that <hi rend="italic">Comisaria</hi>, to <persName>D. W. Smith</persName>, to 
+collect, and as you are the <persName><hi rend="italic">Comisario</hi></persName> I recommend them for <hi rend="italic">pronto
+despacho</hi>.</p>
+
+<p>I am much pleased with the new <persName>Comandante General, Don Pedro
+Lemus</persName>, and I recommend him as a man of high honor and liberal
+principles and a Gentleman.</p>
+
+<p>The letters I wrote to <placeName>Texas </placeName>from <placeName>Matamoros </placeName>in your favor
+caused a great excitement there, in many, against me&#8212;if you go
+there you must be very prudent and accommodating as to <placeName>Custom
+House</placeName> matters,&#8212;the best way is to let the <placeName>Custom House</placeName> alone
+for a year more, and then go there,&#8212;or before as an Individual and
+remove old impressions. I am getting tired of the whole matter
+of Colonizing&#8212;all work and trouble and no profit or credit, for
+many of them, that are benefitted by me, abuse me. The Basis
+of the policy which the <placeName>State of Tamaulipas</placeName> ought to adopt
+should be&#8212;<hi rend="italic">the <placeName>Country </placeName>needs population</hi>, and all their laws should
+tend to encourage immigration to that <placeName>State</placeName>, from the <placeName>interior</placeName>
+and <placeName>foreign countries</placeName>, especially the latter.</p>
+
+<p>I received one letter from you in <placeName>Mexico</placeName>.</p>
+
+<p><persName>S. F. Austin.</persName></p>
+
+<p>A true copy of the original in my possession, which I certify</p>
+
+<p><persName>Geo. Fisher</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

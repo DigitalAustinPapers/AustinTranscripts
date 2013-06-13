@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4620">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ayuntamiento of San Felipe, 01-17-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Ayuntamiento of San Felipe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monterrey, Nuevo Leon</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1039-1041
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-01-17">01-17-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing arrest and advising tranquillity.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monterey</placeName>, <date when="1834-01-17">Jan. 17, 1834</date></p>
+<p>To the <persName>Ayuntamiento of <placeName>San Felipe de Austin</placeName></persName>:</p>
+
+<p>I have been arrested by an order from the <persName>minister of war</persName>, and
+leave soon for <placeName>Mexico </placeName>to answer to a charge made against me, as I
+understand, for writing an officio to the <persName>Ayuntamiento[s] of <placeName>Texas</placeName></persName>,
+dated <date when="1833-10-02">2d October</date> last, advising, or rather recommending that they
+should consult amongst themselves for the purpose of organizing a
+<persName>local government</persName> for <placeName>Texas</placeName>, in the event that no remedies could be
+obtained for the evils that threatened that country with ruin.</p>
+
+<p>I do not in any manner blame the <persName>government </persName>for arresting me,
+and I particularly request that there may be no excitement about it.</p>
+
+<p>I give the advice to the <persName>people </persName>there that I have always given, keep
+quiet, discountenance all revolutionary measures or men, obey the
+<persName>state authorities</persName> and laws so long as you are attached to <placeName>Coahuila</placeName>,
+have no more conventions, petition through the legal channels, that
+is through the <persName>ayuntamiento </persName>and <persName>chief of department</persName>, harmonize
+fully with the <persName>people of <placeName>Bexar </placeName>and <placeName>Goliad</placeName>,</persName> and act with them.</p>
+
+<p>The <persName>general government</persName> are disposed to do everything for <placeName>Texas</placeName>
+that can be done to promote its prosperity and welfare that is
+consistent with the constitution and laws, and I have no doubt the
+<persName>state government</persName> will do the same if they are applied to in a proper
+manner.</p>
+
+<p>It will be remembered that I went to <persName>Mexico </persName>as a <persName>public agent</persName>
+with specific instructions, and as such, that it was my duty to be
+governed by them, and by the general wish of the people as expressed
+to me.   Also, that when I left in <date n="04-xx-1833">April</date>, the general wish did express<pb n="1040"/>
+itself for the separation from <placeName>Coahuila </placeName>and the forming of <placeName>Texas</placeName>
+into a <placeName>state of this confederation</placeName>. Also, that there was a 
+determination to organize a <persName>local government</persName> at all hazards, if no remedy
+could be obtained.</p>
+
+<p>I have in all my acts conformed to this public wish of the people,
+so far as I was informed of it, and when I despaired of obtaining
+any remedy, as I did the beginning of <date n="10-xx-1833">October</date>, I deemed it to be
+my duty as an <persName>agent </persName>to inform the people so; and believing as I
+did, that they would organize, I also considered that it would be
+much better to do so, by a harmonious consultation of the 
+<persName>Ayuntamiento[s]</persName> than by a popular commotion. These were my reasons
+for the recommendation given in that officio; also, the result of
+the civil war was thought to be doubtful.</p>
+
+<p>I understand, and I rejoice to hear it, that public opinion has
+settled down on a more reasonable basis, and that the most of the
+<persName>Ayuntamientos of <placeName>Texas</placeName></persName> have expressed their wish to proceed in
+a legal manner to seek redress. I ought to have been informed of
+this change, but I was not, and knew nothing of it to a certainty,
+untill the <date when="1833-11-05">5th of November</date>, so that up to that time I acted under
+the impressions I had when I left <placeName>Texas </placeName>in <date n="04-xx-1833">April</date>. Since then I
+have not moved the state question.</p>
+
+<p>The past events in <placeName>Texas </placeName>necessarily grew out of the revolution
+of <placeName>Jalappa</placeName>, which overturned the constitution and produced the
+counter revolution of <placeName>Vera Cruz</placeName>, which extended over the whole
+country, and involved <placeName>Texas </placeName>with the rest. It is well known that
+it was my wish to keep <placeName>Texas</placeName>, and particularly the <placeName>colony</placeName>, out of
+all revolution, and I tried to do so, but the flame broke out in my
+absence from <placeName>Texas</placeName>, in <date n="06-xx-1832">June 1832</date>, and since then all has been 
+completely disjointed. A current was set in motion by the general events
+of the civil war all over the <placeName>nation</placeName>, and under the circumstances,
+<placeName>Texas </placeName>could not avoid being agitated by it. No one can be blamed
+in any manner for what has happened since <date n="06-xx-1832">June, 1832</date>, in <placeName>Texas</placeName>-
+it was inevitable&#8212;neither was it possible for me to avoid being
+drawn into the whirlpool. It was my duty to serve the country as
+an <persName>agent </persName>if requested to do so; and as an <persName>agent </persName>it was my duty
+to obey my instructions as expressed to me.</p>
+
+<p>I have long since informed the <persName>Ayuntamientos of <placeName>Texas</placeName></persName> of the
+repeal of the law of<date when="1830-04-06"> April, 1830</date>, and of the favorable and friendly
+disposition of the government, and by this, I of course rescinded, or
+annulled, the recommendation of <date when="1833-10-02">2d October</date>, for that was predicated
+on the belief that nothing would be done, and that the result of the
+civil war then pending was even doubtful, since then all has changed
+for the better, and public opinion in <placeName>Texas </placeName>has become sound, and<pb n="1041"/>
+shaken off the excitement that necessarily grew out of the past
+agitations.</p>
+
+<p>Under these circumstances the prospects of <placeName>Texas </placeName>are better than
+they ever have been. The national revolution is ended, a 
+constitutional government exists, the <persName>people </persName>are obedient to the <persName>government</persName>
+and laws, everywhere. Be the same in <placeName>Texas</placeName>, and have no more 
+excitements, tolerate no more violent measures, and you will prosper
+and obtain from the <persName>government </persName>all that reasonable men ought to
+ask for.</p>
+
+<p>The last year has been one of calamities for <placeName>Texas</placeName>, floods, 
+pestilence, and commotions, I hope the present year will be more 
+favorable. I request that you will have this letter published for general
+information, and also the enclosed copy of the answer given to me
+by his Excellency the minister of relations. You will see by this
+answer the very favorable and friendly disposition of the <persName>general
+government</persName> to make a state or a territory of <placeName>Texas</placeName>, and do 
+everything else within its constitutional powers for the good of that
+<placeName>country</placeName>.</p>
+
+<p>I consider my agency for <placeName>Texas </placeName>as terminated, but this will not
+prevent me from doing all I can for the good of that <placeName>country</placeName>, on my
+own individual responsibility.</p>
+
+<p>Respectfully your most ob't sert.,</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

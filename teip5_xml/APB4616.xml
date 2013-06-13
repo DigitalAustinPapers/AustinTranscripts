@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4616">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 01-14-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monterey, Nuevo Leon</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1033-1036
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-01-14">01-14-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing arrest, discussing past policies, and advising tranquillity.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monterey </placeName><date when="1834-01-14">Jany. 14 1834</date></p>
+<p>Dr <persName>Brother </persName>and <persName>Sister</persName>,</p>
+
+<p>The affairs of <placeName>Texas </placeName>are likely to cost me much trouble and expense
+in addition to what I have already undergone since I left home.
+The <persName>state govt</persName>, have made an accusation against me of some kind, to
+the <persName>genl Govt</persName>, and I was arrested on the <date when="1834-01-03">3rd inst</date>. at <placeName>Saltillo </placeName>on my
+arrival there and shall leave in a few days for <placeName>Mexico </placeName>as a <persName>state
+prisoner</persName>. Give yourselves no kind of uneasiness about this matter&#8212;
+it can do me no other harm that [than] the delay and expense&#8212;all
+I can be accused of is that I have labored most diligently and 
+indefatigably to get <placeName>Texas </placeName>made a state separate from <placeName>Coahuila</placeName>, and
+that is no crime, nor no dishonor&#8212;it is quite the reverse</p>
+
+<p>I made some <persName>enemies </persName>in <placeName>Mexico </placeName>for opposing a <placeName>territory</placeName>, but I
+have many good <persName>friends</persName>, who will see justice done me and amongst
+them, the <persName>vice President</persName> himself</p>
+
+<p>It is very likely that I may be hammered and pummeled about for
+a year before I get home again, but I think that good will come of it
+for <placeName>Texas</placeName>. The <date when="1830-04-06">April </date>law is repealed and before I quit the matter
+I hope to see some other remedies. I did not like the manner this
+question was started I wanted <placeName>Bexar </placeName>to take the lead&#8212;but so it is&#8212;
+you must all now harmonize more with <placeName>Bexar </placeName>and <placeName>Goliad </placeName>and have
+union&#8212;and no more <hi rend="italic">party spirit</hi>. I suppose that some of my <persName>enemies
+in the <placeName>colony</placeName></persName> will rejoice at what they may think or <hi rend="italic">hope </hi>will be my
+ruin&#8212;-no good man will envy them their joy, nor participate in it.</p>
+
+<p>I have been very kindly treated by the <persName>Commandant General Don
+Pedro Lemus</persName> and by the <persName>Govr. of this state</persName> and <persName>Col. Ugartechea
+</persName>and have no cause to complain on that score. I hope when <persName>Genl
+Lemus</persName> visits <placeName>Texas </placeName>my <persName>friends </persName>there will remember that he befriended me very much.</p>
+
+<p>I hope there will be no excitement about my arrest&#8212;-it will do me
+harm and no good to <placeName>Texas</placeName>, that is unless I should be unjustly dealt
+by, in that case there will be cause for excitement.<pb n="1034"/></p>
+
+<p>I have requested <persName>Williams </persName>to provide me with the means of living
+in <placeName>Mexico</placeName>, it is likely I may want as much as one thousand dollars,
+tho I do not know.</p>
+
+<p>Collect all the stock you can in claims due me and put them <placeName>on
+your farm at Chocolate Bayou</placeName>, in your own brand&#8212;call on <persName>Williams</persName>
+for the claims and hire some one to collect them.</p>
+
+<p>When I return I wish to make my <placeName>home </placeName>at your <placeName>home </placeName>and hope
+you will have a room or cabbin for me.</p>
+
+<p>I send you some seeds of a beautiful tree in shape like a lombardy
+poplar, in foliage like a cedar&#8212;sow them&#8212;in a bed like pepper
+seed&#8212;raise the bed so that the water will not lay on it&#8212;water them
+in dry weather, protect them from frost in the winter when young,
+and from the hot sun in the middle of the day, by a bush or mat.
+They will do to transplant the second or third year&#8212;take special
+care of them. I have many seeds and my miniature taken in <placeName>Mexico</placeName>
+by <persName>Wm Howard</persName> who intends to visit <placeName>Texas</placeName>, I recommend him to
+you very particularly. I cannot send these things to you now. So
+will give away the seeds and take the miniature to <placeName>Mexico </placeName>again.</p>
+
+<p>You have suffered a great affliction since I left in the loss of dear
+little <persName>Mary</persName>, and in the sweep made by the cholera&#8212;it is dread full
+but without remedy&#8212;my good friends <persName>John Austin</persName>, <persName>Westall</persName>, and
+many others are gone. I sympathize sincerely with you all&#8212;poor
+<persName>Henry </persName>too has his share and more than a share of affliction&#8212;it is
+dreadfull indeed.</p>
+
+<p>Remember me to<persName> Mrs. Westall</persName>&#8212;to the <persName>McNiels</persName>, and <persName>Munson</persName>, to
+<persName>Phillips </persName>and <persName>Eliza</persName>, and do not let <persName>little Stephen</persName> and your <persName>children</persName>
+forget me, I hope they will some day be benefited by my labors.</p>
+
+<p>remember me to <persName>Henry </persName>particularly&#8212;I have not received a line
+from you since I left home</p>
+
+<p>Cotton is worth about 30 cents in <placeName>San Luis Potosí</placeName>&#8212;the freight
+from <placeName>Tampico </placeName>is from eight to nine dollars a hundred. If you wish
+for information write to <persName>Dall </persName>and <persName>Drege </persName>in <placeName>San Luis Potosi</placeName>&#8212;<persName>Henry</persName>
+knows them</p>
+
+<p>God bless you&#8212;farewell&#8212;your <persName>brother</persName></p>
+
+<p><persName>Stephen</persName></p>
+
+<p>It is very rare that a man who labors for the genl good of 
+thousands, or for a whole <placeName>country</placeName>, can escape persecution and 
+detraction&#8212;no man did more good than <persName><hi rend="italic">DeWitt Clinton</hi></persName> for the state of
+<placeName>New York</placeName>, but he did it against a torrent of abuse slander and
+opposition. <persName><hi rend="italic">Smith </hi></persName>the father and champion of the infant colony
+at <placeName>Jamestown </placeName>in <placeName>Virginia </placeName>was even banished by those whom he had
+labor'd for. Party spirit and <hi rend="italic">envy </hi>only see with their own eyes and
+for their own ends&#8212;they are everything that is uncharitable 
+malignant, selfish, anti moral and anti honest&#8212;the mass of the people,<pb n="1035"/>
+the honest laboring class think of their <persName>families </persName>and their domestic
+concerns, and are therefore easily mislead by <persName>demagogues </persName>and 
+designing or envious men, who only think how to destroy and involve
+others to build up themselves. It is well known that I have always
+been opposed to violent measures in <placeName>Tejas </placeName>and that I have always
+been the friend and a sincere one of the <persName>Mexicans</persName>. <hi rend="italic">Party spirit</hi> has
+tryed to make this a crime in me. I wished to smother this spirit
+because history shows that the most dangerous enemy to <placeName>new 
+colonies</placeName> and <placeName>infant communities</placeName> is division and discord amongst 
+themselves, and I resorted to conciliating, yielding and passive means to
+keep down party spirit, when perhaps I ought to have adopted the
+reverse. Up to <date n="xx-xx-1830">1830 </date>my sistem was not interfered with, and all went
+well, but since then, all has been confusion&#8212;and my <persName>enemies </persName>have
+succeeded to their utmost wish in involving <hi rend="italic">me </hi>in difficulty&#8212;had I
+been as vindictive against <hi rend="italic">them</hi>, as they have against <hi rend="italic">me</hi>, and called
+the <persName>old settlers</persName> and sound part of the people to rally a-round me. I
+could have easily <hi rend="italic">crushed </hi>my <persName>enemies</persName>&#8212;but they [would] have been
+totalty ruined, and I did not wish to ruin even the worst enemy I
+had on earth. They have tryed violent measures and gained 
+nothing but trouble, let them now try peace and harmony awhile and let
+the country advance in population and resourses. The 
+favourable reforms and changes are taking place in the<persName> Mexican 
+government</persName> and people, and a little time will put all right&#8212;there will be
+toleration of religion&#8212;<placeName>Texas </placeName>will be a state and all will go right&#8212;
+but above all things the colonists must harmonize with <placeName>Bexar </placeName>and
+<placeName>Goliad</placeName>. In the beginning of <date n="10-xx-1833">October </date>I lost patience I recd a letter
+then from <placeName>Texas </placeName>that irritated me, also some things occured in
+<placeName>Mexico </placeName>that soured and discouraged me, and I wrote to the 
+<persName>Ayuntamientos </persName>a letter which is the cause of my arrest&#8212;since then
+favourable changes have taken place. There is no sort of doubt of
+the <hi rend="italic">right </hi>of the <persName>people of <placeName>Texas</placeName></persName> to take care of themselves, if there
+be no other remedy&#8212;this is very clear&#8212;it is more than a right&#8212;it is a
+duty&#8212;but evil may be done by precipitation. The evil in these 
+matters is that ambitious and bad men wish for revolution, and they
+take advantage of a fevered state of public opinion, to hurry the
+people into it, when it is not necessary&#8212;in such cases the <persName><hi rend="italic">actors</hi>
+</persName>gain, and the <hi rend="italic">instruments </hi>loose.</p>
+
+<p>As I before said, when I return I will make my home at your
+house. I will not have anything more to do with public business if I
+can honorably and consistantly avoid it</p>
+
+<p>I am told that <persName>Sterling Robinson</persName> has made charges to the <persName>state
+Govt</persName>, against me. I think it unkind that such a man as that should
+be made use of as an instrument by others, to try and ruin me&#8212;but
+all this is in the regular course of things with envy and party spirit.<pb n="1036"/></p>
+
+<p>Keep yourself totally clear of politics and party and seek 
+happiness within the limits of your <placeName>farm </placeName>and the circle of your <persName>family</persName>
+and personal <persName>friends</persName>, and I will join that circle as soon as I can, it
+is  the  only place  where  I expect  to  find  quiet or  happiness&#8212;
+adios</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>the most certain way for letters to reach me is to direct them to
+<persName><hi rend="italic">William Parrott, merchant, Mexico</hi></persName>, and send them to <placeName>Tampico</placeName>,
+or <placeName>Vera Cruz</placeName>, to be put in the mail there&#8212;if there is no other 
+opportunity, send them by way of <placeName>New Orleans</placeName>, I saw <persName>Baldwin </persName>in
+<placeName>Mexico </placeName>and put a letter in the mail here from him to you&#8212;-he has
+lost and suffered much.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
