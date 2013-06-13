@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4166">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to W D Dunlap, 03-10-1831</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-08">09-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        W D Dunlap
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 610
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-10">03-10-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Supporting his interpretation of the law requiring payment of tonnage duties.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>By your official letter of the <date when="1831-03-03">3d prest month</date> which came to hand
+<date when="1831-03-09">yesterday morning</date> I am informed of the doubts of <persName>Capt Fuller
+</persName>respecting the payment of Tonnage duties&#8212; The law respecting the
+liability of tonnage duties on a vessel or vessels of a <placeName>foreign nation</placeName>
+or under a <placeName>foreign </placeName>flag is so clear as not to need comment. Knowing
+as I do the desires of <persName>Genl Teran</persName>, whose authority extends over all
+the <placeName>Custom houses from Tampico to the Sabine</placeName> to afford every
+facility and convenience that he can to the <persName>settlers </persName>and <persName>inhabitants</persName>
+of this <placeName>colony</placeName>, and that the permission of vessels to enter into the
+<placeName>Brasos River</placeName> as tributary to the <placeName>port of Galveston</placeName> is founded in his
+desire to benefit the <placeName>Colony</placeName>, I do most sincerely hope that every
+<persName>Capt </persName>and <persName>owner </persName>of a vessel trading to that place will comply with
+the law and pay the Tonnage money. Should the <persName>Govt </persName>find that
+vessels entering the <placeName>Brasos River </placeName>do not comply with the laws no
+doubt exists in my mind that they will totally prohibit the entrance
+of all vessels&#8212; The tonnage money must be paid and unless <persName>those
+who trade </persName>to the<placeName> Brasos River</placeName> wish to deprive themselves of the
+benefits of the trade they must obey the Laws&#8212; I entertain a 
+perfect belief of yr disposition to do justice in the discharge of your
+duties in which I have only to add be purdent yet firm in the 
+compliance of the instructions you have recd from yr <persName>superior officer Col.
+Bradburn</persName>&#8212; I shall put a notice in the <placeName>next paper</placeName> on the subject of
+yr apointment&#8212;   Tendering you mv considerations of respect etc</p>
+
+<p><date when="1831-03-10">10 March 1831</date>   <persName> SMW</persName>   <persName>W D D</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

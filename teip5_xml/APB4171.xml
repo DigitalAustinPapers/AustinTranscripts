@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4171">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William S Parrott to Stephen F Austin, 03-16-1831</title>
+            <author>
+                <persName>William S Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-08">09-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 616-617
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-16">03-16-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Personal misfortunes; betrayal of trust by Stephen J. Wilson; politics.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1831-03-16">March 16th 1831</date></p>
+<p><persName>Stephen P. Austin Esqr</persName></p>
+
+<p><hi rend="italic"><placeName>Saltillo</placeName></hi></p>
+<p>My Dear Sir</p>
+
+<p>I have before me your regarded favour of the <date when="1831-03-27">27th ult°</date> and 
+continuation of <date when="1831-03-28">28th </date>by which I am advised that my two letters of
+the <date when="1831-03-09">9th</date> and <date when="1831-03-16">16th ult°</date> had reached you Our old friend <persName>Grande </persName>was
+in the <placeName>counting House</placeName> when I received your letter; and was much
+delighted to hear from you, and requested me particularly to 
+remember him to you He is one of <date n="xx-xx-1822">1822</date> and few now remain in the
+<placeName>City </placeName>or even in the <placeName>country </placeName>of our <persName>acquaintes </persName>[sic] and 
+<persName>countrymen </persName>of that memorable Epoch; I am the only <persName>American </persName>that has
+weathered the changes and vicissitudes consequent; of a continual
+succession of revolution and <persName>rulers</persName>, most of the others have for
+want of perseverance or moral virtue, been obliged to return to
+their <placeName>homes </placeName>and others have passed off in the storm of intemperance
+and folly to<placeName> another world</placeName>; For my part I have had a full share
+of misfortunes; amidst; the smiles of prosperity. In <date n="xx-xx-1828">1828</date>, when
+I had gained as much of this world's trash as satisfied my ambition,
+I left here for the <placeName>U. S.</placeName> on a tour of pleasure, leaving the whole
+under the management of <persName>Stephen J Wilson</persName>, whom I had interested
+in my concerns, with a view to better his condition and leave him
+eventually with the entire controul of the mercantile relations I
+had formed for some preceding years; I was upon the point of
+Embarking for <placeName>Europe </placeName>when I received letters from a friend here
+advising me to return forthwith or my <placeName>House </placeName>would be in a state
+of insolvency from the bad management observed in its operations;
+Though I could scarcely believe it, I returned immediately and to
+accelerate my steps travelled post from <placeName>Baltimore </placeName>to <placeName>New Orleans</placeName>
+finding no vessel for either <placeName>Tampico </placeName>or <placeName>Vera Cruz </placeName>I freighted and
+chartered a brig; on my arrival in <placeName>Vera Cruz</placeName> in <date n="01-xx-1829">January of 1829
+</date>I learned the change in <persName>rulers </persName>and <hi rend="italic"><persName>saqueo </persName></hi>of <placeName>Mexico </placeName>by which latter
+I supposed I was ruined as I was told my <placeName>House </placeName>did not escape
+pillage; which proved in one sense correct for on arriving at <placeName>Puebla</placeName>
+with my family I recd an express advising that <persName>Wilson </persName>had fled
+and that the <persName>officers of justice</persName> were about to seize upon all they
+could find supposing <persName>Wilson </persName>an <persName>accomplice </persName>in a Duel fought be-<pb n="617"/>
+tween <persName>W. Wilcocks</persName> and <persName>George Follin </persName>I again took post, and in
+9 hours arrived in the <placeName>city </placeName>when to my great astonishment, I found
+the surmise of my friend but too true; Bad management during
+my absence; and all the available means carried off by <persName>Wilson</persName>,
+to the amt of 30.000$ and upwards; leaving debts to the amt of
+near 50.000$ more; since which I have had to struggle hard to
+organize every thing again; not having in the mean time been
+able to obtain one cent from my <hi rend="italic"><persName>worthy partner</persName></hi>; all is going on
+well again; I have been thus tedious to give you a full statement
+of facts which may in part serve you; as I am told <persName>Wilson </persName>is in
+<placeName>your section of the country</placeName>.</p>
+
+<p>I am well aware of the fatigue and perplexities you must have
+necessarily undergone since our separation; for which I agree with
+you, there can be no compensation; but the calm consciousness of
+having done your duty not only in regard to your contract with the
+Govt but towards your <persName>colonists</persName>; which will be better appreciated
+hereafter, than during your life time; I thank you for the 
+information in relation to my solicitude in favor of the <persName>Widow Ross</persName> and
+<persName>heirs</persName>, I have no personal interest in it other than a desire to serve the
+<persName>widow </persName>and <persName>orphan </persName>of a man whose maintainance was at my charge
+during his stay in <placeName>Mexico </placeName>without having received as yet any 
+renumeration whatever; nor do I look for any, as his <persName>estate </persName>is insolvent
+and the <persName>company at Nashville</persName> refuses to pay me near 1000$ given
+to him to keep him from starving while, in the prosecution of their
+designs and his success in a great measure was owing to my friendly
+interference in his behalf</p>
+
+<p>I have written to the <persName>Company in Nashville </persName>advising of the result
+of my solicitude, I was not informed of the location of the <placeName>grant</placeName>
+made to him even. In my opinion, however, the suspension of the
+colonization <date when="1830-04-06">[law of 6] April</date> last will result to the benefit of all
+con[cerned] in it who had not began at that period [mutilated]
+for [that] law cannot nor does not annul the titles granted, and it
+will afford them ample time to carry into effect their plans, Should
+ever a change take place, less pregnant with groundless prejudices,
+and unfounded suspicions of a <persName>neighbour </persName>than actually exists and
+I am much in hopes to see a change ere long; when we will not be
+regarded as an ambitious <persName>neighbour</persName>, but as one willing to give aid
+in time of need; and if allowed to judge from words <hi rend="italic">not deeds</hi> the
+work of reform has already begun, tho we have a strong tide of
+<persName>English </persName>influence arming against us, which in the nature of things
+must have its ebbs and flows.</p>
+
+<p>With the hope of hearing from you whenever you have leisure,</p>
+
+<p><persName>W. S. Parrott  </persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

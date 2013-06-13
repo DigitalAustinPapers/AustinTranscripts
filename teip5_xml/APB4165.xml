@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4165">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to W D Dunlap, 03-10-1831</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-08">09-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        W D Dunlap
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 609-610
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-10">03-10-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Acknowledging his appointment as collector at Brazoria and promising to aid him.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I am informed by yr official Letter of the <date when="1831-03-02">2d inst </date>which came to
+hand the<date when="1831-03-09"> 9th</date> of yr appt by <persName>Col J. D. Bradburn </persName>as <persName>Capt of the Port</persName><pb n="610"/>
+or <persName>inspector of the tributary port of the <placeName>port of Galveston called
+Brasoria</placeName></persName> and of your arrival at <placeName>Brasoria</placeName>&#8212; You may rest assured
+that I will cheerfully unite with you in every measure conformably
+with the laws to carry into effect the object of your office&#8212; By the
+Militia Laws of this <placeName>state </placeName>the <persName>Militia </persName>are under the direction of the <persName>Alcalde </persName>that is to say if you should find the <persName>militia </persName>necessary for
+the performance of your duties the order must emanate from the
+<persName>Alcalde</persName>&#8212; In order to prevent you from laboring under any serious
+disadvantages. I will call on the <persName>Alcalde </persName>for an order addressed to
+the<persName> Comt of the Batalion</persName> to furnish <persName>Militia </persName>whenever necessary&#8212;
+altho I hope and trust they will not be necessary</p>
+
+<p>Accept the assurances of my respect and esteem and desires for your success in the discharge of yr duties <date when="1831-03-10">10 March 1831</date> <persName>WDD.</persName></p>
+
+<p>[Samuel M. Williams.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

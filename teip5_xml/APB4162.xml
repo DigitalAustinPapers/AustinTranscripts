@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4162">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Amos Edwards to Stephen F Austin, 03-07-1831</title>
+            <author>
+                <persName>Amos Edwards</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-08">09-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Col. Langworthy
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Galveston Bay on Board Schooner Angelia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Saltillo,Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 607-609
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-07">03-07-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">He furnished the money which enabled Leftwich to get the grant for the Nashville Co. Asks Austin to use
+influence with the governor to have the grant transferred to him.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Galveston Bay on Board Schooner Angelia</placeName></p>
+
+<p><date when="1831-03-07"> March 7th 1831</date></p>
+
+<p>Dear Sir</p>
+
+<p>I take this favourable opportunity of writing <persName>By Col. 
+Langworthy</persName> a Gentleman of high respectability from <placeName>New York</placeName> who<pb n="608"/>
+is now on his way to <placeName>Matamoros </placeName>and possibly may go as far as 
+<placeName>Saltillio </placeName>and if he does will hand you this himself, otherwise will
+forward it from <placeName>Matamoros</placeName>, as I have but a few minutes to write
+before the departure of the vessel, must come to the subject at once
+and be brief. I named to you <date n="Fall-1830">last fall </date>that I had expended 
+upwards of $12000 in obtaining the <placeName>Grant </placeName>made to the <persName>Nashville 
+Company</persName> and my share of the expenses since, and emigrated to this
+<placeName>Country </placeName>with my large <persName>family </persName>nearly three years ago for the purpose
+of aiding in colonizing sd <placeName>grant </placeName>which has cost me much more
+money and as none of the <persName>Company </persName>except myself and <persName>Doctor Heard
+</persName>emigrated to this <placeName>country </placeName>and they have done nothing towards 
+colonizing but have sold out their shares to <persName>speculators </persName>who will probably
+try to get the <placeName>Grant </placeName>for themselves exclusively and leave me to
+suffer my losses, although the <placeName>Grant </placeName>never would have been obtained
+for the <persName>Company </persName>had I not furnished the man and the funds. I 
+advanced <persName>Leftwich </persName>$6500 previous to his departure for <placeName>Mexico </placeName>and
+my <persName>brother </persName>furnished him $5000 at <placeName>Mexico </placeName>and <placeName>Saltillio </placeName>on my acct
+which I have accounted with him for since, and had it not been for
+these funds he could not have succeeded but must have been 
+imprisoned for his expenses as the <persName>Company </persName>did not furnish him
+with half enough. I therefore think and hope that if the 
+<persName>Government </persName>will grant that<placeName> tract of country </placeName>to any person they will give
+the preference to me who is the greatest sufferer by the enterprise
+and has done everything in my power to get the <placeName>Grant </placeName>colonized,
+and I must request the favor of you to be so good as to aid me in
+every way in your power in obtaining a <placeName>Grant </placeName>for the <placeName>same 
+boundary of land that was granted to <persName>H H. League</persName></placeName> as <persName>Empresario </persName>for
+the <persName>Nashville Company</persName>, and I will engage to colonize it with one
+thousand <persName>families </persName>within six years one half of whom shall be 
+<persName>Europeans</persName>, and I wish the <placeName>Grant </placeName>to be upon the same conditions as
+the one named, in every other respect or as near as will be consistent
+with the laws of the <placeName>country</placeName>. I hope you will act as my <persName>agent </persName>in
+this matter and draught and present a petition for the <placeName>grant </placeName>for
+me and in my name and sign my name to it and do such other
+things as is necessary in the business relative to obtaining sd grant
+and this shall be your authority as fully as if I had made you a
+regular power of atto. as I have not time now to make one. I have
+no hesitation in saying to you that I feel confident in having the
+whole number of <persName>families </persName>on the <placeName>Grant </placeName>within half the time of six
+years but it is preferable to have time enough.</p>
+
+<p>It will be of great importance to the <placeName>country </placeName>and great advantage
+to your <placeName>colony </placeName>and all the <placeName>lower country</placeName> to have that section of
+<placeName>country </placeName>settled as early as possible by agricultural people as they
+will soon be able to supply the <placeName>lower country</placeName> with flour etc. which
+we are now compelled to import from the<placeName> U. S. Of America </placeName>and it
+will also be the means of driving back all the <persName>tribes of hostile Indians</persName><pb n="609"/>
+who are now constantly committing some depredations on the 
+<placeName>Settlements </placeName>of yours and <placeName>Dewits Colony</placeName>s. You know me personally and
+my standing in the <placeName>U. S. of America </placeName>and you have seen the 
+testimonials of my character which I obtained from several of the most
+disinterested <persName>men </persName>in the<placeName> U. States of A</placeName>. which I would forward with
+this but left them with <persName>Col. Bradburn</persName> to have them translated and
+cannot now get them in time but will forward them to the <persName>Executive
+of this State</persName> as early as possible. A letter from <persName>Col. Nelson Patteson
+one of the Directors of the Nashville Company and secretary of the
+Directory</persName> addressed to <persName>Majr Hose [a] H League</persName> will accompany this
+which you will be so good as to translate and show to the <persName>Executive
+and the Honble Congress</persName> which will satisfy them in what 
+estimation I was held by the <persName>Directory of the Nashville Company</persName> as it
+was written at their meeting just before my departure from thence
+and it will prove to them that I disapproved of the conduct of my
+<persName>brothers </persName>relative to the revolution at <placeName>Nacogdoches</placeName>&#8212;and the 
+testimonials which I brought from <persName>Judge G. P. M. Bibb</persName> will prove that
+I have never been in favour of insurrections which you recollect and
+was good enough to translate on the back of it. I hope and trust
+that the <persName>Government </persName>will remunerate me for the sum of money I
+have expended about that <placeName>Grant </placeName>with the purest intentions of 
+becoming serviceable to the <placeName>country </placeName>as well as my <persName>family </persName>by aiding in the
+colonizing and improving of it as much as was in my power, and
+grant me the <placeName>same tract of country</placeName> and I trust that you will give
+me all the aid in your power to effect that object, and your friendship
+and attention to the Business will be ever duly appreciated and
+gratefully acknowledged by</p>
+
+<p><persName>Amos Edwards</persName></p>
+
+<p>[Addressed:] The <persName>Honble Estevan F. Austin</persName> <placeName>Saltillio</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
