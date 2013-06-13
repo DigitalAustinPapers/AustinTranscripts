@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4472">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Archibald Austin to Stephen F Austin, 11-13-1832</title>
+            <author>
+                <persName>Archibald Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-03">11-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 887-888
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-13">11-13-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Miss McManos, who visits Texas to arrange for immigration of Europeans.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName>, <date when="1832-11-13">13 Novr 1832</date>.</p>
+<p>My dear Sir,</p>
+
+<p>Allow me the pleasure to Introduce to your acquaintance<persName> Miss
+McManos</persName>, who has had it in contemplation for some time past
+to proceed to <placeName>Europe</placeName>, for the purpose of pointing out to her <persName>Friends</persName>,
+the most eligible part of this <placeName>Continent</placeName>, for them to migrate to,
+and of whose views I have already given my <persName>Brother Henry</persName> a
+partial Idea of, and refer you to her for particulars, She having
+determined on visiting your <placeName>Colony</placeName>, ere she embarks for <placeName>Europe</placeName>,
+for the purpose of obtaining the requisite Information about the
+<placeName>Country</placeName>, to enable her to communicate from personal observation,
+the inducements it may offer for her <persName>Friends</persName>&#8212;and also to make
+such arrangements with you as may be practicable, in regard to a
+Location&#8212;<pb n="888"/></p>
+
+<p>You will please give this <persName>Lady </persName>the Information she is in persuit
+of and pay her such attentions as a <persName>Lady </persName>and a <persName>Stranger </persName>may
+require in a <placeName>new Country</placeName>&#8212;</p>
+
+<p>This <persName>Lady</persName>s mission is an important one, and I hope it may be
+consider'd mutually advantageous, to adopt means to cause it to be
+crowned with success&#8212;</p>
+
+<p><persName>Arch Austin</persName></p>
+<p><persName>Colo S. F. Austin</persName>   <placeName>Sn. Filepe de Austin   Texas</placeName>,
+Please consider <persName>Mr McManos</persName> who accompanies his <persName>Sister </persName>as 
+included in my Letter of Introduction, he will probably remain in
+the <placeName>Colony </placeName>if he finds it to his advantage</p>
+
+<p><persName>A. A.</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

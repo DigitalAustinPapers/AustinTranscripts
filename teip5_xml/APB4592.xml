@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4592">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M. Williams, 08-14-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 998-999
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-08-14">08-14-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hopeful that reforms will be granted Texas. Mail system. Premonitory symptoms of cholera.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Mexico </placeName><date when="1833-08-14">Augt. 14 1833</date></p>
+<p>Dr Sir,</p>
+
+<p>I know not whether I am writing to a living or a dead man, for I
+have never heard whether you have returned, or are on earth, or
+under it.    I hope the former.</p>
+
+<p>I think that a little patience will put all <placeName>Texas </placeName>matters on a solid
+basis. I believe the 11 article of the law of <date when="1830-04-06">6 April 1830 </date>will soon
+be repealed. The State question must take the round of the other
+states as the constitution prescribes. It was my duty to sustain the
+ground taken in the memorial and I did so to the last, but that 
+question is decided and it must go the round.</p>
+
+<p>By this mail the <placeName>newspapers </placeName>go on to all the <persName>Ayuntamtos </persName>free of
+cost. I have applied for a mail from <placeName>Nacogdoches </placeName>to <placeName>Sabinas </placeName>and
+from <placeName>Matamoros </placeName>to <placeName>Goliad </placeName>and from<placeName> San Felipe</placeName> to <placeName>Brazoria </placeName>and<pb n="999"/>
+<placeName>Liberty</placeName>. The subject of aduana and derecho is also under 
+consideration. You will not forget that the titles for my 11 sitios must
+be finished before <date n="10-xx-1833">October </date>or they will all be lost.</p>
+
+<p>The cholera is very bad here, and so far as the <hi rend="italic">premonitory 
+simptons</hi> extend, I am now in a fair way to get rid of <placeName>Texas </placeName>and all of
+her troubles.   Farewell</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>S. M. Williams</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

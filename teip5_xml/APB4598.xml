@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4598">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 09-11-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1005-1006
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-09-11">09-11-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report on prospects for Texas. Cholera in Mexico.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1833-09-11">Sept. 11 1833</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I have nothing particular to say, more than what I informed you
+of by last mail. The cholera has abated, but there is not yet a 
+<persName>majority of members</persName> in this <placeName>city </placeName>so that there will be no meeting of
+<persName>Congress </persName>for a week or ten days yet.</p>
+
+<p>I think I shall succeed in getting the 11 article of<date when="1830-04-06"> 6 april</date> law 
+repealed&#8212;the establishment of weekly mails from <placeName>Monclova </placeName>to <placeName>Sabine</placeName>,
+from <placeName>Matamoras </placeName>to <placeName>Goliad </placeName>and from <placeName>San Felipe</placeName> to <placeName>Brazoria </placeName>and
+<placeName>Liberty</placeName></p>
+
+<p>The duties on Importations will be reduced and probably 
+suspended, for a time in to to, tho the latter is not yet certain.</p>
+
+<p>The State question must take its course as prescribed in the 
+constitution and be sent to the <placeName>other States</placeName>.</p>
+
+<p>The revolution is not over and God knows when it will be. I
+have great confidence in the <persName>vice president Gomez Farias</persName>, If the
+<persName>heroes </persName>of the + [cross] get the upper hand it is difficult to say what
+they will do as to <placeName>Texas </placeName>matters and it is very probable there will<pb n="1006"/>
+be a breaking up of the <persName>Govt</persName>.   But there is no prospect that they
+will succeed at present.</p>
+
+<p>In <date n="10-xx-1833">October </date>the time expires for locating <placeName>grants</placeName>. See that <persName>Williams</persName>
+attends to all that business and also to <persName>Padilla</persName>s&#8212;dont neglect this.
+Also try and collect something on the notes due me. I shall spend
+about 2000 Dollars or probably 2,500 on this trip and as I am 
+laboring for the common good no honest man will refuse to pay what he
+justly owes me.</p>
+
+<p>Were it not for you and <persName>Emily </persName>and the <persName><hi rend="italic">Old Settlers</hi></persName> I doubt
+whether I Should not remain here for a year or two&#8212;that is unless
+the revolution continues, for then no one will be safe here.</p>
+
+<p>I have recd, <hi rend="italic">one </hi>letter from <placeName>Texas </placeName>since I left there, from
+<persName>John </persName>dated in <date n="06-xx-1833">June</date>&#8212;I have written every mail since I arrived
+here, I hope the <persName>family </persName>are all well at <placeName>Chocolate Bayou</placeName>. I have
+more confidence of health there than at <placeName>peach point</placeName> I do not know
+whether <persName>Williams </persName>has returned&#8212;or not&#8212;he was to have left <placeName>Mobile</placeName>
+about the middle of <date when="1833-07-15">July </date>as he wrote me from there. Tell <persName>John</persName>
+to keep clear of <persName>land speculators</persName>. I had rather herd with devils than
+with that class of mankind.</p>
+
+<p>I am unhappy that I do not hear from you&#8212;how are the <persName>children</persName>&#8212;
+what kind of a crop&#8212;how is <persName>Stephen (my brothers boy)</persName> and your
+<persName>neighbors </persName>and a thousand things,</p>
+
+<p>My health is good at this time</p>
+
+<p>farewell                             <persName> S. F. A</persName>&#8212;</p>
+
+<p>There were <persName>43000 sick</persName> here at one time The deaths I believe have
+been about 18000. I have never witnessed such a horrible scene of
+distress and death. The <persName>common people</persName> in a part of the state of
+<placeName>Puebla </placeName>got an idea that the water was poisoned by the <persName>foreigners</persName>
+and they massacred seven <persName>frenchmen </persName>in one <placeName>village</placeName>&#8212;all the 
+<persName>foreigners </persName>in that place. Remember me to <persName>H Austin</persName> and <persName>Phillips </persName>and his
+<persName>wife </persName>and to your <persName>neighbors</persName>&#8212;tell <persName>Henry </persName>that he must not neglect to
+locate his <placeName>other League of land</placeName> before the time expires.</p>
+
+<p>I cannot tell when I shall get home I intend to persevere to the
+end and effect what I came for if I can regardless of time or expense.</p>
+
+<p><persName>S. F. A.</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4524">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D W Anthony to Stephen F Austin, 02-03-1833</title>
+            <author>
+                <persName>D W Anthony</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-11">11-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Unknown
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 924
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-02-03">02-03-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing his brother. Printing the Bexar remonstrance.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria</placeName>, <date when="1833-02-03">Feby 3d 1833</date>&#8212;</p>
+<p>Dear <persName>Col</persName>.&#8212;</p>
+
+<p>Let this serve to introduce to your acquaintance, my brother <persName>Henry
+Anthony</persName> who wises to become a <persName>Mexican Citizen</persName>.&#8212; He visits <placeName>San
+Felipe</placeName> for the consequent donation of land which I assured him he
+would get by so doing.&#8212; My brother <persName>Jacob </persName>who has been here for
+some time is not well enough to go up at present and I therefore
+send the certificate of his having taken the constitutional oath etc.
+and also his name to a blank for a petition which I believe or hope
+will answer the same purpose as if present&#8212; I do not send you the
+<hi rend="italic">Cash </hi>required on those occasions, but you can either draw on me
+immediately or wait a short time when it will be more convenient.
+I send you the proof of the first form of the Remonstrance in Spanish
+which has been waiting a week for correction. If this should be
+sufficiently correct, I suppose the other part can go to press without
+being sent to <placeName>San Felipe</placeName>, as it is important they should be printed
+immediately. The balance will be in type by the return of my
+<persName>brother</persName>.</p>
+
+<p>The <placeName>Bexar </placeName>Remonstrance (Translated) gives great satisfaction
+here. You will see from the <placeName>paper</placeName>, what I have said on the subject
+of holding the convention at <placeName>San Antonio</placeName>. I hope I shall hear from
+you frequently and soon&#8212;</p>
+
+<p><persName>D. W. Anthony</persName>.</p>
+
+<p>[Addressed:] <persName>Col. S. F. Austin</persName>   <placeName>San Felipe</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

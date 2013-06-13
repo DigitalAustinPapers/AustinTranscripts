@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4406">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ramon Musquiz, 08-15-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-01">10-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ramon Musquiz
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 838-841
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-15">08-15-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reciting events which have prevented him from going to Saltillo to attend the Legislature. Texans have
+defended themselves from military abuses, but do not desire separation from Mexico.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>The resolutions of the <persName>Ayuntamiento of this <placeName>Municipality</placeName></persName> passed
+on the <date when="1832-07-26">26th</date> and <date when="1832-07-27">27th ult°</date> have already acquainted your <persName>Lordship </persName>with
+the formal and unanimous adhesion of this <placeName>Colony</placeName>, to the 
+"Pronunciamunto " of <placeName>Vera Cruz</placeName>, and the true and only motives of the
+movements against the <placeName>ports of Anahuac and Velasco</placeName>.</p>
+
+<p>That the <persName>Government </persName>may know circumstantially the cause of my
+journey from <placeName>Matamoras </placeName>to <placeName>Texas</placeName>, when I was about to proceed to
+<placeName>Saltillo</placeName>, to take my seat in the <placeName>Legislature of the State</placeName>, I accompany<pb n="839"/>
+to your <persName>Lordship </persName>copies of my correspondence with <persName>Colonels Don-
+Mariano Guerra, principal Commander of Matamoras</persName>, and <persName>Don José
+Antonio Mexia, 2nd in command of the Division of the Liberating
+Army,</persName> by which your <persName>Lordship </persName>will perceive that I returned to
+<placeName>Texas</placeName>, in compliance with the invitation and instances of these
+<placeName>officers</placeName>.</p>
+
+<p>Peace having been entirely restored in this <placeName>Colony </placeName>I was preparing
+to take my departure for <placeName>Saltillo </placeName>on the <date when="1832-08-14">14th inst</date>, but I received
+from the<persName> Alcalde of this <placeName>Municipality</placeName></persName> the annexed copy of a 
+communication he had received from the <persName>Alcalde of <placeName>Nacogdoches</placeName></persName>, 
+informing him that <persName>Colonel Piedras</persName>, threatened to gather up the 
+<persName>Indians </persName>against the <persName>inhabitants</persName>; thus kindling a war of extermination.
+Under such circumstances, and considering, that the security and
+peace of the people, is the first duty of the Government, its <persName>officers</persName>,
+or <persName>public agents</persName>, I felt under the necessity of postponing my journey,
+and directing my attention to the organization of the <persName>civil militia
+</persName>under my command, as <persName>Colonel of the Battalion of Bexar</persName>, in order
+to be enabled to contribute to common defence, at the same time that
+I tried to open a correspondence with <persName>Colonel Piedras</persName>. For this
+purpose, I sent to him by an <persName>express</persName>, a communication, a copy of
+which, goes herein enclosed. The <persName>express </persName>returned, after having
+met on the <placeName>road </placeName>a <persName>courier from <placeName>Nacogdoches</placeName></persName>, bearing the news of
+<persName>Piedra</persName>s defeat, and of the complete restoration of peace, and 
+constitutional order, in the <placeName>State of Coahuila and Texas</placeName>. That <persName>Courier</persName>
+gave us positive information, that the <persName>inhabitants of <placeName>Nacogdoches</placeName></persName>,
+called by the <persName>Ayuntamiento</persName>, and led by the <persName>Alcalde</persName>, <persName>Don 
+Encarnación Chirino</persName>, pronounced themselves in favor of the plan of <placeName>Vera
+Cruz</placeName>, and on the <date when="1832-08-02">2nd inst</date>: attacked and completely routed, <persName>Colonel
+Piedras</persName>, after a hot contest of 7 hours, in which the <persName>Alcalde </persName>was
+killed. <persName>Col: Piedras' troops</persName> withdrew, during the night, to the
+<persName>Angelina</persName>, and there pronounced themselves in favor of the plan of
+<persName>Santa Anna</persName>, and arrested their <persName>Colonel</persName>.</p>
+
+<p>These occurrences have so delayed my departure, that it would be
+impossible for me to arrive in time for the opening of the session,
+on the <date n="09-01-182">1st of September </date>and therefore I beg that your <persName>Lordship </persName>will
+be pleased to inform His<persName> Excellency the Governor of the State</persName>, of all
+these incidents, and to transmit the same to the<persName> Honorable Congress
+</persName>hoping that my attendance to the session of <date n="09-xx-1832">September </date>will not be
+required. My position is rather delicate: however, none of our
+actual difficulties can be charged upon me; it was the 
+unconstitutional and imprudent proceedings of some<persName> military men</persName>, and not,
+by any means, the wishes of the <persName>Colonists </persName>that hurried the affairs
+to their present state: Just as may be the motives that dictated the
+steps made by this people, or the principles and objects of the
+"Pronunciamiento" of <placeName>Vera Cruz</placeName>, to which they have adhered, I<pb n="840"/>
+am well aware, that the <persName>enemies </persName>of <placeName>Texas </placeName>and her prosperity, will
+attribute to them, intentions against the integrity of the <placeName>Mexican
+Territory</placeName>. This allegation has been necessary and very useful 
+indeed, to deceive the <persName>Mexicans</persName>, and justify certain measures taken by
+the General Government in <placeName>Texas</placeName>, since the year <date n="xx-xx-1830">1830</date>. There has
+never been, and there is no foundation in truth for such an 
+allegation, nor is there any foundation to be found in reason or the nature
+of conditions, for it neither is nor can be the interest of <placeName>Texas </placeName>to
+secede from <placeName>Mexico</placeName>, even if there were no obstacles to this course.
+I can assure to your <persName>Lordship</persName>, that if the ties that unite <placeName>Texas </placeName>to
+the Federacy, are ever broken asunder, the stroke shall come from
+the Government itself, and not from the<persName> people of <placeName>Texas</placeName></persName>. These
+inhabitants have with their toil and labor redeemed the <placeName>Country</placeName>
+from a state of <placeName>wilderness</placeName>, without one dollar of expense to the
+<placeName>Nation</placeName>, and they expect in return to be governed agreeably to the
+spirit of the Constitution and Federal system and in a manner
+adequate to the necessities of the <placeName>Country</placeName>, and their own interest.
+The object of the republican institutions adopted by <placeName>Mexico</placeName>, is to
+secure the happiness and prosperity of the people, and to provide
+for common defense. Can this object be obtained in <placeName>Texas</placeName>, by
+following the restrictive system adopted since the year <date n="xx-xx-1830">1830</date>? Is it
+possible to provide for common defense, by weakening the whole
+<placeName>northern frontier</placeName>, with obstacles opposed to immigration, thus 
+leaving it exposed to the incursions of the <persName>Indians</persName>, instead of promoting
+an increase of civilized population so as to inhance the physical
+strength and resources of the <placeName>Nation </placeName>?</p>
+
+<p>Man seeks hapiness in the improvement of his condition&#8212;this is
+a natural and invariable law&#8212;a law that will bind <placeName>Texas </placeName>to
+<placeName>Mexico </placeName>with stronger ties, than the force of large <persName>armies</persName>. With
+a due regard to this law, and the true spirit of the system of 
+government that rules the <placeName>Nation</placeName>, no one would harbor in his bosom, a 
+suspicion that <placeName>Texas </placeName>will ever attempt to secede: Let on the contrary
+measures be taken for an increase of its population, so as to qualify
+it to be admitted as one of the<placeName> Statets of the Mexican Union</placeName>,
+and this step will be as favorable to <placeName>Coahuila</placeName>, as to the whole <placeName>Nation</placeName>,
+because the whole <placeName>northern frontier of the Republic </placeName>would be 
+protected and the effective strength of the <placeName>Nation </placeName>considerably increased,
+I believe that these people will not recede from their 
+"pronunciamiento ", now that they have made that step under the dictate of
+reason and principle: They are firmly convinced that the 
+Constitution and the most sacred rights of the people have been violated
+since the citizen who, in the election of <date n="09-xx-1828">September 1828</date>, obtained
+a constitutional majority of the votes for the Presidency, was 
+forcibly expelled from the chair and <placeName>country</placeName>: They understood that the
+present effort is to do, in good faith what was promised, by the<pb n="841"/>
+plan of <placeName>Jalapa</placeName>, and was not done:&#8212;to restore public affairs on
+their constitutional basis, without distinction of persons, parties,
+or names. My first duty is to preserve as far as I am able, public
+security and peace and to watch over the observation of the 
+Constitution and Laws: in these terms, I trust that my conduct shall
+meet the approbation of the <persName>Superior Authority</persName>. I avail myself
+of this occasion, to offer to your <persName>Lordship </persName>the assurance of my 
+consideration and respect.</p>
+<p>God and Liberty&#8212;Town of <placeName>Austin </placeName><date when="1832-09-15">August 15th 1832</date>.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+<p>P. S. I have just been apprised that the <persName>Tahaucanos</persName>, or <persName>Keechai
+Indians</persName>, have killed a man named <persName>M. R. Read</persName> on the <placeName>frontier of
+this Colony, near the Bexar road on the Brazos</placeName>.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

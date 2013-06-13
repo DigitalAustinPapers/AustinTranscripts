@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4512">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Ira Ingram to Stephen F Austin, 01-20-1833</title>
+            <author>
+                <persName>Ira Ingram</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-09">11-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matagorda, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 915-917
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-01-20">01-20-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Defending a letter which he wrote protesting against abuses in collection of customs.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matagorda </placeName><date when="1833-01-20">Jan. 20th 1833</date>.</p>
+<p><persName>Colo. Stephen F. Austin</persName>,</p>
+
+<p>Sir, Your letter of the <date when="1833-01-14">14th inst</date>., was handed me <hi rend="italic">late</hi>, <date when="1833-01-19">last 
+evening</date>. Of the letter which you mention, as having been written from
+<placeName>La Bahia</placeName>, I know nothing; never having seen, or heard, of such a
+letter, till I perused yours from <placeName>San Felipe</placeName>, of the date above quoted.
+As to the letter from <hi rend="italic">this </hi>place, of which you speak, as having seen
+at <placeName>La Bahia</placeName>, and which you say you "burnt;" unless it was one
+written by myself, signed by me, and <hi rend="italic">no </hi>one else, addressed to Mess.
+<persName>Leving</persName>, <persName>Morehouse</persName>, and other <persName>Americans</persName>, resident, as transient, in
+that place, I must also remark, that I know nothing. If it was my
+letter which you saw, and which you "burnt," as it was addressed
+to <hi rend="italic">all </hi>the americans there, it became, as soon as received by them,
+their <hi rend="italic">common </hi>property, and if they thought proper to destroy it,
+the act of doing so, furnishes no just cause of complaint on <hi rend="italic">my </hi>part.<pb n="916"/></p>
+
+<p>I have only to regret, that, as it may be called in question at a
+future day, and that, as the letter <hi rend="italic">itself</hi>, in such event, would be
+more <hi rend="italic">true </hi>to the motives of its <persName>author</persName>, better evidence of its tendency
+to prevent, or to promote discord, than the confused, or the 
+perverted recollection of fallible and mutable man, its preservation,
+without doing an injury to <hi rend="italic">any </hi>one, might have served hereafter, as
+a shield to the <persName>writer</persName>, against the iliberal and censorious attacks of
+more than one man, in times of high excitement.</p>
+
+<p>The letter was ocasioned in part only, by the threat and visitation
+of the <persName>pretended collector of <placeName>Goliad</placeName></persName>, to this town, for the avowed
+purpose, of collecting duties, searching for, and seizing goods, said
+to be deposited in the <placeName>warehouses of this place</placeName>.</p>
+
+<p>It was occasioned <hi rend="italic">principally</hi>, by an occurrence which transpired
+previous to the communication of that threat.</p>
+
+<p>The rights of an <persName>American citizen</persName>&#8212;of <hi rend="italic">one </hi>who had violated no
+law;&#8212;rights, the protection of which, had been solemnly guarranted
+by treaty&#8212;had been invaded, insulted, spit upon, and 
+contemptuously trampled in the mud. In doing this, the <hi rend="italic">rites</hi>&#8212;the sacred
+rites, of even savage hospitality, had been denied and insultingly
+refused. Divested of his arms&#8212;his papers&#8212;travelling apparel; 
+forcible possession taken of his horse, and thus deprived, for a time, of
+the means of transporting himself to any <placeName>christian habitation</placeName>&#8212;
+oppressed by disease; weak, and emaciated, suffering the paroxism
+of a fever, he was thus detained for hours in the <placeName>open prairie</placeName>, in a
+state of painful suspense which none can know who have not felt it;
+and which, it is sincerely hoped, may <hi rend="italic">never never</hi> again be felt, even
+by a <persName>barbarian</persName>, in a <hi rend="italic">land </hi>professing Christianity, and calling itself
+civilized. Treated as an <persName><hi rend="italic">indian</hi></persName>, and <hi rend="italic">told </hi>that he was <hi rend="italic">one</hi>, put in
+charge of beings, far less humane than the <persName>Arab of America</persName>, he was
+made to suffer the double torment of present deprivation and Misery,
+and a threatening prospect of the future, if possible, still More
+alarming.</p>
+
+<p>These are some of the amiable proceedings, these are a <hi rend="italic">part </hi>of the
+tantalizing and disgraceful doings of <hi rend="italic">Men</hi>, calling themselves<persName> officers
+of the law</persName>, and <persName>guardians of the public interest</persName>.</p>
+
+<p>Oh, liberty! Oh, humanity! Oh, pity!! <hi rend="italic">When</hi>, and <hi rend="italic">why</hi>, did the
+thunder sleep? Why was it reserved, why permitted, a "law-
+despising," unprincipled, and merciless banditti, thus to outrage, a
+pupil, of the school of <persName>Washington </persName>?</p>
+
+<p>But to proceed&#8212;My object in writing to the<persName> Americans in <placeName>Goliad</placeName></persName>,
+was, to let <hi rend="italic">them</hi>, and through <hi rend="italic">them</hi>, the selfstyled <persName>authorities of that
+place</persName>, <hi rend="italic">know </hi>the determination, the unanimous, the individual, and
+the collective <hi rend="italic">determination</hi>, of the people here, in case of an attempt.<pb n="917"/>
+by them, to carry their <hi rend="italic">threat </hi>into execution.   I thought, that, by
+doing so, the effusion of blood, Might be prevented.</p>
+
+<p>Furthermore&#8212;the convention, considering there was no adequate
+power in that body, or <hi rend="italic">elsewhere </hi>in the <placeName>county</placeName>, as we were then
+situated, to interfere with the <hi rend="italic">cargo</hi>, consented, and recommended to
+tax the flag <hi rend="italic">only</hi>; Not pretending to extend their authority beyond
+the collection of the tonage duty.</p>
+
+<p>This was the basis, or foundation of the resolution taken by the
+people <hi rend="italic">here</hi>; and if an observance of any part, or portion of the
+proceedings of the convention, was either lawful or innocent, then
+their proceedings were lawful, were innocent, were patriotic!</p>
+
+<p><persName>Ira Ingram   </persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

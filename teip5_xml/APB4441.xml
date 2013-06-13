@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4441">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J G Wright to Stephen F Austin, 10-03-1832</title>
+            <author>
+                <persName>J G Wright</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-21">10-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburgh, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 868-870
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-10-03">10-03-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">The alcalde mistrusts him and attacks his reputation as a physician.  Wants advice how to proceed.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harrisburgh </placeName><date when="1832-10-03">Octr. the 3rd 1832</date></p>
+<p>Dear Sir</p>
+
+<p>From Various Circumstances, I have concluded to ask Your advice,
+and opinion on some few subjects, and to be as concise as possible
+I will remark, that this <persName>Jno. W. Moore</persName> (who I believe is a Greater
+Tyrant and less a respecter of the Constitution and Laws than <persName>Col
+Bradborn</persName>), has been persecuting and Slandering me, ever since a
+short time after my Arrival at this <placeName>place</placeName>&#8212; I can trace to him the
+Source of all my difficulties in <placeName>Harrisburgh</placeName>, which surpassed all I
+ever witnessed before&#8212; He has industrously circulated <hi rend="italic">falsehoods</hi>,
+in various ways respecting me, and prejudicial to my <hi rend="italic">Character </hi>and
+<hi rend="italic">Interest</hi>. He has not only made <hi rend="italic">false Statements</hi> injurious to me,
+but he has gone so far as to swear to them<pb n="869"/></p>
+
+<p>This last he has managed so ingeniously, that I cant prove it on
+him.&#8212;</p>
+
+<p>He refuses to respect me as a <persName>Physician </persName>not withstanding, upon
+a personal Examination by the <persName>Medical Board</persName>, I obtained a License,
+and he refuses to give Judgments allowing anything&#8212;for my Medicine and Service</p>
+
+<p>He tells <persName><hi rend="italic">people </hi></persName>that I am not a <persName><hi rend="italic">Physician </hi></persName>But applies to me the
+Vulgar Term <persName>Quack</persName>&#8212;so I am Creditably informed, for he never
+has said it to me&#8212; This accusation is <hi rend="italic">false</hi>, and made use of to
+injure me&#8212; I consider myself able to prove to any <persName>Judges </persName>the
+Contrary&#8212;</p>
+
+<p>By his <hi rend="italic">Intrigue </hi>and Management I have been unable to collect
+my <hi rend="italic">Debts </hi>here In no Case whatever have I had a fair chance, to
+obtain Justice, He has chosen my Absence, and without giving me
+notice to try all my Cases, He has called upon <persName>Men </persName>whom he could
+sway as he pleased to Arbetrate&#8212; And I can safely say&#8212;before
+him I have never had Justice done me&#8212;</p>
+
+<p>All This has resulted from the <hi rend="italic">fact</hi>, that I would not sanction
+his <hi rend="italic">Unjust Measures</hi>, Nor suffer myself to be made his <hi rend="italic">Toot</hi>&#8212; To
+remain in this condition is more Intolerable than <hi rend="italic">Banishment</hi>
+<hi rend="italic">Itself</hi>&#8212; How to proceed I am at a loss, And Your Advice I hope to
+obtain.</p>
+
+<p>On reflection, There occurs to my mind, Three modes of redress&#8212;.
+and which to choose I am unable to Determine</p>
+
+<p>First a <hi rend="italic">Suit </hi>of <hi rend="italic">Slander </hi>&#8212;The law on that Subject, in this
+<persName>Country</persName>, I am unacquainted with, &#8212;And should the letter of the
+law even be favourable to me, what chance I might have to obtain
+Justice, Under present circumstances I dont know&#8212;,</p>
+
+<p>Second, To call on him, to give Satisfaction at the <hi rend="italic">Mouth </hi>of a
+<hi rend="italic">Pistol </hi>&#8212;This I have two important objections to&#8212;first I am
+seriously opposed to it by principle&#8212;And second, I have a <persName>family</persName>-
+should, I happen to be <hi rend="italic">killed </hi>who would be left destitute, in a
+<placeName>country</placeName>, without <persName>Friends</persName>&#8212;And I might add a third in relation to
+him, did we live in a <placeName>Country</placeName>, where men were respected agreeably
+to their real merits&#8212;and where we were both known, I should&#8212;-
+most certainly refuse to <hi rend="italic">Notice him</hi>&#8212;</p>
+
+<p>A third mode presents itself&#8212;which is. To leave the <placeName>Country</placeName>&#8212;.
+This I have more objections to than the Second&#8212;That Course would
+give Credence (here at least) to his Slanderous&#8212;and&#8212;-<hi rend="italic">false reports</hi>
+And <hi rend="italic">Death </hi>Sir would be more desirable to me.</p>
+
+<p>I must believe, if you&#8212;and <persName>Capt. <hi rend="italic">Jno Austin</hi></persName> and the respectable
+<persName>Gentlemen in General in the <placeName>Country</placeName>,</persName> were in possession of the
+truths on the subject, that you and They would enlist your Interest
+in behalf of Justice&#8212;<pb n="870"/></p>
+
+<p>I have choosen you as my <persName>first adviser</persName> in this matter, for the
+reasons&#8212;That I believe if you will give advice in the Case at all
+That it may be depended on&#8212;and I flatter myself that you Will
+from your previous Friendship&#8212;and your knowledge of My-&#8212;
+<persName>Father In Law</persName>&#8212;whom I look for here again this <date n="Winter - 1832">winter</date>&#8212;and
+from my opinion of your desire to resent oppression&#8212;</p>
+
+<p>Whatever Advice you may choose to give I assure You, by me
+shall be used according to your directions&#8212;</p>
+
+<p><persName>J. G. Weight</persName></p>
+
+<p>[Addressed:] <persName>Col. Stephen F. Austin </persName> <placeName> St Felippi</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

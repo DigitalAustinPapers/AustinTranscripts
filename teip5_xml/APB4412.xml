@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4412">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Morgan and Reed to Stephen F Austin, 08-19-1832</title>
+            <author>
+                <persName>Morgan and Reed</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-02">10-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburg, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 846
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-19">08-19-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Declining to charter schooner to transport troops to Tampico. (Omitted.)[Document is included - DML]</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col. S. F. Austin</persName>,</p>
+
+<p><placeName>Harrisburg </placeName><date when="1832-08-19">19th. Augt 1832</date></p>
+<p>Sir, We have been favor'd with yours of the <date when="1832-08-17">17th</date>. offering to
+charter the schooner Exert to transport the <persName>troops of <placeName>Nacogdoches</placeName></persName>
+to <placeName>Tampico</placeName>. A voyage of the kind you have suggested will so
+materially interfere with our previous arrangements that we 
+cannot consent to let our vessel perform it. The Exert is under 
+contract to take a load of lumber from <placeName>Galveston Island</placeName> to <placeName>Brazoria</placeName>&#8212;
+She is now ready (having lately undergone a thorough repair)
+and will sail <date when="1832-08-20">tomorrow</date>&#8212;We calculate on her arriving at <placeName>Braz</placeName>. by,
+or before, the <date when="1832-09-01">1st. Sept</date>. There is no doubt of your obtaining the
+Martha&#8212;. We are not prepared to say whether provissions and a
+sufficient number of water casks are to be had for such a voyage.
+We have some provissions on hand and believe there are more at
+<placeName>Anahuac</placeName>.</p>
+
+<p><persName>Morgan and Reed</persName>&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

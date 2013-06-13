@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4567">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 05-09-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-21">11-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 966
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-05-09">05-09-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inhabitants agree substantially with sentiments of convention, but will not support the petition. Gin for Seguin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Bexar </placeName><date when="1833-05-09">May 9 1833</date></p>
+<p>Dr Sir,</p>
+
+<p>The <persName>legislature </persName>adjourned on the <date when="1833-04-30">last of april</date> and <persName>Madero </persName>will
+soon be on (as he says in a letter to a person in this place). I wrote
+to him from here and informed [him] that you would be at home
+the <date when="1833-05-31">last of this month</date>, by which time I think he will be on.</p>
+
+<p>I owe something to <persName>Don Erasmo [Seguin]</persName>&#8212;he refused to receive
+pay for the time my <persName>brother </persName>staid here, and I have always staid here
+in my visits to <placeName>Bexar </placeName>and he never would receive pay&#8212;he has
+planted cotton and wants a <placeName>gin</placeName>. I wish you to make arrangements to
+get one for him on my account&#8212;not of the largest size, a strong <placeName>gin</placeName>
+of the common kind would suit him better than any other for it
+would be easier kept in order. I wish you to write to him on the
+subject.</p>
+
+<p>The people here agree in <hi rend="italic">substance </hi>with the rest of <placeName>Texas </placeName>but
+differ as to the manner, and will express no opinion for, nor against.</p>
+
+<p>I leave <date when="1833-05-08">tomorrow </date>for <placeName>Goliad </placeName>and <placeName>Matamoros</placeName>, the whole <placeName>country</placeName>
+here is inundated by excessive floods of rain. The <placeName>indians </placeName>have
+killed two <placeName>men </placeName>within the last two days&#8212;one <placeName>within three leagues
+up Salado</placeName> the other at <placeName>Arroyo Hondo beyond Medina</placeName>.</p>
+
+<p><persName>S. F. Austin</persName>   [Rubric]</p>
+
+<p><persName>S. M. Williams</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

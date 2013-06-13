@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4403">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Ebel Miton,Ranford Berry, F. Smith, Wm. H Smith, John Teal, and Thomas ? to Stephen F Austin, 08-13-1832</title>
+            <author>
+                <persName>Ebel Miton,Ranford Berry, F. Smith, Wm. H Smith, John Teal, and Thomas ?</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-01">10-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Tenotitlan, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 836
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-13">08-13-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting murder of H. Bead by Indians, and asking assistance for a campaign.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Tenosticland </placeName><date when="1832-08-13">August 13th 1832</date></p>
+<p>Gentl</p>
+
+<p>Your fellow <persName>Sitizens of the <placeName>upper Colony </placeName></persName>have to inform you of
+the death of our valued <persName>friend </persName>and fellow <persName>Sitizen Mr H Read</persName>-&#8212;who
+was found on <date when="1832-08-10">Friday morning last</date>&#8212;he was killed on <date when="1832-08-09">thursday 
+Evening</date> on his way from this place to his <persName>Father </persName>within <placeName>one mile of the
+latter place </placeName>This foul deed was commited by the <persName>Indians</persName>&#8212;the point
+of several arrows have been extracted from his body circumstances
+and facts which have since been discovered Leave but Little doubt
+of its having been done by the <persName>Ketchie tribe</persName> who have their <placeName>Town</placeName>
+about <placeName>fifty miles distant from this place</placeName>&#8212; Your fellow <persName>Sitizens</persName>
+feel it a duty which they ow to themselves as well as a duty to a
+departed <persName>friend </persName>to avenge this outrage on humanity We feel that
+we have not a sufficient force to go and attact their <placeName>Town </placeName>and drive
+them from our <placeName>borders </placeName>and respectfully Solisit the aid of our fellow
+<persName>Sitizens of the <placeName>Lower Colony</placeName></persName> to enable us to carry into effect this
+Mutch desired object we can start from fifteen to twenty <persName>men </persName>we
+are well informed the <persName>Ketchies </persName>have about seventy five fiting men
+we request you will Send to our aid sutch number of <persName>men </persName>as you
+may think necessary to effect our object We regret to say that the
+<persName>military force</persName> Stationed here has taken but Little interest in the
+matter and we fear nothing is to be expected from them Your
+early attention and complyance will be reed as a Spec-favour</p>
+
+<p><persName>Ebel Milton.</persName></p>
+
+<p><persName>Radford Berry</persName>.</p>
+
+<p><persName>F. Smith</persName>.</p>
+
+<p><persName>Wm. H. Smith</persName>.</p>
+
+<p><persName>John  Teal</persName>.</p>
+
+<p><persName>Thomas __________ </persName>[illegible]
+</p>
+
+<p><persName>Cols Cole</persName> and <persName>Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

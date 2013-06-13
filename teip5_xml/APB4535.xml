@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4535">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Perry and Hunter to Stephen F Austin, 03-22-1833</title>
+            <author>
+                <persName>Perry and Hunter</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-11">11-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 931-932
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-03-22">03-22-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bill.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p>In a/ with <persName>Perry and Hunter</persName></p>
+<p><date n="xx-xx-1833">1833</date></p>
+
+<p><date when="1833-01-03">Jany 11  </date> For Ballance on a/ rendered____________ 1654.09</p>
+
+<p><date n="03-xx-1833">Mar. </date>         "  Collecting 1670$ at 5 prct__________________       83.50</p>
+
+<p>$1737.59</p>
+<p><hi rend="italic">Contra                                                Cr</hi></p>
+
+<p>By house Rent 14 Mo @ 10$_____________________________   140.00</p>
+
+<p>By Cash Recd. of <persName>J Lester</persName>__________________ 3. 00</p>
+
+<p>By Amt recd. of <persName>Frank Lewis</persName>__________________________     16.25</p>
+
+<p>By Cash recd. of <persName>J. Lester</persName> pd Note____________________       7.00</p>
+
+<p>By Amt Recd, of<persName> Ducase</persName>_______________________________     82.00</p>
+
+<p>By Amt      "       "   <persName>W Neu</persName>______________________________     15.00</p>
+
+<p>By   "         "       "   <persName>Jno. Austin</persName>___________________1000.00   1263.25</p>
+
+<p>$474.84<pb n="932"/></p>
+
+<p>Recd.  Draft  on  <persName>Messrs  McKinstry  and  Austin</persName> for  the  above Amt Four
+hundred and seventy four and 34/100 Dollars&#8212;</p>
+<p><date when="1833-03-22">Mar. 22, 1833</date></p>
+
+<p><persName>Wm. W. Hunter</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

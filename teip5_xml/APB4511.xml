@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4511">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas G Western to Stephen F Austin, 01-19-1833</title>
+            <author>
+                <persName>Thomas G Western</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-09">11-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 915
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-01-19">01-19-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Transmitting copy of memorial to legislature for reform.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Goliad </placeName><date when="1833-01-19">Jan. 19- 1833</date></p>
+<p><persName>Col Austin</persName></p>
+
+<p>D. Sir, I hasten before the Mail closes to communicate to you
+the import of A letter I have this Moment recd, from My <persName>friend </persName>at
+<placeName>Mexico </placeName>dated <date when="1832-12-26">26 ult</date></p>
+
+<p>" <persName>Gen. Pedraza</persName> with all the <persName>armies </persName>combined, now at <placeName>Puebla </placeName>and
+its vicinity will commence their March <date when="1833-01-20">to Morrow</date> on the road to
+This <placeName>Capital</placeName>, they amt. to <persName>13000 Men</persName> and will come in without
+opposition&#8212;<persName>President Pedraza</persName> was Sworn in and proclaimed as
+Such <date when="1833-01-18">Yesterday </date>in <placeName>Puebla</placeName>&#8212; An order has been Made public that
+when he arrives <placeName>within Six leagues of this City</placeName> <persName>every Military officer</persName>
+here must present himself on pain of losing his rank and pay&#8212;
+Something Similar for all empleados&#8212; We consider the war at an
+end."</p>
+
+<p>The <persName>Ayuntamiento of this <placeName>Town</placeName></persName> forward by this Mail to that of
+yours Copy of the Remonstrance Made to <persName>Congress </persName>in Sequence to
+that of <placeName>Bejar</placeName>, it touches Stronger that its preceder on the division
+of the <placeName>State </placeName>and other topics and I think you will be pleased with
+the language used and the terms it is couched in and hope it will
+meet your ideas. Be pleased to favor me with your opinion on it as
+a whole&#8212;</p>
+
+<p><persName>Thomas G. Western </persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

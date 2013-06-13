@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4478">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F. Perry, 11-17-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-03">11-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 890
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-17">11-17-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Intends going to United States in April.  Man hung for murdering negro.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Brother</persName>.</p>
+
+<p>A <persName>Mr Oddy</persName>, a very respectable man of family, wishes to rent or
+buy the <placeName>house and lots where <persName>Chrisman </persName>lives&#8212;</placeName>he wants possession
+the <date when="1833-01-01">first of Janry</date>. I have told him he could have it or rent 
+provided you had not promised it, and I knew of no promise&#8212;send
+your terms to <persName>Fletcher </persName>without any delay, as <persName>Oddy </persName>wishes to become
+a certainty-&#8212;I do not know if he has money to pay for it&#8212;what do
+you rate it at&#8212;or do you wish to sell&#8212;write to <persName>Fletcher </persName>what to do.</p>
+
+<p>No news of any importance, I think I can arrange my affairs to
+go to the <placeName>U. S.</placeName> in <date n="04-xx-1833">april</date></p>
+
+<p><date when="1832-11-17">Novr. 17 1832</date>&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Man </persName>hung <date when="1832-11-16">yesterday </date>for murdering a <persName>negro</persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

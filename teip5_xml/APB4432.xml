@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4432">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Leander H McNeil to Stephen F Austin, 09-10-1832</title>
+            <author>
+                <persName>Leander H McNeil</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-10">10-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Sam Houston
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nashville, Tennessee</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 857-858
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-09-10">09-10-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Gen. Sam Houston.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nashville Tenn.</placeName> <date when="1832-09-10">Sept. 10. 1832</date></p>
+<p>Dear <persName>Colonel</persName></p>
+
+<p><persName>Genl. A. Houston</persName> of this <placeName>town </placeName>is a going to depart for <placeName>Texas</placeName>
+in a <date when="1832-09-12">day or two</date>, he is going by the way <placeName><hi rend="italic">Arkansas Territory</hi>,</placeName> it
+will take him until in the month of <date n="12-xx-1832">Decr</date>, sometime to reach you,
+I have given him a letter of introduction to you which he will
+hand you on his arrival there, I am not informed of his views in
+Visiting that <placeName>country</placeName>, I think he would be a great addition to Our
+<placeName>country </placeName>as a <persName>Citizen</persName>, he is a very intimate <persName>friend of the President</persName>s
+and has a great number of <persName>friends </persName>and <persName>acquaintances </persName>in this <placeName>State</placeName>.
+I think it would be well worth your trouble to try and Make him a
+<persName>Citizen of your <placeName>Colony</placeName></persName>.</p>
+
+<p>I have seen several accounts in the <placeName>news papers</placeName> Respecting a 
+considerable difficulty in <placeName>Texas </placeName>between the <placeName><persName>Americans </persName>and <persName>Mexican
+troops</persName> Stationed in your colony</placeName> which terminated in a total route
+of them from that part of the <placeName>country</placeName>, I also saw an account in a
+<placeName>New Orleans paper</placeName> of the arrival of four or five hundred <persName>troops </persName>from
+<persName>Genl. Santa Anna </persName>and several ships of the line which will be a great
+advantage to the <persName>Americans</persName>, if an attack was made on them by <persName>Genl.
+Bustamenta</persName> and his <persName>party</persName>. I have no doubt but it will be an 
+advantage to the <persName>Colonists </persName>in future to Keep those <persName>Mexicans </persName>from 
+interfering with there Rights and privileges.</p>
+
+<p>I have nothing in the way of news to write that would interest
+you,   The <persName>prest. of the <placeName>U. States</placeName></persName> has been in <placeName>Nashville </placeName>and its vi-<pb n="858"/>
+cinity for <date when="1832-08-29">two weeks past</date> which has caused a considerable stir here
+I think of leaving here for <placeName>Texas </placeName>about the <date when="1832-12-20">20. of Decr. next.</date></p>
+
+<p><persName>Leander H McNeil</persName></p>
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Col. S. F. Austin</persName>   <placeName>San Filipe de Austin Texas</placeName></p>
+
+<p>Politeness of <persName>Genl. Houston.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

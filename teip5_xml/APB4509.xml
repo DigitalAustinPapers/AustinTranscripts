@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4509">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W S Parrott to Stephen F Austin, 01-16-1833</title>
+            <author>
+                <persName>W S Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-09">11-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin(
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 914
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-01-16">01-16-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Mexican politics. Interest in remaining restrictions on immigration into Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico</placeName>. <date when="1833-01-16">Jany 16th 1833</date>.</p>
+<p><persName>S. F Austin Esq</persName>.</p>
+
+<p>My Dear Sir, Your welcome favour of the <date when="1832-11-12">12th Nov.</date> came to
+hand last week, it was no doubt delayed owing to the Suspension
+and disorder of our mail arrangements; I regret that my time is so
+much taken up at this moment as to deprive me of the pleasure I
+would have in replying fully to your interesting letter, but as our
+correspondence will become more regular in future, I will find
+leisure to enter upon details. <persName>Chambers </persName>I consider has treated me
+ill not having replied to any of my letters Since he received his
+books; nor has he paid even to my <persName>correspondents in <placeName>N. Orleans</placeName></persName> their
+value as he promised to do when he gave the order. With the plan
+of <placeName>zavaleta</placeName>, hostilities have ceased; but the amalgam I fear will, not
+give us a permanent peace; all appears to be quiet but not solid;
+Some of the <placeName>States</placeName>, will not Subscribe to the plan, others have;
+<persName>Genl. Pedraza</persName> is however of opinion, that all will go right; my
+opinion is that the <date when="1833-04-04">4th of april next</date> will not pass by without, a
+noise In relation to the 11th Arto, of the law of the <date when="1830-04-06">6th of april
+1830</date>; there are thousands here who are interested in its repeal
+Strong remonstrances will therefore be made; and the <persName>Executive </persName>is
+Strongly indisposed against the Said law, and in order to prepare
+the way for its repeal I will manouvre with the <placeName>liberal presses</placeName>, and
+if I have time will translate and have published, Some paragraphs
+of your letter, as written by a <hi rend="italic">Texano</hi>. I Sometimes dabble in 
+politics; but my commercial occupations rarely give me time to think
+of any thing else but <hi rend="italic">business </hi>While you remain in the <placeName>country</placeName>,
+write me and When in the <placeName>U. S.</placeName> I hope to hear from you; I will
+Send you Some of the most interesting Numbers of the Phoenix.
+The <placeName><hi rend="italic">Registro </hi></placeName>is dead; The <persName>friends of the constitution</persName> are trying to
+revive it.</p>
+
+<p><persName>W. S. Parrott</persName>   [Rubric]</p>
+
+<p>(P. S.) <persName>Genl Mexia</persName> Sends you his remembrance We will work
+together for the repeal of the law in question. <persName>Genl. Filasola</persName> goes
+to <placeName>Texas </placeName>as <persName>comandant gral</persName>. he is interested in the peopling of
+<placeName>Texas </placeName>He has a <placeName>grant near the red river</placeName> abot which we have had
+several conversations He will go to <placeName>Matamoras </placeName>by land from thence
+by water to <placeName>Matagorda </placeName>and <placeName>Galveston</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

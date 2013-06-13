@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4590">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to John Austin, 08-06-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-29">11-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 996-997
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-08-06">08-06-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thinks State organization will be granted Texas. Must be a State either of Mexico or of the United States. Cholera epidemic.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Mexico </placeName><date when="1833-08-06">Augt. 6. 1833</date></p>
+<p>Dr <persName>John</persName>,</p>
+
+<p>I recd yours of <date when="1833-06-24">24 June</date> by last mail&#8212;hope to get another letter
+soon&#8212;this is the only one I have recd since I left. Has <persName>Williams</persName>
+returned&#8212;or is there no one there who remembers me so far as to<pb n="997"/>
+drop me a line to say that the few ties that are left to bind me to
+life are still alive you say they have been sick (my <persName>sister </persName>and
+<persName>family</persName>) but you say nothing of <persName>Stephen </persName>or anyone else.</p>
+
+<p>I think the decision of <persName>Congress </persName>will be in favor of a <placeName>State</placeName>, but
+I fear they will send it to the <placeName>other States</placeName> for their approbation,
+this will cause some delay, tho my <persName>friends </persName>here think it will be 
+dispatched by the<date when="1834-01-01"> first of January</date>.</p>
+
+<p>I have had a hard trip so far and have more difficulties to work
+through here than you can well form an idea of&#8212;but I hope to
+get along and that <placeName>Texas </placeName>will be a <placeName>State </placeName>of this, or the <placeName>U. S. 
+republic</placeName> before another year, for I am so weary, that life is hardly worth
+having situated as we now are.</p>
+
+<p>The <persName>vice President</persName> and <persName>ministers </persName>profess great friendship for
+<placeName>Texas </placeName>and say that their measures will be very different from the
+last <persName>administration</persName>. I think they are sincere&#8212;but time will show.
+There are conflicting interests&#8212;or what are supposed to be so by
+some persons, that I fear will do harm&#8212;one article in the 
+constitution which in reality means next thing to nothing I fear will do
+some harm.</p>
+
+<p>Send word to <persName>Emily </persName>that I am well.</p>
+
+<p>The cholora is at hand and very fatal. So I bid you farewell in
+case this should be the last.</p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p>To <persName>John Austin</persName></p>
+
+<p>[Address:] Al <persName>Sor Don Samuel M. Williams</persName> <placeName>San Felipe de
+Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

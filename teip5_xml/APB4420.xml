@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4420">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas G Western and Others to Stephen F Austin, 08-25-1832</title>
+            <author>
+                <persName>Thomas G Western and Others</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-02">10-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 850
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-25">08-25-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Military commandant refuses to declare for Santa Anna, but civil authorities are ready to do so.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Goliad</placeName> <date when="1832-08-25">August 25&#8212;1832</date></p>
+<p>Sir</p>
+
+<p>In addition to our representation under <date when="1832-08-24">yesterdays date</date> handed to
+you here with, we have further to lay before you the following
+facts,&#8212;</p>
+
+<p>The <persName>Military commandant of <placeName>this post</placeName></persName> continues obstinately to
+oppose the Plan of <persName>Genl. Sta Anna</persName>, after the receipt of the 
+pronouncement of your <persName>Ayuntamiento </persName>(by the <persName>Authorities </persName>here) he
+was called upon by them to attend a meeting of their <persName>Corporate body</persName>
+to deliberate upon the reply to be made, he refused, alledging that
+himself and his <persName>officers </persName>would continue to adhere to the actual Govmt.
+of <persName>Sr Bustamte</persName> untill compelled by force of arms to act otherwise.&#8212;</p>
+
+<p>After closing <date when="1832-08-23">last evening</date> our respects before alluded to, the mail
+arrived from your <placeName>quarter</placeName>&#8212; it brought dispatches to the 
+<persName>Commandant </persName>and this morning he waited upon the <persName>Alcalde</persName>, shewing him
+a confidential letter he had received, stating that <persName>Mr. Bowie</persName> was
+now on his march to <placeName>Bejar</placeName>, with <persName>troops</persName>,&#8212;that a force had been
+prepared with you to come to <placeName>this place</placeName>, but that it had not come
+hither in consequence of your having been informed that this place
+had already pronounced in favor of the Constitution and Laws&#8212;He
+demanded of the <persName>Alcalde </persName>his aid, of the <persName>Civicos </persName>etc. in case this
+<persName>force </persName>should come, the <persName>Alcalde </persName>told him not to expect from him
+any aid whatever, that neither he nor the <persName>Citizens </persName>would oppose the
+forces of <persName>Santa Anna</persName>, and that should they come, he might get within
+his own walls and make what defense he could with his <persName>troops</persName>&#8212;he
+then said he would communicate with him on the Subject and make
+his demand officially&#8212;to which the <persName>Alcalde </persName>replied, that he should
+make him the same answer in writing, that he then did verbally&#8212;
+finally the <persName>Commdt</persName>. manifested, that should he find no assistance
+here, he would proceed with his <persName>troops </persName>to <placeName>Bejar</placeName>, and join those of
+his own <persName>party </persName>there,&#8212;these are the last occurences transpired here
+up to this hour   4 P. M.&#8212;</p>
+
+<p><persName>J. Antonio Vasquez    [Rubric]
+Secrtio. de Ayunto.</persName></p>
+<p><persName>Thomas, G, Western  </persName>  [Rubric]</p>
+<p><persName>Jno. Hallet   </persName> [Rubric]</p>
+<p><persName>J W. H. Living </persName>   [Rubric]</p>
+
+<p>To <persName>Col. S. F. Austin</persName><placeName> San Felipe</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

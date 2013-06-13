@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4575">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to John Austin, 05-31-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-26">11-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        George Fisher
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        John Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination"></placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 981-982
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-05-31">05-31-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging Texans to support Fisher as collector of customs.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matamoras </placeName><date when="1833-05-31">May 31. 1833</date></p>
+<p><persName>J. Austin Esqr</persName></p>
+
+<p><placeName>Brazoria</placeName>.</p>
+<p>Dr Sir.   This will be handed to you by <persName>Geo. Fisher, the Collector
+of <placeName>Galveston</placeName></persName>, who returns to <placeName>Texas </placeName>as an <persName>Officer of the Governt
+</persName>to establish the <placeName>Custom House</placeName>.</p>
+
+<p>I have assured him, that he will receive the support of the 
+<persName>Colonists </persName>in sustaining the Revenue Laws, and Collecting the duties.<pb n="982"/>
+There is too much good sense in the <persName><hi rend="italic">farmers </hi></persName>and <persName><hi rend="italic">regular Merchants</hi>
+</persName>in that <placeName>Country </placeName>to suffer themselves to be envolved in difficulties by
+transient <persName>Pedlars </persName>or <persName>Traders </persName>whose only object is to increase their
+profits at the cost of those who may be weak or vile enough to aid
+them.</p>
+
+<p>As regards the Past, and any bad feelings which may have existed
+about the transactions in which<persName> Mr Fisher</persName> was concerned&#8212;I think
+they should all be buried in everlasting oblivion and forgotten.
+"The Soveraign Mantle" of the <placeName>Nation </placeName>has been thrown over all
+former excitements in every part of the <placeName>Nation</placeName>. The same should
+be done in <placeName>Texas</placeName>, and I have no doubt it will be, and that <persName>Mr
+Fisher, as Collector of <placeName>Galveston</placeName></persName> will receive the unanimous 
+support of the <persName>farmers </persName>and <persName>regular merchants</persName>.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>A true copy of the original, in my possession, which I hereby
+certify.</p>
+
+<p><persName>Geo. Fisher.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

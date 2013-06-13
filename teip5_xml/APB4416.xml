@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4416">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Francis Smith to Stephen F Austin, 08-22-1832</title>
+            <author>
+                <persName>Francis Smith</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-02">10-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Tenoxtitlan, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 848-849
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-22">08-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Troops abandoning the place and going to Bexar. Much danger from Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Tenoxtitlan </placeName><date when="1832-08-22">Aug. 22nd 1832</date>.</p>
+<p>Sir.</p>
+
+<p>All the <persName>Spanish inhabitants</persName> left here <date when="1832-08-22">this morning</date> for <placeName>Bexar</placeName>. I
+met <persName>Col Ruiz</persName> <placeName>two miles from this place</placeName> quite sick, he requested me
+to write to you about his situation, of being sick and not having
+help enough to move on conveniently, that it was out of his power
+to go to <placeName>Bexar </placeName>in haste as you requested. Three days since a small
+party of <persName>Indians </persName>came here brought the horse saddle and bridle that
+was taken from <persName>H Reed</persName> when he was murdered they saw <persName>Reed</persName>s
+hat and pantaloons they had a severe battle with the <persName>murderers</persName>
+and killed five, they brought in the scalps of two. they say there
+is so much <persName>Indian </persName>sign above that they are afraid to hunt.   The<pb n="849"/>
+<persName>people </persName>here wish you to appoint a man to act as <persName>civil officer</persName> for the
+present, untill things can be better regulated, herewith I send you
+the names of the men here, and account of election.</p>
+
+<p><persName>Francis Smith</persName>   [Rubric]</p>
+<p>[Addressed:] <persName>Col Stephen F. Austin</persName>   <placeName>San Felipe</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

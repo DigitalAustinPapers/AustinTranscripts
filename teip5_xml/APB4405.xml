@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4405">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Perry and Hunter to Stephen F Austin, 08-13-1832</title>
+            <author>
+                <persName>Perry and Hunter</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-01">10-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 837-838
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-13">08-13-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Prices.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p>In a/c with <persName>Perry and Hunter</persName> Dr.</p>
+
+<p><date n="xx-xx-1832">1832</date></p>
+
+<p><date when="1832-03-02">Mar       2 </date>  To Ballance due as pr. a rendered_________________  1308. 14</p>
+
+<p><date when="1832-03-03">" </date>         3     "   1 Round Jacket, 5.00 1 pr. shoes 3.00 pr. Order Bill         
+
+<date when="1832-03-03">"  </date>   "      rendered&#8212;______________  8. 00</p>
+
+<p><date when="1832-03-04">" </date>        4     "   1 Butcher Knife__________________    .63</p>
+
+<p><date when="1832-03-04">"</date>          "     "  lb Best Powder________________          1.00</p>
+
+<p><date when="1832-03-04">" </date>         "     " Spoons.....____________________________________           .40</p>
+
+<p><date when="1832-03-04">"</date> 2 Bottles of Brandy @ 75c__________________          1. 50</p>
+
+<p><date when="1832-03-04">"</date>  1 Bairskin Of Veeder______________________          1. 50</p>
+
+<p>5 Havanna Sugar_____________________________          1. 00</p>
+
+<p>1 Coffee Boiler-___________        1. 00</p>
+
+<p>1 Blanket for Simon______________________________         5. 00</p>
+
+<p>4 Yds domestic @ 25c___________________________          1. 00</p>
+
+<p>1  Large Trunk__________________________________         4. 50</p>
+
+<p><date when="1832-03-07">7</date>         1 pr. <persName>Kip Monroe</persName> shoes______________________         3.00</p>
+
+<p>2 lb. Shot @ 18%_______________           . 38</p>
+
+<p>1 pr. Cordovan Boots____________________________         8. 00</p>
+
+<p>3 pr. New Shoes and setting on Horses-____________         4. 50</p>
+
+<p>Making Key for Locks___________________________          1. 00</p>
+
+<p><date when="1832-04-09">Apr.        9</date>    Amt <persName>E. Hawkins</persName> Order On you favor <persName>I C Payton Ex</persName>        
+cepted
+______________  19 50</p>
+
+<p>18 Bottles Porter purchased of <persName>L L Veeder</persName> for You___         4. 50</p>
+
+<p><date when="1832-05-31">May     31</date>    Amt <persName>S M Williams</persName> order favr <placeName><persName>Hosea Russaw</persName>'s Estate</placeName>___        27. 03</p>
+
+<p>Amt. <persName>Geo. W Scott</persName>s Account_____________________        21. 50</p>
+
+<p><date when="1832-08-13">Augt.    13 </date>   Amt Your Order favr <persName>Jno. Cummings</persName>________        24. 25</p>
+
+<p>Amt. <persName>Geo Tennel</persName>s Order on you______________      501. 10</p>
+
+<p>Cash Loaned Decluc as pr Rect delivd. <persName>S. M. Williams</persName>
+59.00 Less for amt chd. on <persName>J. F. P. </persName> Books 6.00________        53. 00</p>
+
+<p>Amt <persName>Whiteside</persName>s Order favr <persName>Butler</persName>__________________         6. 65</p>
+
+<p>Amt. <persName>Jno. P. Cole</persName>s Note________________________      205. 42</p>
+
+<p>Amt. pd On Your Order Excepted favr <persName>Wm. Williamson </persName>      36. 55</p>
+
+<p>Amt. <persName>Jno. W Cole</persName>s ord favr. <persName>Jones</persName>____________________      111. 00</p>
+
+<p>Amt   Do       Do       On   You_______________________      106.00</p>
+
+<p>Amt Your Order favr <persName>Jno. Brown</persName>-_____________        90. 50</p>
+
+<p>Amt <persName>Bartlett</persName>s Order On You_________________________      117. 42</p>
+
+<p>Amt <persName>Jas. Whiteside</persName>s order On You favr. <persName>W W Hunter</persName> 26
+Decr____________      40. 00</p>
+
+<p>Amt <persName>Solomon Brown</persName>s Note Delivd. <persName>S M Williams</persName>____________16. 32</p>
+
+<p>Account Expence on Store House_____________298. 99</p>
+
+<p>Amt paid <persName>Nathl. Townsend</persName> On  your Acceptance as pr
+Receipt on Same___________________135. 67</p>
+
+<p><date when="1832-01-11">Jany.    11</date>    Amt <persName>Jas. Whiteside</persName>s Order on you favr <persName>Wm. W Hunter</persName>__________35. 14</p>
+
+<p>$3201. 09</p>
+
+<p><date when="1832-01-11">Jany     11</date>   To Bal Due from above_________$1654.09<pb n="838"/></p>
+
+
+<p>CONTRA                                                             Cr. </p>
+
+<p>1832</p>
+
+<p>By Amts. Collected from Notes left in Our Hands</p>
+
+<p>Recd, of <persName>J. K. Looney</persName>_______________________         25. 00</p>
+
+<p>"     "   <persName>Edw. Burleson</persName>______________         40.00</p>
+
+<p><persName>C. B. Stewart</persName>____________ 40. 00</p>
+
+<p><persName>John Landrum</persName>___________________________         40. 00</p>
+
+<p><persName>Robt. Brotherton</persName>___________     40. 00</p>
+
+<p><persName>William Cooper</persName>_____________ 40. 00</p>
+
+<p><persName>Grasmier</persName>____________ 80. 00</p>
+
+<p><persName>Josiah Lester</persName> cattle_____________ 30.00</p>
+
+<p><persName>M. Sandifer</persName> cattle_____________80. 00</p>
+
+<p><persName>William Clapp</persName>____________ 15. 00</p>
+
+<p><persName>Jno. Cummings</persName>_____________  155.05</p>
+
+<p><persName>Adam Lawrence</persName>______________40. 00</p>
+
+<p><persName>Edw. Baty.</persName>______________40. 00</p>
+
+<p><persName>Youngs Coleman</persName>_________________________ 65. 00</p>
+
+<p><persName>Barrett and Harris</persName>-________________________        30. 00</p>
+
+<p><persName>Samuel Phar</persName>____________________________________         40. 00</p>
+
+<p><persName>Sutherland</persName>-__________________________________         65. 75</p>
+
+<p><persName>Charles Fortran</persName>__________________________         40. 00</p>
+
+<p><persName>Isaac Jackson</persName>__________________________________         10. 00</p>
+
+<p><persName>Caleb Wallis</persName>_________________        20. 00</p>
+
+<p><persName>Elisha Roberts</persName>_____________________________      320. 00</p>
+
+<p><persName>Charles Donaho</persName>.__________________________________         21. 00</p>
+
+<p><persName>Elisha Barton</persName>_______________________________         40. 00</p>
+
+<p><persName>Benj. Barton</persName>.-_________________________________         50, 00</p>
+<p>
+<persName>Wm. Barton</persName>_____________________________       50. 00</p>
+
+<p><persName>M. M. Battle</persName>________________________________           8. 25</p>
+
+<p><persName>Mrs. S Gilbert</persName>_________________________________         11. 94</p>
+
+<p><persName>Saml. McKerley</persName> calve.___________        40. 00</p>
+
+<p><persName>Schuer    </persName>Cow________________________       10. 00</p>
+
+<p><persName>James Moore</persName>__________________________________        50. 00</p>
+
+<p>By Amt Your fee on <persName>Thos. Hill</persName>s Land________________         10. 00</p>
+
+<p>By Amt to Bal. Caried Down________________ 1654. 09</p>
+
+<p>$3201. 09</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4495">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elias R Wightman to Stephen F Austin, 11-17-1832</title>
+            <author>
+                <persName>Elias R Wightman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-05">11-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Cany</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 902
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-17">11-17-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Surprised at Austin's success in "harmonizing such a heterogeneous mass."</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Cany </placeName><date when="1832-12-17">Dec 17th 1832</date></p>
+
+<p>Dear Sir</p>
+
+<p>I have omited to write on your first return, thinking you much
+harrassed in business of the <placeName>Colony</placeName>, and since thinking to have been
+there before this time, and am aware that my interest requires me to
+be there; now that all are geting their deeds, I might make some
+Collections for I have made my surveying business less profitable
+than any other as so Small a portion of them are taken and many
+who have gotten their Deeds live at a distance and still are oweing
+if You will get any in and retain it in your own hands it will much
+oblige me, I requested <persName>Mr Williams</persName> to do so but he neglected it,
+I then appointed<persName> Mr Veeder an Agent</persName> to Collect from whom I
+have no account, An Accidental fall dislocating my shoulder and
+breaking almost all the bones in my body, has prevented me from
+being active in my business, and finally left me disabled, But I
+intend shortly to be at <placeName>San Felipe </placeName>when I want to get a Copy of all
+my deeds, which I have not and Settle with you and <persName>Mr Williams
+</persName>and prepare to take my exit, I often am surprised how you get
+along with all the <hi rend="italic">troubles </hi>attendant on your <placeName>Colony </placeName>business, <hi rend="italic">not
+the official</hi> But the <hi rend="italic">harmonising</hi>, such a heterogenous, mass of which
+your <placeName>Colony </placeName>is Composed, You write me to recommend a quarter
+for <persName>Mr Thos. Fletcher</persName> I would recommend a number of <placeName>prairie
+quarters</placeName> but the <placeName>best with due portion of Timber is that Surveyed
+for <persName>John Cronkrite </persName><placeName>on the main branch of Prairie Creek </placeName>adjoining
+<persName>L. L. Veeders</persName></placeName>. I surveyed it to suit him and is a good one, there is
+<placeName>adjoining <persName>Doct Cronkrites </persName>unsurveyed land on Mestango Creek</placeName>
+which would be <placeName>supurb quarters</placeName>, and one <placeName>below <persName>Allsbury</persName>s Survey on
+the San Burnardo</placeName> was <placeName>[near] the Mouth another tolerable quarter
+unsurveyed,</placeName></p>
+
+<p>I made Choice of several Blocks of the <placeName>Matagorda Town</placeName> for
+you which when I see you shall be explained, as they had voted
+the <persName>proprietors </persName>to make choice of <placeName>4 Blocks</placeName> to each share while I was
+sick and located I expostulated, that it was unfair for any one to
+choose all his first to the exclusion of the absent and obtained leave
+to select out of <placeName>those Blocks which were locked up in reserve for
+future disposition</placeName>, with which I was satisfied as I chose those in
+preference to those they had Selected</p>
+
+<p><persName>E R Wightman </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

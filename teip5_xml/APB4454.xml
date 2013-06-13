@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4454">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas H Borden to Stephen F Austin, 10-20-1832</title>
+            <author>
+                <persName>Thomas H Borden</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-29">10-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 878
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-10-20">10-20-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Memorandum of cattle collected for Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>A memorandum of Cattle Collected of [for] <persName>Col. S F Austin</persName> out of
+the stock that sd. <persName>Austin </persName>bought of <persName>Rabbs</persName></p>
+
+<p><date when="1832-05-01">May 1st 1832 </date> </p>
+<p>one brindle steer which had been worked some little
+which steer I sold to <persName>J. Parker</persName>___________  $25 00</p>
+
+<p>one three year old steer which sold to <persName>Parker </persName>at 10___    10 00</p>
+
+<p><date when="1832-06-01">June 1st</date>   one white steer which I sold to <persName>James Cox</persName>___    20 00</p>
+<p>10 00    55 00</p>
+<p>one old cow that runs at <persName>A Castleman</persName>______________    </p>
+<p>"   young   unbroke   cow   that   runs   at   <placeName><persName>M.  Allen</persName>'s</placeName></p>
+
+<p><date when="1832-10-20">Oct. 20th </date>     which I sold to <persName>Father</persName>________   10 00</p>
+
+<p>one black cow and one 2 year old bull (this cow you
+got of <persName>Kelly Mc.Farland </persName>the calf died or was
+killed <date n="SPring - 1832">last spring</date>) these cattle I let <persName>Father </persName>have
+which was valued at 17________    17 00</p>
+<p>7 00   37 00</p>
+<p>The same cows yearling bull which I keep to run     
+with  my  cattle   these   bull   have  no   marks   or
+brands but will some times suck the cow and of
+course they must be yours</p>
+<p>one white yearlin which I sold to <persName>father </persName>of the stock
+of <persName>Rabbs</persName>_______________    5 00</p>
+
+<p>104 00</p>
+
+<p>[Indorsed:]</p>
+
+<p>A memorandum of Cattle which I collected of <persName>Col S F Austin</persName>
+<date n="10-xx-1832">October 1832 </date>By <persName>Thos. H Borden</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

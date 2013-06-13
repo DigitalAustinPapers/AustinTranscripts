@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4471">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Sheldon to Stephen F Austin, 11-12-1832</title>
+            <author>
+                <persName>John P Sheldon</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-03">11-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Detroit, Michigan</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 885-887
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-12">11-12-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Le Roy and Comstock, who are the advance guard of an "emigrating party" of 15 or 20 families who will go to Texas next season.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Detroit</placeName>, <date when="1832-11-12">Nov. 12,1832,</date></p>
+<p>Dear Sir,</p>
+
+<p>I have the satisfaction of introducing to your acquaintance <persName>Mr.
+Robert Le Roy</persName>, (a connexion of mine) and <persName>Mr. E. Comstock</persName>. They
+are young men of the strictest "probity, of the most exemplary habits,
+and possessing enterprise and industry so as to render them an 
+acquisition to your <placeName>colony</placeName>, and to ensure to themselves an enviable
+independence. They are but the <persName>pioneers of several families </persName>who
+will leave this part of the <placeName>U. States</placeName> <date n="xx-xx-1833">next season</date> for <placeName>Texas</placeName>, and they
+wish to find a place which will justify them in erecting a <placeName>saw mill
+</placeName>and other <placeName>works</placeName>, and which will warrant the formation of a 
+<placeName>neighborhood </placeName>of fifteen or twenty <persName>families</persName>. With the <persName>families</persName>, (which
+will be formed into an <persName>emigrating company</persName>) it is my intention to be<pb n="886"/>
+numbered&#8212;indeed, it is from my advice and representations, that
+the plan has been adopted&#8212;consequently, you must be aware of my
+solicitude respecting the location of the contemplated <placeName>settlement</placeName>. I
+was much delighted with the district of <placeName>country in the vicinity of
+<persName>Brookfield</persName>'s</placeName>, but am not certain that water power of sufficient 
+magnitude can be had without it is found some <placeName>10 or 15 miles from him</placeName>,
+in some of the <placeName>bends of the Colorado</placeName>. A water power and timber
+would be desirable. The former, I was told, is abundant in the 
+<placeName>interior far as your most northern grant</placeName>as &#8212;please direct the young
+<persName>men </persName>to those parts where they will be most likely to find what they
+desire, and also tell them what the advantages are for industrious
+<persName>agriculturists </persName>and <persName>stock raisers</persName>. These young men are a sample of
+those that will emigrate <date n="xx-xx-1833">next season</date>; and are such as will do, each
+of them, more actual labor, either as <persName>merchanics </persName>or <persName>agriculturists</persName>,
+than three or four men, <persName>black </persName>or <persName>white</persName>, that have been reared with
+southern habits&#8212;they are just such as I know you wish to see
+<placeName>Texas </placeName>filled with&#8212;and just such as your glorious country deserves.
+I am more and more impressed with the correctness of your views,
+as expressed to me, relative to the destinies of <placeName>Texas</placeName>, and the proper
+policy to be pursued.</p>
+
+<p><persName>Mr. Le Roy</persName> and <persName>Mr. Comstock</persName> will inform you of the extent of
+the desire to emigrate to <placeName>Texas</placeName>, among the <persName>people of the <placeName>county</placeName></persName> in
+which they live&#8212;the feeling is spread far even in this <placeName>new country</placeName>,
+from even the slight information which has been diseminated among
+them. What then could not be done in the <placeName>eastern and northern
+states</placeName>, in the way of forming <persName>emigrating companies</persName>, if proper
+measures were adopted ?</p>
+
+<p>I feel, sir, that I have embarked in an important business, (the
+arrangement and formation of an <persName>emigrating party</persName>) and it would
+always be a source of regret to me, to be instrumental in deceiving
+the hopes or just expectations of any one: for this reason, sir, I feel
+that every particle of information from <placeName>Texas</placeName>, at all affecting the
+interests and well-being of the <persName>settlers</persName>, will be of high importance,
+I assure, you, sir, that those who emigrate with me shall not have it
+to say that I withheld or misstated any thing in my power to 
+communicate, and important for them to know.</p>
+
+<p>By the latest information which has reached me from <placeName>Mexico</placeName>, I
+perceive that <persName>Santa Anna </persName>has met a reverse in the defeat of 
+<persName>Moctezuma</persName>&#8212;and that he himself is in somewhat a critical situation. Tell
+me, sir, should those against whom <persName>Santa Anna</persName> took up arms, 
+prevail against him, will they dare attempt to be avenged on those of
+<placeName>Texas </placeName>who have declared in his favor? Or will they dare attempt
+to narrow the privileges of your <persName>colonists</persName>, from the disposition
+which they have manifested to abrogate the abominable law to pre-<pb n="887"/>
+vent emigration, and the desire which they have expressed to be a
+sovereign state of the <placeName>Republic</placeName>? For myself, I am certain that, let
+the civil commotion terminate as it may, the <persName>people of <placeName>Texas</placeName></persName> need
+not, from that result, be subjected to any loss, or have their prospects
+of rapid advancement in wealth and importance, much impeded&#8212;so
+sure am I that the <persName>dominant party in <placeName>Mexico</placeName>,</persName> must be aware of the
+strength, the spirit, and the resources of the <persName>people of <placeName>Texas</placeName></persName>. At
+all events, you would oblige me much by letting me know your views,
+so that I can have it in my power to reassure those who may feel
+fearful about the peace of the <persName>Settlers</persName>.</p>
+
+<p>You may rest assured, sir, that the <persName>families </persName>who will compose the
+<persName>emigrating party</persName> to <placeName>Texas </placeName>will be just such as you will rejoice to
+see&#8212;respectable, intelligent, and industrious such as you find always
+among the <persName>most valuable citizens of our villages in <placeName>N. York</placeName> or 
+<placeName>Pennsylvania</placeName></persName>: for they will for the most part be people from the states
+who have removed here, and find the winters too rigorous. All our
+<persName>farmers </persName>indeed, appear to be sighing for your genial climate and
+rich meadows and soil.</p>
+
+<p>Should you happen to see <persName>Doctr N. Labadie, of <placeName>Anahuac</placeName></persName>, please
+inform him that his <persName>mother </persName>and <persName>connexions </persName>are well, and wish very
+much to receive a letter from him.</p>
+
+<p>Give my best wishes to <persName>Mr Williams</persName> and other gentlemen of my
+acquaintance and beleive me, sir,</p>
+
+<p><persName>Col S. F. Austin</persName></p>
+
+<p><persName>Jno P Sheldon</persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4525">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D W Anthony to Stephen F Austin, 02-04-1833</title>
+            <author>
+                <persName>D W Anthony</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-11">11-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 924-925
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-02-04">02-04-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning land for Patrick Green.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria</placeName>, <date when="1833-02-04">Feby 4. 1833</date></p>
+<p>Dear <persName>Col</persName>.</p>
+
+<p><persName>Mr. Patrick Green</persName>, who you will recollect has been in the <placeName>colony</placeName>
+four or five years, and thro' ignorance and poverty has failed to<pb n="925"/>
+procure a better location of land than can now be made, appealed
+to me to assist him in getting him a donation, and in clearing it out
+of the <placeName>office</placeName>. I therefore entered his name on <placeName>a league next to
+<persName>Grayson</persName>s on the Caronkoway</placeName>, which he now visits <placeName>San Felipe </placeName>to
+obtain a title to. I promised also to furnish him with the means of
+payment which I had with me when I was in <placeName>San Felipe</placeName> last, for
+that purpose; but am at this time without. You will please have
+the goodness to let this form no obstruction to the issuing of the
+title, as I have assured<persName> Mr. G------</persName>it should not, and I will forward
+the money in two or three weeks, or make payment when I shall be
+in <placeName>San Felipe</placeName> in the course of the month. I will send you the
+Spanish Copy of the remonstrance next week, as correctly printed
+as we have the means of doing, for I am afraid it will not do to
+wait longer for corrections&#8212;without losing much of the effect its
+circulation will have.</p>
+
+<p>Let me hear from you as to the present aspect of our political
+arrangements.</p>
+
+<p><persName>D. W. Anthony</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

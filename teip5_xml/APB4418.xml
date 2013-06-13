@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4418">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Coles to Stephen F Austin, 08-24-1832</title>
+            <author>
+                <persName>John P Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-02">10-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 849
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-08-24">08-24-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Settlers on upper Brazos organizing for protection from Indians. Need civil officer, and Coles suggest appointment by Austin</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1832-08-24">24 August 1832</date></p>
+<p>Dear Sir</p>
+
+<p>I Recd. Inteligence to day that the party of <persName>Indians </persName>that killed
+<persName>Reed </persName>has been defeated there were 8 off them they were <persName>Wacos </persName>a
+<persName>Hunting party</persName> on <placeName>Little River</placeName> Consisting of 2 <persName>Mexicans </persName>2 <persName>Delewas
+Indians</persName> 2 <persName>Caddoes </persName>and 2 <persName>anadarkas </persName>were the <persName>party </persName>that defeated
+them Killed 5 Brot in the Scalps of 2 and says the other three
+were killed in <placeName>Little River</placeName> and Sunk they Brot in <persName>Reed</persName>s Horse
+and saddle and deliverd to <persName>Reeds Farther</persName> the people above has
+appointed<persName> Company officers</persName> the appointment has not been as good
+as might have been But to place them in a Still Better situation
+appoint Some <persName>civil officer</persName> among them this is what the thinking
+Class of men among them think Best, they are willing to be 
+governed by any thing that you say and It is vary Importt to keep them
+together up there I think that <persName>Frances Smith</persName> wood make the Best
+<persName>civil officer </persName>Because he is more Interested and wood doo more to
+sustane the place and to keep order a Line from you saying that
+<persName>Smith </persName>shall be the Civill officer among them wood be all Sufficient
+If you doo not think proper Let the <persName>Ayuto </persName>doo it. But an order
+from you wood be all sufficient and wood be more Respected than
+anything the <persName>Auyto </persName>cood doo</p>
+
+<p>10 <persName>men </persName>starts from here this <date when="1832-08-24">evening </date>to join the <persName>people </persName>up there
+and to Remain with them untill other arrangements can be made
+or untill the appearance of Danger subsides It is all Important
+to sustain them people above for If they Break up the whole
+<placeName>country above the Yeawa</placeName>, and perhaps <placeName>above the Navasott</placeName> wood be
+abandoned</p>
+
+<p><persName>J P Coles </persName>[Rubric]</p>
+
+<p>[Addressed:] <persName>Col S F Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4499">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas M Duke to Stephen F Austin, 12-22-1832</title>
+            <author>
+                <persName>Thomas M Duke</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-05">11-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Home of Thomas M Duke,</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 909-910
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-12-22">12-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Agrees with Austin's ideas of future policy.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Home </placeName><date when="1832-12-22">December 22d 1832</date></p>
+<p>Dear Sir</p>
+
+<p>I Recd your answer to my letter by <persName>Judge Cummins</persName> and am much
+pleased with your Ideas as to the future policy we ought to pursue
+they exactly coincide with my views of the same and am in hopes
+that the <persName>Inhabitants of <placeName>Texas</placeName></persName> will unite and carry into operation
+the plan you proposed which in my humble opinion from our present
+situation is the safest course we can adopt.</p>
+
+<p>I Received a fiew days since a letter from <persName>Dr. Peebles</persName> stating he
+held in his possession my Note given to you in <date n="xx-xx-1824">1824 </date>for $270&#8212;
+payable in property I wrote to the <persName>Dr</persName>. immediately on the receipt of
+it that I should be up about the <date when="1833-01-01">1st of next month</date> to see him about it
+but owing to the present situation of my <persName>wife </persName>it is entirely out of
+my power to go up so soon but as soon as posible I shall be up. I
+know my dear Sir that you have been indulgent with me as regards
+the payment of the note and would have paid it long ere this if every
+thing had gone on prosperously with me but you are well aware
+that the <placeName>section of the country I reside in has laboured under more
+embarrassments than any other in this colony</placeName> and owing to the bad
+crops we had last season it would put me to a great deal of 
+Inconveniance to have to pay the note now In twelve months more I am
+satisfied I can be able to pay it without any Inconveniance when I
+gave the note to you my Dear Sir if you recollect you told me that
+when it was conveniant for me to pay it to do so and for that reason
+and its not having been perfectly convenient is the reason that I
+have not made arrangements for paying it in fact I have no 
+property I can spare to settle it with except Land and as soon as I can
+sell some I will most undoubtedly pay it if you will have the good-
+ness to speak to the <persName>Dr</persName>. for me or if you can make any arrangements
+with him relative to the note. I can assure you my Dear Sir that in
+Twelve months at farthest the note will be paid and place me under<pb n="910"/>
+still further obligation to you&#8212;you will please write me as soon as
+posible what arrangements [or] calculations I have to make</p>
+
+<p><persName>Thos M&#8212; Duke</persName>    [Rubric]</p>
+
+<p>[Addressed:] <persName>Coln, Stephen F Austin </persName> <placeName> Town of Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

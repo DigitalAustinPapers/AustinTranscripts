@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4458">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Austin to Stephen F Austin, 10-25-1832</title>
+            <author>
+                <persName>John P Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-29">10-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 880-881
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-10-25">10-25-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Galveston Bay &amp; Texas Land Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York </placeName><date when="1832-10-25">Oct. 25. 1832</date></p>
+<p>My dear <persName>Cousin</persName>,</p>
+
+<p>I am in receipt of your kind letters of the <date when="1832-07-04">4th of July</date>&#8212;-from 
+<placeName>Matamoras</placeName>&#8212;and <date when="1832-07-29">29th July</date>, via <placeName>Natchitoches</placeName>. The latter when 
+confined to my bed by a severe attack, of a derangement of the Liver
+and Bowels, from which I trust I have recovered except my Strength,
+which is fast returning, It kept me housed several weeks, so that
+I may say for <date n="08-xx-1832">two Months past</date> I have been out the way of news.
+I have however enclosed<persName> brother Henry </persName>a letter from friend <persName>Treat</persName>,
+giving all the news that has transpired for some time past, both in
+regard to <placeName>Mexico </placeName>and <placeName>Texas</placeName>, thus far very favourable, as we have
+every reason to believe the result will be. I have therefore only to
+refer you to <placeName>Henry </placeName>who will with pleasure Communicate it to you&#8212;
+<persName>Genl. Mason</persName>, whom I am told reports very favorably of his Mission
+to <placeName>Mexico </placeName>is now here, and the <persName>Trustees to the Galveston Bay Compy</persName>,<pb n="881"/>
+are only waiting the arrival of one of their <persName>members</persName>, <persName>Mr. Sumner</persName>
+hourly expected from <placeName>Boston</placeName>, to have a meeting to determine upon
+future operations, the result of which, I was in hopes to have 
+obtained in time for this letter, but find will have to defer it for my next,
+as I find the vessel is to sail in an hours time. From the latest 
+advises from <placeName>Mexico</placeName>, <persName>Santa Anna</persName>'s success is now looked upon as 
+Certain&#8212;by the best informed here, so desirable for your <placeName>Colony </placeName>as
+well as all <placeName>Mexico</placeName>, and more particularly the former, since the late
+movements there, which I was happy to learn terminated so 
+fortunately&#8212;I thank you for the <placeName>Pamphlet</placeName>, which reached me from
+<placeName>Mobile</placeName>, giving the details and very satisfactory they must be to
+all unbiased minds. I hope to get it republished here, in which
+Case will have the article put in form agreeably to the ideas 
+Suggested in your letter and appended. That part of your letter
+from <placeName>Matamoras</placeName>&#8212;which you Suggested, I had published, as you will
+have seen by the <placeName>paper </placeName>Sent you at the time. I got a letter <date when="1832-10-18">last week</date>
+from <persName>brother Henry</persName> giving the painful news of the affliction of his
+<persName>family</persName>, in the death of his <persName>wife</persName>. It is a severe trial for him and I
+fear much for his own health, but trust he will bear up under it
+with usual fortitude, when he reflects upon the Situation of his
+<persName>Children</persName>, and not suffer himself to be unnecessarily exposed. I
+know he has a kind <persName>friend </persName>in you and that there will be nothing
+wanting on your part to Comfort him&#8212; I am told his location <placeName>on
+the river</placeName> is a very unhealthy one, and fear there is too much truth
+in it. I send him a file of <placeName>papers</placeName>, which are equally at your Service.
+I must Close this Scrawl or be too late It goes pr Schr. Sabine <persName>Capt.
+Brown</persName>-&#8212;She has 16 to 18 passengers. I hope soon to be in receipt
+of late dates from you&#8212;</p>
+
+<p><persName>J. P. Austin</persName></p>
+<p><persName>Col Stephen F. Austin</persName>   <placeName>San Felipe de Austin   Texas</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

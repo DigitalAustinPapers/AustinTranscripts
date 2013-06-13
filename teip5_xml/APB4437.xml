@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4437">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin Bryan to Stephen F Austin, 09-23-1832</title>
+            <author>
+                <persName>Moses Austin Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-13">10-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Satillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 866-867
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-09-23">09-23-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Dr. James Grant of Parras has elected two deputies to the legislature from there in favor of Texas and foreigners.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p><placeName>Saltillo </placeName><date when="1832-09-23">September 23d 1832</date></p>
+<p>Dear <persName>Uncle</persName></p>
+
+<p>This will inform you that I am well, and recd, your letter of the
+<date when="1832-09-04">4 of this month </date>this morning and with much pleasure, and glad to
+hear that you have arrived safe <placeName>home </placeName>and that you found all the
+<persName>family </persName>well, you need not be uneasy about me, I am now living
+with <persName>Mr. Sharpe</persName>. I did get tiard of Friholes and Tortillos and went
+out to <placeName>Parras </placeName>and stayed with <persName>Doct Grant</persName> about 4 or 6 weeks, and
+when I started to cotoe a way he told me that he would not let me
+go back to <placeName>Saltillo </placeName>unless, I would promise not, to go and live with
+<persName>Grande </persName>aney more, but live with <persName>Mr Sharpe</persName>, and I though it was
+the best plan myself, and so I was not above a month and a half with
+<persName>Grande</persName>, the <persName>Doct</persName>. is a great <persName>friend </persName>of yours and of the <placeName>Colony</placeName>, he
+has elected 2 <persName><hi rend="italic">biputados </hi>[diputados]</persName> at <placeName>Parris </placeName>in favor of the <placeName>Colony</placeName>
+and <persName><hi rend="italic">Estrangeros</hi></persName>. and has put <persName>Loco Ernandes</persName> out, he sayes if you
+can onley send two more from <placeName>Texas </placeName>he will show them a thing or
+two; I will stay untill after the fare as it will comencé <date when="1832-09-24">to morrow</date>
+and then it is very probable I will go down to <placeName>Matamoras </placeName>with some
+of [the] <persName>strange[r]s</persName> over hear to the <placeName>fair</placeName>, most likley with <persName>Mr.
+Dibblee</persName> or<persName> Mr Coldwell</persName> I have got but about 8 or 10 Dollars,
+and <persName>Huetson </persName>hasent got a sent to lend me he says, but I must do the
+best I can I wanted to buy a saddle and rigging but I havent got the
+money their fore I must do with out. <persName>Huetson </persName>talks of going on to
+the <placeName>Colony </placeName>but I would go by myself before I would go with him he
+has made a compleate brute of himself. I have got your papers
+safe I have been obliged to go indet for a leather trunk to <persName>Mr
+Coldwell</persName> he sayes he will be very apt to go through the <placeName>Colony </placeName>on
+his return to <placeName>New Yorke</placeName> and then I can settle with him. nothing
+more at present but I am in hopes I will see you in the course of a<pb n="867"/>
+month or two give my respects to <persName>Mr. and Mrs. Williams</persName> and <persName>Mr
+Hunter</persName> and give my love to all the <persName>family </persName>and tell them they will
+see me in course of 2 months at furtherest if I have health I have
+no preasants for them because I have no money to get them with I
+have scarce enough money to carry me to <placeName>Matamoros</placeName>.</p>
+
+<p>Most Respectfully</p>
+
+<p>Your <persName>nephew</persName></p>
+
+<p><persName>Moses A Bryan </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

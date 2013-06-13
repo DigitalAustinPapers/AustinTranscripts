@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4501">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D W Anthony to Stephen F Austin, 12-26-1832</title>
+            <author>
+                <persName>D W Anthony</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-09">11-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 910-911
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-12-26">12-26-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Discussing policy to be followed in seeking reform. His editorial policy.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austin</placeName>,<date when="1832-12-26"> Decr, 26th [1832]</date></p>
+<p>Dear Sir:</p>
+
+<p>I had hoped to find you here, or at least that you would have 
+arrived during my stay, as the principal object of my visit was to 
+obtain a title to the lands I have selected, etc.&#8212;which it seems could not
+be effected without your presence.</p>
+
+<p>If it be beyond the reach of your power and option, to extend the
+quantity of land to more than 1/4 of a League, will you have the
+goodness to assist me in obtaining a <placeName>grant </placeName>from such authority as is
+requisite, if you think an application for that purpose would not be
+fruitless. I perceive that either a discretion has been confided to
+you, of else by means of petitions etc, great inequality in the 
+quantity of <placeName>lands </placeName>granted to different <persName>individuals </persName>has been effected, and
+I hope if there be any such capacity, either which you have, or may
+be obtained to increase the quantity of land which I may be entitled
+to receive, that you will not be reluctant to aid me in its acquisition,</p>
+
+<p>I have had the pleasure of seeing your letter of<date when="1832-12-20"> 20th inst.</date> to the
+<persName>Central Committee</persName>, with the contents of which communicating the
+result and success of your visit to <placeName>Bexar</placeName>, I am highly delighted, I
+sincerely hope you may not be deceived in the constancy and 
+firmness of the people with whom you have been in conference.</p>
+
+<p>I am much pleased with the state of feeling prevailing, and the
+prospect of effecting the great objects we have proposed for 
+ourselves&#8212;but I do not see much harmony in the design of a remon-<pb n="911"/>
+strance, which must include the idea of submission on conditions
+of redress, and contain the request of the people to govt, to grant
+a mitigation and redress of grivances&#8212;and at the same time that
+there should be going forward a solm and firm determination of
+the same people to form a <persName>separate government</persName> and remedy the
+evils of which they complain,&#8212;and without any intention of turning 
+back, or giving up that determination. Such I understand to
+be the actual state of things. The <persName>Central Comt</persName>. have ordered a
+positive and unconditional call of a convention. The people with
+whom you have been in communication have remonstrated, and
+expect the same thing to be performed by the <persName>people </persName>and 
+<persName>Authorities of the whole <placeName>country</placeName></persName>. Should what is complained of be listened
+to, and acted upon favourably by the present <persName>state Go[vt]</persName> how will
+we stand, or how will we proceed? I hope you, and all of us will
+not be unable to solve the dilemma, when it presses itself upon us.
+But at present it has not a very seemly, or very sincere appearance.
+Let us make the good of our country our motto, and our highest
+maxim.</p>
+
+<p>I shall be glad to hear from you, which I should at any rate 
+expect, as soon as you return. I look for <persName>Grayson </persName>every day, having
+lately heard from him, and with him I expect my <persName>brother</persName>, etc.
+Their land affairs too, I hope you will not forget.</p>
+
+<p><persName>D W Anthony</persName>.</p>
+
+<p>[Addressed] <persName>Col. Steven F. Austin</persName>  <placeName> San Felipe</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

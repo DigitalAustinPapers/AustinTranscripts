@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4586">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 07-30-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-29">11-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 991-992
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-07-30">07-30-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Hopes for success, but favors organization as a State without consent of Congress if consent is refused. Rumors of cholera in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1833-07-30">July 30. 1833</date></p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>I refer you to my letter to the <persName>committee </persName>for news as to my 
+mission, and will only state I have very strong and well founded hopes
+of complete success&#8212;I believe that <placeName>Texas </placeName>will be a <placeName>state </placeName>in a short
+time with the approbation of the <persName>Govt</persName>. But if our application is
+refused I shall be in favor of organising without it I see no other
+way of saving that <placeName>country </placeName>from total anarchy and ruin&#8212;I am
+totally done with concilliatory measures, and for the future shall be
+uncompromising as [to] Texas matters.<pb n="992"/></p>
+
+<p>Why do you not write me? I expected to hare recd, letters here&#8212;
+none from anyone&#8212;-! am uneasy very much so indeed&#8212;I heard a
+bad account about overflow and cholera but hope it is incorrect&#8212;
+I had a wretched trip. <hi rend="italic">One month</hi> from <placeName>Matamoros </placeName>to <placeName>Vera Cruz</placeName> in
+a little schooner&#8212;ten days on short allowance of water&#8212;none but
+salt provisions&#8212;and sea sick all the time. But I am well now.
+<persName>Padre Muldoon</persName> sends his respects to every one&#8212;he does all he can
+for <placeName>Texas</placeName></p>
+
+<p>Love to the <persName>children </persName>and <persName>Sister </persName>and your <persName>neighbors</persName>.</p>
+
+<p><persName>Stephen</persName></p>
+
+<p>[Addressed:] Al <persName>sor Don James F. Perry</persName> <placeName>San Felipe de Austin
+Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

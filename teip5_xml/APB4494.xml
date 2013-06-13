@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4494">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Andrew Scott to Stephen F Austin, 12-11-1832</title>
+            <author>
+                <persName>Andrew Scott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-05">11-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Col. James W. Robinson
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Scotia, Pope County, Arkansas Territory</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 901-902
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-12-11">12-11-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing James W. Robinson.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Scotia, Pope County Arks Territory</placeName></p>
+
+<p><date when="1832-12-11">Decr. 11th 1832</date></p>
+<p><persName>Col. S. F Austin</persName></p>
+
+<p>Dr Sir, My friend and <persName>neighbor </persName><persName>Col. James W. Robinson</persName>, will
+hand you this, I had hoped for some time past to have the pleasure
+of presenting him to you in person, but unforeseen circumstances has
+prevented this,&#8212; I shall however be with you between this and
+<date n="03-xx-1833">March next</date>&#8212;</p>
+
+<p><persName>Col. Robinson</persName> is a <persName>practitioner of law</persName> in our <placeName>country</placeName>, in which
+profession he is well grounded, but <placeName>Arkansas </placeName>at present holds out but
+few inducements to the <placeName>lawyer</placeName>, for previous to the entrance of <persName>Col.
+Robinson</persName> there were supernumerary numbers of that profession,
+he therefore visits your <placeName>Colony </placeName>with a view of making it his future
+<placeName>residence </placeName>should it hold out to him sufficient inducements, he leaves
+in my <placeName>neighborhood </placeName>his <persName>wife </persName>and one <persName>child</persName>, for whom he will speedily
+return should he meet with flattering encouragement in <placeName>Texas</placeName>&#8212;
+Anything you may do to advance <persName>Col. Robinsons</persName> interests, or 
+promote his comfort, you will find him worthy of&#8212;and be assured it will<pb n="902"/>
+afford to your old friend much gratification&#8212;<persName>Mrs. Scott</persName> Joins me
+in respects to yourself and your <persName>Sister</persName>&#8212;</p>
+
+<p><persName>Andrew Scott</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

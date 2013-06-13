@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4522">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>G Edwards to Stephen F Austin, 02-01-1833</title>
+            <author>
+                <persName>G Edwards</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-11">11-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Attica, Seneca County, Ohio</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 923-924
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-02-01">02-01-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Represents many neighbors in asking climate, production, soil, terms of acquiring land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Attics Seneca County Ohio</placeName> <date when="1833-02-01">Feby. 1st 1833</date></p>
+<p><persName>Col. Austin.</persName></p>
+
+<p>Sir, myself with many of my <placeName>neighbours</placeName>, are verry desirous of
+getting some information from you, respecting your <placeName>country</placeName>; we
+wish you to be verry minute in your description of the climate, soil,
+and productions; also the seasons, wether they are in extremes, wet
+or dry; the state of your market, and general prices of your produce,
+and particularly if you grow wheat, and how many Bushels per acre,
+we also wish to know the terms that we can purchase the land on, and
+the extent of your <placeName>collony</placeName>, and wether some 40 or 50 <persName>family's </persName>would
+be acceptable; we also wish to know the convenience of your <placeName>mill</placeName>
+priveleges, and general extent of your water power; also the 
+different kinds of wild animals, particularly if the wild horse and cattle
+abound in such numbers as is reported here, and wether sheep are
+healthy there, learn us the state of literature, the present state of
+your government, and the disposition of the <persName>natives </persName>toward your
+<placeName>colony</placeName>; also wether your <placeName>waters </placeName>abound with fish, oysters, clams, etc,
+and their qualities, wether your climate agrees with the notheren
+people; also if the necessary articles of husbandry can be easily 
+obtained there, and if not, where they can be on the best terms, finally,
+we wish you to inform us of all the advantages, and disadvantages,
+and future prospects attending your country, we have proposed 
+sending two men as <persName>agents of our little <placeName>colony</placeName></persName>, to explore and make the
+necessary observations respecting your <placeName>country</placeName>, and on the receipt<pb n="924"/>
+of your answer, we can judge wether it will Justify us to do so or not,
+if so, please to propose the rout they had better take for safety,
+economy, and expedition,</p>
+
+<p><persName>G. Edwards</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

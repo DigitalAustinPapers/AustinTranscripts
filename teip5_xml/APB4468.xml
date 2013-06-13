@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4468">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P. Sheldon to Stephen F Austin, 11-7-1832</title>
+            <author>
+                <persName>John P. Sheldon</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-03">11-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Dr. S. Denton
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Detroit, Michigan</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 885
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-07">11-7-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Ten or twenty families can be made up here for emigration to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Detroit</placeName>,<date when="1832-11-07"> Nov. 7, 183</date>2.</p>
+<p>Dr Sir,</p>
+
+<p>The <persName>Bearer </persName>of this <persName>Dr. S. Denton</persName> is on a visit to <placeName>Texas </placeName>to find
+a beautiful spot and a congenial atmosphere, on which and in which
+to spend the remainder of his days with an amiable <persName>wife </persName>whose
+constitution is too slender to bear our northern winds much longer.</p>
+
+<p>Please direct him in his examination of your delightful <placeName>country</placeName>,
+and I will, I trust <hi rend="italic"><date n="xx-xx-1833">next year</date></hi>, repay the obligation personally.</p>
+
+<p>I wrote you, recently, by <persName>Mr. Colt</persName>, therefore will not now trouble
+you with a long letter.</p>
+
+<p>There will be no difficulty in making up, even in this distant
+land, a party of 10 or 20 <persName>families </persName>for <placeName>Texas</placeName>.</p>
+
+<p>Forgive me, if I once more request letters from you&#8212;they will
+be absolutely necessary for me, as I am a thousand times 
+questioned about the prospects of <persName>settlers </persName>or <persName>emigrants </persName>from our <placeName>States</placeName>.</p>
+
+<p><persName>Jno P Sheldon </persName>  [Rubric]</p>
+
+<p><persName>Col. Stephen F Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

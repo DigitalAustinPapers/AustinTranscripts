@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4556">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Austin, 04-19-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-18">11-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 953-954
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-04-19">04-19-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Approves application for organization of Texas as a State, and thinks must proceed to organize anyway if petition is refused. Report that Government is sending army to Texas to keep it from revolting from Mexico. This very objectionable.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>Copy of a letter from <persName>Stephen F Austin</persName> to <persName>Capt. Henry Austin</persName></p>
+<p>Dated <placeName>San Felipe de Austin</placeName> <date when="1833-04-19">April 19th 1833</date> :</p>
+<p>To <persName>Capt. H Austin</persName></p>
+
+<p>Dear Sir&#8212;I leave <date when="1833-04-20">to-morrow</date> for <placeName>Mexico </placeName>on the state Government
+mission&#8212; I go with considerable&#8212;I may say&#8212;strong hopes of
+success&#8212; The course taken by the convention, is the true one I
+think&#8212; The memorial for admission as a state is respectfully
+[sic] and dignified and based upon the law of the <date when="1824-05-07">7th May 1824</date>. and
+I can see no just reason why any offence should be taken [to] it by
+the <persName>Government</persName>, nor why it should be refused&#8212; <placeName>Texas </placeName>can not do
+any longer without a <persName>Government</persName>&#8212;things have been so disjointed
+ever since the <persName>military authority</persName> began to interfere with the civil,
+and with <persName>citizens</persName>, that nothing can set them to rights again but a
+<persName>state Government</persName>&#8212; I approve fully of the application for 
+admission as a <placeName>state </placeName>and I think it will succeed&#8212; The consequence of a
+failure will no doubt be war&#8212;</p>
+
+<p><placeName>Texas </placeName>can not evidently get a[lo]ng without a <persName>Govt</persName>, and if there
+should be no means of obtaining one with the approbation of 
+<persName>congress </persName>she must form one of herself in the best way she can. I have
+always been opposed to hasty and imprudent measure but if our 
+application fails, I shall say we have exhausted the subject so far as it
+can be done by mild steps, and that a totally different course ought to
+be adopted, for we can then take a firm stand for rights that were
+respectfully petitioned for and unjustly detained&#8212; The sum and
+substance of the whole matter is that <placeName>Texas </placeName>must have a <persName>state 
+Government</persName> nothing else will quiet this <placeName>country </placeName>or give any security to
+persons or property, and nothing else will be agreed to [by] me as
+the <persName>representative of the public wishes</persName>&#8212; I think I shall succeed&#8212;
+I was opposed to putting our <persName>Govt</persName>, into operation until we first
+obtained the sanction of <persName>congress </persName>Such a step could not have been
+justified on solid grounds, but if <hi rend="italic">after </hi>our application we get no
+remedy, I shall advise an immediate organization under the law of
+<date when="1824-05-07">7th May 1824</date>, and a second application for admission, <hi rend="italic">as organized</hi>&#8212;
+That also failing we shall have to do the best we can&#8212;I say that I
+shall advise this&#8212;I mean in case the situation of the <placeName>country </placeName>
+continues to be as it now is&#8212;for at this time we are in anarchy and
+there will be no middle course left between total ruin and an 
+immediate organization&#8212;if our application should fail&#8212;</p>
+
+<p>There is a rumor, and it appears to be well founded, that the most
+of the <persName>army </persName>are to be sent to <placeName>Texas</placeName>, for the purpose of getting them<pb n="954"/>
+out of the way so as to prevent future revolutions in <placeName>Mexico</placeName>&#8212;it is
+said they are not sent with any unfriendly feelings to the <persName>people
+of <placeName>Texas</placeName></persName> &amp;c&#8212; This is what letters from <placeName>Mexico </placeName>say. now if a 
+considerable army is sent here, no matter with <hi rend="italic">what feelings</hi> the result
+will be a collission&#8212;that is if they attempt to Govern in a military
+way In this event the whole <placeName>country </placeName>ought to unite at once and
+expel or kill the whole of them&#8212;- It is not a correct or a sound
+course of policy for the Govt, to make <placeName>Texas </placeName>the recepticle of her
+disorderly <persName>troops</persName>&#8212; But every care and prudent step should be
+adopted to avoid any collission, and the first aggression must not
+be on the part of the people&#8212;and above all things there must be
+no opposition to the collection of duties, for that is a right which the
+Govt, has&#8212; Let us violate no law&#8212;nor any just rights of the <placeName>nation</placeName>
+and adhere closely to the principle of seeking a peaceable remedy,
+<hi rend="italic">that failing</hi>&#8212;-I am then ready for war or any thing&#8212; So soon as
+I am convinced that there is no hope of success I shall return as
+quick as possible by water&#8212;I will try and keep the <persName>troops </persName>away if
+possible&#8212; No man in <placeName>Texas </placeName>has been more in favor of peace than
+I have&#8212;</p>
+
+<p>The <persName>old settlers</persName> and all persons will suffer much by a revolution,
+or a war&#8212;but if there is no other remedy, I am for going into it
+fully, and united, make a business of that at once&#8212; I however
+think there is no danger&#8212; I believe we shall be admitted as a state
+and that all will go on smoothly</p>
+
+<p>This is my last effort to serve <placeName>Texas</placeName>, if I succeed I shall be happy,
+and will try to enjoy some comfort in future and have nothing to
+do with politics or public business&#8212; If however I fail, and war is
+the result, I will take a hand in that, and enter the ranks as a
+soldier of <placeName>Texas</placeName></p>
+
+<p>I pay my own expenses, and expect the trip will be costly&#8212;but
+I do it freely and cheerfully and shall consider the money and
+labor better employed than any I ever spent in my life&#8212; Please
+remember me to <persName>Doct. Phelps</persName> and <persName>family</persName>, Hall, and all your 
+<persName>neighbors </persName>and assure them that no effort shall be spared on my part to
+get a <persName>state Govt</persName>, and to keep away war and revolution from <placeName>Texas</placeName>&#8212;
+but if they <hi rend="italic">must </hi>come, I will take my full share and stand by the
+<persName>settlers </persName>to the last&#8212; Love to your dear <persName>children </persName>and may heaven
+bless you all&#8212;   Affectionately your <persName>cousin</persName><persName>S F A</persName></p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

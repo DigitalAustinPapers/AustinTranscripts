@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4596">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 09-05-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1003-1004
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-09-05">09-05-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Various reforms will be made in Texas. Instructions for locating land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Mexico </placeName><date when="1833-09-05">September 5. 1833</date></p>
+<p>Dr Sir,</p>
+
+<p>I am in better spirits as to the result of our <placeName>Texas </placeName>matters, than
+I have been in since my arrival&#8212;a material change has been effected
+in the minds of several leading men on that subject and I now think
+that there will be no material opposition to the repeal of the 11<pb n="1004"/>
+article of the <date when="1833-04-06">6th april</date> law. The duties I think will be suspended
+in toto for one year at least and perhaps longer, or if this is not
+done, there will be an important modification. I shall also succeed
+fully in the alterations of the mails which I have proposed and
+the 11 article of the april law will be repealed.</p>
+
+<p>I have confidence in the result which I now anticipate, because
+this matter has been the subject of <hi rend="italic">much </hi>and very mature 
+deliberation, and the conclusions which I think the <persName>govt</persName>, and <persName>leading men
+in congress</persName> have come to, are therefore not hastily formed and
+may be relyed upon with the more confidence for that reason. Upon
+the whole I am of opinion that my trip to <placeName>Mexico </placeName>in <date n="xx-xx-183">1833</date>, will do
+as much, and perhaps more good for <placeName>Texas</placeName>, than my trip in <date n="xx-xx-1822">1822</date>
+did&#8212;the latter laid a foundation to build upon, the former [will]
+raise the superstructure by removing the obstacles that have 
+impeded its progress, and <placeName>Texas </placeName>will then become a <placeName>State of this
+republic</placeName>, in harmony with the constitution and with the other states.
+But should the <hi rend="italic">invaders </hi>succeed the aspect will be changed. Texas
+has not much to expect from the <hi rend="italic">army </hi>or the <hi rend="italic">church</hi>. I have 
+unlimited confidence in the <persName>vice President Gomez Farias</persName>, and I think
+that <placeName>Texas </placeName>will have cause to remember him with gratitude. Nothing
+is now wanting but a meeting of <persName>congress </persName>to dispatch all favorably.
+These matters were not sufficiently matured and understood, for
+<persName>congress </persName>to act <hi rend="italic">safely </hi>on them untill within a week past, so that
+upon the whole, the cholera has done no harm in preventing the
+meeting of <persName>congress</persName>. <hi rend="italic">There is nothing like patience and 
+perseverance.</hi></p>
+
+<p>The representations from <placeName>Gonzalez </placeName>and <placeName>Trinity </placeName>published at
+<placeName>Monclova </placeName>against the state, have had a good effect. I used them
+to show that the people were disposed to submit to <persName>Govt</persName>, and did
+not wish to drive, or force measures, because they had confidence&#8212;
+that <persName>Govt</persName>, would do what was right and just etc. I was told that
+this confidence was not misplaced etc. remember that <date n="10-xx-1833">October </date>is
+the limit for locating <placeName>grants</placeName>&#8212;don't neglect that business. <persName>Don
+Victor</persName> is very uneasy about his business&#8212;-don't neglect it&#8212;he is
+now a warm <persName>friend </persName>to <placeName>Texas</placeName>&#8212;-don't forget <placeName><persName>Padill</persName>[a's] [gra]nt</placeName>&#8212;also
+<placeName><persName>H. Austin</persName>s one league</placeName>.</p>
+
+<p>I suppose that I am tota[lly] forgotten in <placeName>Texas</placeName>. I have only
+recd, one letter from there since I started&#8212;that was from <persName>John</persName>
+dated <date when="1833-06-24">24 June</date>.</p>
+
+<p>There are still some cases of cholera tho. not many&#8212;my health
+is good&#8212;write to <persName>Perry </persName>and <persName>Phillips </persName>the contents of this and 
+remember me to all persons, for I wish well to everybody in <placeName>Texas</placeName>.</p>
+
+<p><persName>S. F. A</persName>.</p>
+
+<p>I refer you to my letter to the <persName>Ayuntamiento</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

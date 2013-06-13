@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4585">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Central Committee, 07-24-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-29">11-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Central Committee
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">City of Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 988-991
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-07-24">07-24-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting incidents of journey. Officials friendly and he hopes for success. Advises organization of State government if petition is denied.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>City of Mexico</placeName>, <date when="1833-07-24">July 24, 1833</date>.</p>
+<p>To the <persName>Central Committee</persName>:</p>
+
+<p>My letter from <placeName>Vera-Cruz</placeName>, dated <date when="1833-07-03">3d instant</date>, informed you of the
+many untoward circumstances that retarded my journey to that
+place. When I wrote from <placeName>Matamoras</placeName>, on the <date when="1833-05-30">30th May</date>, I expected
+to have reached <placeName>Vera Cruz</placeName> in Six days, and this place in six or seven
+more, I left <placeName>Vera Cruz</placeName> on the <date when="1833-07-05">5th </date>in the stage, and arrived at
+<placeName>Jalapa </placeName>on the <date when="1833-05-06">6th</date>, where I received information of the siege of
+<placeName>Puebla </placeName>by <persName>Arista </persName>and <persName>Duran</persName>&#8212;-and that the road was occupied on
+both sides of the city of <placeName>Puebla </placeName>by their <persName>troops</persName>, and all 
+communication with <placeName>Mexico </placeName>cut off. On the <date when="1833-07-08">8th </date>I was told that the stage was
+allowed to pass the lines, though the danger of <persName>robbers </persName>was great&#8212;
+and I intended to have proceeded in the stage on the <date when="1833-07-09">9th</date>,   But on<pb n="989"/>
+that day a new and unexpected difficulty arose&#8212;my passport was
+from the <persName>Commandant General, D. Vincente Filisola</persName>, and it was
+therefore necessary to present myself to the <persName>military authorities</persName> <placeName>on
+the road.</placeName> At <placeName>Vera Cruz</placeName> I called twice (on the <date when="1833-07-02">2d</date>, the day I landed,
+and on the <date when="1833-07-03">3d</date>) on the <persName>Commandant General</persName> of that place, and
+exhibited my passport. He told me verbally I could proceed on my
+journey, but did not endorse my passport. Owing to the want of
+this formality, I was detained at <placeName>Jalapa </placeName>by the <persName>commandant</persName>, and
+could not proceed until I sent to <placeName>Vera Cruz</placeName>, so that I did not reach
+this place until the <date when="1833-07-18">18th inst</date>. <placeName>Puebla </placeName>was heroically defended by
+<persName>Gen. Guadalupe Victoria</persName>, with the <persName>militia </persName>of the <placeName>city</placeName>, hastily 
+collected for the purpose. The <persName>regular troops</persName> had all gone over to the
+other side previously, and left <persName>Victoria </persName>without any resources except
+the patriotism of the <persName>people of <placeName>Puebla</placeName></persName>. With the <persName>militia </persName>he defeated
+<persName>Arista </persName>and <persName>Duran </persName>in their attempt to get possession of the <placeName>city</placeName>; and
+they retreated to the vicinity of this <placeName>city</placeName>. They are now <placeName>within
+four leagues</placeName>, on the retreat, in the direction of <placeName>Queretaro</placeName>. <persName>Santa
+Anna </persName>is in close pursuit of them, and no doubt is entertained of a
+speedy termination of the <persName>crusaders </persName>and the final triumph of the
+<persName>liberal party</persName>. I presume you have seen the Plan of <persName>Arista and
+Duran</persName>&#8212;its basis is Religeon and a large standing <persName>Army</persName>. They will
+fail in toto, and the result will be another triumph for <persName>Santa Anna
+</persName>and a complete dissolution of the <persName>aristocratic party</persName> and influence.</p>
+
+<p>I called on the <persName>Ministers </persName>on the <date when="1833-07-19">19th</date>, and they appointed the
+<date when="1833-07-23">23d </date>(yesterday) to have an interview on the subject of my mission.
+I also called on the <persName>Vice-President</persName>; my reception was truly kind
+and friendly, particularly in the interview yesterday with the <persName>two
+Ministers of Relations and Justice, Garcia and Arispe</persName>. They were
+fully informed of the objects of my Mission by my communication
+from <placeName>Matamoras </placeName>through the <persName>Commandant Gen</persName>. and had received
+the memorial of the Convention which I forwarded from that place.
+I explained at large and with some detail the situation of <placeName>Texas</placeName>
+and the necessity of erecting it into a <placeName>State</placeName>. The leading points on
+which I rested our claims were:</p>
+
+<p>First&#8212;The wish of the <persName>people </persName>and their declaration that they
+possessed the necessary elements to sustain a <persName>State Government</persName>.</p>
+
+<p>Second&#8212;The natural right of <placeName>Texas </placeName>to occupy its station alongside
+of its sisters, the other <placeName>States of the Confederation</placeName>. It has always
+been a distinct <placeName>member of the Mexican family</placeName> and as such fought
+for the Independence, etc., and its being for a time under age did
+not in any manner weaken its rights now that it was in a situation
+to enter upon them, etc.</p>
+
+<p>Third&#8212;The law of the <date when="1824-05-07">7th May, 1824</date>. I positively denied the
+right of <placeName>Coahuila </placeName>to approve or disapprove of our separation.<pb n="990"/>
+also stated that <placeName>Texas </placeName>did not, and would not, recognize the principle
+that it was necessary to apply to the other <placeName>states </placeName>of the 
+<placeName>confederation </placeName>for their approbation. We were now entering upon a natural
+and imprescriptable right, which belonged to us before the formation
+of the Constitution, and one which the provisional union with
+<placeName>Coahuila </placeName>did not, and could not, weaken in any manner whatever, etc.</p>
+
+<p>Fourth&#8212;The duty and the interest of <placeName>Texas </placeName>to cement and
+strengthen its union with the <placeName>Mexican confederation</placeName>&#8212;the indirect
+union as an appendage of <placeName>Coahuila </placeName>being very precarious, and liable
+to be broken at any time.</p>
+
+<p>Lastly&#8212;The right and the duty of every <persName>people </persName>to save 
+themselves from anarchy and ruin! On this last point I enlarged very
+much, as I also did on the 4th. I distinctly stated as my opinion
+that self-preservation would compel the <persName>people of <placeName>Texas</placeName></persName> to organize
+a <persName>local government</persName>, with or without the approbation of the <persName>General
+Government</persName>&#8212;that this measure would not proceed from any hostle
+views to the permanent union of <placeName>Texas </placeName>with <placeName>Mexico</placeName>, but from 
+absolute necessity, to save themselves from anarchy and total ruin. How
+such a measure would affect the union of <placeName>Texas </placeName>with <placeName>Mexico</placeName>, or
+where it would end, were matters worthy of serious reflection.</p>
+
+<p>I will give the answer of the two <persName>Ministers</persName>, <persName>Garcia </persName>and <persName>Arispe</persName>,
+as nearly verbatim as I can recollect. I do not pledge myself for
+the accuracy of the words, but I do for that of the substance:</p>
+
+<p>This <persName>Government </persName>will examine the pretensions of <placeName>Texas </placeName>to become a <placeName>State
+of this Confederation</placeName>, with the most friendly disposition towards the <persName>people
+of that <placeName>remote section</placeName></persName>, and in conformity with the broad and liberal 
+principles of the federal system, adopted by the <placeName>Mexican Republic</placeName>, We wish to
+see every portion of the <placeName>confederation </placeName>governed in accordance with these
+principles, and of those of the age in which we live. We admit that <placeName>Texas</placeName>
+has just cause to complain of the <persName>Legislature of <placeName>Coahuila</placeName></persName>, The <persName>people of
+<placeName>Texas</placeName></persName> may therefore expect that their application will be considered, and
+their just requests granted, so far as it is within The Constitutional powers
+of the <persName>Government </persName>to grant them.</p>
+
+<p>The interview was long, and frank. I was requested to put my
+ideas in writing. They are pretty much all embraced in the
+Memorial, but I thought it would be better to condense them under
+separate heads or points.</p>
+
+<p>So soon as I get the Constitution translated and a new translation
+of the Memorial (the first being defective) I will lay the whole
+matter before the <persName>Government</persName>.</p>
+
+<p>I believe that <placeName>Texas </placeName>will be a <placeName>State of this Confederation</placeName> with
+the approbation of this <persName>Government </persName>before long. I form this
+opinion from the information of many persons of influence, all of
+whom confirm the friendly disposition expressed by the <persName>Ministers</persName>.
+Should I be incorrect in this conclusion there will be but one course,<pb n="991"/>
+one remedy left, and that is for <placeName>Texas </placeName>to adopt the alternative I
+informed the <persName>Ministers </persName>self preservation would compel it to adopt.
+The <persName>people </persName>therefore must organize without any more applications
+or delay.</p>
+
+<p>It is pretty well known in <placeName>Texas </placeName>that I have pursued conciliation
+as a system; some think I have adhered to it too long, and too
+obstinately. I do not think so, placed under the circumstances I
+was. However, this is a mere matter of opinion and is of no 
+consequence. My conciliatory course has not compromised any of the
+rights of <placeName>Texas</placeName>; on the contrary, it has settled that <placeName>country</placeName>, and in
+times past saved it from many evils. Clamors and importunities
+could not force me from my old rule. You ought, therefore, to
+believe that my judgment is now convinced that <placeName>Texas</placeName>, in this
+question of right to become a <placeName>State</placeName>, must be uncompromising. I
+am placed in a situation here to form a more correct opinion as to
+what course will be best calculated to secure the prosperity of <placeName>Texas</placeName>,
+and its permanent union with <placeName>Mexico</placeName>, than I was in that remote
+section.</p>
+
+<p>I therefore reiterate the opinion, and I place it on the footing of
+a recommendation, that should our application be refused, <placeName>Texas</placeName>
+ought to organize a <persName>local government</persName> with as little delay as 
+possible&#8212;but always on the basis that it is a part of the <placeName>Mexican
+Confederation</placeName>, a younger sister who adopts this mode of entering
+upon her rights, now that she is of age, because unnecessary 
+embarrassments are interposed which are unconstitutional, unjust,
+inexpedient and ruinous.</p>
+
+<p>I also recommend tranquillity and obedience to the laws&#8212;these
+are the first duties of a <persName>citizen</persName>. Wait for a definite answer. The
+moment I get one, or am convinced that delay is the object, I will
+leave here and hasten <placeName>home </placeName>to unite in executing the 
+recommendations I have made.</p>
+
+<p>Your Fellow-Citizen and Obedient Servant.</p>
+
+<p><persName>Stephen F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

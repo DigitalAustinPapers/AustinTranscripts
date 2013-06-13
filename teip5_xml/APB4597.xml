@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4597">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 09-11-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1005
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-09-11">09-11-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reforms. Cholera. Land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p> <date when="1833-09-11">Septr. 11 1833</date></p>
+
+<p>I have nothing important to say, more than what I have said in
+my letters by last mail, except that my opinion is strengthened since
+then, that the <date when="1830-04-06">6 of april </date>law will be repealed in ten days after 
+<persName>congress </persName>meets. It is expected there will be a meeting <date when="1833-09-17">next monday</date>
+(this is Wednesday). In fact I now have very little, or rather no
+doubts at all on this question. The mails and the reduction of duties
+will also be done, and the State matter will be sent to the <placeName>other
+States</placeName> in a favourable shape to be speedily and favourably 
+dispatched&#8212;so say the most <persName>influencial men in congress</persName> and in the Govt.
+The revolution is not over and God knows when it will be&#8212;I fear
+not very soon&#8212;tho something decissive must take place shortly for
+the two <persName>armies </persName>are <placeName>in the field </placeName>again and near each other. The
+cholera is nearly over&#8212;<persName>20.000 dead</persName> in this <placeName>city </placeName>as is said I think
+about 18000&#8212;it was horrible. Don't forget that <date n="10-xx-1833">October </date>is the limit
+for locating <placeName>grants</placeName>&#8212;remember <persName>Padilla </persName>and <persName>H. Austin</persName> and <persName>Victor
+Blanco</persName> and collect my dues, give the notes to <persName>Perry</persName></p>
+
+<p><persName>S. F. A</persName>.</p>
+
+<p>Al sor  <persName>Dr Samuel M. Williams administrador de correos en <placeName>Austin</placeName></persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4578">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 05-31-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-26">11-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 983
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-05-31">05-31-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting conditions of his journey. George Fisher returning to Texas as tariff officer. Instructions concerning land at foot of the mountains</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Matamoros </placeName><date when="1833-05-31">May 31. 1833</date></p>
+<p>Dr Sir, I have unexpectedly met with a passage to <placeName>Vera Cruz</placeName> and
+sail <date when="1833-06-01">tomorrow</date>&#8212;the trip by land would have been severe on me at this
+hot season and I am rather weak from a dysentery&#8212;tho it is getting
+better. I refer you to my letter to the <persName>Ayto</persName>. as to news etc.&#8212;all goes
+well here now, but a darker squall than seemed to be gathering
+when I arrived, I have not seen lately. The prospects are all changed
+and they now are bright. <persName>Fisher </persName>is reappointed and goes on soon
+with only a few <persName>troops</persName>. I expect he will go by land through <placeName>San
+Felipe</placeName>, and I particularly recommend that the past be forgotten&#8212;he
+is an<persName> officer of the Govt</persName>, and he will now get on very well and be
+usefull to <placeName>Texas</placeName>&#8212;of this I have no doubt.</p>
+
+<p>I hope you will have the <placeName>office </placeName>business attended to and the 
+surveys regulated and all other matters&#8212;also the title for <placeName>the tract
+that Brown Surveyed at the foot of the mountains east side of
+Colorado</placeName>&#8212;both the ones on the other side can be taken by <persName>Valle</persName>
+or not just as you please.</p>
+
+<p>Write me to <placeName>Mexico</placeName>, care of <persName>Wm. S. Parrott</persName> so that he can take
+out the letters and keep them untill I arrive.</p>
+
+<p>remember me to <persName>Mrs. Williams</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Mr S. M. Williams</persName> <placeName>San Felipe de Austin</placeName>   <persName>Mr. Brown</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

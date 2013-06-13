@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4584">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Coles to Anthony Butler, 07-15-1833</title>
+            <author>
+                <persName>John P Coles</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-29">11-29-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Anthony Butler
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Mexico</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 988
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-07-15">07-15-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's influence in Texas will be dead if he fails through lack of sufficient effort to obtain the reforms petitioned for by the convention of April, 1833.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1833-07-15">15th July 1833.</date></p>
+<p>Dear Sir</p>
+
+<p><persName>Col Austin</persName> goes to <placeName>Mexico </placeName>with an application from the <persName>people of
+<placeName>Texas</placeName></persName>, for a state sepperate from <placeName>Couhala</placeName>, the application is made
+by a <persName>Convention of the people of <placeName>Texas</placeName></persName>, and in reference to a decree
+of the Constituent Congress of the <placeName>Mexican Federation </placeName>under date
+of the <date when="1824-05-07">7th May 1824.</date> If this application should fail an Effort will
+then be made as the Constitution provides, as we believe that we have
+a constitutional number of <placeName>Inhabitants </placeName>to Entitle us to that
+privaleage. <persName>Col Austin</persName>'s sincerity in this matter is much doubted by
+many <persName>people in <placeName>Texas</placeName></persName> I hope however that <persName>Austin </persName>will not forget
+himself and his <persName>Friends </persName>He is Closely watched and his future
+prospects depend greatly upon his Conduct in this matter.</p>
+
+<p>If he succeeds he will do well for himself and If for the want of
+proper Exertion on his part the application should fail <persName>Col Austin</persName>
+will be a <persName>Burned man</persName> in <placeName>Texas</placeName>.</p>
+
+<p>If you have it in your power to aid the object of <placeName>Texas </placeName>in ther
+application to the <persName>Mexican Congress</persName> you will Confer a favour on
+all by givin[g] your aid. Nothing but a <persName>State Government</persName> will save
+<placeName>Texas </placeName>and that would soon make it <placeName>one of the most flourishing
+State [s] in the Republick</placeName>.</p>
+
+<p><persName>Jno P Coles</persName></p>
+
+<p>[Addressed:] Al <persName>Señor Coronel D Antones Butler Ministro de <placeName>los
+Estados Unidos de America</placeName> en <placeName>Mexico</placeName></persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

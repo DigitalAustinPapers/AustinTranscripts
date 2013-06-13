@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4541">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Committee at Convention, Unknown</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-14">11-14-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Committee at Convention
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unsent</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unsent</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 934
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date>Unknown</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Outline of address to convention by Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>memorandum&#8212;</p>
+
+<p>1&#8212;A short general view of the political situation of the whole
+<placeName>Mexican republic</placeName> in <date n="11-xx-1832">November last</date>&#8212;all in revolution and so disorganized that it was not known in <placeName>Texas </placeName>whether any legitimate 
+government existed. Also a view of its present situation so far as is
+known and the tryumph of the <persName>liberal party</persName> by the success of <persName>Santa
+Anna</persName> and the pacification under the plan of <placeName>Zavaleta</placeName>.</p>
+
+<p>2&#8212;A short view of the situation of <placeName>Texas </placeName>at that time owing to
+the revolution in <placeName>Mexico </placeName>and the danger of falling into anarchy for
+the want of adequate <persName>local govt</persName>, and the consequent necessity of
+doing something to preserve the public peace and order.</p>
+
+<p>3&#8212;Its present situation as to the administration of justice and
+all the departments of the <persName>local government</persName>. The distance from the
+present seat of government its disimilarity from <placeName>Coahuila </placeName>in climate
+productions, situation, etc, etc.</p>
+
+<p>4&#8212;A general recapitulation shewing the necessity of a <persName>State 
+government</persName> to protect the rights of the <persName>natives</persName>, as well as those of the
+<persName>people of <placeName>Texas</placeName></persName>.</p>
+
+<p>5&#8212;As to the manner of applying for admission as a <placeName>state of the
+Mexican confederation</placeName>&#8212;quote the law of <date when="1824-05-07">7th May 1824</date>, as the basis
+of the right to petition for a <persName>state government</persName> and conclude with the
+opinion that such a petition should be made accompanied with the
+project of a constitution to be drawn up in strict conformity in the
+national constitution&#8212;etc, etc.</p>
+
+<p>[Stephen F. Austin]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

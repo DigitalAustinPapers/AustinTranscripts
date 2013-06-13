@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4475">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ramon Musquiz, 11-15-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-03">11-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ramon Musquiz
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 888-889
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-15">11-15-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thinks it impolitic to publish Musquiz's address to Ayuntamiento of San Felipe concerning the convention. Thinks convention has done some good in quieting excitement. Outlook for Mexico dark.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName>: <date when="1832-11-15">November 15th 1832</date></p>
+<p>Most Esteemed <persName>Friend</persName>. I agree with the sentiments expressed in
+your appreciable letter of the <date when="1832-11-08">8th inst</date>. just received: "He is to be
+pitied who has the misfortune to be at the head of public affairs,
+in revolutionary times;" Indeed, be [he] a righteous man, or an
+angel, he cannot escape the attacks of some party or individuals&#8212;
+A rule we should always follow, is to do our duty, without 
+minding what may be said: I on my part have always wished to follow
+this rule, and my conscience is at rest: I found myself on several
+occasions in rather a critical situation, but the polar star that has
+always guided me, was to promote the true interests of the <placeName>Nation</placeName>
+and <placeName>Texas</placeName>, and I can say that as far as I was able, I complied with<pb n="889"/>
+my duty. With regard to the meeting, it did not originate with
+me, but I believe some good will result from its action; the <persName>public</persName>
+is satisfied, and we have enjoyed more quiet than heretofore.</p>
+
+<p>As to your communication to the <persName>Ayuntamiento </persName>in relation to the
+meeting, I believe that it would have been better, not to have written
+it, <hi rend="italic">"Revolutionary times are not like peaceable times."</hi> Colonel
+<persName>Bradburn </persName>could with the least prudence, have avoided all these
+evils: I tell you candidly that in my opinion, it would be very
+impolitic to translate, and print your communication, I shall not
+do so. The <persName>Ayuntamiento </persName>may do as they please: In times like the
+present, any measure is bad, that tends to irritate, and produce
+excitement,&#8212;any measure is good that tends to soothe, and to 
+preserve order and peace.</p>
+
+<p>I have but little hope of obtaining anything from the 
+<persName>Government of <placeName>Mexico</placeName></persName>; there is little probability that we may have a stable
+and peaceable <persName>government</persName>, for some time yet, and I believe that
+<placeName>Texas </placeName>is lost if she takes no measure of her own for her welfare.
+I incline to the opinion, that it is your duty as <persName>first Magistrate</persName>, to
+call a general meeting to take into consideration the situation of
+the <placeName>Country</placeName>. I do not know how the <placeName>State</placeName>, or <persName>General Government</persName>
+can presume to say that the <persName>people of <placeName>Texas</placeName></persName> have violated the 
+Constitution, when the acts of both <persName>Governments </persName>have killed the 
+Constitution, and when the confederation itself has hardly any life left.
+I cannot approve the principle, that the <persName>people </persName>have not the right
+to assemble peaceably and honorably to represent their wants. In
+short, the condition of <placeName>Texas </placeName>is bad, but we may fear to see it
+still worse.</p>
+
+<p>I am settling up all my business and in <date n="04-xx-1833">April </date>I will go to the
+<placeName>North </placeName>for six months or one year. There is little to be hoped for
+in <placeName>Texas</placeName>. I wish you would let me hear the news, and tell me if
+the Constitution is dead, or alive, if an election for <persName>President </persName>shall
+take place, and what hope there is for a peacable settlement of the
+affairs. In the meanwhile please to give your orders to your 
+affectionate friend</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4519">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D. W. Anthony to Stephen F Austin, 01-25-1833</title>
+            <author>
+                <persName>D. W. Anthony</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-11">11-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 919-921
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-01-25">01-25-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explaining his editorial policy.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria</placeName>, <date when="1833-01-25">Jany 25th 1833</date></p>
+<p>Dear Sir&#8212;</p>
+
+<p>Your favr of the <date when="1833-01-22">22nd inst</date>. by <persName>Maj. Reynolds</persName> was handed to me
+<date when="1833-01-24">last evening</date>, and I have a convenient opportunity to reply. I
+must thank you for the hints, that that as well as the one previous,
+contained; and assure you I have valued your counsel in all instances
+very highly, and have never disregarded it if it did not correspond
+fully with my own judgment for I have been able to allow your
+knowledge and Experience their proper weight in matters where
+they render you more competent to decide than I could for a moment
+presume myself&#8212;and I have never been made to doubt the 
+correctness of your motives. I must,therefore insist that you let no occasion
+pass to afford me the benefits of your advice, for if I do not strictly
+adhere to it, rest assured it will be always a guide. I have a task
+of much difficulty and great responsibility to perform, and am<pb n="920"/>
+destitute of aid or counsel but that I receive from you. The politics
+of the <placeName>country</placeName>, as you justly remark, are in rather a tangled 
+condition, and that very circumstance makes my track more difficult to
+discern; for how to preserve consistency with some settled system oí
+opinions, when there is not a standard by which those who are
+actually managing the machinery, are guided, is a source which
+furnishes matter to Exercise the ingenuity even of an Experienced
+diplomatist, rather than to Employ the raw and unskilful hand that
+is literally compelled to wield it alone.</p>
+
+<p>For the sake of appearing united, and by that very means 
+producing union, I have Endeavoured to give to Every measure broached
+and acted upon in a way that it might have an influence on the main
+current of our affairs, such a face as would not disgrace us by 
+Exposing our situation, agitated with dissention, and rendered 
+contemptible by division and inconsistency. It has been my leading wish, to
+Keep up a belief of unanimity on all important points, and to bring
+as large a volume of the <persName>public </persName>mind to the support of whatever
+course the <persName>Central Committee</persName> should adopt, as it would be possible
+to do. This idea is very material abroad, and is the only foundation
+of confidence intertained of the redemption of the <placeName>country</placeName>&#8212;if 
+smothered or rendered doubtful, the population of the country will be
+checked, and all its hopes darkened. You say the tone of my <placeName>paper</placeName>
+has been rather anti <persName>Mexican</persName>, and that I ought to change it. I do
+not think I have said any thing that should wound them as a
+people&#8212;on the contrary I have when speaking of the <persName>liberal party
+</persName>always puffed them. To be sure I have not said much about them,
+for I know too little to Enable me [to] say any thing in their favour,
+that would not be inconsistent with our own acts and declarations.
+As to the mere tone of the <placeName>paper</placeName>, it is not so Easy to change without
+the detection of inconsistency as might be thought. The tone of the
+<placeName>paper </placeName>has been caught from, and formed by the events that have
+occured, and the circumstances and necessary feelings which surround
+us&#8212;and some occurence or new event must serve as a hinge upon
+which to turn even the tone of <hi rend="italic">my </hi>remarks from the general tenor
+of our conduct. If <hi rend="italic">communications </hi>were introduced not too much
+varying in substance from the drift of the public feeling, or the 
+expectation, or rather belief of what that is, abroad, invested with such
+a glossy colouring of true and loyal Mexicanism as to answer the
+purpose you desire, I could yield better to that, than to no obvious
+cause, in departing from what has at least appeared to Chime with
+the united feelings of the people. I dropt you a few hasty remarks
+a day or two since, in reply to your letter by <persName>Bradly </persName>which with these,
+will inform you how I feel disposed on the subject of our politics.
+Without consistency we have no influence-&#8212;Without influence we
+can do no good.<pb n="921"/></p>
+
+<p><persName>Grayson </persName>has not yet come, but I have reason to expect him every
+week. <persName>Dr. Archer</persName> is <placeName>at the mouth of the river </placeName>on a health 
+expedition. I hope they "may be of some use to us in the work we have
+before us, as you suggest.</p>
+
+<p>In relation to the correction of the proof sheets of the 
+Remonstrance, I have to answer that you will either have to come down
+for that purpose, or leave it to me and <persName>Cotton</persName>, for <persName>Eckle </persName>is sick.
+The translation cannot be well made here, and I shall therefore
+expect the one you made. Wherefore do you wish it copied? your
+hand writing is very plain.</p>
+
+<p>When shall I come up on the subject of land ? or will it be 
+necessary at all. I shall send my <persName>brother </persName>up before the <persName>Commissioner</persName>
+leaves&#8212;I have two here just from the <placeName>College walls</placeName>, and will make
+useful Citizens of them by learning them to print a little&#8212;You must
+give them a piece of land, for that was the promise upon which they
+came. On the subject of <persName>P Green</persName>, he wishes to know, if a petition
+could not be sent down to him to sign which would answer the 
+purpose without his presence?</p>
+
+<p><persName>DW Anthony</persName>.</p>
+
+<p>[Addressed:] <persName>Col. S F Austin </persName>  <placeName>San Felipe</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

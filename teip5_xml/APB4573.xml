@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4573">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ayuntamineto of Nacogdoches, 05-30-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-21">11-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ayuntamineto of Nacogdoches
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoras, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Nacogdoches, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 975-977
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-05-30">05-30-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Conditions in Mexico tranquil and attitude toward Texas considerate. Custom-houses to be reestablished to stop contraband tobacco trade, Austin has assured authorities that people will support the Government.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matamoras </placeName><date when="1833-05-30">30th May 1833</date></p>
+<p>The <persName>public </persName>was very much agitated in this place by false reports
+and rumors from <placeName>Texas</placeName>&#8212;but they have been removed by the 
+statement of facts which I have laid before his <persName>Excellency the 
+Commandant General Don Vicente Fillisola</persName> who assures me of the
+paternal intentions of the <persName>Govt </persName>towards the <persName>People of <placeName>Texas</placeName></persName>.
+There never has been any cause for doubt that such are its 
+intentions&#8212;all the vague rumours that have been circulated as to the
+marching of a large <persName>Army </persName>to <placeName>Tejas </placeName>with hostile views are utterly
+false. The <persName>Genl </persName>has ordered the reestablishment of the <placeName>Custom
+Houses</placeName> and the <placeName>military Garrisons</placeName>, and will do so for the purpose
+of protecting the public Revenue and stopping the scandalous 
+contraband that has been carried on in Tobacco from the <placeName>Ports of
+Tejas</placeName>. I have assured him that he will receive the support of the
+<persName>Colonist </persName>in sustaining the Revenue laws and that they would do
+their duty faithfully as <persName>Mexican Citizens</persName>.</p>
+
+<p>I have pledged my honor for the Truth of this declaration and
+have full confidence that the <persName>People of <placeName>Texas</placeName></persName> will not forfeit the
+pledge I have made but will by their acts prove its correctness and
+that the revenue laws can be enforced without the aid of large 
+<placeName>military Garrisons</placeName>.</p>
+
+<p><persName>Mr. George Fisher</persName> will leave here shortly to enter upon his duties
+of <persName>Collector of<placeName> Galveston Bay</placeName></persName> with only sufficient number of <persName>Troops</persName>
+for necessary <persName>Guards </persName>etc.<pb n="976"/></p>
+
+<p>Whatever Ideas and opinions may have heretofore existed as to
+<persName>Mr Fisher</persName> they should now be consigned to oblivion and forgotten.
+He returns as an <persName>officer of the Govt</persName> and as such it is the duty of the
+People to respect and sustain him. I will also observe that I have
+investigated very minutely all the past transactions in which he was
+concerned and have formed the opinion that the excitements which
+unfortunately grew out of them were produced by misconception
+and suspicion too hastily entertained and not from intention to do
+wrong or injure any one. I believe there were misconceptions on
+both sides and probably as much on one part as on the other&#8212;<persName>Mr.
+Fisher</persName> will make a usefull <persName>collector </persName>his knowledge of the English
+language will give more facilities in his intercourse with the people
+than could exist with a <persName>collector </persName>who was unacquainted with that
+language. I therefore particularly recommend the utmost harmony
+and that he be sustained in the discharge of his duties by all, 
+regardless of the clamour of a few <persName>Transient Traders</persName> who would involve
+the honest <persName>farmers </persName>in difficulty with the <persName>authorities </persName>if they could
+increase their own profits thereby.</p>
+
+<p>The political events of the past year necessarily produced a 
+temporary and partial disorganization in the <persName>regular administration of
+the Govt</persName> all over the <placeName>nation </placeName>which as a matter of course extended to
+<placeName>Texas </placeName>everything is now settled down again upon the constitutional
+basis and the regular operation of the laws and of all the <persName>legal
+authorities</persName> has been restored. The temporary and provisional
+measures which the peculiar exigencies of the times may have 
+rendered necessary to pursue the public tranquility and protect persons
+and property are consequently ceased all over the nation and I have
+assured the <persName>Comt. General</persName> that they will also cease as a matter of
+course in <placeName>Tejas</placeName>. I therefore particularly recommend that what
+ever temporary deviation of the <persName>Militia </persName>or in any other matter
+should be corrected without delay and everything restored again to
+the legal basis as has been done all over the <placeName>nation</placeName>. The <persName>Genl 
+Congress</persName> adjourned on the <date when="1833-05-20">20th of this month</date> and as there will not be
+another regular session untill <date n="01-xx-1834">January next</date>&#8212;my Journey to <placeName>Mexico</placeName>
+was rendered measurably useless. I have also been very much 
+debilitated by Dysentary or <hi rend="italic">Cholorina </hi>which prevails here. These 
+considerations determined me to postpone my trip to the <placeName>Capital </placeName>for the
+present and I forwarded the memorial of the convention through the
+<persName>Comt General</persName>. Since then my health has improved and an 
+opportunity haveing very unexpectedly offered of a passage to <placeName>Vera Cruz</placeName>
+by <placeName>sea </placeName>I have concluded to embrace it and shall depart in a few hours.</p>
+
+<p>I will close by assuring you that I have the most unlimited 
+confidence in the patrotism liberality and Justice of the <persName>Govt </persName>and I
+rely with full confidence upon the <persName>people of <placeName>Tejas</placeName></persName> to sustain firmly all
+the <persName>authorities both federal and State</persName> and to obey the laws strictly.<pb n="977"/></p>
+
+<p>By so doing they will procure a <persName>State Govt</persName> and keep away large and
+unnecessary <persName>military Garrisons</persName> and obtain everything that a 
+reasonable people ought to expect or a just and <persName>liberal Govt</persName> ought to
+grant.</p>
+
+<p>I recommend that the <persName>people of <placeName>Tejas</placeName></persName> should be mild calm and
+firm in favour of making a <placeName>state of Tejas</placeName> by legal and constitutional
+means and by no other.</p>
+
+<p>To the <persName>Aymt of Nacogdoches</persName>.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>A true copy of the original.   <placeName>Nacogdoches </placeName><date when="1833-07-10">10 July 1833</date></p>
+
+<p><persName>Adolfo Stern</persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

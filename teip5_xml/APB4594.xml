@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4594">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Washington Hotel to Stephen F Austin, 08-22-1833</title>
+            <author>
+                <persName>Washington Hotel</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1002
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-08-22">08-22-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin in account with Washington Hotel, Mexico. Bill.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col. Austin</persName></p>
+
+<p>    To <placeName>Washington Hotel </placeName>   Dr.</p>
+
+<p><date when="1833-07-16">July    16</date>    To Cash pd postage of a letter__________$0.   2</p>
+
+<p><date when="1833-07-23">23   </date>  "  1 Bot Madiera______________2    4</p>
+
+<p><date when="1833-07-23">"</date>          1 Glass brandy_________ 0    1</p>
+
+<p><date when="1833-07-23">"</date>  1   do         do--________ 0    1</p>
+
+<p><date when="1833-07-29">29 </date>          1 Bot Ale____________  "   3</p>
+
+<p><date when="1833-07-29">" </date>         Rent of room No. 2 from <date when="1833-07-19">July 19th</date>-<date when="1833-07-23">23d</date> is 5 ,days@
+	6 1/2 Rs__________ 4. 01/2</p>
+
+<p>Rent of front Sala from <date when="1833-07-24">24th </date>to <date when="1833-07-31">31 July</date> is 8 days@$l is______________________ 8.   0</p>
+
+<p><date when="1833-07-29">" </date>          Board from <date when="1833-07-19">July 19th </date>to<date when="1833-07-31"> 31st</date> is 13 days@$9 per week-  $16.   5 3/4</p>
+
+<p> <date when="1833-07-29">"</date> 2  Glasses Spts (26)___   "     2</p>
+
+<p><date when="1833-07-29">"</date> 6 Segars (27)_______________ "     1</p>
+
+<p><date when="1833-07-29">" </date>1 glass (28)_________  "     1</p>
+
+<p><date when="1833-07-29">"</date> 1    do   29______________"   1</p>
+
+<p><date when="1833-07-30">30 </date>          1    do   ___________   1</p>
+
+<p><date when="1833-07-31">31</date>           1    do   _______________   1</p>
+
+<p>$33. 11 1/4</p>
+
+<p><date when="1833-08-04">Augt     4</date>    To 1 Glass brandy_________________  "      1</p>
+
+<p><date when="1833-08-05">5  </date>    "   1   do         do_______________  "      1</p>
+
+<p><date when="1833-08-06">6</date>      "1   do         do__________________ "      1</p>
+
+<p><date when="1833-08-08">8</date>      "  1   do         do____________________    "      1</p>
+
+<p><date when="1833-08-09">9</date>      "   1   do     punch______________    "     2</p>
+
+<p><date when="1833-08-12">12</date>          1 Bot brandy___________________ 1    4</p>
+
+<p>1 Glass do __________________________      "    1</p>
+
+<p>1   do     do    ___________________      "    1</p>
+
+<p>Amt carried over&#8212; ____________ $35.   4 1/4</p>
+
+<p><date n="xx-xx-1833">1833</date>    To Amt brot over__________________ $35.   4 1/4</p>
+
+<p><date when="1833-08-12">Augt   12</date>    To Brandy Sling____________________________  "     2</p>
+
+<p><date when="1833-08-12">"</date>     "   1 Glassbrandy______________________  "      1</p>
+
+<p><date when="1833-08-13">13</date>     "  1    do     do      ______ "      1</p>
+
+<p><date when="1833-08-16">16</date>     "   1 mint Sling________________ "      2</p>
+
+<p><date when="1833-08-19">19 </date>    "    1 Glass brandy____________________    "      1</p>
+
+<p><date when="1833-08-21">21</date>      "   1 Glass brandy_________________   "      1</p>
+
+<p><date when="1833-08-22">22</date>      "   1 Mint Sling_________________________    "     2</p>
+
+<p><date when="1833-08-22">" </date>     "   Board from <date when="1833-08-01">1st Inst</date> to <date when="1833-08-21">21st </date>inclusive is 3 weeks@$9--    27</p>
+
+<p><date when="1833-08-22">" </date>  Lodging and lights from <date when="1833-08-13">13th</date> to <date when="1833-08-21">21st</date> is 9 days 6 1/2____      7    2 1/2</p>
+
+<p>$71.   0 3/4</p>
+
+<p>Recd, this above in full <placeName>Mixico </placeName><date when="1833-08-22">Augt. 22d 1833</date></p>
+
+<p><persName>H J Offutt and Co</persName></p>
+<p>Col. <persName>Austin</persName>s Bill</p>
+
+<p>Amt $71. 0 3/4</p>
+<p><date when="1833-08-22">Augt 22d 1833</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

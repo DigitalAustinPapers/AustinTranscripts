@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4483">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W. McFarland to Stephen F Austin, 11-22-1832</title>
+            <author>
+                <persName>W. McFarland</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-03">11-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Ayish Bayou, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 893-894
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-22">11-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thinks people of Texas must rely on themselves.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Ayish </placeName><date when="1832-11-22">Nov 22. 1832</date></p>
+<p><persName>Col S. F. Austin</persName></p>
+
+<p>Dr Sir ; that purity of sentiment evinced in your letter&#8212;and 
+denying that distinction that <persName>public </persName>opinion was willing to give is in an
+instance of self denial&#8212;<hi rend="italic">not ordinary</hi>.</p>
+
+<p>I am truely sorry that you declined standing a poll.</p>
+
+<p>You very modestly expressed yourself as to your military 
+Capacity&#8212; common observation often Justify the belief; that those; best
+qualified pretend least.</p>
+
+<p>That the fate of <placeName>Texas </placeName>will depend upon the people themselves
+but little doubt; and of the efficiency of our <persName>Militia </persName>as little.</p>
+
+<p>I think that we have reason to fear that our constituted <persName>authorities</persName>
+have not felt sufficient strong the impressions of <persName>freeman</persName>: so 
+common and almost inherent to <persName>people born in <placeName>U. S.</placeName></persName> to extend freely
+those rights, which the habits and education of <persName>Americans </persName>have
+taught them that they have a right to demand and short of which
+will never be satisfyed.</p>
+
+<p>The habits and political arangments of <persName>Mexicans</persName>; are of a 
+character calculated to produce a fear that nothing <hi rend="italic">but fear</hi>; will prompt
+them to extend to the <persName>people of <placeName>Texas</placeName></persName> the exercise of equal rights.</p>
+
+<p>Had you continued to be a <persName>condidate</persName>; you would have recd a
+common support; with us.<pb n="894"/></p>
+
+<p>I will thank you if you please to give me the names of all the
+<persName>Empresarios </persName>their limits and <placeName>places of residence</placeName>, their <persName>agents </persName>and
+their <placeName>residences</placeName>.</p>
+
+<p>Do you think that there is any reason to believe that the <persName>President
+of<placeName> U. S.</placeName></persName> will force the line to <placeName>snow river</placeName>.</p>
+
+<p>Has the law or laws, regulating the duties of <persName>Alcalda</persName>, been translated or printed if so will you please inform my <persName>son </persName>how to procure
+them.</p>
+
+<p><persName>W. McFarland</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

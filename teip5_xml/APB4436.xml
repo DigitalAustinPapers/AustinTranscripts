@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4436">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R. Hawes to Stephen F Austin, 09-14-1832</title>
+            <author>
+                <persName>R. Hawes</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-13">10-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Cincinnati, Ohio</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 865-866
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-09-14">09-14-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning settlement of the Hawkins estate.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[About September 14, 1832.]</p>
+<p>Mr <persName>S. F. Austin</persName></p>
+
+<p>Dear Sir, I avail myself of an opportunity afforded through <persName>Col.
+John Thompson Mason</persName> of addressing you on the subject of the 
+interest of <persName>Hawkins heirs</persName> in the <placeName>Texas property</placeName>. I will thank you to
+confer with <persName>Mr. Mason</persName> and between you devise some plan to relieve<pb n="866"/>
+you from the unpleasant situation which from your letter to me
+through <persName>Mr. Mason</persName> you state that you are placed in relation to this
+property. I am from every information I have, disposed to do in the
+matter so far as my power extends whatever you and <persName>Mr. Mason</persName> may
+think I ought or can do. Please if you chalk out a course to give
+me the forms of the transaction which would be authentic in your
+country&#8212; I deputed<persName> Mr. Martin</persName> to act as <persName>agent</persName>, but I have not
+heard a word from him.</p>
+
+<p><persName>R. Hawes</persName></p>
+
+<p>This letter is directed to <persName>Mr Mason</persName> at <placeName>Cincinnati Ohio</placeName>, who has
+proffered to bear it.</p>
+
+<p>[Addressed:]  <persName>Col. John T. Mason</persName> Care of<persName> Major Henrie 
+Innkeeper <placeName>Cincinnati Ohio</placeName></persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4438">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 09-27-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-13">10-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brasoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Pleasant Bayou, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 867
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-09-27">09-27-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Closing his business with the Hawkins estate.  Advice about location of a farm.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brasoria </placeName><date when="1832-09-27">Sept. 27. [1832]</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I am dividing the land with <persName>Hawkins estate</persName>, and shall go to <placeName>San
+felipe </placeName><date when="1832-09-28">tomorrow </date>in about <date when="1832-10-08">ten days</date> I shall return and run the 
+<placeName>dividing lines</placeName>&#8212; I have left a letter for you with <persName>James Westall</persName> as
+to the place where you must improve so as not to interfere with the
+part that <persName>Hawkins </persName>gets.</p>
+
+<p>I am fast getting through my business and before <date n="Spring - 1832">spring </date>I Will
+take leave of public matters for the balance of my life&#8212; I intend
+to live principally with you, or near you and go to farming. Love
+to <persName>Emily </persName>and <persName>Lavinia</persName></p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+
+<p>What does <persName>Col Morris </persName>ask for his improvements</p>
+
+<p>The <placeName>land on oyster Creek</placeName> <placeName>below Mitchels falls</placeName> to me in the division,
+inquire of <persName>Hodge </persName>what kind of land it is. I am told that the cane
+comes to the <placeName>Prairie just below Mitchels line</placeName>&#8212;that would be a good
+place for a <placeName>farm</placeName>, and <placeName>not over 12 miles from Pleasant Bayou</placeName> to go
+straight, but there would be <placeName>three Creeks</placeName> to bridge&#8212;it would be 
+unhealthy perhaps on <placeName>oyster creek</placeName> merely inquire of <persName>Hodge </persName>generally
+as to the land&#8212;how wide the cane is and how the <placeName>land is for 4 or
+5 Miles down the creek below <persName>Mitchels</persName></placeName>, without telling him whose
+it is etc also ask him how the <placeName>land is between oyster creek and 
+Baylies prairie and out side the cane</placeName></p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p>What do you think <persName>Col Morris</persName> improvement is worth&#8212;</p>
+
+<p>[Addressed:] <persName>Mr. James F. Perry</persName> <placeName>Pleasant Bayou</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

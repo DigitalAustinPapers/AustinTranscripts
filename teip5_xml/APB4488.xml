@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4488">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ramon Musquiz, 11-30-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-05">11-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ramon Musquiz
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 895-896
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-11-30">11-30-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggests that the ayuntamiento of Bexar draw up memorial asking for reforms.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Goliad </placeName><date when="1832-11-30">November 30th 1832</date></p>
+<p>Most Esteemed Friend.</p>
+
+<p>I left <placeName>Austin </placeName>on a visit to your <placeName>City</placeName>, arrived here <date when="1832-11-29">yesterday </date>and
+continue on my way <date when="1832-12-01">tomorrow</date>. The <persName>Ayuntamiento of <placeName>Austin</placeName></persName> held
+no meeting owing to the sickness of its <persName>members</persName>, since the <persName>Alcalde</persName>
+received the communication about the convention and <persName>committees</persName>:
+for this reason they have not answered it, I believe that their answer
+may be delayed somewhat: In the mean time, I see no difficulty
+in placing the affairs on a footing, that would secure union and
+harmony throughout <placeName>Texas</placeName>. It seems that there is at <placeName>Bexar </placeName>a 
+uniform agreement on the <hi rend="italic">substance </hi>of the representation, only some
+disagreement on the <hi rend="italic">manner </hi>of representing. If it is so, it will be
+easy to settle the difficulty: let <placeName>Bexar </placeName>take the lead in the matter.
+In short, the main object of my visit is. to see if there is any means
+to avoid a dissentment with <placeName>Bexar</placeName>, and the balance of <placeName>Texas</placeName>. This
+journey is rather troublesome to me, owing as well to the bad 
+condition of the <placeName>roads</placeName>, as to the danger of <persName>Indians</persName>, and the loss of
+time from my private business, but we wish to see harmony prevail
+in <placeName>Texas</placeName>, as it exists already in substance. The forms are of little
+importance, and ought not to breed discord, though I believe it
+will not be difficult to satisfy all parties, and to obtain a unity of
+action.   I shall be with you, a few hours after these lines reach you.</p>
+
+<p><persName>S. F. Austin.</persName></p>
+
+<p><persName>Ramon Musquiz</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

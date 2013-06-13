@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4435">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Martin, 09-14-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-10-10">10-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Martin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 859-865
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-09-14">09-14-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-10-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Statement of settlement with heirs of J. H. Hawkins.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Statement presented to ------ Martin, relative to the settlement of the business between
+<persName>S. F. Austin</persName> and the <persName>late J. H. Hawkins</persName></p>
+
+<p>In <date n="11-xx-1821">Novr. 1821</date> a contract was made between <persName>S. F. Austin</persName> and <persName>J. H.
+Hawkins</persName>, relative to settling the <placeName>colony </placeName>originally contracted to be
+settled by <persName>Moses Austin</persName>, the <persName>father of the said Stephen F. Austin</persName>.</p>
+
+<p>A <persName>partnership </persName>was also formed between the said <persName>S. F. Austin</persName> and
+the said <persName>Hawkins</persName> for certain purposes: this <persName>partnership </persName>expired by
+the death of <persName>Hawkins </persName>in <date n="xx-xx-1823">1823</date>.</p>
+
+<p>At the time of forming that contract, it was supposed that 
+something could be realized out of the <persName>settlers</persName>; and an arrangement was
+made for them to pay 12 1/2 cents pr acre for the <placeName>land </placeName>they received,
+<persName>Austin </persName>to be at all the expense. This arrangement was totally 
+destroyed by the interference of the <persName>Govr. of <placeName>Texas </placeName>in <date n="xx-xx-1824">1824</date></persName>. A large
+sum was lost by <persName>Austin </persName>for surveys which were made up to that time,
+and meanderings of the <placeName>river</placeName>.</p>
+
+<p>In <date n="05-xx-1824">May 1824</date> the <persName>Govr. of <placeName>Texas</placeName></persName> interfered with the said first 
+arrangement, and established a fee-bill. None of these fees belonged
+to <persName>Austin</persName>; and he had no right to use any of them. One hundred
+and twenty seven dollars, 50 cents, were allowed to the <persName>Commissioner</persName>,
+including his milage <placeName>from Bexar to the colony</placeName>; 30 dollars to the
+<persName>Govt</persName>.; and 8 dollars for the Title. The <persName>Commissioner </persName>relinquished
+to <persName>Austin </persName>the third of his fees.</p>
+
+<p><persName>Austin </persName>was appointed by the <persName>Govt</persName>, to administer the local 
+government of the <placeName>colony </placeName>in all its branches, civil, judicial, and military,
+without any salary. He also had to attend in person to all the 
+land business.    Besides this he kept an open <placeName>house </placeName>and was compelled to<pb n="860"/>
+do so: his <placeName>house </placeName>was always full, for the first six years, as is well
+known to those who were here then. It is also well known, that he
+had constant visits from the <persName>Tankaway</persName>, <persName>Lipan</persName>, <persName>Beedi</persName>, and other
+<persName>Indians</persName>; and the situation of things required him to make them large
+presents.</p>
+
+<p>These expenses were not all: he paid for expresses, furnished 
+provisions, and amunition, and many other things for campaigns against
+the <persName>Indians</persName>. He was compelled to keep an <placeName>office</placeName>, and a <persName>Secretary</persName>,
+and <persName>Clerks</persName>, acquainted with the Spanish and English languages&#8212;It
+will be remembered that, at that time, every thing was dear&#8212;Cows
+at from $20 to $30 each; pork from $9 to $10; beeves from $25 to $80
+a head; corn from one to two dollars the bushel; etc. The expenses
+of his <placeName>household </placeName>were not less than $2000 a year: his <placeName>office </placeName>including
+the <persName>Secretary</persName>'s salary, stationery, etc $1500. a year: presents to
+<persName>Indians </persName>$500 a year. To all this is to be added a variety of other
+expenses, such as <persName>expresses</persName>, <persName>guards</persName>, and supplies for <persName>Indian </persName>
+expeditions. Also he had a heavy surveying debt to pay, as above stated.
+Besides these expenses, there are many others which can not be
+mentioned.</p>
+
+<p>A large amount of the fees never has been collected, and never will
+be. Also a considerable amount was lost that was received in herdes,
+which died or were stolen by the <persName>Indians</persName>. Twelve head were stolen
+at one time, ten of them mules, at <placeName><persName>Buckner</persName>'s old place on the Colorado.</placeName></p>
+
+<p>But even supposing that the fees had all been collected and in
+money: the whole amount of the <persName>Commissioner</persName>'s fees on<persName> 300 families</persName>
+at $127.50, is $38,250&#8212;of this one third was relinquished by the
+<persName>Commr </persName>to <persName>Austin</persName>, which is $12,750 which would not have half paid
+the expenses of the <persName>local govt</persName>, and other expenses of the <placeName>colony </placeName><date n="1823-1828">from
+1823 up to 1828</date>, the time when the <persName>Ayuntamto </persName>was established; to say
+nothing of a compensation for<persName> Austin</persName>'s services, and a deduction of
+more than one half for property payments at an excessive value.</p>
+
+<p>It will be remembered that <persName>Austin </persName>received no salary from the
+<persName>Govt</persName>., nor any allowance whatever for the local government of the
+<placeName>colony</placeName>, that all the labor, expense, danger, and responsability rested
+on him alone:&#8212;all the vexations, labyrinths of the <placeName>colony</placeName>&#8212;matters
+with the <persName>government</persName>, and with the <persName>settlers</persName>, who were several times
+in a state of rebellion against him, and always complaining and
+abusing him, because they had anything to pay: he had to bear all
+this patiently, as the salvation of the <placeName>colony </placeName>required it. The facts
+as to advances made by <persName>Hawkins </persName>are as follows:</p>
+
+<p>The Schooner Lively, a small vessel of about 30 Tons, was 
+purchased for $600 in <date n="12-xx-1821">Novr. 1821</date>: of this sum <persName>Austin </persName>furnished $400,
+which he borrowed from <persName>Lovelace </persName>and now owes, with the interest&#8212;
+The Lively brought out 17 or 18 <persName>men</persName>, <persName>emigrants</persName>, and provisions<pb n="861"/>
+and tools. I do not know the whole amount of her outfit; but it
+is very evident that it could not have been much. The Lively landed
+the <persName>emigrants </persName><placeName>at the mouth of the Brazos</placeName>, and was lost on 
+<placeName>Galveston Island</placeName>. <persName>William Little</persName> had the charge of the <persName>men </persName>who came
+in the Lively: I never saw any of them until after my return from
+<placeName>Mexico </placeName>in <date n="xx-xx-1823">1823</date>, owing to their having landed in the <placeName>Brazos </placeName>instead
+of the <placeName>Colorado</placeName>, to the mouth of which latter river I went to look
+for them, agreeably to appointment in <date n="12-xx-1821">Decr, </date><date n="01-xx-1821">and Jany. of 1821 and
+1822</date>; and not finding them I proceeded to <placeName>Bexar </placeName>and thence to
+<placeName>Mexico</placeName>. The <persName>men </persName>who came in the Lively became discouraged, and
+all returned to the<placeName> U. S.</placeName> except two or three.</p>
+
+<p>For a part of the expences to <placeName>Mexico</placeName>, I drew on <persName>Hawkins</persName>; for
+I had between 300 and 400 dollars of my own money which I brought
+with me from<placeName> New Orleans</placeName> in doubloons. I lost my memorandum
+and account book at <placeName>Monterey</placeName>, on my return from <placeName>Mexico</placeName>, and
+cannot state what was the amount of my drafts on <persName>Hawkins</persName>; but
+they were not for a large sum:&#8212;I lived very economically, and
+even endured privations to save expense. I raised $100 in <placeName>Mexico</placeName>
+by the sale of my watch.</p>
+
+<p>When I started for <placeName>Mexico</placeName>, I sent into <persName>Hawkins </persName>my <persName>negro man
+Richmond</persName>, a stout healthy <persName>negro</persName>, about 28 years of age: he was
+worth $800.</p>
+
+<p>On a fair statement of this whole matter, what benefits or aid,
+have I derived, in the settlement of this <placeName>colony</placeName>, from <persName>Hawkins</persName>?</p>
+
+<p>He aided in fitting out the Lively: he furnished the amount of my
+drafts for the expenses to <placeName>Mexico</placeName>: he could not have been of much
+aid in sending out <persName>emigrants</persName>, for he died before there was much
+emigration. The money which he spent for the goods that 
+<persName>Littlebury Hawkins</persName> brought out, and a vast sum in the <persName>negro </persName>speculation
+of which <persName>John Botts</persName> had the management, had nothing to do with
+the <placeName>colony</placeName>; and I was in no manner concerned in those speculations,
+nor ever had any control over them. Both these <persName>persons </persName>arrived
+after I departed for <placeName>Mexico</placeName>, and left before I returned.&#8212;Neither
+am I accountable for an enormous interest account which, I am told,
+<persName>Hawkins </persName>paid in <placeName>New Orleans</placeName>, to raise money for the expeditions
+of <persName>Littlebury Hawkins</persName>, and <persName>John Botts</persName>.</p>
+
+<p>In the contract with <persName>Hawkins </persName>I acknowledge to have received
+four thousand dollars, but the truth is I had not then received
+that amount, and never have received it up to this time. For, as
+I before observed, all that ever was spent for the benefit of the
+<placeName>Colony</placeName>, that I have any knowledge of, was the outfit of the Lively,
+and the amount of my drafts for the <placeName>Mexico </placeName>trip: and out of that
+the $400 dollars I borrowed from <persName>Lovelace</persName>, and over $300 which<pb n="862"/>
+I had of my own money, and the value of my <persName>negro Richmond</persName>, and
+$100 for my watch, making about $1600 ought to be deducted.</p>
+
+<p>As I before observed, none of the fees that were collected in the
+<placeName>first colony</placeName>, belonged to me of right; a part of them were given
+to me; but necessity compelled me to use much more of them than
+the portion thus relinquished:&#8212;and I thus may yet become 
+entangled in an endless and ruinous labyrinth. Up to this time
+<persName>Hawkins </persName>is entirely clear of all responsibility as to those fees thus
+used by me. I have always been very cautious not to implicate
+any part of his landed interest in any way. I have been a true
+and<persName> paternal guardian</persName> of the interests of his <persName>heirs in this <placeName>country</placeName></persName>,
+and I have kept his part of the <placeName>land </placeName>entirely clear. I have not
+even sold any more of it, than was absolutely necessary to give
+value to the balance, and to comply with the law by having the
+land settled; and this has subjected me to the abuse and slander
+of <persName>persons </persName>who wished to get places near <placeName>Brazoria</placeName>, and who have
+spared no pains to try and prejudice public opinion against me.
+I have, in fact, from the beginning of the <placeName>Colony </placeName>struggled alone
+in this <placeName>wilderness</placeName>, undergoing all sorts of privations, and my life
+often embittered by the unjust clamors, slanders, and abuse which
+I have been compelled by circumstances to bear. No pecuniary
+remuneration could, or ever can, recompense me for the last ten
+years.</p>
+
+<p>If the fees, received from the <persName>Settlers in the <placeName>first Colony</placeName></persName>, as
+above stated, are now to be considered as <persName>partnership </persName>property,
+<persName>Hawkins </persName>must also become liable for all the responsibilities which
+I am, or may ever be, liable to for having used more of those
+fees than I had a right to. Also a fair statement must be made
+of all the expenses of the local govt, of the <placeName>colony</placeName>, of the losses
+by bad debts, robbery of <persName>Indians</persName>, <placeName>office </placeName>expenses, losses by 
+surveying, and a yearly compensation to <persName>Austin </persName>for his services. The
+gross amount of all this must be made up: then the amount of the
+fees which <persName>Austin </persName>was entitled to receive by the relinquishment
+of the <persName>Commissioner</persName>, must be made out, and deducted from the
+gross amount of the expenses. It will then be found that a large
+balance of many thousands will be due to pay those expenses, and
+the balance will bo a charge against the <placeName>partnership land</placeName>, and
+would consume a large part of it.</p>
+
+<p>But this is not all. <persName>Hawkins </persName>would also have to be liable, in
+union with <persName>Austin</persName>, for all the responsabilities that may arise, owing
+to <persName>Austin</persName>'s having used more of the fees than the amount relinquished
+to him by the <persName>Commissioner</persName>. In short, it would place <persName>Hawkins'
+estate</persName> in the situation in which I am now placed; that is liable to
+be harrassed as long as I live, and involved in an endless labyrinth
+of difficulties; and besides all this, there are matters connected with<pb n="863"/>
+this business which are in the highest degree confidential and cannot
+be explained without a breach of faith.</p>
+
+<p>I have probably done nearly as much to benefit <persName>individuals </persName>as
+ever was done by any one man in <placeName>America </placeName>who acted in the humble
+sphere of an unpatronised, unprotected, and private <persName>person</persName>. I have
+been instrumental in laying a <placeName>broad foundation for the fortunes of
+many thousands</placeName>. The enterprise has succeeded, and begins to 
+attract notice; but no one knows, or seems to care, or to ask, how, or
+by what means, or through whose instrumentality it has been brought
+about. The only idea most <persName>persons </persName>seem to connect with the matter
+is, that of a mammoth speculation; and they say that <persName>Austin</persName>, in
+doing so much for so many, must have done a great deal for 
+himself. Thus the most erroneous impressions, and the most unjust
+rumors, are set afloat. Ingratitude, jealousy, and suspicions are
+always active and vociferous.</p>
+
+<p>What benefit has <persName>Austin </persName>received from the fees of the <placeName>first colony</placeName> ?
+There are <placeName>six leagues and a half, and two labors, of land </placeName>which were
+acquired by <persName>purchases </persName>from the <persName>settlers </persName>out of these fees, and deeded
+to my<persName> brother J. E. B. Austin</persName> because there was no <persName>judicial officer</persName>
+in the <placeName>colony </placeName>but me, before whom the deed could be acknowledged.
+The titles for a part of this are doubtful. I have also used a part
+of those fees to pay some of my old debts, but I have also used a
+large amount of the proceeds of my last contracts that <persName>Hawkins </persName>had
+nothing to do with, to satisfy the debts that were properly 
+changeable to the <placeName>first colony</placeName>: and consequently if the fees of the <placeName>first
+colony</placeName> are to go with the <persName>partnership </persName>accounts, all I have paid out
+of my last contracts on account of the <placeName>first colony</placeName>, must be charged
+to that <placeName>colony</placeName>.</p>
+
+<p>What benefit will <persName>Hawkins' estate</persName> receive for the advances he
+made in fitting out the Lively, and in paying my drafts for the
+<placeName>Mexico </placeName>trip, which was all he did advance that was of use to the
+enterprise ? The <persName>estate </persName>gets the <placeName>half of 22 1/2 leagues of land</placeName>. I get
+the other half, and I have done all the labor. In fact I have done
+every thing alone and without receiving aid from the personal 
+services, or the capital, of <persName>Hawkins </persName>to the extent that was originally
+contemplated.</p>
+
+<p>To recapitulate.</p>
+
+<p>The first arrangement with the <persName>settlers</persName>, as to fees, was distroyed
+by the interference of the <persName>Govt of <placeName>Texas</placeName>.</persName> A new arrangement was
+made by the Govt as to the fees, which allowed Austin to receive
+none of them. The <persName>Commissioner </persName>relinquished a part of them to
+<persName>Austin</persName>. The part thus relinquished has been used by <persName>Austin </persName>for
+the joint benefit of the <persName>partnership</persName>; for by that means he has main-<pb n="864"/>
+tained the <placeName>colony </placeName>without creating any charge against the 
+<placeName>partnership lands </placeName>which are now clear.</p>
+
+<p><persName>Austin </persName>has used more of those fees than were so relinquished;
+and by so doing he is liable to be harrassed; and if <persName>Hawkins </persName>claims
+a part of those fees, he will have to bear his share of that liability:
+as also to bear an equal share of all the expenses of the <placeName>colony</placeName>, and
+to pay <persName>Austin </persName>for his services. This can not be done without taking
+<placeName>a part of the premium land</placeName>.</p>
+
+<p><persName>Austin </persName>never did receive $4000 for the use of the <placeName>colony </placeName>from
+<persName>Hawkins</persName>; and he did furnish about $1600 which, on a rigid 
+settlement, <persName>Hawkins </persName>would be accountable for. <persName>Austin </persName>is not liable for
+the money spent in the expeditions of <persName>Littleberry Hawkins</persName> and <persName>John
+Botts</persName>; nor for the interest paid by <persName>Hawkins</persName>.</p>
+
+<p>It would be the work of many years, and of endless expense, to
+bring this matter to a judicial or litigated settlement; and I am
+confident that such a settlement, in any court of justice, would in
+volve <placeName>more than one half the premium land </placeName>to square the accounts
+of the <placeName>colony </placeName>if they were justly, stated; besides the delay and
+expense.</p>
+
+<p>I therefore think that in offering to divide the <placeName>premium land,
+twenty two leagues and a half, and three labors</placeName>, deducting the
+expenses of surveying it, I offer at least one half more than could
+be recovered in any <placeName>court of justice.</placeName> The original expenses of 
+surveying the premium land are a just charge against it: they were
+paid by me in <date n="xx-xx-1824">1824 </date>and <date n="xx-xx-1825">1825</date>. More than this I am unwilling to do;
+and in doing this I consider that I am relinquishing a part of what
+justly belongs to me; for if a fair allowance were made to me, I
+should be entitled to a considerable portion of <persName>Hawkins</persName>' part of the
+<placeName>premium land</placeName>. The truth is, that I could have done all that I have
+done, had I never known <persName>Hawkins</persName>, nor received one cent, nor aid,
+from any <placeName>quarter </placeName>beyond my own resources.</p>
+
+<p>Difficulties present themselves as to the manner of making this
+settlement. Ever since <date n="xx-xx-1824">early in 1824</date> I have repeatedly requested,
+and urged often and often, that an <persName>Agent </persName>might be sent out to settle
+this business. The delay has not been of my causing, or of my 
+seeking. Now after so long a period <persName>Mr. Martin</persName> is sent with very 
+imperfect powers. <persName>George </persName>is not represented at all. The original 
+contract between me and <persName>Hawkins </persName>is not produced: I never had a copy
+of it:&#8212;there was but one made out and that <persName>J. H. Hawkins</persName> retained.
+<persName>Edmund Hawkins</persName>, who is here present, is not competent to settle
+his own share of the business, for by the laws of this <placeName>country </placeName>he is
+a <persName>minor </persName>until he is twenty five years of age, and is therefore 
+incompetent to bind himself, or any one else. He can not legally hold the
+<placeName>land </placeName>after it is divided: he will have to appoint a <persName>guardian </persName>in the<pb n="865"/>
+manner prescribed by law, and this <persName>guardian </persName>will have to attend
+to this part of the business.</p>
+
+<p>I wish to make a final settlement of this matter, and will do every
+thing to effect that object which will be legal and finally binding
+on all <persName>parties</persName>.</p>
+
+<p>I make this statement to correct the erroneous impressions which
+the <persName>parties </persName>interested in this Business appear to have received from
+common rumor; and to show that, on my part, every thing has been
+done which circumstances would admit to protect the interests of
+<persName>Hawkins' estate</persName>. Also it ought to be remembered that I requested
+a settlement of this business since soon after <persName>Hawkins</persName>' death, and
+that I could long since have brought it to a settlement by a judicial
+process. The delay has been very injurious and very harrassing to
+me, but it has been beneficial to the <persName>estate</persName>.</p>
+
+<p>There is another erroneous idea relative to the business of 
+colonization in <placeName>Texas</placeName>. Many believe that actual <placeName>grants </placeName>are made by the
+<persName>Govt</persName>, of <placeName>large tracts of land, or sections of country</placeName>, to individuals
+who are denominated in the Law <persName>Empresarios</persName>; and that these 
+<persName>individuals </persName>can sell this land. This is all a mistake. It is also wrong
+to call them <placeName>grants</placeName>: they are nothing more than Trusts by which the
+<persName>contractor </persName>or " <persName>empresario </persName>", is constituted the <persName>agent of the Govt</persName>, to
+settle a certain number of <persName>families </persName>of a particular description, in
+certain designated limits, within a limited time. If he comply with
+this contract, he will then, and not before, be entitled to receive a
+certain quantity of land as a <placeName>grant</placeName>, which is called <placeName>premium land</placeName>,
+for which a special title is issued to him by the <persName>government 
+commissioner</persName>. The <persName>settlers </persName>receive their titles direct from the <persName>Govt</persName>,
+through a <persName>commissioner</persName>, and not from the <persName>empresario</persName>. In the
+colonization law of <date n="xx-xx-1825">1825</date>, the contracts made between the 
+"<persName>empresario </persName>" and the <persName>settlers </persName>are guaranteed as valid, if not contrary to
+that and other laws; but in the colonization law of the <date when="1823-01-04">4th of Jany.
+1823</date>, under which my <placeName>first colony</placeName> was settled, there was no such
+guarantee.</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1832-09-14">September 14 1832</date></p>
+
+<p><persName>Stephen F. Austin </persName>  [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

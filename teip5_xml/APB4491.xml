@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4491">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 12-06-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-05">11-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 897-899
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-12-06">12-06-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Describing procedure leading to a strong petition for redress of grievances and reforms for Texas.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Austin to Samuel M Williams</p>
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Bexar </placeName><date when="1832-12-06">6 December 1832</date></p>
+<p>S.M.W.</p>
+
+<p>Dr Sir,   I arrived here on the <date when="1832-12-03">3 inst</date>&#8212;<date when="1832-12-05">yesterday </date>there was a 
+meeting of the <persName>principal citizens</persName>&#8212;that is the <persName>Chief&#8212;Erasmo [Seguin]</persName>&#8212;<pb n="898"/>
+the <persName>Navarros</persName>&#8212;<persName>Col. Elosua</persName>&#8212;<persName>Balmaceda</persName>&#8212;<persName>Flores</persName>&#8212;<persName>Garza </persName>etc, and I
+gave them an exact discription of the evils that are retarding the
+progress of <placeName>Texas</placeName>. Stated in plain terms the necessity of 
+separating from <placeName>Coahuila</placeName>, and the desire of the <persName>people </persName>generally to do so&#8212;
+and said everything I could to induce them to concur in taking that
+step at once.</p>
+
+<p>The matter was discussed and talked over with great calmness
+and interest. There was not a dissenting voice as to the necessity of
+a remidy and all agreed that a separation from <placeName>Coahuila </placeName>was the
+best, but they thought it precipitate to take that step before any
+representations of our grievances were made to the <persName>Govt</persName>. This they
+considered a necessary preliminary step. Finding that they would
+not agree to go into the meas[ure] [before] the intermediate step of
+representing had been resorted to, I urged the absolute importance
+of proceeding immediately to take that step, by the <persName>Ayuntamto </persName>of
+this place&#8212;that <hi rend="italic">All </hi>the grievances should be plainly and firmly
+stated, and that the remonstrance should terminate with a positive
+declaration that if our grievances were not fully redressed by the
+<date when="1833-03-01">first day of March next</date>, <placeName>Texas </placeName>would then proceed immediately to
+organize a <persName>local Government</persName>&#8212;they agreed to this, but thought <date n="03-xx-1833">March</date>
+too short a time and <date n="04-xx-1833">April </date>was proposed and I think will be agreed to.</p>
+
+<p>The conference was unofficial, of course,&#8212;it lasted from nine A. M.
+to 2 P. M.&#8212;they were unanimous, and I have full confidence that
+what was agreed on will be carried into effect.</p>
+
+<p>The <persName>Ayuntamto </persName>is now in session on this matter to appoint a
+<persName>committee </persName>to draw up the remonstrance, and I am of opinion that
+the [most impatient man?] in <placeName>Texas</placeName>, will have no reason [to say
+that] it is <hi rend="italic">too mild</hi>. They called on [me to] furnish the heads&#8212;
+besides those [acted] on by the convention, I have given [some?]
+others, including the whole system of the <persName>local administration</persName>&#8212;of
+colonization&#8212;of the <persName>militia</persName>&#8212;all the violations of the constitution&#8212;
+the insults offered to <placeName>Texas</placeName>, by the outrage on her <persName>representatives </persName>in
+<date n="09-xx-1830">Sept. 1830</date>&#8212;the law No. 50&#8212;the retail law, the insult offered to the
+<persName>Lieut. Govr </persName>by calling a <persName>judge </persName>to exercise the government etc, etc,
+usurpations&#8212;the neglect of the <persName>Govt</persName>, towards the <persName>people to the <placeName>east
+of my colony</placeName> and in <placeName>La Bahia</placeName> etc</persName>.</p>
+
+<p>The object is to form a list of all the insults offered to <placeName>Texas</placeName>, and
+all her grievances and to <hi rend="italic">demand</hi>, full satisfaction. If it is not
+granted, <placeName>Texas </placeName>can <hi rend="italic">then </hi>say to <placeName>Coahuila </placeName>and to the <placeName>world</placeName>&#8212;we were
+insulted and oppressed&#8212;we asked redress&#8212;it was refused, and we
+have redressed * * * [If I succeed] in getting this <persName>Ayto </persName>to
+[pass] this remonstrance, as I have pro[posed] and as was agreed
+to in the conference <date when="1832-12-05">[yester]day,</date> it will place <placeName>Texas </placeName>on much better
+ground than to go into the measure now, and it will unite <placeName>this place<pb n="899"/>
+and La Bahia</placeName> firmly with the balance of <placeName>Texas</placeName>, for they will be
+so compromised that there will be no backing out, even if they wished
+to do so; which they will not, for they are as anxious for a 
+separation as we are, but wish to show to the world that they are right,
+and stand on just ground in case force must ultimately be resorted to.</p>
+
+<p>I will return as soon as this matter is concluded.</p>
+
+<p><persName>Ramon Musquis</persName>, after all, is one of the <persName>best friends to <placeName>Texas </placeName></persName>and
+the truest that lives in this place and he deserves the confidence of
+the <placeName>Colony </placeName>and of <placeName>all Texas.</placeName></p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+
+<p><persName>Arciniegas family </persName>are [well] Some one stole five dollars of the
+money   *   *   *.   I paid it to make it $40.</p>
+
+<p><persName>Committee: Angel Navarro, Cosiano of the Ayto., Erasmo,
+Balmaceda, and Antonio Navarro.</persName></p>
+
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

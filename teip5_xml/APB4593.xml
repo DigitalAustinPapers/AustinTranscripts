@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4593">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 08-21-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 999-1001
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-08-21">08-21-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Averted cholera attack. Reforms for Texas when Congress reconvenes. Robertson colony troubles. Instructions for locating a land grant where Austin wished to establish an academy. Warns against speculation. Has suffered much abuse; willing to surrender the lead to others.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Mexico </placeName><date when="1833-08-21">Augt. 21. 1833</date>   Wednesday</p>
+<p>Dr Sir,</p>
+
+<p>Yours of <date when="1833-07-13">13 July</date> came to hand <date when="1833-08-20">yesterday </date>via <placeName>vera cruz</placeName>&#8212;it was a
+relief to me for I began to think the cholera had taken you off. I
+recd the two letters of credit on <persName>E W Gregory</persName> of one thousand 
+dollars and have not used them yet, but expect shall have to do it in
+part, at least.</p>
+
+<p>What are considered promonitory simptons of cholera gave me
+warning since <date when="1833-08-12">monday of last week</date>. I was then much engaged in
+trying to get the 11 article of the law of <date n="0406-1830">6 april</date> before <persName>congress </persName>in a
+favorable shape and it was to have been sent in on <date when="1833-08-14">Wednesday</date>, but
+the cholera prevented a meeting and has done so ever since on that
+day I fatigued myself very much indeed. This brought my 
+simptons to a crisis, for I was taken about 3 o'clock P. M. with excessive
+purging of a whitish mucos character, great pain in bowels, cold
+feet, legs, hands, etc, pains over the body&#8212;no cramps&#8212;moderate
+vomiting&#8212;this was evidently the first stage of this desease and
+would probably have passed into the collapse in a short time. It
+was at this moment I closed a few lines to you by the last mail and
+applied cholera remidy&#8212;in about 3/4 of an hour I was releived by a
+fine perspiration which I think saved my life, for others have died in
+less than one hour whose simptons were similar to mine. This
+desease prostrates the strength to a most astonishing degree. I find
+that I sensibly feel the effects of the billious attacks I have had in
+<placeName>Texas </placeName>and the quantity of calomel etc I had to take&#8212;my stomach
+is so debilitated that I have to diet with great caution to avoid a
+relapse.</p>
+
+<p>I think I shall go out <date when="1833-08-22">tomorrow </date>to <placeName>Tacubaya</placeName>&#8212;two leagues, where
+<persName>Genl Mason</persName>&#8212;<persName>Butler </persName>and many others have retired some time since&#8212;<pb n="1000"/>
+all kind of business is suspended. I must wait untill the cholera
+subsides.   I fully believe that 11 article of law of <date when="1830-04-06">6 april 1830</date> will
+be repealed in a few days after business is resumed again and the
+state question I think will be placed on favorable grounds and will
+also succeed&#8212;tho I may be deceived.</p>
+
+<p><persName>Sterling Robinson [Robertson]</persName> has presented to the <persName>State Govt
+</persName>a long memorial about his business in which there are depositions
+taken before <persName>Chrisman </persName>to prove that he introduced a great number
+of <persName>settlers </persName>which I took away from him etc. how he could get men to
+state such falsehoods or <persName>agents </persName>to advocate and arrange them I am
+at a loss to imagine&#8212;it has really surprised me&#8212;it seems that I
+shall never learn to suspect mankind or to know, untill I am driven
+into mysanth[r]opy.</p>
+
+<p>As to the man you talked with at <placeName>Orleans </placeName>who said he would take
+a different course and induce his <persName>brother </persName>to do so&#8212;I can only say
+that God can certainly change the <persName>negro </persName>to a <persName>white man,</persName> but that is
+a miracle not common in our days, what I mean is that envy,
+jealoucy, malignity when once deeply fixed in the human heart and
+fostered by boyish and silly vanity, are not easily rooted out, nor
+easily controuled.</p>
+
+<p><persName>The holders of <placeName>11 L. grants</placeName></persName> ask three four and even $10000 for
+them&#8212;que tal&#8212;many of them will be lost for <date n="10-xx-1833">October </date>is the limit
+for the locations. I am anxious to secure the<placeName> 11 L tract surveyed by
+<persName>Brown </persName>east of colorado foot of mountains</placeName>, do not neglect this and
+put it in the name of <persName>Jose Maria Aguirre</persName> in preference to the
+others&#8212;attend to them all, I want that place to get out of trouble
+for I mean to go and live there&#8212;it is out of the way and will do for
+an <placeName>academy </placeName>scheme with which I can amuse myself and do good to
+others. I have not seen <persName>Gen Mexia</persName> he is with <persName>Santana</persName>&#8212;<persName>Zavala </persName>is
+at <placeName>Toluca</placeName>, has only been a few hours in <placeName>Mexico </placeName>since I arrived he
+will be in after the cholera is over. <persName>Mexia </persName>is the most firm 
+<persName>republican </persName>there is in this <placeName>country </placeName>and I believe one of the most honest
+and best men in it&#8212;they are both <persName>friends </persName>of the state question. <persName>Don
+Victor</persName> has been more bitter than anyone I have heard of&#8212;he is now
+much softened down and is not a violent <persName>enemy</persName>. He is a decided
+friend to the repeal of the <date when="1830-04-06">april law</date>.</p>
+
+<p>Close all the important <placeName>colony </placeName>business as quick as possible, and
+keep clear of <persName>speculators</persName>, they are <persName>friends </persName>just so long as is 
+necessary to get a hold on one, by which ruin or disgrace can be brought
+on and no longer&#8212;caution <persName>John </persName>against all <persName>speculators </persName>and take
+care not to involve me or my name. I had rather herd with vermin
+than with that class of human beings.    Write to <persName>Perry </persName>that I am<pb n="1001"/>
+well&#8212;and think that I am cholera proof. I hope they may be fever
+proof <date n="xx-xx-1833">this year</date>, but I tremble for them after the overflow&#8212;they
+ought to go to <placeName>chocolate bayou</placeName>. No one writes to me. I know not
+whether you are all dead or alive. I got one letter from <persName>John </persName>late
+in <date n="06-xx-1833">June</date>&#8212;this is the only one&#8212;how is<persName> little Stephen</persName> and<persName> Henry
+Austins family</persName> and my <persName>sister </persName>and how is <persName>Perry </persName>getting on at <placeName>peach
+point </placeName>and a thousand things that someone might write me.</p>
+
+<p>I hope <persName>Sarah </persName>and <persName>children </persName>are all well and all goes on harmoniously.
+I shall spare no labor on this trip, for it is my last&#8212;others are
+desirous to take the lead and I am quite anxious they should. I
+confess that I am tired of abuse which I never have merrited, and
+do what I may I expect nothing else from one set in <placeName>Texas</placeName>, tho
+they are poor devils, unprincipled, brutal and ungenerous and 
+ungrateful&#8212;with all the errors and infernal <persName>Spanish </persName>prejudices and
+ignorance of these people, I cannot help but feel a great anxiety
+for their welfare and prosperity&#8212;they wish to be free and to be
+like the rest of the<placeName> civilized world </placeName>and I think it is more noble to
+try and aid them and encourage, than to abuse and ridicule. Do try
+and soften some of our <persName><hi rend="italic">rough boys</hi></persName> as to the <persName><placeName>Bexar </placeName>people</persName>. I assure
+you that all <placeName>Texas </placeName>is greatly in debt to <placeName>Bexar </placeName>for the remonstrance
+of <date when="1832-12-19">19 Decr last</date>&#8212;that paper was reprinted here and has had more
+weight in favor of <placeName>Texas</placeName>, than all that has been done or said. I
+doubt much whether the memorial of the convention would have
+been even looked at, had not the minds of <persName>Govt</persName>, been prepared by
+the<placeName> Bexar</placeName> representation. It came from <hi rend="italic"><persName>natives </persName></hi>and is believed. I
+was fully aware of all this&#8212;an therefore wasted so much time and
+pains to effect that object for which some of our <hi rend="italic">boys </hi>abused me&#8212;
+vaya. I hope soon to be once far in beyond their reach&#8212;two trips
+to <placeName>Bexar </placeName>in the dead of <date n="Winter-1832">winter </date>exposed to rain and <persName>Indians</persName>, and a
+trip to <placeName>Mexico </placeName>all on my own expense, and get brutal slander for
+pay&#8212;none but a fool, a poor devil wrould continue to serve people
+who treated him in that way, or would suffer others to do it. I will
+however do my duty and serve them faithfully, at the risk of life and
+all I am worth. I have undertaken to do it and I will do it&#8212;but for
+the future I will try and look to my own comfort a little more and
+keep myself free from such enormous responsibilities which none
+but an honest and liberal man can comprehend or appreciate. I
+ought to despise my <persName>slanderers </persName>and do despise them, but it sours me
+with human nature. I am too apt to run into extremes. I followed
+conciliation to a great extreme from a sense of duty to the <persName>settlers</persName>&#8212;
+and I am not in danger of falling into its opposite extremes.</p>
+
+<p>[Stephen F. Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

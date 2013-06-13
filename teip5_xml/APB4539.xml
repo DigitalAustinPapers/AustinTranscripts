@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4539">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Jose Antonio Mexia to Stephen F Austin, 03-27-1833</title>
+            <author>
+                <persName>Jose Antonio Mexia</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-11">11-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 932-933
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-03-27">03-27-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Informs Austin that he was elected to senate from Mexico and will further the interests of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1833-03-27">27th. March 1833</date>.</p>
+<p><persName>Stephen F. Austin Esqre.</persName></p>
+
+<p>My dear Friend. I take the pen in my hand to direct a few lines
+to <placeName>Texas</placeName>: which part of the <placeName>Republic </placeName>I so much cherish and in
+which fate I am so much interested.</p>
+
+<p>As I told you in my previous letter, I am in the <placeName>Senat of the
+Union</placeName> for which station I was named by two <placeName>States </placeName>though the valid
+election has been that of <placeName>Mexico </placeName>by reason ot vicinity. You and the
+other <persName>friends in <placeName>Texas</placeName></persName> may have no doubt that <persName>Jose Antonio Mexia</persName>
+will employ all the influence that he may have, in favor of those
+<placeName>Colonies </placeName>as well as to take away and destroy all the hinderances
+which were opposed to their improvement and prosperity by the
+mean and low of <persName>Bustamente's administration</persName>.</p>
+
+<p>So soon as the ordinary sesions of the <persName>Congress </persName>may begin I 
+intend to try how a law of colonization may be issued as liberal as
+possible to promote by these means the increase of the population in
+<placeName>Texas </placeName>and its future happiness. Perhaps some memoranda that you
+should send me, would be useful to get myself perfectly instructed of
+such measures as might be adopted for the attainment of our 
+desirable object,   You know, better than any other person whatever, what<pb n="933"/>
+<placeName>Texas </placeName>wants, and of course you can give me better than any body else
+such light as may be necessary to obtain a favourable result.</p>
+
+<p><persName>Padre Moldoon</persName> presented himself to me a few day ago saying
+that he came as <persName>Commissioner </persName>from you and the <persName>Colonists</persName>, to ask for
+the derogation of the Law of <date when="1830-04-06">6th of April</date>. Perhaps the 
+circumstances are not at present the best for him to obtain a good despatch,
+nor do I believe indeed, that you have commissioned him for any
+thing.</p>
+
+<p>You may consider me, my friend, as interested in the welfare of
+<placeName>Texas </placeName>as any of its <persName>inhabitants</persName>, and you may believe that I am very
+sorry that my political affairs prevent my going to begin my <placeName>farm
+at Atascosito</placeName> or my <placeName>house at Brazoria</placeName>.</p>
+
+<p><persName>Geo. Fisher</persName> wished with such ardour to go to his destination in
+<placeName>Anahuac</placeName>, notwithstanding that I tried to persuade him not to do
+such a thing, that at last I had to give him a letter for your. He
+is gone, but I think <persName>Filisola </persName>will not let him pass farther than 
+<placeName>Matamoras </placeName>because he told me before going that he would not permit him
+to enter <placeName>Texas</placeName>.</p>
+
+<p><persName>Filisola </persName>is the best <persName>chief </persName>that you could have wished&#8212; Treat him
+with the same frankness with which you have treated me, and let
+all persons of some consideration in your <placeName>colony </placeName>be his friends.</p>
+
+<p>Our <persName>Santa Anna</persName> has at last been elected <persName>President </persName>by the votes
+of <placeName>16 States out of the 20</placeName>, of which the Union is composed. The
+<persName>Vice President</persName> is<persName> Don. Valentin Gomez Farias</persName> by the votes of <placeName>U.
+States</placeName>. <persName>Santa Anna</persName>, it appears, is determined not to admit the
+Presidency but the <persName>Congress </persName>will not admit his resignation and he
+will have to come up to the <placeName>Capital </placeName>for his inauguration.</p>
+
+<p>I would wish that a commission might come from <placeName>Texas </placeName>
+composed of individuals from all the <placeName>colonies</placeName>, to which I would join
+here as <persName>member </persName>should I was named for it, to present to the <persName>General</persName>
+the most cordial compliments and good wishes, as well for the 
+triumph attained by him against tiranny as for the good election of
+the <placeName>Republic </placeName>choicing him for his <persName>first magistrate</persName>.&#8212;You are well
+aware that a public testimony of this nature would be of great 
+convenience and perhaps useful to all interests. It would be desirable
+that you should come with the Commission&#8212;</p>
+
+<p>Pray write me by every opportunity and have the goodness to
+give direction to the Inclosures. Do not forget that you promised
+me a piece of <placeName>land in your Colony</placeName> and that a promise is a debt.</p>
+
+<p>My compliments to our common friend <persName>Williams </persName>and to <persName>Don.
+Juan your Brother</persName>, and consider toe always
+Your affectionate friend</p>
+
+<p><persName>José Antonio Mexia </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

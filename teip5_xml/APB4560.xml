@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4560">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 04-21-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-21">11-21-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 959-960
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memoranda</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-04-21">04-21-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Parting memoranda,</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Brother</persName></p>
+
+<p>I have a good many clothes in my trunks&#8212;the most of which will
+do For the boys&#8212;take care of them all and give to <persName>Austin </persName>or <persName>Joel</persName>
+such as will suit them.</p>
+
+<p>They ought to be all taken out of the trunks they are in and put in
+another, that has no papers in for they are now all mixed up with
+old letters and papers none of which must be lost</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><date when="1833-04-21">April 21, 1833</date></p>
+<p>I send a horse and saddle and bridle by <persName>Simon</persName>I wish you to
+keep or sell the horse   he is a good one&#8212;   Keep the saddle and bridle
+yourself for your own use</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>I have three swords one Silver mounted&#8212;one metal scabbard and
+one dress sword&#8212;</p>
+
+<p><persName>S.F.A</persName></p>
+
+<p>I have this moment recd, information that new disturbances have
+broken out in <placeName>Mexico </placeName>and that the <persName>troops </persName>who were ordered to
+<placeName>Texas </placeName>have been recalled to <placeName>Mexico</placeName>&#8212; I think this news is true so
+that nothing is to be feared from <persName>troops</persName>&#8212; I will write from <placeName>Bexar</placeName>
+the particulars should this be true as I suppose they will know
+there.<pb n="960"/></p>
+
+<p>Take care of the cholera and keep all quiet here at <placeName>home </placeName>and there
+is no danger from <placeName>Mexico</placeName>&#8212; At least you shall all have timely notice
+before it can reach you, if there is&#8212;</p>
+
+<p><persName>S. F. A.</persName>&#8212;</p>
+
+<p><persName>Hunter </persName>took my saddle bags and never returned them&#8212; I wish
+you to take care of the bridle that <persName>Simon </persName>has as I like the bit&#8212;it
+is a good one&#8212; <persName>Williams </persName>rides down the little Grey&#8212;he is a
+favourite&#8212; I give him to <persName>Emily </persName>for her riding horse and she
+must not let any one else ride him nor have him abused&#8212; he is
+fresh shod and I intended to have taken him with me&#8212; he is a
+good horse&#8212;</p>
+
+<p><persName>S.F.A</persName></p>
+
+<p>[Addressed:] <persName>James F. Perry</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
