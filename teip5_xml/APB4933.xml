@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4933">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R R Royall to Stephen F Austin, 10-10-1835</title>
+            <author>
+                <persName>R R Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 172-173
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-10">10-10-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Efforts to fill orders for cannon and munitions</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1835-10-10">10th October 1835</date></p>
+
+<p><persName>Col. Austin and the Comdt. at <placeName>Head Quarters</placeName></persName>.</p>
+
+<p>Your Letters have been received up to the time of <persName>Col Austin</persName>s from
+<placeName><persName>Mosely</persName>'s</placeName> on the <date when="1835-10-08">8th Inst.</date> We have sent copies of all Important news to
+Every Part of Texas which we thought necessary to Communicate with&#8212;
+By <persName>Doctr Wallace</persName> we wrote early this morning to <persName>McKinney </persName>and <persName>Committee 
+of Columbia</persName> <date when="1835-10-10">to day</date> we send by <persName>Col Ward</persName> (who however will go slow)
+an address to the <persName>Committees </persName>and <persName>Volunteers </persName>Eastward Requesting him to 
+Read it to all the <persName>Volunteers </persName>he may meet.</p>
+
+<p>The Cannon at <placeName>Tinoxticlan </placeName>we are Pretty well assured was Bursted by
+the men Out on the <persName>Indian </persName>Campaign. Early <date when="1835-10-10">this morning</date> <persName>Mr. Bartleson</persName>
+left for the Canon at <placeName>Harrisburg </placeName>and assures us it shall be on the way before
+<date when="1835-10-11">tomorrow night</date>. I would have written to the <persName>Committee at Columbia</persName> for
+one piece of Artilery But I am opposed upon the plea of the Insecure
+situation of that <placeName>Country</placeName>. If however you direct it they will send it.<pb n="173"/></p>
+
+<p>I will Enquire as much as I can and If I find it not a fact that the Cannon
+at <placeName>Tinoxticlan </placeName>is Bursted will send for it with all dispatch. <persName>Majr Gray</persName>
+takes some Powder etc.&#8212;We Received a <persName>member from <placeName>Trinity</placeName></persName> this 
+morning to the <persName>Council </persName><persName>Pettus </persName>is a way and we cannot organize sooner than
+<date when="1835-10-11">tomorrow </date>though I have assumed the appearances all alone.</p>
+
+<p><persName>R R Royall [Rubric]</p>
+<p>Member of the Council</persName></p>
+
+<p>N B I wrote <date when="1835-10-09">yesterday </date>by <persName>Capt Scott</persName>. I hope the Powder cannon etc.
+will soon be on the way from <placeName>Matagorda</placeName></p>
+
+<p><persName>R R R</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

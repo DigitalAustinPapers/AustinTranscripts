@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4931">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Gail Borden, Jr. to Stephen F Austin, 10-10-1835</title>
+            <author>
+                <persName>Gail Borden, Jr.</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-27">03-27-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">American Camp, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 170-171
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-10">10-10-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">TODO</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Office </placeName><date when="1835-10-10">10th Oct 1835</date></p>
+<p>Saturday Evening.</p>
+<p><persName>Col. Austin</persName></p>
+<p>Dear Sir</p>
+
+<p>Yours of the <date when="1835-10-08">8th</date> written at <placeName><persName>Moseley</persName>s</placeName> came to hand <date when="1835-10-09">last evening</date>. To 
+dispatch business I proposed to the <persName>Committee </persName>and <persName>council </persName>that <persName>Mr Givens</persName> and
+I would dispatch the articles which you sent for&#8212;and I would write to
+<persName>McKinney </persName>which I did in your name and my own. I believe we have sent
+you what you wanted and put up in as good order as circumstances would
+permit.</p>
+
+<p><persName>Express </persName>was sent post haste to <placeName>Nacogdoches</placeName>.<persName> Mr. Batterson</persName> went to
+<placeName>Harrisburg </placeName>himself to bring Cannon.</p>
+
+<p><persName>Committee </persName>and <persName>Council </persName>have also sent to <placeName>Matagorda</placeName>.<pb n="171"/></p>
+
+<p>Supposing the <persName>Council </persName>have written you particulars I say no more on
+the subject of the <persName>express</persName>&#8212;</p>
+
+<p>We send you some new documents&#8212;And the letter from <persName>Cos </persName>and one
+from <persName>Padilla </persName>and another from <persName>Capt Collinsworth</persName>.</p>
+
+<p>Ought not <persName>Cos</persName>' two leeters be published as also your answer? If so,
+send them back the first opportunity, and all other matter which you
+wish published. Our <placeName>paper </placeName>did not come out till <date when="1835-10-10">this evening</date>. <persName>Col Ward</persName>
+could not wait, and we have hired an <persName>express </persName>to carry the <placeName>papers </placeName>till his
+carriage is over taken.</p>
+
+<p>Though it is indispensable that I should devote most of my time in the
+<placeName>land office</placeName> yet I am willing to contribute what I can.</p>
+
+<p><persName>Mr Baker</persName> says he ought to be in the <placeName>Camp </placeName><persName>brother Tom</persName> says he also
+should be with you but indeed if they leave we never can get along with
+the <placeName>paper </placeName>which is of more importance than their services can be in the
+<placeName>Camp</placeName></p>
+
+<p>They say it will be said, we do not turn out. But we work night and
+day&#8212;<persName>Mr Toy</persName> has scarcely slept for two night.</p>
+
+<p>You can represent the matter if you hear anything said. I shall 
+endeavor to prevent their going, for my maxim is Do the best for my 
+<placeName>country</placeName>, praise or no praise.</p>
+
+<p><persName>G. Borden Jr. </persName>[Rubric]</p>
+
+<p>[Addressed:] <persName>Col. S. F. Austin</persName><placeName> American Camp. Texas.</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
