@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4065">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Frost Thorn to Stephen F Austin, 10-29-1830</title>
+            <author>
+                <persName>Frost Thorn</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-31">08-31-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Colo Ruis
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 524-525
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-10-29">10-29-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Colonel Piedras inclined to exclude colonists from Texas. Suggests procedure.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogs </placeName><date when="1830-10-29">29 Oct 1830</date></p>
+<p>Dear Sir</p>
+
+<p><persName>Coln Piedras</persName> it appears has of late received orders, not to suffer
+any persons to pass here, unless they have actually made a Contract,
+either with yourself or <persName>Dewitt</persName>; or have a passport, from the <persName>Mexican
+Consul</persName>&#8212;in case of a previous Contract being made he requires 
+Documents to that effect-&#8212; <hi rend="italic">He has a strong disposition to strictly
+adhere to his order</hi></p>
+
+<p>The <persName>bearer </persName>brot with him such voucher as the Colonization Law
+required&#8212;and presented himself to the <persName>Alcalde </persName>but it appears the
+<persName>Ayuntamiento </persName>have not the power of judging of the qualifications
+requisite, as the <persName>Coln </persName>took them from the <placeName><persName>Alcaldie</persName>s office</placeName>, and acted
+on them himself&#8212; you will readily see the embarresments, it will
+place those Innocent <persName>persons </persName>under, that Emigrate to the <placeName>Country</placeName>
+in good faith; and rarely with much surplus Means&#8212; It must have
+the effect to retard Emigration and as a good wisher of the <placeName>Country</placeName>,
+I have always used my feeble exertions to encourage its settlement</p>
+
+<p>You are I presume acquainted with the late regulations on the
+subject of <p>Terans reserves etc&#8212;or I would say more&#8212; If you</p>
+have any <persName>friends </persName>Emigrating on the Road, that will pass thro this
+<placeName>place</placeName>, would it not be well to give <persName>Coln Piedras</persName> a List of the Names,
+which would supersede the necessity of there riding to <placeName>Sn Phillepe</placeName>,
+and perhaps much difficulty.<pb n="525"/></p>
+
+<p>I am induced to write to you, as I am told many <persName>families </persName>are
+expected&#8212;and the advance season will not admit of there delaying
+much time on the Road&#8212;</p>
+
+<p><persName>Coln S. F. Austin </persName>         <persName> F. Thorn</persName></p>
+
+<p>P. S. I start for <placeName>N. Orleans</placeName> <date when="1830-10-30">Tomorrow</date>, and expect to be absent 2 Months</p>
+
+<p><persName>F. T</persName></p>
+
+<p>as I deem it expedient that you should receive this as soon as
+possible, I send it on by mail, under the direction of <persName>Colo Ruis</persName>, for
+it is out of my power to see you myself for a few days</p>
+
+<p>[Addressed] : <persName>Coln S. F. Austin.</persName> <placeName>St. Phillipe de Austin</placeName> favd by
+<persName>Mr. [Alexander] <hi rend="italic">Thomson</hi></persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

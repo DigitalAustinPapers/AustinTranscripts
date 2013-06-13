@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4061">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Austin to Stephen F Austin, 10-24-1830</title>
+            <author>
+                <persName>John Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-30">08-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 522
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-10-24">10-24-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Personal business.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[about Ocober 24, 1830.]</p>
+<p>I have notified <persName>Eliza </persName>of your request and will attend to it, I do
+not Comprehend the whole affair if I have taken a liberty with
+the <placeName>place </placeName>to rent it etc. I thot. it yours and done what I believed
+to be of your interest, I never have received one cent of the rent
+<persName>Eliza </persName>has received it all, I have paid for some repairs making a 
+chimney, etc, If she has complained of me I wish to know it, I never had
+any other feeling for her than I ought to have had for a <persName>sister</persName>
+My conduct towards her will prove it in me she found a <persName>friend </persName>and
+<persName>protector </persName>if she complains of a liberty that I have taken with any
+thing she conceived her property I am astonished for She has taken
+as many liberties with my things as my wife and has always been
+welcome&#8212;   When I see you more can be said on the Subject&#8212;</p>
+
+<p><persName>J[ohn] A[ustin]</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4060">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mrs J E B Austin to Stephen F Austin, 10-24-1830</title>
+            <author>
+                <persName>Mrs J E B Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-30">08-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 521
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-10-24">10-24-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Personal business.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[October 24, 1830.]</p>
+<p>* * * writing now and I am anxious to know how the business
+is or will be settled. You told me <date n="Spring-1830">last spring</date> you would send me
+down a pertition to sign&#8212;for <placeName>one league of land&#8212;on Galviston</placeName>. I
+want to know if the pertition was answered&#8212;or whether you are
+autherized to grant it. I also wish to know what right <persName>John </persName>had
+to Lease out my <placeName>hous and 10-acres</placeName> for five years, that I always
+considered my property, and it is hard to give it up. I loaned <persName>John</persName>
+last <date n="Spring-1830">spring </date>My watch on a business day. he has not returned it.
+that I wish to reserve myself for <persName>Stephen </persName>his <persName>father </persName>bought it
+for him and gave it to me to keep it. the <placeName>house </placeName><persName>John </persName>knows the
+circumstance very well. I do wish you to answer my letter and
+satisfy me. <persName>Stephen </persName>is much better but still has the fever&#8212; I
+think I shall be able to break it on him to day. I must conclude by
+wishing you good health and a safe journey&#8212;</p>
+
+<p><persName>Eliza [Austin] Phillips.</persName></p>
+<p>[addressed:]<persName> Col Stephen Austin </persName>  <placeName>St. Felipe   De Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
