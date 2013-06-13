@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4132">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 01-13-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-05">09-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Leona Vicario, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 584-586
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-01-13">01-13-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Political news. Father Muldoon, vicar of Texas. Measures to protect colony from misrepresentations of George Fisher.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Leona Vicario [Saltillo]</placeName> <date when="1831-01-13">13 Jany. 1831</date></p>
+<p><persName>Mr. S. M. Williams</persName></p>
+
+<p>Dr Sir,   I arrived in this <placeName>city </placeName><date when="1831-01-16">last evening, </date>after an unpleasant
+journey <placeName>through the mountains</placeName>, owing to the cold, which has been<pb n="585"/>
+more than usually severe. My <persName>credential </persName>was presented to day and
+refered to the usual <persName>committee </persName>who will report tomorrow, and I take
+my seat <date when="1831-01-14">next day</date>. I am in good quarters, with <persName>Padre Musquis</persName> and
+the member from the <persName>Partido of Monclova (Canales)</persName>&#8212;up to this
+time, great harmony has prevailed in the <persName>Legislature </persName>among the
+<persName>members</persName>, they all appear pleased that I have come on. I hope these
+appearances may be all solid realities. I have had the pleasure of a
+visit from el <persName>Cura de Austin, y Vicario gral de Texas, Doctor Miguel
+Muldoon</persName>&#8212;he has been here about a week. I am truly pleased with
+him, he is a very intelligent and gentlemanly <persName>man</persName>, and quite liberal
+in his ideas. I must believe that if the general <persName>Govt</persName>, wished to 
+harrass us, they would not have sent a man as <persName>vicar genl of Texas</persName>, who
+is so liberal and so enlightened, on religious subjects. Sin embargo,
+there are some things to be bourne in mind&#8212;he has always been the
+warm and bosom friend of <persName>Genl Teran</persName>, and as I am told of <persName>Alaman</persName>&#8212;
+but he is also a great favourite of both <persName>Agustin </persName>and <persName>Govr Viesca</persName>, who
+have known him intimately several years, and speak highly of him,
+he puts up at the <persName>Govrs</persName>&#8212;he has been accustomed to the best society
+in <placeName>Mexico </placeName>and in <placeName>Europe</placeName>, the Society of the <persName>nobility </persName>and <persName>gentry</persName>,
+and I fear he will think us rather a rough set in <placeName>Texas</placeName>. I should
+prefer that he take lodgings with you, on his first arrival, untill a
+<placeName>house </placeName>can be prepared for him, and there ought to be no delay in 
+preparing one. <persName>Col Butler</persName> has recommended him to me in the strongest
+terms, and I do assure you that I am greatly pleased with him. He
+says that there will be a very considerable imigration from <placeName>Mexico</placeName>
+to <placeName>Texas </placeName>composed of the <persName>first families of the <placeName>City</placeName></persName> in point of wealth
+and standing, querie&#8212;is it not probable that the <persName>white portion of
+the Mexicans </persName>look towards <placeName>Texas</placeName>, as a retreat in case the <persName>indians of
+the South </persName>should finally succeed?&#8212;pueda ser. <persName>Jorge [Fisher]</persName> is
+writing a book at <placeName>Matamoros </placeName>to prove to the Govt, what the <persName>American
+Settlers</persName> and<persName> Col A&#8212;</persName>&#8212; are. The ground he takes is that he was 
+persecuted by a faction of which I was the head&#8212;that the mass of the
+<persName>settlers </persName>are my <persName>enemies </persName>and are opposed to me, that the publication
+by the <persName>Ay</persName> to is all false etc&#8212;that the <persName>settlers </persName>are bad immoral, and
+only want a pretext to rebel etc&#8212;I give you this as I have heard it
+from a person who was some time in <placeName>Matamoros</placeName>&#8212; Should any
+such publication be made, I would recommend that the <persName>Ayto</persName>. call the
+whole <placeName>colony </placeName>together in masse by a notice published in the <placeName>Gazette</placeName>,
+and when they meet, that they appoint a <persName>president </persName>and <persName>secretary</persName> to
+give form to the meeting&#8212;that <persName>Fisher</persName>s publication be then taken up
+and a committee appointed to answer it in the name of the whole
+<placeName>colony</placeName>. My character belongs to the <placeName>colony </placeName>and any unjust attack
+upon me situated as I now am, is in fact an attack upon all This
+will shew that it is not a <persName>faction</persName>.<pb n="586"/></p>
+
+<p>The opinion here is that the present administration will sustain
+itself, tho on this subject I have not as yet been able to get much
+information.</p>
+
+<p>I am told that <persName>Teran </persName>is a very credulous man, and believes 
+everything he hears, if so <persName>Jorge </persName>may mislead him for a time, but if the
+<placeName>colony </placeName>stand to their posts, he will soon be undeceived.</p>
+
+<p>This letter must only be seen by a few. After I take my seat I
+will write to several and give whatever news there may be of interest,</p>
+
+<p>Be very cautious about inserting remarks in the <placeName>Gazette</placeName>, say
+nothing about <persName>Muldoon </persName>in the paper as yet.</p>
+
+<p>By <persName>Chambers </persName>I will write you more fully&#8212; he will leave in
+about a week, he is in trouble&#8212;. the <persName>Tribunal </persName>has thrown obstacles
+in the way of receiving him as a <persName>lawyer</persName>&#8212; they are of a frivolous
+nature. My opinion of <persName>Chambers </persName>is very good&#8212;he can be useful!
+in that <placeName>country</placeName>.   What has passed will be of great service to him,</p>
+
+<p>I send the grey horse by <persName>Jose Luis</persName>, and the other horse and mule
+by <persName>Chambers</persName>&#8212;I should loose them here&#8212;</p>
+
+<p<persName>>S. F. Austin  </persName>  [Rubric]</p>
+
+<p>[Addressed:] Al <persName>Sor Dn Samuel M. Williams</persName> Adiuor de correos
+de la villa de <placeName>Austin</placeName></p>
+
+<p>Por el <persName>Sor Jose Luis</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

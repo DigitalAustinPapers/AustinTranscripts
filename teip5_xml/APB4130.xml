@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4130">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 01-09-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-05">09-05-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monclova, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 581-583
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-01-09">01-09-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-05" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Political news, instructions about locating land for Mexican officials.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monclova </placeName><date when="1831-01-09">Jany 9 1831</date></p>
+<p>Dr Sir.</p>
+
+<p>I arrived here <date when="1831-01-08">yesterday </date>sin novedad, and shall leave in the 
+<date when="1831-01-10">morning</date>. <persName>Dn Victor Blanco</persName> recd me in his <placeName>home </placeName>with great friendship
+and attention&#8212;he has truly an amiable and interesting <persName>family</persName>. I
+wrote you by <persName>Madero </persName>that <persName>Dn Victor</persName> would appoint you his <persName>agent </persName>to
+select his <placeName>land</placeName>&#8212;by this mail he will send you a power of attorney
+to act as his <persName>agent</persName>, and also as the <persName>agent </persName>of many <persName>others</persName>. I most
+particularly request that you will try and make good selections for<pb n="582"/>
+<persName>Dn Victor</persName>, lie wants the most of his <placeName>land on the Trinity</placeName> low down
+or on <placeName>San Jacinto</placeName>. This <persName>gentleman </persName>is a very warm and sincere
+<persName>friend </persName>and I hope you will spare no pains to get good selections
+for him</p>
+
+<p>The accounts given to me here by <persName>Dn Victor</persName>, <persName>Tijerina </persName>and <persName>others</persName>,
+as to the general aspect of political affairs, amount in substance to
+this&#8212;-that the present <persName>administration </persName>have all the effective portion
+of the <persName>Army </persName>and all the <persName>Legislatures </persName>and <persName>Governors </persName>of all the <placeName>States</placeName>
+in their favor, and most of the Talents and wealth of the nation.
+They are of opinion that the present <persName>Govt</persName>, will sustain itself and
+that <persName>Guerrero </persName>must soon be put down entirely. <persName>Dn Victor</persName> and <persName>others</persName>
+here, think that this <persName>administration </persName>is not hostile to <placeName>North American</placeName>
+emigration to <placeName>Texas</placeName>, and that the present restrictions will be 
+removed before this year concludes. They all say that my <placeName>Colony</placeName>
+stands very high with the Govt, both in <placeName>Mexico </placeName>and in <placeName>Saltillo</placeName>. The
+answer of our <persName>Ayto </persName>to that of <placeName>Leona Vicario</placeName> has given general
+satisfaction to all intelligent and reflecting men and has raised our
+character more than you have any idea of. The <persName>Senate </persName>has 
+approved of <persName>Carrillo</persName>'s credentials as Senator, <hi rend="italic">unanimously </hi>, not one
+vote in favor of the Jalapising System proposed by the <persName>Saltilleros</persName>.</p>
+
+<p>In <placeName>Rio Grande</placeName> and in this <placeName>place </placeName>(the only <placeName>towns </placeName>I have passed
+through) I have been treated with more attention and respect than
+I had any reason to expect. The opinion here is that <persName>Teran </persName>will
+not go to <placeName>Mexico</placeName>, he that he will proceed to <placeName>Texas </placeName>in a short time.
+The <persName>enemies </persName>to <placeName>North American</placeName> emigration are beginning to suspect
+that he is more friendly to them than they wish etc. etc. I give
+these ideas as I have recd them. You see that they differ very much
+from those intertained in <placeName>Bexar</placeName>. When I get to <placeName>headquarters </placeName>I
+shall be able to form some certain opinion on these subjects, in the
+meantime it is best to pursue a prudent and silent course as to all
+matters of politics.</p>
+
+<p>The <placeName>town at the crossing of the upper road on the Colorado</placeName> is yet
+to name. I wish you would request <persName>Arciniega </persName>not to name it until
+he hears from me on the subject.</p>
+
+<p>My <persName>colleague Padre Murquis</persName> passed here on the <date when="1831-01-08">8d of this month</date>,
+I am told he intends to ask leave to resign, but <persName>Dn Victor</persName> thinks that
+it was under a belief that I would not come on.</p>
+
+<p>Try and get the<placeName> coast colony</placeName> out of the way, before <persName>Arciniega </persName>gets
+there so that you may have nothing to interfere with the other
+business.</p>
+
+<p>The <placeName>mountains round this place</placeName> are white with snow and ice and
+the weather very cold and wet&#8212;my health is good.    The horses stand<pb n="583"/>
+the journey very well&#8212;corn in this place is only 75 cents to a dollar
+the fanega I again recommend <placeName><persName>Dn Victor</persName>'s land</placeName> matter to you 
+particularly&#8212;that is, his <hi rend="italic">own claims</hi> the others are for his <persName>friends </persName>and
+are of secondary consideration in comparison with his, for they want
+the <placeName>land </placeName>for speculation&#8212;he wants it for his <persName>family</persName>, he has ten
+<persName>children</persName>, and a more promising <persName>family </persName>I have never seen,
+remember me to<persName> Mrs. Sweet</persName> and <persName>Sarah</persName></p>
+
+<p><persName>S F Austin </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
