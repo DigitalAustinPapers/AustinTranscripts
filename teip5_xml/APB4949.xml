@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4949">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Benjamin F. Smith to Stephen F Austin, 10-13-1835</title>
+            <author>
+                <persName>Benjamin F. Smith</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 179-181
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-13">10-13-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Military condition of Goliad</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Goliad </placeName><date when="1835-10-13">13th Oct. 8 O'Clock P. M. 1835</date></p>
+<p>Sir</p>
+
+<p>I have the honor to ackuowledge the receipt of your Two 
+Communications under date of the <date when="1835-10-11">11th </date>and <date when="1835-10-12">12th Inst</date>.</p>
+
+<p>The <persName>Men who Compose the Bat[talion at]</persName> this place, were extremely 
+unwilling to [remain here] and it was with difficulty on <date when="1835-10-12">yesterday </date>[they]
+were prevailed upon to Stay until [orders] could be received from <placeName>head
+quarters</placeName>.</p>
+
+<p>The orders this day recvd were rea[d] and they have concented to stay
+with [but few] Exceptions, to defend this place to the [last] extremety<pb n="180"/></p>
+
+<p>It will be imposseble for Me to Comply with your Orders Contained in
+yours of the <date when="1835-10-12">12th Inst</date>, farther than that of defending the place because we
+have but a <hi rend="italic">verry few</hi> more <persName>Men </persName>than you order to remain and no 
+Munitions of war which could possibly be Spared and besides if I were to 
+dispatch the <persName>Surplus twenty</persName>, I entertain great fears that <persName>Many others </persName>would
+leave and we Should immediately be left with a <persName>trifling force</persName>.</p>
+
+<p>That you May be fully informed of the true State of the arsonal when
+<placeName>this place</placeName> was Captured, that you May see My inability to furnish aid
+therefrom, I inclose you a correct Statement made by our <persName>quarter Master
+</persName>and <persName>Commissary</persName>, every Specis of arms which could be made usefull and
+Efficient have been put in requisition, for the purpose of arming our [own]
+<persName>Men </persName>and Some <persName>Mexicans </persName>of this place . . . [com]manded by <persName>Padilla</persName>
+and <persName>Placidore the Alcalde of <placeName>Guadaloupe Victoria</placeName></persName> who have Volunteered
+in our cause.</p>
+
+<p>The <persName>Mexican Volunteers</persName> are not included [in] our Numbers to Make
+the <persName>hundred and Twenty [men]</persName>, because we know Not as yet how far they
+may be relied upon in as Much as Some of them are the <persName>prisoners </persName>who were
+captured here, who have been released at the request and by the desire and
+on the pledge of <persName>Padilla</persName>&#8212;It Seems to be the General opinion among the
+<persName>intelegent Mexicans</persName> here that <persName>Coss </persName>will Make a desparate Effort to regain
+this place. How far this is correct I am Not prepared to Say. They 
+believe this because they Conceive it to be the Connecting link between
+<placeName>Bexar </placeName>and <placeName>all the Coast</placeName>.</p>
+
+<p>Supplies of provisions are Scarce but every exertion will be Made to
+Secure a Sufficient quantity in order to enable us to Stand a Siege
+Annexed to the Statement of arms etc you will find a Statement of Men
+and arms at <placeName>Bexar </placeName>as taken from public documents, here and suppose by
+other testimony which is Conceived to be entitled to Credit, you will 
+discover from that Statement that the Number is Much greater than was 
+anticipated by any of us though the last 500 Named are admitted to be 
+Exteremly inefficient</p>
+
+<p>In my communication of <date when="1835-10-12">yesterday </date>you were informed that <placeName>Guadaloupe</placeName>
+and <placeName>this place</placeName> had voluntarily declared in favour of the Constitution of <date n="xx-xx-1824">24</date>
+and against Centralism,</p>
+
+<p>The walls of the <placeName>fortification </placeName>here is in a perfect recked State and 
+requires considerable repairs to Make it in any way tenable but we Shall use
+all posseble exertion to put it in a cituation for defence and Should they
+Make an attact upon us we will defend it to the last Moment but I presume
+they will attempt to Starve us out for with a <persName>large force</persName> they can cut off<pb n="181"/>
+our Supplies of water and provisions and you of course will be apprised
+of their Movements and will act accordingly</p>
+
+<p><persName>Benj. F. Smith Col. Comd</persName>,</p>
+<p><persName>Genl. S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Genl. S. F. Austin</persName> <placeName>Where ever he may be</placeName> By <persName>Express</persName></p>
+<p>[Report of Arms Captured at Goliad]</p>
+
+<p>The following report and list of armament is returned by the 
+undersigned in conformity with an order of the <persName>Col. Commanding</persName> Which is as
+follows</p>
+
+<p>6 Saddles&#8212;Serviceable, with trifling repairs</p>
+
+<p>1 Barrell Musket cartridges servesable for close [quarters]</p>
+
+<p>100&#8212;41b Shot&#8212;</p>
+
+<p>44 Lance Heads	
+From 100 to 200 Bayonett
+these two articles will be very usefull in case of a charge  </p>
+
+<p>200 Stands of Muskets and Carbins&#8212;Some of which Might be made
+Serviceable by small repairs but the greater part are broken and
+entirely useless.</p>
+
+<p>A lot, old broken Cartridge Boxes and Rusty camp kittles all unfit for
+use old Iron etc. etc.</p>
+
+<p><persName>Ira Ingram Comg</persName>.</p>
+<p><placeName>Goliad </placeName><date when="1835-10-13">Oct. 13th 1835</date></p>
+<p>A true Coppy) :</p>
+<p>Statement of arms and munitions of war at <placeName>Bexar</placeName></p>
+<p>500 Muskets 
+300 Carabines 
+800</p>
+
+<p>2	41b Ps. Artilery with 288 Ball Catridges 192 Grape
+ammunition for these Same complete</p>
+<p>400 Cavilry</p>
+<p>150 Infantry</p>
+<p>500 do <persName>Recruits </persName>and others</p>
+<p>1050</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

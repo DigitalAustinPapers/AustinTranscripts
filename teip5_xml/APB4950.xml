@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4950">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R R Royall to Stephen F Austin, 10-13-1835</title>
+            <author>
+                <persName>R R Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Jon Johnson
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Headquarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 181-182
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-13">10-13-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Notifying him that Nacogdoches has elected San Houston to command forces of East Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1835-10-13">Oct 13. 1835</date></p>
+<p>To <persName>Col. Stephen F. Austin</persName></p>
+
+<p>Dear Sir</p>
+
+<p><persName>Mr John Johnson</persName> who bears these to you&#8212;has just arrived from 
+<placeName>Nacogdoches </placeName>and <placeName>San Agustin</placeName> with a communication from the <persName>Committees of
+those places</persName> which we transcribe to you<pb n="182"/></p>
+
+<p><placeName>San Agustin</placeName> <date when="1835-10-06">6 oct. 1835</date>.</p>
+
+<p><placeName>Committee Room</placeName></p>
+
+<p>Whereas in the present <persName>emergency organization</persName> and energy of action
+are necessary and whereas we see the great necesity of a <persName>Commander in
+Chief of this Dept</persName> for the purpose of issuing orders raising <persName>troops </persName>etc and
+being well satisfied of the fitness capacity and fidelity of <persName>Genl Saml 
+Houstin</persName> for such a station&#8212;</p>
+
+<p>Be it therefore Resolved that we with the Concurrance of the <persName>Com of
+Safty and vig of <placeName>Nacog</placeName></persName> do hereby appoint the said <persName>Saml Houston</persName>. <persName>Genl
+and Command in Cheif of the forces of this Depart</persName>, vesting him with full
+powers to raise <persName>troops </persName>organise the fo[r],ces and do all things appertaining
+to such office And be it further resolved that the powers of the Said
+<persName>Com'der</persName> continue in force till the <persName>Gen[er]al Consultation of <placeName>Texas</placeName></persName> shall
+make farther provisions And be it farther resolved that said <persName>Houston </persName>be
+required to issue proclamations and Call for <persName>recruits </persName>and to do all things
+in his power to sustain the principles of the Constitution of <date n="xx-xx-1824">1824</date></p>
+
+<p>[Signed] <persName>Philip A. Sublett chairman</persName>"</p>
+
+<p><persName>A. G. Kellog Secry</persName></p>
+
+<p><persName>Mr Johnson</persName> will be enabled to detail many particulars which we cannot
+put to paper and which are of a very encoura'g nature&#8212;particularly of
+the friendliness of the <persName>Cherokees </persName>etc&#8212;</p>
+
+<p>We have not heard from <placeName>Matagorda </placeName>or <placeName>Harrisburg </placeName>but have requested
+<persName>Genl Houston</persName> to send a <persName>guard </persName>agreeable to your request to take on the
+Cannon from <placeName>Harrisburg </placeName>etc&#8212;</p>
+
+<p>We are all in high spirits expecting to hear from you of Success&#8212;</p>
+
+<p><persName>R. R. Royall president</persName></p>
+
+<p><persName>C. B. Stewart S'y</persName></p>
+
+<p>[Addressed:] <persName>Col Stephen F. Austin</persName> <placeName>head quarters</placeName> favd by <persName>Mr. Jon
+Johnson</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
