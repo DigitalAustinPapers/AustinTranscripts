@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4718">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James F. Perry to Lastraps and Desmare, 01-15-1835</title>
+            <author>
+                <persName>James F. Perry</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-16">02-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Lastraps 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Desmare
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Peach Point, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 39-40
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-01-15">01-15-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Loss of goods on vessel. Insurance. Cotton crop </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Peach Point Near Brazoria Texas</placeName></p>
+<p><date when="1835-01-15">Jany 15th 1835</date></p>
+<p><persName>Messrs. Lastraps and Desmare [New Orleans]</persName></p>
+<p>Gentlen</p>
+
+<p>Your Favour of <date when="1834-11-28">28th Nov</date> enclosing bills of articles shipd- pr Schooner
+Helin Mar, was duely recieved and you have no doubt been informed of the
+fate of that vessel, the vessel and cargo was all most a total loss, the
+greater part of the Goods which came to shore was stolen the articles sent
+to me were all lost I beleave except 11 BB1 Flour and 1 do Mackeral. A
+<persName>Mr. Andrews</persName> will inform you more particularly; who will forward you
+the necessary vouchers to recover the insurance I hope they were inshured.
+having but lately commenced opening a <placeName>farm </placeName>I had put Little land in
+cotton last season and the worm distroyed the greater part of that Little
+as well as all the cotton in my <placeName>emedeate neigbourhood</placeName>. there was scarce
+one third of a crop made. It was my intention to have shiped you what
+Little I made but on enquiry I found unless the dueties amounted to 200$
+the money would have to be paid to the <persName>collector</persName>: I concluded it would
+be more trouble to you than proffit and I got one of my <persName>neighbours </persName>to
+ship it with his crop it went up in the S[chooner] Brazoria and sold for
+16c. It was some disapointment the loss of the articles you sent me. but
+I hope you will recover the inshurance on them. The cotton crops in this
+county was verry fine with the Exception of some 5 or 6 <placeName>plan[ta]tions</placeName> in<pb n="40"/>
+my <placeName>neighbourhood </placeName>which was destroyed by the worm since <date n="03-xx-1834">last march</date>
+we have generally and verry fine wether the <date n="Fall-1834">fall </date>and <date n="Winter-1834">winter </date>so
+far has been verry much pleasant and dry. <persName>Mr. Somervell</persName> returned
+from <placeName>New York</placeName> in the <placeName>San Felepe</placeName> in <date n="11-xx-1834">nov</date>. but I am sorry to say that he
+has not got near all his goods to <placeName>San Felepe</placeName> yet. he might have got them
+up in the steapi[boat] Cayuga which went up but his <persName>partner </persName>was not 
+willing to risk it. The boat however got up without any accident he tarryed
+at least one month too long in <placeName>New York</placeName> for his benefit please inform me
+whether you have recovered the inshurance on the Empress also the lost
+on the Helin Mar</p>
+
+<p><persName>J F Perry</persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4773">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M. Williams to Stephen F Austin, 04-22-1835</title>
+            <author>
+                <persName>Samuel M. Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-22">02-22-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monclova, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Mexico</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 65-67
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-04-22">04-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Cotton speculation. Application for bank charter. Thinks no fees will be claimed by state on lands in Austin's first colony. Improvements at mouth of Brazos</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monclova </placeName><date when="1835-04-22">22d April 1835</date></p>
+
+<p>My Dear friend</p>
+
+<p>The mail of <date when="1835-04-21">yesterday </date>presented me your welcome letter of <date when="1835-04-04">4th inst</date>, and
+in union with my <persName>Companions </persName>am pleased with the indirect prospect which<pb n="66"/>
+it holds out of your being able to leave <placeName>Mexico </placeName>in all this month. I hope
+the measures adopted by the <persName>Govt of the <placeName>State</placeName></persName>, will accelerate that matter
+if not done.</p>
+
+<p>On the subject of the Contract for 12,000 arrobas of Cotton which you
+state is offered to you, and about which you ask my opinion&#8212; I can say
+it is fair, although the price of Cotton in <placeName>Europe </placeName>and the <placeName>U. S.</placeName> during the
+past season, up to the last accounts which I have, would not authorise an
+expectation of realising much from 5$ the arroba, if maintained. <persName>McK</persName>
+and <persName>W</persName> [McKinney and Williams] had Cotton sold at 16 1/2C in <placeName>Orleans</placeName>.
+Still I cannot believe the present prices can hold on, yet at the same time
+I am of opinion that the <placeName>market </placeName>of next season will open not lower than
+13c.&#8212; If you feel disposed to make a Contract, and want assistance in it
+you may include <persName>McKinney </persName>and <persName>Williams</persName>&#8212;giving us information so that
+we may take advantage of the season, by purchasing small crops from needy
+<persName>planters</persName>&#8212;</p>
+
+<p>The new Schr Brazoria got <placeName>on shore at the mouth of the Brazos</placeName> in <date n="01-xx-1835">Jany
+last</date> and was abandoned <persName>McK</persName> bot her for the purpose of having her
+naturalised&#8212; We have also bot a steam boat for the navigation of the
+<placeName>Brazos</placeName>. I have a letter from <persName>McK </persName>dated <date when="1835-03-23">23d March</date>, he was on the eve
+of departure for <placeName>Orleans </placeName>on board the Schoner Sanfelipe, he informed
+me that the Steam boat had arrived at <placeName>N. 0 </placeName>from the <placeName>Upper Country</placeName>.
+I presume he will return in her. You will hardly recognise the <placeName>mouth of
+the River</placeName> when you return. We are making considerable improvements
+there, I intend building a <placeName>dwelling </placeName>and moveing my <persName>family </persName>there. <persName>McK</persName>
+has been there with his <persName>wife </persName>for a year. It is extremely inconvenient for
+me to be at <placeName>Sanfelipfe</placeName>, and our business in <placeName>another quarter</placeName>. One of us is
+continually on the wing&#8212;</p>
+
+<p>As we have no <persName>correspondents </persName>yet at <placeName>Vera Cruz</placeName> nor in <placeName>Mexico</placeName>, that know
+any thing of our standing&#8212;I must leave to your management, should you
+think proper to include <persName>McK </persName>and <persName>W </persName>in the Contract for cotton, the 
+regulation of security making use of this letter as authority to obligate
+<persName>McKinney </persName>and <persName>Williams </persName>as parties to the Contract. The delivery the
+present year, will not probably yield over 10 to 15 per cent but the
+prospect for the second year may be rated at from 20 to 25 percent After
+deducting freight etc.</p>
+
+<p>I have presented to <persName>Congress </persName>a plan for a <placeName>Bank </placeName>and asked for a charter
+for 30 years. I think it will succeed&#8212; Capital 1,000,000$ divided into
+10,000 Shares at 100$ each If it be obtained, it will facilitate much the
+Commercial and agricultural business of <placeName>Texas</placeName>.</p>
+
+<p>There is nothing in my opinion to apprehend about a claim for fees in
+your <placeName>old Colony</placeName>. The <persName>present members</persName> are not of opinion that the <placeName>State</placeName>
+has any claim.<pb n="67"/></p>
+
+<p>I hope every thing may go on right and smooth at the fountain head,
+yet, I do not like appearances, here I believe the federal system has
+every thing to expect, nothing to fear.</p>
+
+<p><persName>Samuel M. Williams</persName> [Rubric]</p>
+
+<p>[Addressed:]<persName> Stephen F Austin Esqr</persName> <placeName>Mexico</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

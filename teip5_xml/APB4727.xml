@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4727">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Samuel M. Williams, 02-14-1835</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-16">02-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Monclova, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 42-44
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-02-14">02-14-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Promoting a road to Chihuahua through Texas. His Exposition has corrected false impressions concerning Texas. Robertson Colony. Opposition to territorial government for Texas made him enemies</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Texas.]</p>
+
+<p><placeName>Mexico </placeName><date when="1835-02-14">Feb. 14. 1835</date></p>
+
+<p><persName>S. M. Williams</persName></p>
+
+<p>My good friend,</p>
+
+<p>I confidently hoped to have met you at <placeName>Monclova </placeName>by the <date when="1835-03-01">1 of March</date>, but
+I find that I cannot&#8212; I think I shall be able to leave here in <date when="1835-03-01">about 15<pb n="43"/>
+days,</date> tho I cannot say to a certainty&#8212; I have some idea of employing
+this interval in trying to get some aid of the <persName>Genl Govt</persName> towards opening
+<placeName>a road from Texas to the Paso del norte</placeName>, or in a direct line (or as nearly
+so as the country will admit) to <placeName>Chihuahua </placeName>I speak of this interprise in
+my exposicion copies of which I have sent to <placeName>Monclova </placeName>and by this mail
+I send you one, I sent one to you <date when="1835-02-12">two days ago </date>directed to <placeName>Austin</placeName>&#8212; It
+has been very well received here, and has satisfied every reasonable man&#8212;
+I believe that <placeName>Texas </placeName>has more <persName>friends </persName>in the Govt and in <placeName>Mexico </placeName>now, than
+it ever had before. I can say the same as to myself&#8212;</p>
+
+<p>I cannot believe that such men as <persName>Robertson </persName>and <persName>Chambers </persName>can have
+any influence at <placeName>Monclova </placeName>and I confidently expect that the evil they have
+done will be remedied&#8212; There was [never] a more outrageous injustice
+done to anyone than that committed by <persName>Vidauri</persName> in renewing the contract
+for the<placeName> upper colony</placeName> in direct violation of our rights&#8212; you must attend
+to that business&#8212; I will be there as soon as I can to aid in putting things
+to rights once more.</p>
+
+<p>I have reason to believe that <persName>Mason </persName>and <persName>Mexia </persName>tryed to do me all the
+injury they could and to perpetuate my imprisonment as long as they
+could&#8212; they never forgave me for opposing their schemes to make a
+<placeName>territory </placeName>of <placeName>Texas </placeName>and their monopolies of land etc and I shall be well
+satisfied if they will remain my <persName>enemies </persName>for the balance of their lives&#8212;
+<hi rend="italic"><persName>Tony </persName></hi>and them are birds of the same feather&#8212;</p>
+
+<p>An effort was made in <date n="01-xx-1835">Jany</date>- to make a <placeName>territory </placeName>of <placeName>Texas</placeName>, but it failed&#8212;
+another effort was about to be made when my esposicion came out, which
+has also died away.</p>
+
+<p>The last clause of my esposicion was intended to kill this project, and
+it has had the effect. A proposicion was made sometime since to renew
+the 11 article of the law of <date when="1830-04-06">6 april</date> which I am told will die <hi rend="italic">en 
+commission</hi>&#8212;so that upon the whole my personal sufferings will result to the
+advantage of <placeName>Texas</placeName>, by removing prejudices and leading to inquiries that
+have satisfied everyone&#8212; This is some consolation at least&#8212; It is in fact
+a full reward for all my trouble and persecution.<pb n="44"/></p>
+
+<p>My <persName>constituents </persName>at <placeName>home </placeName><hi rend="italic">ought </hi>to be satisfied with me&#8212; I have done my
+duty towards them, regardless of my own personal interests or safety&#8212;
+I have paid my own expenses and they have been very great indeed.</p>
+
+<p>The <placeName>Chihuahua road</placeName> is a great hobby with me&#8212; I intend to persevere
+untill it is completed, and <hi rend="italic">then </hi>I am done with empresas&#8212; I have written
+to <placeName>Chihuahua </placeName>on the subject and think the whole influence of that state
+can be inlisted in this great enterprise&#8212;it is the <hi rend="italic">last </hi>and <hi rend="italic">only </hi>object of my
+ambition&#8212;</p>
+
+<p>Cotton will be in great demand here <date n="xx-xx-1836">next year</date>, it is so now&#8212;</p>
+
+<p>I saw an ascension by <persName>Mr. Robertson</persName> on the <date when="1835-03-12">12 instant</date>&#8212;he descended
+<placeName>14 leagues South of this beyond the mountain [s] that surround the valley
+of Mexico&#8212;</placeName> he returned to day all well you will see it in <placeName>papers</placeName>&#8212;
+<persName>Grayson </persName>left last week for <placeName>New Orleans</placeName> via <placeName>Vera Cruz</placeName>&#8212; I am going to
+the <placeName>Theatre </placeName>so adios</p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p>I am told <persName>Aguirrie </persName>has sold those <placeName>claims </placeName>a second time and perhaps a
+dozen times see to it before it is too late&#8212;</p>
+
+<p>Write <placeName>home </placeName>that I am well&#8212; I am waiting for the Amnesty law, for I
+am still on bail&#8212;</p>
+
+<p>[Addressed:] <placeName>(Coahuila y Texas)</placeName> Al <persName>sor D. Samuel M. Williams
+</persName><placeName>Monclova</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

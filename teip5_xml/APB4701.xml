@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4701">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas F. McKinney, 12-02-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-14">02-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas F. McKinney
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 30-31
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-12-02">12-02-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advice concerning state politics</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1834-12-02">Dec. 2. 1834 </date>(<placeName>in prison</placeName>)</p>
+
+<p>To <persName>Thos. F. McKinney</persName>,</p>
+
+<p>Dr Sir, <persName>Don Ramos Arispe</persName> and <persName>D. Victor Blanco</persName> visited me <date when="1834-12-02">this day</date>,
+and informed me that the difficulties between <placeName>Monclova </placeName>and <placeName>Saltillo </placeName>had
+been terminated by the decission of the <persName>President Genl. Santana</persName> to whom
+the subject was referred by the treaty between the <persName>contending parties</persName>. By
+this decision of the <persName>President </persName>the <placeName>seat of Government of the State</placeName> is to
+remain at <placeName>Monclova </placeName>in conformity with the law fixing it there. The acting
+<persName>Govr. Algue Sabal [Elguezabal]</persName> is to continue until a <persName>Govr </persName>is elected by the
+<persName>people of the <placeName>State</placeName></persName>. A new election is to be ordered for the whole <placeName>state </placeName>for
+<persName>Govr vice Govr Councillers</persName>, <persName>members of the legislature</persName> and of <persName>congress</persName>.</p>
+
+<p>I am informed that the <persName>President </persName>considered this last clause to be 
+necessary for a final and amicable termination of this entangled business, by
+refering it directly to the source and origin of power, the <hi rend="italic">people </hi>so as to
+give a voice to the <placeName>department of Saltillo </placeName>which it had not in the <date n="09-xx-1834">September</date>
+election.</p>
+
+<p>The object of the <persName>President </persName>is to terminate all the local disputes and give
+to <placeName>every part of the State</placeName> an unembarased voice in the election of all the
+public functionaries. This is certainly a most important and desirable
+object, and the means which have been adopted to attain it are probably
+the best if not the only ones that the confused State of the circumstances
+will admit.</p>
+
+<p>Under this view I recommend that the <persName>people of <placeName>Texas</placeName></persName> unanimously
+sustain the decission of the <persName>President </persName>and proceed without any hesitation
+or doubt to hold new elections in conformity with the orders that are to
+be circulated by the <persName>Govr of the State</persName> in conformity with said decission.
+It will be an honourable evidence of the disposition of <persName>those people</persName> to 
+promote harmony and union with the <placeName>other parts of the state</placeName>.</p>
+
+<p>I have no doubt that the <persName>persons who were elected in <date n="09-xx-1834">September last</date></persName>
+will cheerfully acquiesce in this measure, and I for one of them frankly
+say that I do so.</p>
+
+<p>It is to be hoped that at the election care will be taken in <placeName>each of the
+departments in Texas</placeName> to select as <persName>deputies to the legislature</persName> <persName>men 
+personally known to the people</persName>, familiar with their necessities, and closely 
+identified with them in property, interest, and <hi rend="italic">actual residence.</hi> There is little
+doubt that <persName>representatives </persName>so circumstanced would be more likely to serve
+the interests of their <persName>constituents </persName>than wiser men who do not reside among<pb n="31"/>
+them. <placeName>Texas </placeName>now has <persName>three members</persName>, but if persons are chosen who do not
+reside there, it would seem as tho nothing had been gained by the 
+augmentation of <persName>representatives</persName>.</p>
+
+<p>In the selection of the other <persName>public functionaries</persName> the good sence of the
+people will of course lead them to choose men of strict probity impartiality
+and established character and principles who will attend impartially and
+honestly to the genl prosperity of every part of the state.</p>
+
+<p>I expect that my affairs will terminate so as to enable me to reach
+<placeName>Monclova </placeName>in <date n="02-xx-1834">February</date>.</p>
+
+<p>I wish you to show this letter to my <persName>friends </persName>and make such use of it as
+you think best for the attainment of the object which is harmony and
+union between <placeName>all parts of the State</placeName> and union in sustaining the measures
+of the <persName>President </persName>as to the new elections</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p>All is going well. The <persName>President Genl Santana</persName> has solemnly and 
+officially declared that he will sustain the <hi rend="italic">federal republican system</hi> as 
+established by the constitution of <date n="xx-xx-1824">1824</date> and all <persName>parties </persName>will unite to support him
+in this measure. <date n="xx-xx-1833">Last year</date> there was no local <persName>Govt </persName>in <placeName>Texas</placeName>. <hi rend="italic">Now </hi>there
+is and your evils are remidied. So that all ought <hi rend="italic">now </hi>to unite in promoting
+union and harmony with <placeName>Coahuila </placeName>and <placeName>all parts of the State</placeName>. These are
+the opinions of your fellow citizen</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

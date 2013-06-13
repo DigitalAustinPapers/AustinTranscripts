@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4717">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M. Williams to James F. Perry, 01-14-1835</title>
+            <author>
+                <persName>Samuel M. Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-16">02-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 38-39
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-01-14">01-14-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Business notes. Going to Monclova and will not forget Austin's enemies and his own</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia </placeName><date when="1835-01-14">14th Jany 1835</date></p>
+
+<p>Dear Sir</p>
+
+<p><date when="1835-01-13">Last evening</date> <persName>Mr. Jack</persName> handed me yours of <date when="1835-01-12">12th inst</date>, in which you ask
+for some information relative to a claim against the <persName>Estate of T. Westall
+deceased</persName> in favor of <persName>Mr Larkin</persName> and <persName>Messrs Deckhaws of <placeName>Tennessee</placeName></persName>.<pb n="38"/></p>
+
+<p>A long time has elapsed since I had any connection with that business,
+in fact so long that my memory will not permit me to undertake at this
+place attempting any detail. When I get <placeName>home </placeName>I will hunt up old 
+memorandums etc etc and make out the best statement I can. It is true that
+<persName>Mr. Westall</persName> always declared that he had <persName>Co-partners</persName> and the names of
+<persName>Messrs Deckhaws</persName> is perfectly familiar, and I have no doubt that there
+is an amount due which the old gentleman was ever determined should be
+paid, in fact he always expressed much gratitude to the <persName>elder Deckhaw</persName>.</p>
+
+<p>I enclose the assumpsit of <persName>Mr Westall</persName> in favor of <persName>Col. Austin</persName>&#8212;And will
+advise <persName>Mr. McKinney</persName> respect <persName>Mr. Gregory</persName>'s claim and the adjustment with
+<persName>Mr McNeil</persName></p>
+
+<p>I have made my arrangements to leave <placeName>San Felipe</placeName> about the <date when="1835-01-20">20th</date>- And
+you may rely upon it their be <hi rend="italic">men </hi>I shall not forget <persName>Col Austin</persName> and
+myself are deeply indebted to for injuries, and pay them in their own Coin.
+Present me kindly to <persName>Mrs Perry</persName> and the <persName>children </persName>and that I hope in a
+month to see her <persName>Brother [Stephen F. Austin]</persName> at <placeName>Monclova</placeName></p>
+
+<p><persName>Saml M Williams</persName> [Rubric]</p>
+
+<p>[Addressed:] <persName>Mr. James F Perry</persName> <placeName>Peach Point</placeName> <persName>M A Bryan</persName>&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

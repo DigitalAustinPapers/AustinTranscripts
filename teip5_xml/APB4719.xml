@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4719">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Samuel M. Williams, 01-21-1835</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-16">02-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 40
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-01-21">01-21-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Expects to leave in, two or three weeks. Wants to remain only a short time in Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1835-01-21">Jany 21, 1835</date></p>
+
+<p><persName>S M Williams</persName></p>
+
+<p>Dr Sir,</p>
+
+<p>I am told (but know not if truly) that the three claims I bought in
+<placeName>Saltillo </placeName>in <date n="xx-xx-1833">1833 [1832]</date> have been sold again several times by the <persName>original
+grantee</persName>, since he sold them to me I apprise you of this that proper care
+may be taken to prevent being cheated by such bad faith and unprincipled
+conduct.</p>
+
+<p>I hope to leave here in two or three weeks and to meet you in <placeName>Monclova</placeName>
+I shall try to get there by the <date when="1835-03-01">1 of March</date> <persName>Austin</persName>'s business is not yet
+finished but he expects it will be in ten or twelve days so that he can leave&#8212;
+he stands well with the <persName>present administration</persName> and men now in power and
+also with the <persName>leading members of congress</persName>&#8212;but this is no time to do any
+thing&#8212;the politics of the day absorbe every thing and are of too much
+interest to permit anyone to think of other matters.</p>
+
+<p>All is peace and it is believed will so remain for a while at least. If it
+can be done I wish to arrange my affairs so as to remain but a short time
+in <placeName>Texas</placeName>, say two months at most</p>
+
+<p>[Addressed:] (Estado de Coahuila y Texas) Al <persName>Sor D. Samuel M.
+Williams</persName> en la villa de <placeName>Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

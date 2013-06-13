@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4711">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Samuel M. Williams, 12-31-1834</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-16">02-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 36-37
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-12-31">12-31-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Released on bond December 25. Favorable changes in situation of Texas. Political conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1834-12-31">Decr 31 1834</date></p>
+
+<p>My <persName>friend </persName>I can at last inform you that I am at liberty. I was discharged
+from <placeName>prison </placeName>on the <date when="1834-12-25">25th (Christmas day)</date> by giving bail not to leave the
+<placeName>federal district</placeName>. I consider this almost equal to a full acquital, for a verry
+minute investigation of my case was made before bail was allowed. It
+will probably take a month to conclude my business so that I can start
+<placeName>home</placeName>, tho my <persName>friends </persName>think it will be finished much sooner. I hope to see
+you in <placeName>Monclova </placeName>when the <persName>Legislature </persName>meets.</p>
+
+<p>My health is tolerably good and improving very fast. <persName>Congress </persName>ought
+to meet <date when="1835-01-01">tomorrow</date>, but there was not a <persName>majority of the Senate</persName> up to <date when="1834-12-30">last
+night</date>&#8212;the others are expected <date when="1834-12-31">to day</date>.</p>
+
+<p>All I can say about political affairs, is that I have been too long out of
+the world to know much about them, and those who have had better 
+opportunities seem to know as little&#8212;en fin, parece que nadie entiende las
+cosas, las personas, ni aun a si mismo.</p>
+
+<p>Great political difficulties are feared by many, while others seem to rely
+on a <hi rend="italic">peace of exhaustion</hi>&#8212;the want of means to revolutionise&#8212;</p>
+
+<p><placeName>Texas</placeName>, as a matter of course, will remain tranquil&#8212;a dead calm as to
+politics, and activity as to farming and planting, will insure the prosperity
+of that country.</p>
+
+<p>There are a number of <placeName>cotton factories</placeName> building here and at <placeName>Puebla</placeName>.
+They appear to rely very much on <placeName>Texas </placeName>for a regular supply of cotton.
+I think that this market will be tolerably steady for a few years, at fifteen,
+to twenty cents delivered at <placeName>Vera Cruz</placeName>&#8212;tho this calculation is below what
+others make.</p>
+
+<p>I see that the <persName>Govt </persName>have done one thing which I urged last year, (as
+was then said) with intemperate energy, that is the establishment of a
+weekly mail to the <placeName>Sabine river</placeName>.</p>
+
+<p>All I will say at present as to <placeName>Texas </placeName>is that during my stay here I shall
+not loose sight of the interests of that <placeName>country</placeName>, nor permit past sufferings
+to discourage me. At present I see no material good that can result from
+Stiring the State question by the<persName> people of <placeName>Texas</placeName></persName>, and for this reason I
+have in my former letters recommended silence, or at least a calm on that
+question at home. Enough has been done to attract the attention of the
+<persName>principal men</persName>&#8212;to induce investigation. In my case the memorials of the
+convention, that of <placeName>Bexar </placeName>of <date when="1832-12-19">19 Decr- 1832</date> and many other papers on the
+subject have been carefully examined&#8212;the subject is now <hi rend="italic">understood</hi>. which<pb n="37"/>
+it was not before, and I believe that the opinion is becoming fixed that
+<placeName>Texas </placeName>ought to have a <persName>local Govt</persName> without any delay; and that the <persName>people
+of <placeName>that country</placeName></persName>, or myself have never had any designs to separate from the
+<placeName>Mexican republic</placeName>. My liberty depended on this latter idea, and the best
+proof that can be given that it is no longer believed <placeName>Texas </placeName>wished to
+separate from the <placeName>Nation</placeName>, is the fact of my liberation. One of the main
+objects of my mission was obtained <date n="xx-xx-1833">last year </date>by the repeal of the 11 article
+of the <date when="1830-04-06">April </date>law. The other the State question remaind pending. The past
+will not, in any manner, deter me from moving it in <persName>Congress </persName>again 
+provided I see any prospect of doing good. But more can now be obtained
+by mildness, than by any other means, and for the plain <hi rend="italic">reason</hi>, that at
+this time the <placeName>nation </placeName>is almost prostrated as to physical force, but has more
+pride than ever. In this state of things, the <persName>Govt </persName>would do <hi rend="italic">much</hi>, if it had
+the <hi rend="italic">appearance </hi>of confering a favor&#8212;but nothing that would seem to be
+conceded to threats or violence.</p>
+
+<p>I believe that the interference of <persName>D Lucas Alaman</persName> contributed very 
+materially to my liberation. He visited me frequently in <placeName>prison</placeName>, and so did
+<persName>D. Ramos Arispe</persName>, <persName>Almonte </persName>and <persName>Victor Blanco</persName>. I can have no doubt of the
+friendly disposition of these <persName>gentlemen </persName>towards me. The <persName>president Santana
+</persName>has uniformly expressed himself friendly to me. I have not yet seen him-
+but little can be said in favor of his political course in general, So I will
+say no more about him.</p>
+
+<p>Send this to <persName>Perry</persName>&#8212;<persName>Miller </persName><persName>Martin </persName>etc.</p>
+<p><persName>S. F. A</persName>.</p>
+<p>Will write next mail</p>
+<p>-[undeciperable] is well</p>
+<p>Al <persName>Senor D. Samuel M Williams</persName> o<persName> J B Miller </persName><placeName>San Felipe De Austin Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

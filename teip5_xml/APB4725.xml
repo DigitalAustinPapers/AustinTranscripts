@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4725">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to J. F. Perry, 02-06-1835</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-16">02-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Peter W. Grayson
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        J. F. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazoria, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 41-42
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-02-06">02-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Publication of his pamphlet has created good feeling. Trouble with Anthony Butler. Plans for the future</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1835-02-06">Feb. 6, 1835</date></p>
+
+<p>Dr. <persName>Brother</persName>,</p>
+
+<p>I send you by <persName>Mr. [Peter W.] Grayson</persName> a copy of the exposition I have
+published, defending the<persName> people of <placeName>Texas</placeName></persName>, and myself. I wish you to
+preserve it, as I find I shall have no copies left. I think I shall leave in
+ten or fifteen days for <placeName>Monclova</placeName>. I am waiting for the publication of the
+general amnesty law, which it is said will be done <date when="1835-02-07">tomorrow </date>or <date when="1835-02-08">next day</date>,
+when I shall be free once more for I am still on bail.</p>
+
+<p><persName>Col Butler</persName> has refused to give me up my last note of 1900 and odd
+dollars which I paid to <persName>Whitesides </persName>alleging that <persName>Whitesides </persName>had drawn on
+me for more than he was authorised to do. <persName>Whitesides </persName>receipt as <persName>Butlers agent</persName>is in my desk and I wish you to see him, and let him know that if
+<persName>Butler </persName>refuses to give up my note I shall hold <persName>Whitesides </persName>responsible.
+He must show his authority from <persName>Butler </persName>to draw.</p>
+
+<p>If you can get along without selling land I wish you to do so, as it
+will be a sacrifice to sell now. The <placeName>league adjoining and below St. Felipe</placeName>.,
+and the one <placeName>on the West Bernard (a prairie league)</placeName> must not be sold for
+any price as I may dispose of it otherwise. I send you some seeds. I refer
+you to <persName>Mr Grayson</persName> for all the news. I hope that a dead calm will reign
+all over <placeName>Texas </placeName>for many years to come&#8212;and that there will be no more
+excitements of any kind whatever.</p>
+
+<p>Cotton will be high here <date n="xx-xx-1836">next year</date>. There are a great many <placeName>large factories</placeName>
+building in various places by <persName>foreigners</persName>&#8212;the demand for <placeName>Texas </placeName>cotton
+will be very great, deliverd at <placeName>Vera Cruz.</placeName></p>
+
+<p>I do not write to my <persName>friends</persName>, because I cannot write to all, and <persName>Grayson</persName>
+can tell them all the news.<pb n="42"/></p>
+
+<p>I look forward with the most heartfelt anxiety to the period when I
+shall be restored to you all once more, so that I can enjoy your society
+and that of my <persName>friends </persName>in a <placeName>log cabbin</placeName>, or a <placeName>camp</placeName>&#8212;far very far from
+the intrigues and vilinous intanglements of <placeName>palaces </placeName>and politics.</p>
+
+<p>My opposition to a <placeName>territory </placeName><date n="xx-xxx1834">last year</date> has been the main cause of all my
+entanglements&#8212;but I did my duty and under the same circumstances I
+would do again just as I did in <date n="xx-xx-1833">1833</date>.</p>
+
+<p>I have more <persName>friends </persName>here now than I ever had, and so has <placeName>Texas</placeName>&#8212;my
+exposition has had a good effect&#8212;tho I am told that I shall be attacked in
+the <placeName>newspapers</placeName>, or that a reply will be given to it etc. I fear nothing
+from such an attack.</p>
+
+<p>Remember me to all your <persName>neighbors </persName>and my <persName>friends </persName>in general when
+you see them and to <persName>J. H Bell</persName> and the <persName>Jacks</persName>, <persName>McKinny</persName>, <persName>Miller</persName>, <persName>Martin</persName>,
+<persName>Burnett </persName>etc in particular</p>
+
+<p>Love to all the <persName>children</persName>. I hope they are learning fast. Love to <persName>Eliza</persName>
+and <persName>Phillips</persName>.</p>
+
+<p><persName>Mr Grayson</persName> has a project to establish a <placeName>cotton factory</placeName> by a <persName>company</persName>
+which I am much in favor of and have authorised him to take stock for me.
+<placeName>Texas </placeName>has cost me trouble and labor enough, and I hope yet to see some
+happy days there. I have seen but few as yet. I presume my friend <persName>S. M.
+Williams</persName> is at <placeName>Monclova</placeName>, for which reason I do not write to him. I 
+requested you and him to distroy the letters I sent by <placeName>Offutt </placeName>without showing
+them to any one, which I hope was done. Calm, a <hi rend="italic">dead calm</hi>, is all that
+<placeName>Texas </placeName>needs&#8212;make good crops, and send them to <placeName>Vera Cruz</placeName>, <placeName>Tampico </placeName>etc.
+Remember me to <persName>H. Austin</persName> and his <persName>family</persName>. Tell them to keep up good
+spirits&#8212;the dark days have passed, if you can only keep good health.
+your affectionate <persName>brother</persName></p>
+
+<p><persName>Stephen</persName>.</p>
+
+<p>[Addressed:] <persName>Mr. James F. Perry</persName> near <placeName>Brazoria Texas</placeName> <persName>Mr Grayson</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

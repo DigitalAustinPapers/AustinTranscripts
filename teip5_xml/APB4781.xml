@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4781">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 04-29-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-23">02-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Monclova, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 68-69
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-04-29">04-29-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Butler's machinations to injure him. Butler's unpopularity in Mexico. Does not understand Mexican politics. Nobody does; just waiting. The four hundred league law</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+
+<p><placeName>Mexico </placeName><date when="1835-04-29">April 29 1835</date></p>
+
+<p>My friend</p>
+
+<p>Recd. yours of <date when="1835-04-08">8 instant</date> and the letters and papers enclosed&#8212; The
+letter from <persName>Butler </persName>to you of <date when="1834-05-07">7 May [1834]</date> explains to me a circumstance
+that occured a few days previous to that when I was in the inquisition&#8212;
+on the <date when="1835-05-10">10th </date>I was put in communication, and I think on the <date when="1835-05-15">15th</date> or <date n="05-14-185">14th</date>
+I was told by a <persName>friend of Butler</persName>s that he, <persName>Butler</persName>, had just recd a letter from
+you from which it was quite evident that you was my <persName>enemy</persName>, and I was
+acquainted with it so as to be on my guard etc&#8212; Now at this same time
+he writes to you in a way to try and influence you against me&#8212; The object
+of all this is very plain&#8212; It was no doubt hoped that the information
+communicated to me would cause irritation in me, and induce me to write
+to you under those feelings and thus it was expected an irritable state of
+feelings might perhaps be produced between you and me&#8212; This is the
+only solution I can give to the affair, and I am the more induced to construe
+it in this way because <persName>Butler </persName>has tried to irritate me, all he can against
+<persName>Mason </persName>and <persName>Hotchkiss</persName>, and I presume he tried to irritate them against me&#8212;
+I have never in all my life known so bad a man&#8212; He left here to day
+for the <placeName>U. S.</placeName> and as he was the only <persName>enemy </persName>I had in <placeName>Mexico </placeName>I believe I
+shall be at liberty to leave here for <placeName>Monclova </placeName>in two weeks&#8212; Is it not
+strange that the only man in <placeName>Mexico </placeName>who is not anxious for my complete
+liberation should be the representative of my <placeName>native country</placeName>?&#8212; This bad
+man had succeeded in irritating me very much against <persName>Mason </persName>but I have
+now entirely suspended my opinion as to <persName>Mason </persName>for I do not believe
+[what] <persName>Butler </persName>has said about <persName>Hotchkiss</persName>' enmity to me&#8212;his object evidently
+has been to envolve and entangle me all he can</p>
+
+<p>I have never known so bad and base a man&#8212; Should he find that
+his enmity to me is unpopular in <placeName>Texas</placeName>, he will then try and make <persName>Mason</persName>
+and <persName>Hotchkiss </persName>the <persName>scapegoats</persName>&#8212; he has not one friend in <placeName>Mexico </placeName>amongst
+the <persName>foreigners </persName>and is dispised by most of the <persName>Mexicans</persName>&#8212;</p>
+
+<p>I thank the <persName>Legislature </persName>for their kindness. I am fully comprehended in
+the Amnesty, if it ever passes, and I now think it will&#8212;my <hi rend="italic">only </hi><persName>enemy </persName>is
+gone&#8212;</p>
+
+<p>I say nothing about politics&#8212; I do not understand those of the day&#8212;
+who does? Keep quiet and still in that state&#8212;look on&#8212;matters will go in
+<hi rend="italic">masse</hi>, one way or the other before long&#8212;at present everybody is looking
+on, for something&#8212;no one knows what&#8212; <persName>Almonte </persName>goes to the <placeName>U. S.</placeName>
+<date when="1835-04-30">tomorrow </date>he is truly a good man and <persName>friend </persName>to <placeName>Texas</placeName>&#8212; I most sincerely
+thank my good friends <persName>Johnson </persName>and <persName>Peebles </persName>for their welcome letters, and<pb n="69"/>
+also <persName>Carbajal</persName>. Show them this and remember me to them very 
+particularly&#8212; I hope I shall arrive soon to go home with you all&#8212; a few days
+will show the result of <persName>Tony</persName>s absence&#8212; I think it will be favourable&#8212;</p>
+
+<p>I do not write home by this mail&#8212;you can inform them that I am alive&#8212;</p>
+
+<p>[Rubric]</p>
+
+<p><persName>D. V. [Don Victor Blanco]</persName> has informed you all of the evils produced
+by the impolitic 400 league law its results are bad enough but nothing
+in [com]parison to what I at first expected&#8212;it produced] a great 
+excitement here [ve]ry great indeed it has injured me, altho it [oug]ht not&#8212;
+but so it [is] I have to bear many sins not my own&#8212;</p>
+
+<p>[Addressed:] (Coahuila) <persName>D. Samuel M. Williams</persName> <placeName>Monclova</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

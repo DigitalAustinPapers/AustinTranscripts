@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4759">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Samuel M. Williams, 04-04-1835</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="1835-04-04">An arroba is twenty-five pounds</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Monclova, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 60
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-04-04">04-04-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="1835-04-04" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Is offered contract to deliver 300,000 pounds of cotton at Vera Cruz during next two years at twenty cents a pound. Fees in first colony</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+
+<p><placeName>Mexico </placeName><date when="1835-04-04">April 4. 1835</date></p>
+
+<p>Dr friend.</p>
+
+<p>I drop you a line to say that I am offered a contract for twelve thousand
+arrobas of cotton delivered at <placeName>Vera Cruz</placeName>, <date n="xx-xx-1835">this</date>, and <date n="xx-xx-1836">next year</date>, say half
+each year, at five dollars arroba&#8212; Security is offered and required for
+the fulfilment of the contract&#8212;money to be paid on delivery of cotton&#8212;
+I think it a good offer&#8212;what do you think of it&#8212; I should like to make
+something to refund my losses and expenses the last two years if I could
+do so&#8212;</p>
+
+<p>I hope that I shall be able to leave the last of this <date when="1835-04-30">month</date>, write to me
+by return of post to the care, or under cover to <hi rend="italic"><persName>W. W. West</persName></hi> with whom
+I am living, <placeName>calle Vergara No. 3</placeName>, <hi rend="italic">postage paid</hi></p>
+
+<p>I will defer closing the cotton contract to the last so as to hear from
+you on the subject&#8212; Should I leave sooner than I expect <persName>Mr. West</persName> will
+take out your letters to me&#8212; It may be that I shall start by the <date n="04-1-1835">middle of
+the month&#8212;</date></p>
+
+<p>The <persName>Govt</persName>. are very friendly to me, and to <persName>Texas</persName>, and if things are 
+conducted with <hi rend="italic">calmness </hi>by the <persName>legislature at <placeName>Monclova</placeName></persName>, all will go right&#8212;
+There is no danger of a change in the system of Govt The <placeName>federation </placeName>is in
+no danger&#8212; attend to the pretended claim for fees in my <placeName>first colony</placeName>&#8212;
+it is unjust and contrary to law, for that <placeName>colony </placeName>was not under the law of
+<date n="xx-xx-1825">1825</date>, nor was it contracted with the <persName>State Govt</persName>.</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p>[Addressed:] <placeName>Coahuila </placeName>D. Samuel M. Williams <placeName>Monclova</placeName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

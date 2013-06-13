@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4734">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to James F. Perry, 03-10-1835</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-17">02-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas via New Orleans, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 46-48
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-03-10">03-10-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Still detained by delay in passing amnesty law. Plans for furthering commercial advancement of Texas. Tariff exemption and trade with Chihuahua. Policy for Texas past and future</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1835-03-10">March 10. 1835</date></p>
+
+<p>Dr. <persName>Brother</persName>, I fully expected to have been on my way <placeName>home </placeName>before this.
+I am however still on bail and cannot leave until the amnesty law is 
+published and when that will be is uncertain. It was sent to the <persName>President </persName>
+<date when="1835-03-09">yesterday</date>, and it is said that he will send it back to <persName>congress </persName>to be altered.
+If so it may be a month before it finally becomes a law. Inform <persName>Grayson</persName>
+of this&#8212;he will be surpised for when he left we both calculated the law
+would be published in a few days. This is a measure in which many
+<persName>thousands </persName>are deeply interested and one that the <persName>Govt </persName>and three fourths
+or more of<persName> both houses</persName> and all the influential men are anxious should
+pass, and yet it has to travel the usual snails pace of public matters. This
+example ought, of itself, to be a proof to some of those who are so ready
+to blame me at home, of the delay and difficulty of effecting anything here.<pb n="47"/>
+They know but little of these matters and of the mental torment I have
+suffered, to get anything done for <placeName>Texas </placeName>At this time the feeling in favor
+of <placeName>Texas </placeName>is much better and more favourable than it ever has been, and
+I believe that if the attention of <persName>Govt </persName>and of <persName>congress </persName>was not distracted
+by the disjointed state of the times, something material would be done for
+<placeName>Texas</placeName>, however it is really not so <hi rend="italic">very </hi>important whether anything is done
+or not if a deal calm and union can be preserved in that country, 
+migration&#8212;good crops&#8212;no party divisions&#8212;no excitements&#8212;no personalities
+should be the political creed of every one in <placeName>Texas</placeName>.</p>
+
+<p>The<placeName> Chihuahua road</placeName> should be opened by some means and must be,
+I think the <persName>Genl Govt</persName> will aid&#8212;the <placeName>state of Chihuahua</placeName> will aid I have
+heard from there on the subject In this matter, and probably in others
+<placeName>Chihuahua </placeName>and <placeName>Texas </placeName>will have the same interest.</p>
+
+<p>The political character of this country, seems to partake of its geological
+features&#8212;all is volcanic If there is sound judgment and common sense
+in <placeName>Texas</placeName>, the convulsions here will not affect that country The prosperity
+of <placeName>Texas </placeName>should flow onward like the silent current of a river&#8212;nothing
+from this quarter can, or will, impede its progress. This has always been
+my view of the subject, and hence it is that I have uniformly adopted
+(when left to my own judgment, or not contrould by circumstances) a
+silent, and conciliatory course. That policy has settled <placeName>Texas</placeName>, and if
+pursued a few years longer will secure its happiness and prosperity.</p>
+
+<p><placeName>Spain </placeName>I presume will acknowledge the independence of <placeName>Mexico </placeName>very
+soon&#8212; the island of <placeName>Cuba </placeName>will then be open to us&#8212; it is the best <placeName>market</placeName>
+for beef cattle, oxen, hogs, horses, mules, corn, lard beans, peas etc in
+the <placeName>world</placeName>. I am trying to get a premium on <placeName>Texas </placeName>cotton shipped to <placeName>Vera
+Cruz </placeName>and <placeName>Tampico</placeName>&#8212;an exemption from duties and many other things in
+favor of <placeName>Texas</placeName>. The state question was taken up in the <persName>house of 
+representatives</persName> a short time since and information called for from the 
+executive&#8212;it is now before the <persName>cabinet</persName>, and gaining friends dayly. My 
+opposition has had a most salutary influence, and placed <placeName>Texas </placeName>on high ground.
+The project of a <placeName>territory </placeName>is now totally dead, so much so that its <persName>advocates</persName>
+are now in favor, of a <placeName>state</placeName>. Even <persName>Bradburn </persName>is now an active and warm
+advocate in favor of a state. There has been a great change since <persName>Grayson</persName>
+left in favor of <placeName>Texas</placeName>. <persName>Don Lucas Alaman</persName>, and <persName>Gutierrez Estrada the
+present minister of relations</persName>, are two of the best friends <placeName>Texas </placeName>has in
+<placeName>Mexico</placeName>. They are educated honest and honorable men, and as a matter
+of course have many <persName>enemies</persName>. <persName>Almonte </persName>is another friend of <placeName>Texas</placeName>, and
+an active one. He is printing an account of that country. He says it is
+favourable. I have not seen it, nor any part of it.<pb n="48"/></p>
+
+<p>There is a "<hi rend="italic">fuss</hi>" at <placeName>Vera Cruz</placeName>&#8212;the <persName>garrison of the <placeName>castle</placeName></persName> mutinied tied
+their <persName>officers</persName>, and are bombarding the <placeName>city</placeName>. All the rest of the <placeName>country </placeName>is.
+quiet. To say how long it will remain so would be the same as to say
+when <placeName>Vesuvius </placeName>will or will not explode&#8212;all this is of no consequence
+to <placeName>Texas</placeName>, if the people there will keep down party divisions and 
+personalities and make good crops. I wish that all the unquiet spirits in <placeName>Texas</placeName>
+would organize themselves into a corps and explore a good route for a
+<placeName>wagon road to Chihuahua</placeName>&#8212;in <hi rend="italic">that </hi>way they can be usefull to <placeName>Texas</placeName>&#8212;
+much more so, than they, or any body else are aware of at present.</p>
+
+<p>The <placeName>Chihuahua road</placeName> is a great object for <placeName>Texas</placeName>, a vast link in its 
+prosperity, and no efforts should be left untried to open it as quick as possible&#8212;
+its influence will be known <hi rend="italic">after </hi>it is opened, and not before.</p>
+
+<p>I recd a letter from you not long since&#8212;the bad health of <persName>Emily </persName>afflicts
+me dreadfully&#8212;we have as yet recd nothing from <placeName>Texas </placeName>but trouble and
+suffering, but I still hope that some better times are in store for us&#8212;as ta
+my personal <persName>enemies </persName>I disregard them&#8212; I am laboring for <hi rend="italic">their </hi>good, as.
+much as for my own&#8212;honest men will say whether they repay me as I
+deserve, and to honest men I leave the matter, with a clear conscience.
+Tell <persName>Emily </persName>to keep up good spirits and laugh at all the slang of my
+<persName>enemies</persName>. They are only injuring themselves.</p>
+
+<p>Love to all the <persName>children</persName>&#8212;keep up the <placeName>school </placeName>and give them a good education. I hope you have not neglected to put a <persName>family </persName>on the <placeName>league west
+of the Bernard</placeName>&#8212;attend to this for if you have neglected it it may cost
+you very dear, also on all your other land&#8212;do not neglect this as others
+have done&#8212;comply rigidly with the law in every particular&#8212;as to 
+settlement and payments.</p>
+
+<p>I am in tolerable health and very good spirits&#8212;tho much older in both
+respects than when I left home two years ago.</p>
+
+<p>Remember me to your <persName>neighbors </persName>and to <persName>Grayson </persName>and <persName>Jack </persName>and <persName>Bell </persName>and
+<persName>McKinney </persName>in particular. Tell <persName>McKinney </persName>that I shall have to draw for a
+thousand dollars on <persName>Gregory </persName>on the letter of credit that <persName>Grayson </persName>brought
+me. This trip will cost me about $10,000 dead loss besides my 
+imprisonment, and after all to be abused and calumniated by some of those I have
+been laboring to serve is not quite as agreeable as it might be&#8212;but such
+is man and human nature.</p>
+
+<p>Farewell may heaven bless you and prosper <placeName>Texas</placeName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>I send this by <placeName>New Orleans</placeName>. I wrote you on the <date when="1835-03-05">5 </date>and <persName>Burnett </persName>on
+the <date when="1835-03-07">7</date> by mail.	</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4754">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Samuel M. Williams, 04-01-1835</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-21">02-21-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Monclova, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 59
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-04-01">04-01-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-21" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Civil war threatened. Texas must not participate. Instructions concerning fees claimed by government in first colony
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1835-04-01">April 1. 1835</date></p>
+
+<p>There seems to be a prospect of another civil war&#8212; I hope' the 
+<persName>Legislature </persName>will keep calm and prudent&#8212; That state can have no influence in
+such a thing</p>
+
+<p>Let them keep peace at <placeName>home </placeName>and stop the disputes with <placeName>Saltillo</placeName>&#8212; <placeName>Texas</placeName>,
+as a matter of course, will take no part, whatever, even if it should be
+called on by the <persName>State Govt</persName> to do so&#8212;but I hope it will not be called
+on&#8212;it ought not to be&#8212;</p>
+
+<p>In my last I said that I was told the representation of that <persName>legislature</persName>
+had been favourably dispatched, and so I was, but I do not know whether
+the information was correct or not&#8212;so say nothing about it&#8212; Try and
+get the question finally settled about the pretended claim to fees in my
+<placeName>first colony of <persName>300 families</persName></placeName> that was set up&#8212; That <placeName>colony </placeName>was under the
+national law of <date n="xx-xx-1823">1823</date>, and the State law of <date n="xx-xx-1825">1825 </date>has nothing to do with it&#8212;
+you can get this settled with the <persName>Govor</persName>. by a declaration that no fees are
+due as that <placeName>colony </placeName>was not subject to the law of <date n="xx-xx-1825">1825</date>&#8212; Attend to this
+without fail and immediately, and all other matters of interest to me</p>
+
+<p>last mail I sent you an order on <persName>Dr. Grant</persName> for 200 Dolls, which he owes
+on a draft from <persName>Parrott</persName>, in <date n="xx-xx-1833">1833 </date>which I sent him by <persName>John Erwin</persName>, but
+never recd. the money</p>
+
+<p>There has been no change in my situation. I am still on bail, and no
+prospect of any change soon&#8212;</p>
+
+<p>Keep clear of civil wars&#8212;</p>
+
+<p>[Stephen F. Austin]</p>
+<p>[To Samuel M. Williams, Monclova]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
