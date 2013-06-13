@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4120">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mary Austin Holley to Stephen F Austin, 01-02-1831</title>
+            <author>
+                <persName>Mary Austin Holley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="1831-01-02">09-02010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 570-571
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-01-02">01-02-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="1831-01-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Biographical.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans,</placeName> <date when="1831-01-02">January 2, 1831</date></p>
+
+<p>My dear <persName>Cousin</persName>,</p>
+
+<p>I am far from having forgotten you or your visit to <placeName>Greenfield</placeName>,
+as you suggest in your letter to my <persName>brother John</persName>. Indeed, I often
+find myself employed in tracing the progress of the " <persName>puny boy</persName>,"
+through the daring career of the<persName> enterprising man</persName>. Little did either
+of us, at that time, contemplate the condition in which the present
+anniversary finds us. I have been more frequently led to these
+reflections since I have been living comparatively near to you&#8212;since<pb n="571"/>
+I have been left alone to mark out the future destiny of myself and
+my <persName>son</persName>. More particularly with regard to my <persName>son </persName>I have thought
+I would write to you and renew our acquaintance, in order to learn,
+what prospect <placeName>Texas </placeName>would offer to him, looking some distance a
+head: whether it would be an object for me to take any steps with
+such views&#8212;securing land&#8212;etc. He is a boy of twelve, has talents
+enough, but as yet I can not decide whether they will be marked
+by the love of literature of his <persName>Father's family</persName>, or the love of 
+enterprise of mine. His education is before him, and occupies all my
+cares. I have thought too, if my <persName>brothers </persName>could make it their
+interest to remove to <placeName>Texas</placeName>, we could there together build up our
+fallen <persName>family </persName>in new hopes and happiness. I am sure my <persName>brother
+Henry's family</persName> might be happier there <hi rend="italic">together </hi>than separated as
+now. I am happily and usefully situated where I am but I am
+<hi rend="italic">alone</hi>, and think&#8212;I am sure&#8212;I should prefer a place of tolerable
+comfort, <hi rend="italic">entirely my own,&#8212;a permanent home</hi>, to all this luxury,
+with dependence in the least possible sense. Do I deceive myself?
+I saw your letters to my <persName>brothers</persName>, and <placeName>pamphlet </placeName>while in<placeName> New York</placeName>.
+Are there persons among you who want education and 
+accomplishments such as I could give if that would be necessary, after a year
+or so? Be so good as to write me on these points, and others 
+concerning your self.   Direct <placeName>New Orleans, </placeName>Care of <persName>Michael Fortier Esq</persName>.</p>
+
+<p>I have taken this moment to write from the possibility that my
+<persName>brother Henry</persName> may be with you, and he will thereby hear from me,
+while a letter directed to him might benefit neither him nor yourself
+if he should not be there.</p>
+
+<p>Is your <persName>Sister </persName>and <persName>her family </persName>with you.</p>
+
+<p><persName>Mary Holley</persName></p>
+
+<p>I lately heard from <placeName>N York</placeName> and <placeName>New Haven</placeName> all well. I am
+obliged to hurry to send my letter.</p>
+
+<p>[Addressed:] To,<persName> Col: S F Austin</persName> <placeName>St Filippe de Austin Texas
+Mexico</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

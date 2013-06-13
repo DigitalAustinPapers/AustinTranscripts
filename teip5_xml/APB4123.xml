@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4123">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John A Williams to Stephen F Austin, 01-04-1831</title>
+            <author>
+                <persName>John A Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-03">09-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">District of Atascosito, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 572-574
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-01-04">01-04-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reviewing political status of the Sabine border and suggesting form of local government&#8212;especially courts&#8212;that should be established.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>District of Atascosito. Texas</placeName> <date when="1831-01-04">4th January 1831</date></p>
+<p><persName>Col S. F. Austin</persName></p>
+
+<p>Dear Sir In conformity with my promise I have endeavoured to
+learn from the <persName>people </persName>the public opinion as to the best mode of
+organizing the <persName>local government of this <placeName>district</placeName></persName>, no public metting
+has been had, but I have conversed with a number of persons whose
+opinions are entitled to respect Messrs. <persName>George Orr</persName>, <persName>Baker McSpinks,
+our former Alcalde</persName>, and <persName>Wm Milspaugh the present Alcalde </persName>are
+among those I have consulted They were made acquainted with
+the object of your address of the <date when="1830-11-17">17th Novbr last</date>, and All concured
+in the course there suggested</p>
+
+<p>If, for the last seven years, the <persName>people of this <placeName>dist</placeName></persName>, have 
+governed themselves in a peaceful and harmonious manner without
+courts legally established, without the enjoyment of the rights of
+citizenship and almost without law, yet obedient to law when
+known.    Is this not conclusive evidence that they are justly en-<pb n="573"/>
+titled to the previledges enjoyed by other <persName>foreigners </persName>settled in this
+<placeName>province</placeName>? For some years the <persName>strangers </persName>residing in more favoured
+parts of the <placeName>State </placeName>have had their <placeName>courts </placeName>legally constituted by which
+their judicial procedings were entitled to respect, they have been
+made the rightful <persName>proprietors </persName>of the soil they cultivate, they exercize
+the right of suffrage at elections, and have <persName>representatives </persName>in the
+<persName>legislative counsels</persName> of the <placeName>Nation</placeName>. In a word they enjoy all the
+civil rights which the Municiple laws of this nation permit to be
+exerised by <persName>foreigners</persName>.   But not so with us.</p>
+
+<p>Our judicial procedings altho just, yet they are arbitrary, and
+that from necessaty. Although we cultivate the soil, yet we are at
+will. Although our civil rights have been suspended since the
+day we first set our feet on the soil of <placeName>Mexico</placeName>, yet we have been
+faithful to her political institutions Always ready to defend her
+cause when defence was necessary, and obedient to her laws when
+her laws were made known.</p>
+
+<p>These are incontrovertable facts known to your self and also
+to many worthy <persName>Mexicans </persName>who have traveled among us. But we
+complain not nor attribute our misfortune to any willful neglect on
+the part of the Govt, but solely consider it the result of unforeseen,
+and therefore unavoidable accidents.</p>
+
+<p>If I had not considered myself authorised by your favor of
+the <date when="1830-11-17">17th of Novbr</date>. to communicate with you on the subject of the
+organization of the <persName>local government</persName> of <placeName>Trinity </placeName>and <placeName>Naches</placeName>. I
+should have been totally silent, but conceiving the correspondence
+already opened and that by one of the <persName>constitutional 
+representatives of the people</persName>, I consider myself under the greatest obligations
+for the honour you have thought fit to confer by asking my opi[ni]on
+on the subject now alluded to, and should consider myself liable
+to great reproach if I should refuse to answer fully and freely on a
+subject of such vital importance to the political existence of this
+<placeName>dist</placeName>.</p>
+
+<p>I would therefore, with due respect, suggest the following mode
+of organization for this<placeName> section of country</placeName>.</p>
+
+<p>Let there be a court of equal grade, power, and authority, with
+those of other <placeName>jurisdictions </placeName>of the state, legally established. If
+other <placeName>courts </placeName>or <persName>Ayuentamentos </persName>possess the power of framing police
+regulations let this possess the same but this kind of power should
+be but sparingly given to any <placeName>court </placeName>for there is always danger
+where legislative and judicial powers are vested in the same hands,
+and the power of passing police laws is clearly a legislative power
+so far as it extends</p>
+
+<p>The limits of this <placeName>jurisdiction </placeName>should include the <placeName>teritory </placeName>bounded
+by the following lines (To wit)<placeName> begining at the mouth of the sabine
+River thence runing up the same to the dividing ground between<pb n="574"/>
+Cow bayou settlement and Bevells settlement including the former
+settlement thenee to the Trinity river below the quosliaío Villedge
+including the Jiaches settlement and ail the anierican and Mexican
+families on the Trinity nelow the quoshato Viliedge, thence from
+immediately below said Viliedge flue west to the Langes into your
+eastern country here, thence down the Sangeslnto to its mouth thence
+along the eastern line of your colony to the gulf, thence along the
+margin of the gulf to the begining The Maches and Cow bayou
+bettlements have hitherto been considered  part of this dist.</placeName> and
+held amenable to our courts and voted at our elections, If it shoul
+be said this <placeName>teritory </placeName>is too large to form one <placeName>jurisdiction </placeName>I answer,
+it is thinly inhabited except on <placeName>Trinity </placeName>and that to appoint 
+<persName>Ayuntamientos </persName>in every <placeName>settlement </placeName>of ten or fifteen <persName>families </persName>would be 
+absurd, and further, that when the population becomes more dense it
+will be time enough to form new courts.</p>
+
+<p>As to the place of holding <placeName>courts</placeName>, At <placeName>Perries point</placeName> <placeName>one Mile distant
+from the mouth of Trinity</placeName> a <placeName>Town </placeName>has lately been laid out, by <persName>Col.
+Bradburn</persName> of the <persName>Mexican -Army</persName> his detachment is stationed there
+and making rapid improvements A number of <persName>american families
+</persName>will settle in that place so soon as they can procure lots and 1 am
+informed by <persName>Col Bradburn</persName> that a quantity of<persName> Mexican families</persName> have
+or soon will embark for the purpose of settleing there, I am 
+therefore induced to believe it will soon be a place oí considerable 
+commercial importance. Would it not, therefore be better to fix the
+<placeName>Seat of Justice</placeName> at <placeName>Perries point</placeName> ?</p>
+
+<p>If the plan of organization here suggisted should meet your 
+approbation together with those who will have to decide its fate, the <placeName>state</placeName>
+will never lament the act, for stern necessity requires that there
+should be some legal tribunal within the reach of every member of
+society by which every real, or imaginary wrong might have its
+remedy and every ex[ist]ing difficulty adjusted.</p>
+
+<p>Whether we may be so fortunate as to succeed in this application,
+or not, you Will please to have the goodness to inform us of the
+result as soon as practicable and if successful some provision should
+be made for organizing the court as soon as posible, and ought not
+(in my humble opinion) to be delayed until the time of the anual
+election of <persName>Alcaldes</persName>.   <persName>Jno A. Williams </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

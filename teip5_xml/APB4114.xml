@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4114">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D R Hopkins to Stephen F Austin, 12-20-1830</title>
+            <author>
+                <persName>D R Hopkins</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-03">09-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Labadie
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Cantonment, Jessup, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 565
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-12-20">12-20-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing N. D. Labadie.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Cant[onment] Jessup La.</placeName></p>
+
+<p><date when="1830-12-20">December 20th. 1830</date></p>
+<p>Dear sir.</p>
+
+<p>It has been a long time since I had the pleasure of your 
+acquaintance, but I beg leave to bring to your recollection The time you
+passed<placeName> Fort Riply</placeName>, on the <placeName>Sabine </placeName>in <date n="xx-xx-1821">1821</date>.</p>
+
+<p>The <persName>bearer </persName>of this <persName>Mr. N. D Labadie</persName> I beg leave to introduce to
+your acquaintance, as, a, young Gentleman, who visits your <placeName>Country</placeName>
+with a view of locating himself somewhere, in your <placeName>District of
+Country</placeName>, Either in the profession of medicine or in the Mercantile
+pursuits&#8212;</p>
+
+<p><persName>Mr. Labadie</persName> has been in the Employ of <persName>Harrison and Hopkins
+</persName>for the last Eight Months and from what we have found, from That
+Experience, we have no hesitation in introducing him to you as a
+<persName>Gentleman </persName>worthy of the highest, respect, and one well qualified to
+discharge the duties of his profession&#8212;</p>
+
+<p>If you can render <persName>Mr. Labadie</persName> any services in the way of his 
+making an advantageous location&#8212;you will not only place him under
+particular obligations to you, but aliso your</p>
+
+<p><persName>D R Hopkins  </persName>  [Rubric]</p>
+
+<p>[Addressed:] To <persName>Col. Stephen F, Austin</persName> <placeName>St. Phillipe de Austin
+Texas </placeName>  Pr <persName>Mr Labadie</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

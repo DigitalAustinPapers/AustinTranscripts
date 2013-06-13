@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4122">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 01-03-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-03">09-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Rio Grande, </placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 571
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-01-03">01-03-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions concerning land.  Political conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex]</p>
+
+<p><placeName>Rio Grande</placeName> <date when="1831-01-03">3 Jany. 1831</date></p>
+<p>Dr Sir.</p>
+
+<p>I have just arrived at this place, and as the mail is on the point
+of leaving I drop you a line. I am comfortably lodged with <persName>Dn Juan
+Francisco Lombaña</persName> whom I think a very gentlemanly man.<pb n="572"/></p>
+
+<p>I shall detain here one day for the <persName>escort </persName>to get ready. The [re]
+appears to be nothing new that I have heard of&#8212;tho have made no
+inquiries.   <persName>Padre Musquis</persName> has gone on.</p>
+
+<p><persName>[George] Nixon</persName> has expressed so much anxiety to be on good terms
+again that I have agreed to it and wrote you by him stating that he
+could [have] a League where it was entirely unappropriated&#8212; the
+best conquest that can be made over an enemy is to convert him into
+a friend. I told him that he could not get any <placeName>forfeited League</placeName>.
+On reflection as to the <placeName>Lindsey League</placeName>&#8212;I think it had better be
+held, for the present. After my arrival at <placeName>Saltillo </placeName>I think I can
+get your petition granted, and if so you are more entitled to that
+<placeName>League </placeName>than any one else, and you shall have my support to get it&#8212;
+but keep this to yourself. Send instructions to <persName>S. P. Brown</persName> how to
+regulate his chain to the <placeName>Mexican </placeName>Measure. He sent me word by
+<persName>Williamson </persName>that he had forgotten the difference between the <placeName>Mexican</placeName>
+and <placeName>english </placeName>measure.</p>
+
+<p>If <persName>young Tumlinson</persName> applies for a place up <placeName>on Navidad </placeName>let him
+have one&#8212;he is the best of that <persName>family</persName></p>
+
+<p>Remember me to <persName>Sarah </persName>and <persName>Mrs. Sweet</persName></p>
+
+<p><persName>S. M. Williams  </persName> <persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>[Addressed:] Al <persName>Señor Dn Samuel Williams</persName>, en <placeName>San Felipe de
+Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

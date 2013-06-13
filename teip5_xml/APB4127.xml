@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4127">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Austin to Stephen F Austin, 01-05-1831</title>
+            <author>
+                <persName>John P Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-03">09-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 578-580
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letters</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-01-05">01-05-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Desire of Galveston Bay &amp; Texas Land Co. to cooperate with Austin. German and Swiss immigration. Interest in Texas land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1831-01-05">January 5 1831</date></p>
+<p>My dear <persName>Cousin</persName></p>
+
+<p>I have addressed you frequently of late, at <placeName>Austin</placeName>, giving such
+information as I thought to your interest or would prove acceptable,
+Also advised of<persName> Mr Treat</persName>, who left here about the <date when="1830-12-18">18th of last month
+</date>via <placeName>New Orleans</placeName>, being the <persName>bearer </persName>of a friendly letter to you from
+the <persName>Trustees of the Company,</persName> formed by the <placeName>Grant </placeName>of <persName>Zavala</persName>,
+<persName>Vechlin </persName>and <persName>Burnett</persName>, giving a view of their plan of operations, the
+Success of which I should think could but further the interest of
+your <placeName>Colony</placeName>, and that a material understanding and friendly 
+intercesion would prove equally advantageous to both parties. I am
+now informed by my <persName>friend</persName>, who is no Stranger to the plans of the
+Company that they write you at <placeName>Saltillo</placeName>, where I presume your
+duties as a <persName>member of the State Legislature</persName> has called you ere this,
+Via<placeName> Vera Cruz</placeName> by the Packet to Sail today, with a wish that a
+letter from me might accompany theirs, and steps would be taken
+to secure their safe delivery. Which opportunity I am happy to
+embrace. The <persName>Company </persName>now see the importance of communicating
+with you as speedily as practicable, for the purpose of arousing your
+interest and with it your influence or at least your friendly 
+disposition toward them. The <persName>Trustees </persName>and <persName>board of directors</persName>, as
+before stated, I can assure you are composed of some of our most
+<persName>respectable and monied men</persName>, therefore no want of funds to secure
+their object, and with an interest extending throughout the <placeName>States</placeName>,
+will in time usurp a powerful influence. <persName>Col. Mexia </persName>also writes
+you at this time and will soon leave himself for <placeName>Saltillo </placeName>via <placeName>New
+Orleans</placeName>, <placeName>Vera Cruz</placeName> and the <placeName>City of Mexico,</placeName> to see you in behalf
+of the <persName>Company</persName>, who have engaged another <persName>special agent</persName> also soon
+to leave for <placeName>Saltillo </placeName>to open a negotiation between you and said
+<persName>Company</persName>. From the above you can readily infer the light in which
+you and your <placeName>Colony </placeName>are held by the <persName>Company</persName>, who appear anxious
+if no more can be done to secure your neutrality looking upon that
+alone of no little importance to them, if not necessary to their
+ultimate success,   One  Vessel has been  already  despatched  with<pb n="579"/>
+about 70 <persName>Swiss </persName>and <persName>German settlers</persName> for <placeName>Galveston Bay</placeName> and another
+is early to sail with the same number. In fact the current of
+emigration is setting so strong towards <placeName>Texas</placeName>, that if you had 
+anyone here to represent your <placeName>Colony</placeName>, I am confident there would be
+no want of <persName>Settlers</persName>, as yours would have the decided preference
+over all others. While writing I am informed one great object
+of the <persName>Land Company</persName> in sending an <persName>agent </persName>to you is in hopes to
+induce you to unite your <placeName>Colony </placeName>with theirs, but I cannot credit that
+they would make such a proposition or have any hopes of success if
+they did, for I cannot conceive they can offer an equivalent, for in
+that event you may rest assured they would place all <persName>settlers </persName>on
+their own <placeName>lands</placeName>, for it would be to their interest to do so. In hopes
+of soon being in receipt of some of your kind favors I am with the
+compliments of the Season</p>
+
+<p>[Rubric]</p>
+<p>P. S.</p>
+
+<p>Since writing the above <persName>Col. Langworthy</persName> of <placeName>Vermont</placeName>, with whom
+I am but very slightly acquainted, has handed me a letter to you
+which I enclose, wrote at my suggestion when he called a few days
+since for information as to your <placeName>Colony</placeName>, and to which I would refer
+as also giving the manner in which the<persName> Zavala Company</persName> dispose of
+their <placeName>lands </placeName>and of which I was not before so fully acquainted. You
+will see <persName>Col. L.</persName> has an interest in said <persName>Company </persName>of <placeName>100.000 acres</placeName>, cost
+him he tells me 5 cents pr acre, the payment of which may have been
+secured, but otherwise I presume not paid for as I understand he is
+very poor having lost all of his property. I am however told he is
+a man of information and he informs me in his <placeName>neighborhood </placeName>he
+could get <persName>Settlers </persName>almost without numbers to go to <placeName>Texas </placeName>was he to
+advise them to go, and that many offered to exchange their <placeName>farms </placeName>for
+these <placeName>lands</placeName>. You may therefore be able to use the <persName>Colonel </persName>to 
+advantage, without incurring any responsibility on your part, and the
+latter I should advise never to lose sight of, and at the same time
+further his interest and views. I have promised him a letter to
+you of introduction and doubt not you will find him much of a
+Gentleman.</p>
+
+<p>[Rubric]</p>
+
+<p><date when="1831-01-25">January 25. 1831</date></p>
+<p>Dear <persName>Cousin</persName>,</p>
+
+<p>Referring to above duplicate of my last respect. I now add a
+few lines by a <persName>son of Mr Woodbury</persName>, whom I am surprised to learn
+is still here, to sail in the <date when="1831-01-26">morning </date>direct for <placeName>Galveston Bay</placeName>, as he
+gave me to understand that he would leave long since via <placeName>New 
+Orleans</placeName>.   I send you in charge of <persName>Mr. W.</persName> a <placeName>pamphlet </placeName>just published<pb n="580"/>
+by the<persName> Galveston Bay and Texas Land Company</persName>&#8212;-the <persName>Company</persName>
+before referred to above and in my former letters&#8212;giving their
+articles of association plan of operations, Translation of their grant,
+etc., which as yet I have not had time to peruse but doubt not the
+<placeName>pamphlet </placeName>will prove acceptable to you. One of the <persName>Trustees </persName>tells
+me they intend to add to it some legal opinions when they will send
+you a copy. I also enclose their first advertisement which has 
+appeared in the<placeName> public prints</placeName>. <persName>Col. Langworthy </persName>sailed from here for
+<placeName>Galveston Bay</placeName> about the <date when="1830-01-11">11th inst</date>, in a small vessel full of <persName>Settlers</persName>
+whom I am informed were sent out by<persName> Col. Mexia</persName> and a <persName>private
+Company. </persName>I saw the <persName>Colonel </persName><placeName>on board</placeName> and he told me as much.
+<persName>Col. L.</persName> is <persName>agent </persName>for a <persName>private Concern</persName> which he told me however
+would in no way interfere with is own business and object of his
+visit. He is very desirous to see you and doubt not will 
+communicate freely with you and that you may be able to elicit from him
+much valuable information and which I hope you may turn to
+advantage. In my letter which accompanied your Coat, I gave a
+statement of the coat of making and Trimming and I stated that
+<persName>Mr Perry</persName> had informed me he had left $20 with his friend in 
+<placeName>Philadelphia </placeName>to hand on to paye the supposed cost of making at that time,
+instead of which they have since sent and paid the whole bill say
+$41??&#8212; I am happy to hear of you thro' <persName>brother Archibald,</persName> who
+is in receipt of your letter of the <date when="1830-12-20">20th December</date> advising of the 
+receipt of his per Schooner Nelson. You make no mention of a letter
+and paper roll I gave in charge of <persName>Mr &amp; Mrs [Wm.] T. Austin,</persName> 
+passengers by said vessel, which I hope came safe to hand. <persName>Brother
+Henry </persName>has indeed been truly unfortunate with the Steam Boat. I
+must acknowledge I had no confidence that your <placeName>Colony </placeName>was 
+sufficiently advanced to give him profitable employment, and regreted
+much to hear that he had taken her off the<placeName> rio Bravo</placeName>, but in the
+absence of his letters must take it for granted that he found it the
+only alternative. I trust must soon hear from him and hope to have
+that pleasure from you yourself.</p>
+
+<p<persName>>J. P. Austin </persName>   [Rubric]</p>
+<p>P. S. I also send a  file of <placeName>newspapers</placeName>, but nothing late from
+<placeName>Europe</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
