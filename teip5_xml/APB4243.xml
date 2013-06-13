@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4243">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to N A Ware, 07-24-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-12">09-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        N A Ware
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 681-682
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-07-24">07-24-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advantages offered by Texas for establishment of cotton mill. Production now 1,000 pounds a year, and will increase. Government will foster colonies already established.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felepe de Austin, Texas,</placeName><date when="1831-07-24"> July 24. 1831</date></p>
+<p>Mr. <persName>Nat. A Ware,</persName></p>
+
+<p>Dr Sir, A few days before my departure from <placeName>Saltillo </placeName>I received a
+letter from <persName>Cap. Henry Austin</persName> informing me of your wish to establish
+a <placeName>Cotton Manfactury</placeName> in this <placeName>colony</placeName>. I should have written to you
+immediately but was on the eve of departing for this place, and 
+concluded that it would be best to defer writing untill I arrived here,</p>
+
+<p>On my arrival at home I found <persName>Cap. Henry Austin</persName> quite sick,
+which has caused a delay up to this time.</p>
+
+<p>With respect to the probable success and profits of a <placeName>Cotton 
+Manufactory,</placeName> I have no hesitation in saying that I believe there is no
+mode in which capital can be employed to greater advantage.</p>
+
+<p>This <placeName>colony</placeName>, and <placeName>Texas </placeName>in general is in a state of secure and 
+progressive improvement. The natural resources, and capacities of this
+<placeName>country </placeName>to become populous and wealthy, are superior to any portion
+of <placeName>north America</placeName> which I have seen or have any knowledge of. It
+affords all the elements necessary for the establishment and support
+of extensive <placeName>manufacturies</placeName>, except one, <persName>hands</persName>, which at first must be
+introduced from other <placeName>countries</placeName>. It no doubt is the settled policy of
+the government to encourage <placeName>manufactories </placeName>of cotton, and I think
+that the large capital which has been invested in this branch, by the
+Government itself, affords a very secure guarantee that the present
+policy will not be departed from. This being the case, it needs no
+other assurance to insure great profits from the business</p>
+
+<p>The stock of cotton now raised in this <placeName>colony </placeName>may be rated at one
+thousand bales of 400 pounds, This amount will increase of course
+every year, so that there is no scarcity of the raw material. 
+Provisions are getting very abundant and cheap, and will also increase in
+quantity at a rapid ratio, with the exception of wheat flour, which is
+not yet produced in the <placeName>country</placeName>, but will become a secure and 
+profitable staple, from the <placeName>interior parts of Texas </placeName><placeName>high up on the Brazos
+and Colorado rivers</placeName>.</p>
+
+<p>This <placeName>colony </placeName>affords many eligible situations for <placeName>cotton factories</placeName>,
+but I should recommend the Steam power, in preference to water-
+as to the location of the <placeName>factory</placeName>, I think it ought to be a matter for<placeName><pb n="682"/>
+your detirmination after examining the country, which I presume
+you would do before you made an investment of so much importance.</p>
+
+<p>The <placeName>forks of Buffalo bayou at the head of tide water 
+navigation six miles above Harrisburgh</placeName>, where <persName>John Austin</persName> has offered a
+tract&#8212;or at this place&#8212;or <placeName>on the Colorado river west of this</placeName>-&#8212;or
+a <placeName>point on Galveston bay&#8212;</placeName>or at the <placeName>town of Brazoria</placeName>&#8212;are all
+eligible situations, and there are many others. I think that land can
+be procured by means of a direct <placeName>grant </placeName>from govt, but if it cannot
+capital will easily procure as much as could be desired</p>
+
+<p>I will give every aid in my power in this respect, and in every
+other particular. I advise you to visit this <placeName>colony </placeName>this <date n="Fall-1831">fall </date>or as
+soon as you can, and examine the <placeName>country </placeName>and judge for yourself if
+however your mind is fully satisfied as to the advantages of the
+business, you would save time by bringing out the machinery at
+once. <persName>Cap Henry Austin </persName>will settle himself for the present <placeName>about
+15 miles above Brazoria on tide water navigation of the Brazos
+river</placeName>. If you should come into this river which is the best place to
+land be particular to get a vessel that does not draw more than
+five feet water or 5% at most&#8212;on account of <placeName>the bar off the mouth
+of the river</placeName></p>
+
+<p>The policy of the <persName>mexican govt</persName>, as to the <placeName>colonies </placeName>which have been
+legally established, is clearly developed and frankly manifested
+which is to foster and protect them by every possible means. My
+<placeName>colony </placeName>in particular has uniformly recd the fullest support and 
+protection of the Govt, and I have the most substantial reasons for 
+believing that they will prosper during the next year more than at
+any former period.</p>
+
+<p>Those who have acted in good faith in their colonizing 
+opperations in <placeName>Texas</placeName>, and who have adherd to the law and to their 
+contracts, have uniformly been protected and there is no cause nor
+the shadow of just cause to distrust the good faith of this govt. I
+should and do consider property as secure in this <placeName>colony </placeName>as in the
+<placeName>U. S.</placeName> or any where else.</p>
+
+<p>I shall be happy to give you any information in my power at any
+time. I expect to leave here in <date when="1831-12-01">Dec 1 </date>for <placeName>Saltillo </placeName>and shall 
+necessarily be absent six or seven months indeed it is rather probable
+I shall visit the <placeName>city of Mexico</placeName> in which event my absence will be
+longer.</p>
+
+<p><persName>Step F. Austin</persName></p>
+
+<p>If you visit this <placeName>country </placeName>do not fail to get a passport from the
+<persName>Mexican consul</persName>.          </p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

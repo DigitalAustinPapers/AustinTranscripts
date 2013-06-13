@@ -5,7 +5,7 @@ use Cwd;
 $this_dir = getcwd();
 #$this_dir = chomp($this_dir);
 my $errfile = "errors.txt";
-@files = <source_xml/APB41*>;
+@files = <source_xml/APB42*>;
 foreach $file (@files) {
 
 	$cmd_convert = "$this_dir/scripts/xml2tei.pl teip5_xml/ $file\n";

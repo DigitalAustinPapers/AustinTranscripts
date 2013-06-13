@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4224">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Sylvester Murphy  to Stephen F Austin, 06-12-1831</title>
+            <author>
+                <persName>Sylvester Murphy </persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-12">09-12-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 666
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-06-12">06-12-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Arrived from Georgia in February with 50 slaves. Wants land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria </placeName><date when="1831-06-12">12th June 1831</date></p>
+<p><persName>Col S. F. Austin</persName></p>
+<p>Dr Sir</p>
+
+<p>I take the liberty of droping you a line by <persName>Mr. Wm Austin</persName> my
+health being very delicate prevents me from addressing you 
+personally. I arrived here from <placeName>Georgia </placeName>the <date n="02-xx-1831">latter part of February
+</date>with fifty odd <persName>Slaves</persName>, but understanding you were absent from <placeName>St
+Phillipe</placeName>, I have not yet applied for any <placeName>Land</placeName>, I have been 
+respectably informed your disposition has been, to encourage those,
+that bring into your <placeName>Collony </placeName>a large disposible force. I will feel
+grateful to you to select and reserve for me <placeName>one of the most valuable
+Leagues</placeName> you have to dispose of. <hi rend="italic">Common report says, that <persName>Doctor
+Phelps</persName> has forfeited his <placeName>League</placeName>,</hi> should that be the <hi rend="italic">facts</hi>, I beg of you (if in your power) to give it to me, but should the Government
+alone have the disposal of it, you will oblige me by useing your
+influence in my favor. I am now living at the <placeName>Gin Place</placeName>, and that
+<placeName>tract of land</placeName> would suit me better than <persName>any other person</persName> in the
+<placeName>Collony</placeName>. I have agreed with <persName>Mr John Austin</persName> to open and fence <placeName>one
+Hundred acres there</placeName>, and I could improve both places at the same
+time, and if <persName>Dr Phelps</persName> has forfeited, I think I deserve the land more
+than <persName>any other man</persName> in the <placeName>Collony</placeName>, for I have the force to cultivate
+a large portion of it. I refer you to <persName>John and William Austin</persName>, a
+reply is respectfully asked for.</p>
+
+<p><persName>Sylvester Murphy</persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

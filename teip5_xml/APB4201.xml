@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4201">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 04-18-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-11">09-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 648-649
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-04-18">04-18-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Governor hostile to Bill against foreigners engaging in retail trade asleep.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><date when="1831-04-18">April 18. 1831</date></p>
+
+<p>I have drawn on you this day for one hundred dollars in favor
+of <persName>Mr. Joseph Powel</persName>, who let me have that amt. here. I think I can
+get along with this. I should not have wanted any but I have agreed
+to pay the office charges on the petitions that are pending from all
+<placeName>Texas</placeName>, which will amt. to upwards of 200 dollars I expect.</p>
+
+<p>The present <persName>governor </persName>has carefully separated from the petitions
+all who are not <persName>native Mexicans</persName>, and will reject them all, he hates
+all <persName>foreigners </persName>as he does the devil and he must hate the <persName>old boy
+</persName>mortally for he is a <persName>fanatic en extremo</persName>.</p>
+
+<p><persName>Arciniega </persName>can safely go on and issue the titles, that had the 
+restriction, there will be no difficulty altho no definite or satisfactory
+answer could be had from the <persName>Govr</persName>. As a genl, rule you must tell
+<persName>Arciniega </persName>never to consult on any subject, unless he wishes to get
+himself and everybody else into trouble.</p>
+
+<p>I have done all I could for <persName>Madero</persName>, which is as much as to say
+that I have effected nothing, for this <persName>Govr</persName>. thinks that <persName>Madero </persName>is
+a <persName>heretic </persName>and the more he suffers the better, as it will only be a
+taste of hell in advance.   At <placeName>Matamoros </placeName>I may [do] something and<pb n="649"/>
+will attend to it. Inform <persName>Madero </persName>of this, or if as I presume from
+a hint I saw in one of your letters that you and <persName>Madero </persName>and his
+<persName>Comitiva </persName>are at cross questions because a paper was sent through
+another hand than yours, you can get <persName>Arciniega </persName>to communicate.</p>
+
+<p>There is nothing new here since my last which was on the <date when="1831-04-16">16th&#8212;</date>
+the retail bill is asleep and I think it probably will so remain. The
+<persName>pasquinades </persName>that were put up against <persName>Aguirre </persName>have not had the
+effect which the <persName>shop gentry</persName> expected, and I think the matter will
+not be moved again.</p>
+
+<p>I send <persName>Johnson </persName>two seals, such as are used in this place.</p>
+
+<p><persName>S F Austin  </persName>  [Rubric]</p>
+
+<p>I paid forty dollars on the <placeName>grants </placeName>which I sent by <persName>Rodriguez </persName>which
+you must collect</p>
+
+<p>[Addressed:]<persName> Mr. Samuel M. Williams</persName><placeName> San Felipe de Austin
+</placeName><persName>Mr. Powel</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

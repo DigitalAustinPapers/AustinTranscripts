@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4213">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 05-08-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-11">09-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Leona Vicario, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 660-662
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-05-08">05-08-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Method of handling disturbers in Texas, Errors of empresarios. He alone understood the full purpose of the law of April 6, 1830. Federal Government opposed to the law excluding foreigners from retail trade. Land titles in east Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Leona Vicario</placeName> <date when="1831-05-08">May 8. 1831</date></p>
+<p>Dr Sir.</p>
+
+<p>I voluntierd to pay the office fees on all the petitions for <placeName>land</placeName>
+pending from <placeName>Bexar</placeName>, <placeName>Goliad </placeName>and <placeName>Nacogdoches</placeName>, and to take on the
+<placeName>grants</placeName>. This has detained me a week longer than I expected as they
+could not be completed. I am told that they will all be ready 
+<date when="1831-05-09">tomorrow </date>morning, so that I can start in the afternoon.</p>
+
+<p>The mail of <date when="1831-05-07">yesterday </date>brought me yours of<date when="1831-04-19"> 19th ult</date> and <persName>Lesassier</persName>'s.
+I am much gratified to hear that <persName>Burnet and wife </persName>have arrived he
+will be a very valuable acquisition I think, that is, provided he
+keeps cool and always has a good stock of calmness and prudent
+discretion on board, articles which are dayly becoming more and
+more necessary in <placeName>Texas</placeName>. The sending of the Cotton seed was just
+as it should be. I am truly pleased that you did not forget it,
+for you recollect that I was compromised by officio to send a few
+boxes to<placeName> La Baca</placeName>&#8212;much better that it was sent to <placeName>Tampico</placeName>&#8212;close
+attention to such small matters will do great good. I presume the
+tonnage duty has been satisfactorily regulated&#8212;that is as to the
+principle that it cannot be collected from one <placeName>Mexican port</placeName> to
+another&#8212;if it has not, it will be.</p>
+
+<p>The first part of <persName>Luke</persName>s letter alarmed me, but I laughed before I
+finished&#8212;who or what is this <persName>firebrand </persName>he speaks of&#8212;<persName>Stockton</persName>&#8212;
+he can do no harm unless consequence is given to him by putting him
+in irons, or some other notice of that kind-&#8212;you know the people
+there well enough to know, that a scape gallows, or a dog can be
+made a great man among them, merely by being opposed by a few
+decent men and especially by any one in office.</p>
+
+<p><hi rend="italic">"The abuse of a little brief authority "</hi> is in the mouth of every
+<persName>North American</persName> and there is not one in 50,000 who are competent to
+distinguish between, a proper and necessary exercise of authority
+and its abuse&#8212;with the most of them an <persName>officer </persName>is always wrong-
+either too undecisive and weak&#8212;or too rigid and despotic.   Let such<pb n="661"/>
+<persName>firebrands </persName>alone, and the good sense of the sound and reflecting part
+of the <placeName>colony</placeName>, will put them down much sooner and more effectually
+than opposition or irons, by the <persName>authorities</persName>. If the <persName>civil authority
+</persName>had taken hold of <persName>Dayton</persName>, he would have become popular, altho he
+was a most perfect <persName>jack ass </persName>and a <persName>scoundrel</persName>. However if the <persName>civil
+authority</persName> have already intervened, it must sustain itself, firm as a
+mountain&#8212;either hands off in toto, or go the whole.</p>
+
+<p>The clouds which are hanging over the <placeName>Trinity </placeName>and<placeName> eastern part</placeName>,
+as well as<placeName> other parts of Texas</placeName> will pass away, unless others, and
+more dense ones are raised by the imprudence and hasty temper of
+"<persName>firebrands</persName>." The <persName>Empresarios</persName>, whose imprudence, and total 
+ignorance or neglect of the law and of their duty has brought all this
+trouble upon <placeName>Texas</placeName>, need not expect much or anything&#8212;but the
+actual <persName>settlers </persName>are safe, and in the end will all be secure, unless they,
+themselves entangle matters&#8212;your fears as to <persName><hi rend="italic">Boss </hi>[Teran?]</persName> so far
+as my <placeName>colony </placeName>or <persName>Dewitt</persName>s are totally groundless, notwithstanding
+<hi rend="italic">appearances</hi>. Some gross errors have been committed by some one,
+as to the rights of actual <persName>settlers </persName><placeName>east of my colony</placeName>&#8212;but they are
+errors which can be easily corrected, and I have no doubt will be,
+when the whole subject is properly understood. Things are in 
+reality, not half so bad now, as they were a year ago. <placeName>Texas </placeName>has 
+hundreds of <persName>friends </persName>now who at that time were bitter <persName>enemies</persName>&#8212;all the
+difference is, that at that time, myself and a very few more, and as to
+some things I might say, myself alone, knew what was on the carpet,
+and what the true state of things was&#8212;now it is in the mouth of
+everyone&#8212;a ship cannot be turned upon its keel like a top&#8212;neither
+can a govt, a people, or deep rooted prejudices. If I could shut up
+all the mouths in Texas for one year, I would pledge myself to 
+deliver every <persName>man </persName>his title within that time. I am much better pleased
+with the <persName>govr </persName>than I was&#8212;he is an honest <persName>man </persName>and will go right
+in the end.</p>
+
+<p>On the <date when="1831-04-11">11 of April</date>, dia de celebre memoria, I sent a copy of the
+retail law, to the minister of relations, with an <hi rend="italic">oficio </hi>stating the
+leading unconstitutional features of that project, and the evils it
+would give rise to&#8212;by <date when="1831-05-07">yesterday</date>s mail he answers me officially, that
+on the <date when="1831-04-22">22d.</date> the <persName>Vice President</persName> transmitted my oficio and the copy of
+the said project to the <persName>Chamber of Representatives</persName>, with a strong
+recommendation that some declaratory law should be passed to 
+prevent the states from attacking the constitutional rights of <persName>citizens</persName>
+or <persName>naturalized foreigners</persName>, and also as to the right of the <placeName>states </placeName>to
+regulate commerce</p>
+
+<p>I leave <date when="1831-05-09">tomorrow </date>for <placeName>Matamoros</placeName>&#8212;<persName>Chambers </persName>and the two <persName>Yorks</persName>
+go with me&#8212;the prospect for the latter is not very good&#8212;tho, not
+quite hopeless. I have done all I can, and hope to do something for
+them at <placeName>Matamoros</placeName>,<pb n="662"/></p>
+
+<p>A very absolute order has been issued, which finally settles the
+point between <persName>DeWitt </persName>and <persName>Deleon</persName>. All the <persName>families </persName>settled by the
+former, within the original limits of his <placeName>colony</placeName>, are to be included
+as of his contract and <persName>Navarro </persName>is ordered to give them titles 
+accordingly.</p>
+
+<p>I hope <persName>Padre Muldoon </persName>is with you before this&#8212;remember me to
+him affectionately. I have great confidence in him&#8212;remember me
+to <persName>Burnett </persName>and <persName>Mrs. W </persName>and <persName>Elisa</persName>,   hasta la vista en esa,</p>
+
+<p><persName>S. F. A</persName></p>
+
+<p>Suffer no one at all to select any <placeName>land in the ten League reserve
+east of Brazos</placeName></p>
+                                <p><persName>Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

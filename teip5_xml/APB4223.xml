@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4223">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elias R Wightman to Stephen F Austin, 06-12-1831</title>
+            <author>
+                <persName>Elias R Wightman</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-11">09-11-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matagorda, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 665-666
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-06-12">06-12-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Difficulties of a surveyor.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matagorda </placeName><date when="1831-06-12">12th June 1831</date></p>
+<p>Dear Sir</p>
+
+<p>I feel to Congratulate you on Your return, and have much to
+say and inquire when your business which (now necessarily presses
+on your first arrival) shall give you leisure. But Relative to my
+Surveys and returns It must be remembered that <placeName>Coast Surveys</placeName>
+require four times the work in Surveying as well as plotting to
+what just<placeName> square Leagues</placeName> do, and great time is Spent in hunting
+land, to suit people such was the fact on, and about, <placeName>Spring Creek</placeName>,
+<persName>Mr Hubert</persName> Said he believed he could explore and find land that
+would be taken and If I would let him Survey it he would take
+the trouble to explore, While I was there; had I known; where,
+was any <placeName>land </placeName>I could soon survey, ec. but no one knew of any;
+but it seems he has found some and surveyed&#8212;which would 
+otherwise been unknown, I have myself been exploring a good deal
+over this section and I run back and forwards to<placeName> Spring Creek </placeName>for
+notes which I am now blamed for I could do little else and my
+services would be lost to the <placeName>office</placeName>.</p>
+
+<p>You know I am industrious: But I shall obey every order, and be
+there, for whatever I may be wanted; and I am expense to myself
+of paying for the surveying of the land I did not know was found.
+Some mistakes, I am sorry for; that any should occur, But believe
+me ever the same</p>
+
+<p><persName>E. R. Wightman </persName>   [Rubric]</p>
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p><persName>Hubert </persName>is not much of a <persName>Surveyor </persName>I did think as he had been
+out with me and carried the Compass some that he could run Cor-<pb n="666"/>
+rectly all he would find<placeName> on and adjacent to Spring Creek </placeName>and if
+his minutes had not been sent to all the <persName>Surveyors </persName>to be Condensced
+I Could understood them but this was his fault he should have
+sent them enclosed to me, for it is not to be expected that other
+<persName>Surveyors </persName>would take the trouble if they could understand them
+neither <persName>Jones </persName>nor <persName>Cook</persName>'s minutes could be understood by those 
+unaquainted with their notes</p>
+
+<p><persName>ERW</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
