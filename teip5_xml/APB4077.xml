@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4077">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James W Breedlove to Stephen F Austin, 11-12-1830</title>
+            <author>
+                <persName>James W Breedlove</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-01">09-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 533-534
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-11-12">11-12-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Regrets developments concerning George Fisher. Emigration to Texas greater than last year. Mexican politics.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexican Consulate</placeName></p>
+<p><placeName>New Orleans</placeName> <date when="1830-11-12">Novr. 12 1830</date></p>
+<p><persName>Col Stephen F Austin</persName></p>
+
+<p>Dear Sir Your favor of the <date when="1830-10-13">13th Oct </date>by <persName>Mr Ker</persName> reached me
+this morning, and contents observed. I regret much to learn that
+<persName>George Fisher</persName> had turned out so badly. I had formed a favorable
+opinion of him. I am very glad that you have placed his character
+in its proper light before me as he may perhaps wend his way hither,
+having a <persName>family </persName>in <placeName>Mississippi</placeName>&#8212;</p>
+
+<p>I am of opinion that the Emigration to <placeName>Texas </placeName>this <date n="Winter-1830">Winter </date>will be
+much greater than any previous season. If I may be allowed to
+Judge from the many letters addressed to me from <placeName>all parts of the
+United States</placeName>, asking information respecting the <placeName>Country</placeName>&#8212; By
+this conveyance I send you many letters etc received for the last
+two Mos</p>
+
+<p>I am much gratified to learn that things are going on well in
+<placeName>Mexico</placeName>, and that the present <persName>administration </persName>have better feelings
+towards <persName>North Americans</persName>,   Should <persName>Genl Bustamante </persName>progress well<pb n="534"/>
+with the affairs of the Genl Government until the next presidential
+Election? he will doubtless obtain the voice of the people for <persName>President</persName></p>
+
+<p><persName>General Pedraza the President</persName> Elect before <persName>Guerrero</persName>, is now <placeName>here
+in Exile</placeName>, he seems to be a man of good sense, modest and 
+unassuming living a very retired life, on his return from <placeName>Europe </placeName>to <placeName>Vera
+Cruz</placeName> he met an order from the <persName>Supreme Government</persName> ordering him
+from the<placeName> Coast of Mexico</placeName>,   he came here<date n="10-xx-1830"> about a month since</date></p>
+
+<p><persName>Jas W Breedlove  </persName>  [Rubric]</p>
+
+<p>[Addressed:] <persName>Col. Stephen F Austin</persName> <persName>San Felipe de Austin
+Texas</persName>   <placeName>Schr Reaper</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

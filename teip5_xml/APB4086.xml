@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4086">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Ayuntamiento of San Felipe to Stephen F Austin, 11-24-1830</title>
+            <author>
+                <persName>Ayuntamiento of San Felipe</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-01">09-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Municipality of Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 539-540
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-11-24">11-24-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking him to use militia to apprehend criminals who are inciting Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Municipality of Austin</placeName></p>
+<p>Information having been given to the <persName>Ayunto </persName>of this <placeName>Municipality</placeName>
+that the <persName>inhabitants of the <placeName>Colony of the Empresario Green De
+Witt</placeName></persName>, belonging to this jurisdiction are suffering from the robberies
+of barbarous <persName>Indians</persName>, who are supposed to be assisted and directed
+by <persName>men of infamous character</persName>, prowling in the vicinity of that
+<placeName>Colony </placeName>and who are stealing horses etc to carry to some other place
+for sale. This <persName>Ayuntamto </persName>in the discharge of the duties and 
+obligations confered on it by the Laws have that proper for the 
+preservation of the property of the <persName>inhabitants </persName>and for the preservation of
+good order and tranquility to appoint<persName> Mr Francis W. Johnson</persName> as a
+<persName>Commissioner </persName>to proceed, with a number of <persName>militia men</persName> to the
+<placeName>western frontier of this Colony</placeName>, and to the <placeName>Colony of the sd <persName>Dewitt</persName>
+</placeName>for the purpose of investigating the true situation of those 
+<persName>inhabitants </persName>and also to endeavor to apprehend and secure those <persName>disturbers
+of the tranquility and <persName>violaters </persName>of the Laws in order that they may
+be brot to exemplary punishment, for which reason the <persName>Ayunto</persName><pb n="540"/>
+calls on you as the <persName>Colonel Commandmant of the Militia of this
+Municipality</persName> to place at the disposition of the before mentioned
+<persName>Mr. Johnson</persName> a sufficient number of <persName>Militia Men</persName>, to secure the
+objects of the <persName>Ayuntamto </persName>and the apprehension of all such <persName>evil
+doers</persName> as may be found connected in the outrages Committed by the
+<persName>Indians</persName>.</p>
+
+<p>God and Liberty</p>
+
+<p>Town of <placeName>Austin</placeName> <date when="1830-11-24">24th Novr 1830</date></p>
+
+<p><p><persName>Tho. Barnett</persName>   [Rubric]</p>
+<persName>Samuel M Williams Secy protem </persName>   [Rubric]</p>
+<p><persName>Colonel Stephen F Austin</persName></p>
+<p>
+<persName>Commander of the Batallion of Militia of <placeName>Austin</placeName></persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4070">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ayuntamiento of San Fellipe, 11-05-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-31">08-31-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ayuntamiento of San Fellipe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 527-528
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-11-05">11-05-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Assuring it that he will expel certain undesirables from the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>To the Illustrious <persName>Ayuntamiento </persName>of the <placeName>Municipality of Austin</placeName>,</p>
+
+<p>I have the honor to acknowledge the receipt of the official 
+communication, made to me by that corporation, dated <date when="1830-11-04">yesterday</date>, and
+a copy of the resolutions, adopted on the<date when="1830-11-02"> 2nd inst</date>. relative to the
+removal from this <placeName>colony </placeName>of certain <persName>persons </persName>therein named, of 
+<persName>notorious-infamous character</persName>; and recommending a rigid scrutiny as
+to the conduct of certain others, before they are received as <persName>settlers</persName>.</p>
+
+<p>The 5th article of my contract with the <persName>government </persName>for the 
+settlement of this <placeName>colony</placeName>, is in these words, "It shall be an obligation
+upon him (<persName>Austin</persName>,) not to admit <persName>criminals</persName>, <persName>vagabonds</persName>, or <persName>men of
+bad character</persName>, and he shall cause all those of this description who
+are found within his limits to leave it, and should it be necessary, he
+shall put them out by force of arms."</p>
+
+<p>The 122d article of law No. 37, prescribing duties of the 
+<persName>Ayuntamientos</persName>, says: " They shall not permit in their <placeName>jurisdictions</placeName>, 
+<persName>vagabonds</persName>, <persName>drunkards</persName>, <persName>gamblers </persName>by profession, nor any other idle or
+<persName>vicious people</persName> who have no visible means of subsistence, etc. etc."</p>
+
+<p>The above mentioned 5th article of my contract has imposed a
+very heavy and responsible obligation upon me, and one which
+from its nature, might necessarily involve much delicacy and ought
+to require great prudence in its execution. This has never been
+more particularly the case, than at present, for heretofore the ex-<pb n="528"/>
+pulsions of bad men ordered by me, have been made, solely on my
+own individual responsibility, without the powerful support of a
+special recommendation to do so, from <persName>municipal representatives</persName> of
+the people.</p>
+
+<p>The situation of this <placeName>country </placeName><placeName>on the borders of a foreign nation
+</placeName>certainly exposes it to impositions by criminal <persName>fugitives </persName>and 
+<persName>vagabonds</persName>, who are nuisances in all <placeName>countries</placeName>, but more especially so
+in a new and thinly settled one like this. The first <persName>settlers </persName>who
+have devoted years of hardship to bring it forward, justly deserve
+and have a right to expect protection from such <persName>nuisances</persName>. The
+<persName>Government </persName>has offered the most liberal inducements to honest
+<persName>emigrants</persName>, but nothing to <persName>fugitives </persName>or, <persName>vagabonds</persName>, and it expects
+and commands that no such shall be admitted. It is therefore due
+to the <persName>people </persName>who are permanently settled&#8212;to the law&#8212;and to
+the government, that the 5th article of my contract, and the 122nd
+article of law No. 37 which I have quoted, should be rigidly 
+executed; always, however keeping in view what is due to justice and
+to humanity.</p>
+
+<p>The measures which I have heretofore deemed it my duty to
+adopt on this subject, have been promptly executed by the <persName>militia
+officers</persName> charged therewith, and they have been sustained by public
+opinion, which in this <placeName>colony </placeName>has always been on the side of good
+order, and opposed to the admission of<persName> bad men</persName>. But 
+notwithstanding this, it is with great satisfaction, that I find the 
+<persName>Ayuntamiento </persName>co-operating by the weight of its authority and influence, in
+a measure which might be construed by the designing, or the 
+everscrupulous, into an act of oppression, or as being too strong for
+mistaken ideas of liberty. I have therefore to assure that 
+corporation, that the removal of <persName>Peter Whetstone</persName>,<persName> Trammel Pryor</persName>, <persName>John
+or Jack House</persName>, and <persName>Brooks Williams</persName>, which is recommended by it,
+shall be immediately ordered; and that the course will be adopted
+which is indicated, with respect to the other individuals named in
+said resolutions.</p>
+
+<p>I embrace this opportunity to present to that illustrious 
+corporation the assurances of my consideration and respect; and of my
+hearty co-operation in all measures which are calculated to promote
+the public good, and to inforce the laws.</p>
+
+<p><placeName>San Felipe de Austin,</placeName> <date when="1830-11-05">Nov. 5th 1830.</date></p>
+
+<p><persName>Stephen F. Austin</persName>,</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
