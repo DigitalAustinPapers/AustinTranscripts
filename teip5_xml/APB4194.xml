@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4194">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Alexander Thomson to Stephen F Austin, 04-09-1831</title>
+            <author>
+                <persName>Alexander Thomson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-10">09-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Major Reynolds
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin's Colony, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Leona Vicario, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 642-643
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-04-09">04-09-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Arrived in Texas with his own and eight other families and was told at San Felipe that orders had arrived for exclusion of all Americans.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Texas, Austin's Colony,</placeName> <date when="1831-04-09">April 9th 1831</date></p>
+<p>Dr Sir,</p>
+<p>I am sorry to be compelled to trouble you with a few lines, but
+necessity forces me to do it, I arrived with my own, and eight more
+<persName>families</persName>, on the <date when="1831-04-02">2nd Inst,</date> at <placeName>Harrisburgh</placeName>, at which place I learned
+that, the <persName>families </persName>I had brought out <date n="Fall-1830">Last fall</date> were ordered <placeName>below
+the St Antonio road,</placeName> and that they had all moved down, the most of
+them to <placeName><persName>Mr. Milligan</persName>'s</placeName>, I immediately went to <placeName>St Phillippi,</placeName> to know
+the particulars, while there, an order arrived, that all the <persName>families</persName>,
+and myself, should return, to the <placeName>U. S.</placeName> I at first concluded to go
+immediately, but all with whom I convers'd, at <placeName>St Phillippi </placeName>advised
+me to wait, and pe[ti]tion for priviledge to remain in this <placeName>colony</placeName>,
+and become a <persName>settler </persName>here, I have arranged all my business in
+the <placeName>U. S.</placeName> and came with view to become a <persName>permanent residentor</persName> in
+this <placeName>country</placeName>, and have sacrificed much, and underwent a great deal
+of fatigue, and trouble, to get here, if we have to return, it will break
+us all prety well.</p>
+
+<p>I anticipated no such difficulties, or I never should have engaged
+in the business, but remain'd where I was well settled in <placeName>Tennessee</placeName>.</p>
+
+<p>As I believe it is in your power to do more with the government,
+and with <persName>Genl Teran</persName>, than any one else, and believing that you
+are dispos'd to be friendly toward us, I now take the liberty to
+request you, to intercede for us in any way your discretion, may
+point out, and that as soon as you can, for I will not be able to
+know what to do until I hear from you. If I am obliged to return
+the sooner I know it the better, or if I am permitted to remain,
+I wish to be trying to settle myself, if I can remain, I wish to settle
+in the <placeName>uper part of your colony</placeName>.<pb n="643"/></p>
+
+<p>Any attention paid to my situation by you, will be greatfully
+acknowledged, now is the time, sir, for you to do me, perhaps a
+greater kindness, than you may ever have an opportunity to do me
+again.</p>
+
+<p><persName>Alexr Thomson</persName></p>
+
+<p>N. B. until I hear my destiny, I expect to recide in the settlement
+of <persName>Mr Milligan</persName>.</p>
+
+<p>[Addressed:] <persName>Colo S. F. Austin,</persName> <placeName>Diputado Leona Vicario</placeName>. Att of
+<persName>Majr Reynolds</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

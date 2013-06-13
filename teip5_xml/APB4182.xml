@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4182">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William S Parrott to Stephen F Austin, 03-23-1831</title>
+            <author>
+                <persName>William S Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-10">09-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Saltillo, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 629-630
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-23">03-23-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks Austin to further wishes of the Galveston Bay &amp; Texas Land Co.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1831-03-23">March 23rd 1831</date></p>
+<p><persName>Stephen F. Austin Esqr</persName></p>
+
+<p><hi rend="italic"><placeName>Satillo</placeName></hi></p>
+<p>Dear Sir; <persName>Conl. José Antonio Mexia</persName> arrived a few days since
+from <placeName>New York</placeName>, and requests me to advise you of same, as he<pb n="630"/>
+will start for <placeName>Satillo </placeName>in a short time for the purpose of seeing you 
+relative to a colonization project, near <placeName>Galveston</placeName>, of which he Says
+you are advised; by a <persName>Brother </persName>of yours who has an interest in it,
+The <persName>Empresarios</persName>, have also interested me in the same project, for
+services I had rendered them as a <persName>friend</persName>; and they have surprised
+me by their recollections of such services, which are most generally
+forgotten If you can further their views it will not only benefit
+your <placeName>Collony</placeName>; but an old friend also. However when you are made
+acquainted with the views of the <persName>company</persName>, which seems to be 
+composed of the first class of <persName>citizens </persName>in <placeName>N. York</placeName> you will be better able
+to judge of the influence it may have upon your <placeName>colony</placeName>; which I
+would not have you to injure for any personal interest I could have,
+in the other   nothing new or interesting</p>
+
+<p><persName>W. S. Parrott  </persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

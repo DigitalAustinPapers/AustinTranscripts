@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4177">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to F W Johnson, 03-20-1831</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-09">09-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        F W Johnson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 621-622
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-20">03-20-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking him to instruct civil and militia oflicers to assist collector at Brazoria to collect tonnage duties according to tariff of 1827.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Comisarios Department of Austin&#8212;</placeName> By an official letter dated
+the <date when="1831-03-15">15th of the present month</date>, from <persName>Citizen John Austin</persName> I am 
+informed of his appointment, as <persName>comisario or Port officer</persName> of that place
+for the purpose of exacting and collecting the tonnage duty of
+seventeen bitts per ton, on every <placeName>foreign </placeName>Vessel arriving in that <placeName>port</placeName>
+in Conformity with the Arancel of <date n="xx-xx-1827">1827</date> in its 4th article, and 
+inasmuch as the said <persName>Comisario </persName>has reported to me the objection made
+by the <persName>Captain of the Sloop Majesty </persName>to pay the tonnage duties on
+his vessel. I am compelled as an <persName>officer of the federation</persName>, and one
+with whom the said <persName>Comisario </persName>has been instructed to consult and<pb n="622"/>
+report to, to call on you as the <persName>Alcalde </persName>of this jurisdiction to issue
+an order to the <persName>subaltern civil officers,</persName> in that precinct and also
+the<persName> Militia officers</persName> to furnish all the aid and assistance in their
+power, to the before mentioned <persName>Comisario</persName>, and which may be
+necessary to cause the maritime laws to be respected and enable the
+said <persName>officer </persName>to discharge the duties of the office to which he has been
+appointed&#8212; Convinced that, for the preservation of good order and
+in obedience to the laws, you will see the urgent necessity of a
+prompt dispatch of the before mentioned order, I take this 
+opportunity of presenting to you my high consideration and respect
+God and Liberty. <placeName>Town of Austin</placeName><date when="1831-03-20"> 20 March 1831</date> <persName>S.M. W.</persName></p>
+<p><persName>C. F. W. Johnson Constitutional Alcalde </persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

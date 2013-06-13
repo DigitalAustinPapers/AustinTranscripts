@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4181">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to Stephen F Austin, 03-22-1831</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-10">09-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 628-629
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-03-22">03-22-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Conditions in Texas. Newspaper vicissitudes. Austin's difficulties.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austin </placeName><date when="1831-03-22">22 March 1831</date></p>
+<p>My Dear Sir</p>
+
+<p>I do not pretend this scrawl as an answer to your truly 
+interesting letter of <date when="1831-02-19">19th ultimo,</date> but as I really feel that your<persName> Texas friends</persName>
+have not received your unwearied attentions with that return they
+have merited, I determined that you should at least hear from me<pb n="629"/>
+in acknowledgement of the receipt of your favours, even tho I be
+unable to make mine interesting.</p>
+
+<p>I do most perfectly coincide with you in your opinions respecting
+the policy and the probable results of the death of <persName>Guerrero </persName>and
+more especially as the<persName> Mexican people</persName> appear fond of change and
+novelty.</p>
+
+<p>I cannot account in full for your not having recd any <placeName>papers </placeName>since
+<date when="1831-11-13">13th Novr</date> as I have forwarded to you several numbers, nevertheless
+a part of the failure has arrisen from a suspension of the paper for
+want of materials. You will perceive by the numbers that go by
+this mail that a change has been made, and I assure you that it is
+an important one. and must prove beneficial to the <placeName>country </placeName>
+<persName>Williamson</persName>, partner of <persName>Mr Aiken</persName> is an excellent <persName>workman</persName>, and quite the
+gentleman, and they must succeed</p>
+
+<p>Your <persName>friends </persName>here have viewed with great [satisfaction?] the 
+management of your bark thro, the storms shoals, and hurricanes under
+which you took the helm: for myself I must say I am truly happy
+at your perfect success, because had you not succeeded no merit
+would have been given you nor, no credit allowed for the truly
+unfortunate circumstances that surrounded your station on entering
+the discharge of your duties. You will excuse me for enclosing a
+<placeName>paper and a half of a paper</placeName> to you with the last numbers, as I do it
+to convince you that you are not forgotten, and have <persName>friends </persName>who
+are not ashamed to be so considered.</p>
+
+<p><persName>Williamson </persName>was in the <placeName>office </placeName>when I recd your letter, and desired
+me when writing to remember him affectionately to you, and 
+furthermore say that he would be careful your <placeName>papers </placeName>should be 
+forwarded regularly.</p>
+
+<p>Thank God we are getting on harmoniously old <persName>friends </persName>have
+cured old grievances, and left the unhappy and restless beings <persName>Ira</persName>
+and <persName>Hosea H</persName>. to brood over their own spleen. We are without
+news, fine planting season, and I am busily engaged in settling
+<persName>families </persName>We have the <persName>commissioner </persName>here. If time permits I will
+write you by the next mail and give you my opinions of the 
+situation of <placeName>Texas </placeName>in the mean time accept the assurances of my best
+feelings, and desires for your success health and happiness</p>
+
+<p><persName>Samuel M Williams </persName>   [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
