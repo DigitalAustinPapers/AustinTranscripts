@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3024">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Emily M. Perry, 10-22-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-03">06-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Emily M. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Potosi, Washington County, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1228-1229
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-22">10-22-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Crop conditions. Business in Arkansas. Biographical.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1825-10-22">Oct. 22 1825</date>.</p>
+<p>Dr Sister</p>
+
+<p>I am happy to hear by your letter to <persName>Brother</persName> that you have a fine
+<persName>son</persName>, and thank you and <persName>Mr. Perry</persName> for giving him the name of
+Stephen after me You are likely to prove the truth of the <persName>old fortune teller</persName> who told you in <placeName>Philadelphia</placeName> that you was to have nine
+children. A new <placeName>country </placeName>would suit such a family, tho I can not take
+it uppon myself to advise you to move to this&#8212;<persName>Mr Perry</persName> must come
+when he has leisure and look for himself&#8212;we have had rather a bad
+year owing to wet weather but our crops are very abundant corn
+I think will not be over one Dollar in cash pr bushel, except in a few
+particular places&#8212;the Sickness has not been as bad as it is through
+the <placeName>southern country</placeName> generally</p>
+
+<p>I am about making arrangements to settle <persName>brother</persName> <placeName>a farm down
+the Brasos</placeName> he has not much to begin with, but industry will push
+him ahead&#8212;I hope to see him married before another year&#8212;as for
+myself&#8212;it is very uncertain when I shall settle myself in that way&#8212;
+if ever   I am too much in debt and my affairs too unsettled as yet&#8212;</p>
+
+<p>I wrote you respecting the <placeName>Mine a Burton</placeName> and <placeName>Little Rock</placeName> business
+a short time ago&#8212;<persName>Brother</persName> and myself will give any <persName>Power of Attorney</persName> that may be required except to authorise the promise of money
+I will not in any shape promise one cent of money on no account
+whatever and unless there is a special provision in the <persName>Power of
+Attorney</persName> that we are not to be in any way responsible for costs or
+fees or money to pay the <persName>Bank </persName>or for any thing else I will not sign
+it&#8212;I am willing to give any share&#8212;the half&#8212;or any other share you
+think proper but those who undertake the business must be at all
+the expence and trouble for I cannot leave here to visit <placeName>Missouri</placeName></p>
+
+<p>I do not by any means advise you to Employ <persName>R. C. Oden</persName> to attend
+to the <placeName>Little Rock</placeName> business&#8212;he is very dissipated as I am told&#8212;
+<persName>R. Crittenden</persName> will be the best one, or perhaps there may be some new
+<persName>Lawyers </persName>that I know nothing of-&#8212;you and <persName>Mr. Perry</persName> must manage<pb n="1229"/>
+the whole affair as you think best.   I will approve of all you do
+except promising money&#8212;that I will not&#8212;</p>
+
+<p>This <placeName>Colony</placeName> progresses steadily in improvement&#8212;-tho not so rapidly as it would had the last season been more favourable It requires
+much time to start a <placeName>new Colony in a wilderness</placeName>, as this was I shall
+close all my affairs in the course of next year I hope, and then if I
+keep my senses I will never again have any thing to do with public
+business&#8212;if I marry I shall settle down as a <persName>farmer </persName><placeName>near the mouth
+of this river</placeName>&#8212;if I do not, I shall likely ramble a good deal and leave
+<persName>Brother</persName> to keep up the name and family</p>
+
+<p>Remember me to all <persName>friends </persName>and do not let the <persName>children</persName> forget
+their <persName>uncle </persName>when my little namesake is old enough I hope to have it
+in my power to do something for him, I should also like to have
+<persName>Austin</persName> with me&#8212;that is if I ever get finally settled and in a situation to benefit him&#8212;we are all very healthy at this time and nothing
+new of any consequence</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+<p>[Addressed:] <persName>Mrs Emily M. Perry</persName> <placeName>Potosi Washington County
+Missouri</placeName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

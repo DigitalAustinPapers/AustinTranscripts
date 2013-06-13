@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3022">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>N. Rightor to Stephen F. Austin, 10-20-1825</title>
+            <author>
+                <persName>N. Rightor</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-03">06-03-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Little Rock, Arkansas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1227-1228
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-20">10-20-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-03" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inquires about Texas. Conditions in Arkansas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Near Little Rock Arkansas Territory</placeName> <date when="1825-10-20">Oct. 20th. 1825</date>.</p>
+<p>Dr. Sir (friend and fellow Traveler)&#8212;</p>
+
+<p>I this <date when="1825-10-20">evening </date>meet with a <persName>stranger </persName>who tells me he is gowing to
+your <placeName>Country</placeName> and will be shure to see you, wherefore I imbrace the
+opportunity of writing to you, after so long a silence on my part as
+well as on your own, but with how much pleasure would I have received, and answered a Letter from you. I have been ever since I
+returned to the <placeName>United States</placeName> surveying for the <persName>Government</persName>, and
+have just now finished a learge Dist of surveying in <persName>Crittenden</persName>s
+perchase (or <placeName>Guawpaw Country</placeName>) and will shortly be on my way
+to <placeName>St. Louis</placeName> with my returns. I live at <placeName>Helena County of Phillips
+A. T.</placeName> (where I have a <persName>wife</persName> and Two fine <persName>Boys</persName>) And on my return
+I would be over rejoiced to receive a letter from you. Do write an
+inform me of the particular situation of your <placeName>Colony</placeName>&#8212;the production of the soil (from your observation) the prospects of improvement&#8212;Condition of the <persName>government </persName>etc. etc&#8212;You know what I
+wish to learn independent of my statements.</p>
+
+<p>I still have a strong desire to emegrate to the <placeName>Country</placeName>, and upon
+your statements (if you will condesend to write) it depends. I am
+doing very well here, but notwithstanding I would rather be there.</p>
+
+<p><persName>N. Rightor</persName></p>
+
+<p>[Addressed:] <persName>Stephen F Austin Esqr</persName>&#8212;<placeName>Province of Texas Government of Mexico</placeName>   Politeness of a <persName>Stranger</persName></p>
+ 
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3027">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>F. Durcy to François Grapp, 11-10-1825</title>
+            <author>
+                <persName>F. Durcy</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-07">06-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        François Grapp
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Natchitoches, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1231-1232
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-11-10">11-10-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging him to use his great influence with Richard Fields and the savages to dissuade them from attacking the colonists in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo</placeName>, <date when="1825-11-10">10 Novr. 1825</date>.</p>
+<p><persName>Mr. Fras. Grapp</persName> <placeName>Natchitoche</placeName></p>
+
+<p>Monsr et ami Vous savez bien que de tous les temps; que je me
+suis fait au plaisir de vous écrire a fin de vou informer de tout
+ce que pourrait étre pour le bien genérale. C'est pourquoi je vous
+dirai que nous sommes surpris d'apprendre que <persName>Mr Feels</persName> le mitif;
+s'était mis á la tete de plusieurs <persName>Nations Sauvages</persName>, et avait formé
+le plan d'attaquer le <placeName>nouveaux établissement de <hi rend="italic">Texas</placeName></hi>; en disant
+que puisque le <persName>Gouvernment </persName>ne lui avait point donné Terre qu'il
+empécherait aux autres de s'i établier.</p>
+
+<p>Vous savez que <persName>Mr Feels</persName> s'est présente au <placeName>Mexique</placeName> pour obtenir
+<placeName>des Terre</placeName> pour lui et <persName>la Nation Charoqui</persName>; mais comme le Gouvernment venait de prendre une autre forme il ne puisent pas lui
+accorder de Terre alors, mais on lui dit de prendre patience et
+qu'aussitót que le <persName>Gouvernment </persName>aurait passé la loix de Colonization
+qu'on lui acorderait <placeName>les Terres</placeName> qu'il solicit ait pour lui et <persName>la nation
+Charoqui</persName>&#8212;le <persName>Gouvernment </persName>le recommenda; et il fut assisté partout
+ou il passa tant par les <persName>Méxicains</persName> que les <persName>Américains</persName>&#8212;de retour
+au <placeName>nation</placeName>, il se mit á la tete de plusieurs <placeName>nations </placeName>pour attaquer et
+détruire tous les <placeName>nouveaux établissements de Texas</placeName>. Vous entendez,
+mon chére Mr que si <persName>Mr Feels</persName> a eu quelques raisons de se venger
+De <persName>Méxicains</persName>, il a tort d'en faire supporter la peine á des <persName>pauvres
+Américains inocents</persName> que sont les <persName>seules habitans</persName> que vous trouverez
+<placeName>depuis la Sabine jusqu'a St Antoine</placeName>.</p>
+
+<p>C'est pourquoi; connaissent la poid de votre influence chez toutes
+<persName>les nations sauvages</persName>; et aussi l'assendent que vous avez sur la carac<pb n="1232"/>
+tere de <persName>Mr Feels</persName> votre gendre, je pense que personne ne puit mieux
+que vous méme arréter le Grand disordre qui va se comméttre par les
+<persName>barbares</persName>, que vous connaissez mieux que moi. Je di vous pouvez
+vous signaler pour le bien le <persName>l'humanitée</persName> en Genérale, en firent
+entendre aux <persName>sauvages</persName> le malheur qui les attende en suivant les
+plans de <persName>Mr Feels</persName>, et également; en firent parler á <persName>Mr Feels</persName> par
+son <persName>frére</persName>; que pourra le determiner a abandonner un plan qui
+n'aura d'autre but que celui de le perdre; lui et <persName>tous ceux qui auront
+le malheur </persName>de le suivre.</p>
+
+<p>Jue me suis appliqué á prendre de bonnes informations sur le
+sujet de ma Lettre: maintenant je vous prie de réfléehir vous méme
+affion de prendre les mesures les plus promptes et les plus promptes
+pour arréter des malheurs qui sont évidant et que vous seul pouvez
+arréter.</p>
+
+<p>Mes compliments á votre <persName>famille </persName>et vous prie de me croire votre
+serviteur et sincere ami</p>
+
+<p><persName>F. Durcy</persName>    [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3014">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Emily M. Perry to Stephen F. Austin, 10-12-1825</title>
+            <author>
+                <persName>Emily M. Perry</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-02">06-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mine a Burton, Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1221-1222
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-12">10-12-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning settlement of the old business of Austin &amp; Bryan in Arkansas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mine a Burton</placeName>, <date when="1825-10-12">October 12th 1825</date>&#8212;</p>
+<p>I wrote My Dear <persName>Brother</persName> by the last weeks Mail, and now imbrace the opportunity of sending you a small Packit by <persName>Mr Ray</persName> which I hope you will receive in safety as I have sent on a number of letters belonging to you and <persName>Brown</persName>, which I thought would afford you some pleasure, to peruse once more:&#8212;</p>
+
+<p>Since I wrote to you I have seen <persName>Mr Carr</persName> and I had a conversation with him relative to the <placeName>Little Rock</placeName> business, he is very much dissatisfyed with the conduct of <persName>C. Ashley Esqr</persName> when that gentlemen was up <date n="Fall - 1825">last Fall</date> <persName>Mr Carr</persName>, with difficulty got him to give him a statement of what he had done with the <placeName>property</placeName>, it seems that he has got everything into possession, and has sold property to the amount of 3 or 4000 Dollars; he made one Sail to <persName>William Russel</persName> for eighteen hundred Dollars, and still continues to sell, as fast as he can, I think if their was <hi rend="italic">any-one</hi> that would push, or make an attempt to investigate the business, that <persName>Ashley</persName> would compromise, rather than have himself exposed to the world; it is impossible for <persName>Mr Perry</persName> to do any thing, situated as he is at present; and I think My Dear <persName>Stephen</persName> if you were to write to some of your <persName>Friends </persName>at the <placeName>Little Rock</placeName>, and try to make them interested in some way, that, their might yet be something more recovered for the <persName>Children</persName>&#8212; at any rate I can do nothing and I am very much afraid that <persName>Ashley</persName> will be the only one benefitted by that property; I have nothing to write, but what <persName>Mr. Ray</persName> can inform you, as to the news of the times etc he can <pb n="1222"/>
+give you an account of all the <persName>Children</persName> as I showed them all to him; and I have also sent you a lock of each of their hair and some of Mine, all of which I think will be acceptable to you; for I know that any <hi rend="italic">thing</hi> from <hi rend="italic">you</hi>, is <hi rend="italic">very</hi> highly <hi rend="italic">praised by me</hi>; do write by every opportunity, I have not had a letter for some time, from <persName>Brown</persName>, he is a very Lazy Fellow to write; but perhaps my anxiety makes me unreasonable, I think if you were to give <persName>Mr. Perry</persName> the least <hi rend="italic">encouragement</hi> he would go <hi rend="italic">on</hi> and <hi rend="italic">visit you</hi>; for he is much dissatisfied with
+this <placeName>Country</placeName>, and some times taulks of going to the <placeName>Arkansas</placeName>; my only desire is to be settled by my <persName>Brothers</persName>, if that was once accomplished I should be happy&#8212;</p>
+
+<p>I read to <persName>Miss Hord</persName> the clause in your letter, she laughed and requested me to inform you that it was not customary for <persName>Laydes </persName>to go
+in search of <persName>Husbands </persName>and that she expected if some of those <hi rend="italic"><persName>Bachelors</persName></hi> that you spoke of, was to visit a <placeName> Burton</placeName>; that she had no doubt but what they could find <hi rend="italic">wives</hi>,&#8212;- I should be much pleased to hear that <persName>Brown</persName> was Married he promised me that as soon as he Married that he would pay me a visit&#8212; <persName>Cousin Adeline Lewis</persName> has a
+<persName>Daughter</persName>, and <persName>Miss Eliza Elliott</persName> is to be Married to <persName>Mr. Woodruf</persName>, living at the <placeName>Little Rock</placeName>, where <persName>Miss Elliott</persName> now is&#8212; I have sent you a packit. . . .</p>
+
+<p>[<persName>Emily M. Perry.</persName>]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

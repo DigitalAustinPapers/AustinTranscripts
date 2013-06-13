@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3013">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John G. Purnell to Richard Fields, 10-04-1825</title>
+            <author>
+                <persName>John G. Purnell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-26">05-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Richard Fields
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1220-1221
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-04">10-04-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Exhorts Fields to remain at peace with Mexican nation and American settlers.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo</placeName> <date when="1825-10-04">October 4th. 1825</date></p>
+<p>To <persName>Captain Richard Fields</persName></p>
+
+<p><persName>Commander of the Cherokees in <placeName>Texas</placeName></persName></p>
+<p>My esteemed friend When last I saw you in my <placeName>house </placeName>in <placeName>Monterrey</placeName> I little thought in so short a time you would have commenced
+a war against your <persName>American brothers</persName> and the <persName>Mexican Nation</persName> more
+particularly A man like yourself who is acquainted with the advantages of civilization and who joined us in our late war as a <persName>brother</persName>
+against the <persName>Brittish nation</persName> nothing like personal motives should ever
+induce you to commit an act which will ultimately injure you in the
+estimation of your <persName>American brothers</persName> much less lead your <persName>nation</persName> into
+a war which will render them unhappy: dreadful may be the 
+consequences if you continue in such mistaken measures as a <persName>friend </persName>I
+advise you to look for peace as the surest means of making the <placeName>nation </placeName>happy who have confided in you by electing you their <persName>chief</persName>, we all
+wish to live with you like <persName>brothers </persName>you know we have never deceived you it is not by maddening war that we are to progress in<pb n="1221"/> 
+civilation or the comforts of life it is by a firm and lasting peace by a friendly intercourse like that which exists between <persName>brothers</persName>.
+If your claims for <placeName>lands </placeName>were not granted at a time when the <persName>Government </persName>was not firmly established that should not be a cause of war
+ask and it will [be] given to you this <placeName>nation </placeName>has always felt friendly
+inclined toward yours and I am sure if you cease hostilities they will
+enter into a treaty with you by which you will obtain more permanent
+advantages than you can by being at war. listen to advice of your
+<persName>friend </persName>who ansciously looks for the prosperity and happiness of yourself and nation let us bury the hatchet smoke the pipe of peace and
+live like <persName>brothers </persName>then will the great <persName>Mexican nation</persName> offer you the
+arm and protection of Government: take these important considerations into deep reflection in your <persName>councils </persName>let not personal prejudices
+act upon you but that you may be governed by prudence wisdom and
+friendship is the sincere wish of your old friend and Obedient Humble
+Servant</p>
+
+<p><persName>JOHN G. PURNELL</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

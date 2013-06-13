@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3015">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Lewis to Stephen F. Austin, 10-13-1825</title>
+            <author>
+                <persName>Robert Lewis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-02">06-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Rio Grande, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1222
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-13">10-13-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trade with Mexico. George Nixon against Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Rio Grande</placeName> <date when="1825-10-13">13th October 1825</date>.</p>
+<p><persName>Col. Austin</persName></p>
+
+<p>D Sir, I have been here a little better then a week, and confind
+to the <placeName>House </placeName>the greater part of the time, but am recovering very
+fast, I was taken sick a few days after leaving <placeName>Saint Antonio</placeName>, and
+has suffered very much; I expect to leave here in a few days, for
+<placeName>Sant fernando</placeName> and <placeName>Sant Ross</placeName>, from what I can learn there are a
+grate many goods in <placeName>this part of the County</placeName>&#8212;The <persName>Indians</persName> are
+still doing Mischief in <placeName>this part of the Country</placeName>, they stole forty
+Horses from here a few days before we arrived here.&#8212; I have heard
+it said by several persons here and in <placeName>Sant Antonia</placeName>, that <persName>Nixon</persName>
+is writing against you, to the Government, and to the principal
+<persName>individuals </persName>in this <placeName>town</placeName>, and to a number of other <placeName>Towns</placeName>, and
+prefering charges against you, to the Government, I understand
+he said he is going on to <placeName>Mexico</placeName> himself, and sais he has the papers,
+to show what you are, I name this as a friend excuse my bad
+writing</p>
+
+<p><persName>Robert Lewis</persName>.</p>
+
+<p>My nearvs are very weeke</p>
+
+<p><persName>R L</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

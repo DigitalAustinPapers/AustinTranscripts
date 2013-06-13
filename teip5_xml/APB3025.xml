@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3025">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. B. Austin to Emily M. Perry, 10-28-1825</title>
+            <author>
+                <persName>James E. B. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-07">06-07-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr De Witt
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Emily M. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1229-1230
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-28">10-28-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Improvements in Texas. Crop conditions. Efforts of the Arkansas Gazette to injure the colony.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1825-10-28">Oct. 28th 1825</date>.</p>
+<p>My Dr <persName>Sister</persName>,</p>
+
+<p>I receivd your much esteemed favour of the <date when="1825-09-01">1 of Septr</date> in due
+time, I am much pleased to hear of the <hi rend="italic">great</hi> aquisition you have
+made to your <persName>family </persName>besides the personal gratification it is to myself
+to have another <persName>Nephew</persName>&#8212;this letter will probably be handed you
+by a <persName>Mr De Witt</persName> who has promised me he would call on you on his
+way to the <placeName>upper part of the State</placeName>&#8212;he is one of the gentlemen who
+have obtained permission to settle an additional number of <persName>families</persName>
+in this <placeName>Department</placeName>&#8212;his <placeName>Grant </placeName>is on the <hi rend="italic"><placeName>River Guadalupe</placeName></hi>, <placeName>between
+this and San Antonio</placeName>&#8212;there is a flattering prospect at this time of
+this <placeName>Department</placeName> being shortly filled up by <persName>American Emigrants</persName>;
+this Govt have authorized <placeName>four New Colonies</placeName> to be settled which
+will be done immediately, <placeName>one lies above this on the Rivers Colorado and Brasos</placeName> which if settled will be a perfect safe guard to us
+against the <persName>Indians</persName>&#8212;the other<placeName> 3 are East and <hi rend="italic">West</hi> of us</placeName>&#8212;so that
+<placeName>this Colony will be nearly the center</placeName>&#8212;None of the <placeName>other Colonys</placeName>
+are so rich in land as this. Neither have they such an <placeName>outlet </placeName>for
+their produce as this&#8212;So that it is of much importance to us that
+they should Settle as soon as possible&#8212;I have seen some Distressing
+tales told of us in some of the <placeName>News Papers of the U. S.</placeName>&#8212;
+particularly in the <placeName>Arkansas Gacette</placeName> that Paper has always evinced a<pb n="1230"/>
+most <hi rend="italic">Deadly hatred</hi> towards the settlement of this <placeName>Colony</placeName> and its
+"<hi rend="italic">Barking <persName>Editor</persName></hi>" catches from every <hi rend="italic">dirty</hi> <persName>Buck Skin Scoundrel</persName>
+that has been driven from the <placeName>Country</placeName> for his Villanous acts&#8212;
+something to insert in his "<hi rend="italic">Invaluable repository</hi>" of <hi rend="italic">truth</hi> and <hi rend="italic">information</hi> to prevent any one from emigrating to this <placeName>Colony</placeName>&#8212;but
+his admonition to the <persName>publick </persName>has a different effect from what he
+wishes&#8212;for it only tends to keep <hi rend="italic">fools</hi> and men that are much better
+in <placeName>Arkansas</placeName> than <hi rend="italic">here</hi> away Wise men and men useful to <persName>Society</persName>
+pay no attention to him I think <persName>C. Ashley</persName> furnishes all the matter
+he can procure against us&#8212;You must pay no attention to any tales
+of this kind&#8212;</p>
+
+<p>Crops are good notwithstanding that we had an unusual wet
+Season <date n="Spring - 1825">last spring</date>, and some Overflow&#8212;I shall start <placeName>down the river</placeName>
+in a few days to establish myself permanently We will build a
+<placeName>Cotton Gin</placeName> as soon as possible; much cotton will be planted next
+season <persName>Stephen</persName> begins to think of getting him a <persName>wife </persName>"dont" be
+surprized to hear of the Event of Events sooner than you imagine.
+I think if <persName>Stephen</persName> gives an Example I will promise to profit by it,
+tho at this time I have no Idea of the kind&#8212;When I get down below
+I shall not have so many opportunities to write you tho that must
+be no excuse for you Write me often you can always find matter
+that will be interesting to me, if you can find nothing else give me
+a touch of the News of the day the <hi rend="italic"><placeName>mines </placeName>abound</hi> in it&#8212;</p>
+
+<p><persName>Stephen</persName> wrote you a few days since&#8212;and will write again by <persName>Mr.
+De Witt</persName> Give my respects to <persName>Brother James</persName> with my congratulations on the recent Birth of a <persName>son</persName>&#8212;Kiss little <persName>Mary</persName> for me "dont"
+let her forget me&#8212;tell <persName>Joel</persName> and <persName>Austin</persName> to study hard and be good
+Boys&#8212;My respects to <persName>Mr. and Mrs. J Perry</persName> also to <persName>Mrs. Perry</persName>&#8212;all
+my acquaintances generally&#8212;I refer you to <persName>Mr. Dewitt</persName> for all general information respecting the <placeName>Colony</placeName>-&#8212;</p>
+
+<p><persName>Mrs. Emily M Perry</persName></p>
+
+<p><persName>Jas B Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

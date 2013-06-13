@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3010">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Humphrey Jackson to Stephen F. Austin, 09-30-1825</title>
+            <author>
+                <persName>Humphrey Jackson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-15">5-15-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1216-1217
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-09-30">09-30-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning judicial business as alcalde. Case of the Schooner Mary.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[About <date when="1825-09-30">September 30, 1825</date>.]</p>
+
+<p>Dr. Sir</p>
+
+<p>I Received yours of the <date when="1825-08-29">29th of August</date> Imediately went [and]
+Valued the Estate of <persName>Moris Callaham</persName> Decd which Amounted to
+$254.50 <persName>John K. Harris</persName> <persName>Ezekiel Thomas</persName> and <persName>Wilm Vince apprisers</persName>.
+the Land I did not know what to do with so let it alone <persName>E Thomis</persName>
+swore <persName>Nicholas Callaham</persName> was the <persName>Brother of Morris Callaham Decd</persName>
+I Gave <persName>N Callaham</persName> up the property he giving <persName>Wilm Vince</persName> and <persName>E Thomis</persName> security for the payment of the Debts and getting a power
+of Atturny from his <persName>father </persName>to Administer to the Estate <persName>N Callaham</persName>
+applide for time to settle the <persName>Estate </persName>as he had to return to his
+<placeName>Country</placeName> to Settle his Business I gave him Ten Months he promised
+he would pay all the Debts he could before he went&#8212; I would have
+loocked into this Business sooner but being informed that there was
+but little due by the <persName>Estate </persName>and that <persName>Moris Callahan</persName> Relation was
+expected here soone I thought it best to wait to he cairn&#8212;I Requested
+of <persName>John R Harris</persName> to let me know if the <persName>estate </persName>was a waisting as he
+lived close by I thought in such cases it was best to wait a short
+time as persons might settle their own Business&#8212;you mentioned in
+your letter having wrote to me Respecting Boats which I have not
+Received but <persName>Capt Harris</persName> told me he had received one from you
+Directed to <persName>Capt Harris</persName> <persName>Capn Scott</persName> and <persName>T</persName> respecting them&#8212; there
+is no boats on this <placeName>River</placeName> that would answer except one that 
+<persName>Mr Scott</persName> has if hir timbers is sound Hir old planck in intirely worm
+eaten but if hir timbers is sound Hir old plancked over with good
+timbers I am not acquainted as I neaver examed them. <persName>Andres
+Roach</persName> has a boat I think would answer and I am told there is a<pb n="1217"/>
+nother <placeName>on the Trinity</placeName> I would have went to see them but 
+<persName>Capt Harris</persName> told me he was going there to see them and would let you
+know if they could be purchased and for what amount&#8212; <persName>Horner</persName>
+and <persName>Dickeson Estate</persName>  I will pay every attention to that my office
+requires&#8212;There has been a complaint for debt against a Man that
+has left this <placeName>District</placeName> and has left some property here and is not expected back for some time. I wish for your oppinion in such cases
+<persName>Thomis Earie</persName> is charged with tacking Roaps and blocks from on
+board of the Schooner Marry in <placeName>Galveston bay</placeName> I bound him over
+to Trial on the <date when="1825-09-10">10th of Septr</date> He Acknowledged having tacking them
+he being in Distress he said he intended to pay <persName>Mr. Knight</persName> one of
+the owners for them, as soon as it is tried I will send you the hole
+of the Records of the case to you for final Judgement&#8212; I would
+have sent you the proceding before now if the distance was not as
+grait and not being wiling to ad to the Expence already accrued
+however I might have sent you the Procedings from <placeName>Buflow River</placeName>
+the other day had I any paper with me at the time I gave notice
+to <persName>T Earle</persName> he had a right to taick the proceding in writing and send
+them to you which he declined&#8212;<persName>Robert Cartwright</persName> who acted as
+<persName>Constable </persName>in the Case of <persName>Jesse H. Cartwright</persName> and <persName>Jessy Nelson</persName>
+versus <persName>Master and Owners of the Schooner Marry</persName> has not Returned
+the Execution nor the procedings there on though I requested him so
+to do he has Removed ought of this <placeName>District </placeName>to your <placeName>Neighborhood</placeName>
+I wish for them as my time of service is all most expired so that all
+the procedings in the case might be put in order to deliver to my
+<persName>successor </persName>in office</p>
+
+<p>I feel anxious for my time of service to expire I am complaitly
+tired of the office for the futur I wish to be no other than a good
+Citizen&#8212;there is some other complaints of petty theft all respecting
+the Schooner Marry and them that cairn in hir which I rather thinck
+it would be right to squash if posible the Marry and them that
+cairn in hir has gaving the <placeName>Country</placeName> grait deal of trouble for my
+part I hait to hear hir name mentioned I wrote to you some time
+since which I suppose you have not Recd it was respecting a Note
+that <persName>Andrew Roach</persName> sent for Collection on <persName>Wm Scott</persName> the note was for
+the payment of a Schooner it called for 200 Dollars if no lawfull
+<persName>owner </persName>appeared for said Schooner by <date n="03-xx-1825">march last</date> I then wished
+for your instructions in the Case <persName>Mr. Scott</persName> has since paid the note
+as I am informed&#8212;Inclosed you have the Sensus of the District</p>
+
+<p><persName>HUMPHREY JACKSON</persName>.</p>
+
+<p>[Addressed:] <persName>Cor. S. F. Austin</persName> Principal Judge of <placeName>Austin Colony</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

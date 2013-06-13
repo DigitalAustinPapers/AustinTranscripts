@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3012">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas B. Bell, et al. to Stephen F. Austin, 10-03-1825</title>
+            <author>
+                <persName>Thomas B. Bell, et al.</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-05-25">05-25-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Cedar Lake, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Bay Perrary, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1220
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-10-03">10-03-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-05-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Request to treat with Karankawa(?)Indians.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Cedar Lake</placeName> <date when="1825-10-03">October the 3th 1825</date></p>
+<p>Sire having understood you wished to have the opinion of the
+<persName>people </persName>we give it as our opinion it is requisit to treat with them for
+these are the same <persName>Indians </persName>[Karankaway] that <persName>Captain Jones</persName> fired
+on and they have never solicited peace until now they say they are
+tired of war and the conduct of them induces us to believe they are
+in earnest for they have encamped in our <placeName>stock range</placeName> and have disturbed nothing to our knowledge&#8212;-also the <placeName>upper settlement</placeName> not
+having it in their power to aid us and we not being able to protect
+our selves we think it is proper to treat with them these are the
+conditions that we wish you to treat on to secure <persName>hostages </persName>to not
+permit over three to cum to geather to one <placeName>house</placeName>&#8212; it is our wish
+you should cum and treat with them as well as thees&#8212;</p>
+
+<p><persName>Thomas B Bell</persName></p>
+<p><persName>David Ness</persName></p>
+<p><persName>Nancy Williams</persName></p>
+<p><persName>Caleb S Bostwick</persName></p>
+<p><persName>Danil Decrow</persName></p>
+<p><persName>Thomas T Williams</persName></p>
+<p><persName>Gorge Harrison</persName></p>
+<p>[Addressed:] <persName>Col Stephin F. Austin</persName> <placeName>Bay Perrary</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
