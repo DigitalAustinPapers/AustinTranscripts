@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4656">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas F McKinney to James F Perry, 07-27-1834</title>
+            <author>
+                <persName>Thomas F McKinney</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-06">12-06-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Velasco, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1067
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-07-27">07-27-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Forwarding letter from Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Velasco </placeName><date when="1834-07-27">July 27 1834</date></p>
+<p><persName>Mr. J. F. Perry</persName></p>
+
+<p>D Sir a <persName>gentleman </persName>had special charge as to the delivery of a
+package brot <placeName>on board the Empress</placeName> finding I lived at this place
+and the Schr would not wait he was compelled to leave them with
+one of my <persName>workmen </persName>on the oposite side of the river. I 
+immediately left for the <placeName>settlements </placeName>above and thus missed receiving the
+package which contained the letter directed to you by<persName> Col A </persName>as I
+infer from the hand writing&#8212;I have been exceedingly ill at <placeName><persName>Mr
+Bell</persName>'s</placeName> for several days and was only able <date when="1834-07-26">yesterday morning</date> to be
+moved after traveling all night by water arrived at <placeName>home </placeName>this
+morning and hasten to forward the letter if it contains any knews
+as to the <persName>Col </persName>do let us hear a brief sketch of it</p>
+
+<p><persName>William Jack</persName> writes me from <placeName>San Felipe</placeName> that <persName>Genl Almonte </persName>is
+in that place he finds him intelligent, pleasant, frank and candid
+he assures him that if <persName>Col Austin</persName> is not already released that he
+will unequivocaly be in a very short time says we are a badly
+slandered people and were reported as being in a state of open
+rebellion and that he was sent in order to ascertain and report
+the facts and has and will take such measures as to set all on a fair
+footing</p>
+
+<p>I am truly yours much exhausted with fatigue and must lie
+down   Only having just arrived at home</p>
+
+<p><persName>T. F. McKinney  </persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

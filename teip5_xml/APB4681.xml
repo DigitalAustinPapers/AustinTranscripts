@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4681">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 10-06-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-09">02-09-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 1-6
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-06">10-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Judicial procedure in Mexico. Vague charges against him make defense difficult, even if his case could get to trial. Rumored in Mexico that he has many enemies in Texas. Almonte's investigation of Texas may lead to its transfer to the United States&#8212;in fact, he believes that it will be transferred within two years</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+<p><placeName>Prison of the Deputation</placeName>, or <placeName>Carcel de Ciudad</placeName>,</p>
+<p><date when="1835-10-06">October 6 1834</date>&#8212;</p>
+<p><hi rend="italic">Confidential</hi></p>
+<p>Dr <persName>Brother</persName>.</p>
+<p>I was removed to this <placeName>prison </placeName>on the <date when="1835-09-19">19th ultimo</date>, and for the first time
+since my arrest, <date n="0-xx-1835">more than nine months</date>, an investigation of my case has<pb n="1"/>
+commenced. All I know about it is what little I can infer from the
+questions asked me, and the vague information or reports of <persName>persons who
+visit</persName> me&#8212; You will understand that the mode of proceeding here is to
+collect and arrange all the evidence against an <persName>accused </persName>ex-parte, he knows
+nothing about it, nor what he has to answer to, untill the evidence against
+him is all collected, the case is then delivered to him, and not before, to
+make his defence and exhibit proofs to disprove or do away the evidence
+against&#8212; It is evident that under such a system a suit may be protracted
+indefinitely at the will of <persName>accusers</persName>, <persName>prosecutors </persName>etc. etc. The only place
+I can procure proofs is in <placeName>Texas</placeName>. It may be six months or more before
+it is considered that all the evidence is collected against me, and then I
+must send to <placeName>Texas </placeName>for evidence on my part&#8212; So far as I can judge, all
+seem to agree that my letter of <date when="1834-10-02">2d. October</date> to the <persName>Ayto. of <placeName>Bexar</placeName></persName> was
+nothing more than an imprudent opinion, but not a criminal act in the eye
+of the law, because it was merely an opinion, unaccompanied by any overt-
+act&#8212;but, as I am informed, for I know nothing certain, the intention is to
+try and convict me of a design to separate <placeName>Texas </placeName>from <placeName>Mexico </placeName>and unite
+it to the <placeName>United States</placeName> and that letter is used as an incident, or link in the
+plot which it is pretended there was. All this is utterly false&#8212; All <placeName>Texas</placeName>
+can acquit me and I have no doubt would do so unanimously of any such
+design or plot&#8212;nothing of the kind has ever existed in me, or in any one
+else in <placeName>Texas </placeName>that I ever heard of&#8212; But I am of the opinion that my
+innocence will avail me nothing&#8212; There seems to be a net wove around
+me which I cannot understand, and of course cannot resist&#8212; Everything
+I have said or done with pure intentions and in good faith&#8212; All my honest
+and republican frankness in explaining to the <persName>govt</persName> the true situation of
+<placeName>Texas</placeName>, every thing that has passed in <placeName>Texas </placeName>since I went there in <date n="xx-xx-1821">1821</date>&#8212;
+All the events of the last four years&#8212; All that is said there now and
+since my imprisonment&#8212; All that has been published about <placeName>my colony</placeName>
+in <placeName>newspapers </placeName><placeName>books </placeName>etc even the population and advancement of <placeName>Texas </placeName>in
+agriculture, arts, exports, and resources&#8212;in short every thing seems to
+be construed and perverted against me&#8212;nothing comes from <placeName>Texas </placeName>in my
+favor, and much (as it is said) against me. This however I doubt&#8212; I
+have but few <persName>friends </persName>here very few indeed, they have complained at the
+injustice done me by so much delay&#8212; It is however said in reply that all
+my own <placeName>countrymen </placeName>in <placeName>Texas </placeName>are against me, and as a proof that they
+are, nothing comes from there, no representations in my favor&#8212; Some
+even doubt whether I was ever appointed the <persName>agent of these people</persName>, for it is
+said, that it is not reasonable to suppose that they would abandon me, as
+they seem to have done etc for my part I do not believe all this, and I
+doubt very much whether any thing in my favor sent to the <persName>present minister<pb n="2"/>
+of relations Francisco Lombardo</persName>, will ever reach me or the <persName>judge</persName>&#8212; I am
+of this opinion because I am told by many that he is the most bitter <persName>enemy</persName>
+I have&#8212;he was violently opposed to the repeal of the 11 Article of the
+law of <date when="1830-04-06">6 April 1830</date>, and blamed me for getting that measure through&#8212;it
+is probable he will never forgive me for it&#8212; Under these circumstances,
+a <persName>foreigner </persName>and a <hi rend="italic"><persName>North American</persName></hi> by birth, shut up in <placeName>prison</placeName>, almost destitute 
+of <persName>friends </persName>and money, far removed from all resources, and in the
+midst of <persName>enemies </persName>with the <persName>Minister of relations Lombardo</persName> at their head,
+what have I reasonably to expect except a long imprisonment and
+perhaps total ruin? I have no doubt that the <persName>President Genl. Santana</persName> is
+friendly to me and to <placeName>Texas</placeName>. I also have confidence in the <persName>judge </persName>who has
+charge of my case <persName>Don Martinez de Castro</persName>&#8212; I believe he is an honest and
+honorable man, but what can the <persName>President </persName>or the <persName>judge </persName>do against a host
+of <persName>enemies </persName>and <persName>persecutors</persName>, when no one appears in my favor <placeName>Texas </placeName>is
+silent&#8212;the <persName>State Govt</persName>- the same&#8212;this all say is even worse than if they
+openly accused me, for it shows a contemptuous indifference&#8212;</p>
+
+<p>The sum and substance of the whole matter is that you must look upon
+me as <hi rend="italic">dead</hi>, for a long time to come&#8212;this is the only reasonable opinion I
+can form on the subject. I wrote you in <date n="05-xx-1835">May </date>that everything depended
+on the report of <persName>Almonte </persName>who was sent to <placeName>Texas </placeName>and I presume is now
+there&#8212; I wish you or some true <persName>friend </persName>of mine to go and see him in
+person&#8212; My <persName>enemies </persName>I am told have been very active in that <placeName>country </placeName>and
+at <placeName>Monclova</placeName>, tho I must confess frankly that I do not believe the hundredth
+part of what is said about the efforts of my <persName>enemies in <placeName>Texas</placeName></persName> to ruin me.
+That I have <persName>enemies </persName>is a mere matter of course&#8212;it is in fact an honor to
+me, for none but a most miserable and contemptable poor devil could
+have had as much to do with public matters as I have in <placeName>Texas</placeName>, without
+making <persName>enemies</persName>&#8212; I admit that I have them, but I also have the charity
+to believe that they are honorable and noble minded <persName>enemies</persName>, and would
+not, try to ruin me and perpetuate my imprisonment, by taking a mean
+and base advantage of my present persecutions and misfortunes&#8212; I acquit
+them in my heart of any such design or any such efforts, and I begin to
+think, that most of what is said about their efforts to ruin me comes from
+persons who are either blinded by passion or prejudice or who are real
+<persName>enemies </persName>of mine and of every body else who lives in <placeName>Texas </placeName>and that the
+real object is to try and darken the North American character-</p>
+
+<p>I send this by <persName>H. J. Offutt</persName>&#8212; All my other letters have gone by mail,
+either direct to <placeName>Texas</placeName>, or by <placeName>Vera Cruz</placeName>, and very likely have been opened or
+intercepted, for even that mode has been resorted to, to try and ruin me&#8212;
+a mode as base as the object intended and worthy of my <persName>enemies </persName>and <persName>perse-<pb n="4"/>
+cutors</persName>&#8212;worthy of <persName>F. Lombardo</persName>. In <date n="01-xx-1836">Jany next</date> I presume there will be
+a complete change in political matters, and I hope that <persName>D. Lucas Alaman</persName>
+will come into power again, it is believed he will and in that event I shall
+probably be set at liberty at once&#8212; In short this is my pirncipal hope
+at present. <persName>Alaman </persName>has talents. The main defect in him is that he is too
+honest and too honorable for the <persName>Mexican </persName>taste. <persName>Santana </persName>I believe is fully
+convinced of <persName>Alaman</persName>'s merits and I hope will employ him in the <placeName>Ministry</placeName>&#8212;
+I again repeat, that I have confidence in <persName>Santana</persName>'s friendly disposition
+towards me.</p>
+
+<p>I was interrupted in my letter by a <persName>Mexican friend</persName>, who has just left&#8212;
+he called to inform me that a packet had been recd. from <persName>Almonte </persName>against
+me, which was calculated to do me great harm and that I need not be
+surprised if the rigors of my imprisonment were increased&#8212; Whether this
+be a fact or not, I doubt&#8212;it has been hinted to me more than once that
+a sum of money, say $50,000, would stop my <persName>enemies </persName>and set me at
+liberty&#8212;all I have on earth would not bring that sum, nor the half of it
+in cash, but it has been reported here that I have many millions in the
+<placeName>banks of the U. S</placeName>.&#8212;now all these reports about my <persName>enemies </persName>may be nothing
+more than management to try and draw out cash. I cannot think that
+<persName>Almonte </persName>would try to ruin me You and my other <persName>friends </persName>can investigate
+this matter, and if he is playing an unjust game, you will know how to treat
+him as he, or any one else in such a case deserves&#8212; <persName>Noriega </persName>is here and
+says publically that I ought to be shot</p>
+
+<p>I sent you duplicate powers of attorney to sell any of my land and
+settle all my business&#8212;call on <persName>Williams </persName>for all notes due me, and do
+what you can to save my property, every honest and <persName>good man in <placeName>Texas</placeName></persName>
+will assist you in so doing, I have no doubt.</p>
+
+<p>My imprisonment has been very severe, it has cost me very dear&#8212; I
+have suffered very much, but I now believe it will have a great influence
+in the transfer of <placeName>Texas </placeName>to the <placeName>U. S</placeName>. by treaty, for it has caused an investigation as to the affairs of <placeName>Texas</placeName>, that is beginning to convince all me[n]
+of judgment, that what I said to the <persName>vice president Gomez Farias</persName>, was true,
+that i[s] that if the <persName>Govt </persName>did not provide for the welfare of <placeName>Texas</placeName>, the
+people there would do it of themselve[s] <hi rend="italic">and were able to do so</hi>&#8212; I also
+said in a paper which I wrote to a <persName>Mexican friend</persName> in this <placeName>city </placeName>that it was the
+duty of <placeName>Texas </placeName>to separate from <placeName>Mexico </placeName>if there was no other mode of
+saving that <placeName>country </placeName>from ruin&#8212;this paper is now filed as the main evidence against me, and my letter to the <persName>Ayto. of <placeName>Bexar </placeName></persName> etc. etc. are brought
+in as corroborating testimony Men of sence now say that these opinions
+of mine are true and well founded, but that I used an imprudent and blunt
+frankness that is unknown in <placeName>Mexico</placeName>, and would ruin any one who made
+use of it&#8212; I was taught to speak the truth from my infancy and am too
+old to learn new habits&#8212; I wished to get remedies that would satisfy
+<placeName>Texas </placeName>and prevent its separation However whether my <persName>enemies </persName>have been
+active or not, my <persName>friends </persName>ought to be so, if they wish to relieve me, and
+they ought therefore to go and see <persName>Almonte </persName>in person&#8212; Great surprise
+has been expressed at the silence of <placeName>Texas </placeName>about me&#8212; All seem to think
+that a very respectfull, mild, but frank and manly representation in my
+favor from the <persName>people of <placeName>Texas</placeName></persName> stating in substance&#8212; That I did no more
+than to represent their true wishes and opinions as they were when I left
+there in <date n="xx-xx-1833">1833</date>, as it was my duty to do as an <persName>agent</persName>&#8212;that there never was
+any design in me, or in those people to separate from <placeName>Mexico</placeName>, but at the
+same time they believed in <date n="xx-xx-1833">1833</date>, and <hi rend="italic">still believe</hi>, that under the first law
+of nature they have the right, as all people have, to provide for their safety
+and salvation from ruin by any means in their power, <hi rend="italic">in the extreme case</hi>
+that there was no other remidy left them, and that they not only consider
+this to be a right, but also a duty which as men they owe to themselves and
+to their <persName>families</persName>. That the desire to form a <placeName>state</placeName> separate from <placeName>Coahuila</placeName>,
+grew out of the want of a competent <persName>local government</persName>, and not from any
+design to separate from <placeName>Mexico</placeName>&#8212;that if the <hi rend="italic">mode </hi>that was adopted, and
+the interpretation given by the <persName>people of <placeName>Texas</placeName></persName>, and by me, to the law of
+<date when="1824-05-07">7 May 1824</date>, were erronious, it was a mere error in judgement, and not
+a design to violate the law, or the constitution&#8212;that there were strong
+opinions in <date n="xx-xx-1833">1833</date>, in favor of an organization <hi rend="italic">de facto</hi>, and that I was
+opposed to that measure (This is a fact, and a very important one for me to
+establish, very important indeed)&#8212;that the discontent in <placeName>Texas </placeName>was quieted
+by the repeal of the 11 article of the law of <date when="1830-04-06">6 April 1830</date> and by the
+remedies that were applied by the <persName>State Govt</persName>- <date n="Winter-1834">last winter</date> in the local
+administration, and that those people were faithful to the Mexican Constitution, and finally requesting my release, in as much as I had only acted
+as their <persName>agent </persName>and if any blame was to be attached, it must fall on the
+<persName>people of <placeName>Texas</placeName></persName> and not on their representative, and that those people were
+at all times ready <hi rend="italic">to meet the responsability and in any manner</hi> etc. etc.&#8212;</p>
+
+<p>The representation should be in the most respectful and mild terms&#8212;
+the strongest kind of ideas and principles are better expressed in mild polite
+and even <hi rend="italic">flattering </hi>language, than in any other way, and such language
+never gives offence or mortifies self dignity or self pride&#8212; No kind of
+harm can come to the <persName>people of <placeName>Texas</placeName></persName> from such a representation for
+the very plain reason that they are far beyond the reach of harm&#8212;and it
+may save me, and do much good in other matters for it will tend very much
+to convince every body that this govt- must satisfy <placeName>Texas </placeName>or expect unpleasant consequences or sell it&#8212; I say to you frankly that I am of the
+opinion that <placeName>Texas </placeName>will be transfer[red] to the <placeName>U. S.</placeName> by treaty in less than
+two years&#8212; I may be sacrificed and not live, or not be in a situation to
+enjoy the prosperity that would result from that measure but you all in
+<placeName>Texas </placeName>will. Men who pretend to be acquainted with the secrets of Govt-
+here are tryin[g] to buy up <placeName>Texas lands</placeName>&#8212; I am of the opinion it is the
+best way money can be employed&#8212;</p>
+
+<p>I have been much more faithfull to the <persName>Govt. of my <placeName>adopted country</placeName></persName>,
+and much more frank and honest than my own interest or wellfare required,
+and I begin to think, more than this Govt. deserved&#8212; What a recompense
+am I now receiving for all my fidelity to <placeName>Mexico</placeName>, all my labors to advance
+its prosperity, to settle its wilderness, to keep peace and tranquility in
+<placeName>Texas</placeName>? Do I deserve such treatment? No&#8212;in place of imprisonment I
+deserve rewards from the <persName>Govt</persName>- The only consolation I have is that I
+have done my duty&#8212; My conscience is clear&#8212; I am certain the <persName>people
+of <placeName>Texas</placeName></persName> will do me ample justice&#8212; If I am sacrificed unjustly by the
+machinations of <persName>enemies</persName>, those people will I have no doubt, revenge my
+ruin as justice requires.</p>
+
+<p>[S. F. Austin]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

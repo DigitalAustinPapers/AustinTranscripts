@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4698">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to James F Perry, 11-14-1834</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-14">02-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 26-29
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-11-14">11-14-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Encloses copy of an address which he drafted.  Thinks unnecessary now to circulate it.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria </placeName><date when="1834-11-14">14, Nov&#8212;1834</date></p>
+
+<p><persName>Mr J F Perry</persName></p>
+
+<p>My Dear Sir I found your letter at <placeName>home </placeName>on my arrival from <placeName>St. Felipe.</placeName>
+I was under great alarm for the course of political matters in this 
+<placeName>municipality</placeName>, not daring to hope that so decisive a pronouncement would be
+made by the <persName>people of this <placeName>Jurisdiction</placeName></persName> as has been made altho almost
+unanimous in the upper one, I therefore coincided with <persName>McKinney </persName>and
+yourself that something ought to be done, and as the paper you sent me
+was informal and not as I thought sufficiently explicit, I drew the one
+enclosed and came to town to consult and arrange with you or <persName>McKinney</persName>
+as to the best mode of circulating it for signatures&#8212; I now find that
+<persName>McKinney </persName>is gone&#8212; That there can be no doubt of the Elections going
+right&#8212;I have seen <persName>Govr Smith</persName> <date when="1834-11-14">this morning</date> and he assured me he had
+issued notice to <persName>Waller </persName>as well as to other <persName>Ayuntamientos </persName>to hold the Election and if <persName>Waller </persName>neglected his duty he would order the Polls to be held
+at the usual places at the usual time I think this spontanious expression of
+public feeling much better than any that could have been brought about<pb n="27"/>
+by any open exertions of the <persName>friends of Col A.</persName>&#8212;and as things are in a
+fair way to come out right our best policy is to avoid everything that can
+produce irritation and look with a single eye to the Elections, with a sound
+<persName>Ayuntamiento </persName>legally installed all will go right.</p>
+
+<p>You must not decline the nomination for <persName>first Regidor</persName> it will not give
+you much trouble and the ticket your name is on will be carried by a strong
+vote which will make us safe&#8212; I am glad to learn <persName>Stephen </persName>is to have
+a tryal at last for with anything like fair play and legal decision he will
+come off with flying colors</p>
+
+<p><persName>H Austin </persName>[Rubric]</p>
+
+<p>I enclose the paper I drew up to show you I have not been idle.</p>
+
+<p>[Enclosure]</p>
+<p>address to the <persName>public</persName></p>
+<p>By this Public declaration</p>
+<p>Be it Known</p>
+
+<p>That we the undersigned <persName>Citizens of the <placeName>Mexican Republic</placeName></persName>, and of the
+<placeName>State of Coahuilla and Texas</placeName>; <persName>Resident in the <placeName>Municipality of Columbia</placeName>,
+(heretofore called <placeName>Brazoria</placeName>)</persName> being seriously alarmed by the late 
+unauthorised call of an Election of members to a <persName>Revolutionary Congress</persName>; 
+Jeopardizing as we believe the security of our <persName>families </persName>and our dearest rights and
+interests, and tending, if acquiesced in by the <persName>people </persName>to the utter ruin of
+all our hopes in <placeName>Texas</placeName>; Feel it incumbent upon us to make this our Public
+Protest against, and declaration of disent to, the unauthorized doings of a
+few ambitious <hi rend="italic"><persName>agitators </persName>of revolutionary measures.</hi></p>
+
+<p>As <persName>Republicans</persName>, we hold to the immutable republican principle, that in
+a republican community, no measure involving the peace, security and
+happiness of the <persName>people</persName>, should be adopted without the assent of a majority
+of the <persName>people</persName>, fairly called for and distinctly expressed&#8212;</p>
+
+<p>Yet we have seen as we conceive our most sacred rights and privileges
+usurped, and sentiments expressed upon our responsibility, which we do
+not, nor ever have, subscribed to;</p>
+
+<p>We therefore deem it our duty to ourselves and to our <persName>fellow Citizens</persName> of
+the other <placeName>municipalities of Texas</placeName>, to permit no longer by our Silence, a
+few aspiring ambitious men&#8212;Zealous to promote their own elevation and
+individual advantage, but reckless of consequences to the great body of the
+people; to use our names or assume the right of thinking for, or dictating
+to us the Political course we shall pursue, without our knowledge or 
+consent;&#8212;<pb n="28"/></p>
+
+<p>We distinctly avow our decided disapprobation of the attempt, made by
+the <persName>political chief</persName>, to obtain an election of <persName>members </persName>to a <persName>revolutionary
+Congress</persName>&#8212;without calling for the sense of the people, or even consulting
+the <persName>Central Committee</persName>, appointed by a convention to warn the People of
+political dangers&#8212;</p>
+
+<p>Because we view the measure as an unwarantable assumption of authority
+TO DICTATE to the people</p>
+
+<p>Because we deem the measure to be fraught with the most ruinous 
+consequences to the <persName>people of <placeName>Texas</placeName></persName>; as directly at variance with the true
+interests of our <placeName>adopted country</placeName>, tending to confirm all the unfounded
+suspicions (which have been created by evil minded persons,) of our
+revolutionary and rebellious dispositions, and destructive of all confidence,
+both at <placeName>home </placeName>and <placeName>abroad</placeName>, in the stability and security of political rights
+and in the rights of person and property in <placeName>Texas</placeName>; Which we Consider to
+be the basis of all public and private prosperity&#8212;</p>
+
+<p>Because we conceive that the <persName>Genl Govt</persName>. by the repeal of the 11 art. of
+the obnoxious <date when="1830-04-06">6 April</date> law&#8212;and leaving us until this late period exempt&#8212;
+from the payment of imposts [and] duties, paid by the <persName>people </persName>of all <placeName>other
+parts of the republic</placeName>, has shown a most paternal regard for our 
+prosperity&#8212;</p>
+
+<p>Because we believe that the <persName>State Congress</persName> has given us all the Elements
+of good government order and Security under the law, by enacting laws
+establishing a system of Jurisprudence adapted to our situation with tryal
+by <persName>jury</persName>, which if carried out according to the provisions of the law and
+sustained by the people, would place Justice within the reach of every
+Citizen, ACCORDING TO THE JUDGEMENT OF HIS <persName>PEERS</persName>; HIS
+OWN <persName>NEIGHBORS </persName>OR <persName>EQUALS</persName>:</p>
+
+<p>Because we believe that the arrest and cruel imprisonment of our envoy
+to the <persName>Genl Govt&#8212;(Col Austin)</persName> has been occasioned not by any hostile
+feeling on the part of the <persName>members of Govt</persName> but by false and malicious
+charges, made by evil minded, <persName>malignant persons</persName>, resident in <placeName>Texas </placeName>and
+laid before the Govt in such a shape that it became its imperious duty to
+take notice of them</p>
+
+<p>Because we are convinced that however desirable a <persName>state Gov</persName>t may be
+<hi rend="italic">if obtainable by moral force</hi> (constitutional and legal means) that it has
+become less necessary to our prosperity since the establishment of a system
+of Jurisprudence which is calculated to give us most of the benefits without
+the enormous expense of sustaining a state govt</p>
+
+<p>Because we conscientiously believe, that the frequent agitations of 
+political revolutionary measures in <placeName>Texas</placeName>, tends not only to bring us into
+collision with the state and <persName>genl Govts</persName> without a chance of success in a
+Contest in arms; but by passing to the <placeName>United States of the north</placeName> with
+exaggeration destroys all confidence there in the security of property in<pb n="29"/>
+<placeName>Texas</placeName>, prevents the immigration of <persName>men of Capital</persName> and force, renders 
+property valueless, and blights forever the hopes we have entertained of seeing
+<hi rend="italic">"The Wilderness blossom as The rose"</hi></p>
+
+<p>Therefore we feel it to be a duty from which we can no longer abstain
+to take this method of making known our disapprobation of any and all
+revolutionary measures and our dissatisfaction with <hi rend="italic">"the Choice Spirits"</hi>
+who arrogate to themselves the right of thinking and acting for us; 
+Sincerely hoping that hereafter they will have the modesty to leave it to the
+people to discover their virtues and talents and to wait for a call upon
+them, whenever their aid or Counsel may be required</p>
+
+<p>And to the end that this expression of Sentiment may not be taken to be
+that of a small number of Citizens, We have adopted this mode of defining
+the public feeling by Circulating this decalaration that every mans name
+may stand in evidence of his views and wishes</p>
+
+<p>Dated in <placeName>Columbia </placeName>this________________day of <date n="11-xx-1834">November 1834</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

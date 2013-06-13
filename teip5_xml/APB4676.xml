@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4676">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William S Parrott to Stephen F Austin, 09-18-1834</title>
+            <author>
+                <persName>William S Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-10">12-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1090
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-09-18">09-18-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Statement of account.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico</placeName>. <date when="1834-09-18">Sept. 18th 1834</date></p>
+<p>My Dr Sir</p>
+
+<p>Enclosed you have a statement of your a/c leaving a bal in your
+favour of $416.94 <persName>Capt offutt</persName> was advised that we were instructed
+to pay your bill at the <placeName>Hotel </placeName>which he said was well but has never
+Sent it in</p>
+
+<p><persName>Dr Grant</persName> advised me that he had sent money to <placeName>Saltillo </placeName>to meet
+my Dft in your favour and that I might consider it as paid 
+nothing more has been said on the subject and if you return me the Dft I
+will pay over to <persName>Parrott and O</persName> the Amt to your credit, tho the
+course would derange all my accounts with the Dr, as he has long
+Since been credited with it</p>
+
+<p><persName>W. S. Parrott  </persName> [Rubric]<pb n="1091"/></p>
+
+
+<p>[Inclosure]</p>
+<p><persName>Stephen F. Austin Esqr.</persName></p>
+
+<p>To <persName>Parrott and Co.</persName> Dr</p>
+<p><date n="xx-xx-1831">1831 [1834?]</date></p>
+
+<p><date when="1831-03-31">March 31</date>    To Cash paid for Sundry things per mem°______________  $ 22. 93</p>
+
+<p><date when="1831-04-22">April   22</date>    To    do       " for pickles for his acct____________________        1.50</p>
+
+<p><date when="1831-05-15">May   15</date>    To     do       " for one Bottle anizette___________________        1.</p>
+
+<p><date when="1831-05-26">"       26</date>    To     do       " for one     D° Brandy_____________________        1.50</p>
+
+<p><date when="1831-06-11">June   11</date>    To     do      "               D°     D°    ____________________        1.50</p>
+
+<p><date when="1831-06-14">"       14</date>    To     do Advanced <persName>Padre Muldoon</persName> by <persName>Wm S Parrott</persName> for he was responsible&#8212;transferred to our Books___________    200. 00</p>
+
+<p><date when="1831-06-13">"       13</date>    To Cash&#8212;paid his Order in favr of_____________________      50. 00</p>
+
+<p><date when="1831-06-14">"       14 </date>   To    D°        "  for one Bottle Brandy 1 50/100   pen    knife
+$2__________________________        3. 50</p>
+
+<p><date when="1831-06-20">"       20</date>   To    Do       "    his Order in fav of______________________        6.</p>
+
+<p><date when="1831-06-21">"      21</date>    To    D°       "   for one Bottle Brandy___________________        1.50</p>
+
+<p><date when="1831-06-25">25 </date>   To    Do      "   for          Do       D°   ____________________        1.50</p>
+
+<p><date when="1831-06-25">"         " </date>   To    B°   Lent him per Orders__________________________      10.</p>
+
+<p><date when="1831-07-08">July      8 </date>   To    D°   paid  his Order in favr of <persName>Mr Whiting</persName>__________    100.84</p>
+
+<p><date when="1831-07-13">"       13</date>    To    Do       "   his   Do     fav, of_______________     5.</p>
+
+<p><date when="1831-07-19">"       19</date>    To    Do       "   his   D° to <persName>Bearer</persName>_______________________        4.</p>
+
+<p><date when="1831-07-30">"       30 </date>   To    D°   paid   Sundry things postage Brandy etc since 19th       7.</p>
+
+<p>417. 77</p>
+
+<p><date when="1831-09-03">Sep       3 </date>  To    D° Franking letters to <placeName>Tampico</placeName>____________________        1. 50</p>
+
+<p>12    To    D° 2 Dozen <placeName>Havanna </placeName>Segars_______________________        1.00</p>
+
+<p>$420. 27</p>
+<p><date n="xx-xx-1834">1834 </date>                                              Cr                                                           </p>
+
+<p><date when="1834-06-03">June 3rd</date>    By his Bill on <placeName>New Orleans</placeName> at 30 days sight______$747. 51</p>
+
+<p>Prem: on the same at 12 per Cent_______________      89. 70</p>
+
+<p>837. 21</p>
+
+<p>Balance in favor of <persName>S. F. Austin_</persName>_____Dollars___________    416. 21</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4678">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>H. Meigs to Stephen F Austin, 09-27-1834</title>
+            <author>
+                <persName>H. Meigs</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-10">12-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1091-1092
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-09-27">09-27-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Informing Austin of his efforts to secure his release.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1834-09-27">Sep. 27th 1834</date></p>
+<p>Dr Sir</p>
+
+<p>I have endeavored some time ago to inform you not only of my
+claim but of the measures which I caused to be taken in your behalf,
+the moment I learned that you was detained a <persName>prisoner </persName>in <placeName>Mexico</placeName>&#8212;
+I lost no time in procuring from <persName>our Governt </persName>(through my <persName>Brother
+in Law Forsyth (now Secretary of State)</persName> and my friend <persName>M McLean</persName>,
+then Secy.) the immediate interferance thereof in your behalf.</p>
+
+<p>I trust that it has been useful to you.<pb n="1092"/></p>
+
+<p>I hope to hear from you with little delay&#8212;I wish you well and
+shall be happy in every honorable way to do you good.</p>
+
+<p><persName>H Meigs</persName></p>
+<p><persName>Colonel Stephen Austin</persName></p>
+
+<p>[Addressed;] <persName>Colonel Stephen Austin</persName> of <placeName>Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

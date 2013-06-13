@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4694">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 11-06-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-14">02-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazoria, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp.  17-22
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-11-06">11-06-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Almonte's report on Texas has created favorable feeling for Austin. Reflections on his past policies. Faults of North American character</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1834-11-06">Nov. 6 1834</date></p>
+<p>My dear <persName>brother </persName>and <persName>Sister</persName>,</p>
+
+<p>Your letters by Messrs. <persName>Grayson </persName>and <persName>Jack</persName> were a great relief to me, and
+afforded me more gratification than I have experienced for a long time.
+How anxious I am to be with you, and settle myself along side of you on
+a <placeName>farm </placeName>free from troubles or other matters. Had I cared as much for my
+own individual happiness and welfare as I have for that of <placeName>Texas </placeName>and its
+<persName>inhabitants </persName>I should now be enjoying a quiet and comfortable life, as
+the rest of you all in that <placeName>country </placeName>are. But no one ought reasonably to
+expect to effect any important object of a public nature without labor and
+suffering of some kind, and if he sustains his honor unblemished, and has
+the consciousness of having done his duty, he ought to bear all with
+patience and fortitude. I have this consolation&#8212;I have done my duty
+to the <persName>people of <placeName>Texas</placeName></persName> so far as it was in my power to do it, and I have not
+in anything departed from my duty as a good and faithful <persName>Mexican citizen</persName>,
+as the decission of the <persName>tribunal </persName>in my case will attest (as I believe in a<pb n="18"/>
+short time more) so that you must not suffer yourselves to be unhappy on
+my account.</p>
+
+<p>Since the arrival of <persName>Col. Almonte</persName> there is evidently a very favorable
+change in my favor&#8212;incorrect opinions and erroneous ideas which have
+originated in false rumors and reports circulated by the <persName>enemies of <placeName>Texas</placeName></persName>,
+have been corrected by <persName>Almonte</persName>'s statements. He speaks of <placeName>Texas </placeName>impartially and so far as I can learn very favourably, and I have no doubt that
+he is exerting himself all he can in my favor. The forms of judicial proceedings in this <placeName>country </placeName>are so very complicated and slow, that I cannot
+say with any certainty when my case will be brought to a conclusion.
+I think however that I can assure you, that it will be in all <date n="12-xx-1834">next month</date> at
+most and that the result will be a full and complete acquital, so that I shall
+probably be able to reach <placeName>Monclova </placeName>in all the month of <date n="01-xx-1834">January </date>or beginning of <date n="02-xx-1834">February</date>. I shall in all probability complete two years absence
+from home. They have been, so far, painful ones to me. Such as I would
+not have passed for any individual benefit whatever.</p>
+
+<p>I hope the past events will have a good and salutary influence in making
+every body in that <placeName>country </placeName>more disposed to reason and reflect [ion] before
+they yield to excitements. I have always been of the opinion that a silent
+and quiet course was the true one for <placeName>Texas</placeName>. I wished to see it grow up
+in tranquility like an oak sapling in the midst of a thick forest, which
+protects it while slender and weak from the storm, until it rears its head
+above the rest with a sturdy trunk and firmly rooted foundation, that 
+enables it to defy the storms, and rely upon its own matured strength. The
+excitement of the last few years <hi rend="italic">forced </hi>me out of that quiet and silent policy
+much against my judgement&#8212;but it was unavoidable, I could not help it.
+Those excitements were not without sufficient cause, if the causes were to
+be tested solely by <hi rend="italic">abstract principles</hi>, but I believed them to be impolitic
+and ill timed. The prosperity of <placeName>Texas </placeName>was much too near my heart to
+see it, even by probability, jeopardised in any manner. There were <persName>men
+of influence</persName> in various parts of this nation who were willing to paralise
+the progress of <placeName>Texas</placeName>, but they could not attack it, without cause, or at
+least a plausible pretext. I wished to avoid giving them such a pretext&#8212;
+On the other hand there were many <persName>ambitious men </persName>who wished to figure
+and become <hi rend="italic">"great men"</hi> by means of commotions or revolutions in <placeName>Texas</placeName>
+in which they expected to rise and make fortunes as <persName>leaders</persName>, out of the
+hard earnings of the <persName>old settlers</persName>, who would have been the mere instruments
+of such <persName>leaders</persName>, <hi rend="italic">and their <persName>victims</persName></hi>. I wished to save the <persName>old settlers</persName>, who
+had suffered so much to redeem that <placeName>country </placeName>from the <placeName>wilderness</placeName>, from
+<hi rend="italic">such friends</hi> and from the evils of commotions. My ambition has been
+of the <hi rend="italic">silent</hi>, and not the <hi rend="italic">boisterous </hi>kind. I preferred seeing a new log
+cabbin and field rise up in the <placeName>wilderness</placeName>, to making a noise as the <persName>leader</persName>,
+or <persName>participator </persName>of an excitement or revolution.<pb n="19"/></p>
+
+<p>There has been for the last three years a painful conflict in my own
+mind, between the ideas and principles of <hi rend="italic">abstract right</hi> which influenced
+many, and caused the past excitements; and what I believed to be the
+true policy and interest of <placeName>Texas</placeName>. This conflict, added to the influence
+which my <persName>personal friends</persName> had over me, has caused me much unhappiness,
+and perhaps it has at times given to me the appearance of wavering. I
+have felt for <placeName>Texas </placeName>as a parent feels for its only child when he believes it
+to be in danger.</p>
+
+<p>When viewing the subject on this general and broad scale, such men as
+<persName>Chambers</persName>, <persName>Robinson [Robertson]</persName> and others, who I am told have been
+trying to undermine and ruin me during my imprisonment, are entirely
+overlooked. I view them as the captain of a noble ship does the worms
+who are eating into the sides of his vessel at a time when the waves are
+driving him upon a rocky shore. The greater danger absorbs the lesser.
+But they are notwithstanding worthy of attention&#8212;a worm hole can sink
+a ship. I have heretofore believed that <persName>Chambers </persName>had acquirements and
+a knowledge of the Spanish language that would enable him to be useful
+to <placeName>Texas</placeName>, and for this reason I have been disposed to see him advance, and
+be imployed in public matters. The idea which my <persName>friends </persName>all had, that
+he was <hi rend="italic">my </hi>personal <persName>enemy </persName>had no weight with me so long as I believed he
+could be of public utility. But if he has spent the last winter to intrigue
+at <placeName>Monclova </placeName>for the purpose of keeping me in <placeName>prison</placeName>, and of wheedling
+this simple <persName>Govt </persName>out of <placeName><hi rend="italic">sixty leagues</hi></placeName> of land for two years services as
+<persName>judge</persName>, and entangling all the <placeName>upper country</placeName> so that no man of common
+sence will settle there&#8212;if he has been doing all this, he certainly is not the
+man I believed him to be, and so far from serving <placeName>Texas</placeName>, he is calculated
+to do nothing but harm. I never condemn any one hastily or without 
+evidence&#8212;that he has much boyish ambition and vanity I always knew, but
+that properly directed, I thought might be made useful to the <placeName>country</placeName>, after
+a little experience had tempered it to the standard of sound and patriotic
+and rational and manly ambition. When I reach <placeName>Monclova </placeName>I can folm
+an opinion as to these matters, and untill then I shall suspend it.</p>
+
+<p>There has been too much of the ardent, impatient, and inflamatory 
+impetuosity of passion for the last three years in <placeName>Texas</placeName>, The <persName>people of the
+<placeName>U. S.</placeName></persName> are ardent in everything, it is their national character, and what has
+raised that country to the unparaleled prosperity it enjoys, and <persName>Americans</persName>
+carry the same ardor and enterprise and love of freedom wherever they
+go. It is a noble trait of character, but at the same time there are situations
+and circumstances where <hi rend="italic">Prudence </hi>dictates moderation and calmness. We
+are in that situation in <placeName>Texas</placeName>. The <persName>people of the <placeName>Colony</placeName></persName> ought to seek
+their <persName>public servants</persName> amongst the most prudent men they can find&#8212;Men
+who have a firm and well established reputation for <hi rend="italic">probity, calmness, 
+intelligence, judgement and virtue</hi>. such men for example as <persName>Burnett</persName>, <persName>Grayson</persName>,<pb n="20"/>
+<persName>Cap Martin</persName>, <persName>McKinney</persName>, <persName>Dr. Miller</persName>, <persName>J. H. Bell</persName>, etc. etc. a long list of good
+men might be made out. Those who are constantly trying to <hi rend="italic">climb the
+skies</hi> without a ladder, must learn by experience that such a course will
+not do, before they can be useful to the country, or even to themselves.
+The people should recollect that the interest of the <persName>farmers </persName>and laboring
+part of the <placeName>community </placeName>is what ought to be looked to, and not the interest
+and ambitious views of young <persName>lawyers </persName>or <persName>impatient aspirants</persName> or 
+inflammatory <persName>political adventurers</persName> who are always trying in all countries to
+make instruments and tools of the people. Young men of this class will
+be useful and very valuable members of society hereafter, when experience
+shall have fully matured their judgment and tempered their youthful ardor
+and taught them prudence. But untill then they are better calculated to
+do harm by keeping up excitements and filling <placeName>newspapers </placeName>with violent and
+inflamatory remarks than anything else. <persName>S M Williams</persName> has been a faithful
+and useful servant to the <placeName>colony</placeName>, and he and <persName>McKinney </persName>are very well 
+calculated to be of great and essential benefit to the <persName>farmers </persName>as <persName>merchants</persName>, to
+export the produce of <placeName>Texas</placeName>, and give character and activity to our infant
+commerce. They richly deserve encouragement, and I sincerely hope they
+will receive it from all persons. They neither of them are grasping or
+gaping for office, and for that very reason they deserve to be employed
+tho as <persName>exporting merchants</persName> they can be of more advantage to the people
+than in any other situation, for they will secure a fair price to the <persName>farmer</persName>
+for his produce and give system and stability to the <placeName>market </placeName>as regular
+<persName>merchants </persName>do in all countries, and save the <persName>farmers </persName>from mere <persName>pedlars </persName>and
+<persName>transient dealers</persName>, who are an evil rather than a benefit.</p>
+
+<p>I need not recommend to either of you, <hi rend="italic">harmony </hi>with your <persName>neighbors </persName>and
+with all persons&#8212;because I know that your ideas on this subject are the
+same as mine&#8212;public good and individual happiness depends very much
+on harmony between the members of a <placeName>community</placeName>, and especially of a new
+and rising community. There might be a very good society below <placeName>Brazoria</placeName>
+including <placeName>both sides of the river</placeName>, and I see no substantial reason why there
+should not be harmony amongst the families of the opposite banks of so
+small a river. It has not been my fault or yours there is not, and it is to
+be hoped that those who have tryed to create party division there and in
+other parts of <placeName>Texas </placeName>will take a different course in future. It is my sincere
+wish and any advance towards such a happy State of things will be met
+by me with pleasure, as I have no doubt it also will by you. I expressed
+my ideas on this matter in a letter to <persName>McKinney </persName>the <date when="1834-10-18">18 of last month</date> to
+which I refer you.</p>
+
+<p>The<date n="10-xx-1834"> beginning of last month</date> I was rather in low spirits. I had heard
+so many bad reports for so long a time, and nothing favourable from
+<placeName>Texas</placeName>, that I began to doubt that the<persName> people of the <placeName>Colony</placeName></persName> had totally
+forgotten and contemptuously cast me away. This idea did, what nothing<pb n="21"/>
+else, not even a sentence of death could have done, it depressed my spirits.
+Since then all has britened&#8212;<persName>Grayson </persName>and <persName>Jack </persName>have arrived and I have
+heard from you all in <placeName>Texas </placeName>in a manner that shows that my well 
+intended exertions to serve that <placeName>country </placeName>are appreciated. This fully 
+compensates me for my sufferings. I have been called a cold hearted calculator
+by some, How little they know me. What they called cold hearted 
+calculation, proceeded in fact from the <hi rend="italic">warmth </hi>of my affections for those people.
+I feared they would injure themselves. Had I cared nothing about them,
+no such fear would have influenced me. The truth is I am not sufficiently
+cold hearted, for at times I suffer myself to be excited very much, my
+letter of <date when="1833-10-02">2d October 1833</date> to the <persName>Ayuntamto of Bexar</persName> is one proof of it.
+I can now look back and see many others of a similar kind. I opposed a
+territory for <placeName>Texas </placeName><date n="xx-xx-1833">last year</date> in this place under my instructions, to do so,
+in true North American stile, that is with <hi rend="italic">passion violence</hi> and <hi rend="italic">irritation</hi>,
+and by so doing have involved myself in a tangled net, I might have done
+it <hi rend="italic">mildly </hi>and avoided making so many <persName>enemies </persName>and such powerful ones.</p>
+
+<p>I rely on you and <persName>Williams </persName>to attend to my private affairs. The last
+two years have cost me large sums of money and thrown me back very
+much in my own affairs. You can make such arrangements of my business
+as you think best. I am greatly in favor of keeping up the <placeName>Chocolate bayou
+stock farm</placeName>, and intend to spend some of my time there. The place is of
+110 value except for stock, but is good for that purpose.</p>
+
+<p>I hope you or my friends will never forget <persName>Mr. Jack</persName> and his <persName>family</persName>, and
+<persName>Mr. Grayson</persName> they are truly worthy men. I shall ever remember them with
+gratitude.</p>
+
+<p>I cannot write to all, but wish you to remember me to all, and you can
+show this letter to such of my <persName>friends </persName>you think proper.</p>
+
+<p>Remember me to all the <persName>children</persName>, tell them to mind their books and
+study hard and loose no time in idleness. I send <persName>Eliza </persName>a small pair of
+<hi rend="italic">scissors</hi>, as an emblem of industry and the domestic virtues, which she will
+possess to a great degree if she will attend as she ought to do, the precepts
+and example of her <persName>parents</persName>, as I have no doubt she will do. <persName>Joe </persName>must
+be a good <hi rend="italic"><persName>planter</persName></hi>, <persName>Austin </persName>a good <hi rend="italic"><persName>merchant </persName></hi>and <persName>Guy </persName>a good <hi rend="italic"><persName>Lawyer</persName></hi>. Let
+them bear this in mind, also <persName>Steph F.</persName> must be a <persName>Lawyer</persName>. Remember me
+to <persName>Mr. Pilgrim</persName>. I am greatly pleased with him as a <persName>teacher</persName>. Remember
+me very affectionaly to <persName>Cousin Henry Austin</persName> and all his <persName>family</persName>. I hope
+to see him <date n="Spring-1834">next spring</date>, and that we shall all see better times in future.</p>
+
+<p>Most truly and affectionately your brother</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>Since writing the above I have recd additional information which 
+strengthens my opinion that my affair will terminate favourably&#8212;so that you
+must not be uneasy or unhappy on my account<pb n="22"/>
+You must not suffer any extracts of my letters to be published. A short
+extract published by <persName>Williams </persName>in <placeName>New Orleans</placeName>, of my letter of <date when="1834-06-03">3 June</date>,
+has reached here, and has been understood very differently from its true
+meaning and has injured me very much&#8212; let this be a caution to you all
+to keep my name out of the <placeName>newspapers</placeName>. The political state of this <placeName>country</placeName>
+is tranquil and I think will remain so. I do not believe that <persName>Genl Santana
+</persName>has any designs to change the form of Govt. I have confidence in him</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p><persName>Mr. James F. Perry</persName> near <placeName>Brazoria</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

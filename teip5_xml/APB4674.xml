@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4674">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to James F Perry, 09-09-1834</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-10">12-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1089
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-09-09">09-09-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin's debts. Wonderful reaction in Austin's favor.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Sn Felipe</placeName> <date when="1834-09-09">9th Septemr 1834</date></p>
+<p><persName>Mr James F Perry</persName></p>
+
+<p>Dear Sir. On my arrival here I found a <persName>Mr Bradley</persName> here with a
+note of our friend <persName>Col Austin</persName> for something upwards of 700$ which
+has been due some months, and which would have been paid ere this
+but from the necessity of providing funds for him in <placeName>Mexico</placeName>.</p>
+
+<p>After his arrest he wrote to me and requested me to dispose of his
+property to provide means for him, he has also sent you a letter of
+attorney for the same purpose. As yet I have not found it necessary
+to make any sale nor do I believe it will be necessary for I can 
+continue to raise means for all his wants in <placeName>Mexico</placeName>, and he has authority
+to draw for another thousand dollars over and above what he has
+drawn for, and this note is the only one he has out&#8212;</p>
+
+<p>I find that at this place there is no money to be had at the moment.
+<persName>Mr White</persName> at <placeName>Columbia </placeName>is likewise destitute if you have as much as
+500$ by you I wish you would advance, it, and should you require it
+in the <date n="Winter-1834">winter </date>I can return it to you, and if you should want in <placeName>New
+Orleans</placeName> I can manage to furnish it to you there, if you have it I
+should like to hear from you immediately&#8212;I can get along with the
+sum mentioned.</p>
+
+<p>I am happy to state that there is a wonderful reaction in favor of
+the <persName>Col.</persName> and altho some what tardily I am proud in the Conviction
+that his <persName>Colonists </persName>are disposed to do him justice.</p>
+
+<p>Present me kindly to your family.</p>
+
+<p><persName>Samuel M. Williams</persName>    [Rubric]</p>
+
+<p><persName>M A Bryan</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4665">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>P W Grayson to James F Perry, 08-09-1834</title>
+            <author>
+                <persName>P W Grayson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-09">12-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Gulf Prarie, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1074-1075
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-08-09">08-09-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Discussing mission to Mexico in Austin's behalf. Political confusion.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felippe</placeName> <date when="1834-08-09">Aug 9 '34</date></p>
+<p>Dr Sir</p>
+
+<p>I arrived here <date when="1834-08-08">yesterday morning</date> and expect to leave, on 
+<date when="1834-08-11">Monday</date>&#8212;-accompanying <persName>Col Almonte</persName> We are informed on good 
+authority, that the cholera is in <placeName>San Antonio-</placeName>&#8212;deaths 6 or 7 a day,&#8212;
+it commenced about the <date when="1834-07-27">27th last month</date>&#8212;We are in hopes it will
+have abated by the time we get on&#8212;</p>
+
+<p><persName>Johnson </persName>writes from there, that he will be able to procure a 
+favorable address from the <persName>Ayuntamiento</persName>.-&#8212;</p>
+
+<p>I have seen the one from <placeName>Matagorda</placeName>, which is a considerable
+improvement on the first, but not so full as I could have wished&#8212;
+The Liberty Memorial is well written and is <hi rend="italic">perhaps </hi>very good as
+to the substance tho' there is a little of it I do not like altogether.</p>
+
+<p>The one from the <placeName>Colorado</placeName>, <persName>Johnson </persName>has with him We shall get
+it from him at <placeName>San Antonio</placeName> where it appears lie will remain-</p>
+
+<p>But my main dependence is on <persName>Almonte</persName>-&#8212;There is no very 
+important, additional information as to the progress of the 
+Revolution.&#8212;4000 <persName>Sta Anna</persName> men, have marched against <placeName>San Louis Potosi</placeName>&#8212; <placeName>Mexico </placeName>is measurably quiet. We have heard, (to heighten our 
+distresses) that there is even a State Revolution&#8212;<placeName><hi rend="italic">Saltillo </hi></placeName>against 
+<hi rend="italic">Monclova</hi>. It seems that the <persName>people </persName>of the former place have set up a
+<persName>governor </persName>of their own, in opposition to the one at <placeName>Monclova </placeName>and
+threaten to storm the place, if the Official papers of all kind, are not
+given up to them&#8212;all is no doubt the work of a <persName>licentious mob</persName>&#8212;-
+What is to come of it I know not of course&#8212;as I suppose no one
+else does&#8212;</p>
+
+<p>I will write you from <placeName>San Antonio</placeName></p>
+
+<p><persName>P. W. Grayson</persName></p>
+<p><date when="1834-08-11">Monday Evening</date></p>
+
+<p>We shall leave this, tomorrow or next day&#8212;waiting on <persName>Colo
+Almonte</persName>, as <persName>Jack </persName>and myself are now ready&#8212;<pb n="1075"/></p>
+
+<p>I have had some talk with the <persName>Colo </persName>on the subject of this State
+disorder&#8212;He laments it but thinks he <hi rend="italic">understands </hi>the cause and
+that all will be well soon&#8212;Time will tell best.</p>
+
+<p><persName>P. W. G.</persName></p>
+
+<p>[Addressed.] <persName>Mr. James F. Perry</persName>, <placeName>Gulf Prairie</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

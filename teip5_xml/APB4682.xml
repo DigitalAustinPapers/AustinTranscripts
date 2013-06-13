@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4682">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 10-06-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-11">2-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Cap. H. J. Offutt
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Prison of the Deputation</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp.  6-8
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-10-06">10-06-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Slow progress of his case. Enemies in Texas and in Mexico, and the causes of their enmity. Loyalty to Mexico and benefits to the people of Texas repaid by ingratitude. Hope of relief in the rise of Santa Anna</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+<p>In the <placeName>Prison of the Deputation</placeName> or <placeName>Carcel de Ciudad</placeName></p>
+<p><placeName>Mexico </placeName><date n="10-6-1834">October 6 1834</date></p>
+
+<p><persName>S. M. Williams</persName></p>
+<p>Dr Sir.</p>
+
+<p>I wish you to close and finish all my business and affairs in conjunction
+with my <persName>brother in law James F. Perry</persName> and give him all the aid you can in
+so doing&#8212;deliver to him all notes and accounts due me, my desk trunks
+papers etc also copies certified of all my land titles and inform him when
+each tract must be settled so as to comply with the law in every particular&#8212;
+I rely on you and him to save my property from total ruin and I have
+confidence that every honest man in <placeName>Texas </placeName>will aid you both in so doing.</p>
+
+<p>I was removed to this <placeName>prison </placeName>on the <date when="1834-09-19">19 ult.</date> and an investigation of my
+case has at last commenced by the district <persName>Judge D. Martinez de Castro.
+</persName>I know nothing more than that evidence and circumstances and the say sos
+of my <persName>enemies </persName>are collecting by the <persName>Minister Lombardo</persName>, all <hi rend="italic">ex-parte</hi>&#8212;he
+expects, as I am told something more from <placeName>Texas </placeName>from <persName>agents </persName>there, and
+in the mean time I am languishing here, and when at the end of six months
+or a year it is thought that sufficient proof is collected, I shall then be called
+on to disprove what is against me and of course shall have to send to <placeName>Texas</placeName>.</p>
+
+<p>In short to sum up a long story in a few words, my <persName>friends </persName>in that <placeName>country</placeName>
+may look on me as dead for a long time to come and probably for ever&#8212;
+A frank manly, but mild and respectful representation from the <persName>people of<pb n="7"/>
+<placeName>Texas</placeName></persName> in my favor would have set me at liberty long since and would do
+it now&#8212;The <persName>President Genl Santana</persName> is friendly to me. So is the <persName>Judge</persName>
+but what can they do against a host of bitter <persName>enemies </persName>which I made by 
+opposing a <placeName>territory</placeName>, and others because I am a <persName>foreigner </persName>and hundreds 
+because I have been active and successfull in settling, and others from envy
+and others because they think I am wealthy and others because I am in
+misfortune, what can the <persName>president </persName>and <persName>judge </persName>do against all this host with
+the <persName>Minister Lombardo</persName> at their head, and especially when <placeName>Texas </placeName>is silent
+as to me, or worse than silent for I am told that every thing that comes
+from there is against me&#8212; My situation is desolate&#8212;almost destitute
+of <persName>friends </persName>and money, in a <placeName>prison </placeName>amidst <persName>foes </persName>who are active to destroy me
+and forgotten at home by those I have faithfully labored to serve&#8212; I have
+been true and faithful to this <persName>Govt</persName>- and <placeName>nation</placeName>&#8212;have served them 
+laboriously&#8212;have tried to do all the good I could to <persName>individuals </persName>and to the
+<placeName>country</placeName>&#8212;have been a <persName>philanthropist</persName>, and I am now meeting my reward&#8212;
+I expect to die in this <placeName>prison</placeName>&#8212; I have no reason to make any other 
+calculation&#8212; It is hard and unjust and cruel&#8212;when I am dead justice will be
+done me&#8212; I have performed my duty and my conscience is at rest&#8212;
+Even the things that my <persName>enemies </persName>say were errors, were evidently intended
+to benefit the public interest and advance the <placeName>country </placeName>and not to benefit
+myself&#8212; But so be it&#8212; I have been the means of distributing many
+millions of acres to make the fortunes of <persName>others</persName>, and I now doubt whether
+I shall not have to depend on Charity for six feet of ground to sleep in
+at rest&#8212; This is man and mankind&#8212;a picture of human life&#8212;</p>
+
+<p>I send this by <persName>Cap. H. J. Offutt</persName>. I recommend him to you as an honest
+man and a <persName>friend </persName>give him what information you can about the <placeName>country</placeName>,
+he wishes to settle there&#8212; I again repeat, close all my affairs save my
+property for <persName>sisters children</persName> and for my <persName>brothers little boy</persName> This is your
+duty as a friend, and I know that you will faithfully comply with it If I
+had eight or ten thousand dolls. I might get my liberty I think&#8212;but where
+or how can I get that sum&#8212; I shall draw on <persName>Beeres &amp; St John</persName> for another
+thousand as you wrote me <date when="1834-07-31">31 July</date> I could do&#8212;you and <persName>Perry </persName>can make
+the arrangement to meet it&#8212; <persName>Colonel Butler</persName> has refused to give me up
+one of my notes, the last one and the largest one you can see by his
+receipt its amount&#8212;he says that <persName>Whitesides </persName>had no authority to draw on
+me for the whole amount&#8212; <persName>Whitesides </persName>recept is in my desk, call on him
+to pay the deficit or show authority to draw and settle that business.
+<persName>Butler </persName>gave me up one note and <persName>Whitesides </persName>gave me up one&#8212;there were
+three in all, and <persName>Butler </persName>still has one which he holds me accountable for
+altho I have paid it to <persName>Whitesides </persName>Try and settle all my affairs&#8212; I wish<pb n="8"/>
+to be square with the world and with mankind tho that is difficult for they
+owe me much more than I do them&#8212; When I am dead they will pay&#8212;
+they never pay the living</p>
+
+<p>Remember me to <persName>Sarah </persName><persName>Mr. Scott</persName>, and to all others&#8212; My <persName>enemies </persName>are
+quite welcome to all the tryumph and all the pleasure which they can
+derive from my unfortunate and persecuted situation, one that I have
+brought on myself by my honest efforts to serve them as well as every body
+else&#8212; The day will come if honesty has not abandoned the earth when
+they will meet with their reward from public opinion&#8212; As for me I shall
+die, as I expect to do in <placeName>prison </placeName>and under persecution, but with a clear and
+quiet conscience&#8212; Remember me to <persName>Ramon Musquis</persName> I shall always
+respect him and also <persName>Victor Blanco</persName>&#8212; nothing in my favor need be sent
+to <persName>Lombardo the present minister</persName></p>
+
+<p>My only hope now is the expected change of politics, govt. or system, or
+something, that all look for in <date n="01-xx-1835">Jany- next</date>&#8212; If that change gives <persName>Santanna</persName>
+absolute power or extra facultades I shall be set at liberty&#8212; I think also
+that <persName>Alaman </persName>will then come into office and if so I shall be set at liberty&#8212;
+he is my friend and he is an honest man as well as an able one&#8212; you
+are all prosperous and safe in <placeName>Texas </placeName>because you are far removed from
+the convulsions of this distracted <placeName>country</placeName>&#8212;you are all far beyond the
+reach of harm&#8212;may you be so for ever and rise in prosperity and 
+happiness.</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+<p>P. D. remember me to <persName>H. Austin</persName> and show him this, request him to
+write to <persName>H. Meigs</persName> and to thank him for his kindness in my favor it 
+however has availed me nothing as yet but I hope may when the expected
+change takes place in <date n="01-xx-1835">Jany-</date> you must not write to <placeName>this place</placeName> all is 
+perverted against me&#8212;everything.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

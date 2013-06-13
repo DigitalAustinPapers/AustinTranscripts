@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4670">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel M Williams to James F Perry, 09-03-1834</title>
+            <author>
+                <persName>Samuel M Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-10">12-10-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mouth of Brazos, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1086
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-09-03">09-03-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-10" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Copy of letter from Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mouth of Brasos</placeName> <date when="1834-09-03">3d Septemr. 1834</date></p>
+<p>Dear Sir.</p>
+
+<p>I enclose for your perusal and the satisfaction of <persName>Mrs. Perry</persName> the
+last letter that I have recd from our friend <persName>Col Austin</persName>. I wrote to
+him from <placeName>Orleans </placeName>and further authorized him to draw on <persName>Beers,
+St John and Co</persName> for <hi rend="italic">1,000$ </hi>which will last him until we can hear
+further from him.</p>
+
+<p>I leave here in the steam boat for <placeName>Columbia</placeName>. If I had made my
+journey by Land should have done myself the pleasure of calling on
+you.   I am very anxious to get home and am with esteem yr friend</p>
+
+<p><persName>Samuel M Williams  </persName>  [Rubric]</p>
+
+<p>[Addressed:] <persName>Mr. James F Perry </persName>  At <placeName>home</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4650">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J H Bell to James F Perry, 07-15-1834</title>
+            <author>
+                <persName>J H Bell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-06">12-06-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Gulf Prarie, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1063-1064
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-07-15">07-15-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-06" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting action by the ayuntamiento in Austin's behalf.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Mr. J. F. Perry</persName> <placeName>Columbia </placeName><date when="1834-07-15">July 15th 1834</date></p>
+<p>Dear sir</p>
+
+<p>I have understood that they have got a letter at <placeName>St Philipi</placeName> from
+<persName>Col Austin</persName> givin information of his situation which is more inlarged<pb n="1064"/>
+than heretofore but is still in Confinement also requesting the several
+<persName>aumentoes [ayuntamientos]</persName> to have a meeting for the purpose of
+making representations to the <persName>Gov </persName>and as I understand that ours
+is to be instald at this place on <date when="1834-07-19">satterday next</date> I think it would be
+well for you to Come up and let us make a tryal to git sumthing
+on foot far his benefit I have talked with several whous opinions air
+entitled to Credit and all are anceous to attend to the affair and also
+are ancious that you should Come up I think it should be attended
+to as soon as possable and I will look for you up on <date when="1834-07-19">satterday </date>when
+we will have an oportunity of Consulting for the best&#8212; I send by
+<persName>Mr McNeal</persName> some books for your little <persName>son </persName>I should be glad if <persName>Mr
+Pilgram</persName> and <persName>James </persName>could Come up at the same time as the peaches
+will be getting ripe if the[y] can not Come at that time at any
+rate by <date when="1834-07-26">satterday week</date>.</p>
+
+<p><persName>J. H Bell</persName>   [Rubric]</p>
+<p>[Addressed:]<persName> J. F. Perry </persName>  <placeName>Gulf Perie</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

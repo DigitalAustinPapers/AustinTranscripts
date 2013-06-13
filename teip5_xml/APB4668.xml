@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4668">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to E. W. Gregory, 08-26-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-09">12-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        E. W. Gregory
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazoria, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1085-1086
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-08-26">08-26-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Loyalty to Mexico. Political news. Santa Anna.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Mexico </placeName><date when="1834-08-26">26 August 1834</date></p>
+<p><persName>Mr. E. W- Gregory</persName></p>
+
+<p>Dear Sir. I enclose you a letter for my <persName>brother in law Mr.
+James F. Perry</persName>, of <placeName>Brazoria </placeName>which I must beg the favour of you
+to forward by the first safe opportunity</p>
+
+<p>I am still in confinement but expect a favourable change in my
+situation soon</p>
+
+<p>The political affairs of this <placeName>country </placeName>are all quiet I have no doubt
+that the political intentions of the <persName>President Gen Santa Ana</persName> are
+sound and patriotic, he wishes to get a <persName>general congress</persName> togather
+in <date n="01-xx-1835">January next</date>, freely elected by the <persName>people</persName>, with the powers of a
+National convention in order to reestablish the Constitution which
+has been so dreadfully outraged by all parties that none respect it. I
+do not think he has designs to change the system of Government.
+At least not in its principal features. He has put a stop to the system
+of banishment and imprisonment, and recalled all the banished a
+very just humane and necessary measure.</p>
+
+<p>The past events in <placeName>Texas </placeName>have cost me very dear. I was 
+precipitated into them by the excitements and circumstances of the times It
+is a consolation to me that I am the only one who has suffered by
+them and that much good has resulted to <placeName>Texas </placeName>and also to the
+<placeName>Mexican republic </placeName>from those events. The evils complained of in
+<placeName>Texas </placeName>have been remedied by the <persName>government </persName>on the one hand and
+on the other the <persName>people </persName>of the <placeName>country </placeName>have become convinced of the
+dangers of political excitements and of listening to political fanatics
+and political adventurers they will consequently be on their guard<pb n="1086"/>
+against such dangers in future. My motto always has been <hi rend="italic">Fidelity
+to <placeName>Mexico</placeName>, opposition to <persName>violent men</persName> or measures</hi> it is the only
+sound rule for <placeName>Texas</placeName>. I am more convinced of it now than ever, tho
+I never doubted it notwithstanding it would seem as tho I had in one
+single act and for a moment departed from it, but I never did.</p>
+
+<p>When I left <placeName>Texas </placeName>in <date n="04-xx-1833">April 1833</date> the <persName>people </persName>there were determined
+to have a state. As the <persName>agent </persName>for those people it was my duty to
+promote that determination but neither the <persName>people of <placeName>Texas</placeName></persName> nor
+myself have ever in the least failed in our duty as <persName>Mexican Citizens
+</persName>and there never has been any kind of design or plot to separate <placeName>Texas</placeName>
+from the <placeName>Mexican republic</placeName>. All the rumors and reports and 
+suspicions that have been circulated about me and about the <persName>people of
+<placeName>Texas</placeName></persName> on this subject are uterly false and without the least 
+foundation in truth</p>
+
+<p><persName>S. F. Austin</persName></p>
+<p><persName>Mr. S. M. Williams</persName></p>
+
+<p>I annex a copy of a letter received by <persName>Mr. G </persName>about a hour ago <hi rend="italic">in
+great haste</hi></p>
+
+<p>Yours <persName>Henry [Austin]</persName></p>
+
+<p>[Addressed:] <persName>Mr. S. M. Williams</persName> <persName>McKinney </persName>&amp; <persName>Williams </persName><placeName>Brazoria
+Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

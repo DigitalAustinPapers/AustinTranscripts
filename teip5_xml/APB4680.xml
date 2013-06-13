@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4680">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 10-6-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-09">02-09-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazoria, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 1
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-10-06">10-6-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructing Perry to take charge of his business</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>Mexico </placeName><date n="10-06-18934">October 6 1834</date></p>
+<p><persName>Mr. James F. Perry</persName></p>
+<p>Dr <persName>Brother</persName>,</p>
+<p>I wish you to take charge of all my pecuniary interests and business in
+conformity with the power of attorney I sent you in <date n="05-xx-1835">May </date>and <date n="06-xx-1835">June </date>last. Call on<persName> S. M. Williams</persName> for all my papers, notes due me and accounts in
+his possession, or other property, my desk trunks etc and this letter will be
+your authority for so doing and I wish <persName>Williams </persName>to give you all the aid he
+can in finishing and closing all my Affairs and you will take possession of
+all my <placeName>property </placeName>and manage it the best you can for my benefit and
+advantage.</p>
+<p>I sent you two miniatures in <date n="01-xx-1835">Jany last</date> from <placeName>Monterey </placeName>and two books,
+<persName>Zavala</persName>s history of <placeName>Mexico</placeName>, and some garden seeds which I hope you have
+recd- I gave them to <persName>Horace Allsberry</persName> to be deliverd by him to <persName>Peter and
+Joseph Powell</persName> who were at <placeName>Pilon</placeName>.</p>
+<p>Love to <persName>sister Emily</persName> and all the <persName>children </persName>to <persName>Eliza </persName>and <persName>Phillips </persName>and
+<persName>little Stephen</persName>&#8212;keep them at <placeName>school</placeName>-&#8212;remember me to<persName> H. Austin</persName> and his
+<persName>family</persName>. I know not when I shall be at liberty, there is no more prospect
+now than there was nine months ago. I am of the opinion you may look
+on me as dead for a long time to come. I wish you all peace and happiness. 
+Your affectionate brother</p>
+<p><persName>Stephen F. Austin</persName> [Rubric]</p>
+<p>Remember me to <persName>H. Austin</persName> and all others.</p>
+<p>[Addressed:] <persName>Mr. James F. Perry</persName> near <placeName>Brazoria </placeName>Care of <persName>Somerville </persName>or
+<persName>Moses Austin Bryan</persName> <placeName>San Felippe de Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

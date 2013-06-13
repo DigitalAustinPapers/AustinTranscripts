@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4695">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 11-06-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-14">02-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 22-23
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-11-06">11-06-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Business instructions. Irresponsible publications from Texas injure him. Wishes harmony in Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1834-11-06">Novr- 6. 1834</date></p>
+
+<p>Dr <persName>Brother</persName></p>
+
+<p>I owed <persName>John Austin</persName>, there was an unsettled a/c between us as well as
+I recollect I gave him several notes for which he gave me a receipt which
+is in my desk at <persName>Williams</persName>. I anticipate no kind of difficulty in settling
+with <persName>William Austin</persName> as I have no doubt <persName>John </persName>kept all our accounts 
+correctly.</p>
+
+<p>It was understood that <persName>Westall</persName>'s note was not to be passed away to
+any one, and that it should not be pressed untill the old man was able
+to pay it, but this was a verbal understanding. I have been very careless
+about all my private business and monied matters I wish them all settled.
+<persName>Williams </persName>understands them better than anyone, and I believe better than
+I do myself, speak to him about<persName> John</persName>'s account.</p>
+
+<p>Try and get some money out of the <placeName>lots at the mouth of the river</placeName>&#8212;tho
+do not sacrifice them for in a short time they ought to be worth something
+handsome. I have <placeName>two labors at the high ground back of the mouth of the
+river near a lake&#8212;the place is called the Mound</placeName>&#8212;do not sell them yet&#8212;
+it is the highest land in that <placeName>neighborhood</placeName>. See whether <persName>Williams </persName>has
+finished all the titles for my <placeName>premium land</placeName> and the <placeName>three tracts I got of
+<persName>Aguirre</persName></placeName>. <persName>John Austin</persName> owed me for some money I paid to <persName>Don Fernando</persName>&#8212;
+somebody, I forget his name. He is the <persName>son-in-law of old Ignacio Feres
+in <placeName>Bexar</placeName></persName>. It was for a league of land&#8212;<persName>Williams </persName>knows about it. <persName>Emily</persName>
+must not be hasty in taking up prejudices against <persName>Williams</persName>, he has his fits
+and starts and faults but I do not believe he is unfaithful to me. I have
+done too much for him. If <persName>Wharton </persName>wishes to be friendly and makes any
+motions towards a visiting state of matters between the families, meet it
+kindly and let there be harmony but make no undue advances&#8212;tho I need
+not say that to <persName>Emily </persName>for she courts no one, and wishes for harmony
+with all. <persName>Mrs. Wharton</persName> is an amiable and talented woman.</p>
+
+<p>A few fools do great harm to that <placeName>country </placeName>a silly letter from <placeName>Matagorda</placeName>
+written I suppose by some one who only wants ears to be a jackass, and<pb n="23"/>
+a piece signed <persName>Pedralto </persName>have done great harm very great indeed&#8212;such men
+deserve severe treatment from the <hi rend="italic">honest </hi>part of the community whose
+interest they are trifling with.</p>
+
+<p>You can show my other letters to <persName>Bell</persName>, <persName>Martin</persName>, <persName>Miller </persName><persName>W. H. Jack </persName>etc.
+I suppose that <persName>Williams </persName>and <persName>McKinney </persName>have gone to <placeName>Monclova </placeName>and for
+this reason I do not write to them If they have not gone tell them the
+reason I have not written to them</p>
+
+<p>God bless you all. I have no doubt I shall soon be at liberty Burn all
+my letters date <date when="1834-10-06">6 of last month</date> and let no one see them.</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

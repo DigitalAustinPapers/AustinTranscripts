@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4663">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Fisher to R. M. Williamson, 08-05-1834</title>
+            <author>
+                <persName>George Fisher</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-09">12-09-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        R. M. Williamson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoros, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1071
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-08-05">08-05-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-09" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking return of a book. Political news.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matamoros </placeName><date when="1834-08-05">5th Augt. 1834</date></p>
+<p><persName>Robt M. Williamson Esqr</persName>.</p>
+
+<p>My dear Sir. My last respects to you were care of <persName>Mr. Meyer,</persName> 
+requesting you to do me the favor of forwarding me by said gentleman
+the 4th vol: of the "Novisimo Febrero," which I lendt to you in
+<date n="xx-xx-1832">1832 </date>in <placeName>Anahuac</placeName>. I have received no answer, nor have I seen since
+<persName>Mr. Meyer</persName>, who as yet has not returned; therefore if you have not 
+delivered to him said Book, please to do it to the <persName>Bearer Doct. Cameron</persName>,
+or if the Book is not to be had pay him 5$ the price thereof.</p>
+
+<p>The political situation of the <placeName>Interior </placeName>is in a dreadful state, and
+the whole <placeName>country </placeName>inveloped in a chaos,&#8212;The <persName>Bearer </persName>of this who is
+well informed of all that passes around us will explain you many
+things also a letter I have written to <persName>David G. Burnet Esqr</persName> at 
+<placeName>Lynchburg</placeName>, Duplicate of which I have directed to<persName> Mr. Saml. M. Williams
+</persName>in your place via <placeName>Bejar </placeName>to the care of <persName>Mr John McMullen.</persName>&#8212;from
+sd letter you will learn particulars, and meantime I would 
+recommend to the <persName>people of <placeName>Tejas</placeName></persName> <hi rend="italic">Union </hi>and mutual forbearance, 
+sacrificing smaller interests for the great <hi rend="italic">grand </hi>one, and burrying past
+strifes in eternal oblivion, is the desire of</p>
+
+<p><persName>Jorge Fisher  </persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
