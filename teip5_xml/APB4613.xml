@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4613">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Sameul M Williams, 01-13-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Sameul M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monterrey, Nuevo Leon</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1024-1026
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-01-13">01-13-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing arrest for urging organization of State government in Texas. Has opposed annexation of Texas to the United States, but has told Mexican statesmen that they should either reform local abuses in Texas or sell the Province to the United States. Warns against excitement over his arrest. His attitude toward the convention of 1833. Attitude toward territorial government for Texas toward statehood.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galve&amp;ton, Tex,]</p>
+
+<p><placeName>Monterrey </placeName><date when="1834-01-12">Jany 12 1834</date></p>
+<p><persName>S. M. Williams</persName>.</p>
+
+<p>On my arrival at <placeName>Saltillo </placeName>on the <date when="1834-01-03">3 inst</date>. I was arrested by the <persName>Comt
+General</persName> on an order from the<persName> Minister of War</persName> directing that I
+should be sent back to <placeName>Mexico </placeName>to answer an accusation, made, as
+I understand, by the <persName>Govt, of the State of Coahuila and Texas.</persName> I
+leave in a few days for <placeName>Mexico </placeName>under an <persName>escort </persName>as a <persName>prisoner</persName>. My
+treatment is very good and I have no cause to complain on that
+score. I feel under obligations to the <persName>Com Genl Don Pedro Lemus</persName>,
+and to the <persName>Govr of this State Manual Maria Llanos</persName>, also to <persName>Col 
+Ugartechea</persName> who is the <persName>Commandant </persName>at this place. They have all treated
+me in the kindest manner. <persName>Lemus </persName>expects to visit <placeName>Texas</placeName>, and if he
+should, and I have one <persName>friend </persName>left in that <placeName>country</placeName>, or if there be
+one out of the thousands whose fortunes I have labored to make,
+who wishes to do me a favor in return, I request that friend, or
+that <hi rend="italic">one</hi>, to be the friend of <persName>Genl Lemus</persName> for my sake.</p>
+
+<p>I presume that I am arrested for writing the <hi rend="italic">oficio </hi>to the <persName>Aytos.
+of <placeName>Texas</placeName></persName> dated <date when="1833-10-02">2d of October last</date>. I made some <persName>enemies </persName>in <placeName>Mexico </placeName>for
+opposing a <placeName>territory</placeName>, but I do not believe they have had any hand
+in my arrest. It has been intimated to me that some <persName>enemy</persName>, I know
+not who, had accused me of designs to unite <placeName>Texas </placeName>with the <placeName>U. S.
+of the north</placeName>. Such an accusation is false and I disregard it. I
+have said openly to all<persName> persons in <placeName>Mexico</placeName></persName>, and to the <persName>Govt</persName>, itself,
+that I was of opinion the <persName>local Govt, of <placeName>Texas </placeName></persName>ought to be organized,
+or that <placeName>country </placeName>ought to be transfered to the <placeName>U. S. </placeName>for situated
+as it now is, it is liable to revolutions and anarchy which may do
+much harm to the <placeName>frontiers of both nations</placeName>, and finally loose <placeName>Texas</placeName>
+and ruin the poor and honest <persName>settlers </persName>who have labored in good faith
+to redeem it from the <placeName>wilderness </placeName>and make it a <placeName>valuable portion
+of the Mexican republic</placeName>. The real fact is that at this time <placeName>Texas</placeName>
+does not belong to <placeName>Mexico</placeName>, nor to <placeName>Coahuila</placeName>, nor to the <persName>settlers </persName>who
+have redeemed it&#8212;it belongs to them in justice and in right that
+is to the<placeName> Mexican republic</placeName> and to the <persName>inhabitants of <placeName>Texas</placeName></persName>&#8212;but in
+point of fact, it belongs to <persName>demagogues</persName>, <persName>pettyfoggers</persName>, <persName>visionary
+speculators</persName> and <persName>scheamers</persName>, to <persName>indians </persName>to anarchy and discord and
+confusion&#8212;to comprehend all in one word&#8212;it is without 
+<persName>Government</persName>.</p>
+
+<p>I hope there will be no excitement about my arrest. All I can
+be accused of is, that I have labored arduously, faithfully, and 
+perhaps at particular moments, pationately, and with more impatience
+and irritation than I ought to have shewn, to have <placeName>Texas </placeName>made
+<placeName>State of the Mexican Confederation</placeName> separate from <placeName>Coahuila</placeName>.   This<pb n="1025"/>
+is all, and this is no crime. But should it be considered otherwise,
+it will not take me by surprise. Ever since I returned from <placeName>Bexar</placeName>
+a year ago <date n="12-xx-1833">last Decr</date> and found the Convention called in my absence,
+I have consider'd myself as suspended over the altar of sacrifice.
+That measure placed me in an awkward position. It compromised
+me in the highest degree with the <persName>people and authorities of <placeName>Bexar</placeName>,</persName>
+on the one hand, and with my <persName>friends at <placeName>San Felipe</placeName></persName> on the other,
+for altho I had agreed to the calling of a convention before I went
+to <persName>Bexar</persName>, I did not expect it would have been done in my absence.
+I went there to consult with the <persName>authorities </persName>of that place. I 
+considered that very great respect and deference was justly due to them
+as <persName>native Mexicans</persName>, as the <placeName>capital of Texas</placeName>, and as the <placeName>oldest and
+most populous town in the country</placeName>. And I knew the importance
+of getting them to take the lead in all the politics of <placeName>Texas</placeName>, besides
+this, I was personally attached to those people as a sincere friend
+and wished to act in concert with them. I wished the convention
+to meet in <placeName>Bexar</placeName>, but at that time it was death to any man's 
+popularity to speak in favor of the <persName>Mexicans</persName>. These things are all
+pased and had best be forgotten&#8212;probably I have no just cause to
+blame any one but myself for in some things that occured then I
+was a mere <persName><hi rend="italic">passive actor</hi></persName>, when I ought to have been a firm and
+unbending <persName><hi rend="italic">director</hi></persName>. My object was to smother the party spirit and
+violent and ruinous divisions which I saw brewing in the <placeName>colony</placeName>;
+and as my friendship for the <persName>Mexicans </persName>and opposition to violent
+measures was to have been used by my <persName>enemies</persName>, (who were in fact
+also the only real <persName>enemies </persName>to <placeName>Texas</placeName>) as the kindling materials, the
+oil and brimstone to set the flame of discord and confusion ablazing,
+I thought it best to deprive them of the kindling matter by a passive
+course. I mistook the means, and committed a great error, but I
+have learned this lesson in politics, that there is no medium with
+envy and party spirit, between victory and defeat.</p>
+
+<p>I was always in favor of the State question, but I feared, especially
+after my trip to <placeName>Bexar</placeName>, that it would not succeed unless the <persName>people</persName>
+of that place took the lead, and it was arranged for them to do so.
+The representation and remonstrance of <date when="1833-12-19">19 Decr</date>, was the first step,
+and would have led to all the others, and <placeName>Texas </placeName>by this time would
+have been a State or nearly so, and the discord that I fear has
+arisen between <placeName>Bexar </placeName>and a part of <placeName>Texas </placeName>would have been avoided.
+All was defeated and deranged and <placeName>Bexar </placeName>was offended and turned
+against a measure that it was in favor of. So much for party spirit
+and envy, or rather for opposition to <persName>Austin </persName>because he was <persName>Austin</persName>&#8212;
+he, must be suspected and watched&#8212;<hi rend="italic">he</hi>, who has labored so many
+years regardless of personal fatigue or responsability to build up<pb n="1026"/>
+<placeName>Texas</placeName>, settle it and make the fortunes of its <persName>inhabitants</persName>&#8212;bien, muy
+bien. Such is human nature and such it will always be-&#8212;I am tired
+of it and for the future wish to have as little to do with mankind or
+their affairs as practicable.</p>
+
+<p>If I thought my advice would have any weight, I would say to
+<placeName>Texas</placeName>, you must all harmonise with <placeName>Bexar </placeName>and <placeName>Goliad</placeName>, that is with
+the <persName>Mexican population</persName>. If they petition for a <placeName>State </placeName>or a <placeName>Territory</placeName>
+and are seconded by the rest of <placeName>Texas</placeName>, the petition will be granted,
+and I am equally certain that no petition of this kind will succeed
+that is opposed by that population.</p>
+
+<p>If a <persName>victim </persName>is required by the <persName>Govt </persName>I, of course will be the man,
+for those who have really contributed to precipitate these matters
+occupy too small a space to be noticed by the Government.</p>
+
+<p>I wish you to send me a certified copy of the representation made
+last year by the <persName>Ayto. of <placeName>Goliad</placeName></persName>. I have that of <placeName>Bexar </placeName>and need
+the other to shew that the <persName>Mexican population</persName> complained even
+more than the other. Send it under cover to<persName> W. S. Parrott</persName> and
+direct all letters for me to him.</p>
+
+<p>The <persName>Aytos. of <placeName>Texas</placeName></persName>, if they wish to do me justice might state to
+the <persName>Genl Govt</persName> what they know of my character and conduct. I do
+not ask it, if it is done I wish it of their own accord. Such a thing
+from <placeName>Bexar </placeName>would have weight. I must request you to provide me
+with the means of living in <placeName>Mexico</placeName>. I used one of the bills of credit
+that is one thousand dollars&#8212;can I use the other? I can sell bills
+on <placeName>Orleans </placeName>in <placeName>Mexico </placeName>for 10 pr. ct. I sold to <persName>Parrott</persName>&#8212;I recd, 
+nothing for any of the claims on <placeName>Matamoros </placeName>but am promised something.
+I presume I shall be five or six months and perhaps a year in <placeName>Mexico</placeName>,
+or I may be sent back to the <persName>State Govt</persName> who have demanded me of
+the <persName>Comt Genl</persName> for what purpose, whether friendly or hostile, I
+know not. No man has benefited <placeName>this part of the nation</placeName> more than
+I have&#8212;in a few years more the <placeName>frontier of Coahuila </placeName>will be safe
+from the <persName>indians</persName></p>
+
+<p>Remember me to my <persName>friends </persName>if I have any and to your <persName>wife </persName>and
+the <persName>old settlers</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

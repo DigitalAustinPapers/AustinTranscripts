@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4615">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to  Rafae Llanos, 01-14-1834</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                         Rafae Llanos
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Monterrey, Nuevo Leon</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1027-1033
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1834-01-14">01-14-1834</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing arrest, explaining his purposes in Texas, and showing need of reform.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Monterrey</placeName>, <date when="1834-01-14">January 14, 1834</date>.</p>
+<p><persName>Señor Don Rafael Llanos</persName>.</p>
+
+<p>My dear Sir : In times of political disturbances like those of the
+past year it is difficult to have any relations whatever with political
+affairs without becoming entangled in some way or other, now with
+<persName>parties</persName>, now with <persName>individuals</persName>, now with the <persName>authorities</persName>. Thus it is
+that I have fallen into the net, and was arrested on the <date when="1834-01-03">3d of this
+month</date> by order of the <persName>minister of war</persName>, and depart in a few days for
+<placeName>Mexico </placeName>as a <persName>prisoner</persName>.</p>
+
+<p>From what I have said to you in our conversations concerning
+<placeName>Texas</placeName>, you will have understood that that <placeName>country </placeName>was exposed to
+anarchy for the want of adequate <persName>local government</persName>. During the
+<date n="Winter-1833">winter of last year</date> there was strong sentiment, in fact, for an 
+organization of the <persName>local government</persName>, always as an integral part of the
+<placeName>Mexican federation</placeName>.</p>
+
+<p>The energetic representations of the <persName>ayuntamientos </persName>and towns of
+<placeName>Bejar </placeName>and <placeName>Coahuila</placeName>, dated <date when="1832-12-19">December 19, 1832</date>, demonstrate with
+sufficient clearness the evils of <placeName>Texas </placeName>and the aroused feeling of those
+towns over the torpor of the population and the backwardness of
+<placeName>Texas </placeName>through inadequate legislation and the neglect of its best and
+dearest interests. The great majority of the people expressed their
+opinion in favor of separation from <placeName>Coahuila</placeName>, and their 
+determination to so organize if there were no other remedy. The <persName>Convention</persName>
+framed the memorial of <date when="1833-04-13">April 13 [1833] </date> to the <persName>general 
+government</persName>, asking that <placeName>Texas </placeName>be erected into a state of this federation,
+and nominating me to carry it to <placeName>Mexico</placeName>. It appears that since
+then some <persName>ayuntamientos </persName>have changed their opinion because they
+believe that the <persName>people </persName>ought not to have petitioned for erection
+into a state under Article 2 of the organic law of the <persName>General 
+Constituent Congress</persName> dated <date when="1824-05-07">May 7, 1824</date>, without the previous consent
+of the <persName>Legislature of <placeName>Coahuila </placeName>and <placeName>Texas</placeName></persName>. But they do not mean
+to be understood by this as being content with their situation.   They<pb n="1028"/>
+desire radical remedies, and only believe that they have mistaken
+the means to obtain them. Concerning this point, it must be said
+that at that time (<date n="11-xx-1832">November </date>and <date n="12-xx-1832">December, 1832</date>) <placeName>Texas </placeName>was almost
+in a state of nature as to government&#8212;and perhaps one would not
+venture much in saying that the whole <placeName>republic </placeName>was in the same
+situation,&#8212;so that the wisest were divided in opinion whether or
+not we had a legitimate <persName>government</persName>, or whether the Constitution
+still existed.</p>
+
+<p>I did not know of this new attitude of the <persName>ayuntamientos </persName>until
+<date when="1833-11-05">November 5 [1883]</date> at the conference of <persName>ministers </persName>called by the
+<persName>President</persName>, at which you assisted, when <persName>Señor Blanco</persName> brought it out.
+I therefore acted in conformity with the instructions given me by
+the convention in <date n="04-xx-1832">April</date>.</p>
+
+In <placeName>Mexico </placeName>I did all that I could to obtain the prompt and 
+favorable dispatch of the petitions of <placeName>Texas</placeName>, or busied myself to obtain
+such things as the repeal of the 11th Article of the law of <date when="1830-04-06">April 6,
+1830</date>, exemptions from the tariff, the regulation of the mails, the
+payment of the presidial companies; in short, anything to calm
+and content the <persName>people of <placeName>Texas</placeName></persName>.
+
+<p>At the <date n="10-xx-1833">beginning of October</date> I was discouraged and irritated by
+an incident or bad news or a mistake which occurred then, and lost
+hope and patience, and in that moment wrote to the <persName>ayuntamientos
+of <placeName>Texas</placeName></persName> recommending that they consult among themselves in order
+to organize the <persName>local government</persName> in union and harmony, in case the
+<persName>General Congress</persName> did nothing to remedy the evils of <placeName>Texas</placeName>. I had
+also an other reason which influenced me to make this 
+recommendation: at that time, the result of the revolution was, in the opinion
+of many, doubtful, and I knew very well that the <persName>inhabitants of
+<placeName>Texas</placeName></persName> were decided to revolt rather than submit to the domination
+of the <persName>Church party</persName>. In such case it would have been much better
+for the interest of <placeName>Texas</placeName>, of the <persName>popular party</persName>, and of the <placeName>republic</placeName>
+that it be organized in union and harmony, by agreement and 
+approbation of the <persName>local authorities</persName> and under their direction than to
+proceed by means of a popular uprising without the intervention
+of any authority.</p>
+
+<p>Thus my recommendation was entirely conditional, subject to
+the developments of the future, a precautionaiy measure and 
+nothing more. As soon as <persName>Arista </persName>surrendered and the 11th Article of the
+law of <date when="1830-04-06">April 6, 1830</date>, was repealed, I informed the <persName>ayuntamientos</persName>,
+and in so doing believed that I had revoked the recommendation
+made in my letter of <date n="10-xx-1833">October</date>, because it was made under the 
+supposition that nothing would be done.<pb n="1029"/></p>
+
+<p>I understand that I am arrested for having written that letter of
+<date n="10-xx-1833">October </date>to the <persName>ayuntamientos</persName>, and that the <persName>governor of the state</persName> is
+my <persName>accuser</persName>, but I do not know certainly whether this is true or not.</p>
+
+<p>All that I have done in this matter has been public and without
+concealment. I wrote to the <persName>ayuntamientos </persName>officially, and not 
+confidentially or privately. I did not leave <placeName>Mexico </placeName>until <date when="1833-12-10">December 10</date>,
+more than two months after writing the letter. I took leave of
+the <persName>Minister</persName>, of the <persName>Vice President</persName>, and of my <persName>friends</persName>; travelled in
+a coach with <persName>Deputy Don Luis de la Rosa</persName> as far as Lagos; and
+thence by <placeName>San Luis Potosi</placeName> to <placeName>Saltillo</placeName>, presenting myself at the
+moment of my arrival there to the<persName> Commandant General</persName>. I had
+started by the most direct road to <placeName>Monclova </placeName>to see if it was possible
+to obtain some laws for <placeName>Texas </placeName>in conformity with the 
+recommendations of the <persName>general government</persName> on the subject. I believe that if I
+had been able to reach <placeName>Monclova </placeName>during the session of the 
+<persName>legislature</persName>, as I desired, it would have been possible to regulate the affairs
+of <placeName>Texas </placeName>upon a basis satisfactory to <placeName>Texas</placeName>, to the state, and to the
+<persName>general government</persName>. It would have been very easy to go to <placeName>Vera
+Cruz</placeName> and embark for <placeName>Orleans</placeName>, if I had thought that I had 
+committed a crime that deserved punishment. The truth is that the hope
+of accomplishing some good for the contentment of <placeName>Texas </placeName>caused
+me to go by land, although the trip is much more severe than a
+voyage to <placeName>Europe</placeName>.</p>
+
+<p>In so far as there may be crime in having labored thirteen years,
+spending a life of weariness, in peopling the <placeName>wilderness of Texas</placeName>;
+in having spent my time and my money in a journey to <placeName>Mexico </placeName>to
+obtain relief from the evils which afflict <placeName>Texas </placeName>and threaten its ruin
+and even its separation from <placeName>Mexico</placeName>; in measures to save that 
+country from a violent revolution; in having assisted in establishing the
+foundations for the prosperity and security of the <placeName>frontiers of
+Coahuila, Nuevo León, and Tamaulipas</placeName> and the advancement of those
+states in population, industry, and agriculture&#8212;in so far as there may
+be crime in all this, I am a great criminal.</p>
+
+<p>Without population in <placeName>Texas </placeName>the <placeName>frontiers of the Eastern 
+Interior Provinces</placeName> are worse than nothing, for they are an abandoned
+field where the <persName>Indians </persName>may rob, kill, and destroy to suit their fancy,
+without protection for the wretched <persName>people</persName>. It would be an 
+enormous expense to maintain <persName>garrisons </persName>and <persName>troops </persName>enough to restrain
+the <persName>Indians </persName>even in a small degree in deserts so vast.</p>
+
+<p>I have been accused of having magnificent schemes for <placeName>Texas</placeName>, and
+I confess that I have had them.</p>
+
+<p>My friend, I am a <persName>Mexican citizen</persName>, and as such I shall speak with
+entire frankness: To suppose that the <placeName>Mexican nation</placeName> in its present<pb n="1030"/>
+situation, immersed in clouds of prejudice, and backward in 
+everything, can advance rapidly of itself alone and reach the level of other
+<placeName>nations </placeName>without drawing learning, industry, and population from
+abroad is almost the same as to imagine that the <persName>Mexicans </persName>of the
+time of <persName>Cortés </persName>could have advanced to where they now are without
+knowing any other people or having had communication with any
+other nation in the world. The <placeName>United States of the North</placeName> were
+much more advanced at the time of their independence than the
+<persName>Mexicans</persName>, and yet they needed learning, arts, and population from
+abroad. Upon the same policy are based my schemes for <placeName>Texas</placeName>, and
+for all the <placeName>eastern frontier</placeName>. It is depopulated; I wish to people it.
+The population that is there is backward; I wish it to be advanced
+and improved by the introduction of industrious agricultural <persName>settlers</persName>,
+<persName>liberal republicans</persName>. I want the savage <persName>Indians </persName>subdued; the <placeName>frontier</placeName>
+protected; the lands cultivated; <placeName>roads and canals</placeName> opened; river
+navigation developed and the <placeName>rivers </placeName>covered with boats and barges
+carrying the produce of the <placeName>interior </placeName>to the <placeName>coast </placeName>for export in 
+exchange for <placeName>foreign </placeName>products, thereby saving the precious metals
+which are now our only medium of exchange; I wish to take from
+my<placeName> native land </placeName>and from every other <placeName>country </placeName>the best that they
+contain and plant it in my <placeName>adopted land</placeName>&#8212;that is to say, their best
+<persName>inhabitants</persName>, their industry, and their enlightenment, so that the
+<placeName>eastern frontier</placeName> which is now without population and in its greater
+part almost without government, might present an example worthy
+of imitation. These are the magnificent, and as it now appears,
+visionary, plans which I have held for <placeName>Texas</placeName>, and for all this
+<placeName>frontier</placeName>; and if there is a <persName>Mexican </persName>who does not wish to see them
+realized, I must say that he does not love his <placeName>country</placeName>; neither wants
+to see her emerge from the darkness of the fifteenth century nor
+shake off the chains of superstition and monastic ignorance which
+she is still dragging along.</p>
+
+<p>Very little do they know me who believe that I have sacrificed the
+best years of my life in the <placeName>wildnerness of Texas</placeName> to gain a fortune!
+I have not gained it, and I could have lived in comfort in a <placeName>settled
+country</placeName>. I entered <placeName>Texas </placeName>in <date n="xx-xx-1821">1821 </date>an enthusiastic <persName>philantropist </persName>and
+now at the age of forty I find myself on the verge of misanthropy,
+tired of men and their affairs, and convinced that I wished to finish
+in a few years the work of a century. I have seen the <placeName>United States
+of the North</placeName> make every effort to attract population, knowledge, and
+capital from <placeName>abroad </placeName>for its development. I have seen a <placeName>wilderness</placeName>
+covered with a dense population in a few years, and <placeName>new states</placeName>
+erected where at the time of my birth there was not a single civilized
+person. I believed that it would be the same with the free and
+nascent <placeName>Mexican nation</placeName>.   I see that I was mistaken.   Before <placeName>Mexico</placeName><pb n="1031"/>
+can develop in that manner she must pay the price by a moral 
+revolution in which shall be overthrown all the customs and the Gothic
+politico-religious system set up by <placeName>Rome </placeName>and <placeName>Spain </placeName>to hold the
+people in subjection like beasts of burden&#8212;such a revolution she
+will have in a century but not in the life time of one man.</p>
+
+<p>You have been my <persName>friend </persName>since <date n="xx-xx-1821">1821</date>, and I owe you a frank 
+expression of my thoughts. In this letter I have told all my desires
+and dreams for <placeName>Texas</placeName>. I was not born in a <placeName>wilderness</placeName>, and have
+not the patience of the <persName>Bexareños </persName>and other <persName>inhabitants of this
+<placeName>frontier</placeName></persName> who are daily enduring the same dangers and annoyances
+that their <persName>fathers </persName>and <persName>grandfathers </persName>and perhaps their <persName>great-grand-
+fathers</persName> suffered, without advancing a single step or even thinking
+of advancing. Death is preferable to such stagnant existence, such
+stupid life.</p>
+
+<p>I am very grateful to your <persName>brother, Don Manuel</persName>, I and to the
+<persName>Commandant General</persName>, <persName>Don Pedro Lemus</persName>, and to all here for the
+kindness which they have shown to me.</p>
+
+<p>Please show this letter to <persName>Don Victor Blanco</persName> and to <persName>Don Teodoro
+Rivarol</persName> and tell them that I put their letters for <placeName>Monclova </placeName>in the
+mail here.</p>
+
+<p>I remain your very sincere friend, etc.</p>
+
+<p><persName>Estevan F. Austin</persName>.</p>
+
+<p>P. S.&#8212;I wish you would also do me the favor to show this letter
+to <persName>Señor Rejón</persName>. I should be sincerely sorry if that patriot and
+eloquent defender of liberty and reform should have erroneous
+ideas concerning this matter. I understand that the foundation
+of the political creed of that gentleman is that we should proceed
+firmly and unwaveringly with the system of radical reforms until
+the life and habits of the mass of the <persName>Mexican people</persName> are entirely
+in harmony with the form of government adopted by the <placeName>nation</placeName>.
+This also is the object of my efforts in the little sphere in which
+I have worked.</p>
+
+<p>In the <placeName>United States of the North</placeName> the government was adapted
+to established practices. In <placeName>Mexico </placeName>the process has been the reverse
+of this. Here it is necessary to shape habits and customs to the
+system of government; and it is due to this fact that the <placeName>nation</placeName>
+has encountered so much difficulty in consolidating itself.</p>
+
+<p>Customs are not changed or corrected by theories nor by oral or
+written preaching, no matter how clearly reasoned and eloquent
+it may be, without some practical and palpable application to the
+life and understanding of the mass of the <persName>people</persName>. I wished to
+make this application in <placeName>Texas</placeName>, and so, progressively, throughout
+the <persName>Rio Grande frontier</persName>; at the same time strengthening the political<pb n="1032"/>
+and economic relations of that remote section of the <placeName>Republic </placeName>with,
+the other states by direct representation in <persName>Congress</persName>, by improved
+roads, and by <placeName>interior </placeName>and <placeName>coasting </placeName>trade.</p>
+
+<p>Taking a general and impartial view of the matter, with the
+government settled, it is very evident that it is not to the interest
+of <placeName>Texas </placeName>to separate from <placeName>Mexico </placeName>even if she were free to do so.
+But on the other hand it is well known that men are influenced more
+by petty local annoyances or grievances in the present, even though
+temporary, than by the hope of great benefits in the future. One
+may call the grievances of <placeName>Texas </placeName>temporary, but they are not petty;
+they are very serious. And it is from this that opinions arise that
+there is a conflict between the union of that country with <placeName>Mexico</placeName>
+and its progress and happiness. This opinion is erroneous, for
+nothing is easier than to remove that conflict and remedy the present
+local evils in <placeName>Texas </placeName>by an organization of its <persName>local government</persName> in
+conformity with the experience and particular needs of that 
+country&#8212;that is, to erect it into a state of the <placeName>Mexican Federation</placeName>.
+Doing this will fulfill, moreover, the object and the principles of
+the federal system, and will carry forward the important work of
+reforming the ancient customs of the people which conflict with
+the system, because there are none of these customs in <placeName>Texas</placeName>, and
+it is not possible to conceive that there will ever be any such.</p>
+
+<p>Men of large conceptions are always exposed to attack as 
+visionaries, ambitious and selfish <persName>schemers</persName>, deserving of suspicion, or
+something else, particularly if their plans look to general and 
+philanthropic improvements, because there are few who labor for anything
+but their personal interest. In the colonization of <placeName>Texas </placeName>I have
+wanted to make a personal provision for myself and for my <persName>family</persName>,
+and if he who sows is entitled also to reap the harvest, I deserve it;
+but at the same time I have wanted to confer upon my <placeName>adopted
+country</placeName> a general benefit by peopling and redeeming from its savage
+state an important part of its <placeName>territory</placeName>.</p>
+
+<p>I have labored in good faith, exposing myself to all sorts of 
+burdens and responsibilities for the good of my <placeName>country</placeName>; but at the
+same time I have duties to the <persName>settlers </persName>who have emigrated to the
+<placeName>wilderness </placeName>through my influence; and they owe a duty to themselves
+and to their <persName>families</persName>&#8212;the duty and the right of self-preservation.
+And if there were no other way to fulfil it but to separate from
+<placeName>Mexico </placeName>and join the <placeName>United States of the North</placeName>, or maintain 
+independence, it is very clear that it would then be their most sacred
+duty to attempt it.</p>
+
+<p>All that has been said by rumor and prejudiced reports about
+projects in <placeName>Texas </placeName>for separation from <placeName>Mexico </placeName>is false. There have
+not been and are not now any such projects.   What is wanted there<pb n="1033"/>
+is an organization of the <persName>interior government</persName> in order to avert 
+disorders, disturbances, and divisions which would undoubtedly 
+terminate in a revolution.</p>
+
+<p>I have said and I believe that <placeName>Mexico </placeName>should either establish the
+<persName>local government of <placeName>Texas</placeName></persName> or sell it to the <placeName>United States of the
+North</placeName>, in order to get some profit from it before losing it, and the
+<persName>Mexicans </persName>with whom I have talked and who thoroughly understood
+the matter are of the same opinion.</p>
+
+<p><persName>Estevan F. Austin</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

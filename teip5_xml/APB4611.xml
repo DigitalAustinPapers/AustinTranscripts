@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4611">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Washington Hotel to Stephen F Austin, 12-10-1833</title>
+            <author>
+                <persName>Washington Hotel</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1018
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-12-10">12-10-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin in account with Washington Hotel, Mexico. Bill.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p><date n="xx-xx-1833">1833 </date>           To Washington Hotel    Dr.</p>
+
+<p><date n="11-1-1833">Novr.   1 </date>   To 1 Bot wine___________________________________________     $1.   2</p>
+
+<p><date when="1833-11-16">16 </date>   "    cash lent____________________________________________       3,&#8212;</p>
+
+<p><date when="1833-11-16">"</date>      "    1 Bot wine___________________________________________       1.   2</p>
+
+<p><date when="1833-11-16">" </date>    "    l Glass tody_______________________________________             2</p>
+
+<p><date when="1833-11-20">20</date>    "    2 Glasses Whiskey____________________________________             2</p>
+
+<p><date when="1833-11-22">22</date>     "   "Glasses______________________________________________             2</p>
+
+<p><date when="1833-11-23">23</date>     &#8212; 2 Glass brandy______________________________________             1</p>
+
+<p><date when="1833-11-23">"</date>      &#8212;  cash lent____________________________________________      2.&#8212;</p>
+
+<p><date when="1833-11-24">24</date>     &#8212; 2 Glasses_____________________________________________             2</p>
+
+<p><date when="1833-11-25">25</date>         &#8212;2    do_________________________________________________             2</p>
+
+<p><date when="1833-11-25">" </date>    	&#8212; cash lent_______________________________       2.   0</p>
+
+<p><date when="1833-11-27">27</date>    "    3 Glasses___________________________________________             3</p>
+
+<p><date when="1833-11-27">"</date>      "    1 Glass tody________________________________________             2</p>
+
+<p><date when="1833-11-27">"</date>      "    2 Glass spts______________________________________           2</p>
+
+<p><date when="1833-11-29">29</date>     &#8212; 2    do    do____________________________________________             2</p>
+
+<p><date when="1833-11-30">30</date>     &#8212; 1 Glass Ale___________________________________________             1</p>
+
+<p><date when="1833-12-01">Decr     1</date>    "    1 Brandy Sling________________________________________             2</p>
+
+<p><date when="1833-12-02">2 </date>   "    1 Glass brandy________________________________________            1</p>
+
+<p> -   &#8212; 2 Glasses    do________________________________________             2</p>
+
+<p><date when="1833-12-04">4 </date>    &#8212; 2    do    do___________________________________________             2</p>
+
+<p><date when="1833-12-05">5</date>     &#8212; 1 Glass brandy____________________________________             1</p>
+
+<p>1 Bot Ale_________________________________________             3</p>
+
+<p>2 Glass____________________________________________             2</p>
+
+<p>Keeping one horse 2d inst__________________________       0.   4</p>
+
+<p>do do 2 horses from <date when="1833-12-03">3d</date> to <date when="1833-12-05">5th</date> inclusive is 3 days___    $1&#8212;3</p>
+
+<p>Stable room for 2 Horses from <date when="1833-12-06">6th</date> to <date when="1833-12-09">9th</date> inclusive 4 days 1/each beast per day__________________             1</p>
+
+<p>$18.    2</p>
+<p><date n="xx-xx-1833">1833</date></p>
+
+<p><date when="1833-12-09">Dec      9 </date>   To Mule from <date when="1833-12-08">8th</date> to <date when="1833-12-09">9th</date> inclusive 2 days_________________      0.    2</p>
+
+<p>"    Board from<date when="1833-11-01"> Nov 1st</date> to <date when="1833-12-09">Decr 9th</date> inclusive is 5 days $9___    50.    1 1/4</p>
+
+<p>"    Room rent for Same time 39 days 6 1/2 Rs_______________    31    5 1/2</p>
+
+<p>$100.   2 3/4</p>
+<p><date when="1833-12-10">Dec     10</date>    To l Bf_______________________________                         4</p>
+
+<p>Mo. <date when="1833-12-10">Dec 10 1833</date>_________________________________________ $100. 6 3/4</p>
+
+<p><persName>W J Offutt y co</persName></p>
+<p>pr <persName>J Ripley</persName></p>
+<p>[Endorsement by Austin:]</p>
+
+<p>Paid by a note favor of <persName>Ithaman Whiting</persName> payable to <persName>J. W. Breedlove</persName> <placeName>N.
+Orleans</placeName> <date when="1834-04-01">April 1 next</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

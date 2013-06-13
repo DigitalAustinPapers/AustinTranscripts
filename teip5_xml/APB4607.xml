@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4607">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 11-05-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1013-1015
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-11-05">11-05-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Law of April 6, 1830, amended. Santa Anna favorable to Texas. Quarrel with Farias. Danger that Texas will be organized as a territory. Willingness to sacrifice self for Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Mexico </placeName><date when="1833-11-05">Novr. 5&#8212;-1833</date></p>
+
+<p>Dr Sir.</p>
+
+<p>A number of cases occurred here during the Cholera of persons
+who died, were taken to the grave and then came to life again&#8212;one
+<persName>man</persName>, rolled up in a blanket was thrown into a pit with many others,
+lime was first spread over them. It operated on this man so as to
+stimulate him to life again&#8212;he got up and walked home. His 
+appearance there could not have caused a more sudden and agreable
+surprise, than the sight of your letter of <date when="1833-09-17">17 sept</date>, did to me. <persName>Col
+B. [Butler]</persName> recd letters from <persName>C. [Coles?]</persName> and <persName>W. [Whiteside]</persName> stating
+in the positive that you and <persName>Cap Martin</persName> were dead.<persName> Doctor Rivers
+</persName>wrote the same from <placeName>Monclova </placeName>so that I had no doubt of it. I really
+congratulate you and <persName>Sarah </persName>that they were mistaken.<pb n="1014"/></p>
+
+<p>The law repealing the 11 article of <date when="1830-04-06">6 april 1830</date> passed both houses
+ten days since, and I understand has been approved by the <persName>president</persName>
+but it is not published yet&#8212;presume it will be in two or three days.</p>
+
+<p>I think that all the <placeName>Texas </placeName>matters will be satisfactorily arranged
+in a short time. I shall remain here as long as anything is undone,-&#8212;
+if there is a prospect of doing any good by it. I think something
+will be effected in the mail and <placeName>customhouse </placeName>arrangements. It is
+said that <persName>Zavala </persName>is to be <persName>minister of State</persName>, and some speak of <persName>Genl
+Mejia</persName> for the <placeName>war department</placeName>, I believe there will be a change of
+<persName>ministers </persName>in a few days.</p>
+
+<p>I have had two interviews with the <persName>President Santana</persName>. He
+speaks very friendly about <placeName>Texas</placeName>. I am of opinion that if you all
+keep quiet and obey the state laws that the <hi rend="italic">substance </hi>of all Texas
+wants will be granted. The appearance of things is much better
+than it was a <date n="10-xx-1833">month </date>or even two weeks ago.</p>
+
+<p><persName>Bustamante</persName>, <persName>Arista </persName>and a large number of the <persName>banished</persName>, about
+300 left here a few days since for <placeName>vera cruz</placeName> to embark&#8212;they were
+banished for life.</p>
+
+<p><persName>Congress </persName>have repealed all laws that gave power to <persName>judges </persName>or <persName>civil
+authority</persName> to enforce the collection of <hi rend="italic">diezmos</hi>, or to compel <persName>nuns</persName>
+or <persName>monkes </persName>to remain in <placeName>convents </placeName>contrary to their will&#8212;so that it
+is now a mere matter of <hi rend="italic">conscience </hi>to pay tythes or stay in a convent,
+several <persName>nuns </persName>are out already&#8212; the whole system as it existed is
+undergoing a change desean tumbar lo gótico, y fabricar conforme
+a lo moderno.</p>
+
+<p>No <placeName>11 league grants</placeName> can be had now for any price within reason&#8212;
+<hi rend="italic">not one</hi>.</p>
+
+<p>I wish you to reflect on the awkward situation your affairs as well
+as mine would have been left, if you had actually died&#8212;and try and
+close them all so as to run no more risks for the future. <persName>Luke </persName>writes
+that all will be content with sending the State question to the <placeName>States</placeName>.
+This remark of his displays more common sense than was in the
+fashion when I left. I got a letter from <persName>Coles </persName>the <date when="1833-11-30">last of September
+</date>of an opposite character which had a very bad effect. It has taken
+almost ever since to remedy the evils proclaimed by it. what I mean
+to say is that it irritated me and I <hi rend="italic">acted </hi>under that influence&#8212;but
+all is smooth again.</p>
+
+<p><persName>Dn Victor Blanco</persName> is a good <persName>friend</persName>&#8212;he rejoices much that you are
+not a ghost, and wishes you to be very attentive to finish <hi rend="italic">all </hi>the titles
+for which you are agent which I hope you will do and write to him.</p>
+
+<p>I doubt whether I shall return now I will stay as long as 
+anything is to be done for the good of <placeName>Texas</placeName>. The sacrifice <persName>Luke </persName>speaks of (as a main thing) is with me a secondary affair.   I would sacri-<pb n="1015"/>
+fice my property and life to serve <placeName>Texas </placeName>and the substantial <placeName>settlers</placeName>,
+the <placeName>farmers </placeName>and <placeName>working men</placeName>&#8212;but I would not willingly do that
+much for men who would cut me, if they could. I have drawn on
+<placeName>N. O </placeName>(<persName>Beers</persName>, <persName>St John</persName> and co) for one thousand dollars on the letters
+of credit you sent me.   I think I shall not need any more.</p>
+
+<p>Get the titles from <persName>Padilla </persName>(3 leagues) and make the transfers of
+the <placeName><persName>Aguirrie </persName>tract </placeName>for as they now stand your death would loose
+them, as you will see by examining the subject. The <placeName>tract that
+<persName>Brown </persName>surveyed east of colorado</placeName> I wish to keep and will not part
+from at present. Also close the <persName>Cole </persName>business and in fact all other
+matters and be ready for <hi rend="italic">anything </hi>that may happen.</p>
+
+<p>My present opinion is that all will result fortunately (that is if
+you all keep quiet at home) but in these ticklish times, almost every
+day brings in unexpected change of some kind.</p>
+
+<p>I fear much difficulty about the <placeName>state </placeName>from <hi rend="italic">one </hi>quarter, and I have
+just been told that an effort would be made from <hi rend="italic">that </hi>source to make
+it a <placeName>territory </placeName>under the plan of the <placeName>territories in the U. S.</placeName> I replyed
+that I should protest against it, and told the <persName>President </persName>so or rather
+showed him my instructions on that point&#8212;besides this, there is no
+constitutional power in <persName>congress </persName>to make it a <placeName>territory</placeName>. To be more
+plain I am just now informed that <persName>Za. [Zavala]</persName> is in favor of a
+<placeName>territory </placeName>tho he told me the reverse not two days since. I told him
+I should protest against it. Since then he has not said anything to
+me about it.</p>
+
+<p>[Stephen F. Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

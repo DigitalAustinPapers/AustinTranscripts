@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4602">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W. S. Parrott to Stephen F Austin, 10-23-1833</title>
+            <author>
+                <persName>W. S. Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1009
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Account</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-10-23">10-23-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">United States exchange.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico</placeName>, <date when="1833-10-23">Oct'r 23d 1833</date></p>
+<p><persName>W. S. Parrott</persName></p>
+
+<p>To  <persName>S. F. Austin</persName>, Dr.</p>
+
+<p>Draft favor <persName>Franco Pizarro Martinez</persName>_____________________     $709.09</p>
+
+<p>do     do <persName>E. G. Carvajal</persName>__________________________________       290.91</p>
+
+<p>$1,000 &#8212;</p>
+<p>Sold  at  10%  premium&#8212;___________________________        100.</p>
+
+<p>$1,100 &#8212;</p>
+
+<p>for confirmation, see File of <persName>McKinney </persName>and <persName>Williams </persName>accts&#8212;</p>
+<p>[Indorsed:]<persName> W. S. Parrott</persName>   Drafts sold him   <placeName>Mexico</placeName>, <date when="1833-10-23">Oct'r 23d 1833</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

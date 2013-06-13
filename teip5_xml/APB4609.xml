@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4609">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 11-26-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-12-02">12-02-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1016
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-11-26">11-26-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-12-02" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Preparing to return to Texas. Reforms obtained. Political conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From Williams Fapers, Rosenberg Library, Galveston, Tex,]</p>
+
+<p><placeName>Mexico </placeName><date when="1833-11-26">Novr. 26 1833</date></p>
+
+<p>Dr Sir.</p>
+
+<p>The law repealing the 11 article of the law of<date when="1830-04-06"> 6 april 1830</date>, was
+passed by both houses, as I informed you in former letters, but, 
+unfortunately it was not sent to the <persName>executive </persName>untill the day of 
+<persName>Santana</persName>s entrance into this city from <placeName>Guanajuato</placeName>. <persName>Gomez Farias</persName> went
+out that day and the <persName><hi rend="italic">hero </hi></persName>went into the <placeName>presidential chair</placeName>&#8212;he 
+retained the law 9 days and returned it on the <date when="1833-11-10">10th</date> to <persName>congress </persName>
+requesting that its operation should be suspended for six months. This
+was unanimously agreed to by <persName>both houses</persName>, and the law was finally
+published on the <date when="1833-11-21">21 instant</date> so that the repeal does not take effect
+untill the <date when="1834-05-21">21st May next</date>.</p>
+
+<p>I think it doubtfull whether my letters reach <placeName>Texas</placeName>, I will 
+therefore merely say that I leave in about ten days for home by land&#8212;
+perhaps I shall go on with<persName> Genl Pedro Lemus</persName> who is appointed
+<persName>Comnt Genl</persName> in place of <persName>Felisola</persName>. <persName>Mejia </persName>has the command in <persName>chief
+in the <placeName>South</placeName></persName> where the civil war [is] Still raging tho I think that
+<persName>Mejia </persName>will soon terminate it. he is in the direction of <placeName>Acapulco</placeName>.
+and <persName>Genl Victoria</persName> is in <placeName>Oaxaca</placeName>.</p>
+
+<p><placeName>Texas </placeName>matters are all right, nothing is wanted there but <hi rend="italic">quiet</hi>.
+No troops go with <persName>Genl Lemus</persName>&#8212;<persName>Santana </persName>hung up the State question
+and wished to have <placeName>Texas </placeName>made a <placeName>territory</placeName>, and I believe that I
+have been the means of preventing it and that question is also hung
+up. This has made me a <hi rend="italic">goodly number of <persName>enemies</persName></hi> here who wished
+for a <placeName>Territory</placeName>&#8212;<hi rend="italic">nada importa</hi>&#8212;nil will go right. Close up all
+pending matters. It is now very important to harmonise with <placeName>Bexar</placeName>.
+Keep this in view.   I shall be at <placeName>home </placeName>soon.</p>
+
+<p>[Stephen F. Austin.]</p>
+
+<p>[Addressed:] <persName>Don Samuel M Williams</persName> <placeName>San Felipe de Austin
+Texas</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

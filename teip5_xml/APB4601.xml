@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4601">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 10-28-1833</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-11-30">11-30-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1008-1009
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1833-10-28">10-28-1833</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-11-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Congress favorable to repeal of restrictions on immigration from the United States. State organization still unsettled and little hope of success.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1833-10-23">23 October 1833</date>.</p>
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>It gives me much pleasure to inform you that the decree repealing
+the 11 article of the law of <date when="1830-04-06">6 April 1830</date> passed the <persName>chamber of
+deputies</persName> <date when="1833-10-24">yesterday </date>almost unanimously, and was discussed today in
+the <persName>senate </persName>and two articles were approved (there are three articles
+in the decree) when the <persName>senate </persName>adjourned. There was strong 
+opposition in the <persName>senate </persName>on the ground that the <persName>Govt, of the <placeName>U. S</placeName>.</persName> would
+take <placeName>Texas </placeName>if any more were alowed to come in from that <placeName>nation </placeName>and
+many other very foolish and absurd objections, but the majority were
+in favor of the law and I am told there is no doubt the other article
+will pass <date when="1833-10-24">tomorrow</date></p>
+
+<p><persName>Genl. Santana</persName> is expected in the <placeName>city </placeName>in <date when="1833-10-26">three days</date> and after he
+arrives I will try (a final tryal) on the <placeName>state </placeName>question. I told the
+<persName>vice President</persName> the other day that <placeName>Texas </placeName>must be made a <placeName>state </placeName>by the
+<persName>Govt</persName>, or she would make herself one. This he took as a threat and
+became very much enraged&#8212;however when he understood that my
+object was only to state a positive fact which it was my duty to
+state, he was reconciled. I had told him and the <persName>ministers </persName>the same
+thing ever since I came here. The fact is this <persName>govt</persName>, ought to make
+a <placeName>state of Texas</placeName>, or transfer her to the <placeName>U. S.</placeName> without delay and
+there is some probability at this time that one or the other will be
+done. A short time now will determine this matter in some way No
+one writes to me from <placeName>Texas </placeName>I hope you have taken 
+possession of all my papers desk etc that is if it be true as reported here
+that <persName>Williams </persName>is dead, which I hope to God is not the case. I left
+blanks signed to close the <placeName>coast colony</placeName> and should they fall into bad
+hands an improper use might be made of them&#8212; take possession of
+them all&#8212;</p>
+
+<p>I have had to draw on <placeName>Orleans </placeName>for one thousand dollars. This
+trip will cost me very dear, but I care nothing about that if either of
+the two events above mentioned can take place, or if any good results
+to <placeName>Texas </placeName>and its <persName>inhabitants</persName>&#8212; all my desires and ambition are limited
+to the sole object of benefiting that <placeName>country</placeName>&#8212;tho I must confess that
+some of the <persName>good folks</persName> there irritate me very much sometimes with
+their personal animosities and jealousies&#8212;but it is of short duration.<pb n="1009"/></p>
+
+<p>Love to my beloved <persName>Sister </persName>and all the <persName>children </persName>and to your
+<persName>neighbors</persName></p>
+
+<p>Your <persName>brother</persName>                         <persName>S</persName>_______</p>
+
+<p>I have written every mail since my arrival here on the <date when="1833-07-18">18 July</date>&#8212;
+[Addressed:]  <persName>Mr. James F. Perry    Merchant </persName>   <placeName>San Felipe de
+Austin   Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
