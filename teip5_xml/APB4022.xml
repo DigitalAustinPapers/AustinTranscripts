@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4022">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Amos Edwards to Stephen F Austin, 09-15-1830</title>
+            <author>
+                <persName>Amos Edwards</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-26">08-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Davis Point, Galveston Bay, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 480-482
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-09-15">09-15-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Misunderstanding concerning land.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Davis' Point Galveston Bay</placeName> <date when="1830-09-15">Sept, 15th 1830</date></p>
+<p>Dear Sir</p>
+
+<p>I have just recd your letter dated <date when="1830-08-29">29th August</date> by the hands of
+<persName>Majr Lewis</persName>, and am very much astonished at the contents; or that
+part relative our conversation when you was here in <date n="04-xx-1830">april last</date>&#8212;
+you say that agreeably to my request you have held in reserve for
+me <placeName>the tract on the north side of Clear Creek between that creek and
+the red Bluff tract</placeName>&#8212; you must have misunderstood me greatly if
+you thought I requested you to hold that tract of land in reserve for
+me for I never had the most distant Idea of such a thing and it
+would have been base in me to have wished to have had that tract
+conveyed to me after having given it up to<persName> Mr Morris </persName>for whom I
+purchased<placeName> <persName>Taylor</persName>s improvement</placeName>, which I had previously to your
+comeing here informed you be letter and <persName>Mr Morris</persName> at the same thime
+applyed to you by letter for that tract&#8212; and he is now on it and has
+improved it considerably&#8212; when you was here you advised me to go
+and live on that <placeName>tract at the mouth of Clear Creek</placeName> and gave as a
+reason that it would be more to my interest as this land here was
+poor and that is very rich&#8212; and finally said that you could not let
+me have both places and I might take my choice&#8212; my reply to you
+was that I prefered this place as health was my first object and the
+land was good enough for me to make a living on and just at that
+time <persName>Mr Perry </persName>arrivd which broke up our conversation&#8212; but 
+several days afterwards&#8212; you returned from an excursion with <persName>Mr
+Perry</persName> and the <persName>Surveyors</persName>&#8212; when you again undertook to advise me
+to leave here and go to the<placeName> mouth of Clear Creek </placeName>and I made you the
+same reply-&#8212;that I prefered this place and was unwilling to go from
+it as I was satisfied that it is a healthy place and did not believe
+the other to be healthy&#8212;and now I know the<placeName> mouth of Clear Creek
+</placeName>is very unhealthy as almost every person who has been there this
+season has been and is sick&#8212; Shortly after my arrival into this
+Government you invited me to visit and explore your <placeName>Colony </placeName>before I
+would settle myself which I intended doing shortly after the rect of
+your letter but sickness prevented me then but I had fixed my mind
+on this place before I left <placeName>Kentucky </placeName>and determined on coming to it
+if it was unappropriated and being informed that it was vacant I
+applied to you by letter last <date n="09-xx-1829">September </date>for this place for myself
+and for<placeName> twenty Leagues</placeName> around it upon which twenty <persName>families </persName>would
+settle as soon as they could remove after I gave them notice&#8212; your
+answer to me was that I could have my situation and as many 
+<persName>families </persName>as removed with me could have situation but that you could
+give no answer as to the balance or any more lands untill the <persName>Genl.<pb n="481"/>
+Commissioner </persName>came on who you expected shortly and would then
+write me fully on that subject&#8212; upon the receipt of your letter I
+began to prepare to remove to this place&#8212;and about the <date n="11-1-1829">first of
+November</date> sent part of my <persName>hands </persName>and stock with <persName>Junker </persName>to come here
+and put me up some cabbins or camps to shelter my <persName>family </persName>when
+they came on&#8212;</p>
+
+<p>I followed with the balance of my <persName>family </persName>in <date n="12-xx-1830">December </date>except my
+<persName>wife </persName>and called to see you on my way here and informed you that
+some of my <persName>hands </persName>were here then improving this place&#8212;You said
+we would not fall out about it and that I should have a place to
+suit me here and when you was here you told me I might have my
+choice of this or the<placeName> Clear Creek tract</placeName> and I told you I prefered
+<placeName>this place</placeName>, which I deemed sufficient and expected you would have
+had this tract surveyed for me before <persName>Mr Ingram</persName> returned to <placeName>St.
+Fillippe</placeName>&#8212; there were several other <persName>families </persName>removed with me who
+all intended coming near here but on their way heard that you
+had forbid any person setling in this part of the <placeName>country </placeName>they stoped
+above <placeName>Harrisburg </placeName>except <placeName>Mr Morris</placeName> who came on here in <date n="02-xx-1830">Feby</date>. and
+engaged <persName>Junker </persName>to live on the <placeName>place </placeName>I bought of <persName>Taylor </persName>for him
+untill he could bring his <persName>family </persName>down which he did in <date n="07-xx-1830">July </date>and
+calld to see you on his way&#8212;when he says you informed him that
+I had taken the <placeName>tract at the mouth of clear creek</placeName> which was the
+reason he declined taking a certificate of his admission into the
+<placeName>colony </placeName>and was very much displeased with me untill he came and
+found I had not taken his place away&#8212; he wishes to become a
+<persName>setler </persName>provided he can get the land he is on&#8212; and if I cannot
+keep the tract I am on after being invited by you into your <placeName>colony</placeName>
+and coming here by your approbation and permission I must seek
+an asylum in some other <placeName>colony </placeName>for I know of no other place within
+this that will suit me and I cannot see with what justice I am
+to be compelled to leave a place that I have come to setled and
+done a great deal of labour on before there was a compass set or a
+chain streched on it for any other <persName>individual </persName>in this <placeName>country</placeName>, or any
+other to occupy&#8212; and all my labour with ten <persName>hands </persName>and myself
+improving the place to be totally lost,&#8212; it may be law, of course
+it will [not] be justice, but I hope you do not think it is either
+to take a mans labour for nothing. I came to this <placeName>country </placeName>with the
+hope of getting a sufficiency of land for myself and all my <persName>children</persName>
+and to have them all settled around me, and I expected to have
+found in you a friend who would have aided me in accomplishing
+my wishes in that respect and was more encouraged to believe so
+after&#8212; receiving your letters and shall yet hope I am not 
+disappointed totally untill I see you again, but see no prospect of get-<pb n="482"/>
+ting all my <persName>children </persName>to settle near me I will [try] to be at your <placeName>house</placeName>
+about the... [mutilated] agreably to your request when I hope you
+[will] give me a title for this place on which I have spent a great
+deal of labour and money-&#8212;</p>
+
+<p><persName>Amos Edwards</persName></p>
+<p><persName>Col. Stephen F. Austin</persName>  <placeName> San Felipe de Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
