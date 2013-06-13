@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4341">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Branch T Archer to Stephen F Austin, 04-22-1832</title>
+            <author>
+                <persName>Branch T Archer</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-22">09-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Leona Vicario, Coahuila</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 765-766
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-04-22">04-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking Austin's help at Saltillo in obtaining grant to improve navigation of the Brazos and collect tolls.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1832-04-22">April 22d 1832</date></p>
+<p><persName>Colonel S. F Austin</persName></p>
+
+<p>Dear Sir, The variety of subjects, on which I desired 
+conversations, previous to your departure for the seat of Government; and
+the little time allowed us, in the hurry of our interviews, one of
+the most important subjects, was neglected, or forgotten.</p>
+
+<p>Connected with the settlement of the <placeName>new colony</placeName>, (without regard
+to the character of the settle [r]s, or the <placeName>nations </placeName>from which they<pb n="766"/>
+may be taken,) the most important matter, is the improvement of
+the <placeName>River Brasos</placeName>, (To say nothing, of the advantages, that must
+accrue to the present <persName>settlers </persName>on said <placeName>River</placeName>,) This improvement, is
+of vital importance, to the great interests of the <placeName>country </placeName>we inhabit;
+and its accomplishment would give a new character, and a powerful
+impulse to its growth.</p>
+
+<p>If a grant can be obtained, by myself and company, to make the
+said improvements for reasonable tolls, the work shall be finished
+in two years, <placeName>From the head of tide water to the Waco village
+</placeName>for boats, of twelve feet breadth; drawing thirty inches water.</p>
+
+<p>With this reservation to the <placeName>State</placeName>, that it may, at any time, after
+the completion of the work, possess itself of two thirds of the
+improvements, by paying to the <persName>company </persName>two thirds of the amount
+expended in making the same.</p>
+
+<p>You know as well as myself, the importance of the undertaking;
+and infinitely better, how to obtain the <placeName>grant</placeName>, on reasonable terms.
+I will therefore confide its details to your management.</p>
+
+<p>Have the goodness to let me hear from you on this subject, before
+the <date when="1832-06-01">1st of June</date>; as I shall start for the <placeName>United States</placeName> at that time.
+Should the <placeName>grant </placeName>be obtained, I will bring with me the force to
+commence the work <date n="Fall-1832">next fall</date></p>
+
+<p>Connected with this business, <persName>six of us</persName> have associated, to get
+a small steam boat, calculated to draw thirty inches of water, with
+an engine, of thirty five horse power, adapted to sawing timber
+on board the Boat.</p>
+
+<p>Nothing new in this <placeName>neighbourhood </placeName>since you left us.</p>
+
+<p><persName>B. T. Archer</persName></p>
+<p><persName>Colo S. F. Austin</persName></p>
+
+<p>[Addressed:]   <persName>Colonel Stephen F. Austin </persName>   Mail <placeName>Leona  Vicario</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

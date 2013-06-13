@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4336">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Nathaniel Cox to Stephen F Austin, 03-22-1832</title>
+            <author>
+                <persName>Nathaniel Cox</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-22">09-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 761
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-03-22">03-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning settlement with the Hawkins heirs.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName><date when="1832-03-22"> 22 March 1832</date></p>
+
+<p><persName>Col: Stephen F. Austin</persName></p>
+
+<p>Dear Sir, I have perused with some attention you letter of the
+<date when="1832-01-30">30 Jany </date>last and think with you that the representatives of our 
+lamented friend <persName>Hawkins </persName>has been sensurable, in the great neglect
+shown with regard to the <placeName>Texas grant</placeName> but I have some reason to
+believe <persName>Col: John Thompson Mason</persName> (now somewhere in the 
+<placeName>Mexican States</placeName>) has authority to divide <placeName>land </placeName>and settle all accounts.
+Until the fate of his mission is known I shall urge the 
+<persName>representatives </persName>no farther but should I be mistaken, there is now here a
+<persName>relative </persName>who will visit you, and I presume be cloathed with full
+power to act&#8212;   he will set out at any time that may be advised.</p>
+
+<p><persName>Mr. Carbajal</persName> is still here but returns in a few days with quite
+a small venture, having failed in making any collection from <persName>Mr
+Bowie</persName> as contemplated It affords me great pleasure to find his
+conduct has been such as to gain your Esteem</p>
+
+<p><persName>Nath: Cox.</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

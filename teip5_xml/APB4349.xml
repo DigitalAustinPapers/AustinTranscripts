@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4349">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 05-23-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-24">09-24-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Victoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 775-776
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-05-23">05-23-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructing him to locate certain grants including the present city of Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Victoria </placeName><date when="1832-05-23">23 May 1832</date></p>
+<p>Dr Sir.</p>
+
+<p>I wrote you <date when="1832-05-22">yesterday </date>by mail, since then <persName>Mr Greaves</persName> has 
+concluded to go on direct to <placeName>Texas</placeName>, and not follow <persName>Mason </persName>and self
+in the <hi rend="italic">vuelta </hi>by <placeName>Tampico </placeName>through <hi rend="italic">heat </hi>and <hi rend="italic">war</hi>. you will find him
+a very usefull man, much more so than any I have ever seen in
+<placeName>Texas </placeName>for an office where Spanish and english is needed. You
+must make good use of the time between this and <date n="01-xx-1833">Jany </date>to bring
+up all the back writing of the <placeName>office</placeName>.</p>
+
+<p>I sent you from <placeName>Saltillo </placeName>by mail, all the necessary papers to
+finish the titles for the <placeName>lands </placeName>granted to the <persName>Aguirres </persName>and <persName>Vega</persName><pb n="776"/>
+with directions as to locating it&#8212;on reflection I think I shall return
+<placeName>home </placeName>from <placeName>Matamoros</placeName>&#8212;that is if I am not detained too long in
+getting there, and in that event I will attend to their location 
+myself&#8212;but I wish you to employ a <persName>person of confidence</persName> to explore
+the land <placeName>up the San Jacinto, west side,</placeName> and see if one of the <placeName>grants</placeName>
+can not be located there <hi rend="italic">entire </hi>to advantage, have this done without
+delay so that I may know when I get there whether to take it or
+not. I wish the location on <placeName>Onion Creek west side of Colorado,</placeName>
+and on the <placeName>east side at the foot of the mountains</placeName>, also the <placeName>cedar
+league N° 4 above Bastrop</placeName>&#8212;. <hi rend="italic">Enfin </hi>this land will cost me very dear
+and unless it is well located I shall loose on it.</p>
+
+<p>You will see by the new colonization law that all sales heretofore
+made must be located within 18 months&#8212;this will cause a great
+push, and unless some care is taken all the land in our <placeName>colony </placeName>will be
+occupied by them&#8212;keep this in view&#8212;also remember that I have
+very advantageous offers to settle that <placeName>colony </placeName>which I shall decide
+upon after seeing the <persName>General</persName>.</p>
+
+<p>Above all things keep peace and harmony in the <placeName>Colony</placeName>. We
+have <hi rend="italic">all sorts</hi> of reports here about <placeName>Texas</placeName>, and it is said that three
+<persName>soldiers </persName>were killed at <placeName>Anahuac </placeName>by the crew of a vessell. I hope this
+is not so&#8212;do keep peace in that <placeName>quarter</placeName>&#8212;urge this on the <persName>Ayto </persName>and
+on <persName>every one</persName></p>
+
+<p>Remember me to <persName>Sarah </persName>and all others.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

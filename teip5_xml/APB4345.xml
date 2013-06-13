@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4345">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Austin, 05-08-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-22">9-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Saltillo, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 769-770
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-05-08">05-08-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Has cordial letters from Mexican statesmen. Thinks bar to immigration from the United States may be repealed.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Saltillo </placeName><date when="1832-05-08">May 8th 1832</date></p>
+<p>Dear Sir&#8212;I sent your letter to <persName>Smith and Stillman</persName> from <placeName>Canada</placeName>,
+and by this last mail reed, their answer, and an order on the <persName>agent</persName>
+of the late firm of<persName> R. P. Staples and Co</persName>. for the acknowledged balance
+of $756.05. The <persName>agent </persName>left here for <placeName>Mexico </placeName>before I reed, their
+orders. I applied to some others who are employed in arranging
+the accounts of the concern, and they all tell me that nothing can
+be had, and recommended that the account be sent to some one in
+<placeName>Mexico </placeName>to represent it at the <hi rend="italic">concurso </hi>of the <persName>creditors</persName>.   I fear this<pb n="770"/>
+money will be lost&#8212;so far as I understand, the affairs of the <placeName>house</placeName>
+are much more embarrased than was supposed. <persName>Mr Sharpe one
+of the agents of the concern </persName>here, for posting up the books (a
+<persName>Philadelphian</persName>) thinks that not over 20 pr. cent, will be divided-
+he says that your debt was lost by neglect for if it had been called
+for <date n="12-xx-1831">six months ago</date> it would have been paid, as the <persName>creditors </persName>in
+<placeName>Mexico </placeName>had then agreed to suffer the house to go on&#8212;since then
+they have become alarmed, and every one is pressing&#8212;the result
+is a total stopage. I have written to <persName>Smith and Stillman</persName> on the
+subject and recommend them to send the account to <persName>Parrot</persName>, to do
+the best he can with it. I leave <date when="1832-05-09">to-morrow</date> for <placeName>victoria </placeName>and shall not
+return to <placeName>Texas </placeName>before <date n="10-xx-1832">October</date>. <persName>Mason </persName>goes with me to see the
+<persName>General </persName>on business, and he has a fair prospect of effecting 
+something tho to what extent is rather doubtful. The political state of
+things is still unsettled and it is doubtful what will be the result,
+and whether the <persName>ministers </persName>will be able to sustain themselves or not.
+It matters not much for <placeName>Texas</placeName>, provided peace and harmony can
+be preserved there which is all important now. I have very friendly
+letters from <persName>Don Lucas Alaman,</persName> <persName>Genl. Teran </persName>and the <persName>Vice 
+President</persName>. The memorial of the <persName>Ayuntamiento of <placeName>Austin </placeName></persName>has been
+passed to <persName>congress </persName>with the recommendation of the <persName>President</persName>, and
+the prospect is good of a repeal of the 11 article of the law of <date when="1830-04-06">6 April
+1830</date> also of a modification of the duties. Remember me to <persName>Mrs A.
+</persName>and <persName>children</persName>.           Yours truly                                   </p>
+<p><persName>S. F. Austin</persName></p>
+
+<p>You ought to loose no time in locating your other <placeName>sitio</placeName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

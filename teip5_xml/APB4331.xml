@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4331">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 03-06-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-22">09-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 756-757
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-03-06">03-06-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Leaving instructions on departure for Saltillo.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1832-03-06">March 6 1832</date></p>
+<p>Dr <persName>brother</persName></p>
+
+<p>I send you <persName>Simon </persName>and wish you to keep him close at work until
+I return. He has been idle so long that he will require a tight rein&#8212;
+he is in the habit of gambling&#8212;-but he is a useful hand on a farm
+if he is kept close to his business. I wish you to send for the Mares
+and Colts of mine at <placeName><persName>John P. Cole</persName>s</placeName> they will be fat&#8212;sell them
+or keep them as you please, I do not know how many there is of
+them&#8212; I have given the deed for the place you are on to <persName>Emily</persName>
+there is a <placeName>league and three quarters instead of a league and a half.
+</placeName>I have left my will with<persName> S. M. Williams.</persName> You are one of the
+<persName>executors </persName>and <persName>H. Austin</persName> the other.<pb n="757"/></p>
+
+<p>Don't neglect to have a good <placeName>orchard </placeName>under way and by <date n="Fall-18132">next fall</date>
+have a good sail boat for the <placeName>bay </placeName>to go oystering and fishing I
+can spend some time with you next fall and winter. I have left
+a bundle of notes with <persName>Hunter</persName>&#8212;try and get Cows as many as you can
+and young cattle&#8212;sell the horses for cattle&#8212;the more cows the
+better</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Bell</persName>s receipt and <persName>Sims</persName> note are in the bundle I gave to <persName>Emily</persName>.
+[Addressed:] <persName>James F. Perry
+</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

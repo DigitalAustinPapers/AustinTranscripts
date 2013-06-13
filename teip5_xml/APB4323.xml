@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4323">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 02-10-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Chocolate Bayou, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 748
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-02-10">02-10-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Santa Ana leading revolution in Mexico. Hopes to keep peace in Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1832-02-10">Feb. 10 1832</date>.</p>
+<p>Dr. <persName>Brother</persName></p>
+
+<p>I saw a man the other day at <placeName>Harrisburgh </placeName>who told me that
+there were two horses<placeName> between Dickinsons Creek and Clear Creek
+</placeName>one a roan, they are represented to be gentle American horses&#8212;
+have you found all yours or has any one in your <placeName>neighborhood </placeName>lost
+any horses&#8212;if so let them know of these two&#8212;</p>
+
+<p>I hope you have not neglected to send to <placeName>Brazoria </placeName>for the peach
+and figs and orange trees and to <placeName><persName>H Austin</persName>'s</placeName> for the grapes and
+plums&#8212;after this month it will be too late to set them out.</p>
+
+<p><persName>Genl. Santana</persName> has taken up arms against the <persName>present 
+administration </persName>of the general government and has possession of <placeName>Vera Cruz</placeName>
+and the <placeName>castle </placeName>there. So far as I can judge by the <placeName>Mexican papers,
+</placeName>that part of the <placeName>nation </placeName>is in a state of civil war&#8212; I wish if possible
+to keep peace in <placeName>Texas</placeName>, and think that <persName>Fisher </persName>will be removed
+from office in a few days and also that the <persName>guard at the<placeName> mouth of
+the river</placeName></persName> will be ordered not to interfere with any vessels or perhaps
+it will be withdrawn entirely.    I think the latter most probable.</p>
+
+<p>We are all well.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:]<persName> Mr. James F. Perry</persName>    <placeName>Chocolate Bayou</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

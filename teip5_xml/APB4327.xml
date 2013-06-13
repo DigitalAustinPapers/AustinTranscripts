@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4327">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Elias R Wightman to Unknown, 02-18-1832</title>
+            <author>
+                <persName>Elias R Wightman </persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-22">09-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 752-753
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-02-18">02-18-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for planting.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>I am geting along verry Slowly in my affairs but find 
+Considerable <placeName>land in my Surveys</placeName> taken, and I have got about $150 in notes
+since I Came to <placeName>Town </placeName>and there are as much more to Collect and
+on the <placeName>Sanjacinto </placeName>I am in hopes of geting some and then I shall
+come <placeName>home </placeName>without surveying much only finishing some old work&#8212;<pb n="753"/></p>
+
+<p>If you want more Corn get it of <placeName><persName>Yeaman</persName>s</placeName> and tell him I will pay
+him the Cash when I return&#8212; If possible which I expect I can do
+Forward the Crop, all you can, and take care the pigs&#8212; perhaps we
+shall conclude to Start for <placeName>N York </placeName>via. <placeName>Tampico </placeName>as <persName>Maria</persName>s letter
+[suggests?] of that more when I come home, If <persName>Cayce </persName>got the oxen
+all will be well, with <persName>Grassmeyer </persName>and other matters I can get along
+with I hope Remember not to burn till a heavy rains falls on the
+fallow and then a dry time with brisk south wind about 10 c. when
+the sun is hot and plant immediately after&#8212; plant out more 
+potatoes, as soon as may be tell <persName>Griffith </persName>I want him to forward his
+ploughing so as I can have the oxen when I come home O. take
+care of the potatoes at <placeName><persName>G</persName>'s</placeName> and asort them, burying the good ones
+again</p>
+
+<p>Saturday<placeName> San Felipe</placeName> <date when="1832-02-18">18th Feby 1832</date></p>
+
+<p><persName>Mrs Mary [Wightman?]</persName></p>
+
+<p><persName>E R Wightman</persName></p>
+
+<p>Tell <persName>Alvin </persName>If he will go to <placeName><persName>League</persName>s </placeName>and get a Colt I have bought&#8212;
+Finally he has no order for him wait till I come</p>
+
+<p><persName>ERW</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

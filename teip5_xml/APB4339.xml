@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4339">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 04-09-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-22">09-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Leona Vicario, Coahuila</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 762-764
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-04-09">04-09-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Retail law passed over governor's opposition. Political conditions prevent relief to settlers in east Texas.   Prudence and moderation, however, will bring relief in the end.</add></p>
+        </div1>
+        <div1 type="body">
+            
+<p>
+[From Williams Papers, Rosenberg Library, Galveston, Tex.]</p>
+
+<p><placeName>Leona Vicario </placeName><date when="1832-04-09">9 April 1832</date></p>
+<p>Dr Sir.</p>
+
+<p>I arrived here Sin Novedad, on the <date when="1832-04-05">5 </date>and took my seat on the <date when="1832-04-06">6th</date>.
+Nothing has been done except the ley de comercio, which I presume
+you have seen. The <persName>Govr </persName>opposed it very violently and returned it,
+but the <persName>legislature </persName>approved it a second time, only <hi rend="italic">three </hi>voted against
+it. <persName>Aguirre</persName>, <persName>Fuentes</persName>, and <persName>Figueroa</persName>. It will do the <persName>colonies </persName>no
+material harm, for not many of them have ever retailed goods out of
+the <placeName>colony</placeName>. In principle it is unconstitutional, but nothing need be
+said on that ground at present.</p>
+
+<p>The <persName>Governor </persName>is decidedly in favor of the <persName>colonists</persName>, he will sustain
+them if they act prudently, and had it not been for this <persName>Santana</persName>
+business he would have taken some measures relative to the <hi rend="italic">Trinidad
+de la Libertad</hi> affair, but to notice it now would be adding fuel to
+the flame of discord that threatens the ruin of the <placeName>confederation</placeName>.
+The opinion of <hi rend="italic">many </hi>who are opposed to the <persName>ministers</persName>, and of <hi rend="italic">all </hi>who
+are opposed ton <persName>Santana </persName>is, I that <hi rend="italic">his </hi>real object is <hi rend="italic"><placeName>centralismo</placeName></hi>. The
+<persName>Ministers </persName>are suspected to have the same views. The real <persName>federalists</persName>
+are therefore opposed to the <persName>ministers </persName>and support <persName>Santana </persName>so far
+as to insist on their removal, but <hi rend="italic">there </hi>they will stop, and if <persName>Santana</persName>
+still persists all <persName>parties </persName>will [be] united against him except his 
+personal <persName>friends </persName>and he will fall. <persName>Tamaulipas </persName>is in great confusion.
+<persName>Santana </persName>is besieged in <placeName>Vera Cruz</placeName>&#8212;all the rest of the <placeName>nation </placeName>is quiet.</p>
+
+<p>On my arrival here I found rumors in great abundance relative
+to <placeName>Texas</placeName>&#8212;that it had separated and declared independence etc. etc.
+The <persName>Govr </persName>did not believe anything of the kind, and I have fully
+satisfied him, on that subject, he is in favor of the memorial and
+will recommend it when it returns through the <persName>Chief of 
+Department</persName>&#8212; he thinks it will be granted if no imprudence is committed
+by the <persName>colonists</persName>. There will be a change of <persName>ministers</persName>, an express
+who arrived last night from <placeName>Mexico</placeName>, I am told brought news that
+it had been finally determined to change all the <persName>ministers</persName>. The
+Memorial will therefore reach <placeName>Mexico </placeName>with the <persName>Govrs </persName>
+recommendation in the right time, just after the new <persName>cabinet </persName>is formed, and
+whilst <hi rend="italic">reform </hi>is the order of the day. The object is a very important
+one, and it is best to bear almost any thing rather than jeapordise all
+by rashness and ill timed passion and imprudence. All the wild
+sayings and gabbling over cups and <hi rend="italic">speeches </hi>etc at <placeName>Brazoria </placeName>have
+been circulated over this <placeName>country </placeName>with wonder full augmentations.
+The fact is that the great majority of the thinking and intelligent
+part of the <persName>people </persName>in the <placeName>towns </placeName>I passed through and in this place<pb n="763"/>
+are in favor of the <persName>colonists </persName>but they fear the <persName>settlers </persName>will ruin
+themselves by their imprudence. If they are unjustly oppressed
+and can so make it appear the majority of the whole <placeName>nation </placeName>will be
+in their favor, but if the reverse of this is the case, and they fly
+into a fit of passion for slight causes the whole <placeName>nation </placeName>will be against
+them.</p>
+
+<p>The advice I have reed, from a high source is, as follows&#8212; " 
+Harmonize as much as possible with the <persName>military</persName>&#8212;give no cause for
+disgust&#8212;be calm and never shew any passion&#8212;never use threats
+or harsh language. The <persName>Alcalde </persName>or <persName>Ayuntamto</persName>. ought to keep an
+exact and detailed account of all the oppressive acts of the <persName>military</persName>
+or <persName>revenue officers</persName> and report the same to the <persName>Chief of Department</persName>.
+Any one who is illtreated by a <persName>military </persName>or <persName>revenue officer </persName>ought to
+exhibit proof of the same to the <persName>Alcalde </persName>who ought to report it
+immediately to the <persName>Chief of Department</persName>. No violence must be used
+on any pretext&#8212;no imprudent talking etc."</p>
+
+<p>Better advice could not have been given and if properly followed
+will produce favourable results. Do try and impress this on everyone, 
+and especially on those in <placeName>Brazoria </placeName>who are rather warmer
+than they ought to be, tho perhaps not much more so than rigid
+justice requires.</p>
+
+<p>Some <persName>men </persName>in the <placeName>world </placeName>hold the doctrine that it is degrading and
+corrupt to use <hi rend="italic">policy </hi>in anything. Without saying whether I 
+approve of this doctrine or not, I do say that there is no degradation
+in prudence and a well tempered and well timed moderation. The
+absolute freedom of speech that is used in the <placeName>U. S. of the North</placeName>
+is unknown in this <placeName>country </placeName>and hence it is not properly understood,
+and for this reason <hi rend="italic">just complaints</hi> when made in harsh language
+are construed into rebellion etc. etc. As a general rule all over the
+<placeName>world </placeName><hi rend="italic">Language </hi>and <hi rend="italic">Acts</hi>, must be regulated in a great degree by
+<hi rend="italic">circumstances </hi>and <hi rend="italic">characters</hi></p>
+
+<p><persName>Genl Teran</persName> has evidently been deceived very much by the arts
+and management of <persName>Fisher </persName>but he will soon be convinced of that, if
+he is not already, and all will end right.</p>
+
+<p>Some amendments to the colonization law are proposed&#8212;they are
+not very unfavourable&#8212;the quantity of land is proposed to be 
+reduced to<placeName> half a Sitio</placeName> for those who exhibit proof that they have at
+least 100 head of Ganado Mayor&#8212;those who have not that quantity
+are only to get one <placeName>labor</placeName>&#8212;the price is proposed to be increased a
+little etc. I doubt whether anything will be done with it this 
+session. The <persName>members </persName>do not harmonize amongst themselves. The
+prospect is good that <hi rend="italic">nothing </hi>will be done by this <persName>Legislature </persName>except
+the retail law.</p>
+
+<p>I presume that <persName>Ugartachea </persName>is in <placeName>Brazoria</placeName>&#8212;remember me to him&#8212;
+his sister <persName>Mrs. Ibarra</persName> is in good health and all the <persName>family</persName>.<pb n="764"/></p>
+
+<p>The memorial to divide the <placeName>municipality </placeName>will be passed to the
+house tomorrow&#8212;there seems to be no objection to it&#8212; you can
+read this letter to whoever you think proper&#8212; remember me to
+<persName>Sarah</persName>,</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>Shew this to <persName>John Austin</persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
