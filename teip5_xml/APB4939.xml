@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4939">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>McKinney and Williams to Mr Gray, 10-11-1835</title>
+            <author>
+                <persName>McKinney and Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mr Gray
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Quintana,Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Brazoria, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 175
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-11">10-11-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing arrival of vessels with cannon and munitions</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Quintana </placeName><date when="1835-10-11">11 Octo. 1835</date></p>
+
+<p><persName>Mr. Gray</persName></p>
+
+<p>Dr Sir The Schr. Lady Madison <persName>Capt. Robert D Moore</persName> was toed in
+<date when="1835-10-11">this morning</date> she has 7 Guns and ammunition <placeName>on board</placeName> which we 
+ordered by a request of the <persName>Committee of this <placeName>Jurisdiction</placeName></persName> She also has
+on board 75 muskets and the necessary cartouch boxes the ballance of the
+muskets ordered will be here on the <placeName>San Felipe</placeName> which is hourly expected
+and perhaps is now <placeName>off the Bar</placeName> a vessel is in sight but a considerable
+distance off the <placeName>San Felipe</placeName> was to leave two days after <persName>Moore </persName>The Lady
+Madison is too small to entitle debenture goods to a draw back is the reason
+that the muskets did not all come on her, those that have come are <persName>american </persName>
+manufacture. We have received letters that are to be relied on that
+all we want for the <placeName>country </placeName>is ready at short notice. Vessels men and means
+if vessels are placed on a footing that they will be protected are at the 
+disposal of <placeName>Texas </placeName>Anxiety indeed seems to prevail to embark You may if
+you choose publish the facts herein contained but connect them yourself
+and do not publish this hurried sketch with its imperfections yours&#8212;</p>
+<p><persName>McKinney </persName>and <persName>Williams </persName>[Rubric]</p>
+
+<p>P. S. Several large peices are ready and will be sent out on the San
+Felipe.	<persName>McK </persName>and <persName>W</persName></p>
+
+<p>[Addressed:] <persName>Mr. Gray </persName><placeName>Brazoria </placeName>or any other persons</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4940">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Kerr to Unknown, 10-11-1835</title>
+            <author>
+                <persName>James Kerr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 175
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-11">10-11-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Capture of Goliad</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>-N. B. at 6&#8212;oclk. <date when="1835-10-11">11th Oct</date>&#8212;an <persName>Express </persName>came from <persName>Capt&#8212;
+Collinsworth</persName> Expressing some fears of his situation&#8212;he say that&#8212;</p>
+
+<p>"There is of <placeName>public Stoars</placeName> about $10,000&#8212;upwards of 300 stand arms
+and a number of <placeName>public&#8212;stores</placeName>"&#8212;I have returned the <persName>express </persName>with (I
+trust) satisfactory Information&#8212; Our <persName>detachment </persName>must have encamped
+<placeName>with in 10 or 15 miles of Golia[d]</placeName> <date when="1835-10-10">last night</date>&#8212; In addition I shall send
+Immediately to <persName>Smith </persName>and ally to press hard for<placeName> La Bahia</placeName>&#8212; <persName>Col Milam&#8212;</persName>
+Informs me that the <persName>troops </persName>Ordered on from <placeName>Saltilleo </placeName>had to return on
+account of <placeName>Interior </placeName>revolution&#8212; I have advised <persName>Coln Milam</persName> to go to 
+<placeName>Gonzales </placeName>with the <persName>prisoners </persName>as I feel confident <persName>Coln Austin</persName> will be there.</p>
+
+<p><persName>Kerr</persName></p>
+<p>Excuse haste&#8212;</p>
+<p>[Endorsed]: Post Script from <persName>Kerr </persName><date when="1835-10-11">11. Oct 1835</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

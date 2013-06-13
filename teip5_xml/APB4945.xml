@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4945">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William H Jack to Stephen F Austin, 10-13-1835</title>
+            <author>
+                <persName>William H Jack</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 177-178
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-13">10-13-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Glad of Austin's election to command. Opposes risking battle with odds against us.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Goliad</placeName>, <date when="1835-10-13">13th Oct 1835</date>.</p>
+
+<p>Dr. Sir</p>
+
+<p>You will allow me to congratulate you, on the high command to which
+you have been called by the free and unbiased voice of your <persName>fellow-citizens</persName>.
+Rely upon it, Sir I conceive this appointment, to be fortunate for <placeName>Texas</placeName>.
+Because it will unquestionably have the effect of uniting <persName>all parties</persName>.</p>
+
+<p>You have been truly fortunate in your appointment of an <persName>adjutant Genl</persName>.
+for I conceive <persName>Coln Hall</persName>, to be one of the first military men in <placeName>Texas</placeName>; and
+I think his incorporation into your <persName>family </persName>will greatly promote the cause.</p>
+
+<p>The orders rec'd here<date when="1835-10-13"> this morning</date> were not agreeable to a <persName>large 
+majority of the men</persName>; but they almost unanimously determined to obey without
+a murmur.</p>
+
+<p>We are but illy supplied with stores of any kind, but immediate 
+arrangements will be made to do the best we can. I flatter myself that the place
+will be dearly bought if the <persName>Mexicans </persName>ever regain it.</p>
+
+<p>You will pardon me for expressing my views and opinions to you <hi rend="italic">freely,
+fully and frankly</hi>. It seems the <persName>army </persName>has left <placeName>Gonzales </placeName>for <placeName>Bexar</placeName>. I 
+understand your <persName>force </persName>does not possibly exceed 400; I cannot conceive that it is
+seriously contemplated to attack <placeName>Bexar </placeName>with that number. The fate of
+<placeName>Texas </placeName>must not be risked upon one battle; unless the advantages are so
+decidedly in our favor, as to place the result beyond a Shadow of doubt.</p>
+
+<p>If the force of <persName>Cos </persName>be such as the statement furnished by <persName>Majr- Smith
+</persName>Shews, they will be more than two to one against you; and though I have
+the utmost confidence in the firmness and bravery of our <persName>countrymen </persName>yet
+it is drawing too heavily on that confidence, to be willing to risk a general
+engagement, on which so much depends against such fearful odds.</p>
+
+<p>They have the numerical strength. They have artillery, cavalry, 
+muskets, bayonets, lances, against all these you present a band (brave perhaps
+to a fault) of <persName>untrained militia</persName>, with such arms only as could be procured
+in the immediate emergency.</p>
+
+<p>The case being thus, I give it as my decided opinion, that an engagement
+ought not to be risked, unless success is next to certain.<pb n="178"/></p>
+
+<p><persName>Majr- Smith</persName> shewed me yr- post script in which you express a desire to
+see me. At this particular crisis it would probably be unadvisable for me
+to leave. By your next <persName>express </persName>you can command me as I can then leave
+with propriety.</p>
+
+<p>You will be pleased to accept my assurances of highest regard
+<persName>WM- H. Jack</persName></p>
+<p>[Addressed:]<persName> Stephen F. Austin Commander of <placeName>Texas </placeName>Army</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

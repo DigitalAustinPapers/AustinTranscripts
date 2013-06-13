@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4948">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R R Royall to Stephen F Austin, 10-13-1835</title>
+            <author>
+                <persName>R R Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-28">03-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 179
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-13">10-13-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report of supplies and munitions</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir</p>
+
+<p><persName>Mr Kerr</persName> has just forwarded to us a copy of <persName>Capt Kollinsworth</persName> Letter&#8212;
+Stating his having possession of <placeName>Labahia</placeName>. $10000 <placeName>public Stores</placeName> 300 Stand
+arms and some horses&#8212;of <persName>Capt Smith</persName>s and <persName>alley</persName>s having hastened to the
+assistance of<persName> Capt C.</persName> to keep possession of the <placeName>place Stores</placeName> etc&#8212;<persName>Mr Kerr
+</persName>has probably advised you of the same and of the arrival of<persName> Col Milam</persName> who
+goes to<placeName> San Felipe</placeName> with the <persName>officers </persName>(<persName>prisoners</persName>)&#8212;We have sent on the
+communication to <persName>Genl Houston</persName> and <placeName>Nacogdo</placeName>&#8212;to inspirit our <persName>friends</persName>
+there whom we are told are afraid they will not be early enough to secure
+a fight</p>
+
+<p>By order of <persName>R. R. Royall</persName></p>
+
+<p><placeName>San Felipe</placeName><date when="1835-10-13"> Oct 13</date></p>
+
+<p><persName>Col S. F. Austin</persName></p>
+
+<p><persName>C. B. Stewart Sec</persName></p>
+
+<p>N B <persName>Judge Smith</persName> has just arrived and says <persName>Bob Moore</persName>'s Vessel is <placeName>in the
+Brazos</placeName> and the San Felipe hourly expected she Brings a Number of
+Canon and Small Arms etc etc</p>
+
+<p><persName>R. R. Royall</persName></p>
+
+<p><date when="1835-10-13">13th</date> at 2 oclock</p>
+
+<p>[Addressed:] <persName>Col S. F. Austin </persName><placeName>Head Quarters</placeName></p>
+
+<p>[Note on back]</p>
+
+<p><persName>Capt Batterson</persName> has just arrived from H&#8212;the Cannon is now at 
+<placeName><persName>Cartwright</persName>s</placeName> where she will be put upon a new carriage&#8212;the old one not being
+considerd sufficiently strong&#8212;</p>
+
+<p<persName>>C. B. S. Sec</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
