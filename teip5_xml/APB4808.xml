@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4808">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J. G. McNeel to James F. Perry, 06-22-1835</title>
+            <author>
+                <persName>J. G. McNeel</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-25">02-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 77
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-06-22">06-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land speculators trying to raise a storm. Must be stopped</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Wednesday Evening, [about June 22, 1835]</p>
+
+<p><persName>Dr. Perry</persName>,</p>
+
+<p>I have but just arrived from <placeName>San Felipe</placeName> and would have come over
+but am exceedingly fatigued. Our <placeName>country </placeName>is again assailed by <hi rend="italic"><persName>aspirants</persName></hi>
+and <hi rend="italic"><persName>speculators</persName></hi>, they are attempting to deceive the people by preaching to
+them of the dangers that await us at <placeName>San Felipe</placeName> it was got up for the
+purpose of sustaining the <hi rend="italic">Mammouth Speculation.</hi> But thank God it has
+not had the effect it was expected, the <persName>people </persName>I hope will not suffer 
+themselves to be thus imposed upon. They are now attempting to raise <persName>men </persName>to go
+and release the <persName>Governor </persName>as he is necessary to them and bring him to
+<placeName>Texas </placeName>They talk of nothing but declaring Ourselves <hi rend="italic">Independent </hi>of
+Granting letters of Marque and reprisal and all such nonsense We must
+attend to them they must and will be put down. Nothing has been heard
+of <persName>Col. Austin</persName> lately that they may do him much Injury I am sorely
+afraid But on the present Occasion nothing can come in competition
+with <hi rend="italic">their Interest</hi>&#8212; and self <hi rend="italic">aggrandizement</hi>. those at the head of the
+list at <placeName>San Fellipe</placeName> is <persName>Saml M Williams</persName> <persName>Frank Johnson Baker at <placeName>Columbia</placeName></persName>.
+<persName>Doct. Archer</persName>, <persName>John A Wharton</persName> and to my great astonishment, <persName>Wm- H Jack</persName></p>
+
+<p><persName>J. G. McNeel</persName></p>
+
+<p>[Addressed:] <persName>Mr. J. F. Perry</persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

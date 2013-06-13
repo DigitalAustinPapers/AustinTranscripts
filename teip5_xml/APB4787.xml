@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4787">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M. Williams, 05-06-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-23">02-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 73-74
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-05-06">05-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Amnesty law passed, and hopes to be free soon. Butler's efforts to start rebellion in Texas. Legislature discredited by speculations.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+
+<p><placeName>Mexico </placeName><date when="1835-05-06">6 May 1835</date></p>
+
+<p>My friend,</p>
+
+<p>The Amnesty law was published on the <date when="1835-05-03">3d instant</date>, and I shall be at full
+liberty to leave here so soon as the necessary forms are completed to
+cancel my bail bonds etc&#8212;</p>
+
+<p><persName>D. Victor Blanco</persName> intends to leave here about the <date when="1835-05-26">26 instant</date> and I shall
+wait for him if I do not conclude to go by water, for I am at present 
+undetermined, tho think it probable shall go by land in which event expect to
+reach <placeName>Monclova</placeName> about the <date when="1835-06-20">20 June</date>&#8212; presume you will have left there
+for home long before that time&#8212; It is my wish and intention to take
+wing in the <date n="Spring-1835">spring</date>&#8212;by that time I can close all my affairs I hope, and
+be able to spend a year or two in a ramble&#8212; I have a constitutional
+excuse or rather I am [constitutionally impeded by having a causa
+pendiente from holding [the] seat in the <persName>legislature </persName>to which I have been
+elected, so that there will be no difficulty on that account</p>
+
+<p>The 400 le[ague] law has totally distroyed the moral standing of that
+legislature with <hi rend="italic">all <persName>parties</persName></hi>&#8212;and the <persName>Commandant Genl</persName> has gained credit&#8212;
+I recd- your letter of <date when="1835-04-08">8 ult</date> and the letters you enclosed&#8212; <persName>Toney [Anthony
+Butler]</persName> left for the <placeName>U. S.</placeName> on the <date when="1835-04-29">29 ult</date>. and <persName>Almonte </persName>on the <date when="1835-04-30">30th</date>&#8212; I have
+never in all my life known so bad, and base a man as <persName>Butler</persName>&#8212; At the
+time he wrote the O P Q letters he was my <persName>enemy</persName>, and yet he wrote them
+as tho they came from a friend of mine, and consequently they were very
+well calculated to rouse the <persName>people of <placeName>Texas</placeName></persName> into rebellion, and also to
+throw suspicion on me and perpetuate my imprisonment, and <hi rend="italic">this 
+imprisonment</hi> was used by him as a lever to create and keep up excitements in <placeName>Texas</placeName>,
+at the head of which he expected to be placed&#8212; He thinks, as it appears,
+that the <persName>people of <placeName>Texas</placeName></persName> can be made tools of to promote the personal
+agrandisement of <persName>A. B. [Anthony Butler]</persName>&#8212; he is greatly deceived, or
+I do not know the people&#8212;</p>
+
+<p>Everything is quiet here [and] likely to remain so&#8212; That state of
+course [will] remain quiet and <placeName>Texas </placeName>in particul[ar]&#8212;it ought to do so&#8212;
+Remember me affectionately to <persName>Peebles </persName>and <persName>Johnson</persName>, and also to my old
+friend <persName>B. Milam</persName> who I am told by <persName>Offutt </persName>is in <placeName>Monclova</placeName>, also to <persName>Carbajal</persName>
+and <persName>Durste </persName>Inform them at home</p>
+
+<p>Yours [Rubric]<pb n="74"/></p>
+
+<p>Remember me particularly to my friend <persName>Ed. Gritten</persName> who I presume is
+in <placeName>Mona- [Monclova]</placeName> his <persName>family </persName>are well. I recd- his letters from <placeName>Quero
+[Queretaro]</placeName> and <placeName>San Luis</placeName> and thank him also to <persName>Garay </persName>if he is there
+as I presume he is</p>
+
+<p>I am happier than I have been for 14 years, for during all that period
+my mind has been laboring and worrying for the benefit of <persName>others </persName>and
+for the common good. My thoughts are now confined, or I should say are
+beginning to confine themselves to a narrower space&#8212;myself, my <persName>family</persName>,
+my own individual affairs it is a novelty, a new life to me, for heretofore
+I have thought more of other matters than of my own&#8212;but I shall soon
+get accustomed to it and be much happier&#8212; I want some money to travel
+<date n="xx-xx-1836">next year</date> this at present is all my cuidado</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

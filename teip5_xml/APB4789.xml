@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4789">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Gail Borden, Jr., 05-08-1835</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-23">02-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. David S Richardson
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Gail Borden
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         Jr.
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 74
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-05-08">05-08-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land for David G. Richardson on which he pays fees and gets a share. Mrs. Holley. Loan</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia</placeName>, <date when="1835-05-08">8th May 1835</date></p>
+
+<p><persName>Mr Gaile Borden</persName></p>
+
+<p><placeName>land office</placeName></p>
+
+<p>This will be handed to you by <persName>Mr. David S Richardson</persName> a respectable and
+<persName>industrious man of family</persName> [for whom Austin wants land.] . . .</p>
+
+<p>I go below <date when="1835-05-08">to day</date> with my horses for <persName>Mrs. Holley</persName> and on return shall
+visit <placeName>St Filipe</placeName> as soon as practicable I have arranged for a loan of
+3000$ which will enable me to close my acct of fees with the <placeName>office </placeName>by
+paying any balance which may appear on settlement with <persName>Col A</persName> or
+<persName>Williams</persName></p>
+
+<p><persName>H. Austin</persName> [Rubric]</p>
+
+<p><persName>Henry Austin</persName> to <persName>Gail Borden, Jr.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

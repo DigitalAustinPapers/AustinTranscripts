@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4824">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Washington Hotel to Stephen F. Austin, 07-12-1835</title>
+            <author>
+                <persName>Washington Hotel</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-28">02-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 89-90
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-07-12">07-12-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin in account with Washington Hotel, Mexico.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Col. Stephen F Austin</persName></p>
+<p>To <placeName>Washington Hotel</placeName> .... Dr.</p>
+<p><date n="xx-xx-1834">1834</date></p>
+<p><date when="1834-12-27">Decr 27</date>	To	1 Bot Wine 10/ [reales] (28) 1 Bot Wine 10/_______________	2.4</p>
+<p><date when="1834-01-02">Jany 2</date>	"	1 Bot Ale 3/ (3) 1 Gin King 2/______________________________________	5</p>
+<p><date when="1834-01-03">3	"</date>	1 Bot Ale 3/ (7) 1 gs. 1/___________________________________________________	"4</p>
+<p><date when="1834-01-08">8	"</date>	1 gs. qt Gin 1/ 1 Bot Ale 3/_______________________________________________	"4</p>
+<p><date when="1834-01-10">10	"</date>	1 Bot Ale 3/ (11) 1 Bot Ale 3/________________________________________ 6</p>
+<p><date when="1834-01-12">12	"</date>	1 gs. Gin 1/ (14) 1 Bot Ale 3/________________________________________	"4</p>
+<p><date when="1834-01-15">15	"</date>	1 qt gs 1/ 1 Bot Wine 10/___________________________________________	1.3</p>
+<p><date when="1834-01-15">15	"</date>	1 dinner for <persName>Padre Muldoon</persName>___________________________________	1</p>
+<p><date when="1834-01-25">25	"</date>	pd postage of a letter 3/_________________________________________ "3</p>
+<p><date when="1834-01-25">25	"</date>	1 Bot Ale 3/ (27) 1 gs Wine Sangre 2/_________________________	"5  8.6  <6/p>
+<p><date when="1834-01-25">25	"</date>	1 gs Brandy 1/ ________________________________________________________	1</p>
+<p><date when="1834-01-28">28	"</date>	1 Extra dinner 8/ 1 Bot Wine 10/_____________________________________	2.2</p>
+<p><date when="1834-01-28">28	"</date>	Amt. of <persName>Mr. Grayson</persName>s a/c_________________________________	39.6 1/2</p>
+<p><date when="1834-02-03">Feby 3</date>	a	1 gs brandy 1/ (6) 1 Bot Wine 10/________________________________ 1.3</p>
+<p><date when="1834-02-06">6	"</date>	1 gs. Gin 1/ (7) 1 gs brandy 1/________________________________________	2</p>
+<p><date when="1834-02-09">9	"</date>	1 gs brandy 1/ (11) 2 gs do 2/__________________________________________	"3</p>
+<p><date when="1834-02-12">12	"</date>	Cash lent $2, 1 gs 1/_______________________________________________	2.1</p>
+<p><date when="1834-02-16">16	"</date>	1 gs 1/ (17) 1 gs 1/ 1 Bot Wine 10/_____________________________	1.4</p>
+<p><date when="1834-02-18">18	"</date>	2 gs brandy 2/' (20) 1 gs 1/ Ale 3/_________________________________	6</p>
+<p><date when="1834-02-21">21	"</date> 2	gs 2/ (23) 1 gs 1/ 1 Ale 3/_______________________________	6  49.2 1/2  </p>
+<p><date when="1834-02-23">23	"</date>	1 Extra dinner 8/ (24) 1 gs 1/_________________________________________	1.1</p>
+<p><date when="1834-02-23">23	"</date>	1 Extra dinner 8/ (24) 1 gs 1/______________________________________	1.1</p>
+<p><date when="1834-02-26">26	"</date>	1 gs 1/ 1 Bot Ale 3/________________________________________________	4</p>
+<p><date when="1834-02-28">28	"</date>	1 gs 1/ _______________________________________________1<pb n="90"/></p>
+<p><date when="1834-03-02">March 2	"</date> 1 gs 1/ (3) 1 gs. 1 Bot Ale 3/_________________________________________5</p>
+<p><date when="1834-03-04">4 "</date> 1 gs 1/ 1 Bot ale 3/______________________________________________________4</p>
+<p><date when="1834-03-06">6	"</date> 1 gs 1/ (9) 1 gs (10) 11 qt 1/____________________________________"3</p>
+<p><date when="1834-03-12">12	" </date>1 gs 1/ (13) 1 gs 1/ 1 Ale 3/___________________________________________"5</p>
+<p><date when="1834-03-15">15	"</date> 1 gs 1/- 1 Bot Ale 3/____________________________________________________"4</p>
+<p><date when="1834-03-16">16	"</date> 1 Bot Ale 3/ (18) 1 Bot Ale 3/_____________________________________"5 . 51&#8212;</p>
+<p>To Amt Carried over_____________________________________________$63, 1 1/2</p>
+<p><date n="xx-xx-1834">1835</date> To Amount Brot over____________________________________________________$63, 1 1/2</p>
+<p><date when="1834-03-20">Mar 20</date> To 1 Bot Ale 3/ (21) 1 Bot Wine 10/________________________________ 1.5</p>
+<p><date when="1834-03-22">22	"</date> 1 gs bitters 1/ writing paper 1[_________________________________________ 2</p>
+<p><date when="1834-02-23">23	"</date> 1 Bot Ale 3/ 1 gs biandy 1/________________________________________________ 4</p>
+<p><date when="1834-03-24">24	"</date> 1 gs 1/ 1 nights Lodging <date when="1834-12-25">25th Decr 1834</date>___________________________ 7 1/2</p>
+<p><date when="1834-03-25">25	"</date> 1 gs 1/ (27) 1 gs 1/ (30) 1 gs 1/______________________________3</p>
+<p><date when="1834-03-25">" " </date>Boarding and Lodging from <date when="1834-12-26">26th Decr 1834</date>  to <date n="03-xx-1834">March</date></p>
+<p><date when="1834-03-31">" 31st 1835</date>, inclussive is 13 weeks_________________________ 200 4 1/2 $204 2</p>
+<p><date when="1834-03-31">" "</date> 5 days @ $14,5____________________________________________________________________________________267 3 1/2</p>
+<p><date when="1834-04-02">Apl 2</date> "2 days board and L $4.1/&#8212; (4) 1 din 8/_____________________________________ 5 l1 1/2</p>
+<p><date n="xx-xx-1835">1835 </date>$272,51/2</p>
+<p><date when="1835-01-13">Jany 13</date> By Cash on a/c $10______________________________________________________________________________________ 10</p>
+<p>To Bal due <persName>W H</persName>____________________________________________________________$262,5</p>
+<p>The above was paid by my obligation to pay it to<persName> J. B. Chance</persName> and some
+more that <persName>Offutt </persName>deliverd to me making in all three hundred and four
+dollars 50-100 <date when="1835-07-12">12 July 1835</date></p>
+<p><persName>S. F. A.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

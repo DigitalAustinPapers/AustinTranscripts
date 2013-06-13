@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4814">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Benjamin R. Milam  to Francis W. Johnson, 07-05-1835</title>
+            <author>
+                <persName>Benjamin R. Milam </persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-25">02-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Francis W. Johnson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Punto Lampasos, Nuevo Leon</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 82-83
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-07-05">07-05-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Recounting political disturbances in Monclova.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Punto Lampasos</placeName>, <date when="1835-07-05">July 5, 1835</date>.</p>
+
+<p>Dear <persName>Johnson</persName>,</p>
+
+<p>I hope you spent the <date when="1835-07-04">4th July</date> pleasantly with your <persName>friends </persName>who feel
+some reverence for the day. As to myself, I can not say I enjoyed it. I
+got a bottle of vino muscale and drank to the <hi rend="italic">Federal Constitution in all
+parts of <placeName>America</placeName>.</hi> I had no <persName>countrymen </persName>to join me or perhaps I should
+have done better.</p>
+
+<p>We left <placeName>Monclova </placeName>on the <date when="1835-05-29">29 of May</date>, and were taken <persName>prisoners </persName>on the <date when="1835-06-05">5th
+of June</date>, at night, after we had encamped about <placeName>eight leagues northwest of
+San Fernando</placeName>. The <persName>troops </persName>had been viewing our march for the last day,
+and knew the only chance we had for water and placed themselves in a
+situation to take possession of our horses as soon as it was dusk. In this
+situation we were obliged to surrender to <persName>twenty five men</persName>&#8212;or <persName>savages </persName>as
+we may more properly call them. <persName>Capt Galan</persName> and <persName>Liut: Roderiguiz 
+[Rodriguez]</persName> commanded the party. They will be long remembered by your
+humble servant.</p>
+
+<p>We were taken to <placeName>San Fernando</placeName> and kept in close <placeName>confinement </placeName>for one
+week&#8212;not permitted to write or speak to any person except in the presence
+of an <persName>officer</persName>, and then but in the Spanish language. From there we were
+taken to <placeName>Rio Grande</placeName>, where we were treated something better by <persName>Capt
+Barigan</persName> from <placeName>Rio Grande</placeName> to this place. At present we are under the
+charge of <persName>Col: Altapa</persName>, who is a 
+<persName>gentleman </persName>and an <persName>officer</persName>, and gives every
+indulgence we ask for. From here we expect to be sent to <placeName>Monterey </placeName>to
+stand our trial, and I hope to be set at liberty. But all is uncertainty.
+The whole of this part of the state has and will support the <persName>Central
+Government</persName>. The <placeName>Interior </placeName>from the last information we have, has fallen
+into the Central system, <persName>Santanna </persName>is <persName>Dictator</persName>&#8212;the Constitution is thrown
+away and ridiculed by those who used to call themselves <persName>Federal 
+Republicans</persName>.</p>
+
+<p>The plan for the dissolution and destruction is laid, and every 
+preparation is making for its execution. In the last ten days <persName>two hundred troops</persName>
+have left <placeName>this quarter</placeName> for <placeName>San Antonio</placeName>; and from the test information I
+can collect <persName>two thousand more</persName> will be on their march in a few weeks.
+Their intention is to gain the friendship of the <persName>different tribes of Indians</persName>;<pb n="83"/>
+and, if possible to get the <persName>slaves </persName>to revolt. These plans of barbarity and
+injustice will make a wilderness of <placeName>Texas</placeName>, and beggars of its <persName>inhabitants</persName>,
+if they do not unite and act with promptitude and decision. If the Federal
+system is lost in <placeName>Texas</placeName>, what will be our situation? worse than that of
+the most degraded <persName>slaves</persName>. The hopes of the <persName>Republican party</persName> here are all
+on <placeName>Texas</placeName>. I trust they will not be deceived. The <persName>people of <placeName>Texas</placeName></persName> will
+never submit to a <persName>Dictator</persName>.</p>
+
+<p><persName>B R Milam</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
