@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4887">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William P Harris and John W Moore to Stephen F Austin, 09-23-1835</title>
+            <author>
+                <persName>William P Harris and John W Moore</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-20">03-20-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Harrisburg, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 135-136
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-23">09-23-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Organizing for resistance.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Harrisburg </placeName><date when="1835-09-23">23d Sept. 1835</date></p>
+<p><persName>Col. Austin</persName></p>
+
+<p>Dear Sir Your communication of the <date when="1835-09-21">21st.</date> was Recd <date when="1835-09-23">this morning</date> with
+its enclosures we have dispatched an <persName>Express </persName>to <placeName>Lynchburg </placeName>and <persName>Genl.
+Zavala</persName>, with copies of all the documents recommending them to forward
+the same or copies to <placeName>Trinity </placeName>and <placeName>Bevel Settlements</placeName> I have forwarded
+your letter to <persName>Genl. Zavalla</persName> and the <persName>people below <placeName>on the Bay</placeName></persName> and will assist<pb n="136"/>
+the <persName>Govr </persName>on his way to<placeName> San fillipe</placeName> the <persName>officers of the militia and volunteer
+corps</persName> are calling their Commands together and will be in readiness for
+any service when they may be wanting Some will leave on <date when="1835-09-26">Saturday
+next</date> for the rendezous at <placeName><persName>League</persName>s old place</placeName> if convenient let us know
+when the <persName>corp of reserve</persName> leaves <placeName>San fellipe </placeName>that the <persName>troops from <placeName>this quarter</placeName></persName>
+may meet them at some point below&#8212; all to a man in <placeName>this quarter</placeName> are
+preparing for the defence of their <placeName>country </placeName>against military tyranny and
+despotism&#8212; <placeName>Texas </placeName>and Liberty is the motto&#8212;</p>
+
+<p><persName>Wm. P. Harris</persName></p>
+<p><persName>John W. Moore</persName></p>
+<p><persName>Mr. Geo F. Richardson chairman of the Committee of Safety and 
+Vigilence</persName> has gone to <placeName>Lynchburg </placeName>as an <persName>express </persName>with a copy of the documents
+to see them forwarded as required Therefore the <persName>committee of safety and
+vigilence of <placeName>this place</placeName></persName>  has no organ through which they can at this time
+answer their communication&#8212;</p>
+<p><persName>Wm. P. Harris</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

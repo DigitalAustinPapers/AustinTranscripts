@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4884">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William B. Travis to Stephen F Austin, 09-22-1835</title>
+            <author>
+                <persName>William B. Travis</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-20">03-20-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mill Creek, Texas.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 133
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-22">09-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Wishes him to settle uncertainty about meeting place of convention. Destiny of Texas in Austin's hands</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mill Creek</placeName>, <date when="1835-09-22">Sept 22nd 1835</date></p>
+<p><persName>Col. S. F. Austin</persName>,</p>
+<p>Dear Sir; Since leaving <placeName>town</placeName>, I have had many enquires made of me,
+as to the location of the convention. It, seems, to be uncertain, whether it is
+to be at <placeName>Washington </placeName>or <placeName>San Felipe de Austin</placeName>, as both places have been 
+recommended and there has been no decision as to where it is to be&#8212; Would
+it not be well, for the call to be made by the most competent authority we
+have, and the place definitely designated, or at least recommended? Your
+arguments in favor of the Town of <placeName>Austin</placeName>, as expressed in the letter are
+powerful and will prevail if presented to the <persName>people of the several 
+<placeName>municipalities of Texas</placeName></persName>, through the proper channels&#8212; The spirit of "War" in
+defence of <placeName>Texas </placeName>and our dearest rights has infused itself into the minds
+of the <persName>people </persName>and I think it will require but little exertion to get <persName>troops</persName>
+together for the promotion of any project which you recommend&#8212;</p>
+
+<p>All eyes are turned towards you; and the independent manly stand
+you have taken has given the <hi rend="italic"><persName>Sovereigns </persName></hi>confidence in themselves&#8212; <placeName>Texas</placeName>
+can be wielded by you and <hi rend="italic">you alone</hi>; and her destiny is now completely
+in your hands&#8212; I have every confidence that you will guide us safe
+through all our perils&#8212; This is not the base flattery of a servile mind&#8212;
+but is the reasoning of one ardent in his country's cause, and who wishes
+to unite his feeble efforts with those who have the power and inclination
+to lead us in safety to the desired end.&#8212;</p>
+
+<p>There is also a doubt as to the number of <persName>Delegates </persName>to the convention
+from our <placeName>District</placeName>&#8212; I have stated it as my opinion, that seven would be
+-elected as all the other <placeName>municipalities </placeName>will elect that number. Would it
+not be well for your <persName>committee </persName>to circulate the necessary instructions to
+pres[i]dents of the <placeName>precinct </placeName>elections?</p>
+
+<p><persName>W. B. Travis</persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

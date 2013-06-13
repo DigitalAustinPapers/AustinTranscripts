@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB4880">
+xml:id="APB4886">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Stephen F Austin to People, 09-21-1835</title>
+            <title>Eli Mercer to Stephen F Austin, 09-23-1835</title>
             <author>
-                <persName>Stephen F Austin</persName>
+                <persName>Eli Mercer</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -33,7 +33,7 @@ xml:id="APB4880">
 
                 <person>
                     <persName type="recipient">
-                        People
+                        Stephen F Austin
                     </persName>
                 </person>
 
@@ -41,14 +41,14 @@ xml:id="APB4880">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                    <placeName type="origin">Unknown</placeName>
                 </place>
                 <place>
-                    <placeName type="destination">Unknown</placeName>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 131
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 135
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -62,14 +62,14 @@ xml:id="APB4880">
             <channel mode="w">Letter</channel>
             <constitution type="single"/>
             <derivation type="original"/>
-            <domain type="public"/>
+            <domain type="domestic"/>
             <factuality type="fact"/>
             <interaction type="none"/>
             <preparedness type="prepared"/>
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1835-09-21">09-21-1835</date>
+            <date when="1835-09-23">09-23-1835</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,29 +81,31 @@ xml:id="APB4880">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Instructions for organization and movement</add></p>
+            <p><add hand="#barker">The people believe that Austin can manage their affairs better than they could for themselves</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>Information was recd. <date when="1835-09-20">last night</date> by <persName>express </persName>that<persName> Genl. Cos</persName> landed at
-<placeName>Copano </placeName>with <persName>400 men</persName> arms and amunition&#8212; An <persName>expedition </persName>is now raising
-in the <placeName>lower country</placeName> to take the <placeName>field </placeName>at once&#8212; <persName>volunteers </persName>are called for
-to rendezvous at <placeName><persName>League</persName>s old place on Colorado</placeName> on the <date when="1835-09-28">28 of this month</date>.
-<persName>Every man in <placeName>Texas</placeName></persName> is now called upon to take up arms in defence of his
-<placeName>country </placeName>and his rights. Those who can join the <persName>expedition </persName>on the <date when="1835-09-28">28 </date>are
-required to do so or they can join it at <placeName><persName>James Kerr</persName>s on La Baca</placeName> which
-is the principal rendezvous&#8212;</p>
+<p><date when="1835-09-23">23d Sept 1835</date></p>
+<p>Dear Sir,</p>
+<p>The presant time is both critical, and important. Critical on account of
+our disorganized situation; and difficult because our rights are invaded
+when we are without resourses. The <persName>people </persName>hail your appearance in <placeName>Texas</placeName>
+at this time as one of the happiest events; because they believe you are
+capable of managing our difficult affairs better than we could without you.
+We wish you to head the preasant expedition against <persName>General Coss</persName> in
+person believing your presance will be much neaded; to unite the <persName>people</persName>,
+enforce obedience&#8212;, and to plan the movements of the <persName>troops</persName>.</p>
 
-<p>A <persName>corps of reserve</persName> will be formed to march on and sustain the advance.
-Those who cannot join the <persName>advance </persName>are required to unite with the <persName>reserve</persName>
-and report themselves to the <persName>committee of safety</persName> in <placeName>this place</placeName> and be ready
-for marching orders. It is expected that each man will supply himself
-with provisions arms and ammunition to march with&#8212; arrangements will
-be made for permanent supplies as soon as possible.</p>
+<p>Believe me Sir I use no flattery with you but speak what I believe to be
+the truth in friendship. We are all alive to the cause of defense in this
+part, and will attend to every thing that will promote the cause we are
+about to imbark in. We know no <persName>party </persName>here, but are united in the General
+cause. The subject of the Consultation will be promptly attended to in
+this part.</p>
 
-<p><placeName>San Felipe de Austin</placeName> <date when="1835-09-21">Sept. 21, 1835</date></p>
-<p><persName>S. F. Austin. <hi rend="italic">chairman of Com</hi></persName>.</p>
+<p><persName>Eli Mercer</persName></p>
+<p>[Addressed:] <persName>Col Austin</persName> <placeName>San Felipe Texas</placeName></p>
 
 
         </div1>

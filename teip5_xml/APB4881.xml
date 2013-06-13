@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4881">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Martin Allen to James F Perry, 09-22-1835</title>
+            <author>
+                <persName>Martin Allen</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-20">03-20-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">8 Mile Point, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 131-132
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-22">09-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting a land settlement. Austin narrowly escaped death by accident</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>8 Mile point</placeName> <date when="1835-09-22">Sept 22nd 1835</date></p>
+<p><persName>Mr Pery</persName></p>
+
+<p>Sir I offer my best respects to you and family I congratulate you on
+the arrival of our worthy friend <persName>Col. Austin</persName> and hope that his arrival at
+this Critical Moment will be the Saving of our <placeName>Country</placeName>. I Saw him 
+<date when="1835-09-21">yesterday </date>at <placeName>home </placeName>he is well, at present, but had been very near Ending his
+days by accident as he informed me he had sent down to town for a bottle of
+Brandy and he had sent to him a bottle of the tincture of corose of 
+subliment he informed me that it puked and purged him at the most violent
+rate posable. He sayed one teaspoonfull more must have taken his life&#8212;
+but he is over it and well and will receive no further injury by it as it
+operated in the way it did&#8212; I had some conversation with him relative
+to the views I had of fixing my stock on <placeName>Dickersons buyo </placeName>I have been over
+lately to that <placeName>buyo </placeName>and examined your <placeName>land </placeName>in order to select a suitable spot
+for the purpose&#8212; I have chosen one if you are willing to let me have it
+as we have talked of that is for me to have the <placeName>labore </placeName>on which I would<pb n="132"/>
+settle. You wrote me once that I must take it in <placeName>one corner of one of your
+land.</placeName> this might not suit me attall as the soil is all poor&#8212; the <persName>Colonel</persName>
+says he apprehends there will be no objections to my settling on any part
+of the land that I may select. And if you are willing to give me a <placeName>labore</placeName>
+where I have selected and will write me to that afect, I will go over and
+prepare <placeName>cowpens </placeName>and take my stock over as soon as the <placeName>river </placeName>gets low
+enough</p>
+
+<p>I think <persName><hi rend="italic">Mr </hi>Perry </persName>that my preposials are not unreasonable as you have
+<placeName>two Leagues adjoining each other</placeName> I think the law require that there shall
+be put upon <placeName>grasing lands</placeName> 100 heads of horned cattle, and my stock will
+amount to at least 200 head will be the settling of <placeName>both leagues</placeName> in the Eye
+of the law&#8212; You will please to write to me as soon as posable as the
+season is fare advanced to move cattle this <date n="Fall-1835">fall</date>: if the <placeName>river </placeName>gits down in
+time to move them this <date n="Fall-1835">fall</date>. I want to do it as soon as posable. And if it
+dos not I will go over and make preperations for to move them in the
+<date n="Spring-1836">spring </date>I am offered choice of <placeName>lands on the south side of the buyo</placeName> but
+the want of timber is a greate objection.</p>
+
+<p>You will please write by the first opportunity
+And Olige Your Cincere friend</p>
+
+<p><persName>Martin Allen</persName></p>
+<p><persName>Mr J. Perry</persName></p>
+<p>[Addressed:] <persName>Mr James F. Perry</persName> <placeName>Peach point</placeName> politeness of <persName>Capt.
+Richardson</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
