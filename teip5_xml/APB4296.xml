@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4296">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William S Parrott to Stephen F Austin, 12-17-1831</title>
+            <author>
+                <persName>William S Parrott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-18">09-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mexico</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 723-724
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-12-17">12-17-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning indebtedness of S. J. Wilson to him.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexico </placeName><date when="1831-12-17">Dec 17th 1831</date>.</p>
+<p><persName>Stephen F. Austin</persName></p>
+
+<p><placeName>San Filipe</placeName></p>
+<p>My Dear Sir<persName> Col. Butler </persName>advises me of the receipt of a letter
+from you, communicating the painful intelligence of the Death
+of My <persName>Ex. Partner S. J. Willson,</persName> and of a protracted illness with
+which you had suffered; But it afforded me pleasure to hear of
+your convalesance and hope e'er this you have regained good health,<pb n="724"/>
+so necessary to enable us to enjoy the temporal blessings of a short
+life</p>
+
+<p><persName>Willson </persName>as you may have learned has been owing me for some
+time, say since <date n="xx-xx-1828">1828 </date>a large sum, of money drawn from my resources
+while he was a <persName>partner </persName>and in my absence; no part of which I have
+been able to get of him directly tho I have succeeded in collecting
+for his a/c here and elsewhere some small amounts compared with
+principal debt; and I now feel confident he has left Something with
+which to make on abono if nothing more, and with the hope of
+having a favourable result, forward this day to <persName>Thos. J. Chambers
+Esqr.</persName> of your place. My a/c current up to date having a balance
+without interest in my favour of $21,201-20/100&#8212; With a carta
+poder; to examine into the matter and to recover for me, what he
+can, tho I am personally acquainted with<persName> Mr. Chambers</persName> I would
+feel much obliged to you to recommend the matter to him in a
+special manner.</p>
+
+<p>When you have leisure, I would thank you to advise me, if I have
+any chance, to get hold of his grant tho I am half interested in it,
+of this however no document exists other than his letters,</p>
+
+<p><persName>W. S. Parrott </persName>   [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
