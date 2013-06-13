@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3037">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>M. Wilkinson to Stephen F. Austin, 11-29-1825</title>
+            <author>
+                <persName>M. Wilkinson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. Jno Mathews
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Fredericktown, Maddison Country, Missouri</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1236-1237
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-11-29">11-29-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing John Mathews, the "numeriousness" of whose family takes him to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>State of Missouri Maddison County</placeName>.</p>
+
+<p><placeName>Fredk Town</placeName> <date when="1825-11-29">Nov 29th 25</date></p>
+<p>Dear Sir</p>
+
+<p>The <persName>bearer </persName>of this letter <persName>Mr. Jno Mathews</persName> is an <persName>old and reputable
+emegrant to this <placeName>country</placeName> </persName>previous to its cession to the <placeName>United
+States</placeName> and has ever since conducted himself in the most upright and <pb n="1237"/>
+gentlemanly manner, he owns in this <placeName>neighbourhood</placeName> a large and
+valuable, <placeName>farm </placeName>but from the numeriousness of his <persName>family </persName>he in his
+old age visits your <placeName>country</placeName> with a view if he likes to become a citizen;
+permit me to introduce and recommend him to you as a useful and
+valuable citizen and any aid and assistance you can render him whilst
+in the <placeName>Spanish provinces</placeName> will confer an Obligation on</p>
+
+<p><persName>M Wilkinson</persName></p>
+<p>[Addressed:] <persName>Mr Stephen F. Austin</persName> Province <placeName>Texas</placeName> <persName>Mr Mathews</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3045">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John Smith to Stephen F. Austin, 12-25-1825</title>
+            <author>
+                <persName>John Smith</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Near Russellville, Logan Country, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1242-1243
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-12-25">12-25-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Representing friends in Kentucky, Mississippi, and Louisiana. Wants information concerning commercial privileges, religious toleration, and oath of allegiance.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Near Russellville Logan County Kentucky</placeName></p>
+
+<p><date when="1825-12-25">Decr. 25&#8212;1825</date></p>
+<p><persName>Stephen F Austin Esqr.</persName></p>
+
+<p>Sir I have the honour of addressing you via <placeName>Natchitoches</placeName>, in behalf of myself and sundry <persName>friends </persName>who, wish me to explore the
+<placeName>Province of Texas</placeName>, and particularly that part of it comprehended
+in your <placeName>grant</placeName>&#8212; I was on <placeName>Red River</placeName><date n="11-xx-1825"> last month</date>, and should have
+proceeded to <placeName>your Section of the Country</placeName>, but I was advised to
+postpone that part of my journey, till the grass grows up in the
+<date n="Spring - 1826">Spring</date>, and having some <persName>friends </persName>and <persName>relations </persName>in this <placeName>quarter </placeName>who
+desired to see me in relation to that <placeName>Country</placeName>, I came hither, and am
+litterally locked up, for the <date n="Winter - 1825">winter </date>I suppose, by the ice and snow&#8212;</p>
+
+<p>I have resided for some years past in the States of <placeName>Mississippi</placeName>
+and <placeName>Louisiana</placeName>, where the most of my <persName>friends </persName>abide, and at whose
+instance I consented to visit your <placeName>Province</placeName>&#8212;</p>
+
+<p>I am instructed to enquire particularly into the following
+points&#8212;to wit</p>
+
+<p>1st Will there be allowed to the <persName>citizens</persName>, or <persName>Subjects</persName> of <placeName>Texas</placeName>, a
+free commercial intercourse with the <persName>Citizens</persName> or <persName>Subjects</persName> of <placeName>other
+nations</placeName> ?</p>
+
+<p>2d Will Religious toleration be allowed the <persName>Emigrants</persName> from the
+<placeName>United States</placeName>, so far as to be exempted from the payment of tithes
+to the <persName>established Church,</persName> if they should desire it. And to think
+and act for themselves in matters of conscience? Provided they do
+not interfere with the Catholic Religion, and with fidelity support
+the laws of the land, as <persName>citizens </persName>ought to do? and thereby to enjoy
+as much Religious liberty as the <persName>Protestants</persName> have in <placeName>France</placeName>, and <pb n="1243"/>
+some other <placeName>Catholic Countries</placeName>? Or as the <persName>Catholics</persName> have in the
+<placeName>United States</placeName>? Or should these previleges in there full extent be
+refused, we ask for the Privilege of exercising the rights of private
+judgement in our own <placeName>houses </placeName>and <placeName>neighbourhood</placeName>? Provided,
+nevertheless, that our difference in opinion with the <persName>Catholics</persName>, be a
+silent one ?</p>
+
+<p>3d We wish you to transcribe the form of the oath you will administer to us&#8212;From your letters which we have seen in print, we know
+your terms of settlement, and are satisfied&#8212; Have the goodness to
+write me as soon as convenient, after the receipt of this, and very
+particularly on each of the forgoing points, addressed to me at this
+place</p>
+
+<p>I expect to remain here till next <date n="05-xx-1826">May</date>, and will thank you for any
+news which you maye please to give me&#8212;                    <p><persName>John Smith</persName></p></p>
+
+<p>[Addressed:] <persName>Stephen F Austin Esquire</persName> <placeName>Texas</placeName>&#8212;Particular care
+of the <persName>Post Master of <placeName>Natchitoches</placeName></persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

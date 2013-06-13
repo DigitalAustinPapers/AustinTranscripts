@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3032">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James E. B. Austin and John Austin to Unknown, 11-22-1825</title>
+            <author>
+                <persName>James E. B. Austin and John Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-08">06-08-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1234-1235
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Articles of Partnership</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-11-22">11-22-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Articles of partnership. James E. B. Austin and John Austin to build and operate a cotton gin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>This agreement, between <persName>James E. B. Austin</persName> and <persName>John Austin</persName>
+witnesseth that the said <persName>James</persName> and <persName>John</persName> have associated themselves
+in <persName>partnership </persName>for the objects and on the footing stated below that
+is to say, the objects of said partnership are to build a <placeName>Gin</placeName>, and
+carry on the ginning business, <placeName>on the land granted to said <persName>James</persName></placeName> in
+this <placeName>Colony</placeName>, and also to engage in commercial buisness generally&#8212;</p>
+
+<p>The conditions of the <persName>partnership </persName>are that all capital or advances
+made by eather of said parties shall be charged to the <persName>Company </persName>and<pb n="1235"/>
+accounted for at the expiration of the <persName>partnership</persName>,&#8212; The nett
+profits of the <persName>concern </persName>shall be equally divided between the <persName>parties</persName>.
+The <persName>partnership </persName>shall continue for <date when="1827-11-22">two years</date> unless sooner dissolved by mutual Consent&#8212;</p>
+
+<p><persName>Jas. E. B. Austin</persName>    [Rubric]</p>
+<p><persName>John Austin</persName>            [Rubric]</p>
+
+<p><placeName>San Felipe de Austin</placeName> <date when="1825-11-22">November 22nd 1825</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

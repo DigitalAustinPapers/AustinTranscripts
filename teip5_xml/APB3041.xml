@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3041">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F. Austin to Emily M. Perry, 12-12-1825</title>
+            <author>
+                <persName>Stephen F. Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. Mothershead
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Emily M. Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mouth of the Brazos River, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Mine a Burton, Missouri</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1238-1239
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-12-12">12-12-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Slow improvement of Texas. False reports published. Topographical conditions at mouth of Brazos River. Owns no slaves. Biographical.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mouth of the Brasos river</placeName> <date when="1825-12-12">December 12 1825</date></p>
+<p>Dr Sister,</p>
+
+<p><persName>Mr. Mothershead</persName> from <placeName>Missouri</placeName> starts <date when="1825-12-13">tomorrow </date>and has promised
+to deliver this to you as he goes through <placeName>Mine á Burton</placeName>. I have nothing very material to write&#8212;having some surveying to attend to in
+this <placeName>quarter </placeName>I accompanied the <persName>surveyor </persName>and have just returned from
+a fishing and oystering trip, and think my health (which has not been
+very good) is improved&#8212;we procured a great abundance of fish, oysters and wild fowl and have had very fine weather</p>
+
+<p><persName>Brother</persName> and <persName>John Austin</persName> have commenced building a <placeName>Gin </placeName><placeName>a little
+below the head of tide water on this river, about 40 miles by water
+from this place</placeName>&#8212;he has commenced in the woods and intends to be
+a <hi rend="italic">first rate <persName>farmer</persName></hi> we neither of us own any <persName>negros </persName>and have to
+depend on hireing</p>
+
+<p>The <placeName>Colony</placeName> progresses very well, tho not very rapidly, I am very
+well satisfied that you have not removed here, the <placeName>Country</placeName> is very
+new yet, and I think <persName>Mr Perry</persName> can do better where he is for the present than he could do here&#8212;-we have but little commerce as yet&#8212;tho
+must have a great deal in a few years&#8212;</p>
+
+<p>The reports in the<placeName> news papers </placeName>relative to overflow, Sickness, etc,
+etc, etc, in this <placeName>Colony</placeName> are all false&#8212;we have very abundant crops&#8212;</p>
+
+<p>I have just heard of <persName>Wm Perry</persName>s murder&#8212;if his <persName>murderer </persName>comes
+within my reach he shall be secured and lodged in <placeName>Nachitoches jail</placeName> &#8212;
+I am told that his name is <persName>Hill</persName>, is it the same <persName>Hill</persName> that worked for
+<persName>Bryan</persName> and married one of the <persName>Doggits</persName>? Send me a particular description of him and the <placeName>news paper</placeName> that offers the reward and if he
+comes here I may be able to get some one to take him back to <placeName>Potosi</placeName>&#8212;</p>
+
+<p>I am daily expecting something from you and <persName>Mr. Perry</persName> relative
+to the <placeName>Mine a Burton Estate</placeName>&#8212;you must do the best you can, it will
+be many years before I can see <placeName>Missouri</placeName>, or <placeName>brother</placeName> either<pb n="1239"/></p>
+
+<p>I am getting tired of Colonization affairs and hope before long to
+close my business and settle on a <placeName>farm</placeName>&#8212;</p>
+
+<p>Remember me to your <persName>Husband</persName> and assure him that nothing
+would give me more real pleasure than to see him in this <placeName>Country </placeName>as
+soon as his business will permit, he will find us in the <placeName>woods</placeName>-&#8212;and
+<hi rend="italic">poor</hi> The enterprise I undertook is better calculated to enrich those
+who come after me than to benefit myself&#8212;I have the labor to perform and the seed to sow, but my <persName>successors </persName>will reap the harvest&#8212;</p>
+
+<p>Give my respects to <persName>Saml Perry</persName> and to <persName>John</persName> and his <persName>wife</persName> and my
+other <persName>acquaintances</persName>&#8212;
+Your <persName>brother</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>N. B. I am very much fatigued and have a headache which must
+be my excuse for such a scrall as I now send you&#8212;
+What are the <persName>Jones</persName> doing? where is <persName>Mrs. Henry Elliott</persName>?&#8212; What
+has become of <persName>James Austins children</persName>?&#8212; What is <persName>G. Hammond</persName>
+doing? I received a letter from <persName>Arch. Austin</persName> in <placeName>New York</placeName>. <persName>Henry</persName>
+had gone to <placeName>Mexico</placeName>&#8212;are <persName>Horaces children</persName> doing well ? where is his
+<persName>wife</persName>? etc etc</p>
+
+<p>This <placeName>river</placeName> mouths into the <placeName>wild ocean</placeName> without any <placeName>bay</placeName>, and the
+breakers are roaring within Eighty yards of me&#8212;there is a good
+<placeName>two story frame house</placeName> and some <placeName>cabins </placeName>here and there is at this time
+8 feet water over the bar Salt water is produced here by digging 10
+feet so strong that 5 gallons of it will make one of salt, and by digging 4 feet good fresh water is found in abundance,&#8212;Mosquitoes are
+troublesome at this time&#8212; I have discovered in my fishing trip that
+the <placeName>west end of Galveston bay</placeName> comes <placeName>within four miles of this place</placeName>,
+and <placeName>within 200 yards of a deep tide water creek that empties into the
+Brasos</placeName>, so that 200 yards digging will open an <placeName>inland water communication</placeName> with the <placeName>Harbor of Galveston</placeName> where ships of 400 tons
+can enter with safety&#8212;I shall spend some time on the <placeName>coast</placeName>&#8212;it is <placeName>75
+miles from here to where I live</placeName> at present tho I intend to remove
+about <placeName>25 miles by water above here, 10 by land</placeName>&#8212;</p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

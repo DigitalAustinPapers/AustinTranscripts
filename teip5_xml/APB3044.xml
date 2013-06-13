@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3044">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Benjamin Lindsey to Stephen F. Austin, 12-20-1825</title>
+            <author>
+                <persName>Benjamin Lindsey</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-06-22">06-22-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1242
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1825-12-20">12-20-1825</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-06-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker"> Land. Emigration.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1825-12-20">December 20th 1825</date></p>
+<p><persName>Mr Austin</persName></p>
+
+<p>Sir, I have sent a Couple of men <persName>Mr. Riddle</persName> and <persName>Mr. Carson</persName> to Improve my land and make a Crop on it I believe them both to be
+good honest industrous men <persName>Riddle</persName> is a very Exelent<persName> Black Smith</persName>
+I am so situated that I Cannot Come on myself at this time but I shall
+be on about the <date when="1826-04-30">last of April</date> or the <date when="1826-05-01"> firstMay</date>&#8212;if the first payment
+must be made on my Land before I get there <persName>Mr Riddle</persName> will pay you
+up in Cattle I would Raither it Could be put off til I get there myself perhaps by that time I Could be able to pay the Cash please
+to instruct these <persName>men</persName> where to find the land and what improvements
+is necessary to be made&#8212;</p>
+<p><persName>Benjamin Lindsey</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
