@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4908">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Edward Gritten to Alcalde of Gonzales, 10-04-1835</title>
+            <author>
+                <persName>Edward Gritten</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-24">03-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Alcalde of Gonzales
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Gonzales, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 156
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-04">10-04-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing a courier with letters to Austin from Colonel Ugartechea</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To the <persName>Alcalde</persName>, <persName>Ayuntamiento </persName>and <persName>People of Gonzales</persName>.</p>
+<p><persName>Fellow Citizens</persName>,</p>
+
+<p><persName>Mr. Anderson</persName>, (accompanied by <persName>Col Ugartechea's confidential 
+Secretary, Lieut. Rada</persName>, as Commissioner), proceeds to your place, as <persName>bearer of
+a communication</persName> from the <persName>Colonel</persName>, and also of the correspondence of, and
+with, <persName>Coln. Austin</persName>, of which I annex translations for your information and
+government. <persName>Mr Anderson</persName> will give you necessary and important 
+intelligence, and to him I refer. I have to observe that I have become security
+to <persName>Col. Ugartechea</persName> for the safety and treatment of his <persName>secretary</persName>.</p>
+
+<p><persName>Col. Ugartechea</persName> has requested me to say to you, that this place is free
+and open as ever for the <persName>Americans </persName>to come in and go out unmolested, the
+same as before, and for the purposes of trade. He also desires to assure
+you that he will receive, with satisfaction and safe treatment, any person
+you may choose to send to him: and to have no distrust of his intentions,
+or word of honor.</p>
+
+<p>Wishing you cordially well; and with the sincere and prompt tender of
+my services when necessary, I remain Fellow Citizens your True obt. Servt.
+and friend</p>
+
+<p><persName>Edward Gritten</persName> [Rubric]</p>
+
+<p><placeName>Bexar</placeName>, <date when="1835-10-04">4th Octr. 1835</date></p>
+
+<p>P. S. <persName>Col. Ugartechea</persName> and <persName>Lieut. Rada</persName> assured me that there are <persName>three
+regiments at <placeName>Saltillo</placeName></persName>, whose further progress has been suspended by 
+<persName>General Cos</persName>, in the expectation that an amicable adjustment of the present
+difficulties with the <placeName>Colonies </placeName>will be effected. <date when="1835-10-05">5th Octr</date>-</p>
+<p><persName>Edward Gritten</persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

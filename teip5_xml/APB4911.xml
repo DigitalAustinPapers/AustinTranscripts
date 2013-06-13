@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4911">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Committee of Harrisburgh, 10-04-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-25">03-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Committee of Harrisburgh
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Harrisburgh, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 158-159
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-04">10-04-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">A combined effort would free Texas of military despots, and the government would be unable to send other forces to Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Committee Room of the Jurisdiction of Austin</placeName>.</p>
+<p><placeName>San Felipe </placeName><date when="1835-10-04">4 october 1835</date>.</p>
+
+<p>The inclosed printed <placeName>circular </placeName>will inform the <persName>people in that <placeName>district</placeName></persName> of
+the present posture of affairs&#8212;</p>
+
+<p>War is declared&#8212;public opinion has proclaimed it against Military
+despotism&#8212; The campaign has commenced&#8212; The <persName>Military </persName>have 
+advanced to <placeName>Gonzales</placeName>&#8212; <persName>Genl. Cos</persName> has arrived and threatens to overrun the
+<placeName>country</placeName>&#8212; But one spirit and one purpose animates the <persName>people of <placeName>this
+part of the country</placeName></persName>, and that is to take <placeName>Bexar</placeName>, and drive the <persName>Military </persName>out of
+<placeName>Texas</placeName>.</p>
+
+<p>It is now hoped that every man will maturely study this subject, and
+make up his mind, and act according to the dictates of his own judgement.<pb n="159"/></p>
+
+<p>A combined effort of all <placeName>Texas </placeName>would soon free our soil of <persName>Military
+despots</persName>&#8212;we should then have peace, for the <persName>present Govt. of <placeName>Mexico</placeName></persName> have
+too much to do at home to sustain themselves against the attacks of the
+friends of the constitution of <date n="xx-xx-1824">1824</date>, who are now in arms in <placeName>Zacatecas </placeName>and
+<placeName>other places</placeName>, to send another <persName>army </persName>to <placeName>Texas</placeName>.</p>
+
+<p>This <persName>committee </persName>hopes that you will send an <persName>express </persName>to <placeName>Trinity </placeName>with
+copies of this communication, and with the inclosed printed papers.</p>
+
+<p><persName>S. F. Austin Chairman of Com.</persName></p>
+<p>To the <persName>Committee of Safety of <placeName>Harrisburgh</placeName></persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

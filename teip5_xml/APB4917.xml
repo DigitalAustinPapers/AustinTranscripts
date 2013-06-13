@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4917">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas J Pilgrim to Stephen F Austin, 10-06-1835</title>
+            <author>
+                <persName>Thomas J Pilgrim</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-25">03-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 162
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-06">10-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Fears invasion by sea and slave insurrection.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia </placeName><date when="1835-10-06">Oct 6th. 1835</date></p>
+<p><persName>Col Austin</persName></p>
+<p>Dr Sir</p>
+
+<p>I staid <date when="1835-10-05">last night</date> at <placeName><persName>Mr Perry</persName>s</placeName> and all were quite well except <persName>Eliza </persName>who
+has been quite sick but is now nearly recovered. Much excitement is now
+felt <placeName>in this sction</placeName> in consequence of a report that <persName><hi rend="italic">2000 </hi>troops</persName> are to land
+in a few days at the <placeName>mouth of the Brazos</placeName>. The origin of this report was a
+letter written by <persName>Samuel Powell</persName> to his <persName>mother </persName>assuring her that it was an
+unquestionable fact and cautioning her to be prepared for the worst. There
+are many here still, who are willing to march to the assistance of their
+<persName>countryman </persName>at <placeName>Gonzales</placeName>, did they think it prudent for any more to leave.
+Is there not at any rate a strong probability that a descent may be made
+upon this <placeName>coast </placeName>should they know it to be unprotected? And would it not
+be prudent that a portion of our <persName>forces </persName>should stay to defend it in case of
+necessity? Would there not be great danger from the <persName>Negroes </persName>should a
+large <persName>Mexican force</persName> come so near? Your information on this subject is
+doubtless much better than ours and your opinion would be listened to
+with much confidence and satisfaction. The most vulnerable point should
+certainly be the best protected one&#8212;did we know where that is, I am 
+confident we would hasten to it. Many false rumors are in circulation, it is
+important to know the truth as near as possible.</p>
+
+<p><persName>T J. Pilgrim</persName></p>
+<p><persName>Stephen F Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

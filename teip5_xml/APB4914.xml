@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4914">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to David G. Burnet, 10-05-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-25">03-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        David G. Burnet
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Jacinto, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 160-161
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-05">10-05-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging unity. Beginning of movement for independence, but cannot announce it</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1835-10-05">Oct. 5, 1835</date></p>
+
+<p>Mr friend&#8212;All goes well and gloriously for <placeName>Texas</placeName>&#8212;the <placeName>whole country</placeName>
+is in arms and moved by one spirit, which is to take <placeName>Bexar </placeName>and drive all
+the <persName>military </persName>out of <placeName>Texas</placeName>&#8212;<hi rend="italic">This is as it should be</hi>&#8212; No half way measures
+now&#8212;war in full</p>
+
+<p>I hope you will enter <hi rend="italic">ardently </hi>and <hi rend="italic">warmly </hi>in the cause&#8212; Now is the
+time&#8212;no more doubts&#8212;no submission&#8212; <hi rend="italic">I hope to see <placeName>Texas </placeName>forever free<pb n="160"/>
+from <persName>Mexican </persName>domination of any kind</hi>&#8212; It is yet too soon to say this 
+publically&#8212;but that is the point we shall aim at&#8212;and it is the one I am aiming
+at&#8212; But we must arrive at it by <hi rend="italic">steps</hi>. And not all at one jump&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric.]</p>
+<p>[Addressed:]<persName> D. G. Burnet Esqr</persName>.-<placeName> San Jacinto</placeName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

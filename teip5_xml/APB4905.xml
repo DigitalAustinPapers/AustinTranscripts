@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4905">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to People of Texas, 10-03-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-24">03-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        People of Texas
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Locations in Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 147-152
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Circular</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-03">10-03-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Showing that war in defense of constitutional rights is inevitable</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>CIRCULAR</p>
+
+<p>From the <persName>Commitee of safety of the <placeName>jurisdiction of Austin</placeName></persName>.
+All are aware of the present movements of <persName>volunteers </persName>towards the 
+<placeName>western frontiers</placeName>. For the information of <persName>every one this Committee</persName> deem it
+proper to state as briefly as possible the leading facts whigh have given
+rise to this excitement.</p>
+
+<p>When the <placeName>circular </placeName>of this <persName>Committee</persName>, under date of the <date when="1835-09-19">19th ult.</date> was
+issued, information of an unquestionable character had been received here,
+as to the marching of <persName>soldiers </persName>from <placeName>Bexar</placeName>, in some short period, within the
+<placeName>limits of the colonies</placeName>. The object appeared to be the apprehension of 
+certain <persName>citizens</persName>, among them <persName>Don Lorenzo de Zavala</persName>, now a citizen of <placeName>Texas</placeName>,
+was particularly designated and aimed at. This gentleman had come to
+<placeName>Texas</placeName>, as to an asylum from the persecution of the <persName>present administration
+of <placeName>Mexico</placeName></persName>. His offence we know not, except that he is the known friend
+of free institutions. This <persName>distinguished man</persName>, the <persName>authorities of <placeName>Texas</placeName></persName> have
+been arbitrarily required by military mandate to surrender into the hands
+of <persName>general Cos</persName>, who, in his zeal to secure the person of this patriotic and
+virtuous citizen, actually issued an order some time since, addressed to
+<persName>colonel Ugartechea, commandant at Bexar</persName>, to march into the colonies and
+<hi rend="italic">take him</hi>, at the risk of losing all the force he should employ. The mere
+intimation of such an order would be an evident disrespect to, the <persName>citizens
+of <placeName>Texas</placeName></persName>, but the issuing of it, with the correspondent threats of <persName>colonel
+Ugartechea</persName> of putting it into execution, is at once an open outrage upon
+the <persName>civil authorities of <placeName>Texas</placeName></persName>, and upon the Constitution. But what is of
+most importance, such proceedings serve plainly to show us all, what <hi rend="italic">kind
+of government</hi>; the <persName>present reformers in <placeName>Mexico</placeName></persName> are aiming to subject us
+to&#8212;which is the <hi rend="italic">government of the bayonet</hi>, and the regulation of all the<pb n="148"/>
+affairs of <placeName>Texas </placeName>by <persName>military </persName>power, regardless of the Constitution, of the
+<persName>civil authority</persName>, and of all the legally vested, equitable, and natural rights
+of the <persName>people of <placeName>Texas</placeName></persName>.</p>
+
+<p>That such is the real and ultimate object of the <persName>military </persName>power now
+reigning in <placeName>Mexico</placeName>, and that the reasons assigned for the present hostile
+movements are nothing but mere pretexts to cover the main objects, and
+thus fill the <placeName>country </placeName>with <persName>troops</persName>, is clear and evident; but should there still
+remain doubts on the mind of any person, let him weigh and maturely 
+consider the following facts, and draw his own conclusions.</p>
+
+<p>The <persName>Constitutional Governor of the <placeName>State</placeName>, Viesca</persName>, and also another 
+<persName>governor, Falcon</persName>, who had been constitutionally installed to succeed <persName>Viesca</persName>,
+have been deposed by the <persName>military </persName>at <placeName>Monclova</placeName>. The <persName>state authorities</persName> were
+imprisoned, and a <persName>governor </persName>appointed by the <persName>acting president of the 
+general government of <placeName>Mexico</placeName></persName>. This is evidently an act of <persName>military </persName>
+usurpation and despotism, and the <placeName>state of Coahuila and Texas</placeName> is at this time
+without any constitutional or legal government at all, and the <persName>people of
+<placeName>every part of the state</placeName></persName>, and those of <placeName>Texas </placeName>in particular, are left at full
+liberty to provide for themselves as they may deem best.</p>
+
+<p>But a more general, though succinct view of matters, is necessary for a
+full and proper understanding of this subject.</p>
+
+<p>A disastrous and ruinous civil war was kindled in <date n="xx-xx-1832">1832</date>, by means of an
+insurrection against the <persName>Bustamante administration</persName>, and <persName>general Santa Anna</persName>
+was placed at its head. The avowed object of this insurrection was to
+protect the federal system, and sustain the Constitution of <date n="xx-xx-1824">1824</date>, which, it
+was then alleged, was attacked and endangered by the measures and 
+projects of the <persName>Bustamante administration</persName>. On this principle the <persName>people of
+<hi rend="italic"><placeName>Texas</placeName></hi></persName><hi rend="italic"> supported <persName>general Santa Ana</persName> to defend the Constitution of </hi><date n="xx-xx-1824">1824</date>,
+and the federal system. This <persName>general </persName>was enthusiastically supported by
+every <persName>liberal </persName>and <persName>free Mexican</persName>, and by the <persName>friends of the federal system
+in <placeName>every part of the nation</placeName></persName>. With this support he triumphed. He became
+the man of the people&#8212;the protector of the federal system&#8212;the oracle of
+public opinion&#8212;the arbiter of the nation's political destinies. How has
+he used this power, <hi rend="italic">thus acquired</hi>? Let the military despotism now 
+enthroned in <placeName>Mexico </placeName>upon the ruins of the federal system&#8212;let the <persName>friends of
+this system</persName>, who are now groaning in <placeName>prisons </placeName>or <placeName>wandering in exile</placeName>&#8212;let
+the Constitution of <date n="xx-xx-1824">1824</date>, which still raises its dying voice from beneath
+the feet of military usurpation&#8212;let the free and impartial in <placeName>Mexico </placeName>and
+in the <placeName>whole civilized world</placeName> give the reply. They all say, he used it to
+destroy what he avowed he had taken up arms to protect; he used the
+<persName>federal party</persName> as blind instruments to destroy the federal system; he 
+abandoned his <persName>federal friends</persName> who had given him power, and united with the
+<persName>military, ecclesiastical and central party</persName>, against whom he took up arms<pb n="149"/>
+in <date n="xx-xx-1832">1832</date>. The same <persName>party </persName>is now governing in <placeName>Mexico</placeName>, and they say to the
+<persName>people of <placeName>Texas</placeName></persName>, in the language of friendship and persuasion&#8212;in that of
+<hi rend="italic">sugar-plums and honey</hi>, that in the new Constitution, or <persName>central 
+government</persName> that is organizing in <placeName>Mexico</placeName>, guarantees shall be given to the <persName>people
+of <placeName>Texas</placeName>,</persName> their rights shall be protected and secured, and they are told that
+the government expects from their "docility" a <hi rend="italic">submission to all the 
+reforms and alterations that may be agreed to by the <persName>majority of the <placeName>nation</placeName></persName></hi>.
+See the official letter of the <persName>Minister of Relations</persName>, a translation of which
+is published at the end of this paper, numbered I. But who compose, and
+what is this <persName>majority of the <placeName>nation</placeName></persName> spoken of by the <persName>minister</persName>, and how are
+these reforms to be effected? It is composed of the same military power
+before spoken of, who have assumed the voice of the <placeName>nation</placeName>, and have 
+suppressed, by military influence, the expression of public opinion; and the
+reforms are to be effected by <hi rend="italic">unconstitutional means</hi>; a sufficient proof of
+which is, that the present <persName>Congress in <placeName>Mexico</placeName></persName>, who was elected with 
+constitutional powers alone, have, by their own act, declared themselves to be
+invested with the powers of a national convention, to frame a new 
+constitution, or reform that of <date n="xx-xx-1824">1824 </date>as they think proper.</p>
+
+<p>What is here meant by <hi rend="italic">"reforming"</hi> the Constitution of <date n="xx-xx-1824">1824</date>, may be
+clearly deduced by the "reform" of the <persName>militia </persName>made by this same <persName>general
+Congress</persName>. This "reform" reduced the <persName>militia of the <placeName>States</placeName></persName> to one 
+<persName>militiaman </persName>for every <persName>five hundred inhabitants</persName>, and disarmed all the rest. The
+<persName>people of <placeName>Zacatecas</placeName></persName> resisted this iniquitous law, but were unfortunate and
+compelled, for the time being, to submit to the military power of the 
+<persName>reformer</persName>: so that, in fact, "reform" means destruction.</p>
+
+<p>From this condensed view of the past let every <persName>impartial man</persName> judge for
+himself what degree of faith or credit ought to be given to the professions
+of the <persName>present government of <placeName>Mexico</placeName></persName>, and ask himself whether a subtle
+poison may not be concealed in the <hi rend="italic">sugar-plums</hi>, or a sting in the <hi rend="italic">honey</hi>,
+that is now offered to the "docile," <persName>people of <placeName>Texas</placeName></persName>.</p>
+
+<p>But, in addition to this general view of matters, information of the most
+positive and unquestionable character is in the possession of this 
+<persName>Committee</persName>, that every possible effort is making by the <persName>government in <placeName>Mexico</placeName></persName>
+to raise <persName>troops</persName>, money, and resources to fit out an <persName>expedition</persName>&#8212;<hi rend="italic">an <persName>army </persName>of
+invasion</hi> against <placeName>Texas</placeName>. <persName>Infantry</persName>, artillery, and <persName>cavalry </persName>have been ordered
+from <placeName>San Luis Potosi</placeName>, <placeName>Saltillo</placeName>, and <placeName>Tamaulipas</placeName>; and all the <persName>disposable
+infantry at <placeName>Campeche</placeName></persName> has also been ordered on to <placeName>Texas </placeName>by water, as it
+was supposed they would stand the climate better than other <persName>troops</persName>. 
+Magazines of arms and ammunition are forming at <placeName>Matamoras</placeName>, <placeName>Goliad</placeName>, and
+<placeName>Bexar</placeName>, and the <placeName>old barracks and fortifications at the latter place</placeName> are 
+repairing to receive a large force, In short, the common talk all over <placeName>Mexico</placeName>
+among the <persName>military </persName>is the <hi rend="italic">invasion </hi>of <placeName>Texas</placeName>.<pb n="150"/></p>
+
+<p>Now, if the <persName>present government of <placeName>Mexico</placeName></persName> is sincere in its profession of
+liberal guarantees for <placeName>Texas</placeName>, why all this preparation for a military 
+invasion? Why has <persName>general Cos</persName> marched with all the <persName>disposable force at
+<placeName>Matamoras</placeName></persName> (about four hundred men) to <placeName>Bexar</placeName>, where he now is, 
+according to last accoynts? Can it be that the <persName>government</persName>, in its fatherly care
+for <placeName>Texas</placeName>, fears that there are <persName>servile slaves</persName> in this <placeName>country</placeName>, who will
+oppose <hi rend="italic">liberal guarantees</hi>? Or is it that the promised guarantees, are only
+a cover and a false show, to quiet <placeName>Texas </placeName>until the general Government is
+prepared to give to it a <persName>military government</persName>.</p>
+
+<p>It is well known to all that the reforms spoken of by the <persName>minister</persName>, and
+now being made in <placeName>Mexico</placeName>, contemplate the abolition of the whole federal
+system, the establishment of a central or consolidated government, which
+is to absorb and swallow up all the powers and <persName>authorities of the <placeName>nation</placeName></persName>:
+<persName>military <placeName>commandancies</placeName></persName> will supply the place of the state governments,
+and the vested rights of <placeName>Texas </placeName>under the constitution and law of <date when="1834-05-07">May 7,
+1824</date>, are to be disregarded and violated.</p>
+
+<p>Ought, or can, or will the <persName>people of <placeName>Texas</placeName></persName> submit to all this? Let
+each man study the subject, and answer for himself. If he will submit,
+let him go to the <persName>military power</persName> and prostrate himself. If he will not
+submit, let him give his answer from the mouth of his rifle!</p>
+
+<p>In regard to the present movements of the <persName>military</persName>, the letter from
+<placeName>Gonzales</placeName>, and extracts from other letters of unquestionable faith, 
+[numbered 2.] will inform the <persName>public</persName>. By these letters the <persName>people of <placeName>Texas</placeName></persName> are
+informed that their <persName>fellow-citizens at <placeName>Gonzales</placeName></persName> <hi rend="italic">have been attacked&#8212;the
+war has commenced!</hi> They will also perceive that <persName>general Cos</persName> has arrived
+with reinforcement of <persName>troops</persName>, and is preparing for a campaign of 
+extermination against the <persName>people of <placeName>Texas</placeName></persName>.</p>
+
+<p>The <placeName>head quarters of the <persName>ARMY OF THE PEOPLE</persName></placeName> for the present is
+at <placeName>Gonzales</placeName>. It is already respectable in numbers, and invincible in spirit.
+This <persName>Committee </persName>exhorts every <persName>citizen </persName>who is yet at home, to march as
+soon as possible to the assistance of his <persName>countrymen </persName>now in the field. The
+campaign is opened. <placeName>Texas </placeName>must be freed from <persName>military despots</persName> before
+it is closed.</p>
+
+<p><persName>S. F. AUSTIN<lb/>
+<hi rend="italic">Chairman of the Committee
+of the <placeName>Jurisdiction of Austin</placeName></hi></persName>.</p>
+
+<p><placeName>San Felipe de Austin</placeName>. <date when="1835-10-03">October 3, 1835</date>.</p>
+
+<p>No. 1</p>
+
+<p>Extract of an official letter from the <persName>Minister of Interior Relations of
+<placeName>Mexico</placeName></persName>, to the <placeName>Municipality of Gonzales</placeName>.<pb n="151"/></p>
+
+<p>"When the <persName>general Congress</persName> takes into consideration the reforms of the
+Constitution which have been requested unanimously by 
+<placeName>almost all the towns of the Republic</placeName>, that <persName><date n="xx-xx-08">august </date>assembly</persName> will bear in mind the wants
+of the <persName>inhabitants of <placeName>Texas</placeName></persName>, for the purpose of providing a remedy; and
+the <persName>government </persName>will very cheerfully co-operate in that object, by making
+the propositions which may most conduce to so laudable an end, reckoning
+always on the good sense and docility of the <persName>colonists</persName>, who, on adopting
+this for their <placeName>country</placeName>, subjected themselves to the alterations that, 
+respecting the institutions, the<persName> majority of the <placeName>nation</placeName></persName> may think fit to agree upon;
+which disposition the government is decided on supporting in fulfillment
+of its duty, as it is, also, of protecting <persName>all the inhabitants of the <placeName>Republic</placeName></persName>,
+lovers of order, and of punishing those who foment sedition.</p>
+
+<p>signed <persName>"BONILLA"</persName></p>
+<p>Dated <placeName>Mexico</placeName>, <date when="1835-08-05">August 5, 1835</date></p>
+
+<p>No. 2.</p>
+
+<p>"<placeName>Gonzales</placeName>, <date when="1835-09-30">September 30, 1835</date>.</p>
+
+<p><persName>Fellow-Citizens of <placeName>San Felipe</placeName> and <placeName>La Baca</placeName></persName>,&#8212;A detachment of the 
+<persName>Mexican forces</persName> from <placeName>Bexar</placeName>, amounting to about <persName>one hundred and fifty men</persName>,
+are encamped opposite us: we expect an attack momentarily. <date when="1835-09-29">Yesterday</date>
+we were but eighteen strong, to-day one hundred and fifty, and <persName>forces </persName>
+continually arriving. We wish all the aid, and despatch, that is possible to
+give us, that we may take up soon our line of march for <placeName>Bexar</placeName>, and drive
+from our <placeName>country </placeName>all the <persName>Mexican forces</persName>. Give us all the aid and despatch
+that is possible.</p>
+
+<p>Respectfully, yours,</p>
+<p><persName>Captain ALBERT MARTIN</persName>,</p>
+<p><persName>R. M. COLEMAN</persName>,</p>
+<p><persName>J. H. MOORE.</persName></p>
+
+<p><hi rend="italic">Extracts from a letter, written by a <persName>gentleman of unquestionable veracity</persName>,
+dated <placeName>La Bahia</placeName>, <date when="1836-10-01">October 1, 1836</date>.</hi></p>
+
+<p>"The <persName>Alcalde of <placeName>Goliad</placeName></persName> was struck or whipped <placeName>in the street</placeName> by an <persName>officer</persName>,
+for not being able to get the carts ready as soon as he wanted them, to
+transport the arms, etc. to <placeName>Bexar</placeName>. A <persName>Mexican </persName>from <placeName>Victoria</placeName> was also 
+insulted, as being one of the <persName><hi rend="italic">valientes </hi>of <placeName>Guadalupe</placeName></persName>; the <persName>soldiers </persName>saying that
+it would be only a short time until they visited us, and helped themselves to
+what cash and other things we had. The <persName>new officers</persName> who came with the
+arms, said that, as soon as <persName>general Cos</persName> should reach <placeName>Bexar</placeName>, it would be the
+signal of march for <placeName>San Felipe de Austin</placeName>."</p>
+
+<p>"<persName>Cos </persName>is about to pass on to <placeName>Bexar</placeName>. He has a <persName>guard of thirty men</persName> with
+him, and the <persName><placeName>Morelos </placeName>battalion</persName> of <persName>lancers </persName>is close at his heels. <persName>Cos </persName>has<pb n="152"/>
+about $60,000 in specie, for the purpose of paying off the <persName>troops</persName>. He 
+informed the <persName>Alcalde of the <placeName>Nueces</placeName></persName>, that he intended to overrun <placeName>Texas</placeName>, and
+establish <placeName>custom-houses</placeName> and <persName>detachments of his army</persName> where he thought fit."</p>
+
+<p>A letter from <persName>Bexar </persName>says, "the <persName>people </persName>must either submit, or prepare for
+defence; as the intention is to march into the <placeName>colonies</placeName>, and regulate the
+land affairs, and a great many things, by <persName>military force</persName>; also, to clear the
+<placeName>country </placeName>of what they choose to call <persName>vagrants</persName>, etc."</p>
+
+<p>Information which is relied on, has been received from the <placeName>interior</placeName>, that
+the states of <placeName>Zacatecas </placeName>and <placeName>Guadalaxara </placeName>have risen and taken up arms in
+defence of the Constitution of <date n="xx-xx-1824">1824</date>, and in support of the federal system;
+also, that there are insurrections in the state of <placeName>Tamaulipas</placeName>, in favor of
+the same cause; also, that the <persName>republican general, Juan Alvarez</persName>, has gained
+a victory over the <persName>government troops</persName> in the <placeName>south of Mexico</placeName>.</p>
+
+<p>All these, and all the <persName>freemen of <placeName>Mexico</placeName></persName>, are now fighting for the same
+cause that the <persName>people of <placeName>Texas</placeName></persName> are defending. It is the cause of freedom&#8212;
+it is holy and just, and must triumph.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

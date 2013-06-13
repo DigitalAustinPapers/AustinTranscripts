@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4916">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Josiah H Bell to Stephen F Austin, 10-06-1835</title>
+            <author>
+                <persName>Josiah H Bell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-25">03-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 161-162
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-06">10-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Fears invasion by sea in which case coast would be defenseless and exposed to slave insurrection</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia </placeName><date when="1835-10-06">Oct 6th 1835</date></p>
+
+<p>Dear Sir</p>
+
+<p>We heare nothing that we Can rely on relative to the <persName>Expedition </persName>against
+<placeName>St Antonia</placeName> and feel very anxious on that affair&#8212;it is rumored here that
+they have had an engagement at <placeName>Gonzallas </placeName>and that <persName>Cos </persName>is in <placeName>St Antona
+</placeName>with a large <persName>force </persName>all of which we know nothing as to the facts it is also
+rumered that they are perparing a decent <placeName>on the mouth of this river</placeName> by
+watter with a forse of <persName>2000 men</persName> all of which is only rumer&#8212;should that
+be the Case is not the <placeName>Co[a]st Country</placeName> in a defenseless situation as it is left
+bearer of men than any other part of the Country and intirely destitute
+of <persName>armes</persName>&#8212;if you know any thing of the true state of things do let us
+know as spedly as possible should we have an attact by watter with our
+<persName>Slave popalation</persName> among us as it is would we not be much Exposed would
+it be prudent for any more men to leave the <placeName>lower Country</placeName> in the present<pb n="162"/>
+state of things or not&#8212; do inform us of Everything you Can by Every
+opertunity we wish to do for the best in all cases and is only at a loss to
+know what is best do not omit any oportunity of righting and if any thing
+occurs send an <persName>Express </persName>let us know how many men is out and what is the
+proble amt of the <persName>Enemy</persName>&#8212;and all other things Connected with our intrust.
+Myself and <persName>famaly </persName>are some better in health than when you last heard
+from us&#8212;</p>
+
+<p><persName>J. H. Bell</persName></p>
+<p>[Addressed:] <persName>Col. Stephen F. Austin </persName>or <persName>P. W. Grayson</persName> <placeName>St Filepe</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

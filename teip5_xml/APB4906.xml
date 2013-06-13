@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4906">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James Kerr and John Alley, 10-03-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-24">03-24-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Kerr 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        John Alley
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 152-153
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-03">10-03-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-24" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Volunteers concentrating at Gonzales. Some still refuse to believe that Cos is in Texas. Plans for campaign</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1835-10-03">Oct. 3. 1835</date></p>
+
+<p>I have this moment recd your letters dated <date when="1835-10-01">1st instant</date>&#8212;</p>
+
+<p>The communications which were taken <date when="1835-10-02">yesterday </date>by <persName>Mr Lightfoot</persName>, and
+today by <persName>Mr Perkins</persName>, will have informed you fully of the attack made on
+<placeName>Gonzales</placeName>, and that <persName>voluntiers </persName>from <placeName>every part of this country</placeName> have marched
+and are marching to <placeName>that point</placeName>, which is at present the <placeName>general rendezvous
+of the <persName><hi rend="italic">army of the people</hi></persName></placeName>&#8212; <persName>Expresses </persName>have been sent to <placeName>Trinity </placeName>and to
+<placeName>Nacogdoches</placeName>, and a <persName>large force</persName> is expected from <placeName>that quarter</placeName>&#8212;</p>
+
+<p>The campaign is opened, and it must not be closed untill <placeName>Bexar </placeName>is taken
+and all the <persName>military </persName>are driven out of <placeName>Texas</placeName>.</p>
+
+<p>A report reached here that the <persName>voluntiers from <placeName>Colombia</placeName></persName> who were to
+rendezvous at <placeName><persName>Kerr</persName>s</placeName> had been turned back, in consequence of news received
+by them from <placeName>Matagorda</placeName>&#8212;in consequence of which I dispatched an 
+<persName>express </persName>to <placeName>Colombia </placeName>on receipt of the news of the attack on <placeName>Gonzales</placeName>&#8212; I also
+dispatched the same to <placeName>Matagorda</placeName>, and <date when="1835-10-02">yesterday </date>to <placeName>La Baca.</placeName></p>
+
+<p>Correct information, as to <persName>Cos</persName>'s movements, and concert between 
+<placeName>Gonzales </placeName>and <placeName>La Baca</placeName> is very important&#8212; It is possible that <persName>Cos </persName>may attempt
+a forced march to <placeName>this place</placeName> from <placeName>Goliad</placeName>, in the absence of the<persName> men at
+<placeName>Gonzales</placeName></persName>.</p>
+
+<p>It would be well to keep this idea in view and to obtain certain 
+information, when he left <placeName>Goliad</placeName>, and where the <persName><placeName>Morelos </placeName>Battalion</persName> have stopped&#8212;
+whether they went on to <placeName>Bexar</placeName>, or have remained at <placeName>Goliad</placeName>&#8212; I expect the<pb n="153"/>
+<persName>men from <placeName>Harrisburg</placeName></persName> will be on by <date when="1835-10-04">to-morrow</date> or <date when="1835-10-05">next day </date>to <placeName>this place</placeName>,
+and unless otherwise advised they will continue on to <placeName>Gonzales</placeName></p>
+
+<p>I regret that there are no Guns to be had in <placeName>this quarter</placeName> for the supply of
+<persName>Capt. Aliens company</persName>. There is public powder at <placeName>Matagorda </placeName>which you
+can get by applying for in my name to the <persName>committee of that place</persName>, as they
+informed me they would hold it subject to my order.</p>
+
+<p>I shall dispatch <persName>expresses </persName>with the information contained in your letters,
+to <placeName>every part of the upper and eastern country</placeName>. I presume you have of
+course informed them in <placeName>Matagorda </placeName>and <placeName>Bay Prairie</placeName> from which it will go
+to <placeName>Colombia</placeName>.</p>
+
+<p>There are some who <hi rend="italic">will not yet believe</hi> that <persName>Genl. Cos</persName> has come on&#8212;
+send all the <hi rend="italic">positive </hi>information you can on this subject in a letter signed
+by <persName>James Kerr</persName>, <persName>John Alley</persName>, <persName>George Sutherland</persName>, or some others who are
+well known, in order that it may be printed with the signatures&#8212;
+The <placeName>printing press</placeName> will be ready to print in this place <date when="1835-10-04">to-morrow&#8212;</date>you
+can therefore send me what you wish to have published&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+<p>To <persName>James Kerr</persName> and <persName>John Alley</persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

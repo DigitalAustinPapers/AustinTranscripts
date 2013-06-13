@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4929">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Members of Consultation, 10-10-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-25">03-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Members of Consultation
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Gonzales, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 168-169
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-10">10-10-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Transmitting resolutions of the army asking that meeting of the consultation be delayed until November 1. </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Gonzales</placeName>.<date when="1835-10-10"> October 10th 1835</date>.</p>
+
+<p>I herewith enclose you the resolutions adopted by the <persName>members elect of
+the General Consultation</persName> and of the <persName>officers of the army<hi rend="italic"> of the people</hi></persName> now
+at <placeName>this place</placeName>, by which the<persName> members of the consultation</persName> who meet on the
+<date when="1835-10-18">18th</date> [15th] will be informed of the wishes of <persName>those who are with the army</persName>
+and also of the <persName>officers</persName>. The recommendations contained in the resolutions
+were adopted after the most mature discussion with but <hi rend="italic">one </hi>dissenting
+voice.<pb n="168"/></p>
+
+<p>It is expected that a definitive organization of the <persName>army </persName>will take place
+<date when="1835-10-10">today </date>and that the line of March will be taken up <date when="1835-10-11">tomorrow </date>for <placeName>Bexar</placeName>.</p>
+
+<p><persName>S. F. Austin</p>
+
+<p>Chairman of meeting</persName></p>
+
+<p>To the <persName>members of the General Consultation</persName> who meet on the <date when="1835-10-15">15 Instant</date>.</p>
+
+<p>[Resolutions]</p>
+
+<p>Resolved That the <persName>chairman of this meeting</persName> be instructed to address the
+<persName>members of the consultation</persName>, requesting all of them who <hi rend="italic">can </hi>to repair to
+the <persName>Camp of the Volunteers</persName> armed and equipped for battle and when so
+assembled if war is necessary to aid in fighting the battles of the <placeName>country</placeName>&#8212;
+but if their services can be spared from the field to determine on holding
+the <persName>Consultation </persName>at such time and place as the <persName>majority of the members
+</persName>may agree upon.</p>
+
+<p>Resolved, That if <persName>any portion of the members of the convention</persName> meet at
+the time and place appointed and find it impracticable to repair to the
+<placeName>camp </placeName>as invited in the foregoing resolution that they be requested even if
+they amount to a quo[r]um to adjourn from day to day and suspend all
+action until the <date when="1835-11-01">1st November</date></p>
+
+<p>Adopted&#8212;<date when="1835-10-10">October 10. 1835</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
