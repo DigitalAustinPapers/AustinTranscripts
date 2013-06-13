@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4319">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mary Austin Holley, 01-30-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mary Austin Holley
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 745
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-01-30">01-30-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing José Maria Carbajal. Mexicans of Bexar uniformly friendly to Austin.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1832-01-30">Jan: 30,1832</date></p>
+<p>As you will be entertained by hearing all you can of our <placeName>Texas </placeName>I
+will give a short note to my friend <persName>Jose Carbajal</persName> who has promised
+to deliver it in person. He is a <persName>native Mexican,</persName> was born at <placeName>Bexar</placeName>
+where his <persName>Mother </persName>and <persName>family </persName>live. In <date n="xx-xx-1823">1823</date> he went to <placeName>Lexington, K,</placeName>
+with <persName>Mr Littlebury Hawkins</persName>, and was educated by <persName>Mr. Campbel
+of <placeName>Bethany, Virginia</placeName></persName>, near <placeName>Wheeling</placeName>. He is a sprightly, intelligent
+youth, and his principles are very sound and honorable. His own
+<persName>countrymen </persName>call him a <persName>Norte Americano</persName>. The <persName>people of <placeName>Bexar</placeName></persName> are
+pretty unanimously my <persName>friends</persName>, and the friends of all the <persName>Colonists
+of <placeName>Texas</placeName></persName>. <persName>Carbajal </persName>is rather enthusiastic, the fault of youth, but
+you can get some information from him that may amuse you.</p>
+
+<p>There is nothing new since you left of much importance except a
+report that <persName>Gen. Teran</persName> is to be on in <date n="03-xx-1832">March </date>with <persName>3000 men</persName> to fit out
+a campaign against the <persName>Comanche Indians</persName>. So says rumour, but I
+place little confidence in it, for that number of <persName>troops </persName>could not be
+collected so soon.</p>
+<p>I leave for <placeName>Saltillo </placeName>in <date when="1832-02-05">fifteen days</date>.   My health is so so.</p>
+
+<p><persName>Estevan</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
