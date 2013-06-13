@@ -3,13 +3,13 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
 xml:lang="EN"
-xml:id="APB3107">
+xml:id="APB3109">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Horatio Chriesman to Stephen F. Austin, 11-13-1826</title>
+            <title>Henry W. Munson to Stephen F. Austin, 11-15-1826</title>
             <author>
-                <persName>Horatio Chriesman</persName>
+                <persName>Henry W. Munson</persName>
             </author>
             <respStmt xml:id="AJT">
                 <resp>Project Director and Editor</resp> 
@@ -41,14 +41,14 @@ xml:id="APB3107">
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName type="origin">Unknown</placeName>
+                    <placeName type="origin">Atascosito District, Texas</placeName>
                 </place>
                 <place>
                     <placeName type="destination">Unknown</placeName>
                 </place>
             </listPlace>
             <bibl>
-                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1503-1504
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1504-1505
             </bibl>
         </sourceDesc>
     </fileDesc>
@@ -69,7 +69,7 @@ xml:id="APB3107">
             <purpose type="inform"/>
         </textDesc>
         <creation>
-            <date when="1826-11-13">11-13-1826</date>
+            <date when="1826-11-15">11-15-1826</date>
         </creation>
     </profileDesc>
     <revisionDesc>
@@ -81,26 +81,28 @@ xml:id="APB3107">
 <text>
     <body>
         <div1 type="summary">
-            <p><add hand="#barker">Delay in surveying due to sickness.</add></p>
+            <p><add hand="#barker">Describing boundaries of Atascosito district.</add></p>
         </div1>
         <div1 type="body">
             
 
-<p>Dear sir</p>
+<p>The <placeName>Atascosito District</placeName> is bounded as follows viz. <placeName>On the west
+by the Colony of San Felipe de Austin</placeName> <placeName>on the north by the District
+of Nacogdoches</placeName>,<placeName> on the east by the reserved lands on the Sabine</placeName>,
+<placeName>on the south by the Gulf of Mexico including all Islands and Bays
+within three leagues of Sea Shore</placeName></p>
 
-<p>I am sorry to inform you that it is out of my power to start <placeName>below</placeName>
-as soon as I expected Owing to the ill health of my <persName>Family</persName> my <persName>Wife</persName>
-and <persName>children</persName> are all unwell but not so much so as <persName>Miss Hope</persName>   she
-was taken with the influenza on <date when="1826-11-11">Saturday</date> night and has been very bad<pb n="1504"/>
-she appears better this <date when="1826-11-13">morning </date>I hope I shall be able to get of in
-three or four days if you cannot wait that long please inform me
-by the <persName>Doctr</persName> the <persName>Bearer </persName>hereof whar I shall meet you I expect I can
-meet you on <date when="1826-11-20">monday</date> next if no unforeseen accident takes place if
-you should leave before me I wish you to take all the papers relative
-to your Business&#8212;I remain yours with respect</p>
+<p>To <persName>Col. Stephen F. Austin</persName></p>
 
-<p><persName>Hor. Chriesman</persName>    [Rubric]</p>
-<p><persName>Col. Stephen F. Austin</persName>, <date when="1826-11-13">Nov. 13. 1826</date></p>
+<p>Sir Above is stated the limits of the <placeName>Atascosito District</placeName> as it
+was agreed on at the meeting of the <persName>inhabitants </persName>here and as we
+suppose ought now to stand since the<placeName> 20 leagues on the Sabine</placeName> here<pb n="1505"/>
+tofore reserved has been constituted a <placeName>Colony</placeName>&#8212;if there be any error
+or defect in defining the limits you will alter or supply it in the
+translation&#8212;</p>
+<p><placeName>Atascosito District</placeName> <date when="1826-11-15">Nov. 15th 1826</date></p>
+
+<p><persName>Henry W. Munson</persName></p>
 
         </div1>
     </body>
