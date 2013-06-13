@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4017">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Elias R Wightman, 08-28-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-26">08-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Elias R Wightman
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 474
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-08-28">08-28-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for surveying</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe </placeName><date when="1830-08-28">August 28, 1830</date></p>
+<p><persName>Mr. E. R. Wigh[t]man</persName></p>
+
+<p>Dr Sir. <persName>Mr Seth Ingram</persName> is interested in a <placeName>league </placeName>which is to be
+laid off <placeName>back of his brothers league</placeName>, or in case of a vacancy <placeName>below
+the tracts that are taken on the west side of Prairie Creek</placeName></p>
+
+<p>You must use your own discretion and exercise your own 
+judgement in laying off these, and all the tracts in that <placeName>quarter</placeName>, as I wrote
+you the other day&#8212; the main object is not to leave <placeName>vacancies</placeName>, and
+also to run the tracts so as to make them as nearly equal as possible
+in point of local advantages&#8212;.</p>
+
+<p><persName>Mr Nelson</persName> writes me that his location was on the <placeName>East side of
+Prairie Creek and not on the west side</placeName>&#8212; I understood you that his
+selection was on the <placeName>west</placeName>&#8212; but if a mistake has been made you can
+rectify it, for it is quite immaterial which side <persName>Nelson </persName>takes his
+land&#8212; you will however be particular to try and make <persName>Fisher</persName>s a
+good league, which is <placeName>the first one below <persName>Peyton </persName>on the East side of
+Prairie Creek</placeName>, as I wrote you in my last&#8212;</p>
+
+<p>My Dear Sir I must rely entirely on you to do as near equal justice
+to all as possible, for it is impossible for me to say how the tracts
+ought to run, because this will depend on the shape of the <placeName>Bay Shore</placeName>
+and the direction of the <placeName>creeks</placeName>, which can only be asertained by
+actual measurement</p>
+
+<p><persName>S. F. Austin </persName>  [Rubric]</p>
+
+<p>A <persName>Mexican </persName>who lives at <placeName>Buckners </placeName>is to have a quarter on <placeName>Cany</placeName>
+after the quarters for <persName>Maria</persName>, and your <persName>sister</persName>, are taken out&#8212; See
+<persName>Buckner </persName>on the subject&#8212;so as to have it all fully understood.</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+<p>Dr Sir</p>
+
+<p><persName>Mr. Jaques</persName> goes down to attend to the surveying of his tract-
+he is to get <placeName>the first tract west of Prarie creek below <persName>Peyton</persName></placeName> as I
+wrote you the other day&#8212;¦ <persName>Mr. Nelson</persName> wrote me that his choice was
+on <placeName>the east side below <persName>Fisher</persName>s&#8212;</placeName> I am particularly anxious that
+<persName>Jaques </persName>and<placeName> <persName>Fisher</persName>s tracts</placeName> should be laid off to the best advantage</p>
+
+<p><persName>S F Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

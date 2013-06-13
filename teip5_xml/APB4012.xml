@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4012">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>S Rhoads Fisher to Stephen F Austin, 08-23-1830</title>
+            <author>
+                <persName>S Rhoads Fisher</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-26">08-26-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Northumberland, Pennsylvania</placeName>
+                </place>
+                <place>
+                    <placeName type="destination"></placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 469-471
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-08-23">08-23-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Does not agree with Austin's desire to exclude slavery from Texas. The Province must draw its population from the South. Southern men will follow sugar and cotton planting, which demands slaves. Suggests free admission of slaves for five years, then rigid exclusion</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Northumberland [Pennsylvania]</placeName> <date n="008-23-1830">August 23. 1830</date></p>
+<p><persName>Colonel S. F. Austin</persName></p>
+
+<p>My Dear Sir I again address you in consequence of having 
+received yours of <date when="1830-06-17">17th June</date>, tho, my opinion on its leading subject
+has been anticipated in mine of <date when="1830-08-14">14</date> and <date when="1830-08-23">20th Insts</date>: I mean Slavery,
+that you were in favour of a <persName>free population</persName> is no surprise to me,
+believing that every reflecting man of equal intelligence must be so;
+but I was not prepared to learn that your determination was so
+decided as you have expressed it at the <hi rend="italic">present juncture</hi>&#8212; I 
+conceive <persName>each member of our little <placeName>democracy</placeName></persName>, however inconspicuous
+his standing, has an unquestionable right to a free expression of
+opinion, in whatever relates to the policy of the <placeName>State</placeName>, and much
+more of the <placeName>colony</placeName>: under this view then, I feel no hesitation in 
+saying that I believe the Interests of the <placeName>Colony </placeName>will be essentially 
+injured, should the course of policy,&#8212;the non admission of <persName>slaves</persName>-
+mentioned in yours of <date when="1830-06-17">17th: June</date> be adopted&#8212; Most of your
+<persName>Colonists </persName>are from <placeName>Slave-holding States&#8212;</placeName>they have enrolled 
+themselves in your register under the firm conviction that slavery would
+be tolerated, and that they would be secure in the ownership of
+those brought by them &#8212;-Many others have made arrangements
+with you to remove, and with an express understanding that they
+could safely bring their <persName>negroes </persName>with them.</p>
+
+<p>From your approximity to the <placeName>Southern States</placeName>, and from the
+favorable feeling already pervading her <persName>citizens</persName>, <placeName>Texas </placeName>may fairly
+anticipate a <persName>population </persName>from that <placeName>quarter</placeName>, more speedy and more
+numerous than from the <placeName>northern </placeName>and <placeName>Eastern</placeName>, and this I conceive
+is at present all important: added to which, do you believe that cane
+and cotton can be grown to advantage by a sparce <persName>white population</persName>?<pb n="470"/>
+or are the <placeName>whole cane and cotton growing districts </placeName>of your delightful
+<placeName>country </placeName>to still remain a <placeName>wilderness </placeName>of flowers&#8212;a waste of richness ?
+It is impossible! <persName>Men </persName>remove from their <placeName>Homes </placeName>to better their 
+situations, they submit to deprivations and encounter difficulties for the
+accumulation of wealth; and they will pursue that course of conduct
+which they believe will the soonest and the most certainly put them in
+possession of it&#8212; they will raise cane and cotton in preference to
+wheat and oats, when they live in a country peculiarly calculated
+for it, and as they cannot raise these staples without <persName>slave </persName>labour,
+they will raise them with it&#8212; there is no <placeName>country </placeName>in the <placeName>world</placeName>
+where these articles are grown unless by the assistance of <persName>Slaves</persName>,
+or where the population is so dense or so abject as to always place at
+the option of the <persName>proprietor </persName>any force commensurate to his wants&#8212;
+on this half of the continent thank God I the latter cannot be the
+case for centuries; therefore we must either abandon the finest portion
+of <placeName>Texas </placeName>to its original uselessness or submit to the acknowledged, but
+lesser evil of Slavery&#8212; In mine of <date when="1830-08-14">14th Inst</date> without being made
+acquainted with your views, I stated as my opinion the expediency
+of <placeName>Texas </placeName>allowing the free admission of <persName>Slaves </persName>for -<hi rend="italic">five </hi>years: this
+is a short period of time, but of sufficient length to enable a <persName>Southern
+emigration</persName> to introduce as many as would supply the <hi rend="italic">actual </hi>wants
+of the <placeName>colony</placeName>&#8212; let the law of permission be then repealed and one
+substituted, making their introduction under any pretense <hi rend="italic">highly
+penal&#8212;</hi> as soon as this is the case an emigration will rapidly 
+commence from the <placeName>South</placeName>, and their time having expired, the <persName>Eastern
+people</persName> will in their turn view <placeName>Texas </placeName>as their <placeName>Home</placeName>&#8212; the very 
+circumstance of it being measurably settled by <hi rend="italic"><persName>Southerners </persName></hi>which in
+their opinions is synonimous with <hi rend="italic">wealth </hi>will act as a strong 
+inducement to their coming in among us&#8212; these men will naturally seek
+the <placeName>grain-growing districts</placeName>, while those from the <placeName>South </placeName>will as 
+certainly settle where they can raise sugar and cotten&#8212;or suppose a
+line should be drawn&#8212;say the <placeName>Opelousas road to San Felipe, thence to
+Bejar</placeName>&#8212; thence, following the <placeName>Leona Vicario road till it strikes the
+river Nueces</placeName> thence <placeName>following its course to the Mouth</placeName>&#8212; let the
+<placeName>district of country lying between this Cordon and the gulf</placeName> be 
+appropriated to <persName>Slaves</persName>, and the other side be exempted from them&#8212;
+all <persName>parties </persName>would thus be suited, and each peculiar soil be brought
+into requisition&#8212; But it is not now necessary to discuss the subject
+at length; it is one of deep and serious interest, and should be
+viewed with great deliberation, and without prejudice&#8212; were we
+exclusively a <placeName>grain-growing State</placeName>, I should most strenuously 
+cooperate with you in support of the non-<persName>slave </persName>holding principle;
+as it is&#8212;I must see you before I decide&#8212;<pb n="471"/></p>
+
+<p>Allow me to thank you for the passports; and here I will mention
+a thing which may be all important to me&#8212;I may probably come out
+in a vessel drawing full <hi rend="italic">twelve </hi>feet, having understood there was
+always at least that water at <placeName>Paso Cavallo</placeName>, and sometimes more, and
+that with this dft. one may readily go up to "<placeName> Dog Island</placeName> " even 
+without a <persName>pilot</persName>: should my information be incorrect you will greatly
+oblige me by employing<persName> Mr. Tone</persName> or some one equally qualified to
+keep a look out from the <date when="1830-10-20">20 October&#8212;</date>and board any vessel which
+may be standing for the Pass:</p>
+
+<p><persName>S Rhoads Fisher</persName>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

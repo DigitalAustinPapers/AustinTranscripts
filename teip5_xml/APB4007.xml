@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4007">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>S Rhoads Fisher to Stephen F Austin, 08-20-1830</title>
+            <author>
+                <persName>S Rhoads Fisher</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-25">08-25-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Northumberland, Pennsylvania</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas via New Orleans</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 465-466
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-08-20">08-20-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting speculation in Texas lands.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Northumberland</placeName> <date when="1830-08-20">August 20th 1830</date></p>
+<p>My Dear Sir,</p>
+
+<p>Under date of <date when="1830-08-14">14th Inst</date>: I had this pleasure at length: and 
+conceiving it right you should know whatever relates to <placeName>Texas</placeName>, I with
+pleasure communicate to you such information as comes under my<pb n="466"/>
+notice&#8212; Since last writing you, I have met a <persName>french gentleman</persName> of
+the name of <persName>Sorbe</persName>, who has a <placeName>House </placeName>at <placeName>tampico</placeName>&#8212; for <date n="xx-xx-1830">two years</date>
+past he has been principally in the <placeName>Interior</placeName>, and I think has a
+tollerably correct knowledge of the <placeName>country</placeName>-&#8212;he tells me the <persName>Barings</persName>
+have made a very extensive purchase of land from the<persName> count of&#8212;&#8212;-
+</persName>his name I forget, who is now in <placeName>Italy</placeName>, they gave for it three millions
+of Dollars, and that it is (if I am not mistaken) equal in extent to
+<placeName>150 leagues square, it comes close to Saltillo, and embraces Parras,</placeName>
+he says the purchase includes a number of <placeName>villages</placeName>, thó the precise
+<placeName>boundaries </placeName>he could not give me&#8212; they are settling it fast growing
+cotton, and are about erecting a <placeName>cotton manufactory</placeName>&#8212;a gentleman of
+the name of <persName>Sterrett </persName>(I think) is their <persName>agent</persName>&#8212;I thought none but
+<persName>Mexican Citizens</persName> could hold land in <placeName>Texas</placeName>!&#8212;</p>
+
+<p>When I see you I shall want particular information relative to
+<placeName><persName>Exeter</persName>s grant</placeName>, as I wish to set aright a <persName>gentleman of very 
+conspicuous standing in<placeName> S. Carolina,</placeName></persName> who writes " I have received much
+information about <placeName>Texas</placeName>, I hold some shares in the<persName>Coahuila, and
+Texas company </persName>of which<persName> Dennis A. Smith of <placeName>Baltimore </placeName></persName>is the <persName>agent</persName>,
+I dined a short time ago with <persName>Mr. Poinsett</persName> who says the <placeName>grant </placeName>is
+regular and valid&#8212;" either this <persName>gentleman </persName>is very much misled, or I
+am, but how is [it] possible <persName>Mr. Poinsett</persName> can be mistaken ?</p>
+
+<p>The <persName>owners of this <placeName>grant </placeName></persName>of course want to make a speculation of
+it&#8212;honestly if they can etc.&#8212;but under any circumstances is it not
+our policy to let them take their own road; for each <placeName>grant </placeName>they (that
+is <persName>Wilson and others</persName>) make, or each tract they sell, excites precisely
+so much Interest in the minds of the <persName>people of the <placeName>U. States</placeName></persName>, in
+favour of <placeName>Texas</placeName>&#8212;</p>
+
+<p>In my last letter I acknowledged receipt of yours of <date when="1830-07-04">4 July,</date> and
+mentioned that I should be at <placeName>Matagorda </placeName>with my <persName>family </persName>the last
+of <date n="10-xx-1830">October </date>and hoped <persName>Ingram </persName>would have as promised, a <placeName>place of
+shelter</placeName>&#8212;in readiness</p>
+
+<p><persName>S. Rhoads&#8212;Fisher</persName></p>
+
+<p>[Addressed:] <persName>Colonel Stephen F. Austin</persName><placeName> Austin Texas</placeName> care
+of <persName>Gen: Wm. Robeson</persName>  <placeName> New Orleans</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
