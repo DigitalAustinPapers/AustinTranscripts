@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4866">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to People of Texas, 09-08-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        People of Texas
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Delivered at Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination"></placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 116-119
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Speech</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-08">09-08-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting conditions in Mexico, Santa Anna's determination to abolish the federal system, and necessity of convention in Texas to enable Texans to determine on their attitude toward the change.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>speech of colonel austin</p>
+
+<p><hi rend="italic">Delivered on the <date when="1835-09-08">8th of September, 1835</date>, at a public dinner in <placeName>Brazoria</placeName>,
+given in honor of his return to <placeName>Texas</placeName></hi>.</p>
+
+<p>I cannot refrain from returning my unfeigned thanks for the flattering
+sentiments with which I have just been honored, nor have I words to express
+my satisfaction on returning to this my more than <placeName>native country</placeName>, and
+meeting so many of my <persName>friends </persName>and <persName>companions </persName>in its settlement.</p>
+
+<p>I left <placeName>Texas </placeName>in <date n="04-xx-1833">April, 1833</date>, as the <persName>public agent of the people</persName>, for the
+purpose of applying for the admission of this <placeName>country </placeName>into the <placeName>Mexican
+confederation</placeName> as a state separate from <placeName>Coahuila</placeName>. This application was
+based upon the constitutional and vested rights of <placeName>Texas</placeName>, and was sustained
+by me in the <placeName>city of Mexico</placeName> to the utmost of my abilities. No honorable
+means were spared to effect the objects of my mission and to oppose the
+forming of <placeName>Texas </placeName>into a <placeName>territory</placeName>, which was attempted. I rigidly adhered
+to the instructions and wishes of my <persName>constituents</persName>, so far as they were 
+communicated to me. My efforts to serve <placeName>Texas </placeName>involved me in the labyrinth
+of Mexican politics. I was arrested, and have suffered a long persecution
+and imprisonment. I consider it my duty to give an account of these events
+to my <persName>constituents</persName>, and will therefore at this time merely observe that
+I have never, in any manner, agreed to any thing, or admitted any thing,
+that would compromise the constitutional or vested rights of <placeName>Texas</placeName>. These
+rights belong to the <persName>people</persName>, and can only be surrendered by them.</p>
+
+<p>I fully hoped to have found <placeName>Texas </placeName>at peace and in tranquility, but regret
+to find it in commotion; all disorganized, all in anarchy, and threatened
+with immediate hostilities. This state of things is deeply to be lamented;
+it is a great misfortune, but it is one which has not been produced by any
+acts of the <persName>people of this <placeName>country</placeName></persName>: on the contrary, it is the natural and<pb n="117"/>
+inevitable consequence of the revolution that has spread all over <placeName>Mexico</placeName>,
+and of the imprudent and impolitic measures of both the <persName>general and state
+governments</persName>, with respect to <placeName>Texas</placeName>. The <persName>people </persName>here are not to blame, and
+cannot be justly censured. They are <persName>farmers</persName>, cultivators of the soil, and
+are pacific from interest, from occupation, and from inclination. They
+have uniformly endeavored to sustain the constitution and the public peace
+by pacific means, and have never deviated from their duty as <persName>Mexican 
+citizens</persName>. If any acts of imprudence have been committed by <persName>individuals</persName>, they
+evidently resulted from the revolutionary state of the whole <placeName>nation</placeName>, the
+imprudent and censurable conduct of the <persName>state authorities</persName>, and the total
+want of a <persName>local government in <placeName>Texas</placeName></persName>. It is, indeed, a source of surprise and
+creditable congratulation, that so few acts of this description have occurred
+under the peculiar circumstances of the times. It is, however, to be 
+remembered that acts of this nature were not the acts of the people, nor is
+<placeName>Texas </placeName>responsible for them. They were, as I before observed, the natural
+consequences of the revolutionary state of the <placeName>Mexican nation</placeName>; and <placeName>Texas</placeName>
+certainly did not originate the revolution, neither have the <persName>people</persName>, as a
+people, participated in it. The consciences and hands of the <persName>Texians </persName>are
+free from censure, and clean.</p>
+
+<p>The revolution in <placeName>Mexico </placeName>is drawing to a close. The object is to change
+the form of government, destroy the federal constitution of <date n="xx-xx-1824">1824</date>, and
+establish a <persName>central or consolidated government</persName>. The <placeName>states </placeName>are to be 
+converted into <placeName>provinces</placeName>.</p>
+
+<p>Whether the <persName>people of <placeName>Texas</placeName></persName> ought or ought not to agree to this change,
+and relinquish all or a part of their constitutional and vested rights under
+the constitution of <date n="xx-xx-1824">1824</date>, is a question of the most vital importance; one
+that calls for the deliberate consideration of the people, and can only be
+decided by them, fairly convened for the purpose. As a <persName>citizen of <placeName>Texas</placeName></persName>
+I have no other right, and pretend to no other. In the report which I
+consider it my duty to make to my constituents, I intend to give my views
+on the present situation of the country, and especially as to the 
+constitutional and natural rights of <placeName>Texas</placeName>, and will, therefore, at this time, merely
+touch this subject.</p>
+
+<p>Under the <persName>Spanish government</persName>, <placeName>Texas </placeName>was a separate and distinct local
+organization. It was one of the <placeName>unities </placeName>that composed the general mass of
+the <placeName>nation</placeName>, and as such participated in the war of the revolution, and
+was represented in the constituent congress of <placeName>Mexico</placeName>, that formed the
+constitution of <date n="xx-xx-1824">1824</date>. This constituent congress, so far from destroying
+this unity, expressly recognized and confirmed it by the law of <date when="1824-05-07">May 7th
+1824</date>, which united <placeName>Texas </placeName>with <placeName>Coahuila </placeName><hi rend="italic">provisionally</hi>, under the especial
+guarantee of being made a <placeName>state of the Mexican confederation</placeName>, as soon as
+it possessed the necessary elements. That law and the federal constitution
+gave to <placeName>Texas </placeName>a specific political existence, and vested in its <persName>inhabitants</persName><pb n="118"/>
+special and defined rights, which can only be relinquished by the <persName>people
+of <placeName>Texas</placeName></persName>, acting for themselves as a <placeName>unity</placeName>, and not as a part of <placeName>Coahuila</placeName>,
+for the reason that the union with <placeName>Coahuila</placeName>, was <hi rend="italic">limited</hi>, and only gave
+power to the <placeName>state of Coahuila and Texas</placeName> to govern <placeName>Texas </placeName>for the time
+being, but <hi rend="italic">always subject to the vested rights of <placeName>Texas</placeName></hi>. The <placeName>state</placeName>, 
+therefore, cannot relinquish those vested rights, by agreeing to the change of
+government, or by any other act, unless expressly authorized by the <persName>people
+of <placeName>Texas</placeName></persName> to do so; neither can the <persName>general government of <placeName>Mexico </placeName></persName>legally
+deprive <placeName>Texas </placeName>of them without the consent of this <persName>people</persName>. These are my
+opinions.</p>
+
+<p>An important question now presents itself to the <persName>people of this <placeName>country</placeName></persName>.
+The federal constitution of <date n="xx-xx-1824">1824 </date>is about to be destroyed, the system of
+government changed, and a central or consolidated one established. Will
+this act annihilate all the rights of <placeName>Texas</placeName>, and subject this <placeName>country </placeName>to the
+uncontrolled and unlimited dictation of the new government?</p>
+
+<p>This is a subject of the most vital importance. I have no doubts the
+federal constitution will be destroyed, and a <persName>central government</persName> established,
+and that the <persName>people </persName>will soon be called upon to say whether they agree to
+this change or not. This matter requires the most calm discussion, the
+most mature deliberation, and the most perfect union. How is this to be
+had? I see but one way, and that is by a general consultation of the people
+by means of <persName>delegates </persName>elected for that purpose, with full powers to give
+such an answer, in the name of <placeName>Texas</placeName>, to this question, as they may deem
+best, and to adopt such measures as the tranquility and salvation of the
+<placeName>country </placeName>may require.</p>
+
+<p>It is my duty to state that<persName> general Santa Anna</persName> verbally and expressly
+authorized me to say to the <persName>people of <placeName>Texas</placeName></persName>, that he was their <persName>friend</persName>, that
+he wished for their prosperity, and would do all he could to promote it;
+and that, in the new constitution, he would use his influence to give to the
+<persName>people of <placeName>Texas</placeName></persName> a special organization, suited to their education, habits,
+and situation. Several of the most <persName>intelligent and influential men in
+<placeName>Mexico</placeName></persName>, and especially the <persName>Ministers of Relations and War</persName>, expressed 
+themselves in the same manner. These declarations afford another and more
+urgent necessity for a general consultation of all <placeName>Texas</placeName>, in order to inform
+the <persName>general government</persName>, and especially <persName>general Santa Anna</persName>, what kind of
+organization will suit the education, habits, and situation of this people.</p>
+
+<p>It is also proper for me to state that, in all my conversation with the
+<persName>president </persName>and <persName>ministers </persName>and <persName>men of influence</persName>, I advised that no <persName>troops</persName>
+should be sent to <placeName>Texas</placeName>, and no cruisers<placeName> along the coast</placeName>. I gave it as my
+decided opinion, that the inevitable consequence of sending an <persName>armed force
+</persName>to this <placeName>country </placeName>would be war. I stated that there was a sound and correct
+moral principle in the <persName>people of <placeName>Texas</placeName></persName>, that was abundantly sufficient to
+restrain or put down all turbulent or seditious movements, but that this<pb n="119"/>
+moral principle could not, and would not unite with any <persName>armed force</persName> sent
+against this <placeName>country</placeName>; on the contrary, it would resist and repel it, and
+ought to do so. This point presents another strong reason why the <persName>people
+of <placeName>Texas</placeName></persName> should meet in general consultation. This <placeName>country </placeName>is now in
+anarchy, threatened with hostilities; armed vessels are capturing every thing
+they can catch<placeName> on the coast</placeName>, and acts of piracy are said to be committed
+under cover of the Mexican flag. Can this state of things exist without 
+precipitating the <placeName>country </placeName>into a war? I think it cannot, and therefore believe
+that it is our bounden and solemn duty as <persName>Mexicans</persName>, and as <persName>Texians</persName>, to
+represent the evils that are likely to result from this mistaken and most
+impolitic policy in the military movement.</p>
+
+<p>My <persName>friends</persName>, I can truly say that no one has been, or is now, more anxious
+than myself to keep trouble away from this <placeName>country</placeName>. No one has been, or
+now is more faithful to his duty as a <persName>Mexican citizen</persName>, and no one has 
+personally sacrificed or suffered more in the discharge of this duty. I have
+uniformly been opposed to have any thing to do with the family political
+quarrels of the <persName>Mexicans</persName>. <placeName>Texas </placeName>needs peace, and a <persName>local government</persName>: its
+<persName>inhabitants </persName>are <persName>farmers</persName>, and they need a calm and quiet life. But how can
+I, or any one, remain indifferent, when our rights, our all, appear to be
+in jeopardy, and when it is our duty, as well as our obligation as good
+<persName>Mexican citizens</persName>, to express our opinions on the present state of things,
+and to represent our situation to the government? It is impossible. The
+crisis is such as to bring it home to the judgment of every man that 
+something must be done, and that without delay. The question will perhaps
+be asked, what are we to do? I have already indicated my opinion. Let all
+personalities, or divisions, or excitements, or passion, or violence, be
+banished from among us. Let a general consultation of the <persName>people of
+<placeName>Texas</placeName></persName> be convened as speedily as posible, to be composed of the best,
+and most calm, and intelligent, and firm men in the <placeName>country</placeName>, and let them
+decide what representations ought to be made to the general government,
+and what ought to be done in future.</p>
+
+<p>With these explanatory remarks I will give a toast&#8212;<hi rend="italic">The constitutional
+rights and the security and peace of <placeName>Texas</placeName>&#8212;they ought to be maintained;
+and jeopardized as they now are they demand a general consultation of
+the <persName>people</persName>.</hi></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

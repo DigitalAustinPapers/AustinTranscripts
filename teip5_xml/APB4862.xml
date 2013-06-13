@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4862">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Benjamin F. Smith to Stephen F. Austin, 09-04-1835</title>
+            <author>
+                <persName>Benjamin F. Smith</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 112
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-04">09-04-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inviting Austin to a dinner commemorating his return</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir,</p>
+
+<p>The <persName>citizens of this town</persName> and its vicinity desirous of, Expressing to you
+their approbation of your public services and their respect for your private
+virtues have selected us to invite you to partake with them, a dinner on
+<date when="1835-09-08">Tuesday the 8 inst</date>, at, <placeName>Messrs <persName>Fitchett </persName>and <persName>Gill</persName></placeName>, in this town&#8212;</p>
+
+<p>We here avail ourselves of this opportunity to offer our hearty 
+congratulations, on your safe return among us</p>
+
+<p><placeName>Brazoria </placeName><date when="1835-09-04">Sept. 4th 1835</date></p>
+<p><persName>Benj. F. Smith</persName></p>
+<p><persName>Edmd Andrews</persName></p>
+<p><persName>John Wurts Cloud</persName></p>
+<p><persName>Robt J. Calder</persName></p>
+<p><persName>Col. Stephen F. Austin</persName>&#8212;</p>
+<p>[Addressed:] <persName>Col. S. F. Austin</persName> Present&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

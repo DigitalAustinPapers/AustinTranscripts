@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4865">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Inhabitants of Lavaca to Stephen F Austin, 09-08-1835</title>
+            <author>
+                <persName>Inhabitants of Lavaca</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 115-116
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-08">09-08-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Welcome on return from Mexico</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[September 8, 1835]</p>
+
+<p><persName>Col. Austin</persName>, Sir: I never saw you, or you me; but I have been 
+acquainted with your character for twelve years past. I take the liberty,<pb n="116"/>
+although unauthorized, in the name of the <placeName>Labacca </placeName>and <placeName>Navidad Precinct</placeName>,
+to welcome you once more to the soil, which, through your instrumentality
+you have procured for<persName> thousands of families</persName>, who otherwise could never
+have possessed a foot. To do this you have poineered an <placeName>uninhabited
+country</placeName>, suffering every privation; and when hope cast its dawning gleams
+upon the object of your labours and your cares, you have been made to
+suffer the cruelties of the envious and unrelenting <persName>Spaniard</persName>. You have
+raised a monument as imperishable as time;&#8212;and babes yet unborn will
+lisp the name of <persName>Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

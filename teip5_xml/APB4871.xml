@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4871">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, 09-13-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 122-124
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Resolutions on state of the country</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-09-13">09-13-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Resolutions on state of the country, endorsing consultation, and appointing committee of safety</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>meeting at <placeName>san felipe</placeName></p>
+
+<p>In pursuance of previous public notice, a large and highly respectable
+meeting of the <persName>citizens of the <placeName>Jurisdiction of Austin</placeName></persName>, convened at <placeName><persName>Johnson
+&amp; Winburn</persName>'s Tavern, in San Felipe</placeName>, on the <date when="1835-09-12">12th inst</date>., when <persName>Col. Stephen F.
+Austin</persName> was elected <persName>Chairman</persName>, and <persName>Patrick C. Jack</persName> appointed <persName>Secretary</persName>.
+The <persName>Chairman </persName>then explained the object of the meeting, and read several
+official communications from <persName>Col. Domingo de Ugartechea</persName>, and from <persName>Col.
+Martin Perfecto de Cos</persName>. He then at large expressed his views of the
+Political state of the <placeName>Republic of Mexico</placeName>, of the present situation of <placeName>Texas</placeName>,
+and of the course which its <persName>citizens </persName>should pursue under the pressing
+immergencies of the times, and concluded by earnestly urging the absolute
+necessity of a Consultation of all <placeName>Texas</placeName>, by means of <persName>delegates </persName>elected by
+the <persName>people</persName>.</p>
+
+<p>After which <persName>Capt. Randal Jones</persName> introduced the following resolutions,
+which upon motion of <persName>Capt. Wyly Martin</persName>, were read separately, and upon
+being submitted to the meeting, were unanimously adopted.</p>
+
+<p><hi rend="italic">Resolved</hi>, 1st- That we will support the constitution of the <placeName>Mexican
+Republic</placeName> of <date n="xx-xx-1824">1824</date>, to which we have solemnly obligated ourselves.</p>
+
+<p><hi rend="italic">Resolved</hi>, 2nd- That we recommend a consultation chosen by the <persName>people</persName>.</p>
+
+<p><hi rend="italic">Resolved</hi>, 3rd- That we recommend each <placeName>Jurisdiction </placeName>to elect <persName>five 
+members</persName> to meet in <placeName>San Felipe</placeName> on the <date when="1835-10-15">15th of October next</date>.</p>
+
+<p><hi rend="italic">Resolved</hi>, 4th- That a <persName>committee of vigilance and safety for the 
+<placeName>Jurisdiction of Austin</placeName></persName>, be appointed to order and superintend the election for
+<persName>delegates of this <placeName>Jurisdiction</placeName></persName>, and to correspond with the <persName>committees of
+the other <placeName>Jurisdictions</placeName></persName>.</p>
+
+<p><hi rend="italic">Resolved</hi>, 5th- That the <persName>Ayuntamiento of <placeName>Austin</placeName></persName> be requested to 
+correspond with those parts of <placeName>Texas </placeName>which may have addressed it on the subject
+of a consultation of <placeName>Texas</placeName>.</p>
+
+<p>In pursuance of the 4th resolution the meeting then proceeded to the
+election of <persName>members of the committee of Vigilance and Safety</persName>. 
+Whereupon <persName>Capt. Wiley Martin</persName>, <persName>Colonel William Pettus</persName>, <persName>Gail Borden, Jr.</persName>, John
+<persName>H. Money</persName>, <persName>Randal Jones</persName> and <persName>Stephen F. Austin</persName> were unanimously elected.</p>
+
+<p>Resolved, that the proceedings of this meeting be sent to the <placeName>press at
+Brazoria</placeName>, for publication, and to the other <placeName>Jurisdictions of Texas</placeName>.</p>
+
+<p>On motion,<persName> W. B. Travis, Esq</persName>. it was<pb n="123"/></p>
+
+<p>Resolved, That the thanks of this meeting be voted to the <persName>Chairman </persName>and
+and <persName>Secretary</persName>.</p>
+
+<p>And then the meeting adjourned.</p>
+
+<p><persName>S. F. Austin, Chairman</persName>.</p>
+
+<p><persName>Patrick C: Jack, </persName><hi rend="italic">Sect</hi></p>
+
+<p><placeName>Committee Room, San Felipe</placeName>, <date when="1835-09-13">Sept. 13th 1835</date>.</p>
+
+<p>The undersigned, a <persName>Committee of correspondence and vigilance</persName>, 
+appointed by a very large and general Meeting of the <persName>citizens of the 
+<placeName>Jurisdiction of Austin</placeName></persName>, convened at this place on the <date when="1835-09-12">12th ins.</date>, have the honor to
+transmit to you, in pursuance of the duties assigned them, a copy of the
+resolutions adopted by said meeting, in order that you will lay before the
+<persName>people of that <placeName>section of the country</placeName></persName>, and solicit their co-operation.</p>
+
+<p>This <persName>Committee </persName>deem it to be entirely unnecessary, to enter into a long
+statement of facts, to shew why a general consultation of all <placeName>Texas </placeName>is 
+indispensible, for the reason that the present crisis is so evident and alarming,,
+that no one appears to doubt it.</p>
+
+<p>This necessity seems to be so evident and pressing, that a <persName>general 
+consultation of <placeName>Texas</placeName></persName>, with full and unlimited power, to organize a local 
+Government, under the constitution of <date n="xx-xx-1824">1824</date>, has been advocated by many instead
+of a consultation. But is is considered that this is a step that cannot be
+safely adopted with any certainty of unanimity, by any <placeName>district </placeName>or 
+<placeName>Municipality</placeName>.</p>
+
+<p>Such a measure and the necessary rules and regulations for directing
+elections and apportioning the representation equally, according to the
+population, the place where, and the time when the <persName>Convention </persName>ought to
+meet, and other important details can only be determined by all <placeName>Texas</placeName>
+met in general Consultation. The measures which may be adopted by such
+<persName>General Consultation</persName> will carry with them the weight of being the <hi rend="italic">voice</hi>
+of all <placeName>Texas </placeName>instead of the <hi rend="italic">opinion </hi>of a few. They will be the result of
+calm discussion and of a full and mature deliberation and examination
+into the true situation of the <placeName>country</placeName>, and cannot fail to produce unanimity
+at home, respect and confidence <placeName>abroad</placeName>.</p>
+
+<p>This <persName>Committee </persName>deem it to be important that the just and legal rights of
+the <persName>civilized Indians</persName> should be protected, but not having any certain 
+information on this subject, they can only recommend it to your consideration.</p>
+
+<p>Some diversity of opinion has existed, as to the place where the 
+proposed consultation should meet. <placeName>This place</placeName> and <placeName>Washington </placeName>have been
+proposed. The meeting of <date when="1835-09-11">yesterday</date>, have preferred this place for the 
+reasons that there is a printing press here. The most important public records
+are here, and the <persName>principal political authority of this <placeName>department</placeName></persName> resides
+here. This question will of course be decided by the wishes of the 
+<persName>majority</persName>, for which reason, it is important that you will communicate to this,
+committee, what are the wishes of the <persName>people of that <placeName>section</placeName></persName>, on this point.<pb n="124"/></p>
+
+<p>This <persName>committee </persName>must beg of you to communicate without delay, with the
+<persName>People on <placeName>Red River</placeName></persName>, in <placeName>Pecan Point country</placeName>, and request them to send
+<persName>members </persName>to the proposed <persName>General Consultation</persName>. They are <persName>Texans</persName>, and their
+interests and rights are identified with those of all <placeName>Texas</placeName>.</p>
+
+<p>This <persName>committee </persName>in conclusion, recommend that the <persName>delegation from <placeName>each
+district</placeName></persName>, bring with them an exact census of the population, and return of
+the <persName>Militia from their <placeName>districts</placeName></persName>, to lay before the <persName>General Consultation</persName>.</p>
+
+<p>Very Respectfully,</p>
+
+<p>Your Fellow <persName>Citizens</persName>.</p>
+<p><persName>Wily Martin</persName>,</p>
+<p><persName>Wm. Pettus,</persName></p>
+<p><persName>Gale Borden, junr</persName></p>
+<p><persName>John H. Money,</persName></p>
+<p><persName>Randal Jones</persName>,</p>
+<p><persName>S. F. Austin</persName>.</p>
+<p>To the <persName>Committee of Safety and Correspondence, of <placeName>Columbia</placeName>.</persName></p>
+<p>A true copy</p>
+<p><persName>Patrick C. Jack,</persName> <hi rend="italic">Sect</hi></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

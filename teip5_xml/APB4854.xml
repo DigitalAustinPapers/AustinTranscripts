@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4854">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>D. C. Barrett to Citizens of Mina, 08-23-1835</title>
+            <author>
+                <persName>D. C. Barrett</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Citizens of Mina
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Antonio, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 105-107
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-08-23">08-23-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Political advice. Means of reconciliation with Mexico</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1835-08-23">August 23 1835</date></p>
+<p>To the <persName>Citizens of <placeName>Mina</placeName></persName></p>
+<p>When at the call of the <persName>Political Chief</persName>, by and with the advice of his
+<persName>counsel</persName>, then in session, I submitted to undertake a hazardous Mission in
+behalf of my <placeName>adopted Country</placeName>. I did not give a full consent, until I had
+consulted your "<persName>Committee of Safety</persName>" and obtained their approbation. . . . </p>
+
+<p>I wish now to give you a brief account of the occurrences connected with
+my public duties since the letters of <persName>Mr. Gritten</persName> and myself by Messrs.
+<persName>Drown </persName>and <persName>Turner</persName>.</p>
+
+<p>The <persName>United States Government [of Mexico]</persName> have through their <persName>officers
+at <placeName>Matamoras </placeName>and<placeName> this place</placeName></persName>, fully recognized the objects of the Mission,
+and the public character of your <persName>agents</persName>.</p>
+
+<p><date when="1835-08-23">Augt. 25 1835</date>.</p>
+
+<p>I have just heard from <persName>Mr. Gritten</persName> by <persName>express</persName>, he is at <placeName>Goliad</placeName>, where
+he expected to have met me, on this day, several late communications<pb n="106"/>
+from the <persName>supreme Government</persName>, through <persName>Genl. Cos</persName>, demanding certain 
+persons, in <placeName>Texas</placeName>, <hi rend="italic">especially <persName>Mr Zavalla</persName></hi>, of <placeName>Mexico</placeName>, whose surrender, or 
+positive evidence, of his not being in <placeName>Texas</placeName>, is made a "sine que non" to all
+further negotiations, and I regret to say, that the next upon the list 
+demanded is<hi rend="italic"> <persName>W. B. Travis Esq</persName>,</hi> the next in order are <hi rend="italic"><persName>Robt M Williamson</persName></hi>
+and <hi rend="italic"><persName>Mosely Bakqr Esqs</persName></hi>.- together with the individuals concerned in "abusing"
+the <persName>Government Messengers</persName>, and "Violating" their dispatches the next
+in order demanded, is <hi rend="italic"><persName>S M Williams </persName></hi>Esq. and <persName>Judge Johnson</persName>, All the
+<persName>North Americans</persName> above named, were <hi rend="italic">first </hi>demanded by the <persName>Comdt </persName>here
+in a letter sent <hi rend="italic">here </hi>from "<placeName>San Felepe</placeName>", signed <hi rend="italic"><persName>J H. C Miller</persName></hi> urging the
+prompt demand of these individuals, <persName>Co. U [Ugartechea] </persName>in consequence
+of such pressing advice, anticipated the order which should have <hi rend="italic">originated</hi>
+from <persName>Genl. Cos,</persName> to<persName> Col U</persName> promptly communicated this act to<persName> Genl. Cos</persName>,
+asking his <hi rend="italic">approbation </hi>which he as <hi rend="italic">promptly </hi>received. The worst features
+in this, to me painful state of things, have arisen <hi rend="italic">since </hi><persName>Mr. Gritten</persName> <hi rend="italic">left </hi>here,
+especially the <hi rend="italic">"sine qua non"</hi> or condition precedent to all pacific 
+negotiations, between <placeName>Texas </placeName>and the <placeName>United States</placeName>, also the positive order from
+the <persName>Supreme Government</persName> to <persName>Col U</persName>, on <hi rend="italic">non compliance</hi>, forthwith to march
+with <hi rend="italic">all </hi>his <persName>cavalry</persName>, into <placeName>Texas</placeName>, and in this way execute the order himself,
+a reply to this demand is hourly expected, by <persName>express</persName>, from <placeName>San Felipe</placeName>,
+I have therefore, with the advice of <hi rend="italic">our </hi><persName>American friends </persName><hi rend="italic">here</hi>, in which
+<persName>Col. U</persName>. decidedly concured. concluded to send for my colleague <persName>Mr. Gritten</persName>,
+without whose knowledge and assistance I cannot advance, a step further.
+Copies of <hi rend="italic">all </hi>the correspondance of your <persName>commissioners</persName>, have been and
+will be, faithfully preserved. This will prove that in all our negotiations
+for <placeName>Texas</placeName>, we have been governed by <hi rend="italic">prudence </hi>and an unchangeable regard
+for the honor and justice of her <persName>citizens</persName>. Upon this subject, our last letter,
+the knowledge of <persName>Mr. Drown</persName> <persName>Mr. Turner</persName> and <persName>Mr- Pease</persName> will fully satisfy
+you. I will here add, that I am firmly of opinion, that if the mission be
+persevered in <placeName>Texas </placeName>will receive a speedy modification of the tariff, and
+a new <placeName>Post Office</placeName> organization, in this opinion I am sustained, by the
+most respectable and intelligent people here. I should <hi rend="italic">now </hi>return to <placeName>Mina</placeName>
+but for the strong advice of our <persName>American friends</persName> here, <hi rend="italic">not </hi>to do so at
+present.</p>
+
+<p><persName>Judge Hood</persName> and <persName>Mr. Milton</persName> have been with me, for a number of days,
+and will be able to give you many interesting details. I have received much
+support from the <persName>Judge </persName>in all matters of public concernment.</p>
+
+<p>Again the want of <persName>commissioners </persName>for making titles for <placeName>lands</placeName>, to 
+unprovided <persName>colonists </persName>is severely felt. The law passed upon this subject last
+<date n="Spring-1834">spring</date>, has made the most ample and liberal provision in these cases. No
+<persName>commissioner </persName>has ever been appointed under this law. I have procured
+copies of this and several laws unknown in our municipality yet very 
+important to <persName>colonists </persName>and <persName>land holders</persName>. These laws among other provisions,<pb n="107"/>
+provide for the appointment of a <persName>commissioner </persName>in each <placeName>department of Texas</placeName>.
+The present <persName>Governor </persName>will appoint them on application from 
+<persName>Ayuntamientos</persName>, through the <persName>Political chief</persName>, or your <persName>commissioners</persName>, of this I have
+ample assurances. Who would be suitable men for these <persName>officers</persName>? I will
+venture to <hi rend="italic">suggest </hi>my <hi rend="italic">own </hi>opinion, of two unexceptionable men, well 
+qualified, unconnected with <persName>Texas parties</persName>, <persName>Mr. Padilla </persName>well known as a 
+republican and an honorable man. The other my friend and colleague <persName>Edward
+Gritten Esq</persName>. whose good report among you, too recent, to require any
+remark from me. These gentlemen are <hi rend="italic">both </hi>intimate <persName>friends of the acting
+Governor</persName>, who will only wish to know that they will be approved of in
+<placeName>Texas</placeName>, when he will promptly appoint them, for the two departments, I
+am but <hi rend="italic">one </hi>in the matter, shall therefore leave the subject to the <persName>People</persName>.
+It may be proper to add, that <persName>Mr. Padilla</persName> I have consulted, <persName>Mr. Gritten</persName>
+I have not. <persName>Mr. Padilla</persName> is too honest to be rich, and too poor to support
+himself and <persName>family</persName>, without some productive employment,&#8212;and as he
+wishes some pretext to take himself and <persName>family </persName>to <placeName>Texas </placeName>forever, he will if
+the <persName>people </persName>approve gladly accept the office. He desires his best respects
+to the <persName>people of <placeName>Mina</placeName></persName> generally, and <hi rend="italic">especially </hi>his gratitude to <persName>Capt. Sims</persName>
+and <persName>Capt. Moore</persName> for past acts of friendship. I am happy to be sustained
+in my opinion by the highest <persName>legal authorities</persName> in the country, that the
+law intending to affect the contracts of <persName>Robinson </persName>or <persName>Williamson</persName>, in the
+settlemant of their <placeName>colonies</placeName>, is ineffectual in its operation For the sake
+of my good old friend <persName>Col Chambers</persName> I rejoice that I am able to give this
+statement. . . .</p>
+
+<p><persName>D C Barrett </persName>[Rubric]</p>
+
+<p><placeName>San Antonio</placeName> <date when="1835-08-28">28th 1835.</date></p>
+
+<p>P. S.</p>
+
+<p>It is said that a plan for the consti[tu]tion of a <persName>central Government</persName> has
+been got up, and is now debating. Should any thing certain be made
+known, <hi rend="italic">you </hi>will be apprised of it as speedily as possible</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

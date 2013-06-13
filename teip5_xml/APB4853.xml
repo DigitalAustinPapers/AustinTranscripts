@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4853">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel M Williams, 08-22-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel M Williams
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Mobile, Alabama</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 104-105
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-08-22">08-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Large immigration will make Texas safe. Must stand aloof from Mexican politics&#8212;nothing to expect from either party&#8212;must grow strong. The New York companies should send emigrants</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+<p><placeName>New Orleans</placeName> <date when="1835-09-22">Augt 22d 1835</date></p>
+<p>Since you left I have heard, by way of <placeName>Natchitoches</placeName>, that matters are
+getting on pritty well, in our <placeName>country</placeName>, considerable excitement tho. not
+more than might be reasonably expected under the circumstances of the
+times&#8212; Everything depends on a great emigration this <date n="Fall-1835">fall </date>and <date n="Winter-1835">winter</date>&#8212;
+remember this&#8212; The <persName><placeName>New York</placeName> folks </persName>have much at stake, and ought to
+exert themselves to send out <persName>families </persName>without delay&#8212; their best plan is to
+send an <persName>agent</persName>, or to operate by means of<persName> influential men</persName> in the <placeName>Western
+Country</placeName>&#8212; The plan of sending out <persName>irish </persName>or <persName>german redemtioners</persName> is a
+bad one&#8212;it will not do&#8212; you know the kind of <persName>settlers </persName>needed in
+<placeName>Texas</placeName>&#8212; We need efficient and <persName>active and intelligent men</persName> who will take
+character and means to the <placeName>country</placeName>&#8212; Much, and perhaps all, may depend
+on the emigration this <date n="Fall-1835">fall </date>and <date n="Winter-1835">winter</date>&#8212;<pb n="105"/></p>
+
+<p>I wish to take a large interest in the <placeName>bank</placeName>, as I told you&#8212; This we will
+arrange when you return&#8212; Keep in view that that measure cannot succeed
+well unless many of the <persName>farmers </persName>etc in <placeName>Texas </placeName>are interested&#8212; Do not
+fail to call on <persName>Mr. Learning</persName>, and my <persName>friends </persName>in <placeName>N. York</placeName>, and be very
+prudent as to everything. The vessel goes tomorrow&#8212; remember me to
+<persName>White</persName></p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p>I was told confidentially to day that a letter had been written to <placeName>Texas</placeName>
+from here (I know not by whom but guess) stating that I was a blind
+<persName>agent of Santana</persName>'s etc. The object of certain persons, as you know, is to
+try and make tools of the <persName>people of <placeName>Texas</placeName></persName> to build up themselves&#8212; <placeName>Texas</placeName>
+ought to act on the defensive and not be the tools of either of the <persName>political
+parties of <placeName>Mexico</placeName></persName>&#8212; She has just as much to expect from one <persName>party</persName>, as
+from the other, and no more from one than from the other&#8212; She must
+rely upon herself, and to do so, she needs strength&#8212; emigration gives us
+strength and everything.</p>
+<p><persName>S. F. A</persName></p>
+<p>[Addressed:] <persName>Mr. S. M. Williams</persName> <placeName>Mobile </placeName><persName>Mr. Hodge</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

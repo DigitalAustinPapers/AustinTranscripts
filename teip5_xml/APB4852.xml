@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4852">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to H Meigs, 08-22-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-03-11">03-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Samuel M. Williams
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        H Meigs
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp.104
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-08-22">08-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-03-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing S. M. Williams and asking for him introduction to John Forsyth. Forecast of large immigation to Texas </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[From the Williams Papers. Rosenberg Library, Galveston, Texas.]</p>
+<p><placeName>New Orleans</placeName> <date when="1835-08-22">Augt 22, 1835</date></p>
+<p><persName>H. Meigs Esqr</persName></p>
+
+<p>Dr. Sir.</p>
+
+<p>This will be handed to you by my friend <persName>Mr. Samuel M. Williams</persName>.
+<persName>Mr. W.</persName> has been with me in <placeName>Texas </placeName>since <date n="xx-xx-1823">1823</date>. he was the <persName>secretary </persName>who
+has done most of the business in my colonizing operations, and is well
+acquainted with my affairs, and with the situation of things in <placeName>Texas</placeName>, as
+he has recently left there&#8212; He goes <placeName>to the north</placeName> on business of his own,
+but at the same time will contribute anything in his power for the genl.
+good of that <placeName>country</placeName>, and will take charge of any communications you
+may wish to send to me</p>
+
+<p>I solicit for him your friendly attention, and an introduction to your
+<persName>brother in law [John Forsyth]</persName>. <placeName>Texas </placeName>is improving very fast, and there
+is every prospect of a great emigration from the <placeName>Western and Southern
+States</placeName> this <date n="Fall-1835">fall </date>and <date n="Winter-1835">winter</date>&#8212; I hope my native state "Old <placeName>Virginia</placeName>" will
+also contribute some of her <persName>sons</persName>&#8212; The <persName>N. York land companies</persName> will of
+course not be idle so that I hope there will be a very great increase of
+population this <date n="Fall-1835">fall </date>and <date n="Winter-1835">winter</date>.</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+<p>[Addressed:] <persName>Mr. H. Meigs</persName> introducing <persName>Mr. S. M. Williams</persName>&#8212; <persName>H-
+Meigs Esqr</persName> <placeName>New York</placeName> <persName>Mr S. M. Williams</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
