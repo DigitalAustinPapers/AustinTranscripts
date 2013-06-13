@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4965">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Perter J Menard to R R Royall, 10-19-1835</title>
+            <author>
+                <persName>Perter J Menard</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-04-04">04-04-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        R R Royall
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Liberty, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 193-194
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-19">10-19-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-04-04" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advising arrest of John A. Williams and John M. Smith, tories</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>9 oclock A, M <date when="1835-10-19">Oct 19&#8212;/35</date></p>
+<p><persName>Mr. President</persName></p>
+
+<p>Sir&#8212;After having heard you <date when="1835-10-19">this morning</date> in regard to the arrest of
+<persName>Judge Williams</persName>, I communicated your Idias and mine to <persName>Mr Hardin</persName> on
+that subject, it met his full approbation, <persName>Mr. Hardin</persName> further observed
+to me that he thought it was advisable and necessary to have a <persName>Mr J M
+Smith</persName> also arrested, His reasons were as follows&#8212;<persName>Mr Smith</persName> has always
+been opposed to the Cause of Freedom, he has when ever in his power,
+favored the <persName>Mexicans</persName>, to the prejudice of <persName>Our Citizens</persName> the has Sir, injured
+the Cause of Liberty by Giving all the information possible to <persName>enemies</persName>,
+(that is to those that are now our <persName>enemies</persName>) He has Sir, when the <persName>Pirate
+Thompson</persName> was lying in the <placeName>bay of Galveston</placeName>) informed him of all He
+knew of the movements and intention of our <persName>Citizens</persName>, he has Sir, 
+blacken'd the reputation of the <persName>best Citizens in <placeName>that part of the Contry</placeName></persName>, by 
+informing the<persName> Mexican officers</persName>. <persName>Military </persName>as well as those that belong'd to the
+<placeName>Custom House</placeName> of all that was said by them and a great deal more, All
+lies of his he has to my knowledge Sir, attempted to take the life of <persName>Mr
+Chs Wilcox</persName>, for no other reason but only because, he was favorable to our
+cause, and took an active part in the affair that took place at <placeName>Anahuac</placeName>,
+and was the advocate of Freedom<pb n="194"/></p>
+
+<p>He has influence enough Sir, to injure our cause matirealy. He is 
+beside all I have stated to you of his character, a <persName>murderer </persName>My reason for
+saying so, is that a few days before I left home I was informed that, <persName>he
+and his son</persName>, have murdered a <persName>Mr Carroll, (son in law to said Smith)</persName> the
+last accusation is not probably the business of this body&#8212;but it is my
+opinion that as we had had no <placeName>court </placeName>in the <placeName><hi rend="italic">districk </hi>of Liberty</placeName> since our
+<placeName>country </placeName>has been attack'd Therefore I think it is our duty to have him
+arrested, not only as a <persName>murderer</persName>, but as a <persName>Traitor </persName>and an <persName>enemy </persName>to the
+Cause of Liberty</p>
+
+<p><persName>Peter J. Menard</persName>, approved of by <persName>Joseph Bryan</persName>&#8212;Both
+from <placeName>Liberty</placeName></p>
+
+<p>[Addressed]: To The <persName>President of the Genl Council of Texas</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

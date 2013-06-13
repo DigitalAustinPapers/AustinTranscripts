@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4970">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R R Royall to Stephen F Austin, 10-20-1835</title>
+            <author>
+                <persName>R R Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-20">05-20-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 196
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-20">10-20-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Transmitting letter from Nacogdoches showing efforts to forward supplies and men</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdoches </placeName><date when="1835-10-20">20th October 1835</date></p>
+<p>To the <persName>Committee of vigalance and safety</persName>. <placeName>San Felipe</placeName></p>
+<p>Gentlemen,</p>
+
+<p>We have received your communication of the <date when="1835-10-15">15th</date>, intimating to us the
+highly gratifying intelligence of the Capture of <placeName>La Bahia</placeName>, the enthusiasm
+of the <persName>people </persName>on being made acquainted with the facts, was so great, that
+a general illumination immediately took place, and every demonstration
+of joy exhibited. We will dispatch <date when="1835-10-21">tomorrow</date>, to <placeName>Washington</placeName>, a waggon
+containing 150 lb lead and 250 lb Duponts E E E. powder.</p>
+
+<p>You will please make arrangements for payment of the freight of the
+above, which will probably amount to from 80. to 100 Dollars. This 
+<persName>Committee </persName>has made arrangements to forward a <persName>person </persName>to the <placeName>United States</placeName>
+for the purchase of 200 rifles, which we have every reason to think will
+reach us without loss of time. <date when="1835-10-19">Yesterday </date>about 70 or <persName>80 men </persName>under the
+Command of <persName>Capt Sublet</persName> left to Join the <persName>Army of Texas</persName>, and being all
+well mounted must reach <placeName>head quarters</placeName> without delay. We shall expect to
+receive as frequent intelligence as possible of the proceedings of the <persName>Army</persName>,
+and any thing else that may be interesting.</p>
+
+<p><persName>F. Thorn Chairman</persName></p>
+
+<p>The above is a true copy of the Original on file,&#8212;The Powder and lead
+is ordered to be left at <placeName>Washington </placeName>for further Orders,</p>
+
+<p><persName>R. R. Royall</persName></p>
+
+<p><placeName>San Felipe</placeName> <date when="1835-10-28">28th Oct 1835</date></p>
+
+<p>[Addressed:] <persName>Genl S F. Austin Commander in chief</persName> <placeName>Head Quarters
+<persName>Texas Army</persName></placeName></p>
+
+<p>Copy <persName>Col Thorn</persName>'s Letter&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

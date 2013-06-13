@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4975">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 10-21-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Fort Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 201-202
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-21">10-21-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Sending information derived from a Mexican from Bexar</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Fort Goliad</placeName> <date when="1835-10-21">Oct. 21st 1835</date></p>
+<p>To <persName>Gen. S. F. Austin</persName></p>
+<p>Sir,</p>
+
+<p>This is dispatched to give you intelligence of the intended movements of
+the <persName>Enemy</persName>.</p>
+
+<p>By information recd. from a <persName>Mexican </persName><date when="1835-10-21">early this morning</date>, who says he
+is only two days from <placeName>Bexar</placeName>, we are informed that <persName>Cos </persName>is fortifying
+rapidly&#8212;that <persName>500 men</persName> were to arrive there <date when="1835-10-21">today </date>from the <placeName>interior</placeName>; and
+that, as soon as they should arrive, he intended sending a strong <persName>force</persName>
+here, to retake this <placeName>post</placeName>. I inclose you intercepted letters on the same 
+subject. They speak for themselves.</p>
+
+<p>Our effective <persName>force </persName>is still <persName>50 men</persName>. By the <persName>express </persName>which left here 
+<date when="1835-10-20">yesterday morning</date> for <placeName>Head Quarters</placeName>, I wrote to <persName>Capt. Alley</persName>, urging the 
+necessity of his joining me with his <persName>command</persName>, as speedily as possible; but 30
+odd hours have elapsed, and no answer, nor have I any reason to expect
+one or to see him, unless he is ordered to return by the <persName>Gen</persName>.</p>
+
+<p>We have done all we could in the way of repairing arms, and are still
+doing. About 50 pikes and bayonets are handled. All the breaches in the
+outer wall are repaired, and the bastions will be done <date when="1835-10-22">tomorrow</date>.
+Some of the <persName>men </persName>are sick&#8212;but all are in good spirits. But 50 men,
+against an <persName>army</persName>, in so large a field as this, leaves too many blanks, too
+many points unprotected; in case of an attack by a <persName>large force</persName>, to promise
+success. Your orders are solicited. They are expected. Of the little
+band that entered this place on the <date when="1835-10-09">night of the 9th., inst</date>., many have 
+returned <placeName>home</placeName>, and others say they will go in a few days. Inform me what
+I shall do in this matter? How shall I keep the <persName>men </persName>together? Or, shall
+I permit them to go and come as they please?</p>
+
+<p>I will now add more fully to the above, of the information given by
+the <persName>Mexican </persName><date when="1835-10-21">this morning</date>.</p>
+
+<p>He says, all the <placeName>squares of Bexar</placeName> are fortified that works,are raised at
+every angle for the effective use of their artillery.</p>
+
+<p>I am decidedly of the opinion from all that I can learn, that the day is
+gone by for the present when that place can be taken by storm without a
+great and disheartening loss of valuable men. Starvation by siege, 
+presents itself to my mind as the cheapest, most certain, and most efficient<pb n="202"/>
+mode of operating at that point under the present state of things allowing
+my information to be correct.</p>
+
+<p><persName>P. Dimitt </persName>[Rubric]</p>
+
+<p>Commanding</p>
+
+<p>P.S. Since writing the above, I have again conversed with the <persName>Mexican</persName>
+above Spoken of&#8212;He says that he was sent <persName>ex</persName>. to <persName>Cos </persName>by <persName>Zenteno</persName>, with a
+full statement of the force here and of every thing connected with our
+situation. <persName>Cos</persName>, therefore, knows as well as we do, what ever was known
+to the <persName>Collector</persName>.</p>
+
+<p>[Addressed:] To <persName>Gen. Stephen F. Austin Com. in Ch. of the Army of
+the People.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

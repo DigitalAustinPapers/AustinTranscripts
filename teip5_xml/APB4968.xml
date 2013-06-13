@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4968">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 10-20-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-20">05-20-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 194-196
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-20">10-20-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Information obtained from a deserter from Bexar. Conditions in interior of Mexico</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>7 in the morning, <date when="1835-10-20">Oct. 20th- 1835</date></p>
+<p><persName>Gen S. F. Austin</persName>,</p>
+<p>Sir</p>
+
+<p>Since sealing my official of <date when="1835-10-19">last evening</date> and 5 o.c. <date when="1835-10-20">this morning</date>, a 
+<persName>Deserter from <placeName>Bexar</placeName></persName> has been introduced to my <placeName>quarters </placeName>who says he lives<pb n="195"/>
+in <placeName>Monterey</placeName>&#8212;that, he deserted <date when="1835-10-11">8 days ago</date>, intending to return <placeName>home</placeName>&#8212;
+that, after leaving <placeName>Bexar</placeName>, he heard of the fall of <placeName>Goliad</placeName>, and turned his
+course for this place. He states, that, all the <persName><placeName>Bexar </placeName>Troopes</persName> will join the
+<persName>Americans</persName>, as soon as they present themselves; that, the <hi rend="italic"><persName>officers </persName></hi>and 
+<hi rend="italic"><persName>infantry </persName></hi>want a <hi rend="italic">fight</hi>, but that the <persName>cavalry </persName>do not&#8212;that, when the <persName>men </persName>were
+sent to <placeName>Gonzales </placeName>after the Cannon, they were paid only S3 ea. and drew
+only a little corn.</p>
+
+<p>He says there are <persName>300 infantry </persName>and <persName>400 cavalry </persName>there&#8212;one half of the
+<persName>former convicts</persName>&#8212;that, <persName>Gen Cos</persName> was making no preparation whatever, for
+defence, in the way of fortifying&#8212;that, there were 2 pieces of cannon on
+the <placeName>western side of Town, <hi rend="italic">near </hi>the Church</placeName>; and 2 in the <placeName>Alimo</placeName>. <placeName>In the
+Town</placeName>, his <persName>patrol </persName>is strong, <hi rend="italic">especially at night</hi>, both in <persName>cavalry</persName>, and 
+<persName>infantry</persName>&#8212;that he keeps <persName>60 sentinels </persName>out during the night; besides <persName><hi rend="italic">four </hi>
+cavalry scouts</persName>, of <persName>20 men</persName> each; that, there is great discontent among the 
+<persName>inhabitants</persName>, who will almost unanimously join the <persName>Colonists</persName>, as soon as they
+enter the place; that, <hi rend="italic"><persName>Ugartechea </persName></hi>and <hi rend="italic"><persName>Candela</persName></hi>, are the only <persName>Officers</persName>, 
+remarkable for their antipathy against us&#8212; and <hi rend="italic">these</hi>, do every thing in their
+power to stimulate the men to defend the place to the last extremity.</p>
+
+<p><persName>Mr. Bracken</persName>, arrived here <date when="1835-10-19">last evening</date> from <placeName>Zacatacas</placeName>; who left there a
+short time since; he says, that, a few days before he left that <placeName>City</placeName>, all the
+<persName>troops </persName>except <persName>400</persName>, had been marched to <placeName>Guadalajara</placeName>, to oppose <persName>Alvarez</persName>,
+who had won two important victories over <persName>Santanna's troops</persName>. That 4
+<persName>Generals</persName>, amongst whom are, <persName>Montenegro </persName>and <persName>Guzman</persName>, had joined 
+<persName>Alvarez </persName>and that he was daily acquiring strength; and further, that the
+<persName>troops at <placeName>Saltillo </placeName>and <placeName>San Louis</placeName></persName>, destined for <placeName>Texas</placeName>, had been ordered
+back, after having taken up the line of march.</p>
+
+<p><date when="1835-10-20">9. o. c. same day</date>&#8212;<persName>Col. Powers</persName> this moment arrived from the 
+neighbourhood of <placeName>San Patricio</placeName>; He states that the cannon there had been 
+removed to the <placeName>garrison of Le Panticlan</placeName>, and that the <persName>troops </persName>there, were 
+fortifying day and night. A <persName>courier </persName>had arrived there, who gave information
+of the near approach of <persName>200 Cavalry </persName>from <placeName>Aquaverda </placeName>and <placeName>Loredo</placeName>, to the
+<persName>garrison on the <placeName>Nueces</placeName></persName>; and that there were also from 2 to 300 more on the
+march <placeName>from Matamoros to the Nueces</placeName>; intended for the recapture of this
+<placeName>post</placeName>. This information comes through an <persName>express </persName>sent to the <persName>comt. of the
+<placeName>Loredo </placeName>troops</persName>; who accidentally passed them, and reached the <placeName>Nueces</placeName>
+without seeing them.</p>
+
+<p><persName>Col. Powers</persName> further states that, <persName>Cos </persName>complains in a letter to the <persName>Com'g
+officer at <placeName>Le Panticlan</placeName></persName>, that his <persName>whole force</persName>, including those on the way, is
+only 1700. This <persName>Garrison </persName>has a <persName>Piquet of 15 or 20 men</persName>, <placeName>6 Leagues this
+side Sn Patricio</placeName>; and <hi rend="italic">one</hi>, about the same distance the other side, for 
+forwarding <persName>expresses</persName>.<pb n="196"/></p>
+
+<p>From all this, you can easily judge whether this place ought to be
+evacuated, and whether <persName>50 men </persName>can make a successful defence.</p>
+
+<p><persName>P. Dimitt</persName> <hi rend="italic">Comd g </hi>[Rubric]</p>
+
+<p>[Addressed:] To <persName>Gen. Stephen F. Austin Com. in Ch. of the Army of
+the People</persName> <placeName>Head Quarters</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4971">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>L R Kenney to Stephen F Austin, 10-20-1835</title>
+            <author>
+                <persName>L R Kenney</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-20">05-20-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Callender
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas, via the Schooner Columbus</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 197
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-20">10-20-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-20" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging firmness and union and offering services</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir</p>
+
+<p>The <persName>Bearer </persName><persName>Mr Sidney S Callender</persName> is one of the Young men who have
+volunteered to aid the <persName>people of <placeName>Texas</placeName></persName> in defending their rights&#8212;He is a<pb n="197"/>
+practical <persName>printer </persName>and was for sometime <persName>Editor of the Lafayette Gazette</persName>&#8212;
+Sympathizing in your Cause he has determined to make <placeName>Texas </placeName>his <placeName>adopted
+Country</placeName> and to fight in her defence&#8212;There exists in, this place in favour
+of your cause a Similer feeling, which will, be encreased and rendered
+more effective, when the determination of your Convention to maintain
+unimpaired the Constiutional right of <placeName>Texas</placeName>, or to establish an 
+<persName>independent Government</persName> is made known such measure will inspire your
+<persName>friends </persName>with confidence, and you can obtain not only men but money&#8212;</p>
+
+<p>The many hardships suffered by the <persName>early settlers of <placeName>Texas</placeName></persName> and their
+patience and forbearance under privations, You as well as myself have
+fully experienced, and I trust that in the hour of trial they will exhibit the
+same determined character, that they will be united and rather perish to a
+man than renounce a <placeName>Country </placeName>so dearly earned&#8212;As for myself I have
+nothing to offer, but my personal services which I freely tender in any
+manner or shape, either here or there&#8212;my attachment for <placeName>texas </placeName>and her
+<persName>first settlers</persName> is unimpaired&#8212;I would peril my life in her defence&#8212;Should
+the war be [prolonged] (which can only be in case <persName>St Anna</persName> continues in
+power) you will need the assistance of this <placeName>Country</placeName>&#8212;In such event <persName>Agents</persName>
+Authorised by your <persName>provisional Government</persName> can do good Service in 
+procuring <persName>men </persName>etc&#8212;</p>
+
+<p>[I] pray the favor of a letter from you, and an authority to remit <persName>men</persName>
+for your service&#8212;God prosper the <persName>people of <placeName>Texas</placeName></persName>&#8212;</p>
+
+<p><persName>L. R. Kenny</persName></p>
+<p><placeName>New Orleans</placeName> <date when="1835-10-20">20 Octr 1835</date></p>
+<p>[Addressed:] <persName>Col. Stephen F. Austin </persName><placeName>Texas</placeName></p>
+<p><persName>Mr. Callender</persName> Schooner Columbus</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
