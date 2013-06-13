@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4090">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>M B Menard to Stephen F Austin, 11-27-1830</title>
+            <author>
+                <persName>M B Menard</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-01">09-01-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nacogdoches, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 543-544
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-11-27">11-27-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Colonel Piedras refuses to allow him to act as Austin's agent in Nacogdoches, to give certificates of admission to immigrants.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nacogdoches</placeName>.<date when="1830-11-27"> Nov. 27th. 1830</date>.</p>
+<p><persName>Col Stephen F Austin</persName></p>
+
+<p><placeName>San philippe</placeName></p>
+
+<p>dear sir I receved this morning by <persName>Mr. Novara</persName> your Letter and
+document appointing me your <persName>agent </persName>to give ceriificat to such 
+deserving <persName>persons </persName>as should wish to Emigrate to your <placeName>Colony </placeName>I felt
+dedisposed to Accept of the apointment for three Reason Ier to oblige
+a man who has done the most for the Interest and promotion of
+this <placeName>province </placeName>2er to satisfy the desire that I have if I had the power
+to promogate the growth and importance of this <placeName>province </placeName>3er to
+the Request of <persName>Mr. Mc.Kinney</persName> a man that I have the highest Estime
+and Consideration for.</p>
+
+<p>But not wishing to Expose myself being a <persName>Stranger </persName>in the <placeName>Contry</placeName>
+I thought proper (aliso in accordance with your Instruction) to
+call on <persName>Col Piedras </persName>to give his approbation on the Subject after
+due Consideration he said that he did not think he Could give
+his assent being Contrary to his Superior order that he had order
+to stop any one who Should not have a passport from a <persName>Mexican
+Agent</persName> that you had a wright youself to give pasport or Certificat
+to such Number or <persName>persons </persName>as by your Contract with 
+<persName>Government </persName>you were to settle in your <placeName>Colony </placeName>and no more, that
+having the wright youself (to give Certificat) it was surpassing
+your faculty to Extend that wright to other and in short that the
+power and Instruction you give me were (if Complyed with) in
+direct violation of his order and to the 9th: article of the Law of
+the <date when="1830-04-06">Sixth of aprill Last</date> for he said by those Instruction you are
+impowered to give Certificat to any <persName>men </persName>(if good men) who Should
+say that he is Emigrating to <placeName>Austin Colony</placeName> not specifying the
+Number while your Contract with Government Specify a Limited
+Number and that no one ells ought to be admited in the <placeName>province</placeName>
+besides: it is an affair of too much Responsability for him to 
+permit it he said if you would furnish him with a List of the names
+of those <persName>persons </persName>you have Contracted with which are to settle in
+your <placeName>Colony </placeName>or them to have a Certificat of your own Signature he
+has no objection to Let him pass, but upon no other term&#8212;Saying
+it would be transgressing his order to do the Contrary.&#8212;he 
+Requested me to Let him take a Copi of your Instruction to me and
+that he would Write to the Govment to know whether they would
+allow you to appoint an <persName>agent </persName>for this business not finding it 
+objectionable I Let him have the paper and he took a Copie of it I
+am no <persName>Lawyer </persName>therfore I do not know whether <persName>Col. Piedras</persName> is
+wright or wrong in this affair nor do I wish to have any Contantion<pb n="544"/>
+with him on the Subject therfore I wrote you the Subtance of what
+he said it is for you to Juge or to do as you plaese about it</p>
+
+<p>Notwithstanding my Willingness to be of Service to you-&#8212;you see
+it is imposible for the present But in this or other Case here after
+if I Can be of any help or service to you I prey you to Request it
+of me and I will if in my power do it with greatest pleasure</p>
+
+<p>With Respect and Consideration I am your Obed. Sert,</p>
+
+<p><persName>Michel B. Menard</persName>    [Rubric]</p>
+<p>To. <persName>Col. Stephen F Austin</persName></p>
+
+<p><placeName>Ville de Austin</placeName></p>
+
+<p>Addressed: <persName>Col.   Stephen   F.   Austin.</persName>   <placeName> Villa   de   Austin   Texas</placeName></p>
+
+<p>Per <persName>Mr. Foster</persName></p>
+
+<p>PS. the <persName>Comisionner Novara</persName> Receved order <date when="1830-11-27">to day </date>from the 
+<persName>Governor of the State</persName> not to proceed any farther in his business unless
+he is sure that<persName> Col. Milam</persName> <persName>Colonist </persName>are not <persName>North American 
+Emigrant</persName> that <persName>Col. Milam</persName>s Contract with Govt, his to settle <persName>European
+Emigrant</persName> the <persName>Gentlemen </persName>is very much dissapointed I am sorry
+for it.</p>
+
+<p><persName>M. B. Menard</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
