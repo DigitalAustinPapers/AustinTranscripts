@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4314">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>S Rhoads Fisher to Stephen F Austin, 01-22-1832</title>
+            <author>
+                <persName>S Rhoads Fisher</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matagorda, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 739
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-01-22">01-22-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asks advice about collecting debts. Schools.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Matagorda</placeName>, <date when="1832-01-22">Jany 22 1832</date></p>
+<p>My Dear Sir&#8212;</p>
+
+<p>I have at last safely arrived with my <persName>family</persName>, after an unpleasant
+and tedious passage. I am a good deal occupied endeavouring to
+fix up some place to go in; and unfortunately am deprived of <persName>Mrs
+Fisher</persName>'s management, in consequence of a fall she received a day
+or two Since. Could I possibly have left my <persName>family </persName>I would have
+gone up to See you as I am very anxious to have a conversation
+with you. Since my arrival I have learned that our friend 
+<persName>Lessassier </persName>has abandoned the practice of the Law, and turned <persName>teacher</persName>.
+Now <persName>school masters</persName> are generally needy, and I hope I may not
+experience delay or diffueulty in settling my business with him; he
+must have collected a considerable sum on my account, and I am
+already suffering for the means of Settling for my freight and
+passage. I wrote to him to have it in readiness for me at <placeName>Brazoria</placeName>,
+and perhaps he may have, but as my letters were directed to <placeName>San
+Felipe </placeName>the chances are he has not received them. I write you in
+confidence that you may advise me. be good enough to write me
+when you expect to go to <placeName>Saltillo</placeName>, and when you will return, 
+enclosed is a letter from our friend <persName>Learning</persName>. Present me to<persName> Mr.
+Williams</persName> and <persName>family </persName>and to my <persName>padrino</persName></p>
+
+<p><persName>S Rhoads Fisher</persName></p>
+
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p>Enclosed is a letter to<persName> Mr. Lesassier </persName>which you will please deliver
+to him, as it contains a request to send me immediately $300 by <persName>Mr
+Jaques</persName>, who will return the day after he reaches <placeName>town</placeName>. Your 
+suggestion to him of the inconvenience I am put to may probably
+stimulate him to send it. <persName>Judge Cummins</persName> has received a good deal
+of money belonging to me, but has spent it, and says he cannot pay
+me a dollar, this to say the least is ungenerous, as I paid for him
+to the <persName>Sheriff </persName>last year between 2 and 300 drs.</p>
+
+<p><persName>S. R. F</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

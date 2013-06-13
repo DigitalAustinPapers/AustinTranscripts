@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4315">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Juan Davis Bradburn to Stephen F Austin, 01-24-1832</title>
+            <author>
+                <persName>Juan Davis Bradburn</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Anahuac, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 740
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-01-24">01-24-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Fixing a rendezvous to discuss public affairs.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Anahuac </placeName><date when="1832-01-24">January 24th 1832</date></p>
+<p>My esteemed<persName> Colonel Austin</persName></p>
+
+<p>I have seen<persName> Mr McKinney</persName> and received his information 
+respecting public tranquility of which I was previously in possession I
+hear with pleasure your proposed interview and should be happy to
+go as far as<placeName> Saint Philipe </placeName>to meet you, as I consider you very weak
+from your exhausting sickness, if my manifold avocations, and more
+numerous embarasments, expecting every moments <persName>trops </persName>from
+<placeName>Matamoros</placeName>, directing the various <placeName>sections of Publeck Works</placeName> on this
+<placeName>Point</placeName>, <placeName>Land office</placeName> business, and other negociations, did not employ
+my existence the most shackled of human beings, yet I shall make an
+exertion, and will meet you at any place you will appoint on the
+<placeName>San Jacinto</placeName> or the <placeName>Buffalo Bayo.</placeName></p>
+
+<p>I have not answered your letter handed me by<persName> Mr. Treet</persName> and
+which threw me into some consternation it might create an arduous,
+if not an insuperable difficulty in any person placed in my posetion
+and circumstances to do so without very poignant feeling and 
+communicating the same perhaps to his correspondent however our
+polished atmosphere seems more serene and I shall meet jovl when
+and as soon as you please</p>
+
+<p><persName>Juan Davis Bradburn  </persName>  [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

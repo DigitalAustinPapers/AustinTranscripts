@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4316">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Ben R Milam to Stephen F Austin, 01-26-1832</title>
+            <author>
+                <persName>Ben R Milam</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        David Roberts
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington, Hempstead County, Arkansas Territory</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 740-741
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-01-26">01-26-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing David Roberts, visiting Texas to reclaim certain negroes abducted from Arkansas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Washington Hempstead County</p>
+<p>Arkansas Territory </placeName><date when="1832-01-26">January 26th 1832</date></p>
+<p>To <persName>Col Stephen F. Austin</persName></p>
+
+<p>Dear Sir This letter will be handed you by <persName>Mr. David Roberts</persName>
+of this <placeName>county </placeName>whom permit me to introduce to your acquaintance.
+He visits your <placeName>colony </placeName>in quest of some <persName>negro property</persName> which has
+been fraudulently conveyed there, by <persName>Morris May</persName>, <persName>Jacob and John
+Buzzard</persName> of this <placeName>Territory</placeName>. The properly is also claimed by one
+<persName>Andrew Pawley</persName> who I am informed is now in your <placeName>colony</placeName>. The
+<persName>property </persName>doubtless belongs to <persName>Polly Williamson</persName> who holds the same
+under the will of her <persName>late husband Robert Williamson</persName> who died in
+the <placeName>county of Carrol in the state of Georgia,</placeName> The title of <persName>May</persName>
+<persName>Buzzard </persName>and <persName>Pawley </persName>was brought before the <placeName>court </placeName>having 
+jurisdiction of the matter in the <placeName>county of La Fayette in this Territory</placeName>,
+the investigation of which exposed the most villanous scene of fraud
+I have ever witnessed. <persName>May </persName>and <persName>Buzzard </persName>by an order of one of
+the judges here, were injoined for a time from removing the <persName>negroes</persName>
+from the <placeName>Territory</placeName>, but another <persName>judge </persName>who held the <placeName>court </placeName>after-<pb n="741"/>
+wards who to say the least acted most unwarrantedly, dissolved the
+injunction, and the <persName>negroes </persName>were conveyed into <placeName>Texas</placeName>, before the
+<persName>agents of Mrs. Williamson</persName>, who arrived in court a few hours after
+the injunction was dissolved could have them detained. Your
+friendly interposition in behalf of the <persName>widow </persName>whom <persName>Mr. Roberts </persName>
+represents under a letter of <persName>Attorney </persName>will confer a personal favor on
+me, further the ends of Justice and protect the rights of the <persName>widow</persName>
+and the <persName>fatherless</persName>. <persName>Mr. Roberts</persName> in behalf of the <persName>widow </persName>will apply
+to the Judicial tribunals of your <placeName>colony</placeName>, to have her right to the
+property Judicially determined, he informs me that he will be 
+compelled to ask a postponement of the trial to such time as the <persName>widow</persName>
+can procure such testimony from <placeName>Georgia </placeName>as shall be required by
+the court. <persName>Mr Roberts</persName> is a <persName>Gentleman </persName>of truth and honesty and you
+can rely with the utmost confidence on any and all of his 
+representations. Any advice or assistance that <persName>Mr Roberts</persName> shall require you
+will confer an additional obligation by affording to him</p>
+
+<p><persName>Ben R. Milam</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

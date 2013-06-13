@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4301">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 12-27-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-18">09-18-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 727
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-12-27">12-27-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-18" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advising settlement at Peach Point. Importance of cheerful spirits. Progress of Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria </placeName><date when="1831-12-27">[Dec] 27. 1831</date></p>
+<p>Dr <persName>brother </persName>:</p>
+
+<p>I recd yours from <placeName>Bells </placeName>and have sent all the letters by <persName>McKinney</persName>
+that I can find there is but <hi rend="italic">one</hi>&#8212; <persName>John </persName>open'd one which is the
+invoice of the goods on board the Dart, he will want it to regulate
+the manifest&#8212; The <hi rend="italic">Dart </hi>will be here tomorrow, also the <hi rend="italic">Elizabeth</hi>
+and <hi rend="italic">Wildcat</hi>&#8212; They all left the mouth this morning-&#8212;<hi rend="italic">all well and
+harmoney</hi>. <persName>Hunter </persName>had best come down I think to attend to the
+goods, tho I do not know what arrangements he made</p>
+
+<p>As to settling&#8212;I left the whole matter to you from the first&#8212;and
+did not urge you to any one place in particular I wished you to
+please <hi rend="italic">yourself</hi>&#8212; I will now give a <hi rend="italic">positive opinion</hi>, which is that
+you go direct and immediately to <placeName>Peach point</placeName>, or come to this <placeName>place</placeName>&#8212;
+The idea of a <hi rend="italic">good house</hi> for this year must be abandoned, <placeName>log 
+cabbins</placeName> must do&#8212;remove all your stock to <placeName>peach point</placeName>, make corn there
+<placeName>in the cane brake</placeName>&#8212;let the work at <placeName>Chocolate</placeName> go and begin down here
+at once&#8212;and from this time forward make up your mind finally and
+definitively on the subject&#8212;and also keep up your sperits&#8212;no low
+sperits will do in any one as nearly connected to me as you are&#8212;it
+is noticed by others and attributed to the wrong cause</p>
+
+<p><persName>Mrs Holly</persName> has gone. <persName>She </persName>and <persName>Henrys wife</persName> send their love to
+<persName>Emily</persName>&#8212;<persName>Mrs. H.</persName> is a <hi rend="italic">divine </hi><persName>woman</persName>&#8212; she will be a <persName>neighbor </persName>at
+<placeName>peach point,</placeName> also <persName>Henry </persName>and <persName>Archibald</persName>. I mean to make a little
+world there of my own</p>
+
+<p>Keep up, my Dr <persName>brother</persName>&#8212;keep up your spirits we will be happy
+when we are all collected at <placeName>Peach point</placeName></p>
+
+<p>Shall be up soon</p>
+
+<p><persName>Stephen</persName></p>
+
+<p>I have now taken it on myself to direct where you ought to 
+settle&#8212;think no more about it but go to <placeName>peach point</placeName> and fix some 
+<placeName>cabbins </placeName>or a <placeName>camp</placeName>, and let building alone for this year&#8212; <date n="xx-xx-1828">Three years
+ago</date> <persName>Westall </persName>began where he is&#8212;he had 1 <persName>negro </persName>man 1 <persName>boy </persName>3 <persName>women</persName>&#8212;
+this year he <hi rend="italic">only makes 80 bales of cotton</hi>.</p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

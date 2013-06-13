@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4306">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mary Austin Holley, 01-04-1832</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mary Austin Holley(
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 732-733
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1832-01-04">01-04-1832</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trouble at Brazoria carried him beyond himself. Texas must remain united with Mexico as a State with right to legislate for itself.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Austin</placeName>, <date when="1832-01-04">January 4, 1832</date></p>
+<p>Dear <persName>Cousin</persName>,</p>
+
+<p>We are always more or less influenced by the state of the 
+atmosphere. While at <placeName>Brazoria </placeName>every thing around me was greatly above
+fever heat, and its influence could not but reach me. The rumour of
+difficulties has set in motion all the violent passions of the <hi rend="italic">body
+politic</hi>, and there will not be wanting persons who will catch at
+straws to attack and injure me if they can, and some of those I have
+most served will be foremost to raise a clamour against me. How
+little they know me!</p>
+
+<p>The true interest of this <placeName>country </placeName>requires that it should remain
+united to <placeName>Mexico </placeName><hi rend="italic">as a <placeName>State </placeName></hi>that can legislate for itself in all local<pb n="733"/>
+and internal matters.<hi rend="italic"> I must go to the <placeName>interior </placeName>by <date n="02-xx-1832">February</date></hi>. It
+will be a fatiguing journey, and [at] tended, perhaps, with difficulties
+and dangers. My situation is unpleasant and unnatural. I long
+for retirement and quiet, and I much fear that, in spite of myself,
+I shall be borne along on the current of events into a stormy and
+troubled sea. Such is life!&#8212;<hi rend="italic"> a speck between two eternities,</hi> as has
+been aptly said. A speck&#8212;and yet how much of troubles and 
+perplexities! But it is our all. The past is but a picture, a shadow
+of various hues. The future&#8212;we know not what. Theological and
+mythological contradictions and inconsistensies make it everything,
+anything, nothing. The mind is lost that seeks for a clear and 
+absolute demonstration of doctrinal or sectarian aphorisms, unless it
+rests with confidence upon the throne of <hi rend="italic">one, only just and 
+omnipotant <persName>God</persName>;</hi>&#8212;the <persName>God </persName>of the eternity past&#8212;the speck&#8212;and the eternity
+to come&#8212;uncreated, and undeformed by mythological fancies, or
+theological investments&#8212;the self existing, consistent, and bountiful
+<persName>Father of Worlds</persName>, of time and of Eternity. From such a throne the
+jargon and choas of religious strife may be calmly viewed and 
+understood. Yet it is sickening to see the wickedness that is practised
+under the most sacred of names, and beneath the garb of religion.</p>
+
+<p>I reached <placeName>home </placeName><date when="1832-01-02">night before last</date> after riding forty seven miles
+that day, and found <persName>sister Emily</persName> at a ball, dancing away in fine
+spirits. She enjoyed the party, and I joined her, caught the 
+excitement, remembered your injunction to " laugh away care," and soon
+forgot my forty seven miles ride. <persName>Sister </persName>is quite delighted with the
+prospect of your removal here. I write without study or disguise,
+confident that you will be an indulgent and candid critic. The
+weather has been beautiful and I hope you are this day in <placeName>New
+Orleans</placeName>.</p>
+
+<p>Adiós, amiga mia.</p>
+
+<p><persName>ESTEVAN</persName>.</p>
+
+<p>Your<persName> brother Henry</persName> is authorized to chuse a situation for you
+out of my <placeName>" Peach Point"</placeName> survey of <placeName>premium land</placeName>&#8212;say two 
+hundred acres. I expect to be back soon enough to designate it myself
+before it will be necessary to begin building, and should prefer
+doing so, but if I am detained too long he can make a selection.
+Farewell.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

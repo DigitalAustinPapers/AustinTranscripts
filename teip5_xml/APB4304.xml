@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4304">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to John Davis Bradburn, 12-30-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-19">09-19-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. Treat
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        John Davis Bradburn
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 731-732
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-12-30">12-30-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-19" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Protest against policy of Government in hampering trade; asks explanation. Caution necessary.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria </placeName><date when="1831-12-30">Decr 30th 1831</date>,</p>
+<p>My dear Sir</p>
+
+<p>I embrace the opportunity by <persName>Mr. Treat</persName> to drop you a line, I am
+very anxious to see you but that is impracticable at present. The
+state of things in <placeName>Texas </placeName>is I fear rather critical, and such as to 
+require very great prudence on the part of the <persName>public Officers</persName> and
+especially in the military and revenue departments. The revenue
+regulations made by <persName>Fisher</persName>, as to their views are utterly 
+impracticable and their execution is impossible. The <persName>Officer at the<placeName> mouth
+of the River</placeName> </persName> has done his duty, so far as it was possible, I found
+that a Flame was Kindling which if not checked would very soon
+have removed the <persName>guard </persName>from this <placeName>River </placeName>and it would then have
+spread and soon reached <placeName>Anahuac </placeName>and <persName>Mr. Fisher</persName>.   The conse-<pb n="732"/>
+quences you can imagine. You know your <persName>native countrymen</persName> and
+you also know that at this time the <persName>people in <placeName>Texas </placeName></persName>have just causes
+and very many of them to complain. In this state of things, I
+wrote to the <persName>officer at the<placeName> mouth of the River</placeName></persName> and told him what the
+true state of things was. My advise is to let this <placeName>River </placeName>alone and
+let things go on as they now are, and as I indicated in my letter to
+<persName>Domínguez</persName>, I cannot understand the policy that is pursued as to
+<placeName>Texas </placeName>if you understand it I wish you would explain it to me. This
+is no time for ambiguity, for it will require all our management
+united to keep things quiet unless a more Liberal System is adopted
+towards the people. As we are now situated the <placeName>country </placeName>will be
+totally broken up and all commerce totally annihilated. Is that the
+object of the Government&#8212;if it is I wish to know it. This <persName>Govt</persName>
+never had a firmer <persName>friend </persName>than I have been, do I merit or does the
+<persName>people of my <placeName>colony</placeName></persName> merit to be shut out from the <placeName>whole world</placeName> and
+have all their commerce destroyed.   I think not.</p>
+
+<p>Please let me hear from you on this subject.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Col Juan D Bradburn</persName>   A Copy</p>
+
+<p>[On margin:] A Copy of<persName> Col S F Austin</persName>s Letter to <persName>Col Juan D
+Bradburn</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
