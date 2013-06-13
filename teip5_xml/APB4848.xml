@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4848">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Unknown, 08-09-1835</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-02-28">02-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 99-100
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Call for a Convention</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-08-09">08-09-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-02-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Call for convention. (Omitted, but see text for reference.)</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Resolutions of a meeting held at Columbia, August 15, 1835, are here
+omitted. They were printed in Publications of the Southern History
+Association, VII, 200-201 (May, 1903). The resolutions were circulated
+in a broadside, followed by the following document.]:</p>
+
+<p>In addition to the above resolutions recommending a consultation we
+publish the names of those who signed a paper some of whom were unable
+to attend the meeting. This clearly evinces a great unanimity in the
+<placeName>jurisdiction of Columbia</placeName>.</p>
+
+<p>We whose names are hereunto subscribed are of opinion that a 
+convention of the <persName>people of <placeName>Texas</placeName></persName> is best calculated to quiet the present excitement,
+and to promote the general interest of <placeName>Texas</placeName>; we acknowledge the doctrine
+of "THE RIGHT OF INSTRUCTION," and we therefore recommend to
+our <persName>fellow-citizens</persName>, the call of a CONVENTION, and we further 
+recommend that the <persName>delegates </persName>to said convention be instructed, so that no <persName>party</persName>
+may rule, and that the <persName>people </persName>be fairly represented.</p>
+
+<p><placeName>Brazoria</placeName>, <date when="1835-08-09">Aug. 9, 1835</date>.</p>
+
+<p><persName>John Sharp,</persName>	<persName>Wm. E. Harris</persName>	<persName>Wm. Purkins</persName>,
+<persName>Joseph Mims</persName>,	<persName>A. Robinson</persName>,	<persName>David Randon</persName>,
+<persName>David Mills</persName>,	<persName>J. M. Shipman</persName>,	<persName>John W. Cloud</persName>,
+<persName>Wm. H. Wharton</persName>,	<persName>Joseph S. Sevey</persName>,	<persName>Garon Hines</persName>,
+<persName>John A. Wharton</persName>	<persName>Edmund Andrews</persName>,	<persName>P. Bertrand</persName>,
+<persName>F. C. Gray</persName>,	<persName>Walter A. Mangham</persName>,	<persName>W. D. C. Hall</persName>
+<persName>Josiali T. Harrel</persName>	<persName>Samuel May</persName>,	<persName>Ervin P Puttam</persName>
+<persName>R. J. W. Reel</persName>,	<persName>John Angel</persName>,	<persName>Marvil M'Farlin</persName>
+<persName>Joseph Walker</persName>,	<persName>Alexander Calvit</persName>,	<persName>David Tally</persName>,
+<persName>R. D. Tyler</persName>,	<persName>J. C. Hoskins</persName>,	<persName>John Woodruff</persName>,
+<persName>Joseph R Hoppe</persName>,	<persName>J. W. Fannin, jr.</persName>	<persName>A. Harris</persName>,
+<persName>Thos. T. Erwin</persName>	<persName>Fleming T. Wells</persName>,	<persName>Wm. Barret</persName>
+<persName>Benjamin R. Brigham</persName>	<persName>Henry Fisher</persName>,	<persName>Wm. T. Austin</persName>,
+<persName>Thos. R. Sweny</persName>,	<persName>Mark W. Smith</persName>,	<persName>John W. Hall</persName>,
+<persName>George Welsh</persName>,	<persName>John Ward</persName>,	<persName>John Lorton</persName>,
+<persName>William Edwards</persName>,	<persName>Wm. A. Gilliland</persName>,	<persName>Saml. Fuller</persName>,
+<persName>Hiram Riggs</persName>,	<persName>James O'Connor</persName>,	<persName>Edwin Waller</persName>,
+<persName>Anson Jones</persName>,	<persName>Richard Shelton</persName>,	<persName>Saml. Chance,</persName>
+<persName>B. T. Archer</persName>,	<persName>John Gellespie</persName>,	<persName>J. T. Tinsley</persName>,
+<persName>Wm. G. Hill</persName>.	<persName>Allen Larison</persName>,	<persName>John Campbell</persName>,
+<persName>L. Kelcy</persName>,	<persName>W. H. Bynum</persName>,	<persName>David M. McCormic</persName>,
+<persName>Jno. P. Gill</persName>,	<persName>J. Brown</persName>,	<persName>G. W. Lanis</persName>,<pb n="100"/>
+<persName>Wm. M'master</persName>,	<persName>Charles Billings</persName>	<persName>W. J. Cannon</persName>,
+<persName>Ira Jones</persName>,	<persName>John Nelson</persName>,	<persName>S. Dinsmore</persName>,
+<persName>Wm. A. Hesskew</persName>,	<persName>John Creton</persName>,	<persName>Henry Smith</persName>,
+<persName>Alexander Russell</persName>,	<persName>Ariel Sheldon</persName>,	<persName>Gowin Harris</persName>,
+<persName>C. Stringfellow</persName>	<persName>F. J. Haskins</persName>,	<persName>D. T. Fitchett</persName>,
+<persName>John Gordon</persName>.	<persName>J. W. Wade</persName>,	<persName>A. Sheppard</persName>,
+<persName>John W. Moore</persName>,	<persName>Nathaniel Kimball</persName>	<persName>John Duncan</persName>,
+<persName>M. J. M'Gee</persName>,	<persName>Harvy N. Litle</persName>,  	<persName>John D. Newell</persName>,
+<persName>A. Applewhite</persName>,	<persName>S. Churchill</persName>,	<persName>Thos. Jameson</persName>,
+<persName>M. Hill</persName>,	<persName>Edward Hufty</persName>,	<persName>John Gates</persName>.
+<persName>Thos. J. Dasher</persName>,	<persName>John W. Litle</persName>,	<persName>W. S. Hall</persName>,
+<persName>C. Denman</persName>,	<persName>Erastus Litle</persName>,	<persName>Francis Bingham</persName>,
+<persName>John Hodge</persName>	<persName>Eli Nowlan</persName>,  	<persName>Jabez B. Capell</persName>
+<persName>A. E. Hodge</persName>,	<persName>Thomas Robinson</persName>,	<persName>Stephen Oalsmaker</persName>,
+<persName>R. Clokey</persName>,	<persName>Thomas F. McKinney</persName>,	<persName>J. G. Webb</persName>,
+<persName>George Byrne</persName>,	<persName>Wm. H. Jack</persName>	    <persName>John James</persName>,
+<persName>James Jones</persName>.	<persName>Wesley W. Pace</persName>,	<persName>Pleasant Bull</persName>,
+<persName>George Daniel</persName>,	<persName>S. E. Prather</persName>,	<persName>Solomon Caraway</persName>,
+<persName>Thos. W. Grayson</persName>,	<persName>Wm. H. Scott</persName>,	<persName>James Harper</persName>,
+<persName>Joseph A. Duponge</persName>	<persName>David H. Scott</persName>,	<persName>Robert H. Williams</persName>,
+<persName>James Crunk</persName>	<persName>John Elkins</persName>,	<persName>B. B. Waller</persName>,
+<persName>James Peehouse</persName>,	<persName>Rufus Wright</persName>	<persName>James Collinsworth</persName>.
+<persName>A. G. M'Neel</persName>,	<persName>George M. Paine</persName>,	</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
