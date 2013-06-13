@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB3106">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Kerr to Stephen F. Austin, 11-12-1826</title>
+            <author>
+                <persName>James Kerr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-14">08-14-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F. Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 1503
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1826-11-12">11-12-1826</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Trouble with De Leon.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1826-11-12">12th Nov. [1826]</date></p>
+
+<p>I am S[t]ill on the mend, and have the oppertunity of sendeing by <persName>Mr. John Brown</persName> who has Just came from the <placeName>Interior</placeName>&#8212;he seen the
+<persName>Colp</persName> near <placeName>Labahia</placeName> etc</p>
+
+<p><persName>Madam Trudeau</persName>, <persName>Mr. William Smith</persName>, and <persName>Mr. Wightman</persName> set off
+<date when="1826-11-11">yesterday</date> for <placeName>St. Antonio</placeName> and intended going by the way of <placeName>Gonzales</placeName>&#8212;<persName>Mrs. T</persName>&#8212; will give evidence to the <persName>Chief</persName> relative to the
+Threats of <persName>Delion</persName>, and they all three will urge the <persName>Chief</persName> to order all
+the <persName>parties </persName>and papers before him: This is what we all wish for, and
+should Our friend <persName>Williams</persName> get there I fear no danger, but if he does
+not get on and the <persName>prisners</persName> are detained in <placeName>Labahia</placeName> etc. an <persName>Alcaldes
+Court</persName> opened there for there trial the worst of consequences are to be
+feared.</p>
+
+<p>I am Conscious you need not be informed the nature of the <persName>Courts</persName>
+they have at <placeName>Delions Town</placeName> and <placeName>Labahia</placeName></p>
+
+<p>There is a kind of <persName>french Doctor</persName> who came <persName>pasinger </persName>on the escambia and who it seems assumes the province of a <persName>Mexican officer</persName>,
+and who has exercised greate pomp, dictatorial ship here&#8212;he sets up
+a Claim against <persName>powell</persName> the <persName>owner </persName>of the Cargo, for $9,000 and alledges Robery against the <persName>Capt.</persName> of the vessel etc</p>
+
+<p>the <persName>commendant</persName> has said that this said <persName>Doctor</persName> is no <persName>Officer</persName>,&#8212;</p>
+
+<p>It has been through this <persName>Doctor</persName> that all this trouble has come on
+us this how[ev]er is my Opinion, and I am farther of the Opinion
+that the<persName> Sd. D.</persName> is and has been acting under a bribe etc by some of
+our <persName>neighbours</persName>.</p>
+
+<p><persName>Burnett</persName> is on the way and will be at the <placeName>Guadaloupe</placeName><date when="1826-11-12"> to night</date>, he
+was well <date when="1826-11-12">this morning</date> at the <placeName>Crossing of the La Baca</placeName>.</p>
+
+<p>My Dear <persName>Colo</persName> If there has been any threats Made by any of the
+<persName>Settlers</persName> here I am yet Ignorant of them. I can not believe now that
+any other than, if wantonly, and Out rageously attacked by the
+<persName>Indians</persName> or by <persName>Delion</persName>, as he threatened they would defend themselves
+etc But no threat that has Came to my knowledge ever was made
+against the <persName>Govt</persName></p>
+
+<p>I am now fateagued and must close etc</p>
+
+<p><persName>James Kerr</persName></p>
+
+<p>Please write me often&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
