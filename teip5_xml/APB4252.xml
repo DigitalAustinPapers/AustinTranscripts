@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4252">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>J R Bedford to Stephen F Austin, 08-05-1831</title>
+            <author>
+                <persName>J R Bedford</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-13">09-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Gonzales, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 686-687
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-08-05">08-05-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Minor difficulties in closing DeWitt's contract.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Gonzales </placeName><date when="1831-08-05">5 August 1831</date></p>
+<p>Respected Sir</p>
+
+<p>A short respite from almost incessant writing enables me by this
+opportunity to make my acknowledgments for the Kindness 
+(unmerited altogether) with which you have favor'd an individual 
+personally a <persName>stranger </persName>to you; the value of which is doubly enhanced<pb n="687"/>
+by the testimony it affords of the disposition of the <persName>Govt </persName>to reward
+in a reasonable way the services however humble of those who have
+been instrumental in defence of the <placeName>Country</placeName>, and the source by
+which it has been received, as without your interference, it would
+in all human probability have continued for me a dead letter&#8212;</p>
+
+<p>On reverting to Art's 10, 22 and 27 of Law <date when="1828-03-24">24 Mar</date>: it appears
+that this species of <placeName>grant </placeName>is exempted from paymt of any dues to
+the <placeName>State</placeName>, this has not been attended to in my case, tho' <persName>officers
+in the Navy</persName> from a Mid' in the line of promotion are " <persName>Militares </persName>"
+and I would feel oblig'd for your opinion whether it is worth
+troubling the <persName>Govr </persName>with a representation or whether a saving clause
+could not be inserted in the deed to provide, against the payment,
+I am undecided where to locate this <placeName>League</placeName>, I am poor and unable
+to improve it when located, and would if a fair offer could be had
+sell it,   what is your opinion ?</p>
+
+<p>We get on slowly making out the deeds, the <persName>people </persName>are fractious
+and unprovided, the <persName>Commissioners </persName>fees are high, the <persName>Surveyors </persName>not
+being able to get half their pay are hostile and untractable, much
+praise is due to<persName> Mr. Byrd Lockhart </persName>for his forbearance and exertions
+in the dispatch of business, and without him every thing would have
+been por la obra de <persName>Dios</persName>. <persName>Col: De W.</persName> is well and will save his
+premium. I have heard that two of <persName>Martin de L's Sons </persName>are in
+durance on the <placeName>Rio Grande </placeName>taken in their laudable exertions for
+the extention of the Tobacco business, one of them is <persName>Dn, Fernando
+Commissr elect</persName> for his <placeName>father's Colony</placeName>. Compliments and best
+wishes for your welfare and happiness from <persName>Mr. Navarro</persName>, the 
+<persName>DeWitt</persName>s <persName>Lockhart </persName>and those of your much oblig'd and obedt.</p>
+
+<p><persName>Josh. R. Bedford</persName>    [Rubric]</p>
+
+<p>To <persName>S. F. Austin Esqre</persName></p>
+
+<p>N. B.   I enclose you a dollar and a half which makes us quits.&#8212;</p>
+
+<p>P. S. <persName>Mr. N.</persName> thinks that the Communication in No, 18&#8212; of
+<date when="1831-06-27">27 June last</date> as coming from him and affecting indirectly the honor
+of his friend <persName>Musquiz </persName>might have been better edited, the word
+"declamation" is inserted for <hi rend="italic">"acclamation"</hi> and he is made to
+sign himself Señor which appears to have been done thro' irrasion,
+this is the liberty of the press with a vengeance.</p>
+
+<p><persName>J. R. B.</persName></p>
+<p>[Addressed:] To<persName> Col: Stephen F. Austin</persName>   <placeName>Austin</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4255">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James W Breedlove to Stephen F Austin, 08-11-1831</title>
+            <author>
+                <persName>James W Breedlove</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-13">09-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 688-689
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-08-11">08-11-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Protesting against statement by George Fisher that he is being censured because free negroes are entering Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mexican Consulate</p>
+<p>New Orleans </placeName><date when="1831-08-11">Augt 11 1831</date></p>
+<p><persName>Col Stephen F Austin</persName></p>
+
+<p>Dear Sir By an arrival <date when="1831-08-10">yesterday </date>I am favored with a 
+communication from <persName>Mr George Fisher</persName> dated <date when="1831-07-06">6 July</date>, in which he says you
+are in want of a Copy of your officio to him of the <date when="1831-06-05">5th of June,</date> which
+he remited to this consulate. I herewith hand you a Copy of <persName>Mr.
+Fisher</persName>s entire Letter to me, in which yours to him is embodied</p>
+
+<p>In <persName>Mr. Fisher</persName>s letter to me of the <date when="1831-07-06">6 July</date> I am surprised to
+find the following sentence "<persName>Free people of Colour</persName> are coming in
+dayley into this <placeName>Country</placeName>, and you are much sensured on the subject??</p>
+
+<p>Now I would like to know why sensure should be attached to me
+for the commission of acts in which I can have no agency what ever,
+on the receit of your officio, I published in the <placeName>dayly Gazett</placeName> of this
+<placeName>City </placeName>that all <persName>free Negroes</persName> who had been driven out of <placeName>Louisiana </placeName>by
+a law of the <persName>last Legislature</persName> were forbid en to enter the <placeName>States of
+Cohahuila and Texas</placeName>, and all <persName>masters </persName>of Vessels were informed that
+they would be compelled to bring away all such <persName>passengers </persName>they
+might have on board their Vessels, which was doing all I could 
+lawfully do to put a stop to such <persName>Emigrants</persName>, for I defy any man of that
+discription to shew a passport from this consulate Since the date of
+my publications.</p>
+
+<p>If the <persName>authorities of Texas</persName> who have the power of preventing
+those <persName>people </persName>being landed on their <placeName>shores</placeName>, or entering by land, will
+not Exercise it, I am not to be blamed.   I have no power here as a<pb n="689"/>
+<persName>Mexican Agent</persName> to prevent their going on board Vessels leaving this
+<placeName>port</placeName>, then why not let the blame rest on the proper persons, Such
+things are calculated to injure my Commercial business with <placeName>Texas</placeName>.
+I hope therefore you will do me the Justice to correct the erronious
+opinions of its being my fault</p>
+
+<p><persName>Jas W Breedlove  </persName>  [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

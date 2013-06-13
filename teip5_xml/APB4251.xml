@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4251">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Sylvester Murphy to Stephen F Austin, 08-04-1831</title>
+            <author>
+                <persName>Sylvester Murphy</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-13">09-13-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Gin Place</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 685-686
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-08-04">08-04-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Land. Major Douglass falsely claims negroes.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Gin Place </placeName><date when="1831-08-04">4th August 1831</date></p>
+<p><persName>Col. S. F. Austin</persName></p>
+
+<p>Dr Sir. I received your favour of the <date when="1831-08-01">1st Inst</date> by <persName>Mr Hunter</persName>,
+I am truely sorry I could not obtain the <placeName>Clear Creek tract</placeName>.  I am a<pb n="686"/>
+<persName>stranger </persName>in the <placeName>country </placeName>and my health has been and still remains
+so bad I have had no oppertunity of travling to make a Selection-
+even one or two rides to <placeName>Brazoria </placeName>has weakened me in such a manner
+I have been compeld to take two days to it. <persName>Mr Hunter</persName> informs me
+that <hi rend="italic"><persName>Major Douglass</persName></hi> has made an Entry of my <persName>Negroes </persName>in your office
+as his <persName>property</persName>&#8212; Now fair, I wish to prove to you that I am, and
+know, I shall always remain above <hi rend="italic">falsehood</hi>, I told you the 
+<persName>property </persName>was mine Enclosed you will receive Vouchers sufficient to 
+satisfy you and every other <persName>person </persName>that he does not, nor ever did own
+any part of the <persName>property </persName>in my possession nor does he own one Dollars 
+worth in the <placeName>Colony</placeName>&#8212;his statement is gratuitous and false and
+unauthorized by me&#8212;</p>
+
+<p>When the <persName>Major </persName>went to <placeName>San Phillipe</placeName> <date n="03-xx-1831">last March</date>, I asked him to
+take an <persName>Indenture </persName>that he was a <persName>witness </persName>to and prove it before the
+<persName>proper authority</persName> in <placeName>San Phillipe</placeName>, when he returnd I asked him why
+he had not done so&#8212; he then told me that himself and <persName>Mr S.
+Williams</persName> had a misunderstanding&#8212;but he did not tell me he had
+presumed to enter the property as his, and I do hope his imprudent
+conduct will not be suffered to weigh one jot against me&#8212;</p>
+
+<p>I also inclose you a letter from <persName>Capt- John Austin</persName>, and I think
+I may venture to say (without egotism) that they are few men that
+have settled in this <placeName>Colony </placeName>that have behaved better, and have made
+more <persName>friends </persName>in so short a time.</p>
+
+<p>I have been anxious, and nothing but delicate health has 
+presented me from coming to<placeName> San Phillipe</placeName> long since, to comply with
+the terms of the Law, <persName>Mr Hall</persName> can inform you I have been very
+sick&#8212;but I say again, as soon as my health permits I will come up
+and do every thing that is necessary to make a <persName>Citizen</persName>-&#8212; Under
+those considerations I do hope sir you will reconsider my <hi rend="italic">Case </hi>and
+if it is a possible thing give me the <hi rend="italic"><placeName>Clear Creek tract of land</placeName></hi>&#8212; I
+assure your sir I remain your very obednt and humble Servant</p>
+
+<p><persName>Sylvester Murphy</persName></p>
+
+<p>NB you will observe the <persName>Major </persName>acted as <persName>agent </persName>for me in clearing
+the <persName>Negroes</persName>, my health was so bad I could not attend to it, and
+on the back of the Manifest he acknowledges that fact&#8212;   <persName>S M</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
