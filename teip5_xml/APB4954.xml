@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4954">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 10-15-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-04-04">04-04-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 185-186
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-15">10-15-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-04-04" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing his succession to command of the post. Suggesting capture of Lipantitlan. Sending certain Mexican volunteers to Austin</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Goliad </placeName><date when="1835-10-15">Oct. 15&#8212;1835</date></p>
+<p>8. in the morning</p>
+<p>To <persName>Genl. S F Austin<lb/>
+Com. in Ch. of the army of the people,</persName></p>
+
+<p>Sir</p>
+
+<p>I dispatch this by <persName>J. A. Padilla</persName>, With a <persName>Small detachment of Creole
+troops</persName>. These may be made very useful perhaps, if retained as 
+<persName>expresses</persName>&#8212;and are placed at Your disposal. The <persName>broken battallion</persName> 
+organized here on the arrival of <persName>Capt Smith</persName> and <persName>Alley</persName>, became disaffected 
+<date when="1835-10-14">Yesterday </date>and dissolved. This event, together with the consent of <persName>Capt Alley</persName>,
+leaves me in command of <placeName>this post</placeName>.</p>
+
+<p>I am <hi rend="italic">satisfactorily </hi>informed that there are at the <placeName>Cantonement on the
+Nueces</placeName>, 3 ps Small Brass Cann. a considerable supply of arms and 
+amunition, and a Valuable Caballada, and only <persName>30 or 40 men</persName>. I Suggest the
+propriety of reducing this <placeName>post</placeName>. It will give security to the <placeName>frontier</placeName>,
+Supply us with some important means of defence, Strike a panic and 
+encourage the counter revolution <placeName>in the interior</placeName> and if a dash were made on
+<placeName>Matamoras </placeName>the Stroke&#8212;might be followed by the most important 
+consequence to the present and future repose of <placeName>Texas</placeName>.</p>
+
+<p>My individual <hi rend="italic">means </hi>and services are at the disposal of my <placeName>adopted
+country</placeName>, to free <placeName>Texas </placeName>of an <persName>armed Soldiery</persName>.</p>
+
+<p>The <persName>Detachment </persName>which goes with <persName>Padilla </persName>is commanded by <persName>Sen Placido
+Venevedas</persName>.</p>
+
+<p><persName>Doct. Baylor</persName> goes with them, and can give you much important 
+information He is a <persName>gentleman</persName>, and a <persName>soldier </persName>was in action at the Storm of
+this <placeName>post</placeName>, and behaved bravely</p>
+
+<p><persName>Capt. Collinsworth</persName> has returned to <placeName>Bay Prairie</placeName>' for more men. A <hi rend="italic">few</hi>
+are expected here to day from <placeName><persName>Power</persName>'s Colony</placeName> below this.</p>
+
+<p><persName>Padilla </persName>and <persName>Placido Venevedas</persName> are in favor of receiving the <persName>privates</persName>,
+Captured here, into our service&#8212;But I am afraid; Your order on this 
+subject, however, as on all others, herein submitted, are solicited; and every
+<pb n="186"/>
+exertion will be made, which depends on me, and on those under my 
+<hi rend="italic">immediate </hi>command, to execute them.</p>
+
+<p>Amongst those who took possession of this <placeName>fort</placeName>, there has been no 
+dissenting, no dissatisfaction; they all have acted, and still act, in concert. It
+is greatly to be regreted that this is not the case in every instance, Every
+effort should be made by all, but more especially by those of the <persName>staff</persName>, to
+keep dissention out of our <placeName>camps</placeName>.</p>
+
+<p><persName>P. Dimitt Capt.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4955">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A R McNair to James F Perry, 10-15-1835</title>
+            <author>
+                <persName>A R McNair</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-04-04">04-04-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 186
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-15">10-15-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-04-04" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing a volunteer. Would join himself, but is disabled by yellow fever</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1835-10-15">15th Oct. 1835</date></p>
+<p><persName>Jas. F. Perry, Esq.</persName></p>
+<p>Dr Sir</p>
+
+<p>I take pleasure in introducing to you the <persName>bearer</persName>, <persName>Mr Stiff</persName> who visits your
+<placeName>Country</placeName>, as a <persName>volenteer in defence</persName> of your wrights&#8212;</p>
+
+<p>I feel every assurance in saying that you will find encased in his delicate
+frame, a mind fully adequate to bear up through trials which would crush
+others of superior phisical force, and a spirit worthy of being honorably
+employed in your contest against the <persName>usurpers of power</persName>, the perfidious
+advocates of <persName>central government</persName>.&#8212;<persName>Mr Stiff</persName>'s pecuniary circumstances 
+renders it perfectly unnecessary that he should visit your <placeName>country </placeName>in quest of
+fortune, and I think I may say, without detriment to the motives of others,
+that you are indebted for his aid, to those more generous and extended
+feelings, which are inherent in the bosoms of all <persName>true americans</persName></p>
+
+<p>Any attention which the turmoils of war will permit you to show him,
+will be gratefully acknowleged by</p>
+
+<p><persName>A. R. McNair</persName></p>
+
+<p>P.S. For fear that you will be at a loss to define the reason why I am
+not actuated to the same purpose with my young friend, I must inform you
+that the Yellow fever has played havoc with my once athletic frame, and
+that I am now, only able to walk with the aid of a cane&#8212;I was confined
+8 months to my bed the effects of mercury.&#8212;my hip is dislocated and all
+in all, I would not do for the field, and must content myself, with giving
+you the warmest wishes for your success.</p>
+
+<p>I hope and think, that the excitement here in your favor, will result in
+advantage to you in men and money&#8212;many have already volenteered, and
+a considerable number subscribed</p>
+
+<p>I am told that there is one <persName>gentleman </persName>here, who has 1000 Rifles, 
+intended to be given to <persName>volunteers </persName>and sent to <placeName>Texas</placeName>.</p>
+
+<p>Be pleased to remember me to <persName>Mrs Perry</persName> and your <persName>family</persName>.</p>
+
+<p><persName>A. R. McNair</persName></p>
+
+<p><persName>Jas F. Perry Esq.</persName> <placeName>St Philip de Austin Texas</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

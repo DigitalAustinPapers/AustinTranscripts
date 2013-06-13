@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4956">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>C B Stewart to Stephen F Austin, 10-15-1835</title>
+            <author>
+                <persName>C B Stewart</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-04-04">04-04-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">At Camp, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 187
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-15">10-15-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-04-04" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Recommending Deaf Smith, who thinks he can induce Mexican cavalry at San Antonio to desert</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1835-10-15">Oct 15. 1835</date></p>
+<p>Dear Sir</p>
+<p>The <persName>bearer Erasmus Smith</persName> is well known to you&#8212;I have conversed
+with him and learn that the <persName>cavalry of <placeName>San Antonio</placeName></persName> are disaffected to the
+cause with which they are serving. He thinks he can render Service to us
+in a certain way&#8212;Do consider if some thing cannot be done by assurances
+to the disaffected through this channel.</p>
+
+<p><persName>C. B. Stewart</persName></p>
+
+<p><persName>Col S F Austin Comd-in [Chief] at <placeName>camp</placeName></persName></p>
+
+<p>N B He is well known to me perhaps you may not recall him 
+immediately&#8212;having travelled with him and received service and assistance at
+his hands perfectly disinterested I believe that he can be trusted to any
+extent his abilities and infirmity may warrant</p>
+
+<p><persName>CBS</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

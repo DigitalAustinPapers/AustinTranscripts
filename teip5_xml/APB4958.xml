@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4958">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R R Royall to Stephen F Austin, 10-16-1835</title>
+            <author>
+                <persName>R R Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-04-04">04-04-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Major Whiting
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head quarters, Texas Volunteers, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 188-189
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-16">10-16-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-04-04" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Necessity of arresting John A. Williams with company of 58 to aid the enemy. Lacks authority</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San. Felipe</placeName><date when="1835-10-16"> 16th 1835</date>&#8212;</p>
+<p><persName>Col S F Austin</persName></p>
+<p>Dear Sir</p>
+
+<p>For a long time there has been a great many things spoken of
+Th[r]oughout our <placeName>community </placeName>about One <persName>John A Williams (Judge 
+Williams)</persName> as having taken a very active Part against the Acts of the <persName>Colonists</persName>
+and advocating the measures persued by the <persName>Mexican Government</persName>, for a
+long time I thought from report (for I dont know the man) his oposition
+arose from misconceived Ideas But it has been Impressed upon the 
+<persName>Council </persName>and Particularly today that his conduct deserved the attention of that<pb n="189"/>
+Body and that he has arrayed himself with <persName>58 followers</persName> already enrolled
+against out military movements and with a View of offering facilities to the
+<persName>Enemy </persName>with whoom he is in Regular Correspondence&#8212;having Prepared a
+Boat for the accomodation etc. Now from these facts coming from so 
+respectable an authority the <persName>Council </persName>in secret session with <persName>Henry Smith Esqr</persName>
+<persName>John D. Newell</persName> <persName>Wm- P Harris</persName>, <persName>Saml Whiting</persName> and <persName>Mr Menifee</persName> 01 have thought the circumstances would Justify an
+Immediate arrest and the safe keeping of said <persName>Williams </persName>till he should be
+tried and Disposed of by a proper tribunal. But considering the Delicate
+situation of this <persName>Council </persName>being Representatives from a <placeName>minority of the 
+municipalities </placeName>only Have recommended that the <persName>commander in chief</persName> associated
+with his <persName>staff </persName>and <persName>confidential officers</persName> Invite those <persName>members </persName>acquainted
+with the circumstances and Ishue their request or Order to this Body for
+their complyance.</p>
+
+<p>I cannot see but such a proceeding is consistant in times like these when
+we are surrounded by Warr and our <persName>Citizens </persName>are afraid to leave their
+<placeName>Homes </placeName>lest their <persName>families </persName>be destroyed by the means and facilities afforded
+by those within our own Bosom it is times of Warr and military rules
+must Prevail in some Extent till otherwise Provided. If you advise 
+anything to be done in this matter it is necessary to be done with secrecy and
+Dispatch&#8212;If you come to any conclusion of active measures in this matter
+please dispatch it by <persName>Express </persName>and it is well to have the names associated
+with you signed to the Order and for the Execution of the Order I 
+particularly recommend <persName>Majr Whiting</persName>.</p>
+
+<p><persName>R. R. Royall Presdt</persName>.</p>
+
+<p>[Addressed:] Private <persName>Col. S. F. Austin</persName> <persName>Head Quarters Texas</persName> 
+<persName>Volunteers </persName>favr by <persName>Majr Whiting</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
