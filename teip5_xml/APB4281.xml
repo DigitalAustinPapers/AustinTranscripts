@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4281">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 11-17-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-16">09-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Cap. John Austin
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Chocolate Bayou, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 706-707
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-11-17">11-17-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advice about home.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1831-11-17">Novr. 17. 1831</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>I am happy to inform you that I left my room <date when="1831-11-16">yesterday </date>and
+rode down to see <persName>sister</persName>, also that <date when="1831-11-16">last night</date> She was safely delivered
+of a fine <persName>Son </persName>I give you joy&#8212;all is doing well&#8212;what a host of boys
+you will have&#8212;<pb n="707"/></p>
+
+<p>If I recruit as fast as I have the last four days I shall be able to
+start to <placeName>Anahuac </placeName>in a <date when="1831-11-24">week</date>, If I can hire a boat there, I will go by
+water direct to your place on<placeName> chocolate bayou</placeName>, and thence up home
+by <placeName>Brazoria </placeName>and <placeName>Bolivar </placeName>but you must furnish me horses.</p>
+
+<p>I forgot to mention that <placeName>north side of pleasant Creek</placeName> will be the
+best for the field on one important particular, the wind is so severe
+from the <placeName>sea </placeName>that I am told it whips out the corn and blows it down,
+the timber of <placeName>pleasant Creek</placeName> would keep off the wind from a field
+on the north side,   The south side is the place to live</p>
+
+<p><persName>S. F. Austin  </persName>  [Rubric]</p>
+
+<p>[Addressed:]<persName> Mr. James. F. Perry</persName> <placeName>Chocolate Bayou</placeName>&#8212;Care of
+<persName>Cap. John Austin </persName>who will please forward it by first safe opportunity</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4279">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 11-15-1831</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-16">09-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Chocolate Bayou, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 704
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-11-15">11-15-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Navigation and custom duties. Conference with Terán. Forecasts.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>I am getting better slowly but cannot yet go out&#8212;I can sit up
+and walk about the room and intend to ride out <date when="1831-11-16">tomorrow</date></p>
+
+<p><persName>Genl Teran</persName> and <persName>Fisher </persName>have now arrived at <placeName>Anahuac </placeName>there is
+a report that only 1/4 duties are to be collected&#8212;I do not know the
+truth of this report&#8212; The Nelson was to sail on the <date when="1831-10-20">20 of October
+</date>from <placeName>New York</placeName>&#8212; You ought not to let your goods stay any time
+not a day in <placeName>Brazoria </placeName>after they arrive, get them away as soon as
+you can&#8212; I shall go and see the <persName>Genl </persName>as soon as I can ride in the
+Dearborn which will be in 4 or 5 days I think&#8212; the prospects
+of matters are very good and I am in good sperits</p>
+
+<p>I wish you to remember and remind <persName>Emily </persName>that I wanted you
+to settle at <placeName>peach point</placeName>&#8212; the reason I mention this is because
+<placeName>Brazoria </placeName>will in a very few years be a <placeName>large town</placeName> and <placeName>land </placeName>round
+it will be up to 20 or 40 Dolls an acre and <hi rend="italic">then </hi><persName>Emily </persName>may complain
+that I had sent you to <placeName>Chocolate Bayou</placeName></p>
+
+<p>farewell&#8212;after my return from <placeName>Anahuac </placeName>I will go and see you
+before I start for <placeName>Saltillo</placeName>&#8212;</p>
+
+<p><persName>S F Austin</persName></p>
+
+<p><date when="1831-11-15">Novr 15. 1831</date></p>
+
+<p><persName>Angier </persName>I expect will remove to <placeName>Anahuac</placeName>, <hi rend="italic">immediately</hi>, and 
+perhaps you may buy<persName> Mrs Angier</persName>s Cattle and the <placeName>mill</placeName></p>
+
+<p>After you get that place under way and well stocked you might
+<hi rend="italic">then </hi>remove to <placeName>Brazoria </placeName>or <placeName>Peach Point</placeName></p>
+
+<p>[Addressed:]<persName> Mr James F. Perry </persName>on <placeName>Chocolate Bayou</placeName> <persName>Mrs
+Angier</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

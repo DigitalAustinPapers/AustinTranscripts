@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4270">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Walter Turnbull to Stephen F Austin, 10-13-1831</title>
+            <author>
+                <persName>Walter Turnbull</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-09-16">09-16-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Doct. Phelps
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Pinckney Ville, Illinois</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 699-700
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1831-10-13">10-13-1831</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-09-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Depression in United States.  Slave insurrections in Virginia and North Carolina.
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Pinckney Ville</placeName> <date when="1831-10-13">13. Oct. 1831</date></p>
+<p>My dear Sir;</p>
+
+<p>When I parted with you, I believe I informed you that my 
+<persName>family </persName>would be in <placeName>Texas </placeName>in <date n="12-xx-1831">December </date>or <date n="01-xx-132">January</date>, but since my return
+<placeName>home</placeName>, I find it will be impossible for me to do so, I will not be able
+to remove them before <date n="04-xx-1832">April </date>or <date n="05-xx-1832">May</date>, I shall however be in <placeName>Texas</placeName>
+with my property in <date n="12-xx-1831">December</date>, when I shall make a location and
+commence erecting Cabins etc. the object of making this communication 
+is a desire on my part not to deceive you as to the time I
+shall have my <persName>family </persName>in the <placeName>Colony</placeName>. This letter will be handed you
+by <persName>Doct. Phelps</persName> who sets out on <date when="1831-10-16">Sunday next </date>for <placeName>San Felippe de
+Austin</placeName> and will be followed in the course of the <date n="Winter - 1831">winter </date>by his
+<persName>family</persName>, who owing to the unusual unhealthiness of this and 
+<placeName>Louisiana </placeName>consider it unsafe to attempt to travel before <date n="WInter - 1831">winter</date>&#8212; This
+whole <placeName>country </placeName>has been visited with a dreadful Gale of Wind
+and a great deal of rain which has cut the crops of Cotton and sugar
+off more than one half and I have no doubt there are a great many
+<placeName>plantations </placeName>that will not make more than expences&#8212; In <placeName>Virginia</placeName>
+and <placeName>North Carolina</placeName> they have had an insurrection of the <persName>negroes</persName>,<pb n="700"/>
+who before their progress were stopped butchered 70 or 80 <persName>persons</persName>,
+say <persName>men </persName><persName>women </persName>and <persName>children </persName>spareing neither age nor sex&#8212; Serious
+apprehensions are entertained of an Insurrection of the <persName>blacks </persName>in
+this <placeName>state </placeName>and <placeName>Louisiana </placeName>particularly in the latter state, the people
+are on the <persName>qui vive patroles</persName> are moving at all hours and I think
+it impractable, even should they make the attempt to do much 
+mischief</p>
+
+<p>I have not seen a well day since I left <placeName>Texas</placeName>, I have had an attack
+of Jaundice,&#8212;I have taken the liberty of sending you by <persName>Doct,
+Phelps</persName> a few late <placeName>News papers</placeName>&#8212;</p>
+
+<p><persName>Walter Turnbul</persName></p>
+
+<p>[Addressed:] <persName>Colonel Stephen F Austin</persName> <placeName>San Felippe de Austin
+Texas </placeName>  Favd. by <persName>doct. Phelps</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
