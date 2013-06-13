@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4067">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Ayunatmiento of San Felipe, 10-31-1830</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2010-08-31">08-31-2010</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Ayunatmiento of San Felipe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">Annual Report of the American Historical Association for the Year 1919: The Austin Papers</hi>, (Washington, D.C.: Government Printing Office, 1924), 3 vols., Vol 1, Part 2, pp. 525
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1830-10-31">10-31-1830</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2010-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking it to apply to governor for appointment of a land commissioner.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Ilustrios <persName>Ayto</persName>.</p>
+
+<p>In the month of <date n="05-xx-1830">May last</date> I was informed verbally by the <persName>chief
+of Department at <placeName>Bexar</placeName></persName> that persons had been recommended to
+the <persName>Gvr of the State</persName> for <persName>commissioner </persName>to dispatch the land business
+of the several <placeName>Colonies of Texas</placeName>. On the <date when="1830-07-17">17 day of July</date> I officially
+applied to the <persName>Gvr </persName>for the appointment of a <persName>Commissioner </persName>for my
+<placeName>colony </placeName>and on the <date when="1830-10-19">19 day of this month</date> I again repeated the 
+application, Not having recd, any answer to these applications, and
+there being a necessity that the land business of the <placeName>colony </placeName>should
+be completed I beg leave to call the attention of the <persName>Ayto</persName>. to this
+subject and request that an official application be made to the <persName>Gvr</persName>
+by that illustrious body representing the necessity and importance
+of having a <persName>com</persName>. appointed without delay.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><date when="1830-10-31">31 Oct. 1830</date></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
