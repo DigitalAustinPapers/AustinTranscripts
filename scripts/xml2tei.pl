@@ -204,21 +204,37 @@ SGMR29HEREDOCTOKEN424
         }
     }
 
-    if ($fileContents =~ m/\<document_recipient\>([^<]*)\<\/document_recipient\>/)
+    if ($fileContents =~ m/\<document_recipient\>(.*)\<\/document_recipient\>/s)
     {
         my $recipients = $1;
-        foreach my $name (split(/,|and /, $recipients))
+        
+        # handle special cases
+        if($recipients =~ m/Editor/)
         {
-            my $key = getPersonKey($name);
-    $recipientsBlock .= <<SGMR29HEREDOCTOKEN511
+		    $recipientsBlock .= <<BWB29HEREDOCTOKEN511
                 <person>
                     <persName type="recipient">
-                        $name
+                        $recipients
                     </persName>
-                </person>
+                </person>		
+BWB29HEREDOCTOKEN511
+        	
+        } else {
+	        foreach my $name (split(/,|and /, $recipients))
+	        {
+	            my $key = getPersonKey($name);
+			    $recipientsBlock .= <<SGMR29HEREDOCTOKEN511
+	                <person>
+	                    <persName type="recipient">
+	                        $name
+	                    </persName>
+	                </person>
 
 SGMR29HEREDOCTOKEN511
+        }        	
         }
+        
+
     }
     
     print "textId:$textId\n";
