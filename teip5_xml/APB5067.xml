@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5067">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Edward Burleson and Ben Milam to President of the Provisional Government of Texas, 12-06-1835</title>
+            <author>
+                <persName>Edward Burleson and Ben Milam</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-07">07-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        President of the Provisional Government of Texas
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Camp, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 280
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-06">12-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Announcing beginning of assault on Bexar</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Camp before Bexar</placeName> [December 6, 1835]</p>
+
+<p>To the <persName>President of the Provisional Governt</persName>&#8212;</p>
+
+<p><date when="1835-12-05">Yesterday Morning</date> at day light or rather some twenty minutes before
+<persName>Colo Milam</persName> with a party of about <persName>300 volunteers</persName> made an assault upon the
+Town of <placeName>Bexar</placeName>, his <persName>party </persName>he divided into <persName>two divisions</persName>, which on entering
+into the <placeName>Town </placeName>took possession of two <placeName>houses </placeName>near each Other, <placeName>near the
+plasa</placeName>, where they have been ever since, Battling with the <persName>enemy</persName>, they have
+so far had a fierce contest the <persName>enemy </persName>offering a strong and obstinate 
+resistance it is difficult to determine what injuries has been done him, many
+<persName>killed </persName>Certainly, but how many cannot be told, on our side ten or twelve
+<persName>wounded </persName>two killed, the <placeName>houses </placeName>occupied by us commands some of the
+Cannon in the place, or have silenced them intirely, as it is reported to us,
+<hi rend="italic">the Issue is doubtful of course</hi>&#8212;<persName>Ugartchear </persName>is on the way with considerable
+<persName>reinforcements</persName>, how near exactly, has not yet been ascertained, but 
+certainly he is not more than fifty or sixty Miles off, this <persName>express </persName>has been 
+dispatched for an immediate supply of ammunition, as much powder and lead,
+as can possibly be sent, instantly, of the first mentioned article there is
+none beyond the Cannon Catridges, already made up, I hope that good
+Mules, or horses, will be provided to send on these articles, with the 
+greatest possible speed, traveling night and day, for there is not a moment to be
+lost, <persName>reinforcements </persName>of men also are perhaps indispencible to our 
+salvation, I hope every exertion will be made to force them out to our relief
+immedeately</p>
+
+<p><persName>Edward Burleson</persName></p>
+
+<p><persName>B. R. Milam</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

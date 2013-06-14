@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5068">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James P. Caldwell to Stephen F Austin, 12-08-1835</title>
+            <author>
+                <persName>James P. Caldwell</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-07">07-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 280-281
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-08">12-08-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin erred in appointment of staff. Army insubordinate.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>at <placeName>home </placeName><date when="1835-12-08">Decr. 8th. 1835.</date></p>
+
+<p><persName>Genl. S. F. Austin </persName>Dr Sir. I have heard with pleasure of Your return
+from Our <persName>Army</persName>, knowing as I do the materials of which the <persName>Army </persName>is 
+composed, I mean the insubordination, and the impossibility of keeping up any<pb n="281"/>
+thing like discipline, in the absence of all Law, I do think my d Sir, that
+You did err'd materially in the appointment of Your <persName>Staff</persName>. You placed
+Men in Office that would stop, at nothing short of Your ruin etc etc
+The proceedings of the whole <persName>Convention </persName>proves to my mind the old
+adage that give Men power and they will help themselves&#8212;they have made
+appointments which will down the<persName> Whartons</persName> in our <placeName>Section</placeName>, say the appt.
+of <persName>L. C. Manson as 1st. Judge in our <placeName>district</placeName></persName>&#8212;agst. which there will be a
+strong and very public remonstrance, as will many Others, known to
+Yrself&#8212;</p>
+<p>[The rest of the letter is taken up with the writer's anxiety about titles
+to his land.]</p>
+<p><persName>Jas. P Caldwell</persName></p>
+<p>[Addressed:] <persName>Genl S. F. Austin</persName><placeName> San Felipe De Austin</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

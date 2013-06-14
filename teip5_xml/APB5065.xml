@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5065">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to D C Barrett, 12-03-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-25">06-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        D C Barrett
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 275-279
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-03">12-03-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Strong statement of reasons for calling a new convention</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe de Austin</placeName>, <date when="1835-12-03">Dec. 3, 1835</date>.</p>
+<p>To <persName>D. C. Barrett, Esq.</persName></p>
+<p>Dear Sir,</p>
+
+<p>I have just received your note of <date when="1835-12-03">this date</date>, in which you request my
+opinion, as to calling a convention, without delay, on the plan of equality
+of representation, as nearly as practicable.</p>
+
+<p>In two communications, which I have made to the <persName>provisional 
+government</persName>, under date <date when="1835-10-30">30th ult</date>. and <date when="1835-12-02">2d inst</date>., I took a view of the present political
+situation of the <placeName>country</placeName>, which has a close connection with the subject of
+your enquiry. I refer you to them, as those communications were of an
+official character; the object of which was to state facts, as I understood<pb n="276"/>
+them. I gave no opinion as to <hi rend="italic">when </hi>the convention should be called, 
+believing it to be more proper to leave the <persName>provisional government</persName> to draw
+its own conclusions.</p>
+
+<p>The present communication is of a different character: I am directly
+called upon to give an opinion. I should comply with this request with
+great diffidence, did I not believe that the prudence and better judgment of
+the <persName>council </persName>(to which you say it will be submitted by you, as <persName>chairman of
+the committee</persName> on state affairs,) will detect any inacuracies or false 
+positions it may contain.</p>
+
+<p>The <persName>general consultation of <placeName>Texas</placeName></persName> was elected at a time when the <placeName>country</placeName>
+was distracted by popular excitements, produced by the diversity of 
+opinions which naturally resulted from the disbelief of some that the federal
+system would be destroyed, or was even attacked, the excited and 
+intemperate zeal of others, and the general want of certain information in all.
+It could not be reasonably expected that a body elected under such 
+circumstances, would be entirely free from the conflicting opinions that prevailed
+amongst their <persName>constituents</persName>, or that a clear and positively definite position
+would be taken by it. The <persName>majority of <placeName>Texas</placeName></persName>, so far as an opinion can be
+formed, from the acts of the <persName>people </persName>at their primary meetings, was 
+decidedly in favor of declaring in positive, clear and unequivocal terms, for
+the federal constitution of <date n="xx-xx-1824">1824</date>, and for the organization of <persName>local 
+government</persName>, either as a <placeName>state of the Mexican confederation</placeName>, or provisionally, until
+the <persName>authorities of the <placeName>state of Coahuila and Texas</placeName></persName> could be restored. This
+measure was absolutely necessary to save the <placeName>country </placeName>from anarchy; for it
+was left without any government at all, owing to the dispersion and 
+imprisonment of the <persName>executive</persName> and <persName>legislative authorities</persName>, by the 
+unconstitutional intervention of the <persName>military power</persName>. Some <persName>individuals </persName>were also in
+favor of independence, though no public meeting whose proceedings I have
+seen, expressed such an idea.</p>
+
+<p>We have seen the consequence of these conflicting opinions, in the 
+declaration made by the <persName>consultation</persName>, on the <date when="1835-11-07">7th of the last month</date>. It is not 
+entirely positive and definite in its character. Whether or not the crisis in
+which <placeName>Texas </placeName>is now placed, can be met and sufficiently provided for, by a
+position which admits of construction in its application, is a matter of
+opinion; as for myself, I believe it cannot.</p>
+
+<p>The character of the struggle in which <placeName>Texas </placeName>is engaged, is now clearly
+developed; it evidently is one of life or death, "to be, or not to be." It is
+no longer a mere question about the forms of political institutions; it is
+one of self-preservation. <placeName>Texas </placeName>is menaced with a war of extermination:
+the <persName>government of Mexico</persName> has so proclaimed it. The <persName>people </persName>now 
+understand their situation, and consequently are much better prepared to elect
+<persName>public agents</persName> to provide against such a danger, than they were at the time<pb n="277"/>
+of the last election. At that time the form of government was not changed
+by any act which had the influence or the character of law; it now is by
+the decree of the <date when="1835-10-03">3rd of October last</date>. At that time the <persName>state government </persName>
+existed; at this, no such thing as a state exists, not even in name. The decree
+of the <date when="1835-10-03">3rd of October</date> has converted them into <hi rend="italic">departments</hi>, without any
+legislative powers whatever, and entirely subject to the orders of the 
+<persName>president </persName>and <persName>central government in <placeName>Mexico</placeName></persName>.</p>
+
+<p>Again, the representation in the <persName>consultation </persName>was very unequal, a 
+principle that should be cautiously avoided, so far as practicable, in a body
+that is to settle the political destinies of a <placeName>community </placeName>where all are equally
+interested.</p>
+
+<p>The <persName>consultation</persName>, foreseeing that such a crisis as the present might 
+arrive, has very wisely provided for the calling a convention by the 
+<persName>provisional government</persName>; and I am clearly of opinion it ought to be done with
+the least possible delay.</p>
+
+<p>Another weighty reason in favor, is that the <placeName>world </placeName>are not yet sufficiently
+informed or enlightened on the causes or the merits of the present conflict.
+The <persName>people of <placeName>Texas</placeName></persName> have been, and now are accused of being ungrateful
+<persName>rebels</persName>, who have repaid the favors and bounties of the <placeName>nation </placeName>with 
+ingratitude and rebellion. This accusation is unfounded and unjust. That 
+<persName>individuals </persName>have committed imprudences and even excesses, and by so doing,
+have injured the character and the best interests of <placeName>Texas</placeName>, by giving a 
+pretext to our <persName>enemies </persName>to confound the whole of the people with those 
+<persName>individuals </persName>may be true; but when the causes of such excesses are sought for,
+they will be found to have proceeded from bad government, bad legislation,
+bad administration, or no government at all. Is this the fault of <placeName>Texas</placeName>?
+Whenever the <persName>people </persName>here have tried to get a local organization of 
+government, in order to correct and punish such excesses, they have been treated
+as <persName>rebels</persName>; so that the <persName>people </persName>are denounced because the want of <persName>local 
+government</persName> produces anarchy; and when ever they attempt to apply a remedy,
+they are treated as ungrateful <persName>rebels</persName>! This <placeName>country </placeName>has been redeemed
+from the <placeName>wilderness </placeName>by the <persName>people </persName>who now live in it, and without any cost
+to the <persName>general government</persName> or to the <placeName>nation</placeName>. The <persName>settlers </persName>were stimulated to
+persevere and to overcome the most appalling difficulties, by the express
+guarantees of a liberal system of government, and of the right of 
+self-government in their internal affairs, as a <placeName>state of the Mexican confederation</placeName>.
+The <placeName>lands </placeName>thus received were granted and sold by the <placeName>state of Coahuila and
+Texas</placeName>, and not by the <persName>general government</persName>, (except a few <placeName>old grants</placeName>, 
+previous to the establishment of the federal system) ; and it is worthy of notice,
+that one of the crimes attributed to the <persName>authorities of <placeName>Coahuila and Texas
+</placeName></persName>by the <persName>general government</persName>, as justification for its military intervention, was
+a granting of their <placeName>lands</placeName>; and yet the <persName>general government</persName> claims all the<pb n="278"/>
+merit of having given them away to the <persName>Texians</persName>! These <placeName>lands </placeName>and this
+<placeName>country</placeName>, at the commencement of the <placeName>settlement</placeName>, <date n="xx-xx-1821">fourteen years ago</date>, were
+valueless, and so considered by the <persName>general government</persName>, they became the sole
+property of the <placeName>state of Coahuila and Texas</placeName>, and the <placeName>state </placeName>alone had the
+power to dispose of them. The <persName>state authorities</persName> have always considered
+them to be valueless; a proof of which is the manner in which they have
+been disposed of, given away for nothing to <persName>native Mexicans</persName>, in <placeName>eleven
+league tracts</placeName>, and sold to them and to the <persName>colonists </persName>(for all the land 
+acquired by <persName>foreign settlers</persName> was sold to them by the <placeName>state</placeName>,) at from thirty to
+one hundred dollars per <placeName>square league</placeName>. In 1833, <hi rend="italic"><placeName>thirty square leagues</placeName> of
+</hi>land were voted by the late <persName>legislators</persName>, to a young man (who had previously
+received a grant of <placeName>eleven leagues</placeName>), as pay for <hi rend="italic">one years salary, for his
+services</hi> as <persName>judge</persName>! Some <placeName>eight hundred square leagues</placeName> were sold by these
+<persName>legislators</persName>, in <date n="xx-xx-1834">1834 </date>and <date n="xx-xx-1835">1835</date>, to <persName>speculators</persName>, principally <persName>foreigners</persName>, and to
+themselves; for the same <persName>legislators </persName>who passed the law for a part of this
+sale, were <persName>purchasers</persName>, at from about fifty to seventy-five and a hundred
+dollars per <placeName>square league</placeName>.</p>
+
+<p>It is not my intention to cast any censure on the <persName>legislators of <placeName>Coahuila</placeName></persName>,
+or on the <persName>individuals </persName>who purchased; the object of the former was to raise
+funds out of the sale of <placeName>Texas lands</placeName>, to replenish the state treasure which
+was empty&#8212;the latter were <persName>speculators</persName>, whose object was to take 
+advantage of any law or circumstance that favored their views. I have 
+mentioned this subject to prove more clearly the fact that all the legislation of
+both <persName>general and state governments</persName>, on the subject of <placeName>Texas lands</placeName>, has
+been based on the full belief that they were <hi rend="italic">valueless</hi>, and that the <placeName>nation</placeName>
+and the <placeName>state </placeName>were great gainers by getting this <placeName>wilderness </placeName>settled, so as to
+have a barrier against <persName>Indians</persName>, without any cost whatever to the <placeName>nation</placeName>, on
+the contrary, with the gain of from thirty to one hundred dollars per <placeName>square
+league</placeName>. There never has been any kind of organization in <placeName>Texas</placeName>, that
+merits even the <hi rend="italic">name </hi>of a governmnt, at least not since the year <date n="xx-xx-1827">1827</date>. The
+moral principle of the <persName>people </persName>governed them, and kept the country quiet.
+Peace prevailed in this <placeName>country</placeName>, until <date n="05-xx-1835">last May</date>; in that month, a 
+revolutionary ball was thrown into it by the <persName>state authorities of <placeName>Monclova</placeName></persName>, all
+<hi rend="italic"><persName>valient Mexicans</persName>;</hi> and since then, not a month, indeed scarcely a week has
+passed, without some act on the part of the <persName>general government</persName> or its
+<persName>authorities</persName>, to increase the irritation, and hurry this <placeName>country </placeName>into 
+revolution, or into anarchy and ruin, so as to involve it in a war, to which they
+give the character of a national one against <persName>foreign adventurers</persName>. And yet,
+according to the <persName>general government of <placeName>Mexico</placeName></persName>, the <persName>people of <placeName>Texas</placeName></persName> alone<pb n="279"/>
+are to be blamed for every thing, and deserve death. It is something like
+the fable of the wolf, who devoured a sheep for muddying the water of a
+brook in which they were both drinking at the same time, the wolf some
+hundred yards <hi rend="italic">above </hi>the sheep. That some acts have been committed in
+<placeName>Texas</placeName>, which I have always disapproved, and still disapprove, is well
+known. They were reprobated and disapproved by the great mass of the
+<persName>people</persName>. But that these individual acts were of the <hi rend="italic">rebel </hi>character, which
+the <persName>government of <placeName>Mexico</placeName></persName> says they are, or that all <placeName>Texas </placeName>should be 
+condemned to ruin on this account, is as false a pretext as that of the wolf for
+eating the sheep. The truth is that liberal and free principles must be 
+banished from <placeName>Texas</placeName>, as they have been, or perhaps will be, from all <placeName>Mexico</placeName>,
+to suit the views of the <persName>central party</persName>. To do this, the <persName>people of <placeName>Texas</placeName></persName> must
+be annihilated; and some reasons must be given to the world, for so harsh
+a measure. The rumors circulated by my <persName>enemies</persName>, that I was instructed,
+[interested] or in any way concerned in these large land sales and 
+speculations, is false. This specimen of the ruinous legislation of <placeName>Coahuila</placeName>, as to
+<placeName>lands</placeName>, is a fair specimen of their legislation for <placeName>Texas</placeName>, in all other matters.
+A <placeName>large portion of this country</placeName> has thus been thrown away into the hands of
+<persName>speculators</persName>, and entangled by conflicting claims. And are the <persName>people of
+<placeName>Texas</placeName></persName> to be blamed for all this? Was it <hi rend="italic">their </hi>acts that involved this 
+country in a perplexing land labyrinth, and in anarchy and revolution? No, it
+was the acts of native born <hi rend="italic"><persName>Mexican legislators</persName> and <persName>revolutionists</persName></hi>. ThSs
+subject, and all other matters connected with <placeName>Texas</placeName>, ought to be fully 
+explained in a manifesto from the <persName>representatives </persName>of the people. This is
+therefore another reason why a convention ought to be called. The fact is
+now evident that <placeName>Texas </placeName>is engaged in a struggle for existence, against great
+numerical strength and resources; and she must supply her physical 
+weakness, by the justice of the cause. If she cannot do this, she deserves to fall.</p>
+
+<p>For the reasons expressed, I am of opinion a convention should be called,
+without any delay, to meet as soon as possible to hold the elections and
+convene the <persName>members</persName>. This is also the decided opinion of the <persName>citizen
+volunteers of the army</persName>, as expressed to me very generally, before I left the
+<placeName>camp</placeName>.</p>
+
+<p>The <persName>provisional government</persName> will, of course, continue in full force, until
+changed by the convention. Their labors, in my opinion, have been directed
+by the purest desire to promote the general good, and merit the approbation
+of the <placeName>country</placeName>.</p>
+
+<p>I remain, very respectfully, your most obedient servant,</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
