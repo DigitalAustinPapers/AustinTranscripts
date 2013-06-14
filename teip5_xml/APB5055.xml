@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5055">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Rovert Westcott to James F Perry, 11-21-1835</title>
+            <author>
+                <persName>Rovert Westcott</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-15">06-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Stephen Decatur Hurst Esqr
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadelphia, PA</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 261-262
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-21">11-21-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Introducing Stephen Decatur Hurst, of military training. The Methodists in Missouri</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philada</placeName>. <date when="1835-11-21">21st. Novr. 1835</date>&#8212;</p>
+
+<p><persName>Jas. F. Perry Esq</persName></p>
+
+<p>My dear Sir,</p>
+
+<p>The <persName>Bearer</persName>, <persName>Stephen Decatur Hurst Esqr. atty at Law of this <placeName>City</placeName></persName>&#8212;is
+my <persName>nephew</persName>&#8212;and under the influence of warm zeal and deep interest in
+the sacred cause for which the <persName>Texians </persName>are nobly contending against 
+despotism, bigotry and superstition, has determined to rally round the <persName>Texian</persName>
+Standard and devote his energies in its defence&#8212;</p>
+
+<p>He has been <persName>Captain </persName>of a handsome <persName>volunteer Company</persName> and recently
+appointed&#8212;<persName>Colonel of a Regiment of Militia</persName> in <placeName>this place</placeName>&#8212;<pb n="262"/></p>
+
+<p>He also was attached some time since to an <persName>Engineer Corps in <placeName>No.
+Carolina</placeName></persName>&#8212;and has, I believe, a pretty good knowledge of surveying&#8212;As
+to his <hi rend="italic">nerve</hi>, I think I can venture to vouch for <hi rend="italic">that</hi>&#8212;Under these 
+circumstances&#8212;I take the liberty of recommending my <persName>nephew </persName>to your kind
+<placeName>offices</placeName>&#8212;and best advice&#8212;as to the most eligible plan in your opinion&#8212;for
+him to pursue in order to render the most efficient aid in his power&#8212;for
+the furtherance of yr. cause&#8212;and the promotion of his <hi rend="italic">individual </hi>
+interests&#8212;in yr. promising <placeName>region</placeName>&#8212;I have but a few moments to add, that my
+most inauspicious movements in <date n="xx-xx-1829">1829</date> to <placeName>Potosi</placeName>&#8212;has been the primary
+cause, as I verily believe, of the premature death of my late invaluable
+<persName>Wife </persName>and inestimable <persName>Theodosia </persName>and but <hi rend="italic">for it</hi>&#8212;my poor dear infatuate
+<persName>Louisa </persName>wd not now be the <persName>Wife </persName>of a canting bigotted untalented itinerant
+<persName>Methodist Preacher</persName>&#8212; This last sad event has <hi rend="italic">deeply afflicted</hi> me&#8212;I had
+left her&#8212;confidingly left her&#8212;under the roof and charge of <persName>Squire Brickey
+</persName>and his <hi rend="italic"><persName>wife </persName></hi>(who lately died)&#8212;whilst I proceeded to <placeName>Tennessee </placeName>to attend
+to some Land business and after my arrival here&#8212;arrangements were made
+by <persName>Edward Hurst Esq. Notary Public</persName> <persName>No. 42 Dock Street</persName>&#8212;to get her on
+to this <placeName>City</placeName>&#8212;where she wd. have been comfortably situated&#8212; But alas!
+in the mean time&#8212; the <hi rend="italic">very good</hi> <persName>Methodists of <placeName>Potosi</placeName></persName>&#8212;exercised their
+religious spells and incantations around her&#8212;and the poor child has 
+<hi rend="italic">literally </hi>thrown herself away!&#8212; My dear Sir, my <hi rend="italic">heart </hi>is with you&#8212; in yr.
+present contest and so shd. be my <hi rend="italic">arm </hi>also&#8212;(feeble as it is) did the 
+situation of my <persName>family </persName>and the state of my health admit of my joining you&#8212;a
+very powerful excitement in yr. favor is rapidly spreading in <placeName>Boston</placeName> <placeName>New
+York</placeName> <placeName>Philada</placeName>. etc; and old and feeble as I am still indulge the pleasing
+hope&#8212;that I may sooner or later be enabled "to wend my way"&#8212;to yr
+interesting and promising <placeName>country</placeName>&#8212; Do, my dear Sir, write to me as soon
+as convenient <hi rend="italic">address'd</hi> to the Care of <persName>Edwd Hurst Esqr</persName> here and tell me
+frankly whether my temporal prosperity and <hi rend="italic">that </hi>of my <persName>family</persName>&#8212;wd. be
+likely to be promoted by a removal to <placeName>Texas</placeName>&#8212;and inform me of every
+thing else you may deem <hi rend="italic">interesting</hi>&#8212;My <persName>Nephew </persName>will inform you of the
+<hi rend="italic">particulars </hi>respecting my situation and <hi rend="italic">that </hi>of my <persName>family</persName>&#8212;Please make
+my most respectful regards acceptable to <persName>Mrs. Perry</persName> and all the <persName>Children</persName>&#8212;
+and believe me, Dear Sir, with much respect&#8212;</p>
+
+<p><persName>Robt. Wescott.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

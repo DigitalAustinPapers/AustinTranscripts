@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5056">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 11-22-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-15">06-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Before Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 262-264
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-22">11-22-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Estimate of the army before Bexar. Plans for future</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Before Bexar</placeName> <date when="1835-11-22">Novr. 22 1835</date></p>
+
+<p>Dr <persName>Brother</persName>,</p>
+
+<p><hi rend="italic">My health has been very bad since I left the <placeName>Cibolo</placeName>, <date n="10-xx-1835">more than a month
+ago</date>, and I have been unable to attend personally to the duties of my station<pb n="263"/>
+with that activity which the service required&#8212;</hi>I believe however that all has
+been done that could have been&#8212;I have at various times submitted the
+question of storming the <placeName>fortifications </placeName>to a <persName>council of officers</persName> and they have
+uniformly decided against it&#8212;<date when="1835-11-21">yesterday </date>I was in hopes the <persName>Army </persName>was 
+prepared to do it, and I issued a positive order, to storm at day light <date when="1835-11-22">this 
+morning</date>, but on trial I found it impossible to get <persName>half the men</persName> willing for the
+measure, and it was abandoned from necessity</p>
+
+<p>I begin to doubt whether much more can be done here, than to leave a
+<persName>force </persName>in <placeName><date n="Winter-1835">winter </date>quarters</placeName> at the <placeName>missions below town</placeName>, say <persName>250 men</persName>, untill the
+necessary <persName>regular force</persName> and guns and other supplies, come out&#8212;</p>
+
+<p>My health is better than it has been and is improving fast&#8212;I shall make
+another effort to get the <persName>army </persName>to storm if it cannot be effected, I shall leave
+as many as will stay in <placeName>winter quarters</placeName> and go to the <placeName>U. S.</placeName> under the 
+appointment they have given me as <persName>commissioner</persName>&#8212; So far as my own wishes
+and feelings are concerned, I much prefer an appointment out of <placeName>Texas</placeName>,
+than in it&#8212;<hi rend="italic">I am ready to serve the <placeName>country </placeName>in any way I can&#8212;I accepted
+the appointment I now hold here, because I could not do otherwise, I never
+sought it, nor wished for it&#8212;my constitution is too much worn out and too
+feeble for the exposure and hardships and activity of a winters campaign,
+destitute of everything like comforts</hi>. I have done the best I could This
+<persName>army </persName>has always been composed of discordant materials, and is without
+proper organization&#8212;The <persName>volunteer </persName>sistem will not do for such a service,
+I have had a hard and difficult task to perform&#8212;and am <hi rend="italic">really so worn
+out,</hi> that <hi rend="italic">I begin to require rest</hi>&#8212; I could have been of more use in the
+<persName>convention </persName>than here&#8212;and I can be of service to <placeName>Texas </placeName>by going to the
+<placeName>U. S.</placeName> and I wish to go there.</p>
+
+<p>Love to all&#8212; The <persName>boys </persName>are well&#8212;we are about <placeName>600 yards from the 
+fortifications</placeName> and we have a battery within 340 yards but have no balls to do
+much good&#8212;</p>
+
+<p>This place must fall of itself in a short time&#8212;They are almost destitute
+of supplies and but little hope, of getting tham from the <placeName>interior </placeName>soon&#8212;
+If <persName>Genral Mexia</persName> has gone to attack <placeName>Matamoros </placeName>and succeeds, in taking that
+place this one will fall of course&#8212;</p>
+
+<p>As to <placeName>Texas </placeName>affairs, much more depends at present on a proper 
+regulation of the <persName>civil Govt</persName>, than on the military operations&#8212;</p>
+
+<p>If there is unanimity and prudence and no <persName>party </persName>work, hi the <persName>civil 
+department</persName>, all will go right the fate of <placeName>Texas </placeName>depends mainly on this&#8212;we
+ought to get united to the <placeName>U. S.</placeName> as soon as possible, it is the best we can
+do farewell</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]<pb n="264"/></p>
+
+<p>How I envy a poor and obscure man in his quiet cottage, free from care
+and trouble and faction&#8212;A</p>
+
+<p>We have cannonading every day. <date when="1835-11-22">to day</date> it has been very brisk for 
+several hours&#8212;no harm has been done to any of our <persName>men</persName>&#8212;we hear that 
+several have been <persName>killed </persName>and <persName>wounded </persName>inside one <persName>mexican soldier</persName> was killed
+<date when="1835-11-22">this morning</date> who was attempting to reconnoiter our battery	<persName>S F A</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

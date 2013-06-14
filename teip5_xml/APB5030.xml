@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5030">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to President of the Consultation, 11-08-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-12">06-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        President of the Consultation
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 247
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-08">11-08-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Army will remain at Bexar. Austin hopes for appointment of competent commander</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters</placeName> <date when="1835-11-08">Novr. 8&#8212;1835</date></p>
+
+<p>The determination of the <persName>army </persName>as expressed <date when="1835-11-08">today </date>is to remain here at
+all hazards I shall remain with them, altho my own judgement assures
+me that my proper station is in the convention, and that a man of robust
+health could do more good as a <persName>commander </persName>than I could&#8212; It is an office
+that I never sought, and tryed to avoid, and wish to be relieved from if
+another who is more competent can be appointed&#8212; I have no ambition but
+to serve the <placeName>country </placeName>in the station where it is considered I can best serve&#8212;
+I believe that my worn out constitution is not adapted to a military 
+command, neither have I ever pretended to be a military man&#8212;</p>
+
+<p><placeName>Bexar </placeName>will now be closely invested and the men shall be kept as near
+the place as possible</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>All now depends on the speedy arrival of strong <persName>reenforcements</persName>.</p>
+
+<p>To the <persName>President of the Consultation of <placeName>Texas</placeName></persName> <persName>San Felipe </persName>[by]<persName> Dr.
+Richardson</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

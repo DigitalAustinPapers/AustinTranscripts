@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5007">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James Bowie and James Fannin, 10-31-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bowie 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        James Fannin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 225-226
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-31">10-31-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions and discussion. Plans for desertion of Mexican troops</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters on the Canal above Bexar</placeName> <date when="1835-10-31">Oct. 31st 1835</date></p>
+
+<p>To <persName>Colo. James Bowie </persName>and <persName>Capn. Fanning,</persName></p>
+
+<p>I have taken a position on the <placeName>Alamo Canal</placeName> <placeName>at the mouth of a dry gully
+about one mile from town</placeName>,&#8212;There is one, a little nearer, but it can not be
+occupied <date when="1835-10-31">to day</date>&#8212; I have certain information that all the surplus horses
+except about 250 or 200, were started to <placeName>Laredo </placeName><date when="1835-10-31">last night</date>. The number
+that left is reported at 900 head&#8212; The <persName>escort </persName>does not exceed twenty or
+<persName>thirty men</persName>&#8212;</p>
+
+<p>I have dispatched <persName>Capn. Travis</persName> with <persName>50 men </persName>to overtake and capture
+them&#8212; He has good <persName>guides </persName>and I have no doubt will succeed&#8212;</p>
+
+<p>I have to inform you that a <persName>servant </persName>of <persName>Antonio de la Garza</persName> came into
+<placeName>camp </placeName><date when="1835-10-31">today </date>bringing a proposition from the greater part of the <persName>S. 
+Fernando Company of Cavalry</persName>, and the one of <placeName>Rio-Grande</placeName>&#8212;to desert&#8212; This
+man was sent to procure a guarantee for them, when they come out&#8212; I
+have given the guarantee and have now to communicate, to you <hi rend="italic">the mode</hi>
+in which they will come out to us&#8212;when etc.&#8212; He says they will be obliged
+to come in the <hi rend="italic">day time</hi>, upon some occasion of alarm, when they are 
+ordered out,&#8212; These <persName>troops </persName>are stationed in the <placeName>house of <persName>Padilla</persName></placeName> <placeName>in one of
+the lower <hi rend="italic">labors </hi></placeName>which <persName>Col.° Bowie</persName> understands the situation of&#8212; It would
+be well then for you <date when="1835-11-01">to morrow</date> to make a diversion on that side, so as to
+produce the necessary stir; so that they may be ordered out, and thus give
+these <persName>men </persName>the chance to come out as it were on duty and then escape&#8212;
+They will present themselves with the britch of their guns advanced or a
+white flag&#8212; <persName>Padilla </persName>has many <persName>acquaintances </persName>in those <persName>companies</persName>, who sent
+in <persName>Garza's servant (Jose Ortis)</persName> to have an understanding with him as to
+the guarantee and the mode of joining us.&#8212;</p>
+
+<p>In regard to the measure of harassing the <persName>enemy </persName><date when="1835-10-31">to night</date> as was spoken
+of, before we parted, by simultaneous firing on the <placeName>town</placeName>, I have <date when="1835-10-31">today</date>
+thot I am obliged to decline it; owing partly to the condition of the <persName>men</persName>
+here at present, having lost so much sleep <date when="1835-10-30">last night</date>; and partly to the
+difficulty of crossing the <placeName>river </placeName>from here, so as to cooperate in time with
+the <persName>men on foot</persName>&#8212; As you will make a diversion <date when="1835-11-01">tomorrow </date>for the purpose
+of bringing out the <persName>Deserters</persName>, you will therefore decline anything of the
+kind tonight unless you think it better to proceed on your part&#8212; If you
+think so you can act as you think best, in that respect, but without expecting<pb n="226"/>
+any cooperation from <placeName>this quarter</placeName>, for the reason I have mentioned&#8212; I will
+however mention that a few <persName>men </persName>from here may probably fire on the <placeName>Alamo</placeName>,
+which is you know <placeName>on this side of the River</placeName>&#8212;about <hi rend="italic">moon down</hi>&#8212;</p>
+
+<p>As there is abundance of corn here, you can use that brought by <persName>Seguin</persName>
+for your <persName>Detachment</persName>.</p>
+
+<p>I wish you to send to <placeName><persName>Seguin</persName>s Ranch</placeName> for some rockets that are there&#8212;
+2 or 3 dozen&#8212; In Spanish they are called quetes pronounced quates&#8212;we
+may want them&#8212;</p>
+
+<p>Please to give me your opinions and those of your <persName>officers </persName>as to the mode
+of further operation on the <persName>enemy</persName>.</p>
+
+<p>By order</p>
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+<p><persName>W. D. C. Hall Adjt Gen</persName>.</p>
+<p>Dispatch the <persName>bearer </persName>with your answer <date when="1835-10-31">to night</date> as soon possible</p>
+<p><persName>S. F. A.</persName></p>
+<p>I wish your opinions as to storming or besieging&#8212;</p>
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

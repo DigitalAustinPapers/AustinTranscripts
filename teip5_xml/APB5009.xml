@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5009">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James Bowie and James Fannin, 11-01-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bowie 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        James Fannin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 227-228
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-01">11-01-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Military plans</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters</placeName> <date when="1835-11-01">Novemr lst 1835</date></p>
+
+<p>To <persName>Col° James Bowie</persName> and <persName>Captn Fanning</persName>,</p>
+
+<p>Your communication of<date when="1835-11-01"> this morning</date> was received and is satisfactory in
+every respect to myself and all others&#8212;</p>
+
+<p>I sent in a demand today, for a surrender <persName>Genl Cos</persName> stated that his duty
+would not permit him to receive any official communication and of course
+it was returned, unopened,&#8212; He in a short time after sent out<persName> Padre Garza</persName>
+with a flag to say to me, verbally that he had absolute orders from his
+<persName>Government </persName>to fortify <placeName>Bexar </placeName>and hold it at all hazards&#8212;that as a <persName>military
+man</persName> His honor and duty required obedience to these orders, that he would
+defend the place until he died, if he had only ten men left with him&#8212;</p>
+
+<p>This is all that has passed between us&#8212; I approached on this side <date when="1835-11-01">to day</date>
+within Cannon shot&#8212;they fired four at us&#8212;one shot (Ball) passed over
+our heads and one of <hi rend="italic">grape </hi>fell <placeName>in the lines</placeName> but fortunately injured
+no one&#8212;</p>
+
+<p>From every information the <placeName>fortifications </placeName>are much stronger than has
+been supposed and the difficulty of storming of course much greater,&#8212;The
+system of alarms will be kept up as much as possible night and day, and
+the place invested as closely as practicable&#8212; For this purpose I expect to
+station the <persName>Adjutant General</persName> with a competent <persName>force </persName>at the <placeName>old mill</placeName>, a short
+distance from there&#8212;</p>
+
+<p>I have no information yet of <persName>Travis</persName>&#8212; A report reached <placeName>Camp </placeName><date when="1835-11-01">this 
+afternoon</date> through a <persName>person from <placeName>Bexar</placeName></persName> that an <persName>Express </persName>had just been received
+there, stating that <persName>Savariego </persName>had escaped from <placeName>S. Felipe</placeName> and had raised
+the <persName>Irish on the <placeName>Nueces</placeName></persName>, and in union with the <persName>troops at <placeName>that place</placeName></persName> had
+attacked <placeName>Goliad</placeName>&#8212;It is however only a report&#8212;</p>
+
+<p>The enclosed papers is from a <persName>Confidential source</persName>&#8212; I had forgotten to
+mention that the <persName>Adjutant General</persName> made a demonstration on the other side
+with a <persName>Detachment</persName></p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>Since the within was written I have received yours of this <date when="1835-11-01">afternoon</date>&#8212;
+The <persName>forces </persName>are not so unequally divided as appears at first view&#8212;<persName>Travis</persName>
+is constantly out on some extra duty&#8212; He is now out, I expect him <date when="1835-11-01">to night</date>
+and must then send him to escort the cannon&#8212; I wish to occupy the <placeName>mill</placeName>
+and another position&#8212; our <persName>prisoners </persName>are dayly increasing and require a
+<persName>strong guard</persName>.</p>
+
+<p>However as equal a division will be made as is compatible with the 
+service&#8212;we have many sick&#8212; Every thing shall be done on my part possible
+for the service and to keep up harmony.<pb n="228"/></p>
+
+<p>Our position here is far from being a strong one&#8212; we have no bank for
+defense&#8212;a good position can not be found without going too far off. I
+submit these matters to your calm judgement&#8212; It is known that <placeName>head 
+quarters</placeName> are here and the main attack will be here if any is made</p>
+
+<p>I have just heard from <persName>Travis </persName>he will not be back untill late <date when="1835-11-02">tomorrow</date>&#8212;</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

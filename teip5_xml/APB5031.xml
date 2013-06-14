@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5031">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to President of Consultation, 11-08-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-14">06-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        President of Consultation
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 247-248
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-08">11-08-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging organization of civil government and establishment of army</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters</placeName> <date when="1835-11-08">Nov. 8. 1835</date></p>
+
+<p>In addition to my recommendation as to the usefulness of <persName>Dr. 
+Richardson</persName> as an <persName>agent </persName>in some parts of the <placeName>U. S</placeName>. I have to add that he can be of<pb n="248"/>
+great use in procuring men and vessels to protect our <placeName>coasts </placeName>and in 
+stimulating men and popular opinion in favor of the cause of <placeName>Texas </placeName>and of the
+constitution.&#8212; I am however of the opinion that <hi rend="italic">all depends</hi> on an 
+<hi rend="italic">immediate </hi>organization of a <persName>civil govt.</persName> and also of an <persName>army </persName>with an <persName>experienced
+military man</persName> to command it&#8212;</p>
+
+<p>Not one moment should be lost in doing this&#8212;<hi rend="italic">all</hi>, everything depends
+upon it&#8212;Delay will be ruinous&#8212; There must be a <persName>Govt</persName>. to give 
+confidence to our system&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p>The communication of the <persName>council </persName>of <date when="1835-10-30">30 ult.</date> giving an account of the
+supplies of cloathing, cannon etc on the road have been recd-&#8212;and have
+given great satisfaction&#8212;hurry on <persName>reenforcements</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

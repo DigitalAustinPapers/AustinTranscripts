@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5052">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Moses Austin Bryan to James F Perry, 11-18-1835</title>
+            <author>
+                <persName>Moses Austin Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-15">06-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Camp Near the Mill, Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 260
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-18">11-18-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Military situation. Austin tired of commanding militia</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Camp Near the Mill (600 yds. from Bexar)</placeName> <date when="1835-11-18">November 18th 1835</date></p>
+<p>Dear <persName>Father </persName>and <persName>Mother</persName></p>
+<p>I this moment recd. yours of the <date when="1835-10-08">8 Ult.</date> and am rejoiced to hear that you
+are all in good health and getting along so well in the way of picking out
+Cotton etc.</p>
+
+<p><persName>Joel [Bryan]</persName> has gone out in pursuit of <persName>Ugartechea </persName>who left the <placeName>fort</placeName>
+<date when="1835-11-12">5 or 6 days ago</date> to meet a <persName>reinforcement </persName>which are coming on from <placeName>Laredo</placeName>.
+The <persName>force </persName>under <persName>Ugartechea </persName>is stated to amount to between <persName>1 and 2 
+hundred men</persName>. the <persName>company </persName>in persuit of him under the command of <persName>Col Burleson</persName> consists of <persName>180 men</persName>: they will be back <date when="1835-11-18">to day</date> or <date when="1835-11-19">tomorrow </date>If they
+come a cross him they will be apt to take him if they doe, I think it will
+end the campaign</p>
+
+<p>There are about <persName>6 hundred men</persName> in camp, a sufficient force to take <placeName>Bexar</placeName>
+if we had the necessary tools. It will be attacked in a day or two at all
+hazards as the corn is getting scarse and it seams that there is no hopes of
+the cannon coming soon. <persName>Grant </persName>and <persName>Viesca </persName>were on their way to <placeName>Vera
+Cruz</placeName> under an <persName>escort of 20 soldiers</persName> and instead of the <persName>Soldiers </persName>taking them
+to the place they were ordered they brought them to <placeName>Texas</placeName>, <persName>Grant </persName>is now
+here and <persName>Viesca </persName>has gone to <placeName>San felipe</placeName><pb n="261"/></p>
+
+<p>We will have <persName>100 men</persName> from <placeName>La Bahia</placeName> or <placeName>Goliad </placeName>in <date when="1835-11-20">a day or two</date>, The
+<persName>troops </persName>are all driven away from the <placeName>Irish town on the Nueces</placeName> a 
+considerable battle took place in which 6 or 8 <persName>mexicans </persName>were killed and several
+wounded and the balance dispersed&#8212;</p>
+
+<p>N. B. The <persName>reinforcement </persName>that is coming on consists of <persName>60 soldiers</persName> and
+<persName>300 convicts</persName>. I think we will be able to take the <persName>60 soldiers</persName> and untie the
+<persName>convicts </persName>Some days agoe I thought the <persName>army </persName>would be broke up as they
+were all tiard of waiting for the cannon and hearing no news from the
+<placeName>colony </placeName>and desertion more or less every day: but now every body is in
+good spirits and <persName>reinforcements </persName>expected etc <persName>Grant </persName>brings news that the
+<persName>federal party</persName> is gaining ground in the interior. <placeName>Bexar </placeName>must fall in a few
+days or it will not fall at all</p>
+
+<p><persName>Uncle </persName>is better and tiard enough of commanding <persName>militia</persName></p>
+
+<p>I will write by the next chance if any thing occures,</p>
+
+<p>We have skirmishes every day</p>
+
+<p><persName>M. A. Bryan</persName> [Rubric]</p>
+
+<p>[Addressed:]<persName> Mr James. F. Perry</persName><placeName> Peach Point. Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

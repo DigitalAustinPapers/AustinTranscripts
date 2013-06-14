@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5036">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Edward Burleson to Stephen F Austin, 11-12-1835</title>
+            <author>
+                <persName>Edward Burleson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-14">06-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Camp Defiance, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 248-249
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-12">11-12-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report on execution of orders.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Camp Defiance</placeName> <date when="1835-11-12">November 12th 1835</date></p>
+
+<p><persName>Genarl S. F Austin</persName></p>
+
+<p>Dear Sir I received your Communication of <date when="1835-11-11">yesterday </date>relitive to the
+interSepting of the <persName>Convoy of Supplys</persName> anticipated Coming on to the <persName>Enemy</persName><pb n="249"/>
+I received it two late to Starte a <persName>detachment </persName>out <date when="1835-11-11">last night</date>. I went and
+Saw <persName>Capt Fanning</persName> and he went on <date when="1835-11-11">Last night</date> and I have dispatched <persName>major
+Somerville </persName><date when="1835-11-12">Erly this morning</date> with a bout <persName>Seventy men</persName> to the <placeName>west </placeName>on the
+same bisness of that of <persName>Capt. Fanning</persName> <persName>Capt Lockhart</persName> has returned to my
+<placeName>Camp </placeName>who states that he got Sepperated from <persName>Capt Austin</persName> <placeName>near the
+madena</placeName> and has not saw him sense he Also States that he Saw nor heard
+nothing relative to the <persName>Enemy </persName>Every thing goes on well heare as fare as
+I know nothing is rong I think I shall Give <persName>General Cos</persName> a few fyers of
+Canon <date when="1835-11-12">to knight</date> I Send your money that you mentioned to me a bout by
+mister Chance Yours with Dew Respect</p>
+
+<p><persName>E. Burleson. Coln Comadant</persName></p>
+
+<p>[Addressed:] <persName>Gen S. F. Austin</persName> <placeName>Head quarters</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

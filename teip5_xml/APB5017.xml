@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5017">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to President of Consultation, 11-03-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-11">06-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        President of Consultation
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters above Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 234
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-03">11-03-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging dispatch of supplies, organization of regular army, and appointment of a commander of high standing and recognized military ability</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters above Bexar</placeName></p>
+<p><del></del></p>
+
+<p>In addition to my communication by <persName>Colo McCombs</persName> I have dispatched
+this <persName>express </persName>to urge on with all possible dispatch the battering cannon and
+round shot&#8212; I must again repeat that it is useless to send Cannon without
+round shot as well as grape or musket balls&#8212; <persName>Mr Farmer</persName> says there is
+considerable round shot at <placeName>Anahuac </placeName>and some at <placeName>Harrisburgh </placeName>The <persName>army</persName>
+will need Blankets, Shoes Coarse cloth, for pantaloons and Jackets,
+Socks etc</p>
+
+<p>I must earnestly and pressingly urge upon the <persName>convention </persName>the absolute
+necessity of organizing a <hi rend="italic"><persName>regular army</persName></hi> and inviting a <persName>Military man of
+known and tried Talents</persName> to command it. I would suggest <persName>Genl. Carrol</persName> or
+<persName>Genl Ripley</persName> though it matters not who, provided he is a man of <hi rend="italic">high</hi>
+standing, integrity, influence and known military talents&#8212; I must also urge
+more <persName>reenforcements</persName>.&#8212; The <persName>Army </persName>are anxiously awaiting news from the
+<persName>convention</persName></p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+<p><persName>W. D. C. Hall Adjt Genl</persName></p>
+<p>To the <persName>President of the Consultation of <placeName>Texas</placeName></persName></p>
+<p>P. S. I also suggest the propriety of sending for a few Mortars and
+bombs and an<persName> engineer corps</persName>&#8212;in short we <hi rend="italic">must have a <persName>regular army</persName></hi> and
+<persName>regular officers</persName> and that without any delay&#8212; great promptness and energy
+in the <persName>convention </persName>is necessary at this time&#8212; I am ready to mortgage all
+my <placeName>estate</placeName> to raise funds&#8212;but we <hi rend="italic">must </hi>have system and a <persName>regular army</persName> and
+a Genl of high military standing</p>
+<p><persName>S. F. Austin</persName></p>
+<p>getting [out of] paper and wafers My health is bad.</p>
+<p><persName>S. F. A</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

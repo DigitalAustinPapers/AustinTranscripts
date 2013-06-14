@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5004">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 10-30-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Fort Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 221-223
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-30">10-30-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Lack of discipline. Volunteers anxious to go to Bexar and some refuse to remain at Goliad. Military movements. Supplies</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Fort Goliad</placeName>, <date when="1835-10-30">Oct. 30th. 1835</date></p>
+<p>To <persName>Gen. Stephen F. Austin,<lb/>
+Com. in Ch. of the Army of the People,</persName></p>
+
+<p>Dear Sir,</p>
+<p>Since the date of my last (<date when="1835-10-28">28th inst</date>.) by hands of <persName>Maj. Geo. Southerland</persName>,
+who left this on <date when="1835-10-28">that day</date>, in charge of the teams, dispatched to <placeName>Head 
+Quarters</placeName> with provisions, events have transpired here which call for a free and
+full exposition.</p>
+
+<p>On the receipt of yours of the <date when="1835-10-23">23d ins.</date> prohibiting any <persName>volunteer </persName>the
+option of leaving this <placeName>fortress </placeName>without permission from the <persName>Commandt</persName>.,
+under the penalty of being reported and published a <persName>deserter</persName>, it was 
+publickly read on parade to the <persName>men under my command</persName>. On some, it had a
+salutary effect, and produced a change of purpose, highly favoarable to the
+success of the campaign. On others, it either had no effect, or, if any, a
+very different one, from that intended.</p>
+
+<p><date when="1835-10-29">Yesterday</date>, three <persName>officers</persName>, <persName>Dr. Erwin, Surgeon</persName>; <persName>Lieut. David M. 
+Collinsworh</persName>, and <persName>Lieut. A. H. Jones</persName>; and three <persName>privates</persName>, <persName>Milton Hicks</persName>, <persName>Edward B.
+Wooten</persName> and-<persName>Atkinson</persName>, mustered and left this <placeName>fortress</placeName>, not only <hi rend="italic">without</hi>
+permission, but in open contempt of the general order above quoted, and
+took up the line of march for <placeName>Head Quarters</placeName>, near <placeName>Bexar</placeName>. This occurred
+about 4 o. c. in the afternoon; and a little after 9 in the evening, <hi rend="italic">five </hi>of the
+party returned, and <hi rend="italic">four</hi>, <persName>Lieut. Jones</persName>, <persName>Woottin</persName>, <persName>Hicks</persName>, and <persName>Atkinson</persName>, came
+into the <placeName>fortress</placeName>, reporting the loss of one of their number&#8212;<persName>Lieut. 
+Collinsworth</persName>. Not considering themselves under my command, no official report
+was made to me. Their verbal statement, however, is, that they were fired
+on by a <persName>party</persName>, lying in ambush <placeName>by the road side</placeName>&#8212;that the fire was instantly
+succeeded by a shrill yell, at which their horses were greatly alarmed&#8212;one<pb n="222"/>
+of the pary was thrown from his horse&#8212;one lost his gun and all the others,
+one excepted, were carried some distance before they could stop their
+horses. They further state, that, at the crack of the <persName>enemy</persName>'s guns, <persName>Lieut.
+Collinsworth</persName> was seen to fall from his horse and heard to utter the 
+exclamation&#8212;"0 Lord"&#8212;<persName>Jones </persName>and <persName>Wootten </persName>say they were in favor of 
+returning to the scene of action, but as the others were unwilling to do so, they
+all returned, without firing a gun, and without making an effort to relieve,
+or bring off their wounded <persName>companion</persName>. He was therefore left on the
+ground, to the mercy of the <persName>enemy</persName>.</p>
+
+<p>Early <date when="1835-10-30">this morning</date>, the five <persName>survivors </persName>returned with 8 or <persName>10 others</persName>, to
+the scene of action, or rather, of attack and flight, for the purpose of 
+reconnoitering and bringing in the <persName>dead</persName>.</p>
+
+<p>It would be doing much injustice to confound these <persName>volunteers</persName>, 
+indiscriminately together. That <persName>Doctor Irwin</persName> originated, and headed the
+mutiny; and drew the others, either directly, or indirectly into it, proof
+abundant, and of the most respectable character, can be furnished from
+here, on the shortest notice. The conduct of this man too, on former 
+occasions, has been highly improper, unmilitary, and very rash.</p>
+
+<p><date when="1835-10-31">Oct. 31st</date>. 1 o.c. P.M.&#8212;Since writing the above, the <persName>party </persName>that left 
+<date when="1835-10-30">yesterday morning</date>, have returned with the dead body of the deceased, <persName>David,
+M. Collinsworth</persName>&#8212;He was shot in the neck, scalped, and mangled in the
+face with a tomahawk or hatchet.</p>
+
+<p>The <persName>Deceased </persName>was buried to day, with the honors of War. From the
+statements of those who returned with the Body, there can be little doubt
+that the assailants were <persName>savages</persName>. The number quoted, varies from 6 to
+10&#8212;The <persName>assailants </persName>did not even wait to divest the body of its apparel&#8212;
+The cap only, was missing. His gun was probably taken, as it was not
+found. His belt, shot-pouch, etc. etc. and pocket money $7.37 1/2 were
+found on him, and returned. These facts furnish their own comment, and
+supersede the necessity for any remarks by me.</p>
+
+<p>A <persName>recruit </persName>of <persName>20 men </persName>arived here <date when="1835-10-29">last evening</date> from <placeName>Bay Prairie</placeName>. An
+Iron, Six pound Cannon, with a small supply of ammunition, from 
+<placeName>Matagorda</placeName>, has been forwarded by order of the <persName>Committee </persName>there, in compliance
+with my request, and is now at <placeName>Guardeloupe Victoria</placeName>.</p>
+
+<p>I have ordered a <persName>detachment of 35 men</persName>, under the Command of <persName>Adjutant
+Ira Westover</persName>, to proceed forthwith to <placeName>Le Panteclan</placeName>, the <persName>garrison on the
+<placeName>Nueces</placeName></persName>, reduce and burn it. The arms and Ammunition if possible, will be
+brought off; and, if practicable, the public horses taken, and driven to this
+place.</p>
+
+<p>The <persName>citizens of <placeName>this vicinity</placeName></persName> have furnished 20 horses for this campaign
+&#8212;and those of <persName>Guardeloupe Victoria</persName>, have made a tender of thirty head of
+Beeves for the public service.<pb n="223"/></p>
+
+<p>I am informed, that, <persName>Capt. Savriago</persName> has left <placeName>S. Felipe</placeName>, on parole, granted
+by <persName>Zavalla </persName>and others&#8212;and that he has gone to <placeName>Matamoros</placeName>; but I have
+ordered the making of <persName>every officer at the <placeName>Nueces</placeName></persName> <persName>prisoner</persName>, if possible. I
+am informed, that, a <persName>party of 25 or 30 Comanches</persName> have been seen near
+<placeName><persName>Baing</persName>'s</placeName>(?) in the <placeName>neighborhood of Guardeloupe Victoria</placeName>.</p>
+
+<p>On the reduction of <placeName>Bexar</placeName>, the earliest instructions concerning the 
+disposition of the Arms and ammunition at <placeName>this place</placeName>, are particularly
+solicited. Your instructions too, relative to the property left in the <placeName>houses</placeName>
+from which the flour, sugar, coffee, candles, soap, liquors, etc. etc. have
+been taken, the title to which is contested, or is supposed by some to belong
+to <persName>private individuals</persName>&#8212;by others, to the <placeName>nation</placeName>.&#8212;are earnestly solicited.</p>
+
+<p><persName>P. Dimitt <hi rend="italic">Comg </hi></persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5012">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James Bowie and James Fannin, 11-02-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-11">06-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James Bowie 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        James Fannin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters above Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 229-230
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-02">11-02-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Giving result of a council of war and suggesting plan of investment</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters above Bexar</placeName> <date when="1835-11-02">Nov., 2 1835</date></p>
+<p>To <persName>Colo. Bowie</persName> and <persName>Capt. Fanning</persName>,</p>
+
+<p>I enclose you the result of a <persName>council of War</persName> held <date when="1835-11-02">this morning</date> by the
+<persName>officers of this division</persName>&#8212;you will see that the <persName>Council </persName>has decided it is
+inexpedient to attempt to take <placeName>Bexar </placeName>by storm at present&#8212;that the <persName>army</persName>
+should take such a position as will enable it to harrass the <persName>enemy </persName>as much
+as possible, out of reach of Cannon until the 18 pound battering pieces and
+additional <persName>reinforcements </persName>arrive&#8212; This decision is submitted to the 
+consideration of the <persName>officers of your division</persName>.<pb n="230"/></p>
+
+<p>In addition I will add several suggestions that were made&#8212; One is to
+occupy the <placeName>Mill </placeName>by <persName>200 men</persName> and post the balance <placeName>on the river</placeName> under cover
+of a <placeName>bank </placeName>above and continue the <persName>battallion </persName>below in the position it now
+occupies&#8212; To this it is objected, that our force is not sufficient to invest
+the <placeName>town</placeName>, so as to prevent supplies from entering and that no important
+object can be effected in that way, that more can be done by uniting the
+<hi rend="italic"><persName>whole force</persName> <placeName>above town</placeName></hi> and sending out parties of <persName>50 men</persName>, every day and
+night to range around, drive off cattle etc. As to corn it is certain they
+have a large supply inside&#8212; This point is therefore also submitted to your
+consideration, whether or not the <persName>whole force</persName> ought to be united <placeName>above
+town</placeName> where corn is plenty and harass the <persName>enemy </persName>by keeping out beeves by
+means of <persName>detachments </persName>and wait until the battering cannon and <persName>reenforcements </persName>
+arrive or whether the <persName>army </persName>should remain divided as it now is.</p>
+
+<p>To decide this point, the only question is this; can the <persName>present force </persName>
+invest <placeName>Bexar </placeName>all around? if it can not, how can beeves be prevented from
+going in, except by keeping <persName>detachments </persName>constantly out? Can these 
+<persName>Detachments </persName>be sent and kept out, at all, while the <persName>Army </persName>is divided?</p>
+
+<p>I will now make a suggestion of my own for your consideration&#8212; It is
+this&#8212; you will take a safe position <placeName>below</placeName>&#8212; I will do the same <placeName>above each
+<persName>division</persName></placeName> will be subdivided into <persName>parties of 20 or 25 men</persName>&#8212;one of these
+<persName>parties </persName>will leave the <placeName><persName>upper division</persName></placeName> at day light and range around on the
+<placeName>west </placeName>and sleep with you at night&#8212;a similar <persName>party </persName>will start from your 
+division at the same time from the <placeName>mouth of Salado</placeName> and the <placeName>missions up the
+Salado</placeName> and sleep here at night&#8212;a similar <persName>detachment </persName>will start at night
+from each <placeName>camp </placeName>and range around in the same way until they make the
+circle and get back to their respective divisions&#8212; I prefer this 
+arrangement to the other.</p>
+
+<p>I shall await your answer before I come to a final conclusion.
+I shall dispatch a <persName>confidential man</persName> back to bring out the 18 pound
+cannon and Shot, and also send <persName>Farmer </persName>to <placeName>Gonzales </placeName>to make round ball&#8212;
+but shall not do it untill I receive an answer from you to this 
+communication&#8212; I therefore wish you to give me an answer as soon as possible.</p>
+
+<p>Should you be decidedly of opinion that the <persName>whole force</persName> should be united
+&#8212;you can act on that decision at once, without any further order from
+me&#8212; Should you prefer remaining, do so, and give your opinions as to the
+best way of keeping out beeves&#8212;</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>300 blanket, 300 p.r Shoes</p>
+
+<p>cloths for tents are on the way out&#8212; this information was recv.d <date when="1835-11-01">last
+night</date>&#8212; The 3 cannon 1&#8212;6 pounder 2, 4 pounders will be at the <placeName>cibolo</placeName>
+<date when="1835-11-03">to morrow night</date>&#8212;</p>
+
+<p>The <placeName>mill </placeName>will be occupied <date when="1835-11-02">to day</date></p>
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

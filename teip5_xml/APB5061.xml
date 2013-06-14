@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5061">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mose Austin Bryan to James F Perry, 11-30-1835</title>
+            <author>
+                <persName>Mose Austin Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-15">06-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr Jones
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 268-269
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-30">11-30-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin resigned command of the army. Conditions at Bexar</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe De Austin</placeName> <date when="1835-11-30">30th Novr 1835</date></p>
+
+<p>Dear <persName>Father </persName>and <persName>Mother</persName></p>
+
+<p><persName>Uncle </persName>and myself arrived here <date when="1835-11-29">last night</date> from the <placeName>camp </placeName>in good health&#8212;
+<persName>Uncle </persName>resigned his office on the <date when="1835-10-24">24 ult.</date> and we left the <date when="1835-10-25">next day</date> for this
+place&#8212; I think he will go on to the <placeName>United States</placeName> soon, perhaps in a few
+days as he was called by the <persName>Convention </persName>to go as a <persName>commissioner </persName>to the
+<placeName>U. S.</placeName> but with what power I know not; if he is not vested with the power of
+attaching <placeName>Texas </placeName>to the <placeName>U. S</placeName>. but only to borrow money etc I think he
+wont go</p>
+
+<p><persName>Burleson </persName>was elected <persName>commander in Chief</persName> to fill <persName>Uncle</persName>s place. There
+are 4 or <persName>500 men</persName> in <placeName>camp </placeName>who are determined to stick to it until <placeName>Bexar</placeName>
+falls or they eat up all, every thing in that <placeName>country</placeName>. A Maile was 
+intersepted the day before we left by which we learned that there was an order
+for raising <persName>10.000 Soldiers</persName> to come on to <placeName>Texas </placeName>as soon, as possible under
+the Command of <persName>Genl. Santa Anna</persName> himself perhaps they will be here
+next <date n="Spring-1836">Spring</date>.<pb n="269"/></p>
+
+<p>I left <persName>Joel </persName>at <placeName>Camp </placeName>in good health and determined to see the last of
+the war</p>
+
+<p>There was considerable confusion and dissatisfaction in the <persName>Army </persName>on
+account of the acts of the <persName>convention </persName>and I find they have not pleased the
+<persName>people </persName>generally</p>
+
+<p>I will write you again Soon</p>
+
+<p><persName>M. A. Bryan</persName> [Rubric]</p>
+
+<p>I send <persName>Mr Pilgrim</persName> some papers <persName>M. A. B</persName></p>
+
+<p>[Addressed:] <persName>Mr James F Perry </persName><placeName>Peach Point</placeName> Politeness of <persName>Mr Jones</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5011">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, 11-02-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 229
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Minutes of Council of War</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-02">11-02-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Voting not to storm Bexar</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters</placeName> <date when="1835-11-02">Novr. 2 1835</date></p>
+
+<p>At the <persName>Councel of War</persName> called on <date when="1835-11-02">this morning</date>, Consisting of <persName>Gen1 S. F.
+Austin, Commander in chief</persName>,<persName> Coln. Warren D C Hall Adjt. Genl</persName>. <persName>Coln. John
+H Moore, </persName> <persName>Lieut Coln Burleson, </persName> <persName>Majr Wm H Jack</persName>, <persName>Coln Patrick Jack 
+Quarter Master</persName> <persName>Genl. Majr. Somerville, </persName> <persName>Majr. Benj. W. Smith, </persName> <persName>Captn. Caldwell,
+</persName> <persName>Captn Ebberly,</persName> <persName>Capn. Bennett,</persName> <persName>Captn. Swilcher,</persName> <persName>Captn Bird</persName> <persName>Captn. Goheen,
+</persName> <persName>Captn. John Alley,</persName> <persName>Captn. Nail,</persName> <persName>Lieut. Aldridge,</persName> <persName> Leut. Splan,</persName> 
+<persName> Leut. Hassell,</persName> <persName> Leut. Barnett,</persName> <persName> Leut. Money,</persName> <persName> Leut. Hunt,</persName> <persName> Leut. Perry</persName> <persName> Leut. Stapp,</persName> <persName>Lieut. Hinsley </persName>and <persName>Lieut Dickenson</persName>&#8212;</p>
+
+<p>&#8212; The object of the call of the <persName>Council</persName>, being explained by the 
+<persName>Commander in chief</persName> to be, to have the opinion and determination of the <persName>officers</persName>
+in regard to the best measures of immediate operation on the <persName>enemy</persName>,
+whether by closer investment simply or by storm&#8212;after much conversation
+and discussion, It was proposed by <persName>Majr. W H Jack</persName>, that the question be
+directly put to the <persName>Council</persName>, whether a storm would or would not be 
+expedient at the present moment&#8212;on the information, in possession of the 
+<persName>Commander in chief</persName> in regard to the State of <placeName>fortifications in Bejar </placeName>being 
+submitted&#8212; The question was accordingly put by the <persName>Commander in chief</persName>, and
+the same was decided in the negative by all the <persName>officers </persName>present, with the
+exception of <persName>Majr. Benjn. W Smith</persName> who voted substantially in the 
+affirmative, saying that in his opinion the <placeName>Town </placeName>ought to be taken immediately.&#8212;</p>
+
+<p>It was then decided unanimously by the <persName>Council</persName>, that such positions
+should be taken for the <persName>Army</persName>, at present as would best secure it from the
+Cannon shot of the <persName>enemy </persName>and enable it at the same time to carry on
+offensive operations, whilst we are waiting for the larger 18 lb cannon and
+additional reinforcements.&#8212;</p>
+
+<p>[S. F. Austin.]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

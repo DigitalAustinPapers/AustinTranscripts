@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5010">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Gail Borden, Jr to Stephen F Austin, 11-01-1835</title>
+            <author>
+                <persName>Gail Borden, Jr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Mr. McFadden
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 228
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-01">11-01-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">TODO</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1835-11-01">Nov 1st 1835</date></p>
+<p>Dear <persName>General</persName>,</p>
+
+<p>Your note to <persName>Mr. Jack</persName> and myself, I received <date when="1835-10-31">late last night</date>&#8212;</p>
+
+<p>I regret to hear of your ill health, and wish it was in my power to send
+you some suitable nourishment for the body, as well as for the mind 
+however, I think we have nothing to complain of with respect to the latter.</p>
+
+<p>I will use my utmost in raising and forwarding <hi rend="italic">"the one thing needful"</hi>
+<hi rend="italic">I</hi> think too that the <persName>consultation </persName>ought to make provisions in the case, and
+hope and trust they will I am just now going down to see what can be
+done. You will see by the <placeName>paper </placeName>that the <persName>council </persName>has appointed me 
+<persName>collector</persName>, and in all probability money will be paid on <placeName>land</placeName>, being much due.
+I send you $70. which is all I have collected on your account since you left
+except $5 which I sent by a <persName>gentleman </persName>which took charge of the pack horse
+sent with your tent. etc.&#8212; I would send you some on my own account but
+for the <placeName>printing establishment</placeName> which at this time is a heavy burden upon
+us Have not received 75 dollars yet on our subscription: and our expenses
+for <persName>workmen</persName>, making improvements etc has been 250 dollars per month.</p>
+
+<p>So long as the war lasts it will be a dead and heavy weight upon us&#8212;
+<persName>Thomas </persName>writes pressingly for me to come to <placeName>camp</placeName>&#8212; If I should go, the
+business could not go on.</p>
+
+<p>Dear friend I hope the intelligence from the <placeName>United States</placeName> will so 
+encourage the <persName>men </persName>under your command, that they will not think of 
+abandoning their <placeName>post</placeName>. <persName>Tom </persName>writes me that you intend to hold on so long as
+you have 10 men and that you will waste your health by inches before you
+will retreat.</p>
+
+<p>May the God of Hosts protect and preserve you many years</p>
+
+<p><persName>G. Borden Jr</persName> [Rubric]</p>
+
+<p>I Inclose (50) fifty dollars and send you twenty by the hands of <persName>Mr.
+McFadden</persName> who will hand you this&#8212;The money being the same that I 
+collected for you.&#8212;	<persName>G. B</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

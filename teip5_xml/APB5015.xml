@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5015">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Philip Dimmitt, 11-02-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-11">06-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Philip Dimmitt
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Goliad, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 232-233
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-02">11-02-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Giving information concerning conditions at Bexar</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters </placeName><date when="1835-11-02">Nov. 2d 1835</date></p>
+<p><placeName>One Mile above Bexar</placeName></p>
+<p>To <persName>P. Dimmit Comandant at <placeName>Goliad</placeName></persName></p>
+
+<p>I have the Satisfaction to inform you that on the <date when="1835-10-28">morning of the 28th
+ultimo</date>, there was an attack made by about <persName>300 Cavalry</persName> and <persName>100 infantry</persName>
+of the <persName>enemy</persName>, upon a <persName>Detachment of the Army</persName>, Commanded by <persName>Col. James
+Bowie</persName> and <persName>Capn Fanning</persName> near the <placeName>Mission Concepcion</placeName>, The <persName>enemy</persName>
+brought on 2 pieces of Cannon for a vigorous assault.&#8212;They were received
+in the best Manner&#8212;The battle lasted for some 2 or 3 hours and resulted
+in the retreat of the <persName>enemy </persName>with the loss as we have well ascertained of at
+least <persName>50 Killed and wounded</persName>&#8212;and one piece of Cannon&#8212;Sixteen were left
+<persName>dead <placeName>on the field</placeName></persName>, and <persName>2 wounded</persName>&#8212;the balance were Carried off&#8212;Our
+men were posted <placeName>along the bank of the river</placeName> under good cover and 
+sustained the loss of only one man. <persName>Richd Andrews of <placeName>Mina</placeName></persName> mortally wounded
+and since dead&#8212;</p>
+
+<p>In regard to future operations here, I am afraid they will be tedious and
+prolonged, owing to the Strength of the <placeName>fortifications </placeName>of this place of
+which we have Certain information&#8212;</p>
+
+<p>Whether the <persName>Army </persName>Can be Kept together long enough to await the 
+arrival of <persName>reinforcements </persName>and the necessary supply of heavy battering 
+Cannon and Munitions I am sorry to say is somewhat uncertain&#8212; It has been<pb n="233"/>
+almost unanimously decided by a <persName>Council of the officers</persName> that the place is
+too strong to be stormed by the Kind of force we have&#8212;There was from
+this opinion but one dissenting voice&#8212;So you see our Condition&#8212;</p>
+
+<p>There was a rumor which came from <placeName>Bexar </placeName><date when="1835-11-01">yesterday </date>that <persName>Savariego</persName>
+had escaped from <placeName>S Felipe</placeName>&#8212;gone to the <placeName>Nueces </placeName>raised the <persName>Irish </persName>there and
+joining them with the <persName>troops </persName>at that place had attacked <placeName>Goliad</placeName>&#8212; But I
+attach no credit to the report, as I know positively that he <persName>Savariego </persName>was in
+<placeName>S. Felipe</placeName> <date when="1835-10-27">a week ago</date></p>
+
+<p><persName>S. F. Austin</persName></p>
+<p>P S My health has been very bad since I was at <placeName>Cibolo </placeName>and has not
+improved&#8212;quite the reverse&#8212;I am much debilitated.</p>
+
+<p><persName>S. F. A.</persName></p>
+
+<p>Your last Communications were recd giving an account of the 
+provisions on the way, for which we are very grateful.</p>
+
+<p><persName>S. F. A.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

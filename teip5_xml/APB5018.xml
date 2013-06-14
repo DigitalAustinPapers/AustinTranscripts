@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5018">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to President of the Consultation, 11-04-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-11">06-11-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        President of the Consultation
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 235-236
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-04">11-04-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-11" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Repeating request for reinforcements. Success of present force great in face of handicaps. Need discipline, and experienced commander</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters 1 1/2 miles above Bexar</placeName> <date when="1835-11-04">Nov 4. 1835</date></p>
+<p>To the <persName>President of the Consultation of <placeName>Texas</placeName></persName></p>
+
+<p>heard by <persName>Mr Mosley Baker</persName> that the opinion is prevalent among the <persName>people
+in <placeName>that part of the country</placeName></persName> that no more <persName>reinforcements </persName>are necessary and
+that <placeName>Bexar </placeName>will be taken before <persName>reinforcements </persName>can reach here&#8212; On this
+subject I have to assure you I am decidedly of opinion that without very
+strong <persName>reenforcements </persName><placeName>Bexar </placeName>can not be taken nor with them without 
+battering Cannon and from one to two hundred round shots for battering
+down walls&#8212;</p>
+
+<p>The <persName>enemy </persName>has sixteen Cannon mounted of various calibre up to 18
+pounds&#8212;from 6 to 8 more that will be mounted in a few days&#8212; They
+have plenty of provisions and about <persName>700 men</persName>&#8212;</p>
+
+<p>In the last few days more than <persName>150 men</persName> have left this <placeName>camp </placeName>to return
+<placeName>home </placeName>for winter clothing and other purposes, so that the effective force is
+only about <persName>450 men</persName> after deducting the sick&#8212; This <persName>force</persName>, it is known to
+all, is but <persName>undisciplined militia</persName> and income respects of very discordant
+materials&#8212; The <persName>officers </persName>from the<persName> Commander in chief </persName>down are 
+inexperienced in military service&#8212; With such a <persName>force </persName><placeName>Bexar </placeName>can not be 
+effectually invested&#8212; All that can be, has been done&#8212; The <persName>enemy </persName>have
+been beaten and driven within their walls, with loss in every instance
+where they have made sorties&#8212; At the <placeName>Concepcion </placeName>they were defeated by
+<persName>Colo. Bowie</persName> and <persName>Captn. Fanning</persName>, with the loss of 1 Cannon and <persName>70 men</persName>
+killed wounded and missing Our <persName>army </persName>has so far done wonders&#8212; It has
+confined a <persName>superior force</persName> within strongly <placeName>fortified walls</placeName>&#8212; It has beaten
+the <persName>enemy </persName>in every contest and not a day passes without skirmishing within
+the reach of the <persName>enemy</persName>s grape shot.&#8212; It has struggled against all manner
+of privations and sufferings, against want of discipline, dessertion, 
+disention, and what is worse than all against what has been considered coldness
+and tardiness in sending out <persName>reinforcements</persName>.&#8212;</p>
+
+<p>I repeat <placeName>Bexar </placeName>can not be taken without <persName>1000 men</persName> at the very least and
+the battering cannon of which I have spoken [The men now here?] can
+I think be kept here till <persName>reenforcements </persName>arrive&#8212; Those who have left have
+all promised to return. It is to be hoped they will have sufficient patriotism
+to do so.</p>
+
+<p>I have authorized and do authorize the <persName>Convention </persName>to mortgage all my
+<placeName>estate </placeName>if necessary for the public service</p>
+
+<p>I have dispatched the <persName>Adjutant Genl Warren D C Hall</persName> and my <persName>Aid de
+camp Col°. P. W. Grayson</persName> for the purpose of bringing out 
+<persName>reenforcements</persName>&#8212; Stopping the false and silly rumors that they are unnecessary and
+bringing in the large Cannon with round shot and <persName>men </persName>to work them<pb n="236"/>
+I have further to inform you that there is no medicine in <placeName>camp</placeName>&#8212;and so
+far as I am informed, none on the way&#8212; There are no surgical 
+instruments nor bandages, nor materials for making lint, nor anything else to
+provide for the sick and wounded.&#8212; I hope they will be sent immediately
+&#8212;as also that additional <persName>physicians </persName>will come out with the <persName>reenforcements</persName>.</p>
+
+<p>I have the satisfaction to inclose you a Detailed report of the <persName>Capts. of
+the engagements of the <date when="1835-10-28">28th</date></persName>-&#8212; The action so brilliant in its results proves
+our great superiority to the <persName>enemy </persName>when they come out from behind their
+walls&#8212; I last night received dispatches informing me of the gallant <persName>Army
+of patriots</persName> who have volunteered and are volunteering from <placeName>Orleans</placeName>&#8212; I
+have ordered the <persName>Capt [at] <placeName>Goliad</placeName></persName> to march here&#8212; This news is cheering
+and has [raisd the spirits] of the <persName>army </persName>very much&#8212;</p>
+
+<p>I have to request that no whysky be sent with supplies to the <placeName>camp</placeName>&#8212;
+Ink Paper and wafers are much wanted</p>
+
+<p><persName>S. F. Austin Comdt.in Chief</persName>&#8212;</p>
+
+<p>By order</p>
+<p><persName>WDC Hall Adjt and Inspt&#8212;Genl</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

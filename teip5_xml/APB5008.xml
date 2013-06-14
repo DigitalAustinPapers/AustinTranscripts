@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5008">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Bowie and James Fannin to Stephen F Austin, 11-01-1835</title>
+            <author>
+                <persName>James Bowie and James Fannin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Camp below Bexar, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 226
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-01">11-01-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report of a reconnoissance</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Camp below Bexar</placeName> 5 Oclk P M</p>
+<p><date when="1835-11-01">1 Novr 1835</date></p>
+<p>To Genl S F. Austin</p>
+<p>Dr Sir&#8212;In accordance with your orders, we have made all the display
+possible, with our little small <persName>Division</persName>&#8212;Such an effect was produced, and
+the <persName>men </persName>being all well pleased with their situation <placeName>about <hi rend="italic">800 yards</hi> below
+Town</placeName>, that we determined to occupy it, and have in consequence brought up
+the Baggage etc from <placeName>Concepcion</placeName>, and have thrown a rough <placeName>bridge across
+to River</placeName>, and thus occupy <placeName>both banks</placeName>&#8212;We are <hi rend="italic">resolved </hi>to hold it as long
+as our <hi rend="italic">numbers </hi>can justify it, and it meets your approbation&#8212; We are
+exposed, and they must certain know our <hi rend="italic">force</hi>, and may in all probability
+attempt to dislodge us&#8212; Should we be uninterrupted <date when="1835-11-01">tonight</date>, we will 
+endeavour to strengthen the <placeName>post</placeName>&#8212; Will you allow us to <hi rend="italic">once </hi>more, say that
+a more <hi rend="italic">equeal </hi>division of <persName>forces </persName>[is desirable]</p>
+<p><persName>J. W. Fannin, Jr</persName>.</p>
+<p><persName>James Bowie</persName></p>
+<p>P. S. we have recd no <persName>deserters</persName>&#8212;nor any evidence to justify the beleif
+that any will be recd&#8212;</p>
+<p>Every thing seems to wear the appearance of resistance&#8212; Should you
+not send to us <date when="1835-11-01">to night</date>, be on the look out <date when="1835-11-02">early in the morning</date>.</p>
+<p><persName>J. W. Fannin Jr</persName></p>
+<p>As we are here in a very exposed situation much more than you are we
+earnestly request that you immediately send us a <persName>reinforcement </persName>the <persName>troops</persName>
+will not be satisfied without it</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

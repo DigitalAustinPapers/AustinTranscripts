@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5040">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 11-14-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-14">06-14-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 252-253
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-14">11-14-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-14" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Liberals in the interior cool toward Texas. Advises march on Matamoras</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Fort of Goliad, Nov. 14th 1835</p>
+
+<p>To <persName>Gen. S. F. Austin,
+Com. in Ch/ of the Army of the People</persName>,</p>
+
+<p>Dear Sir, The facts communicated by <persName>Dr. Grant</persName>, and others, who 
+accompanied <persName>Citizen Yiesca</persName> to <placeName>this place</placeName>, relative to the present state of
+affairs in the <placeName>interior of the Country</placeName>, presents an unexpected, and highly
+interesting prospect to the <persName>people of <placeName>Texas</placeName></persName>. From all that I have been
+able to learn from these <persName>Gentlemen</persName>, it seems to be expected by our <persName>friends
+<placeName>beyond the Rio Grande</placeName></persName>, that <placeName>Texas </placeName>should not only sustain herself against
+the spread of Centralism, but it is also expected that she will send a <persName>force</persName>
+to the <placeName>interior</placeName>, and give an impulse to a reaction there. But a small a
+<hi rend="italic">very small</hi> portion, of what is called the <persName>liberal party</persName>, are either under
+arms, or even making an effort to resist the strides of the <persName>usurper</persName>. They
+do not appear from what I can learn, to be in a state of readiness to receive
+or to be actuated by a temper to <hi rend="italic">invite, our</hi> interference with an <persName>armed
+force</persName>, even were it convenient for <placeName>Texas </placeName>to take such a step.</p>
+
+<p>An apparently studious, and a prolonged silence of the professed <persName>enemies
+of the military system</persName>, concerning the course which <placeName>Texas </placeName><hi rend="italic">ought </hi>to take;
+their forbearance to encourage her, even on paper, in the prosecution of
+the one she has so nobly, and so fearlessly adopted; their failure to strike
+there, whilst the <persName>enemy </persName>is thrilled with dismay here, are symptoms, 
+portending a violent, perhaps a fearful crisis. If no effort is made along the
+<placeName>Rio Grande</placeName> to revive the <placeName>republic</placeName>, can we hope for opposition <hi rend="italic">there </hi>to the
+movement of <persName>troops from the <placeName>interior</placeName></persName>, to reinforce <persName>Cos</persName>, and recapture
+<placeName>Goliad</placeName>? The <persName>population of <placeName>Texas</placeName></persName> is mostly of <placeName>foreign </placeName>origin. The 
+<persName>inhabitants </persName>are considered <persName>foreigners</persName>. May not, and will not this be used as
+an argument, (and will it not be all powerful as such,) to unite all <persName>parties</persName>
+<hi rend="italic">there</hi>, for the particular object of crushing <placeName>Texas</placeName>? And whilst doing, or
+trying to do this, time, and opportunity will have been afforded the 
+<persName>Dictator</persName>, effectually to entrench himself behind the bulwarks of centralism.
+In this way, he may hope to make, and perhaps <hi rend="italic">may </hi>make, a complete
+conquest of the <placeName>whole country South of the Rio Grande</placeName>. This done, he
+might well afford to withdraw from <placeName>Texas</placeName>, and leave her to the 
+unmolested management of her own affairs. In the meantime, a sanguinary war
+must rage and bleed Campaign after campaign would have been 
+opened-<persName>army </persName>after <persName>army</persName>, would have been arrayed, and the resources of the 
+<placeName>country </placeName>greatly impoverished, perhaps entirely exhausted.</p>
+
+<p>Thus to divide and conquer, may not be embraced in the plan of the
+<persName>Usurper</persName>. But whether it be or not, such a scheme, or something like it, is
+certainly among possible occurrences, it is even highly probable.<pb n="253"/></p>
+
+<p>In a former communication, I hinted the policy of a dash at <placeName>Matamoros</placeName>,
+hoping from what I had then heard, that the movement would be approved
+and sustained by a <persName>majority of the people</persName> in <placeName>that section of the country</placeName>.
+But now, I fear it would not be. On the contrary, I am fully satisfied that
+such a movement on the part of <placeName>Texas</placeName>, would be as likely to be opposed,
+as to be approved</p>
+
+<p>But another view of this subject is presented. If <placeName>Texas </placeName>cannot achieve
+her liberation on any easier terms than those above supposed, would it
+not be wise to use in the prosecution of the war, every weapon which she
+can seize and weild, now in the hands of the <persName>enemy</persName>, or within his reach?
+The <placeName>post of Matamoros</placeName>, if properly, and honestly superintended, would
+yield a very considerable revenue. At present, its income is said to be
+$100,000 per month. It is said that it ought to produce much more. This
+is a formidable and efficient weapon. The position is imposing&#8212;it is 
+commanding and its occupation would be likely to releive the grate and 
+increasing <persName>population of <placeName>Texas</placeName></persName>, from the immediate, and more appalling
+calamities of war. <persName>Foreign volunteers</persName> can be introduced at that point, as
+readily, and with as little expense, as at any other; and the position would
+afford many facilities for annoying the commerce of the <persName>enemy</persName>, not 
+furnished by any point on the <placeName>coast of Texas</placeName>.</p>
+
+<p>This is a subject of immense importance to our <placeName>country</placeName>; and the policy
+which she may adopt in relation to it, may greatly mitigate, or it may
+multiply, and aggravate, the calamities of the war.</p>
+
+<p>The <persName>Gerraro Battallion</persName>, our friends from the <placeName>interior </placeName>inform us, had
+reached <placeName>Saltillo</placeName>, before they crossed the <placeName>N. River</placeName>, and had been ordered to
+march immediately for <placeName>Bexar</placeName>. <persName>400 convicts</persName> were also to join them. This
+information was communicated by <persName>Colo. Powers</persName> who said it was told to
+him, a few hours previous.</p>
+
+<p><persName>Cos</persName>, no doubt, has strong assurances of the arrival of <persName>reinforcements</persName>;
+and on these he must rely, to enable him to hold <placeName>Bexar</placeName>.</p>
+
+<p>Your opinion on the subject of this letter is urgently solicited.</p>
+
+<p><persName>P. Dimitt</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

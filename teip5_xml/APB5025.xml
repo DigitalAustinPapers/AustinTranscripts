@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5025">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>F W Johnson et Al to Unknown, 11-06-1835</title>
+            <author>
+                <persName>F W Johnson et Al</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-12">06-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Antonio, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 242-243
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Protest</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-11-06">11-06-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Protest against allowing Mexicans to gather corn </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>We the undersigned&#8212;assembled at <placeName>this place</placeName> with the hope of 
+compelling<persName> Gen. Coss</persName> to surrender&#8212;and expecting to accomplish that result<pb n="243"/>
+by starving him out&#8212;most Solemnly Protest against any <persName>Mexican </persName>under
+any pretence save those belonging to our <persName>army </persName>being permitted to gather
+corn&#8212;Beef or any provisions of any Sort&#8212;</p>
+
+<p><hi rend="italic"><placeName>San Antonio</placeName> <date when="1835-11-06">November 6th 1835</date></hi></p>
+
+
+<p><persName>F. W. Johnson Capt</persName>	<persName>J H Money</persName></p>
+<p><persName>J Eberly</persName>	<persName>Albert Martin</persName></p>
+<p><persName>A Somervell Majr</persName>	<persName>P D Messer </persName>(?)</p>
+<p><persName>John M Bradley Capt.</persName>	<persName>John English Capt.</persName></p>
+<p><persName>Geo. M Poe Capt Artillery</persName><persName>	R. B. Irvine</persName></p>
+<p><persName>Parrott	" "	</persName><persName>W. H. Wharton</persName></p>
+<p><persName>Ben R Milam</persName>	<persName>J. W. Fannin Jr</persName></p>
+<p>I am opposed to <persName>Mexicans </persName>entering the <placeName>Camp </placeName>at all</p>
+<p><persName>P. B. Irvine</persName></p>
+<p><persName>T J Rusk</persName></p>
+
+<p>In addition I am opposed to permission being given to them to return
+when once entering the <persName>army</persName></p>
+
+<p><persName>Wm Scott</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

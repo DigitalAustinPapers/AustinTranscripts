@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5002">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R R Royall to Stephen F Austin, 10-29-1835</title>
+            <author>
+                <persName>R R Royall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-08">06-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">San Felipe de Austin, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 220-221
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-29">10-29-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Encouraging news from the United States.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>San Felipe</placeName> <date when="1835-10-29">29th Oct. 1835</date></p>
+<p><persName>General Austin</persName></p>
+<p>Dear Sir,</p>
+<p>Cheering news! From intelligence that has poured in upon us <date when="1835-10-29">this
+morning</date> we are emboldened to declare that <placeName>Texas </placeName>will and must be free!
+Many letters are now before us from which we have time only to cull the
+most prominent facts. Those addressed to you we forward. We are happy
+in announcing to you the arrival among us of <persName>60 or 70 fine young men
+from <placeName>New Orleans</placeName></persName> well equipped and in complete uniform, and who are
+already on their March <placeName>from Brazoria to Goliad</placeName>. Another vessel 
+containing many more is hourly expected. Seventy five <persName>men </persName>have gone <placeName>up Red
+River</placeName> also from <placeName>New Orleans</placeName>, intending to come by land from <placeName>Nachitoches</placeName>,
+where no doubt they will recieve such accessions as to augment the number
+to <persName>300 men</persName>. Letters from <persName>McKinney </persName>and <persName>Williams </persName>and others below urge
+you to write for supplies of any or all kinds, and your orders shall be
+promptly filled. <persName>Mr Wm. H. Smith </persName>who went below on <persName>express </persName>and as our
+<persName>agent</persName>, has received our thanks, and the applause of all others for his very
+prompt attention to every commission given him to execute. Every thing<pb n="221"/>
+you have yet sent for will be forwarded. The 12 pounder is on the way,
+the 18 pounder is also by this time on the way. The 6 pounder from 
+<placeName>Matagorda </placeName>left several days since by water for <placeName>La Baca</placeName>, intended for <placeName>La Bahia</placeName>.
+We have only time to say that should you require the aid of the <persName>Volunteers
+from the <placeName>United States</placeName></persName>, you will order them from <placeName>Goliad </placeName>to <placeName>San Antonio</placeName>.
+The <persName>troops expected now from <placeName>Louisiana</placeName></persName> will be directed to meet you at
+<placeName>Bexar</placeName>.</p>
+<p><persName>R. R. Royall Presd</persName></p>
+<p>[Addressed:] <persName>Genl S. F. Ausin</persName> <placeName>Head Quarters</placeName><persName> Mr Baker</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
