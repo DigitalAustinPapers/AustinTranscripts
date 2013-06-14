@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5150">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin and William H Wharton to American Hotel, 04-11-1836</title>
+            <author>
+                <persName>Stephen F Austin and William H Wharton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-30">07-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        American Hotel
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 330-331
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Bill</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-11">04-11-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin and Wharton to American Hotel, New York, April 11, 1836. Bill</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Am. Hotel</persName>, <placeName>New York</placeName> <date when="1836-04-11">April 11 "/36</date></p>
+
+<p><persName>Genl. Austin</persName> and <persName>Wharton </persName>of <placeName>Texas</placeName></p>
+
+<p>To <persName>Edwd. Milford</persName></p>
+
+<p><date when="1836-04-12">April 12</date> To Washing 5/12. (13") Sherry 12/ Sauterne 24/24/____$9.63</p>
+
+<p><date when="1836-04-13">" 13</date> To Cigars 4/. (14") Bar 5/. (16") Sherry 12/ Madeira 12/________4.13</p>
+
+<p><date when="1836-04-14">" 14</date> " do 4/ Brandy 12/. (18") Bar 2/. Cash $25 _____________________27.25</p>
+
+<p><date when="1836-04-19">" 19</date> " Bar 5/ (20") Bar 8/. Washing 2/. (21") Bar 2/ Cigs 2/__________2.38</p>
+
+<p><date when="1836-04-21">" 21</date> " Whiskey 8/. Sherry 12/. (22") Coach 24/. Sherry 12/12/________ 8.50</p>
+
+<p><date when="1836-04-23">" 23</date> " do 8/. C. Water 8/. 1/6 (24") C. Water 2/6 Bar 1/
+Medicine. 4/____________________________________________________________ 2.38</p>
+
+<p><date when="1836-04-25">" 25</date> " C Water 4/6 Washing 2/6 ("Sherry 12/ C, Water 3/
+Bar 2/3 _________________________________________________________________ 3.00</p>
+
+<p><date when="1836-04-27">" 27</date> " Bar 6/ (28"0 Bar 20/ Wishkey 8/ Washing 3/6 Champ 16/__________ 6.69</p>
+
+<p><date when="1836-04-29">" 29</date> " do 12/ C. Water 1/6 3/.&#8212;do 8/ (30") C Water 4/6
+Bar 9/. _________________________________________________________________ 4.75</p>
+
+<p><date when="1836-05-01">May 1</date> " C Water 9/. Bar 20/ (2") Washing 2/ (3") Postage 6/____________4.63</p>
+
+<p><date when="1836-05-04">" 4</date> " Bar 6/ Washing 8/. Postage 1/ (5") Bar 5/ (6") Bar 9/___________ 3.69</p>
+
+<p><date when="1836-05-06">" 6</date> " C Water 4/6 (7") Bar 14/. Postage 1/ Sherry 24/__________________ 5.44</p>
+
+<p><date when="1836-05-08">" 8</date> " Bar 20/. Postage 1/ (9") Bar 12/ C Water 4/6 Washing 2/6 _______ 5.06</p>
+
+<p><date when="1836-05-11">" 11</date> " do 8/. C. Water 1/6____________________________________________ 1.19</p>
+
+<p>88.50<pb n="331"/></p>
+
+<p><date when="1836-05-13">" 13</date> " 32 Daye Board for <persName>Genl. Austin</persName> to date___________________________96.00</p>
+
+<p><date when="1836-05-13">" 13</date> " 31 " " " " <persName>Wharton </persName>" ____________________________________________93.00</p>
+
+<p>" 4 " Parlour at <placeName>P. P. House</placeName>__________________________________________12.00</p>
+
+<p>" reserving Room 3 Days________________________________________________6.00</p>
+
+<p>" 3 Weeks Fires in N°- 47______________________________________________9.00</p>
+
+<p>216.00</p>
+
+<p>$304.66</p>
+
+<p>Recd Payment</p>
+
+<p><persName>E Milford</persName> pr <persName>James Meard</persName></p>
+
+<p>[Addressed:] <persName>Genl. Austin</persName> N°- 47 <placeName>Am Hotel</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

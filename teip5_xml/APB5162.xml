@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5162">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A J Yates to Stephen F Austin, Branch T Archer, and William H Wharton, 04-23-1836</title>
+            <author>
+                <persName>A J Yates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         Branch T Archer
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        William H Wharton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 339-340
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Statement of Expenses</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-23">04-23-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Statement of expenses </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>(Copy)</p>
+
+<p>The <placeName>State of Texas</placeName>, Special Mission of Messrs. <persName>Austin</persName>, <persName>Archer</persName>, and
+<persName>Wharton </persName>to the <placeName>U S. of America</placeName> <date n="xx-xx-1835">1835</date>, <date n="xx-xx-1836">1836 </date>in A/C with <persName>A J. Yates</persName>, <persName>special
+agent</persName> of said Mission, appointed by the <persName>commissioners at <placeName>New Orleans</placeName></persName></p>
+
+<p><date when="1836-01-21">January 21</date> and <date when="1836-01-22">22, 1836</date>.</p>
+
+<p>Dr.</p>
+
+<p><date n="xx-xx-1836">1836</date>	Voucher</p>
+
+<p><date when="1836-02-18">February 18</date> To travelling expences from <placeName>New Orleans</placeName> to <placeName>New York</placeName>. No. 1_____$196.03</p>
+
+<p><date when="1836-03-18">March 18</date> " To expences of Board at <placeName>New York</placeName>, to this date_________" 2______ 70.05</p>
+
+<p><date when="1836-04-11">April 11</date> " " Ditto " travelling from <placeName>New York</placeName> to <placeName>Washington City</placeName> and return to <placeName>New York</placeName> <date when="1836-03-18">March 18</date>
+to <date when="1836-04-11">April 11</date>___________________________________________________________" 3 ______31.68</p>
+
+<p><date when="1836-03-11">March 11</date> " Ditto of proving Steam Boat Sundres at <placeName>New York</placeName>
+with 9 collateral vouchers______________________________________________ " 4 ____ 148.75</p>
+
+<p><date when="1836-03-20">March 20</date> " Bill at <placeName>United States Hotel</placeName> <placeName>Phila</placeName>. going to <placeName>W
+City</placeName> _______________________________________________________________5 " 5_____ 8.43<pb n="340"/></p>
+
+<p><date when="1836-04-04">April 4</date>	" Do " <placeName>National Hotel</placeName> at <placeName>Washington City</placeName> _________________"	6 _________ 27.62</p>
+
+<p><date when="1836-04-05"> " 5</date>	"	Do " <placeName>Baltimore </placeName>on return to <placeName>New York</placeName> _____________________ "	7 ___________3.00</p>
+
+<p><date when="1836-04-10"> " 10</date>	"	Do " Philadelphia 44 44 ___________________"	8 ___________ 7.75</p>
+
+<p><date when="1836-04-23"> " 23</date>	"	Do " New York to this date____________________"	9_____________30.00</p>
+
+<p><date when="1836-04-23">"	</date>"	Do of Captn. A Marsh for Steam Boat information	"	10 ___________75.00</p>
+
+<p><date when="1836-04-23">"	</date>"	Do prospective expences of return to New Orleans __________________100.00</p>
+
+<p>$701.37</p>
+
+<p>To Balance brought to <persName>Dr. Side </persName>__________________________________________________ 457.337</p>
+
+<p><placeName>New York</placeName>, <date when="1836-04-23">April 23, 1836</date></p>
+
+<p>E. E. [Errors Excepted]</p>
+
+<p><persName>A. J. Yates</persName></p>
+
+<p>Examined and approved</p>
+
+<p>Signed <persName>S. F. Austin</persName>	<date when="1836-04-25">April 25, 1836</date></p>
+
+<p>pr.	<persName>Wharton</persName></p>
+
+<p><persName>B T. Archer</persName>	Cr.</p>
+
+<p><date n="xx-xx-1836">1836</date></p>
+
+<p><date when="1836-01-22">Janry. 22</date> By Cash paid at <placeName>New Orleans</placeName> _________________________________________ $200.00</p>
+
+<p><date when="1836-04-05">April 5</date> " Ditto " " <placeName>Washington City</placeName> __________________________________________ 50.00</p>
+
+<p>Balance _________________________________________________________________________451.37</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

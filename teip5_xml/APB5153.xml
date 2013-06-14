@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5153">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Andrew Jackson, 04-15-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Andrew Jackson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 332-333
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-15">04-15-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking for a loan for Texas from surplus revenue of the United States</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To <persName>Andrew Jackson</persName>, <persName>Martin Van Buren</persName>, <persName>Richard M. Johnson</persName>, <persName>John
+Forsyth</persName>, <persName>Lewis Cass</persName>, <persName>T. H. Benton</persName>, and to <persName>any member of the
+Cabinet or Congress of all parties and all factions of the
+<placeName>United States</placeName></persName>.</p>
+
+<p><placeName>New York</placeName> <date when="1836-04-15">April 15th. 1836.</date></p>
+
+<p>Pardon me this intrusion upon your valued time. I address you as 
+Individuals, as men, as <persName>Americans</persName>, as my <persName>countrymen</persName>. I obey an honest though
+an excited impulse.</p>
+
+<p>We have recent dates from <placeName>Mexico </placeName>by the Packet. It Appears that
+<persName>Santana </persName>has succeeded in uniting the whole of the <persName>Mexicans </persName>against <placeName>Texas</placeName>
+by making it a national war against heretics: that an additional army of
+<persName>8000 men</persName> is organizing in <placeName>Mexico </placeName>under <persName>Gen. Cortazar</persName> to march to <placeName>Texas</placeName>
+and exterminate the <hi rend="italic">heretic Americans</hi>. <persName>Santana </persName>is now in <placeName>Texas</placeName>, as we
+all know, with about <persName>7000 men</persName> fighting under the <hi rend="italic">bloody </hi>flag of a <persName>Pirate</persName>&#8212;
+he is exciting the <persName>Comanches </persName>and other <persName>Indians</persName>, who know nothing of laws
+or political divisions of <placeName>territory</placeName>, and massacres have been committed on
+<placeName>Red River</placeName> within the<placeName> U.S.</placeName> This is a war of barbarism against civilization,
+of despotism against liberty, of <persName>Mexicans </persName>against <persName>Americans</persName>. Oh my 
+<persName>countrymen</persName>! the warm hearted chivalrous impulsive <placeName>West </placeName>and <placeName>South </placeName>are up
+and moving in favor of <placeName>Texas</placeName>. The calculating and more prudent tho' not
+less noble minded <placeName>North </placeName>are aroused. The Sympathies of the whole 
+<persName>American people</persName> in mass are with the <persName>Texians</persName>. This people look to you the
+guardians of their rights and interests and principles. Will you, can you
+turn a deaf ear to the appeals of your <persName>fellow citizens</persName> in favor of your and
+their <persName>countrymen </persName>and friends who are massacred, butchered, outraged in
+<placeName>Texas </placeName>at your very doors? Are not <hi rend="italic">we</hi>, the <persName>Texians </persName>obeying the dictates
+of an education received here: from you the <persName>American people</persName>, from our
+<persName>fathers</persName>, from the <persName>patriots of 76</persName>&#8212; the <persName>Republicans of 1836</persName>? Have we not
+been stimulated to obey the dictates of this noble education by the 
+expression of opinions all over the <placeName>United States</placeName> and by all <persName>parties </persName>that we ought
+to resist and throw off the yoke of <persName>Mexican </persName>usurpation, and are we now
+to be abandoned or suffered to struggle alone and single handed, because
+the cold calculations of policy or of party have had to be consulted?<pb n="333"/></p>
+
+<p>Well, you reply&#8212;what can we do? In answer I say, let the <persName>President</persName>
+and <persName>Cabinet </persName>and <persName>Congress </persName>come out openly and at once and proclaim to
+the public their opinions&#8212;let <placeName>Texas </placeName>have some of the $37,000,000 now in
+the <placeName>national treasury</placeName>&#8212;let the war in <placeName>Texas </placeName>become a <hi rend="italic">National war, above
+board</hi>, and thus respond to the noble feelings of the <persName>American people</persName>&#8212;
+Who can deny that it is a national war in reality&#8212;a war in which every
+<persName>free American</persName> who is not a <persName>fanatic</persName>, <persName>abolitionist</persName>, or cold hearted recreant
+to the interest and honor and principles of his <placeName>country </placeName>and <persName>countrymen</persName>,
+who is not an icicle in soul and in practice, is deeply, warmly ardently 
+interested. In short, it is <hi rend="italic">now </hi>a national war <hi rend="italic">subrosa </hi>This will not do;
+This state of the matter cannot, ought not to continue&#8212; make it <hi rend="italic">at once</hi>
+and <hi rend="italic">above board,</hi> what it is <hi rend="italic">in fact, a national war</hi> in defence of national
+rights interests and principles and of <persName>Americans</persName>. Let the <persName>Administration</persName>
+and <persName>congress </persName>take this position <hi rend="italic">at once</hi>, and the butcheries in <placeName>Texas </placeName>will
+cease, humanity will no longer be outraged by a war of extermination
+against liberty and against <persName>Americans</persName>&#8212; peace will be restored and 
+maintained on the <placeName>South West frontiers of this nation</placeName>, and the <persName>Government of
+the U.S.</persName> will then occupy that open and elevated place which is due to the
+<persName>American people</persName> and worthy of <persName>Andrew Jackson</persName>&#8212;for it will occupy <hi rend="italic">above
+board</hi> the position which this <placeName>nation </placeName>as a people now occupy in the heart
+and in feeling and in wishes; a position which they are now defending in
+obedience to the noblest impulses of the heart, by acts and with their blood,
+as warm hearts noble spirits always do.</p>
+
+<p>Respectfully your <persName>native countryman</persName> and obedt Sert.</p>
+
+<p><persName>S. F Austin</persName> of <placeName>Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5093">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Austin, 01-07-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-13">07-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 297-298
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-01-07">01-07-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Favoring declaration of independence and explaining apparent inconsistency</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear <persName>Henry</persName>&#8212;<persName>Mr Ware</persName> is not in the <placeName>city</placeName>&#8212;he is some where in the <placeName>state
+of Mississippi</placeName>&#8212; I will leave your letter for him with <persName>Mr A. Hodge 
+president of the <placeName>Orleans Bank</placeName></persName>&#8212; There is great enthusiasm in favor of <placeName>Texas </placeName>in
+this <placeName>city</placeName>, and <placeName>all over the U. S</placeName>.&#8212;a thousand fold more than I had any idea
+of&#8212; The universal opinion seems to be that, we ought to declare 
+Independence <hi rend="italic">immediately</hi>&#8212;it will give us the aid of <persName>men of capital and high
+standing and character</persName> who wish for a more extensive field, than a mere
+party war in <placeName>Texas</placeName>&#8212; My own feelings and impulses inclined me to this
+course long ago and especially when I left <placeName>San Felipe</placeName>&#8212; What I said to
+the <persName>provisional Govt</persName>, on the <date when="1835-11-30">30th. November</date> and <date when="1835-12-02">2d December</date> indicates
+my feelings plain enough&#8212; It was unfortunate that I came on by water&#8212;
+I should have arrived sooner by land, and I could not have gone to the
+<placeName>lower country</placeName>, where the warm and even violent feelings of some of my
+<persName>friends </persName>did at that time to a certain extent prcipitate me into party 
+<hi rend="italic">feelings</hi>&#8212;a thing I have always tryed to avoid&#8212;</p>
+
+<p>I am now acting and in future shall act on my own impulses, for I have
+generally found them to be correct&#8212; <hi rend="italic">I go for Independence</hi> for I have no
+doubt we shall get aid, as much as we need and perhaps more&#8212;and what
+is of equal importance&#8212;the information from <placeName>Mexico </placeName>up to late in 
+<date n="12-xx-1835">December </date>says that the <persName>Federal party</persName> has united with <persName>Santa Anna</persName> against us,
+owing to what has already been said and done in <placeName>Texas </placeName>in favor of 
+Independence so that our present position under the constitution of <date n="xx-xx-1834">1824</date>, does
+us no good with the <persName>Federalists</persName>, and is doing us harm in this <placeName>country</placeName>, by
+keeping away the kind of men we most need&#8212; were I in the <placeName>convention </placeName>I
+would urge an immediate declaration of Independence&#8212;unless there should
+be some news from the <placeName>interior </placeName>that changed the face of things&#8212;and even
+then, it would require very strong reasons to prevent me from the course I<pb n="298"/>
+now recommend&#8212; I wish you to inform <persName>McKinny </persName>and <persName>Jack </persName>etc of the 
+contents of this letter&#8212;that is of such parts of it as you think proper&#8212;and I
+advise you to take an open and bold stand for Independence at once&#8212; I
+hope all my <persName>friends </persName>will do the same&#8212;and that the Question will be 
+decided <hi rend="italic">unanimously</hi>&#8212; as I before observed I am informed that the <persName>Federal
+Party</persName> have done nothing for us&#8212;and will do nothing&#8212;if so it is a folly to
+maintain our present position any longer&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><placeName>New Orleans</placeName>, <date when="1836-01-07">January 7, 1836</date>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

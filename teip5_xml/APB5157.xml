@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5157">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Unknown to Stephen F Austin, 04-02-1836</title>
+            <author>
+                <persName>Unknown</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 334-335
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Proposal</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-02">04-02-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Proposals for a loan to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Propositions made by sundry <persName>Individuals of <placeName>New York</placeName></persName> to the 
+<persName>Commissioners </persName>appointed by the <persName>Provisional Government of <placeName>Texas</placeName></persName> to contract a
+Loan in the <placeName>United States</placeName>.&#8212;</p>
+
+<p>The <persName>parties </persName>subscribing propose to Loan to the <persName>Provisional Government</persName>
+aforesaid, five Hundred thousand Dollars, more or less, on the following
+conditions.</p>
+
+<p>1st The Bonds of said <persName>provisional government</persName> and a certified copy of
+the authority under which the said <persName>Commissioners </persName>act, shall be deposited
+in the hands of such <persName>Trustees</persName>, as may be agreed upon, as a security for the
+payment of the amount to be Loaned, agreeably to the Subsequent 
+Stipulations.&#8212;</p>
+
+<p>2d- The Loan to be made for five Years from date upon an Interest of
+Six per cent per annum payable semi annually in the <placeName>city of New York</placeName>.&#8212;</p>
+
+<p>3d- Certificates of Stock, to be issued to <persName>subscribers </persName>to the Loan, in
+Shares of Eighty, one Hundred and Sixty; and three Hundred and Twenty
+Dollars.&#8212;</p>
+
+<p>4th The <persName>commissioners </persName>to pledge themselves to exert their influence
+with the said <persName>provisional Government</persName> to obtain for the <persName>individuals loaning
+the money</persName>, the option to take <placeName>Lands of the Public Domain of Texas</placeName> in
+payment of said Loan at fifty Cents pr acre at their option, at any time,<pb n="335"/>
+within Five years from the date named in the 2d- article. The said 
+<persName>Commissioners</persName>, firmly believing that the option, will be at once granted, by the
+said <persName>provisional Government</persName>.&#8212;</p>
+
+<p>5th- Ten per cent only of the amount subscribed to be paid prior to the
+decision of said <persName>Government </persName>with respect to the conditions Stipulated in
+the preceding Section.&#8212; And if the <persName>Government of <placeName>Texas</placeName></persName> refuses to permit
+the <persName>subscribers </persName>to take the <placeName>Lands </placeName>at fifty Cents per acre as therein 
+stipulated, then the 90 p % is not to be calld. for.&#8212;</p>
+
+<p><placeName>New York</placeName> <date when="1836-04-02">April 2th 1836</date>.</p>
+
+<p>[Addressed:] <persName>S. F. Austin Esqr.</persName> <placeName>New York</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

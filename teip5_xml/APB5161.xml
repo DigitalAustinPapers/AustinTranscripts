@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5161">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to A J Yates, 04-23-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        A J Yates
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 338-339
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-23">04-23-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suspending purchase of steamboat</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>(Copy)	<placeName>New York</placeName> <date when="1836-04-23">April 23, 1836</date></p>
+
+<p><persName>Mr. A. J. Yates</persName></p>
+
+<p>Sir,</p>
+
+<p>Your letter dated at <placeName>Washington City</placeName>, <date when="1836-04-01">April 1st 1836</date> containing a report
+of your proceedings under our letters of Instruction of the <date when="1836-01-21">21st</date> and <date when="1836-01-22">22nd
+January last</date>, has been received.</p>
+
+<p>Your several previous letters to us transmitting important information
+relative to the interests of our <placeName>country</placeName>, together with the efforts you have
+made in her cause, not only meet our warmest approbation, but also entitle
+you to the gratitude of the <persName>people of <placeName>Texas</placeName></persName>.</p>
+
+<p>We much regret to be under the necessity of discharging from further
+consideration, the purchase of a Steam Boat for the <persName>Government of <placeName>Texas</placeName></persName>,
+in consequence of its slender finances, and of the immediate and more 
+important demands for money to be applied to sustaining the army already
+<placeName>in the field</placeName>.</p>
+
+<p>The proposition to negotiate a loan in the <placeName>City of New York</placeName> which you
+have presented to us at the <placeName>City of Washington</placeName>, cannot be acted on by us,
+as it requires power with which we are not vested, and we must there fore
+decline it.<pb n="339"/></p>
+
+<p>We wish you to send us a statement of the disbursements in the mission
+in which you have been engaged, from the time of your leaving the <placeName>City of
+New Orleans</placeName>, including your prospective expenses in returning to that <placeName>City</placeName>,
+with the vouchers of the account for our examination, and we will 
+endeavour to provide the means for your reimbursement, before we leave the
+<placeName>City</placeName>.</p>
+
+<p>We still desire to leave the amount of your compensation for services,
+to be determined by the <persName>Government </persName>on your return, at the same time giving
+both you and it, our assurances of unqualified approbation, at the manner
+in which you have discharged the duties of the situation in which you have
+been placed by us, and our earnest recommendation to the <persName>Government </persName>to
+repay you in a liberal manner, for your exertions in behalf of the <placeName>Country</placeName>.
+We are much gratified to learn of your active efforts to raise a <persName>joint stock
+Steam Boat Company</persName>, and fit out a Steam Boat from this <placeName>City </placeName>for <placeName>Texas</placeName>,
+on the individual enterprise of your <persName>friends</persName>.</p>
+
+<p>Permit us to express to you our great satisfaction for your zeal in those
+efforts, and our earnest desire that you may succeed in accomplishing the
+object, as we are fully convinced of the great advantages of such a 
+communication to the <persName>Government </persName>and <persName>people of <placeName>Texas</placeName></persName>, and we most ardently
+wish for your success in the undertaking.</p>
+
+<p><persName>S F Austin</persName></p>
+
+<p><persName>Wm. H. Wharton</persName></p>
+
+<p><persName>B T Archer</persName>	</p>
+
+<p><persName>Commissioners of <placeName>Texas</placeName></persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

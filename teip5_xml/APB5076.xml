@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5076">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Stephen F Austin, 12-15-1835</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-07">07-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 284-285
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-15">12-15-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking Austin to help him raise money in the United States</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria </placeName><date when="1835-12-15">15. Decr/35</date></p>
+
+<p><persName>Gral S F Austin</persName></p>
+
+<p>Sir&#8212;</p>
+
+<p>I trouble you with a letter to <persName>Mr. N A Ware of <placeName>Philada</placeName></persName>. on the subject of
+a loan of money&#8212;</p>
+
+<p><persName>Mr Andrew Hodges</persName>, one of the <persName>Presidents of a Bank in <placeName>Orleans</placeName></persName> is <persName>Mr
+Wares agent in <placeName>N Orleans</placeName></persName>&#8212;</p>
+
+<p>By a previous letter to <persName>Mr Ware</persName> to the Care of <persName>Mr W A Hodges</persName> I have
+made my proposition to <persName>Mr Ware</persName> at length to which I refer&#8212;</p>
+
+<p>Should <persName>Mr Ware</persName> not be in <placeName>N O</placeName> Perhaps <persName>Mr Hodge</persName> would embrace the
+proposition, after explanations by you of the value of the property and the
+security of the instruments proposed to be given</p>
+
+<p>I beg leave to say that I shall be satisfied with any arrangement you may
+make to effect the object I have in View which is to raise money enough to
+pay the expenses of my <persName>family </persName>and Protect me from the necessity of 
+sacrificing my best property during the present Difficultys&#8212;</p>
+
+<p>Should <persName>Mr Ware </persName>not be in <placeName>N Orleans</placeName>, and no one disposed to embrace
+the proposition, you will do me a kindness to take the letter with you and
+if you pass through <placeName>philada</placeName>- See <persName>Mr. Ware</persName>&#8212;</p>
+
+<p>In Case you should go to <placeName>New York</placeName> and no one should embrace the 
+proposal in <placeName>New Orleans</placeName>. I will be much obliged by your seeing my friend (<persName>a
+Broker in <placeName>Wall Street</placeName></persName>) <persName>George Shipman</persName>, <persName>Mr Jonathan Goodhue</persName>, <persName>Geo 
+Griswold</persName>, and <persName>James Treat</persName>, <persName>Mexican Consul</persName>, and State to them my situation,
+That is that I have a large and Valuable <placeName>estate </placeName>which I must loose without
+the aid of Money to sustain my expenses during the revolutionary
+Struggle&#8212;<pb n="285"/></p>
+
+<p>I have written to <persName>John </persName>upon the subject, my old <persName>friends in <placeName>New York</placeName></persName>
+will remember me when told where I am and how situated</p>
+
+<p><persName>H. Austin</persName> [Rubric]</p>
+
+<p>PS in the event of the money not being to be had at 20 prct I had
+rather give 25/00 for 10.000 for two years than not get it&#8212;and should
+<placeName>7 leagues</placeName> not be deemed sufficient security I would add <placeName>three leagues</placeName> more</p>
+
+<p>[Addressed:] <persName>Gral S F Austin</persName> Prsent&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

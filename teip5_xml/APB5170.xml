@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5170">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Zacharie and Company to Stephen F Austin, 05-05-1836</title>
+            <author>
+                <persName>Zacharie and Company</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 348-349
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-05-05">05-05-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Selling eleven leagues of land in Texas for Father Muldoon</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-05-05">May 5th 1836</date></p>
+
+<p><persName>Col Stephen F Austin</persName></p>
+
+<p>Dear Sir</p>
+
+<p><persName>Father Muldoon of <placeName>Mexico</placeName></persName> having forwarded us the certified copies of
+his titles to <placeName>Eleven leagues of Land in Texas</placeName> to be delivered you on 
+payment of Five Thousand Dollars we have to advise that they are now in our
+possession and will be delivered on your complying with the conditions, we
+annex a copy of his letter to us, and also of an open letter, to you in our
+possession, which we think best to retain fearing that you may have left
+<placeName>Washington City</placeName></p>
+
+<p><persName>J. W. Zacharie and Co</persName>.</p>
+
+<p><placeName>Mexico</placeName>&#8212; <date when="1836-03-09">March 9th 1836</date>&#8212;</p>
+
+<p>Messrs. J. W. Zacharie and Co New Orleans</p>
+
+<p>Gentlemen</p>
+
+<p>The Amt of money say $5000, five Thousand Dollars which <persName>Genl S F.
+Austin</persName> advises me would be paid at your <placeName>Counting House</placeName> (upon my 
+forwarding to same the authenticated Certificate of title to <placeName>Eleven leagues of
+Land in Texas </placeName>in my name and transfered to him by virtue of a Power of
+Atty&#8212;authorizing him so to do.) You will please hold&#8212;subject to the
+order of <persName>W S Parrott</persName> of this city, who will account to me for same, as I
+transmit in conformity to <persName>Gen Austin</persName>s instructions through the Said <persName>W S
+Parrott</persName> the certified copy of my title to the <placeName>11 Sitios</placeName> aforesaid, taken from
+the original register of the <placeName>Land office in Texas</placeName> and the only document
+given in Similar cases. The which <persName>Genl Austin</persName> had full power to </p>
+dispose of<pb n="349"/>
+
+<p>Presuming that you will conform yourselves to the present as if it was a
+letter or regular bill of Exchange and craving your reply through the same
+medium I have the honor to be Genln. Yr Most Obt Servt</p>
+
+<p><persName>Michael Muldoon</persName></p>
+
+<p><placeName>Mexico </placeName><date when="1836-03-09">9th March 1836</date></p>
+
+<p>My Dear friend <persName>Genl Austin</persName></p>
+
+<p>Agreeably to your note I send you through <persName>Mr. Parrott</persName> a certified copy of
+the protocol now in the land office at <placeName>San Felipe</placeName>&#8212;signed by <persName>Mr Williams</persName>
+and <persName>Arciniega</persName></p>
+
+<p>I cannot accuse myself of any neglect in the fulfilment of my obligations
+with respect to those sitios having left all my Dues in the <placeName>Colony </placeName>for that
+purpose, paid the <persName>Government </persName>in whole and the <persName>surveyor </persName>in Part, with a
+letter of three hundred Dollars Mexican Currency&#8212;accepted by the very
+respectable <persName>Mr Wharton</persName> which I gave you, with, as also with powers to do
+what [you] might think proper for the final adjustment.</p>
+
+<p>Now I beg leave to draw for the entire sum of&#8212;Five Thousand Dollars
+on the <persName>house of J. W. Zacharie and Co</persName> <placeName>New Orleans</placeName> in favor of the said <persName>W S
+Parrott Esqr</persName> of this City and Commerce</p>
+
+<p><persName>Michael Muldoon</persName></p>
+
+<p>[Addressed:] <persName>Col Stephen F Austin</persName> <placeName>Washington D C</placeName> mail</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

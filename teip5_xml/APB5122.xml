@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5122">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry L Webb to Stephen F Austin et Al, 02-01-1836</title>
+            <author>
+                <persName>Henry L Webb</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-26">07-26-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin et Al
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Caledonia, Illinois</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 313
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-02-01">02-01-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Will raise two companies of volunteers</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>To <persName>Genl S. F. Austin</persName> and <persName>Doct Archer</persName> etc</p>
+
+<p>Gentlemen</p>
+
+<p>I had contemplated raising only <persName>100 men</persName> but <persName>Col Clemson</persName> informs me
+<persName>56 men</persName> is the number of each <persName>company</persName>, according to the arrangement of
+the <persName><placeName>Texas </placeName>government</persName>. I will therefore increase the number so as to fill
+<persName>two companys</persName>, Any arrangement made with <persName>Col Clemson</persName> I will consider
+binding on me. I am</p>
+
+<p><persName>Henry L. Webb</persName> [Rubric]</p>
+
+<p><placeName>Caledonia Ill</placeName> <date when="1836-02-01">Feby 1st 1836</date></p>
+
+<p>[Addressed:] To <persName>Genl. S. F. Austin</persName> and <persName>Doct Archer</persName> of the <persName><placeName>Texas</placeName>
+Committee</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

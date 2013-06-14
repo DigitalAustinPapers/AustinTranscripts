@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5088">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Provisional Government of Texas, 12-2-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-13">07-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Provisional Government of Texas
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Velasco, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 290-292
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-02">12-2-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Urging organization of government in conformity with declaration of November 7. Importance of keeping confidence of Mexican liberals.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Velasco </placeName><date when="1835-12-22">Dec.r 22. 1835</date>&#8212;</p>
+
+<p>The best interests of <placeName>Texas</placeName>, I think require that the war should be kept
+<placeName>out of this country</placeName> and <placeName>beyond the rio grande</placeName>. On this principle I was in
+favor of fitting out <persName>Col Gonzales</persName> and did everything I could to do so. I
+was, and am in favor of giving to <persName>Genl. Mexia</persName> and his <persName>men </persName>what aid we
+could, and generally of affording assistance to the <persName>federl party</persName> in the 
+<placeName>interior </placeName>by such <persName><hi rend="italic">auxiliary </hi>forces</persName> as we could spare. I have been and am 
+opposed to any measures that will give to the <persName>central govt. in <placeName>Mexico</placeName></persName> any
+foundation to say that the <persName>Texan </persName>war, is purely a national war against 
+<persName>foreigners </persName>and <persName>foreign invaders</persName>&#8212; In short I have thought, and still think that
+<placeName>Texas </placeName>should rigidly adhere to the leading principles of the declaration of<pb n="291"/>
+<date when="1835-11-07">7 Nov.r last</date>. By so doing we preserve our character for consistency and
+good faith.</p>
+
+<p>I will here observe, that in my communication to the <persName>provisional govt</persName>.
+of <date when="1835-12-02">2d instant</date> recommending the convocation of a convention on the basis
+of equal representation, I objected to the declaration of <date when="1835-11-01">1 Nov.r</date> as being
+liable to [mis]construction. Perhaps I ought to state the extent and nature
+of my objection&#8212;it is this&#8212; The declaration does not declare <placeName>Texas </placeName>to be
+a <placeName>state of the Mexican confederation</placeName>, which I think it ought to have done,
+subject however to all the other provisions and principles established in
+it&#8212; This would have given a fixed and definite character to the political
+position of <placeName>Texas </placeName>and concentrated public opinion, and at the same time
+left her the option of reuniting with <placeName>Mexico </placeName>or not hereafter, according as
+the federal constitution when reestablished conformed or not to the 
+republican principles of the federal system, for it is to be remembered that the
+declaration of <date when="1835-11-07">Novr. 7</date> does not adhere to all the anti-republican features
+and defects of the constitution of <date n="xx-xx-1834">1824</date>, it only adheres to its <hi rend="italic">republican
+principles</hi> and to the federal system.</p>
+
+<p>It is well known that the object of the <persName>federal party of <placeName>Mexico</placeName></persName> at this
+time is to reform the constitution of <date n="xx-xx-1824">1824 </date>so as to expunge all its 
+anti-republican principles. Our declaration of <date when="1835-11-07">7 Nov.r</date> in this respect is therefore
+in strict conformity with the basis on which the <persName>federal party</persName> are acting</p>
+
+<p>But it is objected that <placeName>Texas </placeName>cannot declare herself a <placeName>state of the 
+Mexican confederation</placeName>, unless she does so under the constitution of <date n="xx-xx-1824">1824 </date>with
+all its defects etc. To this I answer, that, the dissolution of the social 
+compact and the present physical situation of all <placeName>Mexico </placeName>gives to <placeName>Texas </placeName>the <hi rend="italic">right</hi>
+of declaring herself an <placeName>independent community</placeName>&#8212; This being the case she
+certainly has the right to do much less, that is, to say she will continue
+united with the <placeName>Mexican confederation</placeName>, provided the <persName>federal party</persName> succeed
+in reestablishing the federal system on truly <persName>republican </persName>principles, free
+from the defects of the constitution of <date n="xx-xx-1824">1824</date>, at the same time offering her
+aid to that <persName>party </persName>to effect this object.</p>
+
+<p>As to independence&#8212; I think it will strengthen the cause of <placeName>Texas </placeName>to
+show that we have <hi rend="italic">legal </hi>and <hi rend="italic">equitable </hi>and <hi rend="italic">just </hi>grounds to declare 
+independence, and under this view I touched upon this subject in, my 
+communication to the provisional Govt. of <date when="1835-11-30">30.th ultimo</date>. But I also think that it will
+weaken <placeName>Texas</placeName>, and expose the <persName>old settlers</persName> and <persName>men of property</persName> in this 
+<placeName>country </placeName>to much risk, to make such a declaration at this time, and under the
+present circumstances, for the reason that it will turn all <persName>parties in <placeName>Mexico</placeName></persName>
+against us&#8212;bring back the war to our own doors, which is now removed
+from <placeName>Texas </placeName>by the fall of <placeName>Bexar</placeName>, and compel the people to seek aid at any
+sacrifice.&#8212; I do not think it necessary to run any such risk, for the natural
+current of events will soon regulate everything. A large portion of the<pb n="292"/>
+<persName>Mexicans </persName>are determined to be free. If they succeed, <persName>Texas </persName>will participate
+as a <placeName>state </placeName>in conformity with the declaration of <date when="1835-11-07">7 Novr</date>-&#8212;if they fail, <placeName>Texas</placeName>
+can at any time resort to her natural rights.</p>
+
+<p>There are about <persName>200 volunteers</persName> here, and probably will be a 1000 of more
+in a <date n="01-xx-1836">month</date>. What is to be done with them? They must and ought to be
+provided for and employed&#8212; I think that <placeName>head quarters</placeName> should be fixed at
+<placeName>Goliad</placeName>, and that a <hi rend="italic"><persName>federal auxiliary army</persName></hi> should be collected there, and
+offered to the <persName>federal party</persName> should it be needed by them. This will be in
+conformity with our own offers in the 2.d article of the declaration of <date when="1835-11-07">7
+Novr-</date> and it will also place <placeName>Texas</placeName>, on a footing as to the <persName>federal party</persName> that
+will justify the former in expecting remuneration from the latter for what
+she spends in aid of the federal cause by furnishing <hi rend="italic"><persName>auxiliary forces</persName></hi></p>
+
+<p>I write this letter as a <persName>citizen of <placeName>Texas</placeName></persName>, and not as a <persName>commissioner</persName>&#8212; I
+give my opinions frankly and refer you to <persName>Col Fannin</persName> for a further 
+explanation of them, I believe that this <persName>meritorious officer</persName> and myself do not
+differ materially on these subjects.</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>To the <persName>Provisional Government of <placeName>Texas</placeName></persName></p>
+
+<p>[Endorsed:] Read and ordered to be filed <date when="1836-01-02">Jan. 2th, 1836</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5159">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Goold Shannon to General Fernandez, 04-22-1836</title>
+            <author>
+                <persName>Henry Goold Shannon</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        General Fernandez
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Matamoras, Tamaulipas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 336
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-22">04-22-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting movements from United States to Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mattamoris </placeName><date when="1836-04-22">April 22: 1836</date></p>
+<p>To <persName>General Fernandez Commander in Chief at <placeName>Mattamoris</placeName></persName></p>
+
+<p>Having Arrived in this place from <placeName>New Orleans</placeName> on the <date when="1836-04-20">20th Inst</date>: Came
+down the <placeName>ohio river</placeName> from <placeName>Louisville Kentucky</placeName>/on the<date when="1836-03-25"> 25th of March</date> Wrote
+2 letters to <persName>Senior Gorostiza the <placeName>Mexican Embassy at Washington</placeName></persName>/
+forwarded one at <placeName><persName>Smith </persName>land</placeName> <placeName>mouth of Cumberland river </placeName>one/at <placeName>Padducca</placeName>
+(<placeName>Mouth of the Tennessee river</placeName>, one at <placeName>Orleans </placeName>advising) the <placeName>Embassy of
+the resources and Military Movement of the <persName>Anglo American</persName></placeName>/<persName>Belliggrants
+(against <placeName>Texas</placeName>)</persName>&#8212;Having, regularly, advised, the <persName>Mexican</persName>, <persName>charges De
+Affairs at <placeName>Washington</placeName></persName> sense the<date n="09-xx-1836"> Month of September</date>, last in a Series of
+Letters (Written by me) Monthly advising Said, <placeName>Embassy</placeName>, and Giving My
+oppinnion of the Most efficient, Plan of opperations (against those <persName>Anglo
+American Bands of Robbers</persName>) Having Sailed from <placeName>New Orleans</placeName> on the
+<date when="1836-03-09">9th ultimo</date> for this Place/I made it My Bussiness to Collect all the 
+Information, I Could Procure on the <placeName>ohio and Missippi, river</placeName>, and Have the
+Satisfaction, to Inform Your, Excellency) the <persName>Anglo Americans</persName> are 
+Completly out Generald and routed, driven, <hi rend="italic">Horse de Combat</hi> <placeName>a Cross the
+Sabine, river</placeName>, by the <persName>Mexican, Sensinattus [Cincinatus]</persName> <persName>General Sant-Anna
+</persName>and his <persName>Spartan Generals</persName>) the <persName>Mexican Eagle</persName> has Completely 
+Vanquished, the<persName> Anglo American Scare Crows</persName></p>
+
+<p>I Beg leave to Introduce Myself to your Excellency&#8212;and shall address
+you more Minnutly in a day or twoe</p>
+
+<p><persName>Henry Goold Shannon</persName></p>
+
+<p>I had written My Communications to the <placeName>Mexican Embassy</placeName> with the
+<hi rend="italic">Signature Signed<persName> H: G: S:</persName></hi></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

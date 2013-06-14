@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5097">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Huston to Stephen F Austin. Branch T Archer, William Wharton, 01-10-1836</title>
+            <author>
+                <persName>A Huston</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-22">07-22-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin. Branch T Archer
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         William Wharton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 301-302
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-10">01-10-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Request for military stores</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-01-10">Jan 10th 1836</date></p>
+
+<p>In conformity with a special act of the <persName>Provisional Government of <placeName>Texas</placeName>
+</persName>I have been ordered to this place to Purchase such articles in the <placeName><persName>Qr 
+Master</persName>s Department</placeName> as are necessary for the immediate sustainance and use of
+the army I herewith transmit to you a Copy of the articles which I am<pb n="302"/>
+ordered to purchase and with a high sense qf the importance of that 
+department of our <persName>army</persName>s being fully and amply supplied I hope you will
+Loose no time in Placing at my disposal the Necessary means to accomplish
+that End&#8212;</p>
+
+<p><persName>A. Huston Qr. M. Genral Texas Army</persName></p>
+
+<p>To <persName>Genl S. F Austin</persName> <persName>B T Archer</persName> <persName>Wm Wharton</persName> <persName>Commissioners</persName></p>
+<p><hi rend="italic">List of Articles, to be purchased by <persName>Col A Huston in <placeName>N. Orleans</placeName></persName></hi></p>
+
+<p>8000lb. Lead</p>
+<p>1000 Butcher Knives</p>
+<p>1000 Tomahawks, well tempered with handles</p>
+<p>100 <persName>Spanish </persName>Saddles (Opelusas) with red blankets</p>
+<p>100 Pair Styrrups 100 pair Spurs</p>
+<p>100 Sursingles</p>
+<p>100 Bridles and Cabrases</p>
+<p>10 Baggage Waggons with Geer for 60 Horses</p>
+<p>150 Axes&#8212;150 Spades, 50 Mattocks</p>
+<p>6 Sets <persName>Blacksmith</persName>s tools</p>
+<p>1 Set of <persName>Gunsmith</persName>s Tools, with Anvils bellows and portable forge</p>
+<p>3 Set of <persName>Carpenter</persName>s tools for field Service</p>
+<p>20 Steel Corn Mills a patent portable hand mill</p>
+<p>1200 Blankets 3Y2 point French Coloured</p>
+<p>200 pairs Brogans from N°. 6 to 12</p>
+<p>225 Coffee Pots&#8212;</p>
+<p>5 Medicine Chests&#8212;</p>
+<p>350 Bbls Flour</p>
+<p>200 do prime Ship bread</p>
+<p>20,000lb middling Bacon</p>
+<p>50 Bbls Mess Pork (Inspected)</p>
+<p>15,000lb Coffee</p>
+<p>15,000lb Brown Sugar</p>
+<p>120 <persName>Gall</persName>s <persName>French </persName>Brandy, (first quality)</p>
+<p>120 " Port Wine&#8212;	ditto&#8212;</p>
+<p>20 Bbls Cidar Vinegar</p>
+<p>5 do Whiskey</p>
+<p>5,000lb Bar Soap</p>
+<p>5,000lb Sperm Candles</p>
+<p>50 Bbls Peas or beans&#8212;</p>
+<p>3,000lb Chewing Tobacco. (Kentucky)</p>
+
+<p>The foregoing is a copy of the articles I am ordered to purchase Except
+the article of Flour that is only half the amount I am directed to 
+purchase.</p>
+
+<p><persName>A. Huston Qr M Genl</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

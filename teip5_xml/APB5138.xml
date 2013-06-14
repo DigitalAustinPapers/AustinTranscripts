@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5138">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to J M Wolfe, 03-31-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-30">07-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        J M Wolfe
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington City, U.S.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 320
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-03-31">03-31-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for raising sympathy for Texas </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Washington </placeName><date when="1836-03-31">March 31. 1836</date></p>
+
+<p><persName>J. M. Wolfe Esqr</persName></p>
+
+<p>Dr Sir,</p>
+
+<p>We presume you have seen in the <placeName>papers </placeName>an account of the defeat of the
+<persName>Mexicans </persName>at <placeName>fort Alamo</placeName>, in <placeName>San Antonio</placeName>, and that <persName>San tana</persName> is at the <placeName>river
+Nuecis</placeName> with a large <persName>force </persName>etc</p>
+
+<p>We have also information of all that can probably be effected at <placeName>New
+York</placeName>&#8212;and shall go there in a few days&#8212;</p>
+
+<p>The zeal and patriotism with which you have advocated the cause of
+your <placeName>adopted country</placeName> has encouraged us to request that you will proceed
+with as little delay as possible to <placeName>Charleston south Carolina</placeName>, and do all
+you can to procure Men and money for our cause&#8212; The actual invation of
+<placeName>Texas </placeName>by <persName>San tana</persName> requires the most prompt Measures, and we believe
+that immediate presence of an <persName>agent </persName>in the <placeName>southern States</placeName> is all 
+important, We therefore hope that your business will enable you to leave <placeName>N. Y.</placeName>
+for <placeName>Charleston </placeName>without delay&#8212;</p>
+
+<p>We do not wish you to stir the subject of a public meeting at 
+<placeName>Philadelphia </placeName>or <placeName>N. York</placeName>, so that you need not delay one moment on that account&#8212; Any funds you may be able to collect in the <placeName>southern States</placeName>, you will please
+deposit with <persName>Wm Bryan the <placeName>Texas </placeName>agent in <placeName>N. Orleans</placeName></persName>.</p>
+
+<p>In <placeName>N. Orleans</placeName> you will find letters from us to the <persName>Texian Govt</persName>, to be
+taken on by you, in case you should arrive there before us.</p>
+
+<p>[Stephen F. Austin.]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

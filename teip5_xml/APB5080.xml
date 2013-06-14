@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5080">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas F. McKinney to Stephen F Austin, 12-17-1835</title>
+            <author>
+                <persName>Thomas F. McKinney</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-13">07-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Quintana, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 286
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-17">12-17-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Expressing violent opposition to independence</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Quintana </placeName><date when="1835-12-17">17. Dec. 1835</date></p>
+
+<p><persName>Genl. S. F. Austin</persName></p>
+
+<p>Dr. Sir</p>
+
+<p>Your horse is sent up by <persName>Simon</persName>. I am unable to say any thing about the
+Schooner W. Robbins as to her sailing I would be very glad to see you for
+a day or two before you leave. It is now thought the W Robbins should
+go to <placeName>Matagorda </placeName>Perhaps we will be able to arrange otherwise. I fear if a
+stand is not taken against self dubed <persName>patriots </persName>all our labors in <placeName>Texas </placeName>are
+gone to the devil and me with it. Where is the money to come from to pay
+10 or 15 Million of Dollars with our present population We must decline
+in credit and means will be with held from us and we must fail altogether
+all for being a little fearful of oposing Red hot unthinking <persName>politicians</persName>
+whose business will be to spend money but upon the <persName>people </persName>will devolve
+the burthen of paying it and when the devil will we be able to pay 3 or 400$
+for <persName>every soul in <placeName>Texas</placeName></persName> all for high sounding terms&#8212;Finding several pieces
+written and published in favr. of Independence by the Same men over 
+different signatures and finding none of our <persName>Citizens </persName>oposing&#8212;I wrote and
+sent to that <persName>Slave Gray</persName> a piece in order to let it be known that we were not
+unanimous in that way of thinking and to get our <persName>citizens </persName>to reflect. He
+seemed to approve it and said he would publish it but the next day <persName>John
+Wharton</persName> reached there and he has suppressed the publication and 
+substituted a bag of stuff illy comporting with our present condition. I am truly
+surprised that public opinion should be thus forstalled and our <persName>politicians</persName>
+yielding the very right of thought to a wild unthinking faction. Can or
+will you do it God forbid you have the power of saving <placeName>Texas </placeName>if you will
+exert it but what is to be come of us Come down.</p>
+
+<p>Your friend</p>
+
+<p><persName>Thomas F. McKinney </persName>[Rubric]</p>
+
+<p>[Note on back:] Since writing news has reached us that <persName>Cos </persName>has fled
+with <persName>100 men</persName> from <placeName>Bexar </placeName><persName>Milam </persName>killed a vessel is off filled from one
+end to the other with <persName>passengers </persName>we know what [not] what she is but
+think it the Santiago	<persName>McK</persName></p>
+
+<p>[Addressed:] <persName>Col Stephen F. Auston </persName><placeName>Peach Point</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

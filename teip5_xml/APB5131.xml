@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5131">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Thomas F McKinney to Stephen F Austin, 02-22-1836</title>
+            <author>
+                <persName>Thomas F McKinney</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-27">07-27-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 316-317
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-02-22">02-22-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-27" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Cannot follow Austin in support of independence. Has lost all confidence in him</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-02-22">Feby 22nd. 1836</date></p>
+
+<p><persName>Col S. F. Austin</persName> <placeName>Washington</placeName></p>
+
+<p>Dr. Sir</p>
+
+<p>I have intended answering your letter to me from <placeName>N. Orleans</placeName> but have
+realy been at a loss how to begin finding from circumstances which I will
+satisfactorily or at least clearly explain to you if ever again we should<pb n="317"/>
+meet that you and I must sever totaly in any thing of a political character
+and having always shown to you my partialities for you and your opinions
+from my conduct toward you I shall be equaly frank in saying to you that
+my confidence in you is I think for ever at an end I am not your <persName>enemy</persName>
+and trust never will be but at the same time I am now fully convinced
+that you can not be any thing else but an injury to your <placeName>country </placeName>where
+you have influence. I have warned you of dangers which were preparing
+for you but shall never again raise my voice in your defence or warn you
+of any thing which may come to my knowledge against you If you are
+ruined it shall not be my fault nor will I ever be found to take any part in
+your fate or your fortune all the diffculty I have ever had in that 
+<placeName>country </placeName>has been on your account. I do not intend to say you are dishonest
+no Sir but you are from your nature useless in any thing like a public
+capacity and your illusions and remarks in that letter to me from <placeName>N.
+Orleans</placeName> are_____</p>
+
+<p>You will verry probably find yourself unsustained in your pledges for
+<placeName>Texas </placeName>declaring Independence</p>
+
+<p><persName>Thos. F McKinney</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

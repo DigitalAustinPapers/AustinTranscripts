@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5151">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert T. Conrad to Stephen F Austin, 04-12-1836</title>
+            <author>
+                <persName>Robert T. Conrad</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadephila, Pennsylvania</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 331
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-12">04-12-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Sympathy for Texas.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philada</placeName>. <date when="1836-04-12">April 12, 1836</date>.</p>
+
+<p>Sir,</p>
+
+<p>Having a <persName>brother </persName>engaged in the cause of <placeName>Texas</placeName>, I myself feel a deep
+interest in its progress and an anxious desire to promote, by any means in
+my power, its success. For that purpose, I am desirous of lending my feeble
+aid to excite, in its favour, the sympathies of our public, and secure it, as
+well the advantage of a recognition by <persName>Congress</persName>, as more direct and 
+effectual aid, by collections etc. This has caused, and I hope will excuse, this
+intrusion upon you, I would have called upon and consulted you during
+your stay in the <placeName>City</placeName>, but was myself absent. I have succeeded in enlisting
+the press of this city in favour of popular movements and have issued a
+call for a meeting preparatory to a general town meeting. I should like to
+have your views in relation to the proper course to be adopted and the
+measures most likely to prove serviceable to the cause&#8212;if any such are
+within the scope of [y]our power. Should you return to <placeName>Phil </placeName>I will be
+happy to wait on you&#8212; if not, I would be gratified to learn if any, and
+what, course, will be calculated to promote the cause of <placeName>Texas</placeName>&#8212;</p>
+
+<p><persName>Robert T. Conrad</persName></p>
+
+<p>The <persName>brother </persName>referred to is <persName>Edward Conrad</persName>&#8212;a member of the <persName>Texian
+Convention</persName> and one of the <persName>Committee to draw up the Declaration</persName>.</p>
+
+<p><persName>Col. S. F. Austin</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5113">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W. Richardson to Stephen F Austin, 01-21-1836</title>
+            <author>
+                <persName>W. Richardson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-25">07-25-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 310
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-21">01-21-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-25" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Order for medical supplies </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>Gen. Austin</persName></p>
+
+<p>Will please purchase for the <persName>medical and surgical department of Texas</persName>,
+the following additional supply of medicines, etc</p>
+
+<p>4 Cases amputating (instruments), 4 trephening do</p>
+<p>4 do Pocket do</p>
+<p>12 Gum elastic catheters</p>
+<p>1/2 lb Beeswax</p>
+<p>16lbs Arrow root</p>
+<p>6 do ground flax Seed</p>
+<p>12 do, Simple cerate</p>
+<p>16 rolls adhesive plaster</p>
+<p>6 bed pans (metalic)</p>
+<p>12 Epsom salts,</p>
+<p>10. Rhubarb,</p>
+<p>10. Calomel,</p>
+<p>12. Bottles Quinine</p>
+<p>1 lb Opium</p>
+<p>4 lbs Laudanum</p>
+<p>4 do Paregoric</p>
+<p>1	Tar Emet</p>
+<p>2	lbs Ipecac,</p>
+<p>6 Lunar Caustics</p>
+<p>4 lbs Castile Soap</p>
+<p>1	red precip.</p>
+<p>1/2 do corrosive sublimate</p>
+<p>2	bottles Cal. Magnesia,</p>
+<p>6 Bowel Syringes</p>
+<p>12. Bottles Caster Oil</p>
+<p>6 Lint</p>
+<p>6 Small wedgewood mortars and pestles</p>
+<p>6 Files and spatulas</p>
+<p>4 lbs Gum Arabic,</p>
+<p>Materials for six large tents, for the Sick, with blankets, for bedding, etc</p>
+
+<p><persName>W. Richardson Surg. Gen. of the Army of <placeName>Texas</placeName></persName></p>
+
+<p>List of medicines purchased in <placeName>N. Orleants</placeName> <date when="1836-01-21">Jan. 21. 1836</date>&#8212;an additional
+supply will be needed from <persName>N. York</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+        </div1>
+    </body>
+</text>
+</TEI>

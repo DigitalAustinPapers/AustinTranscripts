@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5137">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin, Branch T Archer, and William H Wharton to William Bryan, 03-31-1836</title>
+            <author>
+                <persName>Stephen F Austin, Branch T Archer, and William H Wharton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-30">07-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        William Bryan
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington City, U.S.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 319-320
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-03-31">03-31-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans for raising funds. Capitalists awaiting action of the convention on independence</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Washington </placeName><date when="1836-03-31">March 31. 1836</date></p>
+<p><persName>Wm. Bryan Esqr <placeName>Texas </placeName>agt. <placeName>N. Orleans</placeName></persName></p>
+
+<p>D Sir.</p>
+
+<p>Your various communications addressed to us since leaving <placeName>New 
+Orleans</placeName> were not received until <date when="1836-03-30">last evening</date>. They are the first accounts we
+have had from you. For the attention and zeal for our sacred cause
+evinced by them be pleased to accept our heartfelt gratitude, your 
+conduct in every respect since acting as <persName>agent </persName>so far as has come to our 
+knowledge has met our most cordial approbation. The scarcity of funds of
+which you speak has distressed us not a little. We have <persName>agents </persName>in <placeName>New
+York</placeName> and elsewhere busily engaged in endeavoring to make monied 
+negotiations. Most of the <persName>capitalists </persName>have been awaiting the present <persName>Texas 
+Convention</persName>. If that declares absolute independence all will go right 
+immediately. We are disappointed at not hearing from the <persName>convention </persName>before
+now, and expect the declaration of independence dayly We have just 
+received very favorable propositions from <placeName>New York</placeName> in regard to a loan of
+a large amount. It is bottomed however on an absolute declaration of
+independence by the <persName>convention</persName>. As soon as we get news of this we will
+proceed to <placeName>N York</placeName> and contract the loan We will raise funds if we give
+10 pr, cent and mortgage every thing we possess on earth even to our
+wearing apparel On this you may rely but we cannot accomplish the
+matter until we hear from the <persName>convention </persName>In Gods name Do hold on in
+the good cause and strain every nerve to keep up the public credit until we
+can relieve you the public feeling is all on our side and that of the 
+<persName>government </persName>too but this is confidential <persName>Genl Austin</persName> and <persName>W H Wharton</persName> were
+very sick at <placeName>Nashville </placeName>which prevented our getting on sooner but we could
+have accomplished nothing by being here or in <placeName>New York</placeName> with out having<pb n="320"/>
+a declaration of independence to shew Again we conjure you to persevere
+and sustain the public credit until we can relieve you which shall be as
+soon as possible</p>
+
+<p><persName>S. F. Austin.</persName> <persName>W. H. Wharton</persName></p>
+<p><persName>B. T. Archer</persName>&#8212;<persName>Coms. for <placeName>Texas</placeName></persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

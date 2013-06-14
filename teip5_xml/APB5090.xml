@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5090">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to R. R. Royall, 12-25-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-13">07-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        R. R. Royall
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Quintana, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 292-294
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-12-25">12-25-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Bitterly opposing methods used by Wharton and others to promote independence</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Quintana</placeName>, <date when="1835-12-25">December 25, 1835</date>.</p>
+
+<p>[R. R. Royall]</p>
+
+<p>Dear Sir: The affairs of <placeName>Texas </placeName>are more entangled than I suspected
+they were. While the <persName>real friends of the <placeName>country</placeName></persName> have been laboring in
+good faith for the general good of all, a few men, an <persName>unprincipled party</persName>,
+have clanned together to get possession of the public affairs to promote
+their own aims of ambition and personal aggrandizement. There has been
+much low intrigue, and amongst others I have been deceived and treated
+with bad faith. My whole thoughts and soul were devoted to the common
+cause of <placeName>Texas</placeName>, and I could not suffer even my suspicions to descend so low
+as to suppose that there were <persName>individuals </persName>who could be influenced by any
+other motives than purely patriotic ones. I ought to have known better,
+but I was unwilling to believe that so much bad faith and political 
+dishonesty and low intrigues existed as I am now compelled to believe has
+been and no doubt will continue to be practiced by <persName>Wharton </persName>and a few
+others.<pb n="293"/></p>
+
+<p>What ought the owners of the soil, the <persName>old settlers of <placeName>Texas</placeName></persName>, who have
+redeemed this country from the <placeName>wilderness </placeName>and made it what it is, think of
+men who will collect the signatures of persons on their first landing, who
+had not been here a day, or only a few days in the <placeName>country</placeName>, and attempt to
+impose a paper thus signed upon the world as the opinion of the <persName>people of
+<placeName>Texas</placeName></persName>. This has been done here, and a large number of names collected
+to a paper for declaring independence. It is time for the <persName>people of <placeName>Texas</placeName></persName>
+to look to their true interest and distinguish between those who serve them
+in good faith and those who are mere political jugglers and base <persName>political
+intriguers</persName>.</p>
+
+<p>I am associated in a mission to the <placeName>United States</placeName> with a man that I 
+cannot act with&#8212;a man whose conduct proves that he is destitute of political
+honesty, and whose attention is much more devoted to injure me than to
+serve the country. I mean <persName>Wharton</persName>. <persName>Dr. Archer</persName>, I believe, is governed by
+pure intentions, but he is very wild, as I think as to his politics, and too
+much inclined to precipitate this <placeName>country </placeName>into more difficulties than there
+is any necessiy for. Associated with such men, what have I to expect? or
+what has the country to hope? The war is now taken beyond the limits of
+<placeName>Texas</placeName>. Why bring it back by adopting such a course as must and will turn
+all <persName>parties in <placeName>Mexico</placeName></persName> against us? Will the <persName>people of this <placeName>country</placeName></persName> suffer
+themselves to be jeopardized in this manner by a few men who attempt to
+assume their voice?</p>
+
+<p>I have given my opinion on these matters in a letter to the <persName>Provisional
+Government</persName>, which <persName>Col. Fannin</persName> takes up, and to which I refer you. The
+fact is that <placeName>Texas </placeName>is now in the hands of a <persName>party</persName>, and the whole objects of
+this <persName>party </persName>are to retain the power and serve themselves. If they are not
+checked they will saddle the <persName>people </persName>with an <persName>army </persName>and a debt, and involve
+them in a war that will be difficult to bear. The <persName>people </persName>ought to look to
+their interest before it is too late. I find that I have but little to expect,
+that is if I am to judge of the future by the past few months, and that I
+can be of but little use to <placeName>Texas</placeName>. I go on this mission from a sense of duty.
+It is a bad example for any one to refuse the call of the <persName>people </persName>when the
+<placeName>country </placeName>is in difficulty. I have been called to go, and I obey the call; but
+if <persName>party </persName>influence and low intrigues and <persName>cabals </persName>are to govern <placeName>Texas</placeName>, I wish
+to have as little to do with her affairs in future as possible.</p>
+
+<p>Perhaps I am myself somewhat to blame. My unsuspicious disposition
+and the great importance I have always attached to union and harmony,
+may have led me into errors by trusting and countenancing men who were
+unworthy of my notice or of confidence. When I arrived here <date n="09-xx-1835">last 
+September</date> I found the <placeName>country </placeName>distracted and divided. My first object was to try
+and unite and harmonize, and I set the example by harmonizing and acting
+with my personal enemies. I did it in good faith and in the firm belief<pb n="294"/>
+that I was serving <placeName>Texas </placeName>by such a course. Had there been good faith in
+the men I thus attempted to harmonize, it would have been a service to the
+<placeName>country</placeName>, but there was not, and for this reason the course I adopted did
+harm. I find that <persName>parties </persName>must and will exist. I have heretofore tried to
+keep them down. I have never been a party man, but in future I believe
+the public good will be promoted by having the <persName>parties </persName>clearly and 
+distinctly marked. Let a line be drawn between them, let the <persName>people </persName>
+understand that such a line is drawn and judge for themselves. <persName>Jackson</persName>'s rule
+is a true one: 'everything for <persName>friends </persName>and nothing for <persName>enemies</persName>.'</p>
+
+<p>I beg leave to recommend my friend, <persName>Col. Fannin</persName>, to you and my <persName>friends</persName>
+generally as a man who is identified with the soil and interests of <placeName>Texas</placeName>,
+and as an honorable soldier.	Farewell,</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

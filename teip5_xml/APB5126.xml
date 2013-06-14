@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5126">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Austin, 02-14-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-26">07-26-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Nashville, Tennessee</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 314
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-02-14">02-14-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-26" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Great enthusiasm for independence of Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Nashville</placeName>, <date when="1836-02-14">Feb'y 14th. 1836</date></p>
+
+<p>all goes on prosperously for <placeName>Texas </placeName>in this part of the world&#8212; I have
+never been in a place where I have met with more genuine hospitality and
+enthusiastic patriotism&#8212;</p>
+
+<p>We can get all the aid we need to sustain our independence and I think
+it will not be difficult to procure the recognition of the <persName>U. S. Govt</persName>,&#8212; 
+Nothing is wanted but union and concert of action and of purpose at home and
+an unqualified declaration of independence at once&#8212; That of <date when="1835-11-07">7th, Nov'r</date>
+has been made an absolute declaration of independence, by the acts of the
+<persName>Mexicans </persName>by submitting to centralism and of the <persName>Govt</persName>, in invading us, and
+no act of that government for the sale or transfer of <placeName>Texas</placeName>, to any one, can
+be or ought to be, in any manner valid, or obligatory on the <persName>people of
+<placeName>Texas</placeName></persName> -</p>
+
+<p>- We all have the same great interest at stake, and the same
+objects&#8212;which are the total separation of <placeName>Texas </placeName>from <placeName>Mexico</placeName>, and our
+independence as a new republic, or annexation to the <placeName>U. S.</placeName> under proper
+guarantees&#8212; All we have to do is to keep this object in view and labor
+solely with an eye to its accomplishment, and to the public good and 
+general happiness, regardless of personalities, or parties, or anything
+else-</p>
+
+<p>- I had no idea before I left home of the deep and general
+interest that is felt for the cause of <placeName>Texas</placeName>, or of the influence which my
+opinions seem to have in this <placeName>country</placeName>&#8212;had I known it sooner, I should
+have been less cautions than I have been, about precipitating the <persName>people of
+<placeName>Texas</placeName></persName> into a declaration of independence&#8212; The responsibility, however,
+would have been very great on me had I contributed to involve the <persName>settlers</persName>
+whom I had been instrumental in drawing to that <placeName>country</placeName>, before I was
+certain they would be sustained. I am now confident they will be fully
+and promptly sustained in their independence, and that the sooner such a
+declaration is made the better&#8212; Besides, the reasons for leaving open any
+door, however small, for a re-union with <placeName>Mexico </placeName>have ceased, for all <persName>parties</persName>
+have united against us&#8212;</p>
+
+<p><persName>S. F. A.</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

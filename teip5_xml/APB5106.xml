@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5106">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Gail Borden, Jr., 01-18-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-22">07-22-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Gail Borden
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         Jr.
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">San Felipe de Austin, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 306-307
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-18">01-18-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Opinion in United States insists on independence. Drawing for a flag -</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-01-18">Jan 18, 1836</date></p>
+
+<p>Dr Sir,</p>
+
+<p><placeName>Texas </placeName>continues to rise all over this <placeName>country</placeName>, our rise in public opinion
+and confidence is however based entirely on the prospect of a speedy
+declaration of independence&#8212; I have assured every one that this measure
+is certain and will be unanimous, as all the reasons in favor of the 
+declaration of <date when="1835-11-07">7 Novr</date>. have entirely ceased owing to the <persName>federal party</persName> having
+united with <persName>Santanna </persName>against us&#8212;</p>
+
+<p>My health is greatly improved&#8212;had it been as good before I left home,
+I should have come on from <placeName>San Felipe</placeName> by land and avoided the excitement
+which I found blazing at <placeName>Quintana </placeName>and other <placeName>places in the low country</placeName>.
+I shall preach independence all over the <placeName>U. S.</placeName> wherever I go&#8212; What do
+you think of the inclosed idea of a flag?</p>
+
+<p><persName>Mr. William Bryan</persName> has promised to attend to your business, but no insurance can be effected</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>[Addressed:] <persName>Gail Borden Jr </persName><placeName>San Felipe de Austin Texas</placeName></p>
+<p>To be mailed at <placeName>San Augustine</placeName> or <placeName>Nacogdoches</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

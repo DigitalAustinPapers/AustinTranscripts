@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5149">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Nicholas Biddle, 04-09-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-30">07-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Nicholas Biddle
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadephia, Pennsylvania</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 328-330
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-09">04-09-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Proposal for loan on Texan bonds</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philadelphia </placeName><date when="1836-04-09">April 9th 1836</date></p>
+
+<p><persName>Hon. N. Biddle</persName></p>
+
+<p>Sir,</p>
+
+<p>As the enclosed memorandum embraces the general outlines of the loan
+for <placeName>Texas </placeName>on which I conversed with you <date when="1836-04-09">this morning</date>, I take the liberty
+of handing it to you.</p>
+
+<p>I should esteem it as a favor if I could be informed within a Short time,
+Whether you think any thing could be effected in this Matter&#8212;</p>
+
+<p>I consider that the cause of <placeName>Texas</placeName>, is the cause of <persName>freemen </persName>and of 
+<persName>mankind</persName>, but more emphatically of the <persName>people of the <placeName>United States</placeName></persName>, than any<pb n="329"/>
+other. I flatter myself that you view it in the same light, and that the
+security we offer is good, and therefore have no doubt you will give to it
+the attention which its importance merits&#8212;</p>
+
+<p>The <persName>leading men of all parties in <placeName>Washington</placeName></persName> are favourably disposed
+towards <placeName>Texas</placeName>&#8212;a reference to them will I think satisfy all persons as to
+this fact&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p>[Enclosure]:</p>
+
+<p>It is proposed to negociate a Loan of $500,000 for the <persName>Government of
+<placeName>Texas</placeName></persName> on the following basis,</p>
+
+<p>The <persName>Commissioners of <placeName>Texas</placeName></persName>, shall assign to the <persName>Bank of the <placeName>United
+States</placeName> at <placeName>Philadelphia</placeName></persName>, The Bonds of the <persName>Government of <placeName>Texas</placeName></persName>, which they
+have in their possession for the sum of $500,000, payable in not less than
+5 years and bearing an interest of 8% per annum, to be held in Trust by
+said <persName>Bank</persName>, for the benefit of the <persName>holders of a Scrip</persName> to be issued by the 
+<persName>Commissioners</persName>, based on said Bonds.</p>
+
+<p>Books of subscription shall be opened in the Cities of <placeName>Boston</placeName>, <placeName>New York</placeName>,
+<placeName>Philadelphia </placeName>and <placeName>Baltimore </placeName>for a scrip to be issued by the <persName>Commissioners</persName>,
+in shares of $100, each, which said scrip shall entitle the <persName>holder </persName>to an 
+interest in said Bonds, equal to the amount of the scrip thus held by him and
+said scrip shall be payable as follows:</p>
+
+<p>of all purchases of <placeName>lands </placeName>at the <placeName>land offices of Texas</placeName>, 20% of the Sums
+due may be paid, and shall be receivable in said scrip. Of all customs due
+at the <placeName>Custom Houses of Texas</placeName> 20% of the sums due may be paid and shall
+be receivable in said scrip. The <persName>holder </persName>shall be entitled to an interest of
+8% per annum, payable at the <persName>Bank of the <placeName>United States </placeName>in <placeName>Philadelphia</placeName></persName>,
+on all portions of said scrip unpaid, and the <persName>Govt. of <placeName>Texas</placeName></persName> shall have the
+privilege of paying the whole amount of said scrip and redeeming these
+said Bonds by paying 20% of the principal annually after the expiration
+of 5 years, or the whole payable at 6 months notice, after the expiration of
+10 years.</p>
+
+<p>The payments of the <persName>subscribers </persName>to said scrip shall be made, 25% at the
+time of subscription and the remainder in 3 equal payments at 60, 90 and
+120 days thereafter, to be secured at the time of subscription, by the notes
+of the <persName>subscribers</persName>, endorsed to the satisfaction of the <persName>Directors of the Bank
+of the <placeName>United States</placeName></persName>, or <persName>persons </persName>appointed by them and payable at such
+place, as said <persName>Directors </persName>shall designate, provided the same be in the <placeName>Cities
+where said Stock is subscribed</placeName>.</p>
+
+<p>The <persName>Bank of the <placeName>United States</placeName></persName> shall discount the notes thus paid in, and
+pay over the whole amount of the proceeds thereof and the amount of the<pb n="330"/>
+first instalment thus paid in, to the <persName>Commissioners of <placeName>Texas</placeName></persName>, and hold said
+Bonds as an additional guarantee for the payment of said notes.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><placeName>Phia</placeName>. <date when="1836-04-09">April 9. 1836</date></p>
+
+<p>Sir,</p>
+
+<p>I have taken the liberty of submitting to you a proposition for the 
+negotiation of a loan of $500,000 for the <persName>Government of Texas</persName>, to which I would
+respectfully ask your consideration, provided no arrangement can be made
+on the basis of which we conversed today.</p>
+
+<p>The personal interest you were kind enough to express for the welfare
+and success of my struggling <placeName>country</placeName>, together with your intimate 
+knowledge of such operations have induced me to make this communication.
+Your answer as to your opinion of its practicability, the amount that could
+probably be obtained in this <placeName>City</placeName>, the manner in which the subject should
+be presented, and the willingness of the <persName>Bank </persName>to accept the Trust, and 
+negotiate the paper, with such other suggestions as you may think important,
+would greatly add to the obligation, I feel under to you for kindness and
+attentions already received.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

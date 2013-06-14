@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5140">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A J Yates to Stephen F Austin et Al, 04-01-1836</title>
+            <author>
+                <persName>A J Yates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-30">07-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin et Al
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Washington City, U.S.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 323-325
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-01">04-01-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting purchase of steamboat</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>(Letter F.)	Washington City April 1st 1836.</p>
+
+<p>Messrs. <persName>S F Austin</persName> <persName>B T. Archer</persName> and <persName>W. H. Wharton</persName> <persName>Commissioners of
+<placeName>Texas</placeName></persName>.</p>
+
+<p>Gentleman</p>
+
+<p>In compliance with your two several letters of Instruction to me dated at
+<placeName>New Orleans</placeName> <date when="1836-01-21">January 21st</date> and <date when="1836-01-22">22d ulto</date>. I proceeded to <placeName>New York</placeName>, and 
+report the following as the result of my operations.</p>
+
+<p>I found in the City of <placeName>New York</placeName> a Steam Boat called the Sandusky which
+had been fitted for sea, and was for sale at $20,000. I employed a person
+to take her out in the Bay that I might have an opportunity of fair 
+examination of her engine etc, and on trial discovered serious and insurmountable
+objections to her engine, which was double geared, and not calculated to
+work with safety in rough weather at sea. I then inquired for others, and
+found the Steam Boat "Frank," about one year old of 170 Tons, draws 4 1/2
+feet water, price $25,000, and will require an expenditure of about $3,000.
+to prepare her for sea service. Her boiler is old, she has but little 
+furniture, and would not bear more than one nine pounder on her deck. I found
+the "American Eagle," about the same size, a little deeper hold, with a new
+engine, two years old, little furniture, a fast boat, rather stronger than the
+"Frank," but would not bear a heavier armament, price $30,000 will require
+about $2,500. to put in order for sea service. I also found the Steam Boat
+"Constellation" for sale and can be purchased for $14,000. she is much<pb n="324"/>
+larger than either of the others, has large and powerful engine, and a great
+deal of furniture, Her boilers were new <date n="07-xx-1835">last July</date>, and good judges tell me
+that her engine alone is worth more than the price of the boat. The hulk is
+11 years old, but the <persName>builder </persName>tells me she was built of live oak and cedar at
+his yard in <date n="xx-xx-1825">1825</date>, and he believes the timber to be sound. She draws 5 1/2
+feet of water, and it would require $10,000 or $12,000 to put her in good
+order for sea service. In getting advice on the subject from persons who
+are fully competent, I have been advised to purchase her, take out the 
+furniture and engine, and sell the old hulk, which would probably bring $2,000,
+and build a new hulk expressly for sea navigation, and the purposes desired,
+and she can then carry 5 eighteen pounders if necessary, It will take about
+6 weeks to repair her, using the old hulk, and to build a new one would cost
+$18,000 or $20,000, giving a large and complete Steam Ship for 35,000, at
+the utmost, capable of carrying 600 passengers, if necessary. And this can
+be completed in 60 days. The <persName>ship builders in <placeName>New York</placeName></persName> have had much
+trouble with their <persName>workmen </persName>recently and it would be better therefore to
+build, or repair at <placeName>Salem in Conn</placeName>, or some <placeName>Eastern port</placeName>. I would be happy
+to receive the instruction of the <persName>Commissioners </persName>in relation to the course I
+am to pursue, and give me some discretionary powers on the subject&#8212; I
+have employed an experienced <persName>Captain </persName>to aid me in my examinations, and
+he has prepared a model for a new hulk, which can be used if thought proper
+to build.</p>
+
+<p>The Brig "Chanticleer" is a very superior coppered and copper fastened
+vessel, for sale in the City of <persName>New York</persName>, built for the <persName>African Slave </persName>trade,
+pierced for 14 guns, and can be got ready in 2 weeks, for sea. An 
+experienced and excellent man can be engaged to take command of her, and she
+can be purchased, provisioned and got ready for sea for $20,000.</p>
+
+<p>If the <persName>Commissioners </persName>should come to conclusion in favor of the 
+negociacion for the <persName>Milam Furtrading and Land Company</persName>, I would propose that
+it be conditional with them, forthwith to advance the funds necessary to 
+purchase and fit out the "Chanticleer," and pay the expenses of fitting out the
+<persName>308 men</persName> raised by <persName>Col. Macomb</persName>, and that I be authorized to send out the
+same with all possible despatch&#8212; That they also be required to advance the
+cash on my drafts of $20,000, and advance the additional sum necessary to
+purchase the Steam Boat "Constellation," build a new hulk and fit her out,
+with all possible dispatch, and I be authorized to attend to the execution of
+the same. The contract can be executed by the <persName>Commissioners </persName>here, and 
+delivered me, to be delivered to the applicants of the <persName>Company</persName>, on their 
+acceptance of the terms, and <persName>Mr. Hal</persName>l can receive a letter from the 
+<persName>Commissioners</persName>, stating their terms.</p>
+
+<p>Allow me to say something in this communication, relative to my 
+compensation, for my services. In my first letter of instructions, it was left to be
+determined on my arrival in <placeName>Texas</placeName>. Since that time it has occurred to me<pb n="325"/>
+that, it may occasion difficulty, as an express law must necessarily be enacted
+for the purpose, and as it was my original suggestion to pursue this course,
+and I did not anticipate the serious and unavoidable delays that have taken
+place, I would now respectfully request, in order that these difficulties may
+be obviated, that it be fixed by the <persName>Commissioners </persName>at once&#8212;</p>
+
+<p><persName>A. J. Yates</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

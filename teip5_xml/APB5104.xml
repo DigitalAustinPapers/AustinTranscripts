@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5104">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas F McKinney, 01-16-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-22">07-22-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Dr Richardson
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Thomas F McKinney
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Quintana, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 304-305
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-16">01-16-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advises declaration of independence</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName>, <date when="1836-01-16">Jan 16. 1836</date></p>
+<p><persName>T. F. McKinny</persName>,</p>
+
+<p>This will be delivered by my friend <persName>Dr Richardson</persName> a gentleman of 
+sterling worth and high standing as a <persName>physician</persName>. I refer you to the <persName>Dr.</persName> for
+information about the public opinion in this <placeName>country </placeName>as to the affairs of
+<placeName>Texas</placeName>. There is but one sentiment all over the <placeName>U. S.</placeName> which is in favor of
+<placeName>Texas </placeName>and of an immediate declaration of independence We have 
+negotiated a loan on the terms of the enclosed contract</p>
+
+<p>This was obtained on the belief that <placeName>Texas </placeName>would declare independence
+in <date n="03-xx-1836">March</date>&#8212;it could not have been had otherwise. The accounts from <placeName>Vera
+Cruz</placeName> and <placeName>Tampico </placeName>are that the <persName>federal party</persName> have united with <persName>Santanna</persName>
+against <placeName>Texas</placeName>&#8212; This of course leaves us but one remidy, which is an
+immediate declaration of independence&#8212; I hope it will be <hi rend="italic">unanimous</hi>&#8212;
+I wish I was there to urge it. I would do so by every means in my power.
+A number of vessels are fitting out in <placeName>Vera Cruz</placeName> and <placeName>Tampico </placeName>heavily
+armed&#8212; <persName>Santanna </persName>was at <placeName>Saltillo </placeName>some time ago and is probably at <placeName>Matamoros </placeName>before this&#8212; A storm is brewing, but it will be harmless if the
+<persName>people </persName>are united and come out <hi rend="italic">at once</hi> for independence.</p>
+
+<p>There is no news of <persName>Williams</persName>, God knows what has become of him&#8212;
+My health is much improved. I wish it had been as good in <placeName>Texas</placeName>&#8212;it
+might have been of service to the <placeName>country </placeName>if it had&#8212; There must be union<pb n="305"/>
+and harmony and we must all go together, <hi rend="italic">unanimously</hi>, in favor of independence.</p>
+
+<p>Send this to to <persName>Perry </persName>and <persName>Grayson</persName>&#8212; Love to the <persName>ladies</persName>.</p>
+
+<p>Yours&#8212;<persName>S. F. A.</persName></p>
+
+<p><date when="1836-01-17">Jan. 17.</date> I have just heard that there was a <persName>mob </persName>at <placeName>San Felipe</placeName> headed
+by <persName>Mosely Baker</persName>&#8212; Such a rumor has injured us here&#8212; What has that
+man to do with <placeName>Texas</placeName>, or what claims has he to confidence that he
+should have influence to raise a <persName>mob</persName>. Shame to <placeName>Texas </placeName>that such things
+should be&#8212; God poured upon <placeName>Texas </placeName>his most bitter wrath, when he 
+suffered the last <persName><placeName>Monclova </placeName>Legislature </persName>(of most infamous memory) to meet
+at all. <hi rend="italic">Years </hi>will not relieve <placeName>Texas </placeName>from the evils produced by that 
+<persName>legislature</persName>&#8212;this <persName>mob </persName>I fear is a paragraph in the long chapter of evils which
+the acts of that <persName>legislature </persName>has entailed on <placeName>Texas</placeName>.</p>
+
+<p>[Addressed:]<persName> Mr. Thos. F. McKinny</persName> <placeName>Quintana Mouth of Brazos Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

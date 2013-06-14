@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5112">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas F McKinney, 01-21-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-22">07-22-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas F McKinney
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Quintana, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 308-309
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-21">01-21-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Loans effected. Urges independence and harmony at home</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-01-21">Jan. 21, 1836</date></p>
+
+<p><persName>Mr. T. F. McKinney</persName></p>
+
+<p>We, that is <persName>Archer </persName>and myself, expect certainly to leave <date when="1836-01-22">tomorrow </date>for
+the <placeName>upper country</placeName>&#8212;</p>
+
+<p><persName>W. H. Wharton</persName> started on the <date when="1836-01-16">16</date> for <placeName>Nashville</placeName>&#8212;we remained to close
+the business of the commission in this <placeName>City</placeName>, which we have done in a very<pb n="309"/>
+advantageous manner, as I think, for the interests of <placeName>Texas</placeName>&#8212;we have 
+effected a second loan of $50,000 for <placeName>land </placeName>at 50 cents pr. acre&#8212;some 
+difference between this and the <persName><placeName>monclova </placeName>legislature</persName> which gave <placeName>land </placeName>at about
+50. dolls, pr. League&#8212; This loan produced us 40.000 dolls, prompt 
+payment in hand</p>
+
+<p>The news from <placeName>all quarters</placeName> is cheering and prosperous for <placeName>Texas</placeName>&#8212;
+nothing is wanting but an immediate declaration of independence, and union
+and harmony at <placeName>home</placeName>, without this all is lost&#8212; There has been the most
+perfect harmony in the <persName>commission</persName>&#8212;we all agree as to the main principles,
+and especially as to independence&#8212; I hope that in future there will be
+union, more so than there has been,&#8212; If there be good faith in some of
+those who have been the most restless I think there will be&#8212;<persName>John Wharton
+</persName>assures me that on his part, there will be no more restlessness and his
+<persName>brother </persName>says the same&#8212; I know what reply you will make to this&#8212;but my
+object is the <placeName>country</placeName>, our <placeName>country</placeName>, it is, or ought to be the paramount object
+of all, and without <hi rend="italic">union </hi>and <hi rend="italic">harmony</hi>, our <placeName>country </placeName>is lost.</p>
+
+<p>There are rumors here of disturbances at <placeName>San Felipe</placeName>, which discouraged
+the <persName>friends of <placeName>Texas</placeName></persName> injured her credit, and caused our <persName>enemies </persName>to exult&#8212;</p>
+
+<p>If substantial and deliberate men are elected to the <persName>convention</persName>, and 
+violent <persName>demagogues </persName>are permitted to stay at home, all will go right, for such
+men will legislate for <hi rend="italic">the <placeName>country</placeName></hi>, and not themselves or for a party.</p>
+
+<p>In well organized Governments, <persName>parties </persName>are usefull for they operate as
+checks, but situated as we are in <placeName>Texas </placeName>they are <hi rend="italic">ruinous</hi>, and ought to be
+discountenanced&#8212; I have always tried to keep them down, and have been
+much censured by my <persName>friends </persName>for yielding, rather than encourage party
+feelings&#8212; I may have been wrong, for party spirit never gives credit to
+any person for purity of motive&#8212; The situation of <placeName>Texas </placeName>is now critical,
+and a great effort is necessary to establish union and harmony- The
+<placeName>country </placeName>ought to go <hi rend="italic">unanimously </hi>for independence. Public opinion all
+over the <placeName>U. S.</placeName> expects and earnestly calls for it&#8212; Much harm has been
+done heretofore by those who have endeavoured to precipitate this Measure,
+by violence, partial meetings, and forestaling public opinion by manage-
+ment etc. I think they are now convinced of the impropriety of this course,
+and will pursue a different one, and a <hi rend="italic">rational </hi>one in future&#8212;at all events
+let us all labor to promote <hi rend="italic">union </hi>and <hi rend="italic">harmony</hi>&#8212;</p>
+
+<p>No news from <persName>W.</persName> I fear he is dreaming somewhere. God grant that his
+dreams may be less injurious to <placeName>Texas </placeName>than some which were drempt at
+<placeName>Monclova</placeName>&#8212;</p>
+
+<p>Love to the <persName>Ladies</persName>&#8212;	<persName>S. F. A.</persName></p>
+
+<p>[Addressed:] <persName>Mr T. F. McKinny</persName> <placeName>Quintana </placeName><persName>Col. J. A. Wharton</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

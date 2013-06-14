@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5107">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 01-18-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-22">07-22-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Near Brazoira, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 307
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-18">01-18-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-22" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Necessary to declare independence. Loans effected 
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-01-18">Jan 18, 1836</date></p>
+
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>All goes well in <placeName>this part of the world</placeName> in favor of <placeName>Texas</placeName>&#8212;That <placeName>country</placeName>
+is rising dayly. Public opinion however expects and calls for an absolute
+declaration of independence without any delay</p>
+
+<p>Any serious divisions amongst the <persName>people </persName>there will ruin <placeName>Texas </placeName>in this
+country&#8212;I wish you all to unite on the basis of independence</p>
+
+<p>My health is much improved&#8212;We have effected a loan for $200,000,
+but only get 20 per cent advance at this time&#8212;The balance is to be paid
+after the loan is ratified by the <persName>convention</persName>, which I hope it will be without
+delay&#8212; <placeName>Texas </placeName>will be ruined if it is not&#8212; It is to be repaid in money at
+8 pr cent interest, or in <placeName>land </placeName>at fifty cents an acre&#8212; We shall probably
+close another loan <date when="1835-01-18">today </date>or <date when="1835-01-19">tomorrow </date>for 40,000 or 50,000 more also 
+payable in <placeName>land </placeName>at same price, with an allowance for prompt payment, 
+brokerage etc</p>
+
+<p>There is no news from <persName>W.</persName> God knows what has become of him&#8212; you
+will recollect that he had no authority to pledge any of my <placeName>property</placeName>&#8212;</p>
+
+<p>Love to <persName>sister </persName>and the <persName>children</persName>&#8212; Shall try to be at <placeName>home </placeName>the <date n="03-xx-1836">first week in
+March</date>&#8212; I sent the plan of a flag to <persName>Borden </persName>and <persName>Grayson </persName>which I think is
+historic&#8212;farewell</p>
+
+<p>[S. F. Austin]</p>
+<p>[Addressed:] <persName>Mr. James F. Perry</persName> <placeName>Peach point near Brazoria</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

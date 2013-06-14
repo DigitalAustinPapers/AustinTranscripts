@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5155">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W P Smith et Al to Stephen F Austin, 04-20-1836</title>
+            <author>
+                <persName>W P Smith et Al</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Philadelphia, Pennsylvania</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 333-334
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-20">04-20-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Inviting him: to meet with Texas Committee of the city</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Philadelphia</placeName>, <date when="1836-04-20">April 20th 1836</date></p>
+
+<p><persName>Genl. Stephen F. Austin</persName></p>
+
+<p>Sir.</p>
+
+<p>Agreeable to a resolution passd on the Evening of the <date when="1836-04-19">19th inst</date> at a
+Meeting of the <persName>Texas Committee</persName> a <persName>committee of Five persons</persName> were 
+appointed to address a Letter requesting your attendance at a general <placeName>Town
+Meeting</placeName> to be held in this <placeName>City </placeName>at as early a period as the arrangements
+can be made</p>
+
+<p>In pursuance of the above resolution we respectfully request your 
+attention to it and shall feel happy to be informed what day may best suit<pb n="334"/>
+your convenience to be in this <placeName>City</placeName>, and if the Honor of your attendance
+at such Meeting may be expected also that of the <persName>Gentlemen </persName>who 
+accompany you from <placeName>Texas</placeName>.</p>
+
+<p><persName>W. P. Smith</persName></p>
+
+<p><persName>Britton Evans</persName></p>
+
+<p><persName>S. McGarzey</persName>.</p>
+
+<p><persName>H. D. Tarr</persName></p>
+
+<p><persName>Stewart Newell</persName></p>
+
+<p><persName>Committee</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

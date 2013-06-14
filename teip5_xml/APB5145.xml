@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5145">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William H Wharton to Stephen F Austin, 04-07-1836</title>
+            <author>
+                <persName>William H Wharton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-30">07-30-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 326
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-07">04-07-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-30" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting news from Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Dear Sir,</p>
+
+<p><date when="1836-04-07">This morning</date>s mail brought in only one letter from our <persName>agent Bryan
+</persName>which I copy. It reads as follows: "Advices from <placeName>Matamoros </placeName>which can
+be depended upon represent the advancing <persName>army </persName>as <persName>8000 strong</persName>, waging a
+war of extermination. <persName>1000 men</persName> blockading <placeName>San Antonio</placeName> <persName>1000 </persName>more in
+reserve. <persName>Grants men</persName> who surrendered refused quarter and murdered in cold
+blood. Our <persName>army </persName>concentrating <placeName>on the Colorado</placeName>. No money as yet and
+no advices from the <persName>government</persName>. More next mail."</p>
+
+<p>If you ascertain you can do nothing in <placeName>New York</placeName>&#8212;do return as soon as
+possible. Only one should remain there. The others can do more in
+<placeName>Moble </placeName><placeName>New Orleans</placeName> and at home. I send you the <placeName>Telegraph</placeName>. Make a
+handle of the murder of <persName>Grants men</persName>. Write often</p>
+
+<p><persName>Wm. H. Wharton </persName>[Rubric.]</p>
+
+<p>[Addressed:] <persName>Gen. S. F. Austin </persName><placeName>New York</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

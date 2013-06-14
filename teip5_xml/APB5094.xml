@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5094">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Sam Houston, 01-07-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-07-13">07-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Sam Houston
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 298-299
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-01-07">01-07-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-07-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Advising and giving reasons for declaration of independence.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName>, <date when="1836-01-07">January 7, 1836</date>.</p>
+
+<p>To <persName>Gen. Sam Houston</persName></p>
+
+<p>Dear Sir:</p>
+
+<p>In all our <placeName>Texas </placeName>affairs, as you are well apprised, I have felt it to be my
+duty to be very cautions in involving the <persName>pioneers </persName>and actual <persName>settlers </persName>of
+that <placeName>country</placeName>, by any act of mine, until I was fully and clearly convinced
+of its necessity, and of the capabilities of our resources to sustain it. Hence
+it is that I have been censured by some for being over cautious. Where the
+fate of a whole people is in question, it is difficult to be over-cautious or
+to be too prudent. Besides these general considerations, there are others
+which ought to have weight with me individually. I have been, either
+directly or indirectly, the cause of drawing many <persName>families </persName>to <placeName>Texas</placeName>; also,
+the situation and circumstances in which I have been placed have given
+considerable weight to my opinions. This has thrown a heavy 
+responsibility upon me, so much so that I have considered it to be my duty to be
+prudent, and even to control my own impulses and feelings; these have
+long been impatient under the state of things which has existed in <placeName>Texas</placeName>,
+and in favor of a speedy and radical change. But I have never approved
+of the course of forestalling public opinion by party or partial meetings,
+or by management of any kind. The true course is to lay facts before the
+<persName>people</persName>, and let them judge for themselves. I have endeavored to pursue
+this course.</p>
+
+<p>A question of vital importance is yet to be decided by <placeName>Texas</placeName>, which is a
+declaration of independence. When I left <placeName>Texas </placeName>I was of opinion that it
+was premature to stir this question, and that we ought to be very cautious
+of taking any steps that would make the <placeName>Texas </placeName>war purely a national war,
+which would unite all <persName>parties </persName>against us, instead of it being a <persName>party </persName>war,
+which would secure to us the aid of the <persName>federal party</persName>. In this I acted<pb n="299"/>
+contrary to my own impulses, for I wish to see <placeName>Texas </placeName>free from the 
+trammels of religious intolerance and other anti-republican restrictions, and 
+independent at once; and as an individual have always been ready to risk my
+all to obtain it; but I could not feel justifiable in precipitating and 
+involving others until I was fully satisfied that they would be sustained. Since
+my arrival here, I have received information which has satisfied me on this
+subject. I have no doubt we can obtain all and even much more aid than
+we need. I now think the time has come for <placeName>Texas </placeName>to assert her natural
+rights; and were I in the convention I would urge an immediate declaration
+of independence. I form this opinion from the information now before me.
+I have not heard of any movement in the <placeName>interior </placeName>by the <persName>federal party</persName>, in
+favor of <placeName>Texas</placeName>, or of the constitution; on the contrary the information from
+<placeName>Mexico </placeName>is that all <persName>parties </persName>are against us, owing to what has already been
+said and done in <placeName>Texas </placeName>in favor of independence; and that we have nothing
+to expect from that quarter but hostility. I am acting on this information.
+If it be true, and I have no reason to doubt it, our present position in
+favor of the republican principles of the constitution of <date n="xx-xx-1824">1824</date>, can do us no
+good, and it is doing us harm by deterring those kind of men from joining
+us that are most useful. I know not what information you may have in
+<placeName>Texas </placeName>as to the movements of the <persName>federal party</persName> in our favor, nor what 
+influence they ought to have on the decision of this question, this being a
+matter which the convention alone can determine; I can only say that, with
+the information now before me, I am in favor of an immediate declaration
+of independence. <persName>Santa Anna</persName> was at <placeName>San Luis Potosi</placeName> according to the last
+accounts, marching on rapidly with a large <persName>force </persName>against <placeName>Texas</placeName>. We must
+be united and firm, and look well to the month of <date n="03-xx-1836">March</date>&#8212;and be ready.
+I shall try to be at <placeName>home </placeName>by that time. Yours, respectfully,</p>
+
+<p><persName>S. F. Austin</persName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

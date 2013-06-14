@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5158">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mary Austin Holley to Stephen F Austin, 04-21-1836</title>
+            <author>
+                <persName>Mary Austin Holley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 335-336
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-21">04-21-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Describing Texas meeting at Lexington, Ky.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington</placeName>, <date when="1836-04-21">April 21, 1836</date></p>
+
+<p>Dear <persName>Cousin</persName>,</p>
+
+<p>We had an overflowing Meeting <date when="1836-04-20">last night</date>, adjourned from the Morning,
+when they merely organized, the <persName>Whig Convention</persName> being in session. I made
+up a <persName>party of ladies</persName> and we all went, and never was I so complimented&#8212;
+never so proud. And who do you think was the <persName>orator</persName>? The <persName>new 
+Commissioner from <placeName>Texas </placeName>Col: Lewis</persName>. It so happened&#8212;a lucky coincidence
+<hi rend="italic">for once</hi>&#8212;that he arrived from <placeName>Louisville</placeName>&#8212;(where he told us they had a
+very enthusiastic Meeting)&#8212;in the afternoon. <persName>Mr. Higgins</persName>, the old 
+<persName>gentleman </persName>they went to see, was in the chair. <persName>Mr. Bryant</persName> mentioned the arrival of
+<persName>Col. Lewis</persName> and moved that a Committee be appointed to call on him&#8212;
+invite him to attend the meeting. He came accordingly his presence gave
+great spirit to the occasion. He addressed the audience and gave a clear
+exposition of <placeName>Texas </placeName>affairs. Perfect silence and attention prevailed. He
+occupied all the time. Several <persName>gentlemen </persName>were prepared to speak. Among
+them <persName>Mr Wiggington of <placeName>Louisville</placeName></persName>, <persName>brother </persName>to him who started <date when="1836-04-19">two days
+since</date> with his <persName>company of volunteers</persName>. <persName>Mr Bradford</persName>, <persName>Mr Ferguson</persName>, and
+<persName>Gen: McCauley</persName> meant also to address the house. Some excellent 
+resolutions and a memorial to <persName>Congress</persName>, prepared by <persName>Mr. Martin</persName>, passed 
+unanimously and with great applause. Never was anything done with more
+unanimity&#8212;more harmony. An <persName>Irish Catholic</persName> attempted to make some
+objections on the ground of Committing the <persName>Govt </persName>etc; and was instantly
+hissed and hooted down&#8212;with take him out&#8212;take him out etc. <persName>Col: Lewis</persName>
+was presented to me at the close and I attempted to thank him for his fine
+Compliments. I expected him here <date when="1836-04-21">this Morning</date>, but learn he is occupied
+with <persName>visitors</persName>. <persName>Gen: McCauley</persName> just called, says they will have another
+meeting <date when="1836-04-21">to night</date> to obtain subscriptions, a chance for <hi rend="italic">their cut</hi> and <hi rend="italic">dried
+speeches</hi>. You see we are doing well. There is great spirit now. You
+began it,&#8212;by a little here and there we have kept it up, and <persName>Col: Lewis</persName><pb n="336"/>
+has fixed the matter. I find you get news from <placeName>Texas </placeName>within two days as
+soon as we do. I hope anxiously for something encouraging.</p>
+
+<p>I had liked to have made a speech myself <date when="1836-04-20">last night</date>. What a theme it
+is for eloquence. <persName>Col: Lewis</persName> appealed to my testimony as to the character
+of the <persName>Texians</persName>, in reply to some slanders&#8212;and with effect if these people
+have any pride. I almost rose from my seat to say that it was my proud
+distinction to be able to testify to the truth etc.</p>
+
+<p>The Mail closes&#8212; Love to all <persName>friend</persName>[s] Let them Have your portrait
+to be lithographed.</p>
+
+<p><persName>M A H [Mary Austin Holley]</persName></p>
+
+<p>[Addressed:] <persName>Gen. S. F Austin</persName> <placeName>New York</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

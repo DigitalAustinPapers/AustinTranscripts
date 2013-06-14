@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5152">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R M Johnson to Stephen F Austin, 04-14-1836</title>
+            <author>
+                <persName>R M Johnson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-01">08-01-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">House of Representatives.</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York City, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 331-332
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-04-14">04-14-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-01" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Does not know where to get money for Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><persName>House of Rep.</persName> <date when="1836-04-14">14 April 1836</date></p>
+
+<p>Dear <persName>Genl</persName>,</p>
+
+<p>Yours has been red&#8212;If I find I can use the enclosure to your advantage
+I shall do it. I have no idea where or how you [can] get money for your<pb n="332"/>
+<placeName>country</placeName>&#8212;I wish I did my heart bleeds for the late calamity brought upon
+your suffering and patriotic <placeName>Country</placeName></p>
+
+<p>It is my opinion that it would be useless at this time to get our 
+<persName>Government </persName>to go into the contest as a nation</p>
+
+<p>When you return you can find out how far it would be prudent to ask</p>
+
+<p><persName>Rh M Johnson</persName></p>
+
+<p>[Addressed:] <persName>Genl. S. F. Austin</persName> <placeName>New York, City New York</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
