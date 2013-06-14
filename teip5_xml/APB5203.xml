@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5203">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>R Semple to Stephen F Austin, 06-27-1836</title>
+            <author>
+                <persName>R Semple</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Col Lewis
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Williamsburg, Virginia</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 370-371
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-06-27">06-27-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning a company of "emigrants"</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Williamsburg </placeName><date when="1836-06-27">June 27, 1836</date></p>
+
+<p>Dear Sir:</p>
+
+<p>The <persName>Company </persName>which I spoke of at <placeName>Portsmouth</placeName>, thinking that the war was
+over had almost determined not to go to <placeName>Texas</placeName>, but my own opinion is,
+that the heaviest burdthen is yet to come, I have taken some measures to
+induce them to go.</p>
+
+<p><hi rend="italic">I have</hi> proposed to raise <persName>one hundred men</persName>, <hi rend="italic">and pay their</hi> expenses out,
+and arm them. If I understood <hi rend="italic">you </hi>right, the money which I expend in
+taking them from <placeName>Norfolk </placeName>'"will be repaid by the <persName>Texian Government</persName>."
+that there is a sufficiency of <hi rend="italic">arms </hi>at <placeName>Galveston </placeName>and that <persName>volunteers </persName>will be
+received at <placeName>head quarters</placeName>.</p>
+
+<p>If I can get a schooner or small Brigg at <placeName>Norfolk</placeName>, at a fair price I think
+I shall purchase it and if the <persName>government </persName>can arm it I will put it in service,
+after carrying out my men from here.</p>
+
+<p>Write me, at length, on the subjects as soon as you get this. I will get
+my <persName>compliment of men</persName> by the <date when="1836-07-04">4th of July</date> and would like to start by the
+<date when="1836-07-20">20th</date> any other information which you think I may need send it. I shall
+have some of the first young men in the country.</p>
+
+<p>If I purchase a vessel I shall not have funds of my own, with your 
+assurance of the <hi rend="italic">sanction </hi>of the <persName>government</persName>, I will be able to get the money
+(write me at <placeName>Norfolk</placeName>.)</p>
+
+<p><persName>R. Semple M. D</persName>.</p>
+
+<p><persName>Hon. S. F. Austin</persName>, <placeName>New York</placeName>.</p>
+
+<p>[Addressed:] <persName>Hon. Stephen, F. Austin Commissioner for <placeName>Texas</placeName></persName>
+<placeName>City of N. York</placeName><pb n="371"/></p>
+
+<p>Recd: and Returned, by your Obedient Servant who omits writing <persName>Col
+Austin</persName> having nothing special to say and refers him to <persName>Col Lewis the bearer</persName>
+of this, for all local news etc etc Yours truly</p>
+
+<p><persName>J. Treat</persName></p>
+
+<p><placeName>N. York</placeName> <date n="07-28-186">July 28/1836</date></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5201">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Robert Peebles  to Stephen F Austin, 06-23-1836</title>
+            <author>
+                <persName>Robert Peebles </persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Quintana, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 369-370
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-06-23">06-23-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Mexican news</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-06-23">June 23d 1836</date></p>
+
+<p>Dear <persName>Genl</persName>.</p>
+
+<p>I write merely to say that the <persName>Acting President of the Govt, of <placeName>Mexico</placeName>,
+Jose Justo Carro</persName>, has determined to disregard the Armistice agreed upon
+between <persName>Genl Houston</persName> and <persName>St Anna</persName>, and he has issued his proclamation
+declaring his intention to prosecute the War against <placeName>Texas </placeName>immediately.
+Our <placeName>Country</placeName>, it seems by this publication, (which has been republished in
+the <placeName>Bulletin of this City</placeName>), is to be invaded by <persName>seventeen thousand Men</persName>. The
+prevailing opinion here is that <placeName>Texas </placeName>should loose no time in Making ample
+preparation to repel the expected invasion: And acting under this 
+impression the <persName>Citizens of <placeName>Texas</placeName></persName> who are here have joined in a recommendation
+to <persName>Genl Hunt</persName> to proceed immediately with his preparations to raise and
+organize his <persName>Division</persName>, as you May see by the enclosed Copy. A report
+reached here today from <placeName>Vera Cruz</placeName> that the <persName>Govt </persName>was not able to raise the
+men and Money to Carry on another Campaign against us. I did not learn
+from what authority this report emanated, but it is only necessary for us
+to reflect how wofully the <persName>people of <placeName>Texas</placeName></persName> have been lead astray by such
+idle remours to lead us at once to the conclusion that now is the time to
+prepare for action.<pb n="370"/></p>
+
+<p>I leave <date when="1836-06-24">in the morning</date> for <placeName>Mobile</placeName>, thence to <placeName>Claiborne</placeName>, from whence I
+shall return with all possible despatch. Please Write Me to <placeName>San Augustine</placeName>
+immediately upon the receipt of this, and if in your opinion the return of
+the Archives had better be delayed I will act upon your advice.</p>
+
+<p>I am much indisposed therefore Must Make My letter Short</p>
+
+<p><persName>R. Peebles</persName></p>
+
+<p>[Addressed:] <persName>Gen. S. F. Austin</persName> <placeName>Quintanna Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

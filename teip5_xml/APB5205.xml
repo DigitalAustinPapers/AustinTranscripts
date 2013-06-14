@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5205">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mirabeau B. Lamar, 06-27-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mirabeau B. Lamar
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Velasco, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 372-373
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-06-27">06-27-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Ardent and universal interest in Texas in the United States. Official report of San Jacinto would have won recognition of independence from last session of Congress. Much harm done by treating with Santa Anna. Alarming reports of Mexican invasion. Advises against mistreatment of Santa Anna</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Velasco </placeName><date when="1836-06-27">Monday 27 June 36</date></p>
+
+<p>Dr Sir,</p>
+
+<p>After rolling at anchor nearly all day I have just landed&#8212; My head still
+has the sea sick motion, so I can say but a few words in reply to your 
+request, in your note to the <persName>president</persName>, to give you the news from the <placeName>U.S.</placeName></p>
+
+<p>There is a general and pritty universal and ardent interest <placeName>all over the
+U.S.</placeName> in favor of <placeName>Texas</placeName>&#8212; This feeling pervades both houses of <persName>Congress</persName>
+and the <persName>cabinet</persName>.</p>
+
+<p>I believe that nothing was wanting to procure a recognition of our 
+independence but <hi rend="italic">official manuscript accounts</hi> of the battle of <placeName>San Jacinto</placeName> and
+the actual state of things in <placeName>Texas</placeName>&#8212;Some proof of our capacity to sustain
+ourselves etc. Nothing of the kind was rec'd&#8212;nothing but <placeName>newspaper </placeName>
+accounts had reached there when I left.</p>
+
+<p><persName>Grayson </persName>and <persName>Collingsworth </persName>took accounts to <placeName>N. Orleans</placeName> that no more
+<persName>volunteers </persName>were needed. This will do great harm and must be immediately
+counteracted if we expect any more aid from there.</p>
+
+<p>The reports about treating with <persName>Santa Anna</persName> etc have injured the cause
+of <placeName>Texas </placeName>beyond anything you can conceive of.</p>
+
+<p>Our course now appears to be a plain one. The <placeName>country </placeName>must rally
+<hi rend="italic">en masse</hi> and meet the <persName>enemy</persName>. It seems that their creed is extermination.
+If so, ought we to have faith in such an <persName>enemy </persName>or to extend mercy or favors?</p>
+
+<p>A great error (as I think) has been committed in not communicating
+with the <persName>agents of <placeName>Texas </placeName>in <placeName>Washington City</placeName></persName>. I recommend that a report
+or an account in an official form be sent to them by every opportunity of
+every important event that transpires.</p>
+
+<p><persName>80 men</persName> ought to be at <placeName>Galveston </placeName><date when="1836-06-28">tomorrow </date>in the schooner San Jacinto
+from <placeName>Orleans</placeName>&#8212;the <persName>men are from <placeName>Cincinnati</placeName></persName> commanded by <persName>Capt. Allen</persName>,
+a fine fellow. <persName>300 </persName>more are on the way from <placeName>Lexington </placeName>and <placeName>Louisville</placeName>&#8212;
+<persName>1000 </persName>more would have been on&#8212;but the report that "the war is ended" will
+stop them.<pb n="373"/></p>
+
+<p>In Gods name no more armistices or treaties with <persName>prisoners</persName>.</p>
+
+<p>In the <placeName>Mississippi </placeName>I saw a vessel direct from <placeName>Matamoros </placeName>which confirms
+the news rec'd here as to the advance of the <persName>Mexicans </persName>10,000 to <persName>12,000
+</persName>strong. There is no doubt of it&#8212;all <placeName>Mexico </placeName>is in motion. No treaty made
+with <persName>Santa Anna</persName> will be respected by them. <persName>Gen Urrea</persName> is <persName>commander in
+chief</persName>.<persName> Gen Cortazar</persName> was at <placeName>Saltillo </placeName>with <persName>5000 men</persName> and coming on by
+forced marches. <persName>Gen Filisolo</persName> had rec'd orders to halt his retreat and
+fight etc. Such is the substance of the news from <placeName>Matamoros</placeName>&#8212;also that
+an <persName>expedition </persName>was fitting out by water. I shall try and be with you in the
+<persName>army </persName>as soon as I can, as a <persName>private soldier</persName>&#8212; <persName>every man in <placeName>Texas</placeName></persName> must
+shoulder his arms. Farewell</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p><persName>Gen M B Lamar</persName></p>
+
+<p><persName>Majr Gen. M. B. Lamar</persName></p>
+
+<p>Permit me to suggest that it would be best to avoid (if possible) any
+harsh treatment towards <persName>Gen. Santa Anna</persName>'s person. In the present 
+excitement perhaps this will be difficult, tho. you know more of the <hi rend="italic">temper of the
+times</hi> than I do as to the matter.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

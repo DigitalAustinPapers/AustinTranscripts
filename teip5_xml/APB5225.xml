@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5225">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Bryan to Stephen F Austin, Branch T. Archer, and Willaim H Wharton, 07-11-1836</title>
+            <author>
+                <persName>William Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         Branch T. Archer
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Willaim H Wharton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 395-96
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-11">07-11-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking for land in Texas. Credit injured by Texas cabinet</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-07-11">July 11th 1836</date></p>
+
+<p>To Messrs. <placeName>Austin</placeName>, <placeName>Archer</placeName>, and <placeName>Wharton</placeName></p>
+
+<p><persName>Late Commissioners of <placeName>Texas</placeName></persName></p>
+
+<p>Gentlemen</p>
+
+<p>Enclosed you will find a copy of an application made by me to acquire
+the right of a <persName>Colonist of <placeName>Texas</placeName></persName>, The original, I in person handed to
+<persName>S. M. Williams esq</persName>, at <placeName>Velasco</placeName>, as he, at that period was acting for <persName>S. F.
+Austin Esq</persName>, my object in tendering a copy is for the purpose of obtaining<pb n="396"/>
+a certificate of citizenship under that date, I trust that through your 
+influence the <hi rend="italic">right </hi>applied for, will be unhesitatingly granted, You well
+know Gentlemen I have been strictly devoted to the interest of <placeName>Texas</placeName>; That
+through your instigation I declined receiving consignments of Merchandise
+and consequently, that chance of resource was entirely cut off, Leaving me
+for the present ruined in commercial prospects, which I should not value
+if my credit had not been deeply injured by the unjustifyable proceedings
+of your <persName>Cabinet</persName>, At the period the <persName>agency of <placeName>Texas</placeName></persName> was accepted by me
+her prospects were so deeply shrouded in doubt that you were refused by
+several the aid I promptly rendered&#8212; You will recollect one person only,
+was willing to accept the office (and only one) on condition that I would
+take all the responsibilities, all the trouble, and he the profit, and the
+title&#8212; When I refused the proposal, it was far from my belief that a 
+<persName>Cabinet </persName>representing an enterprising and honorable population would sanction
+the proceedings of a few treacherous, interested persons, to bring disgrace
+and ruin upon the only person who disinterestedly stood by them through
+their days of darkness&#8212; In a few days I trust to submit to your perusal a
+correct statement of all the transactions between the <persName>Government of <placeName>Texas</placeName>
+</persName>and their <persName>agents in <placeName>New Orleans</placeName></persName></p>
+
+<p><persName>Wm. Bryan</persName></p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

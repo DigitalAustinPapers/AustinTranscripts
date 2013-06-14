@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5242">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Treat to Stephen F Austin, 07-30-1836</title>
+            <author>
+                <persName>James Treat</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-15">08-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 409-410
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-30">07-30-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning Texan loan in New York</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1836-07-30">July 30th 1836</date>.&#8212;</p>
+
+<p><persName>Genl. S. F. Austin</persName> <placeName>Texas</placeName>:	Saturday 12 oclk</p>
+
+<p>My dear sir:</p>
+
+<p>I hand you enclosed the <hi rend="italic">only </hi>letter I have for you, and avail of <persName>Col.
+Lewis</persName>, who departs direct for <placeName>Texas</placeName>, to send you the same.&#8212; I have not
+had the pleasure to receive a single line from you since we parted at 
+<hi rend="italic"><placeName>Washington</placeName></hi>. Tho' I have seen your letter to <persName>Swartwout</persName>.&#8212; I have noticed your
+arrival at <placeName>Velasco</placeName>, and expected a letter from you by the <hi rend="italic">Shenandoah</hi>.&#8212;
+I also find that Messrs <persName>Archer </persName>and <persName>Wharton</persName>, embarked, on board the 
+Independence to return <placeName>home</placeName>.&#8212; The <hi rend="italic">latter </hi>drew on me for the $2,000 of the
+Loan and obtained the Cash for it, in <placeName>N. Orleans</placeName>.&#8212; We have no news
+from <placeName>Texas </placeName>except what is furnished us by the <placeName>public Prints</placeName>&#8212; <persName>Gen Mason</persName>
+was at <placeName>Cincinnatti</placeName>. <date when="1836-07-20">20th Inst</date>, on his way to <placeName>Detroit</placeName>, and will probably be
+here, some time <date n="08-xx-1836">next month</date>, and return to <placeName>Texas </placeName>in the <date n="Fall-1836">Fall</date>&#8212;so at least I
+<hi rend="italic">understand</hi>&#8212;</p>
+
+<p>The <persName>parties </persName>here, are daily expecting the answer to the proposed Loan,
+from your <persName>Govrnt</persName>.&#8212; If they do not accept the proposition for the 
+remaining $90,000 as <hi rend="italic">stipulated</hi>; It is thought here that the <persName>Govmt</persName>. will be
+willing to place the 10,000$ paid on the same footing as the <placeName>New Orleans</placeName>
+Loan&#8212; It was subscribed to by the <persName>friends of <placeName>Texas</placeName></persName> <hi rend="italic">exclusively</hi>&#8212; I
+wrote you in relation to it before and also about the <hi rend="italic">Bread </hi>Subscription
+or donation, all which, no doubt you have ere this.&#8212; I trust your arrival
+<placeName>home</placeName>, will have been in time to render, valuable service to the Cause and<pb n="410"/>
+Country&#8212; for my own part, I have no apprehensions for the issue of
+the 2d Campaign (Should the <persName>Mexicans </persName>ever Venture upon it) But you
+must <hi rend="italic">keep </hi>up your <hi rend="italic">Navy</hi>.&#8212; The <persName>Mexican Govmt</persName> have discovered that
+without a preponderating force on the <placeName>Gulph</placeName>, they can do nothing; and
+they will make every effort to obtain It. The next <hi rend="italic">campaign </hi>therefore will
+be without doubt a <hi rend="italic">naval one</hi>&#8212; Therefore, I think you had always do
+well to <hi rend="italic">keep up your naval force</hi>&#8212; with this, you have nothing to fear.&#8212;
+I wrote <persName>Henry </persName>by this conveyance&#8212; He was last at the <placeName>Springs in 
+Virginia</placeName>.&#8212; <persName>John </persName>and <persName>Archibald </persName>both well&#8212; All your friends here well&#8212;
+and think of you often.&#8212; Pray write me and give me all the news of
+interest.</p>
+
+<p><persName>J. Treat</persName></p>
+
+<p>[Addressed:] To <persName>Gen. Stephen F, Austin</persName> <placeName>Texas</placeName>.&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

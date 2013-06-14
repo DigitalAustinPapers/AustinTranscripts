@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5220">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Mirabeau B. Lamar, 07-08-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Mirabeau B. Lamar
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Velasco, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 389-390
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-08">07-08-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Discussing the problem of Santa Anna's release</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Velasco </placeName><date when="1836-07-08">July 8, 1836</date></p>
+
+<p><persName>Gen M. B. Lamar</persName>&#8212;</p>
+
+<p>Dr Sir,</p>
+
+<p>The <persName>president </persName>informs me that he will send you <persName>Gen Santa Anna</persName>'s letter
+to <persName>Gen. Urrea</persName>, and also a translation of <persName>Santa Anna</persName>'s letter to <persName>President
+Jackson</persName></p>
+
+<p>On my arrival here from the <placeName>U. S.</placeName> on the <date when="1836-06-27">27th. ult.</date> I found that much
+excitement existed as to the past transactions with <persName>Gen. Santa Anna</persName> etc&#8212;
+I saw him on the <date when="1836-07-02">2d</date>. and <date when="1836-07-03">3d instant</date> at <placeName>Columbia</placeName>, and he expressed to me
+his desires to end the <placeName>Texas </placeName>war, on the basis of a recognition of <persName>Texan</persName>
+independence by <placeName>Mexico</placeName>, and that he wished the <placeName>U. S.</placeName> to mediate between
+the two parties (<placeName>Mexico </placeName>and <placeName>Texas</placeName>) on that basis&#8212;In accordance with this
+view of the matter he wrote the letter to <persName>Gen Jackson</persName> (a translation of
+which will be sent you by <persName>President Burnet</persName>) requesting his (<persName>Jackson</persName>'s)<pb n="390"/>
+mediation&#8212; He also wrote the letter to <persName>Gen. Urrea</persName>, above mentioned, in
+order to be used by this <persName>Govt</persName>. as it may deem best, for the purpose of 
+procuring such guaranties from <persName>Gen. Urrea</persName> as would justify the <persName>Govt</persName>. and
+<persName>army of <placeName>Texas</placeName></persName> etc. so as to procure his (<persName>Santa Anna</persName>'s) liberty.</p>
+
+<p>I understand that these letters will be sent to you by <persName>president Burnet</persName>, to
+be used as circumstances and the public good may require&#8212;</p>
+
+<p>I will observe that <persName>Gen. Santa Anna</persName>'s opinion, in reference to his letters
+to <persName>Urrea </persName>was that he, <persName>Urrea</persName>, would make a formal arrangement, by treaty
+or agreement, with the commander of the <persName>Texan army</persName>, to withdraw all the
+<persName>Mexican troops</persName> <placeName>beyond Rio Bravo</placeName>, and submit the question to negotiation
+for a final termination of the war, on the basis which he, <persName>Santa Anna</persName> has
+agreed to in the treaties of <date when="1836-05-17">14 May</date> and in his letter to <persName>Gen. Jackson</persName> etc,
+give guarantees etc. etc.</p>
+
+<p>I presume that <persName>Santa Anna</persName> would agree to still stronger stipulations, on
+his part, that is, so far as regards binding himself to use his influence to
+procure an acknowledgement of our independence by <placeName>Mexico </placeName>etc</p>
+
+<p>I think that <persName>Gen. Santa Anna</persName>'s letter to <persName>Gen. Jackson</persName>, will have some
+weight in procuring the intervention of the <placeName>U.S.</placeName> <hi rend="italic">as a mediator</hi> which I
+think, will be fortunate for <placeName>Texas</placeName>, and will lead to a termination of the war
+by an acknowledgement of our independence.</p>
+
+<p>I also think that any treaty or arrangement made with <persName>Urrea</persName>, in a formal
+manner, will be complyed with by him, for he is evidently at full liberty
+to treat or not, and can have no excuse on that score, to deviate from what
+he stipulates&#8212;</p>
+
+<p>As to <persName>Santa Anna</persName> he has bound himself, so far as a man in his situation
+can, by the treaties made with this <persName>Govt</persName>. of <date when="1836-05-14">14 May</date>, and by his letter to
+<persName>Gen. Jackson</persName> of <date when="1836-07-04">4th. July</date>, and I presume would bind himself still
+stronger&#8212;</p>
+
+<p>The part of the <persName>volunteers from <placeName>Lexington Ky</placeName></persName>, have arrived, the balance,
+about 200, in all, will be out in a few days&#8212;also a <persName>company of mounted
+men</persName> under <persName>Charles Harrison</persName>, I am told are on the way&#8212; These are in
+addition to the <persName>80 from <placeName>Cincinnati</placeName></persName> who have arrived at <placeName>Galveston</placeName>, under
+<persName>Capt. Allen</persName>&#8212;</p>
+
+<p>The invincible, <persName>Cap Brown</persName>, has sailed on a cruise down the <placeName>coast</placeName>&#8212;</p>
+
+<p>I will go to the <persName>army </persName>if I can be of any service there</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>[Addressed:] <persName>Gen. M. B. Lamar</persName> In the <persName>Texas Army</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

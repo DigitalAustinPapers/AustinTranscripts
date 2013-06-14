@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5223">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, 07-10-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Velasco, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 393-395
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-10">07-10-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning letters to Jackson and Gaines and advice to Burnet</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>1836&#8212; <placeName>Velasco</placeName>&#8212; <date when="1836-07-10">July 10&#8212;</date></p>
+
+<p><hi rend="italic">Memorandum</hi>&#8212;</p>
+
+<p>The original letter of <date when="1836-07-04">July 4th</date> from <persName>Gen. Santa Anna</persName> to <persName>Gen. Jackson</persName>,
+containing the copies of the treaties of <date when="1836-05-14">14th May</date> and <persName>Santa Anna</persName>'s farewell<pb n="394"/>
+of <date when="1836-06-01">1 June</date> were sent by me to <persName>Gen. E. P. Gains</persName>, by <persName>Geo. P. Digges</persName> who went
+<persName>express</persName>, also my letters to <persName>Gen Jackson</persName> and <persName>Gen Gains</persName>, of <date when="1836-07-04">same date</date> and
+to <persName>Grayson </persName>and <persName>Collingsworth </persName>and <persName>President Burnet</persName>s letter to <persName>Gains </persName>
+approving of the establishment of his <placeName>head quarters at Nacogdoches</placeName>, should he,
+<persName>Gains</persName>, think proper to do so, for the purpose of keeping the <persName>northern 
+indians</persName> quiet&#8212; This letter is dated <date when="1836-06-28">June 28</date>, and was written by <persName>Burnet </persName>at
+my suggestion, the day after my arrival at <placeName>Velasco </placeName>from the<placeName> U. S</placeName>.</p>
+
+<p><persName>Gen Santa Anna</persName>'s letter to <persName>Gen Jose Urrea</persName> was delivered to me, open, to
+<persName>President Burnet</persName> at <placeName>Velasco </placeName>the <date when="1836-07-08">8th of July</date>, and sent by him and a 
+translation of <persName>Santa Anna</persName>'s letter to <persName>Jackson </persName>the next day to <persName>Gen M. B. Lamar </persName>in
+the <persName>Texas army</persName> by <persName>Capt. Roman</persName>&#8212; I had previously shown it at <placeName>Brazoria</placeName>
+to <persName>Lamar </persName>on my way down from <placeName>Columbia </placeName>on the <date when="1836-07-06">6th July</date> and wished him
+to take it then, so as to save delay, for he was just starting for the <persName>army</persName>
+to assume the chief command, but he preferred that it should be sent to him
+officially by <persName>President Burnet</persName> observing that the opinions he had sustained
+while in the <persName>cabinet</persName>, against any kind of treaty with <persName>Santa Anna</persName>, or making
+any use of him at all for the purpose of terminating the war etc, precluded
+him from taking any active part in the matter, but that, as <persName>commander of
+the army</persName> he would co-operate with the <persName>Govt</persName>, and interpose no obstacles</p>
+
+<p>The day I arrived at <placeName>Velasco</placeName>, (late in the evening of <date when="1836-06-27">27th June</date>) I 
+represented to <persName>president Burnet</persName> the great importance of writing officially once a
+week if possible to the <persName>representatives of <placeName>Texas </placeName>at <placeName>Washington City</placeName></persName> in the
+<placeName>U. S.</placeName> and stated it as my opinion that the omission of this <persName>Govt</persName>, in not 
+furnishing to those <persName>representatives</persName>, whoever they might be, official reports of
+the battle of <placeName>San Jacinto</placeName> and of the organization of the <persName><placeName>Texas </placeName>Govt</persName>, and
+general situation of the <placeName>country </placeName>etc had been fatal to the interests of <placeName>Texas</placeName>,
+as I believed that our independence would have been acknowledged by the
+<persName><placeName>U. S.</placeName> govt</persName>, and <persName>congress </persName>if those official documents had been sent in on
+time&#8212; Nothing of the kind was ever sent on&#8212;those of us, (<persName>Austin</persName>, 
+<persName>Wharton</persName>, <persName>Archer</persName>, <persName>Childress </persName>and <persName>Hamilton</persName>) who were in <placeName>Washington </placeName>received
+nothing, not even one word from their <persName>Govt</persName>, and had nothing to operate
+with, in their exertions to procure a recognition of our independence, but
+<placeName>news paper</placeName> accounts and private letters from <persName>individuals </persName>in <placeName>Texas </placeName><placeName>New
+Orleans </placeName>etc&#8212;</p>
+
+<p>I was assured that <persName>Grayson </persName>and <persName>Collingsworth </persName>(the present 
+<persName>representatives of <placeName>Texas </placeName>at <placeName>Washington City</placeName></persName>) should be regularly written to, and on
+the <date when="1836-07-09">9th July</date> <persName>president Burnet</persName> wrote to them (by the schooner Comanche
+bound to <placeName>Orleans</placeName>) and enclosed certified copies of <persName>Gen. Santa Anna</persName>'s letters
+to <persName>Gen. Jackson</persName> and <persName>Gen Urrea</persName>, and of the treaties of <date when="1836-05-14">14th May</date> etc I
+wrote to them at the same time (see copy <date when="1836-07-09">9th July</date>)&#8212; The duplicate of
+<persName>Gen Santa Anna</persName>'s letter to <persName>president Jackson</persName> signed by himself, was given<pb n="395"/>
+by me to <persName>president Burnet</persName> on the <date when="1836-07-08">8 july</date> and filed by him, (as he told me,
+with the records of the <persName>executive office</persName>&#8212;</p>
+
+<p><persName>Mr W. H. Jack the secretary of State</persName> left <placeName>velasco </placeName>some twenty days since
+for the <placeName>Neches river</placeName> to bring back his <persName>family</persName>, who had fled there with 
+<persName>Mckinny</persName>'s and <persName>Williams</persName>'s in time of the general flight <date n="Spring-1836">last spring</date> he is dayly
+expected back and it is said will be here <date when="1836-07-10">today (10 July)</date></p>
+
+<p>The <persName>secretary of the Navy, Potter</persName>, went to the <placeName>U. S.</placeName> about two months ago
+and has not returned the only <persName>members of the Govt</persName> now here are <persName>Burnet</persName>,
+<persName>Hardiman </persName>and <persName>Somerville</persName>&#8212; I gave it as my opinion the importance of
+official reports from the <persName>head of each department of the Govt</persName>, relative to
+the state of the public affairs of the respective branches, and that such 
+reports should be published and sent officially to the <persName>reps. of <placeName>Texas</placeName></persName> in 
+<placeName>Washington </placeName>to be used there in support of our application for independence etc&#8212;</p>
+
+<p>I paid to <persName>G. P. Digges</persName>, the <persName>express </persName>to <persName>Gains</persName>, ten dollars of my own
+money for his expenses, and gave him a letter, to hire horses should his
+fail&#8212;</p>
+
+<p><persName>W. H. Jack</persName>, <persName>S. M. Williams</persName> and <persName>T. F. McKinney</persName> arrived with their 
+<persName>families </persName>in the Steam boat Yellow Stone from the <placeName>river Neches</placeName> <date when="1836-07-10">this afternoon
+(July 10)</date>&#8212; The schooner Comanche sailed for <placeName>Orleans </placeName><date when="1836-07-10">to day</date>&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

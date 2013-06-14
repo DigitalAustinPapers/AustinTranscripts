@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5207">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Bryan to Stephen F Austin, 06-28-1836</title>
+            <author>
+                <persName>William Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 375-376
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-06-28">06-28-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Distress caused him by President Burnet's appointment of Toby and Brother to represent Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-06-28">June 28th 1836</date></p>
+
+<p><persName>Stephen F Austin Esq</persName> <placeName>Velasco</placeName></p>
+
+<p>Dear Sir</p>
+
+<p>We have no news from <placeName>Texas </placeName>or <placeName>Mexico </placeName>since you left, shortly after
+your departure <persName>Messrs Toby and Bros</persName> came out with a proclamation of
+the <persName>President</persName>, naming them as <persName>sole agents for the <placeName>United States</placeName></persName> etc. The
+result has been disaterous in the extreme. We have been obliged to stop
+all expenditures on the vessels, the <persName>mechanicks </persName>have all broken off work.
+<persName>Toby </persName>says he has no funds, and cannot sell the <placeName>lands </placeName>sent him, in fact the
+untoward appointment has thrown every thing into confusion. The public
+have come out in a manner totally unexpected, they say the unwarranted
+change of the <persName>Agency </persName>is unjust, that they can have no confidence in a 
+<persName>Government </persName>that could commit so flagrant an act. And that they cannot 
+hereafter obtain one dollar of credit in <placeName>New Orleans</placeName>. <persName>Toby </persName>can do nothing
+unless by pledge of the <placeName>public lands</placeName>, writs of attachment are now out
+against the vessels, and more are threatened, they cannot sustain them but
+the vessels will have to be bonded. In a word the change of <persName>Agency </persName>has
+much to our surprise drawn out the public voice in our favour and deeply
+injured the cause of <placeName>Texas</placeName>. Of the sum left by you we had expended Three
+Thousand Dollars, the Proclamation annul'd the <persName>Agency</persName>, of course we
+could expend no more. It will require five times the balance to pay the
+Bills upon which we are personally liable. We shall stop the Payments on
+<persName>government </persName>account as far as it is possible until we hear from you. The
+account was placed in our hands as <persName>agents of <placeName>Texas</placeName></persName>, on account of the
+<persName>Government </persName>for a specific purpose, our <persName>agency </persName>being broken up, it should
+go as far as it will to pay other urgent demands, and we shall anxiously
+wait your opinion upon the subject&#8212; It is our opinion the <persName>Agency </persName>of
+<persName>Toby and Bro</persName>, cannot continue, as it depends on the popularity of <persName>Mr
+McKinny</persName>, which must fall with the present <persName>Administration</persName>, but little can
+be done unless the country is invaded until <date n="Fall-1836">Fall</date>, and it might be as well
+to let the <persName>people </persName>have a trial of him, they will be fully satisfied in a short
+tims as to who can, and have best promoted the public interests. Our only
+concern now is in regard to meeting the demand against the <persName>Agency</persName>, should
+the <persName>Executive </persName>accede to our request to grant us script for the amount, we
+could arrange to restore the public credit so far as we are concerned in two
+months. Your friendly feelings towards us will induce you to urge such
+a measure, as it is probably the only means that can be resorted to, to pay
+the amount and restore confidence, we would urge it upon you for one
+strong reason, that the impression is general, that the <persName>government </persName>have
+changed the <persName>Agency </persName>to avoid meeting our demands, If something is not
+soon done my private character and interests must suffer, I am implicated<pb n="376"/>
+in no common terms by the public in the debts of Texas, and unless they
+are soon arranged my private credit will be prostrated, I must therefore
+beg of you to do all you can for me, It is hard for me after working for
+<placeName>Texas </placeName>through all her darkest days, to see Individuals who have literally&#8212;
+done nothing come forward and reap the advantage of my labours, but I
+must submit with the best grace I can, and trust to time for justice. I have
+heard nothing from Messers <persName>Archer </persName>and <persName>Wharton </persName>since I saw you,</p>
+
+<p><persName>William Bryan</persName></p>
+
+<p>Pr <persName>Samuel Ellis</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

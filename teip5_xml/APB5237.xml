@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5237">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Branch T Archer to John T Mason, 07-23-1836</title>
+            <author>
+                <persName>Branch T Archer</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-15">08-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John T Mason
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 402
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-23">07-23-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning authorship of Edward's History of Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1836-07-23">July 23th 1836</date></p>
+
+<p><persName>Genl. J. T. Mason</persName>,</p>
+
+<p>Your letter address'd to <persName>Genl. S. F. Austin</persName>, directed to my care, has been
+duly delivered. I stated to you in <placeName>Orleans</placeName>; that during the <date n="Winter-1836">winter of the
+present year</date>, <persName>Genl Austin</persName> and myself were in the Town of <placeName>Louisville Kty</placeName>,
+where <persName>Genl, Austin</persName> was informed that a Book was in press in the Town of
+<placeName>Cincinnati</placeName>, Call'd the History of <placeName>Texas</placeName>; And you suspected to be the <persName>author</persName>
+of said book which information was given to <persName>Genl Austin</persName> in the Town of
+<placeName>Louisville</placeName>; And to me in the Town of <placeName>Cincinnati</placeName>.</p>
+
+<p>I Have no knowledge, that <persName>Genl Austin</persName> made a single remark in relation
+to the <persName>Author</persName>, of said History touching his character as a man of truth.
+The remarks in relation to the author were made by me in <placeName>Cincinnati</placeName>; If
+any one is responsible for the matter, connected with the Book aforesaid,
+I am the man</p>
+
+<p>Permit me sir, in the kindest feeling to remark, that my letter address'd
+to you in <placeName>Orleans</placeName>, of date <date when="1836-07-05">5th of July</date>, should, and I trusted would, be 
+perfectly satisfactory on the subject of the Book and that no imputation can
+fall upon you from any remark made in relation to it.</p>
+
+<p><persName>B. T. Archer</persName></p>
+
+<p>[Addressed:] <persName>Genl. John T. Mason</persName> <placeName>New York</placeName> Mail</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

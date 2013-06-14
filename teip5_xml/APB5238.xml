@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5238">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to General Gaines, 07-27-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-15">08-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        General Gaines
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Peach Point, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 403-405
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-27">07-27-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explaining motives of his letter to President Jackson, July 4. His devotion to Texas. Criticised for advising release of Santa Anna</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Peach Point</placeName>, near <placeName>Brazoria Texas</placeName>, <date when="1836-07-27">July 27 1836</date></p>
+
+<p><persName>Maj. Gen. E. P. Gain[e]s</persName>,</p>
+
+<p>Dr Sir,</p>
+
+<p>I had the honor to write you on the <date when="1836-07-04">4th instant</date> on the subject of the 
+<persName>indians</persName>, and also in relation to the termination of the war between <placeName>Texas </placeName>and
+<placeName>Mexico</placeName>, through the mediation of the <placeName>U. S.</placeName> on the basis of the full 
+recognition of the independence of <placeName>Texas </placeName>by <placeName>Mexico</placeName>&#8212;</p>
+
+<p>I have just been informed that <persName>Gen. Santa Anna</persName> has written to you on
+this subject&#8212; I have not seen his letter, nor have I seen or had any 
+intercourse with him since I wrote you last, and can therefore say nothing as
+to his present views or ideas.</p>
+
+<p>When I saw him last, on the <date when="1836-07-04">4th July</date>, he stated to me that he wished to
+terminate the war on the basis of a full and immediate acknowledgement
+of the independence of <placeName>Texas </placeName>by <placeName>Mexico</placeName>, and that he wished to effect this
+object through the mediation of the <placeName>U. S.</placeName> I observed that the proper mode
+of obtaining such mediation was by an application from the <persName>Govt. of
+<placeName>Mexico</placeName></persName> to that of the <placeName>U. S.</placeName>&#8212; He replyed that such an application would be
+made by him the moment he was at liberty and could return to <placeName>mexico </placeName>and
+resume the <persName>government</persName>. I answered that his release was impossible 
+without such previous guarantees as would fully satisfy the <persName>people </persName>and <persName>Army
+of <placeName>Texas</placeName></persName>, and even put it out of his power, or the power of the <persName>Govt. of
+<placeName>Mexico</placeName></persName> to deviate, were they disposed to do so, and that I could see but
+one guarantee that would effectually do this, which was that of the <persName><placeName>U. S.</placeName>
+Govt.</persName> He said he would write to <persName>Gen. Jackson</persName>, I advised him to do so,
+believing that it would, at least, be a kind of opening of the Subject, which
+would lead to a corespondence of some character between the <placeName>U. S.</placeName> and
+<placeName>Mexico</placeName>, that might result favourably for <placeName>Texas</placeName>. In any event I could not
+see that any harm could by any possibility grow out of it&#8212;</p>
+
+<p>Under this view of the matter I wrote to <persName>Gen. Jackson</persName> At the same time,
+and gave him all the information I could on the subject&#8212;</p>
+
+<p>I have no concealments or Mistery in any matter connected with this, or
+any other subject of public interest to <placeName>Texas</placeName>&#8212; I am nothing more than
+an individual <persName>citizen of this <placeName>country</placeName></persName>, but I feel a more lively interest for
+its welfare than can be expressed&#8212;one that is greatly superior to all
+pecuniary or personal views of any kind&#8212; The prosperity of <placeName>Texas </placeName>has
+been the object of my labors, the idol of my existence&#8212;it has assumed the
+character of a <hi rend="italic">religion</hi>, for the guidance of my thoughts and actions, for
+fifteen years&#8212; Influenced by this controuling principle, I wish to see the<pb n="404"/>
+war ended as speedily as possible, to avert farther evils from this people,
+and I also wish to see <placeName>Texas </placeName>annexed to the <placeName>U. S</placeName>. as I believe that to be
+the most effectual and speedy mode of procuring for its <persName>inhabitants </persName>that
+security and stability in civil <persName>Gov</persName>. which alone can compensate them for
+their past sufferings therefore have no hesitation in saying to you and to
+every one else, that I wish for the intervention of the <persName><placeName>U. S</placeName>. Govt</persName>, in the
+affairs of <placeName>Texas</placeName>&#8212;that I have endeavor'd to procure its intervention, and
+that this was my only object in advising <persName>Gen. Santa Anna</persName> to apply to <persName>Gen.
+Jackson</persName>, and my only object in writing to him and to You on the <date when="1836-07-04">4th
+instant</date>.</p>
+
+<p>Rumor and excited passions or political Slander have accused me of a
+desire to save the life of <persName>Gen. Santa Anna</persName> in violation of justice which
+demands his execution as a <persName>murderer</persName>&#8212; I have had no hand in saving him
+and he was saved by the armistice entered into by <persName>Gen. Sam Houston</persName> on
+the <date when="1836-04-22">22d April</date>, and by the <persName>Cabinet of <placeName>Texas</placeName></persName> afterwards&#8212; I have no undue
+sympathy for <persName>Santa Anna</persName>&#8212; My sympathies are all for <placeName>Texas </placeName>and her
+<persName>inhabitants</persName>, and if <persName>Santa Anna</persName> can be used to end the war, I am willing to
+use him on the principle of public good, and more especially after he was
+saved and treated with on the <placeName>field of battle</placeName> and received as a <persName>prisoner </persName>of
+war and treated as such by the <persName>Civil and military authorities of the 
+country</persName>. But I am not willing to turn him loose without previous, and ample,
+and sufficient, and unquestionable guarantees&#8212; The only one of this
+character that I can see, is the guarantee of the <placeName>U. S.</placeName> and I have endeavored
+(so far as I have had anything to do with this matter) to use <persName>Gen. Santa
+</persName>for the purpose of obtaining it</p>
+
+<p>Many here have objected that in my letter to <persName>Gen. Jackson</persName> and to you of
+<date when="1836-07-04">4 instant</date>, I stated that I believed <persName>Santa Anna</persName> was sincere in his promises
+to end the war and acknowledge our independence&#8212; The object of those
+letters was to procure the guarantee of the <placeName>U. S.</placeName> and it would have been a
+St[r]ange thing in me, to have said to <persName>Gen. Jackson</persName>, and, to you, that I
+did not believe in <persName>Santa Anna</persName>'s promises, and at the same time Asked you
+to Guarantee them&#8212; I consider it quite immaterial whether he is sincere
+or not, if through his promises the guarantee of the <placeName>U. S.</placeName> can be obtained,
+for that very guarantee would <hi rend="italic">make </hi>him secure by compelling him, to
+comply, as he well knows&#8212;</p>
+
+<p>I consider that there is but one doubt or difficulty about this matter,
+which is whether <persName>Santa Anna</persName>'s power and influence in <placeName>Mexico </placeName>would be
+sufficient to enable him to procure an acknowledgment of the independence
+of <placeName>Texas</placeName>&#8212; This doubt I think is well founded, and that it can only be
+removed by some <hi rend="italic">official act</hi> of the <persName>Govt. of <placeName>Mexico</placeName></persName> that would be binding
+on the <placeName>nation</placeName>, such an <hi rend="italic">official act</hi> I thought might be procured through the
+mediation of the <placeName>U. S.</placeName> while <persName>Santa Anna's friends</persName> and <persName>party </persName>were still in<pb n="405"/>
+power, and his letter to <persName>Gen. Jackson</persName> I thought might open a door to
+obtain it&#8212;</p>
+
+<p>Such have been and are the motives which influence me</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

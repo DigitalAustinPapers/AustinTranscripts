@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5209">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to David G Burnet, 07-02-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        David G Burnet
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">J H Bell's House, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Velasco, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 376
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-02">07-02-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Plans of Santa Anna to secure mediation of President Jackson. Advises discreet treatment of the army to avoid friction with Houston </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>At <placeName><persName>J. H. Bell</persName>s</placeName><date when="1836-07-02"> Saturday July 2 1836.</date></p>
+
+<p>Dr. Sir,</p>
+
+<p>I have seen <persName>Santa Anna</persName>&#8212;he will write a letter to <persName>president Jackson </persName>
+requesting his mediation to terminate the war on the basis of a recognition
+of <placeName>Texan </placeName>independence etc. I will send this letter by the <persName>express </persName>to <persName>Gen.
+Gains</persName> and also a copy of it to him (<persName>Gains</persName>)</p>
+
+<p>I am satisfied that <persName>Santa Anna</persName> wishes to end the war and stop the advance
+of the <persName>Mexican army</persName>&#8212; how is this to be done?&#8212; you will answer me by
+asking the same question&#8212; When I come down I will try to answer it.</p>
+
+<p>The <persName>volunteers </persName>lately arrived at <placeName>Galveston </placeName>(<persName>Allen's company</persName>) I think
+ought to be sent to the town of <placeName>Matagorda </placeName>with all their provisions&#8212;also
+<persName>Wilson's and Harrison's corps</persName> as soon as they arrive, (they are from 
+<placeName>Lexington </placeName>and <placeName>Louisville</placeName>) The <persName>commander of the army</persName> will of course be
+informed by you of all the orders that are issued as to the concentration of
+<persName>troops </persName>and supplies at the town of <placeName>Matagorda</placeName>&#8212; By his dispatch of <date when="1836-05-22">22 ult.</date>
+he informs you that he intended to fall back to <placeName><persName>Casey</persName>s on Colorado</placeName> which
+is only <placeName>25 miles above Matagorda</placeName>.</p>
+
+<p>I think that some prudence is necessary to avoid discord with <persName>Gen 
+Houston</persName>&#8212; any precipitate action by you, at this time, may create an 
+excitement in the <persName>army </persName>and will do it&#8212;</p>
+
+<p>The whole <placeName>country </placeName>is turning out, so far as I have heard
+Is there any news from the <persName>Yellow Stone</persName> and <persName>Williams </persName>etc
+I think I will be down as far as <persName>Perry </persName><date when="1836-07-04">day after tomorrow</date>&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p>[Addressed:] <persName>President Burnet</persName> <placeName>Velasco </placeName><persName>Mr Tennille</persName></p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

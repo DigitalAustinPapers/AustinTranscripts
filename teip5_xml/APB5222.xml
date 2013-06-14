@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5222">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Collinsworth and Grayson, 07-09-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Collinsworth 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Grayson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Velasco, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 392-393
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-09">07-09-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Copies of letters of July 4 asking Jackson to intercede for release of Santa Anna. Understand that mediation must be on basis of independence of Texas. He and many others favor annexation to the United States, but that must follow recognition of Texan independence. Would not recognize sale of Texas by Mexico to the United States</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Velasco, July 9&#8212;1836</p>
+
+<p>Messrs <persName>Collingsworth </persName>and <persName>Grayson</persName></p>
+
+<p>Gentlemen,</p>
+
+<p>The <persName>president of Mexico, Genl. Santa Anna</persName>, who is still in <placeName>Columbia </placeName>a
+<persName>prisoner of war</persName>, has written to <persName>Gen. Jackson president of the U. S</persName>. under
+date of <date when="1836-07-04">4th instant</date>, requesting his mediation etc to terminate the war 
+between <placeName>Texas </placeName>and <placeName>Mexico </placeName>on the basis of a recognition of the independence
+of the former&#8212; he has also enclosed to <persName>Gen Jackson</persName> copies of the public
+and secret treaties of <date when="1836-05-14">14th May last</date>.</p>
+
+<p><persName>President Burnet</persName> I presume will enclose to you a copy of <persName>Gen. Santa
+Anna</persName>'s letter to <persName>Gen. Jackson</persName>, and also of his letter to <persName>Gen. Urrea</persName>. These
+papers will go to show the desire of <persName>Gen. Santa Anna</persName> to terminate the war
+<hi rend="italic">on the basis of a recognition of the independence of Texas.</hi> You are aware
+of the desire of <persName>Gen. Santa Anna</persName> that these matters should not be published
+in the <placeName>newspapers</placeName>, and of his reasons, but they can, of course, be used by
+you, in your conferences with the <persName>U. S. Govt</persName>, in as much as they have been
+sent to that <persName>Govt </persName>by <persName>Gen. Santa Anna</persName> himself.</p>
+
+<p>It was my intention to have taken <persName>Gen. Santa Anna</persName>'s letter to <persName>Gen. Urrea</persName>
+out to our army and delivered it in person to <persName>Gen. M: B. Lamar</persName>, the present
+<persName>Commander in chief</persName>&#8212;but I have not as yet been able to procure a horse,
+and am detained by other business, it was however sent on by <persName>President
+Burnet</persName> by <persName>express </persName><date when="1836-07-08">yesterday</date>&#8212; I am of the opinion that no material good
+will result from this matter. The <persName>president </persName>and <persName>Cabinet</persName>, as you are aware,
+have confidence in the engagements made by <persName>Gen. Santa Anna</persName>, in the secret
+treaty of <date when="1836-05-14">14 May</date>, and letter to <persName>Gen. Jackson</persName> of <date when="1836-07-04">4 inst</date>&#8212;but you are also
+aware, that the <persName>Army </persName>and <persName>people </persName>have not any confidence at all, and 
+consequently the same difficulties still exist, which you witnessed previous to
+your departure. These difficulties have been increased by the receipt of
+<persName>Gen. Urrea</persName>'s proclamation issued at <placeName>Matamoros </placeName><date when="1836-06-05">5th June</date>, and the resolves
+or decrees, passed by the <persName>Congress of <placeName>Mexico</placeName></persName>, declaring <hi rend="italic">null </hi>and <hi rend="italic">void </hi>any
+acts of <persName>Santa Anna</persName>'s while he is a <persName>prisoner</persName>&#8212;and much other information
+of a similar character which was received here this day&#8212; <persName>Santa Anna</persName>
+however still says that he can end the war on the basis agreed upon, 
+provided he is set at liberty&#8212;but he cannot be set at liberty without such 
+guarantees as are considered to be undoubted&#8212; <persName>Gen. Jackson</persName>'s would be of
+this character, and without it I am of the opinion nothing can be done.
+The mediation of the <persName>U. S. Govt</persName> is most desirable and important, and I
+think would end the war, but I think it important for you to bear in mind
+that the <persName>Govt of <placeName>Texas</placeName></persName>, cannot admit of such mediation (as I believe) 
+except on the basis of the independence of <placeName>Texas</placeName>, without any restrictions as<pb n="393"/>
+to what disposition is hereafter to be made of this <placeName>Country</placeName>. As a 
+<placeName>Sovereign State</placeName>, <placeName>Texas </placeName>ought to be at full liberty to remain so, or to unite with
+any one she thinks proper, without this her Sovereignty would be nominal.
+The great mass of the <persName>people </persName>wish for annexation to the <placeName>U. S.</placeName>, it is my
+wish, but I see no mode of effecting it, until <placeName>Texas </placeName>is absolutely 
+independent, unless by a quit claim from <placeName>Mexico </placeName>to the <placeName>U. S.</placeName> which is attended with
+many difficulties and objections&#8212;tho I, as an individual would waive them,
+for the sake of saving the <persName>old settlers</persName>, who have redeemed this <placeName>country </placeName>from
+the <placeName>wilderness</placeName>, from the further evils of war, or of internal dissentions, to
+which I fear this <placeName>country </placeName>is to be exposed. The interest of the <persName>Volunteers</persName>
+and <persName>new comers</persName> will also be promoted and protected by annexation to the
+<placeName>U. S.</placeName> But notwithstanding all this, many will raise objections, and strong
+ones, to any <hi rend="italic">Sale </hi>of <placeName>Texas </placeName>by <placeName>Mexico</placeName>, even to the <placeName>U. S.</placeName></p>
+
+<p>I have represented to <persName>President Burnet</persName> the importance of writing to you,
+officially, by every opportunity, and I presume it will be done&#8212;and that
+this <persName>Govt </persName>will in future not totally forget that they have representatives at
+<placeName>Washington City</placeName>, as they did do, (as I presume both of you are aware, for
+you were <persName>members of the Cabinet</persName> then) before your departure from here</p>
+
+<p>The <persName>Secretary of State Mr W. H. Jack</persName> has not returned from the <placeName>Neches</placeName>,
+where he went after his <persName>family</persName>, when he does, you will no doubt receive
+regular <hi rend="italic">official </hi>letters and reports of the State of Affairs here&#8212; I at least
+hope you will, for they are important at <placeName>Washington</placeName>.</p>
+
+<p>Our <persName>Army </persName>is still at <placeName>Victoria </placeName><placeName>on Guadalupe</placeName>&#8212; The whole <placeName>country </placeName>is
+turning out <hi rend="italic">en masse</hi>&#8212;no one now has any doubts of the result&#8212; There
+is no positive information that the <persName>Mexican Army</persName> has advanced to the
+<placeName>Nueces </placeName>and I think it doubtful whether they will advance until <date n="08-xx-1836">next month</date>,
+or <date n="09-xx-1836">September</date>, owing to the want of supplies etc</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>I arrived on the <date when="1836-06-27">27th Ult</date> and saw <persName>Santa Anna</persName> on the <date when="1836-07-02">2d</date>.<date when="1836-07-03"> 3d</date>. and <date when="1836-07-04">4th.</date>
+instant the original of his letter to <persName>Gen. Jackson</persName> was sent by me, by 
+<persName>express</persName>, from <placeName>Columbia </placeName>to <persName>Gen Gains </persName>and I presume will reach <persName>Washington</persName>
+before this does&#8212; The duplicate is in the hands of <persName>President Burnet</persName>&#8212;</p>
+
+<p><persName>S. F. A</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

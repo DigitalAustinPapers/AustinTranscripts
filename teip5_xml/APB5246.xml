@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5246">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>General Gaines to Stephen F Austin, 08-04-1836</title>
+            <author>
+                <persName>General Gaines</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-16">08-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters Western Department, Camp Sabine</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Columbia, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 410-411
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-08-04">08-04-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">No authority to guarantee Treaty of Velasco. Would use good offices if requested by Mexican and Texan military commanders jointly</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Hd. Qrs. Western Department</placeName></p>
+
+<p<placeName>Camp Sabine</placeName>, <date when="1836-08-04">August 4 1836</date></p>
+
+<p>Sir&#8212;</p>
+
+<p>I received on the <date when="1836-07-27">27th </date>your letter of the <date when="1836-07-04">4th of July</date>, with the packet 
+refered to addressed to the <persName>President of the <placeName>United States</placeName></persName>, which I on the <date when="1836-07-30">30th
+</date>forwarded by an <persName>Officer</persName>. Having reason to believe the <persName>President </persName>will be at
+<placeName>Nashville Tenne</placeName>. in time to meet the packet at that place, the <persName>bearer </persName>of it
+was directed to go thither,&#8212;where he will either find the <persName>President</persName>, or
+learn where it is likely he may be met with, on his journey to <placeName>Tennessee</placeName>.
+I am therefore in hopes I shall hear from him in relation to the 
+arrangement proposed, sooner than a trip to <placeName>Washington </placeName>usually requires.</p>
+
+<p>In reply to that part of your letter in which you speak of my 
+guaranteeing in the name of the <placeName>united States</placeName> the fulfilment of a Treaty entered into
+with the distinguished <persName>General Santa Anna</persName>, the <persName>President of Mexico</persName>, while
+a <persName>prisoner of war</persName>, by the <persName>Government of <placeName>Texas</placeName></persName>, I have to regret that I have
+not in my present instructions from the <persName>President of the <placeName>United States</placeName></persName> 
+sufficient authority to enable me to make such a guarantee.<pb n="411"/></p>
+
+<p>Nevertheless should the <hi rend="italic"><persName>General in chief of the Mexican army</persName>, operating
+</hi>or preparing to <hi rend="italic">operate against <placeName>Texas </placeName>unite with the <persName>President Santa Anna</persName>
+</hi>in an arrangement with the high Civil and military authorities of Texas, the
+<persName><placeName>United States</placeName> military commander</persName> here, viewing <placeName>Mexico </placeName>and <placeName>Texas </placeName>as
+friendly neighboring powers, would, at their request, extend to the public
+functionaries of both <persName>Governments</persName>, in the vicinity of this <placeName>frontier</placeName>, 
+whatever acts of humanity, or courtecy, might be desired by them, consistently
+with or not forbidden by the laws of <placeName>Nations</placeName>&#8212;or the Laws or Regulations
+of the <placeName>united States</placeName>.</p>
+
+<p>The present moment appears to be propitious for action towards the
+attainment of a durable peace between the contending parties, and the 
+arrangement suggested by you, if it can be made in accordance with the
+views which I have just now expressed, may save an immense waste of
+blood and treasure on both sides.&#8212; Whilst a continuance of war even
+for a few months longer would lay the foundation for endless feuds and
+bloody conflicts between the <hi rend="italic">civilized inhabitants of this section of 
+<placeName>America</placeName></hi>&#8212;whose vital interests call aloud for <hi rend="italic">peace concord</hi>&#8212;and if possible a
+close alliance, firm and durable as the Rocks which form the basis of our
+greatest mountains!</p>
+
+<p>Hoping to be able soon to address you more explicitly upon this 
+subject, I am with great respect your most obdt. servt.</p>
+
+<p><persName>Edmund P. Gaines</persName></p>
+
+<p>To <persName>General S. F. Austin</persName> <placeName>Columbia, Texas</placeName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

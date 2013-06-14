@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5241">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>John P Austin to Stephen F Austin, 07-29-1836</title>
+            <author>
+                <persName>John P Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-15">08-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Col. Lewis
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 407-409
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-29">07-29-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Conditions in Mexico. Texas dinner in New York. Reports of statements of Senator Preston concerning Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New york</placeName> <date when="1836-07-29">July 29, 1836</date></p>
+
+<p>My dear <persName>Cousin</persName>,</p>
+
+<p><persName>Col. Lewis</persName> tells me he leaves <date when="1836-07-30">in the morning</date> on his return, and offering
+to take letters. I will not omit so good an opportunity to write. I only
+received yours from <placeName>Baltimore </placeName>advising of your being then on your way to
+<placeName>Texas</placeName>. Where we since learn, through the <placeName>papers </placeName>of your safe arrival, and
+should be pleased to hear from under your own hand of the State in which
+you find the affairs of the <placeName>Country</placeName>. So Contradictory are the accounts that
+reach us. All however agree that <placeName>Texas </placeName>has More to fear from internal
+dissensions, or want of harmony than from the <persName>Mexicans</persName>. I however trust
+all will work right in the End&#8212; If we can Credit the accounts of late
+Very Cruz Packet, there is no truth in the late reported March of a Strong
+force against <placeName>Texas</placeName>. A <persName>Passenger </persName>States he saw a person just before sailing
+direct from the <persName>Mexican army at <placeName>Matamoras</placeName></persName>&#8212;only Eleven days&#8212;left
+there&#8212;<date when="1836-06-22">22d June</date>, at which time <persName>Urrea </persName>was still there. And said person
+gave it as his opinion that the <persName>Mexicans </persName>would not again Enter <placeName>Texas</placeName>.&#8212;
+One of <persName>Fannin</persName>gs Men Came <persName>passenger </persName>in above Packet.&#8212; <persName>Joseph H. 
+Sophan</persName>, a native of <placeName>New Orleans</placeName>&#8212;and gives a horrid picture of the Massacre<pb n="408"/>
+of <persName>Fanning and his Men</persName>. The particulars as given by him were published
+in last <placeName>Evenings Star</placeName>. I sent you a paper in todays Mail Care <persName>Mr Bryan</persName>.
+I also enclose the Statement Cut from the <placeName>paper</placeName>. It Should be translated
+into Spanish for the special benifit of <persName>Santa Anna</persName> and his <persName>officers</persName>, for if
+they have any feelings, which we must very much doubt that they have of
+humanity&#8212;This bloody affair as related by <persName>Sophan </persName>is Enough to Make
+their hearts Sicken and give them little hope of Mercy at the hands of the
+<persName>Texians</persName>, but a proof that too much has already been shown them.&#8212;The
+Packet brings dates from the <persName>City of Mexico</persName> to <date when="1836-06-26">26th June</date> and <placeName>Vera Cruz</placeName>
+to <date when="1836-07-01">1st July</date>, At which time there does not appear any revolutionary 
+Movements to any Extent, but from private&#8212;letters was hourly looked for. I
+will cut out of the papers and Enclose such news as I think will interest
+you. I also forward you files of papers Via <placeName>New Orleans</placeName>. Some of Which
+May reach you. A dinner was got up here a few days since in Very 
+handsome Style, by the <persName>freinds of <placeName>Texas</placeName></persName> in honour of the Honble: <persName>Col. Preston</persName>,
+<persName>Genl. Hamilton&#8212;of <placeName>South Carolina</placeName></persName>&#8212;<persName>Genl. Ripley of <placeName>Louisiana</placeName></persName>, and other
+distinguished persons, invited as guests, who have taken a Conspicuous
+Stand in favor of the Cause of <placeName>Texas</placeName>&#8212; The first were very Eloquent and
+<persName>Col. Preston</persName> gave it as his opinion that the Independence of <placeName>Texas </placeName>would
+be acknowledged on the opening of the next <persName>Congress </persName>and that it would
+become annexed to the <placeName>United States</placeName>, For said he fate has so fixed it and
+Man Cannot Change it. He further stated that had he not been Confident
+<persName>Genl. Jackson</persName> would have brought forward the Subject of Independence
+the last session he would have moved its acknowledgement and insisted
+upon Yes or No. etc etc etc.&#8212; I wish you Could have heard him he was
+all in all for <placeName>Texas </placeName>as [well as] <persName>Genl. Hamilton</persName> who was ready and offered
+up himself should the Cause require it. <persName>Col. Lewis</persName> Can give you 
+particulars which can best interest You. He addressed the Company Much to the
+purpose as also did <persName>Genl. Swartwout</persName>&#8212;the tried friend of <placeName>Texas</placeName>, who 
+presided. In fact there was best feeling and the party was large&#8212;I should
+think at least One hundred, and that feeling all for <placeName>Texas</placeName>&#8212; Our Mutual
+friend <persName>Treat </persName>will no doubt write you fully and give you all the news of the
+day&#8212;and no One more Competent&#8212;I therefore refer to his letters and to
+the <persName>bearer </persName>of this <persName>Col. Lewis</persName> who can also give you Much interesting 
+information.&#8212; Your <persName>friends </persName>here are all well and hope the time may not
+be far distant when they will have you again among them. My <persName>wife </persName>is on
+a Visit to brother <persName>Dall</persName>'s <placeName>Baltimore </placeName>to attend the Wedding of his <persName>Daughter</persName>
+<persName>Henrietta</persName>. Engaged since you was here. I think she was on here at the
+time you was at her <persName>father</persName>s and that you did not see her. she was I know
+very desirous to see you and returned home in hopes to see you at her<pb n="409"/>
+fathers, she is very pretty and interesting, A very great favorite with
+the Gentlemen,</p>
+
+<p>Our little daughter <persName>Maria Louise</persName> grows finely and to us daily more 
+interesting and not now so afraid of <persName>Strangers </persName>as when you was here. <persName>Mrs.
+Kip</persName> and Myself and Child the only ones at home&#8212;<persName>Miss Grosvenor</persName> [is in]
+the <placeName>Country</placeName>&#8212;If present all would I know [certain]ly unite in their kindest
+remembrances I have been thus particular for I can assure you we all
+take a lively interest in your welfare, and I beg you will omit no 
+opportunity when your time will permit to let us hear from you&#8212;</p>
+
+<p>On the <date when="1836-07-15">15th Next&#8212;July</date>&#8212;I paid <persName>William Dall</persName> your Due bill for five
+hundred Dollars, with Interest from <date when="1835-05-02">May 2/35</date> to <date when="1836-07-10">July 10/36</date> at the rate
+of 6 %, making thirty five&#8212;Dollars 66/100 Int. Together $535 66/100.
+Say Five hundred and Thirty five Dollars, Sixty six Cents. Which Amount
+I have placed to your <persName>debitors </persName>a/current.</p>
+
+<p><persName>Jno. P. Austin</persName></p>
+
+<p>[Addressed:] To <persName>Genl. Stephen F. Austin</persName> <placeName>Texas </placeName>Fav'r <persName>Col. Lewis</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

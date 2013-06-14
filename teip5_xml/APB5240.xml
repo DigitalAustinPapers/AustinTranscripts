@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5240">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George Fisher to Stephen F Austin, 07-28-1836</title>
+            <author>
+                <persName>George Fisher</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-15">08-15-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 406-407
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-28">07-28-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-15" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Giving encouraging reports from Mexico</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>pr <placeName>Passaic New Orleans</placeName> <date when="1836-07-28">28 July 1836</date></p>
+
+<p><persName>Genl. S. F. Austin</persName> <placeName>Texas</placeName></p>
+
+<p>Dr Sir</p>
+
+<p>I embrace this opportunity to Convey you the latest news from <placeName>Mexico</placeName>
+Via the different <placeName>Ports</placeName>. From <placeName>Matamoras </placeName>a particular friend of mine
+(<persName>American</persName>) writes me that <persName>V. Fernandez</persName> is about giving a grito for the
+Constitution of <date n="xx-xx-1824">24.</date>&#8212; <persName>Col. Franco. Garray</persName> was sent via <placeName>Vera Cruz</placeName> by water,
+(Chartering a Vessel to that effect) to <placeName>Mexico </placeName>to concentrate the plan, and
+accelerate the business <persName>Genl. Gomez Pedraza</persName> to be placed at the <persName>head of
+the Administration</persName>.&#8212; <persName>Six Cherokee Chiefs</persName> were in negotiation, with their
+<persName>Interpreters</persName>, with <persName>Genl. Urrea</persName>, to war against <placeName>Texas</placeName>, the <placeName>land </placeName>and Cattle
+of the <placeName>Texians </placeName>was promised them in Case of success,&#8212;<persName>Govrnt </persName>issued an
+order to take <persName>Santa Anna</persName> <persName>prisoner </persName>and to be tryed as a <persName>Traitor</persName>, <persName>Genl 
+Filisola</persName> is Summoned to <placeName>Mexico </placeName>to stand his trial by Court Marshal, for having
+obeyed <persName>Santa Anna</persName>s orders when a <persName>prisoner</persName>, evacuating <placeName>Texas</placeName>&#8212; There
+are about <persName>4000 men</persName> <persName>Mexicans</persName>, strong in <placeName>Matamoros</placeName>, but in Such a wreched
+Condition that they will not be able to undertake the Campaign against
+<placeName>Texas </placeName>before 2 or 3 months&#8212; <persName>Col. Ugartechea</persName> is in Commission by <persName>Urrea </persName>to
+arrange the <placeName>Camp between Reynosa and Matamoros</placeName> Where the <persName>Body guard
+of the chiefs</persName> is encamped about 30 or <persName>40 Men</persName>.&#8212; <persName>Captn. Teal</persName> has been 
+retaken by a <persName>Corporal </persName>and <persName>4 Men</persName>, after his leaving <placeName>Matamoros </placeName>with <persName>Genl.
+Urrea</persName>s passport, he having "librado ordenes Secretas," as usual and
+brought back and placed in Close Confinement.&#8212; My <persName>Correspondent </persName>Says
+as his Opinion is they (<persName>foreigners</persName>) will have to take shortly <persName>french </persName>leave
+from the <persName>Country</persName>.&#8212; <persName>Col. Cuevitas</persName> is at the <placeName>Brazos</placeName>, and in favor of
+"<date n="xx-xx-1824">1824.</date>"</p>
+
+<p>"<placeName>Tuspan</placeName>" ready to give a Grito and Second the one given in "<placeName>Orizaba</placeName>"&#8212;-
+The <placeName>pamplet </placeName>"<persName>Santa Anna</persName>'s trial" printed in <placeName>Mexico </placeName>came via that <placeName>port </placeName>to
+a <persName>friend </persName>of my th[r]ough a respectable house, I saw the Print and 
+accompanying letter.&#8212; See translations in english and french in the accompany-
+ing "Bee" of to day&#8212;it shall follow in the "<placeName>Correo Atlantico</placeName>."&#8212; The<pb n="407"/>
+letter from <persName>Tornell </persName>to <persName>Filisola</persName>, see "Bee" of <date when="1836-07-26">26th inst</date> Came also through
+the same Channel&#8212;</p>
+
+<p>"<placeName>Vera Cruz</placeName>" is pronounced for <date n="xx-xx-1824">"24" </date>and <persName>Genl Quintanar</persName> with about <persName>200
+Veterans</persName> besieged in the <placeName>Convent of Santo Domingo</placeName>. <persName>Perote </persName>is about going
+to give a "grito," and "<placeName>Puebla</placeName>" to follow.<persName> Dn. Cosme Furlong ex 
+Governor</persName> of that State is at the head.&#8212;<persName>Genl Manl. Rincon</persName> is the actual 
+<persName>Governor </persName>and <persName>Comandte Gral of that <placeName>State</placeName></persName>.&#8212;</p>
+
+<p>The exiled <persName>Mexicans </persName>here have Made a Movement.&#8212; <persName>Doct Portes</persName> is
+gone to <placeName>Tampico </placeName><persName>Col. Montero</persName> and <persName>Capt. Pinzon</persName> to <placeName>Vera Cruz</placeName>.&#8212; <persName>Col
+Felipe Camara</persName> to <placeName>Yucatan</placeName>&#8212;<persName>Mexia </persName>and <persName>Peraza </persName>are yet here and only 
+waiting for orders, and getting every thing ready.&#8212;but I am Confident he will
+not get at the helm, for <persName>M.</persName> and him do not g. well.&#8212; <persName>Mexia </persName>assured me
+this morning yet that Should he get at the <persName>head of the Military</persName>, he will not
+war against <placeName>Texas</placeName>, and in the <persName>Counsels of the Nation</persName> he will be for 
+recognizing it as an <placeName>independent Nation</placeName>.&#8212; <persName>Viesca </persName>and <persName>Irala </persName>are gone to 
+<placeName>Cincinnati </placeName>a few days Since.&#8212; No more News&#8212;old Story again;</p>
+
+<p>I am of opinion the <persName>President of the <placeName>U.S States</placeName></persName> will shortly recognize
+the Independence of <placeName>Texas </placeName>in which Case you Must have <persName>Diplomatic Agents
+in <placeName>foreign Countries</placeName></persName>.&#8212; You know I am a <persName>Candidate </persName>for the <persName>Consulship
+of this <placeName>Port</placeName></persName> and hope when you get to be the <persName>President of <placeName>Texas</placeName></persName>, You will
+bear in mind your friend&#8212;</p>
+
+<p><persName>George Fisher</persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

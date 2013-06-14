@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5185">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mary Austin Holley to Stephen F Austin, 06-01-1836</title>
+            <author>
+                <persName>Mary Austin Holley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-08">08-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 361-363
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-06-01">06-01-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Invites Austin to come and (encourage?) "emigrants." His flag painted on silk. Four hundred or 500 men ready to go to Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington</placeName>, <date when="1836-06-01">Wednesday, June 1st. 1836</date></p>
+
+<p>Dear <persName>Sousin</persName>,</p>
+
+<p>I have yours from <placeName>Maysville</placeName>, and hope this will be in time to meet you
+at <placeName>Louisville</placeName>. If you want <hi rend="italic">men </hi>it seems to me all important that you
+should Come here forth with. 4 or <persName>500 men</persName> are nearly ready and anxious
+to go, but neither <persName>Col: Lewis</persName>, nor <persName>Col: Wilson</persName> has yet arrived&#8212; great
+discontent and want of Confidence prevail&#8212;some have gone off in disgust&#8212;
+others will follow without some efficient Movement&#8212; Your presence would
+reanimate them. The greatest enthusiasm did exist, but the want of a head<pb n="362"/>
+is manifest. <persName>Col Lewis</persName> has been sick in <placeName>Cincinnati</placeName>&#8212;did not write for a
+long time&#8212;and now a letter says he will go <placeName>Eastward </placeName>without Coming
+here&#8212;much disappointment on account of it. <persName>Col: Wilson</persName> went to make
+arrangements for his <persName>family</persName>&#8212;was expected back a week ago&#8212;not a word
+from him&#8212;it is thought he is sick&#8212;the bad weather hinders every thing
+and every body. <hi rend="italic">A fine <persName>Company</persName></hi> in <placeName><hi rend="italic">Bourbon </hi>county</placeName> want to go, but there
+is no one <hi rend="italic">with authority</hi> to encourage them to do so. Your presence would
+do all in an instant. <persName>Capt Postlewhaite</persName> takes the <persName><hi rend="italic">Fayette </hi>Company&#8212;Ladies
+<hi rend="italic">Legion</hi></persName>. <persName>200</persName> are in <placeName>barracks </placeName>here since some weeks&#8212;others are joining&#8212;
+while some go off. There is Much Confusion. Enthusiasm Could instantly
+be kindled&#8212; Young <persName>Woolley</persName>&#8212;<persName>Gause</persName>&#8212;<persName>Rogers</persName>, and others are first rate
+young men&#8212;all enthusiasm, but somewhat depressed from the above
+Causes.</p>
+
+<p><persName>Miss James</persName> has painted your flag on silk&#8212;Sun Washington and all&#8212;it
+is beautiful&#8212;it is to be presented by <hi rend="italic"><persName>Henrietta</persName></hi>&#8212;with an appropriate speech
+written for her <hi rend="italic">by myself</hi>&#8212; <date when="1836-06-03">Friday afternoon</date>&#8212; How interesting to have
+you here! It is to be in <persName>Mrs Hart</persName>s lawn. We tried to have it to day but
+the weather has been so bad Could not be got dry. and it rains fast&#8212;
+All the <persName>Military </persName>were to parade. We tried to hurry it because some of the
+<persName>troops </persName>are to start <hi rend="italic"><date when="1836-06-02">tomorrow </date></hi>in the Car&#8212; There is an <placeName>encampment </placeName>and 
+<placeName>rendezvous </placeName>in <placeName>Shelbyville</placeName>&#8212;another is in <placeName>Louisville</placeName>&#8212;some have gone on
+there&#8212; A Letter is here from <persName>Col: Harrison of <placeName>Louisville</placeName></persName> to <persName>Col: Wilson
+</persName>wanting information about starting etc there is no one here to give it.
+<persName>Mr. Ficklin</persName> was in here just now&#8212;is trying hard to get them off&#8212;thinks it
+all important that they go quick or they will not go at all&#8212; <persName>Mr. Bryant
+</persName>followed&#8212;thinks your Coming for a single day, if you Could spare it&#8212;
+would be <hi rend="italic">effectual</hi>. They and <persName>Mr. Hunt</persName> make great exertions, as does
+<persName>Gen McCalla</persName> and others. <persName>Dr Dudley</persName> opposes all he can, as does <persName>Mr
+Wickliffe</persName>.</p>
+
+<p>I think with you about <persName>monied men</persName>. It is my experience. We must not
+look to them for generosity. None of them have come forward here except
+<persName>Mr Norton</persName> who gave $100&#8212; As to our <persName>family </persName>money matters&#8212; I see no
+hope in any quarter&#8212;so must e'en put my shoulder to the wheel a little
+longer I shall do it cheerfully in <hi rend="italic">view of the end</hi>. I have another <persName>boarder</persName>
+and can have enough. Perhaps you did not get my last letter to 
+<placeName>Washington</placeName>. I wrote you I have taken <placeName>the house adjoining mine</placeName>, making with that
+room enough. If your <persName>sister</persName>, in view of placing her <persName>daughter </persName>at <placeName>school </placeName>(at
+<placeName><persName>mr Leacock</persName>'s</placeName>, a very good one) I should be glad to have her pass the 
+<date n="Summer-1836">summer </date>with me and her <persName>family </persName>or any [others] of our <persName>Texan friends</persName>&#8212; I wrote
+<persName>Henry </persName>to that effect. He is still in <placeName>N. 0.</placeName> trying for funds. <persName>Mr Erwin</persName> has
+made already $50,000 by <placeName>Texas lands</placeName>, he has gone out to [illegible]-&#8212;
+while we lose all we have without realizing a cent. Our time will come&#8212;I<pb n="363"/>
+hope&#8212; <persName>Bradford </persName>from <persName>Fannings Corps</persName> arrived here <date when="1836-05-31">last night</date>&#8212;have not
+seen him, If you have the New Constitution of <placeName>Texas </placeName>please send or bring
+it without delay&#8212; Am closing the last chapter&#8212;terrible struggle to get the
+book out. We have a grand Close&#8212;with <persName>Houston</persName>s proclamation. <persName>Dr
+Overton of <placeName>Nashville</placeName></persName> is here. I have a parcel of clothes made up by us for
+the <persName>army</persName>&#8212;Dont know what to do with them&#8212; No proper authority to 
+receive them. I furnished the silk for the flag&#8212;<persName>Gen: McCalla</persName> the <persName>Staff </persName>and
+spear head. I have expended about $30 of my own funds for work and
+materials besides what we have done and what has been given. I have not
+a doubt but all will be well.</p>
+
+<p><persName>M A H [Mary Austin Holley.]</persName></p>
+
+<p><persName>Mr Charlton Hunt</persName> gave $100 and a horse to <persName>Col: Wilson</persName>. And was
+very active here and elsewhere. Since writing&#8212;It has been suggested that
+at the presentation of the Flag in <placeName><persName>Mrs Hart</persName>s lawn</placeName>&#8212;you being present to
+make a speech&#8212;1000$ or more might be collected You had better come.
+<persName>Gen: McCalla</persName> just came in&#8212;says come by all means. What a pity you did
+not come from, <placeName>Maysville</placeName>. he has written by this mail&#8212;</p>
+
+<p>About coming here, I have endeavored to spread out the matter before
+you&#8212; You must judge. A <persName>gentleman of family </persName>of <placeName>Herrodsburgh </placeName>brought
+his <persName>Son</persName>, a youth of 17 to put him under the especial care of some <persName>officer</persName>&#8212;
+as he <hi rend="italic">would go.</hi> Young men and boys can hardly be restrained from 
+going&#8212;they run away from their <persName>parents </persName>when they will not consent. 
+<persName>Santanna </persName>is on <placeName>Galveston Island</placeName>&#8212; <persName>Bradford </persName>says the Devil could not get him
+out&#8212; Is <persName>Mr Wharton</persName> with you&#8212; Let him come and harangue his old
+Comrades here&#8212;</p>
+
+<p>Please have this letter delivered immediately. Should <persName>Gen: A</persName> have
+passed on to <placeName>N Orleans</placeName>, please let it follow pr steamboat.</p>
+
+<p>[Addressed:] <persName>Gen: S. F. Austin</persName> <placeName>Louisville</placeName></p>
+
+<p>[Readdressed:] <placeName>New Orleans <hi rend="italic">Louisiana</hi></placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

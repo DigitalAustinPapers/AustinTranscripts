@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5228">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>W P Hill to Stephen F Austin, 07-15-1836</title>
+            <author>
+                <persName>W P Hill</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Hartford, Connecticut</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 396-397
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-15">07-15-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explaining cancellation of his authority to negotiate a half million dollar loan to Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Hartford, [Conn.]</placeName> <date when="1836-07-15">15th July, 1836</date></p>
+
+<p><persName>Gen. Stephen F. Austin</persName>,</p>
+
+<p>Sir,</p>
+
+<p>On or about the <date when="1836-06-20">20th ultimo</date>, I deposited at the <placeName>Texian Agency in New
+Orleans</placeName>, a letter directed to your address, to be forwarded to you, with
+other despatches on board the "Union," then at anchor in the <placeName>Mississippi
+River</placeName>. If you have received that letter, you are already informed that I
+was instructed by a <persName>company of Merchants in<placeName> N. York</placeName></persName>, to proceed to <placeName>Texas</placeName>,
+to negotiate with the <persName>Texian Cabinet</persName>, a loan of half a million dollars and
+that specific instructions would be sent to me at <placeName>N. Orleans</placeName>, to govern my
+movements in the negotiation. The day after writing you the said letter,
+I received from <placeName>N. York</placeName>, not the "specific instruction" I expected, but a<pb n="397"/>
+peremptory <hi rend="italic">revocation </hi>of my agency. This communication, after my letter
+of the <date when="1836-06-20">20th</date> to you placed me in an unpleasant dilemma, from which I 
+resolved to extricate myself, by returning promptly to <placeName>N. York</placeName>, and 
+demanding an Explanation, to furnish grounds for my own justification, as well as
+to engage my influence in removing any unfavorable impressions, which
+might have been made on the minds of my <persName>Employers</persName>, as to the course of
+the <persName>Texian </persName>struggle for independence. I arrived in <placeName>N. York</placeName>, the <date when="1836-07-11">11th inst</date>.
+and sought and obtained a conference immediately, with my <persName>Employers</persName>
+and received in substance, the following reasons as an apology for their
+course of proceeding- Shortly after my departure from <placeName>N. York</placeName> for <placeName>Texas</placeName>
+the armistice between the <persName>Texian government</persName> and <persName>Santa Anna</persName>, was received,
+and gave them great dissatisfaction; they being of opinion, (the <persName>Wall Street
+Money changers</persName>, are quite self-opinionated) that inasmuch as the <persName>Mexican
+Army</persName>, was completely in the power of the <persName>Texians</persName>, it should have been 
+captured and annihilated. It began to be rumored, about that time, also, that
+the <persName>Cabinet of <placeName>Texas</placeName></persName>, was preparing to release <persName>Santa Anna</persName>, and they did
+not wish to submit to the <persName>Texian Government</persName>, any propositions respecting
+a loan, until this rumor should be contradicted. I used such arguments
+and explanations in vindication of the course of the <persName>Cabinet</persName>, as occurred to>
+my mind; but the recent confirmation of <persName>Santa Anna</persName>'s intended release and
+a card published in the "Commercial Bulletin" of the <date when="1836-06-16">16th ultimo</date>, 
+dispensing with the farther aid of <persName>Volunteers from the <placeName>United States</placeName></persName>, fixed their
+determination to suspend, if not Entirely relinquish their intentions as above
+Explained. If <placeName>Texas </placeName>is wanting funds, I regret the loss of this loan. It
+would have been offered to her, not in the spirit of speculation, but from a
+pure and disinterested desire, to assist her in her glorious struggle. This
+much I have deemed it my duty to write, in defence of my own conduct-
+The attempted release of <persName>Santa Anna</persName>, has provoked a general and loud
+burst of indignant feeling throughout the <placeName>U. States</placeName>. <hi rend="italic">If he is released,</hi>
+<placeName>Texas </placeName>will be compelled to fight her own battles unaided; the last spark of
+sympathy in her behalf, will be effectually extinguished.</p>
+
+<p><persName>W. P. Hill</persName></p>
+
+<p><persName>Genl. Stephen F. Austin.</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

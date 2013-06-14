@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5214">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Andrew Jackson, 07-04-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Andrew Jackson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 380-383
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-04">07-04-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting that Jackson give Texas guarantee that Santa Anna will strive for recognition of Texas by Mexico if released. Santa Anna anxious to do so, but only Jackson's guarantee will induce Texans to release him</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia Texas</placeName> <date when="1836-07-04">July 4&#8212;1836</date></p>
+
+<p>(<placeName>On the Brazos river 12 miles above Brazoria</placeName>&#8212;)</p>
+
+<p><persName>President Andrew Jackson</persName></p>
+
+<p>Dear Sir</p>
+
+<p>The <persName>President of Mexico Genl Antonio Lopez de Santa Anna</persName>, at present
+a <persName>prisoner of war</persName> at this place, has expressed to the <persName>President and Cabinet
+of <placeName>Texas</placeName></persName>, and to <persName>Genls Samuel Houston</persName> and <persName>Thos J. Rusk</persName>, his full 
+conviction that the true interest of <placeName>Mexico </placeName>requires an immediate termination of
+the war between <placeName>Texas </placeName>and <placeName>Mexico</placeName>, on the basis of a recognition of the
+Independence of the former by the latter&#8212; He has also expressed the
+same to me in the various conversations I have had with him since my
+arrival here, The only difficulty is the <hi rend="italic">mode </hi>of effecting this desirable
+object. <persName>Genl Santa Anna</persName> has written to you on this subject under this
+date, soliciting your mediation, and I have the honor to Enclose to you
+his letter.</p>
+
+<p>Presuming that Messrs <persName>Grayson </persName>and <persName>Collinsworth </persName>have explained all the
+previous Transactions had with <persName>Genl Santa Anna</persName>, and the events connected
+therewith&#8212;The public and private Treaty of <date when="1836-05-14">14 May last</date>, copies of which
+are enclosed to you by <persName>Genl Santa Anna</persName>&#8212;the impediments which public
+opinion interposed to the release of <persName>Genl Santa Anna</persName> etc etc&#8212; I deem
+it unnecessary to occupy your time by a recapitulation of them
+The grounds taken by <persName>Genl Santa Anna</persName> for his immediate release and
+return to <placeName>Mexico</placeName>, are that without his presence and influence there, the
+independence of <placeName>Texas </placeName>will not be recognised, and the war will be renewed
+and prosecuted with redoubled vigor and acrimony; for the reasons that
+neither the <persName>Govt </persName>or <persName>people of <placeName>Mexico</placeName></persName> are sufficiently informed of the 
+Geographical situation and resources of <placeName>Texas</placeName>&#8212; The Character of her 
+<persName>inhabitants</persName>, and many other things, to Enable them to come to the conclusion
+that <placeName>Mexico </placeName>cannot retain <placeName>Texas</placeName>, and even if she could, that it would be at
+a sacrifice which no good that could be reasonably calculated on would
+justify making. He says he is fully convinced of these facts, and 
+consequently, that it is his duty as a <persName>Mexican citizen</persName> <persName>and patriot</persName>, and as the <persName>head
+of that nation</persName> to say so frankly and avert farther evils from his <placeName>country</placeName>,
+by terminating an expensive and useless war.</p>
+
+<p>But that nothing could have convinced him but Experience and personal
+observation, and that nothing but his own statements and influence in the<pb n="381"/>
+<persName>congress </persName>and <persName>Cabinet of <placeName>Mexico</placeName></persName> can or will convince them&#8212; That such
+statements will be unavailing if made from here during his captivity, for
+the reason of his being a <persName>captive</persName>, for want of minute explanations which
+cannot be given in written communications, and also owing to the intrigues
+and slanders of his <persName>enemies</persName>, and of party spirit, who would endeavor to
+mislead public opinion, Excite national pride, and prejudice, and perhaps
+attempt to impugn the purity of his motives etc. He also says that it may
+Embarrass the great and magnanimous object he has in view, (I use his
+own words) which&#8212;is a recognition of <persName>Texian </persName>independence, and to build
+up a new <persName>nation </persName>here, with the cooperation of the <persName><placeName>U. S.</placeName> Govt</persName>, if the contents
+of the secret treaty of <date when="1836-05-14">14 May</date> or of his letter to you of this date should be
+published and reach <placeName>Mexico </placeName>before he does, in as much as it might be used
+by political parties to mislead public opinion, shake public confidence in
+him or create erronious impressions,</p>
+
+<p>He also says that the Elections for&#8212; <persName>President of Mexico</persName> come on in
+<date n="09-xx-1836">September next</date>, and that <persName>Genl Bravo</persName> probably may be elected, if he, <persName>Santa
+Anna</persName>, is detained here, that in this event there would be but little 
+probability of accomadating the affairs of <placeName>Texas</placeName>, for the reasons that the new
+<persName>President </persName>would probably consider it necessary to keep up the national 
+Excitement on this subject by appealing to national pride, and doing all he
+could to discredit his <persName>political enemy</persName> <persName>Santa Anna</persName> etc These in substance
+are the views taken by <persName>Genl Santa Anna</persName> on this subject</p>
+
+<p>He entered into lengthy details to Explain his reasons for being in favor
+of acknowledging the Independence of <placeName>Texas</placeName>, and the advantages that
+would result to <placeName>Mexico </placeName>and to the <placeName>U. S.</placeName> from a termination of the war etc.
+It would be extending this letter very much to repeat them all. They are
+based (as I think) on a full knowledge of the subject, and an ardent and
+patriotic desire to serve the true interest of <placeName>Mexico</placeName>, and the cause of 
+humanity by terminating an Expensive and useless war, His manner, and
+his reasoning, evinced frankness, sincerity, and Magnanimity,&#8212; He drew
+a very striking comparison between the obstinate silly, and impolitic course
+pursued by <placeName>Spain </placeName>in refusing to acknowledge the Independence of <placeName>Mexico</placeName>,
+after all hopes of conquering it had ceased, and the good of <placeName>Spain </placeName>required
+a termination of the war between them: and the prompt, frank and high
+minded course of <placeName>England</placeName>, with the <placeName>U. S.</placeName> by terminating the war of 
+Independence without delay, so soon as it was evident the public good required
+it, He hopes the Example of the latter would be followed by <placeName>Mexico </placeName>with
+respect to <placeName>Texas</placeName>, at the same time observing that if this liberal and 
+magnanimous course was adopted by <placeName>Mexico</placeName>, it would naturally be expected
+that a similar one would influence <placeName>Texas </placeName>in agreeing to some just and 
+reasonable indemnity for the losses of <placeName>Mexico </placeName>to be amicably arranged by
+negotiations under the general mediation of the U. S. etc&#8212; These 
+conversations were held with me as an individual.&#8212; I hold no office at this time<pb n="382"/>
+in this <placeName>country</placeName>. And as such they are detailed to you with the knowledge
+of <persName>Genl Santa Anna</persName>, to whom I have communicated the substance of this
+letter. On my part I could only reply by Expressing my desires to see the
+war terminated on the basis of an acknowledgment of our Independence,
+and that I had confidence in the sincerity and good faith of his declarations
+on the subject, and would use any influence I might have to bring about a
+permanent peace through the Mediation of the <placeName>U. S.</placeName> which I considered a
+decorous and safe mode of terminating the difficulty, both for <placeName>Mexico </placeName>and
+<placeName>Texas </placeName>The step taken by the <persName>president and cabinet of <placeName>Texas</placeName></persName> to liberate
+<persName>Genl. Santa Anna</persName> and send him to <placeName>Vera Cruz</placeName> forthwith, was disapproved
+of by public opinion, an excitement was the consequence and he was 
+disembarked after he had embarked to sail for <placeName>vera cruz</placeName>. The cause of this
+excitement was the want of confidence by the army and people in the 
+professions and declarations of <persName>Gen. Santa Anna</persName>&#8212;the belief that the <persName>Cabinet</persName>
+had been overreached and deceived by a misplaced confidence in him&#8212;the
+want of information as to the nature of the secret treaty with him, which
+was not published for the reasons before stated, and the want of guarantees
+for the prompt fulfilment of his promise to acknowledge our independence,
+and doubts as to his power and influence with the <persName>Congress and people of
+<placeName>Mexico</placeName></persName> to effect this object etc etc. Also, the deep feeling produced by the
+execution of <persName>Col Fannin's men</persName>, the loss of property, suffering of <persName>families</persName>
+etc etc.</p>
+
+<p>You have been called upon by the <persName>Govt, of <placeName>Texas</placeName></persName> through Messrs 
+<persName>Grayson </persName>and <persName>Collingsworth</persName>, who went on for that purpose and are now called
+upon by <persName>Gen Santa Anna</persName> to interpose your influence and mediation for the
+purpose of terminating the war between <placeName>Mexico </placeName>and <placeName>Texas</placeName>, on the basis of
+the full establishment and recognition of the independence of the latter,
+and I sincerely hope that these joint calls will be deemed sufficient to 
+justify the intervention of the <placeName>U. S.</placeName> as a mediator in this matter and that your
+intervention will be prompt and directed at once of the object of a 
+cessation of hostilities here. Your guarantee to the <persName>people of <placeName>Texas</placeName></persName> for the 
+fulfilment of the offer made by <persName>Gen Santa Anna</persName> would <hi rend="italic">produce his immediate
+release</hi>, and he says that this will end the war, as he then can exercise his
+authority and influence to take back the <persName>Mexican Army</persName> and terminate the
+whole matter by negociation before his and your terms of office expire.
+I am myself convinced of <persName>Gen. Santa Anna</persName>'s sincerity and good faith in
+this matter and I shall proceed to the <persName>Army of <placeName>Texas</placeName></persName> with the view of trying
+to allay excitements and see, whether <persName>Gen. Urrea</persName> (in case there is any mode
+of communicating with him officially by the command of our <persName>army</persName>) will by
+a solemn and formal treaty agree to withdraw his army beyond the <placeName>Rio
+Bravo</placeName> and obey the orders of <persName>Gen Santa Anna</persName> in the event of the liberation
+of the latter and his arrival at <placeName><persName>Urrea</persName>s head quarters</placeName>, <persName>Santa Anna</persName> on his
+part giving such assurances and guarantees as will satisfy our army on the<pb n="383"/>
+subject and produce confidence. I doubt however whether anything can
+be done untill <hi rend="italic">your </hi>guarantee is received here and made known. <persName>Gen.
+Santa Anna</persName> has written to <persName>Gen Urrea</persName> expressing his wishes and requesting
+him to make such an arrangement as before stated and I shall take this
+letter to the commander of our <persName>Army </persName><persName>Gen M. B. Lamar</persName>, to be used by him
+as he deems proper&#8212; I must however repeat the opinion that nothing will
+be done definitely untill your guarantee is received for the reason that I
+do not believe any thing else will satisfy public opinion here. If <persName>Gen
+Santa Anna</persName> is sincere and acting in good faith, this want of confidence
+which prevents his liberation is unfortunate, as it may be the means of
+detaining him here, untill his influence in <placeName>Mexico </placeName>is lost by the election of
+<persName>Bravo </persName>or other causes&#8212; If on the other hand he is not sincere and all his
+promises and professions are hipocritical it would be an act of perfidy and
+baseness which could not be justified on any pretext and cannot be 
+supposed possible, nor do I believe it to be possible&#8212; It would justify the
+<persName>people of <placeName>Texas</placeName></persName> in <hi rend="italic">any </hi>act of violence hereafter, and it would justify the
+<persName><placeName>U. S.</placeName> Govt</persName>, in enterposing <hi rend="italic">by force</hi> in favor of a people who had been thus
+deceived, more especially when <persName>Santa Anna</persName>'s letter to you of this date is
+considered and brought into public view as it would be in the event of his
+treachery. For these reasons I shall act in this matter on the basis that he
+is sincere and in good faith, and endeavor to stop the advance of <persName>Urrea </persName>and
+procure a cessation of hostilities, altho I have but very little prospect of
+success without your guarantee. If <persName>Urrea </persName>refuses to do as <persName>Santa Anna</persName> has
+requested him in his letter, nothing of course will be done&#8212;</p>
+
+<p>I arrived at <placeName>Velasco</placeName>, the<placeName> present seat of Govt</placeName>, on the <date when="1836-06-27">27th ult</date>. and at this
+place on the <date when="1836-07-02">2d instant</date>. I found this subject very much entangled, as you
+perceive&#8212;</p>
+
+<p>Our <persName>Army </persName>is at <placeName>Guadalupe </placeName>near <placeName>Victoria</placeName>, The whole <placeName>country </placeName>is turning
+out <hi rend="italic">en masse</hi> and I have no doubt the<persName> Mexican Army</persName> will be cut to pieces
+should it advance.</p>
+
+<p>It is not any doubts I have on this subject that influences me in wishing
+to embrace the opportunity of ending the war. But the <persName>inhabitants </persName>are
+suffering, they are all <placeName>in the field</placeName> or are going and a procrastinated war
+will greatly injure them.&#8212; I have been thus lengthy in order to give you
+all the information I can in regard to a matter in which you are called
+upon by both <persName>parties </persName>to enterpose your mediation, and one which is of
+deep interest to the <persName>people of the <placeName>U. S.</placeName></persName> And to the cause of liberty and
+humanity, and hope that its importance will excuse me for occupying so
+much of your time&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

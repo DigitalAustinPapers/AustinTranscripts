@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5200">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Bryan to Stephen F Austin, 06-20-1836</title>
+            <author>
+                <persName>William Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Velasco, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 369
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-06-20">06-20-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Texan finances.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Agency of Texas New Orleans</placeName> <date when="1836-06-20">June 20th 1836</date></p>
+
+<p><persName>Gen S F Austin</persName></p>
+
+<p>Dear Sir</p>
+
+<p>With this we send you a paper giving important information in regard
+to <persName>Mexican </persName>movements, I have written to the <persName>President </persName>enclosing the same
+paper, urging it upon him to instantly forward, scrip, complete the loan
+of <persName>Col Triplett</persName> or devise some other means to allow this <persName>Agency</persName>, to 
+forward instantly supplies for the <persName>people </persName>and <persName>army</persName>. No one now, would take
+the <persName>Agency </persName>for <placeName>New Orleans</placeName>, an attempt at a change would ruin all, My
+fate must rest on <placeName>Texas</placeName>, and as no one has so much at issue, no one can
+exert themselves as I shall in forwarding the material to drive the <persName>Enemy</persName>
+from the soil, I need not urge upon you, the necessity of immediate action
+on your arrival in <placeName>Texas</placeName></p>
+
+<p><persName>Wm. Bryan</persName></p>
+
+<p>P S. we have today news from <placeName>Tampico </placeName>of the grossest insults offered
+to the <placeName>United States</placeName> vessels sent there etc</p>
+
+<p>[Addressed:] <persName>Genl Stephen F Austin</persName> <placeName>on board Schr Union</placeName> or
+<placeName>Velasco Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

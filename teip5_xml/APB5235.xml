@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5235">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin, Branch T Archer, and William H Wharton to Burnet, 07-21-1836</title>
+            <author>
+                <persName>Stephen F Austin, Branch T Archer, and William H Wharton</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-13">08-13-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Burnet
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Quintana, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 399-401
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Account with Treasury Department of Texas</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-21">07-21-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-13" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Report of their mission to the United States. Financial statement</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Velasco, July 21, 1836. The report is in Garrison, Dip. Cor. Texas, as
+cited, I, 111-112, and is here omitted. The financial statement that follows
+is from the Austin Papers.]</p>
+
+<p>The <persName>Commissioners of <placeName>Texas</placeName></persName> in Account with the <persName>Treasury department
+of <placeName>Texas</placeName></persName>.</p>
+
+<p>Dr.</p>
+					
+<p><date n="xx-xx-1836">1836</date>	</p>
+				
+<p><date when="1836-01-11">Jan'y	11</date>	To Amount of Loan of <date when="1836-01-11">11th January</date> of			
+		200.000. 10% __________________________________	$	20.000.	</p>
+
+<p><date when="1836-01-11">"	"</date>	" Donation of <persName>Yates &amp; McIntyre</persName> by <persName>Yates </persName>...		125.	</p>
+
+<p><date when="1836-01-11">"	"</date>	" Proceeds of benefit at <placeName>Camp St. Theatre</placeName> ...		150.	</p>
+
+<p><date when="1836-01-11">"	"</date>	" Nett Proceeds of Loan of <date when="1836-01-18">18 Jan'y</date>			
+		$50,000 _______________________________________		40.000.	&#8212;</p>
+
+<p>		Amount Carried forward ___________________	$	60,275.	&#8212;</p>
+
+<p>		To amount Brought forward_____________________	$	60.275.	&#8212; </p>
+
+<p>										$	60.275.	&#8212;</p>
+
+<p>		To Amount rec on loan in <placeName>New York</placeName> _________	$	 5.000.	&#8212;<pb n="400"/></p>
+
+<p><date n="xx-xx-1836">1836</date>                                                         Vouchers  	Cr</p>
+
+<p><date when="1836-01-11">Jan'y	11</date>	By Draft of <persName>Dept </persName>of <date when="1835-12-14">Decr 14, 1835</date>	
+	favor of <persName>Jerret </persName>__________________________	1	270	-</p>
+
+<p><date when="1836-01-11">"  "</date>		draft of <persName>dept</persName>. of <date when="1835-12-09">9 Decr 1835</date> 
+		favor of <persName>Bart Pajes</persName> <date n="xx-xx-1835">l835</date>__________________	2	 867	-</p>
+
+<p><date when="1836-01-11">"  " </date>       Cash paid <persName>Captain Brown of Schr 
+       liberty</persName> for <persName>Seaman</persName>'s Wages, ______________	3	200	-</p>
+
+<p><date when="1836-01-11">"  "</date> 		Cash paid <persName>F. T. Wells purser</persName> of said Schr
+		Liberty __________________________________	4	 100	-</p>
+
+<p><date when="1836-01-11">"  "</date>		Cash for Tickets at Benefit at Theatre ___	5	 150	-</p>
+
+<p><date when="1836-01-11">"  " </date>		4 do retained by <persName>Commissioners </persName>for pri-
+		vate Expenses______________________________	6	 600	-</p>
+
+<p><date when="1836-01-11">"  "</date>		Cash Paid <persName>A. Houston Quarter Master</persName>________	7	7000	-</p>
+
+<p><date when="1836-01-11">"  " </date> 	do paid for 250 Bbls Flour_________________	8	2000	-</p>
+
+<p><date when="1836-01-11">"  "</date>		do " for <persName>Jno. A. Wharton, adjutant</persName> ________	9	4000	-</p>
+
+<p><date when="1836-01-11">"  "</date>		do " <persName>F. T. Wells purser</persName> of Schr	
+		do " Liberty for outfit ___________________	10	2500	-</p>
+
+<p><date when="1836-01-11">"  "</date>		do " <persName>New Orleans Committee</persName> bal-
+		ance ______________________________________	
+<date when="1836-01-11">"  "</date>		do " due on the first outfit of <persName>Vol-
+		unteers for <placeName>Texas</placeName></persName>__________________________	11	 800	-</p>
+
+<p><date when="1836-01-11">"  "</date>		do " pd for Brass 6 pound Cannon
+		695 lbs at 30c pr__________________________	12	 208	50</p>
+
+<p><date when="1836-01-11">"  "</date>		do " Transportation of the same can-
+		non _______________________________________	13	   2	-</p>
+
+<p><date when="1836-01-14">"  14</date>		Cash pd <persName>B. Byrne</persName> purchase of Schr Ingham __	14	1000	-</p>
+
+<p><date when="1836-01-15">"  15</date>		"  " <persName>I. Bledsoe</persName> as a Compensation for serv-
+		ices to <placeName>Texas</placeName>______________________________	15	 100	-</p>
+
+<p><date when="1836-01-15">"  "</date>		" pd <persName>Jno. A. Wharton, Adjutant Genl</persName>________	16	1500	-</p>
+
+<p><date when="1836-01-20">"  20</date>		" " <persName>Capt. C. E. Hawkins</persName> for wages ad-
+		vancing <persName>Crew </persName>______________________________	17	 500	-</p>
+
+<p><date when="1836-01-20">"  "</date>  	" " <persName>Capt. I. M. Allen</persName> on <persName>Genl Houston</persName>'s
+		order for recruiting Service ______________	18	4000	-</p>
+
+<p><date when="1836-01-20">"  "</date>  	Cash pd <persName>A. Houston Quarter Mr</persName> for his de-
+		partment ___________________________________	19	7000	-</p>
+
+<p><date when="1836-01-20">"  "</date>		Cash pd <persName>Mrs. Peyton</persName>'s draft on assent of
+		<persName>Council </persName>____________________________________	20	 133	-</p>
+
+<p><date when="1836-01-21">"  21</date>		do pd <persName>G. Byrne</persName> on purchase Sch Ingham_______	21	4000	-</p>
+
+<p><date when="1836-01-21">"  " </date>		Cash pd <persName>B. T. Archer</persName>, <persName>W. W. Smith, 1st
+		Lt. Cavalry</persName>_____________________________$150	
+<date when="1836-01-21">"  " </date>		Cash pd <persName>B. T. Archer,</persName> <persName>I. D. McAlister</persName> redg
+		Service ________________________________ 150
+<date when="1836-01-21">"  "</date>		Cash pd <persName>B. T. Archer</persName> <persName>T. P. Erwin Sergeant
+		Sch. Liberty</persName> ____________________________100	22	 400	-</p>
+
+<p><date when="1836-01-21">"  "</date>		" " pd <persName>A. J. Yates</persName> Expenses to <placeName>New York</placeName>______	23	 200	-</p>
+
+<p><date when="1836-01-21">"  "</date>		" " Two manifold <persName>writers </persName>for <persName>Commissn</persName>________	24	  36	-</p>
+
+<p><date when="1836-01-21">Jan'y  21</date>	By Deposit in the <placeName>Bank of Orleans</placeName> subject to
+		the orders of the <persName>Govt, of Texas</persName> to be
+		drawn as stated in the instructions to the
+		<persName>Commissioners</persName>________________________________	25   10000	-</p>
+
+<pb n="401"/>
+<p><date when="1836-01-21">" "</date>		" deposit in said <placeName>bank </placeName>subject to the order			
+		of <persName>W. Bryan agent of <placeName>Texas</placeName></persName> to provide			
+		for flitting Schr Independence and other			
+		cash claims__________________________________	26   10000	-</p>
+
+<p><date when="1836-01-21">"  "</date>		" Cash deposited with <persName>W. Bryan agent</persName> for			
+"  "		Texas _______________________________________	27	1000	-</p>
+
+<p><date when="1836-01-21">"  "</date>		" " pd <persName>Editor of the <placeName>Bulletin</placeName></persName> for printing	28	 100	-</p>
+
+<p><date when="1836-02-09">Feby	9</date>	Cash pd <persName>Major W. P. Miller</persName> for recruiting			
+		service _____________________________________	29	 400	-</p>
+
+<p><date when="1836-02-09">"  "</date>	 	Cash paid for Printing at <placeName>Nashville </placeName>_________	30	  87	79</p>
+
+<p><date when="1836-02-25">" 	25</date>	" " " <persName>W. H. Wharton</persName> _________________________	31	 373	79</p>
+
+<p><date when="1836-02-25">"  "</date>		" " " <persName>B. T. Archer</persName> __________________________	32	 373 	79</p>
+
+<p><date when="1836-02-25">"  "</date>		" " " <persName>S. F. Austin</persName>___________________________	33	 373	13</p>
+
+<p>										   $60,275	&#8212;</p>
+
+<p>E. E.</p>
+
+<p><date when="1836-06-14">June 14</date>  By deposit with <persName>W. Bryan agent of <placeName>Texas</placeName></persName>				   345,000	-</p>
+										  
+<p><placeName>Quintana </placeName><date when="1836-07-16">July 16, 1836</date></p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

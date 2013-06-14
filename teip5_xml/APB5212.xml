@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5212">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William S. Archer to Stephen F Austin, 07-03-1836</title>
+            <author>
+                <persName>William S. Archer</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-12">08-12-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Elk-Hill, Virginia</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Velasco, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 378-379
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-07-03">07-03-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-12" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Replying to invitation to emigrate to Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Elk-Hill Va</placeName> <date when="1836-07-03">July 3d 1836</date></p>
+
+<p>Dr Sir</p>
+
+<p>On my way from the <placeName>south</placeName>, a few days ago, I met <placeName>on the Road</placeName>, My 
+Relative <persName>Doct. B. T. Archer</persName>, who informed me that you had been good enough<pb n="379"/>
+to unite with him, in a letter, to invite me to become an <persName>Emigrant </persName>to the
+beautiful <placeName>country</placeName>, with whose magnificent destinies, your name has become
+associated as a <persName>Founder</persName>. This letter, owing to the wandering life I have
+been lately leading, has not reached me, but the assurance that it has been
+written, no less binds me, not only to due acknowledgments for the favor,
+but to the expression of the gratification I have derived, from the evidence
+it affords of favorable opinion of me. This evidence I assure you that I
+appreciate highly&#8212;</p>
+
+<p>Having seen a little, and heard a great deal from authentic sources, of
+your splendid <placeName>Region</placeName>, I can not doubt that it is destined to become one of
+the most desirable portions of the Globe, <hi rend="italic">provided always</hi> (as the Law
+phrase is) that the <persName>government </persName>to be established, do not counteract the
+physical advantages, as it is the tendency of all the <persName>Governments </persName>
+established in our <placeName>Western Country</placeName> Eventually to do. Good Government can
+only be set up in the infancy and outset of states, as it never retrogrades
+from bad to good though it so often changes in the contrary directions.</p>
+
+<p>You will be united I hope and think, very speedily, with our 
+<persName>confederation</persName>, a result equally to be desired on your account and ours&#8212; But, the
+character of the <persName>state government</persName> you may form, will be matter of far
+more importance both to yourselves, and those who may be disposed to
+come among you. I take the freedom of indulging this remark, because my
+own determination in regard to Emigration will be much influenced by this
+consideration.</p>
+
+<p>I expect to be in <placeName>Texas </placeName><date n="Fall-1836">This Fall</date>, and to have the opportunity of 
+expressing in person my acknowledgments for the courtesy I have received from
+you,</p>
+
+<p><persName>Wm. S. Archer</persName></p>
+
+<p><persName>S. F. Austin Esqr</persName>.</p>
+<p>[Addressed:] <persName>Stephen F. Austin Esqr</persName> <placeName>Velasco Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
