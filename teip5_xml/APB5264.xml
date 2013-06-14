@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5264">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 09-02-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-16">08-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Victoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 428
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-09-02">09-02-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thinks he will not be elected president. Instructs Perry to build him an office where he can wind up the land business</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Victoria </placeName><date when="1836-09-02">Sepr. 2. 1836</date></p>
+
+<p>Dr <persName>Brother</persName>,</p>
+
+<p>I am still here. <persName>Archer </persName>is on the mend and I think will be able to travel
+in a few days in a wagon down to the landing where he can embark&#8212; I
+shall then proceed home&#8212; My own health is not very good, tho I have no
+severe attack of fever</p>
+
+<p>I wrote you the other day, requesting that you would put up a <placeName>cabbin</placeName>
+with two rooms for me, or if lumber and <persName>workmen </persName>can be had, a frame&#8212;
+the <placeName>log house</placeName> perhaps will be the easiest, and quickest&#8212; I need one room
+for an office or sitting room, and one for a sleeping room&#8212;</p>
+
+<p>I must make your house my <placeName>home </placeName>for a time say untill <date n="Spring-1837">spring </date>at least,
+and wish to devote the <date n="WInter-1836">winter </date>to closing and arranging all my business&#8212;
+I must have one <persName>clerk </persName>at least, and perhaps two and there ought to be three
+rooms, one for a sleeping room for the <persName>clerks </persName>and <persName>visitors</persName>&#8212;</p>
+
+<p>I also wish you to make out an order on <placeName>N. Orleans</placeName> for the necessary
+mattresses, chairs, tables etc unless they can be had without sending there
+I can sell some land and have the money ready for these purposes and
+for all the necessary supplies of provisions etc. The sooner you can get
+<persName>workmen </persName>and put up the <placeName>cabbin </placeName>etc the better&#8212; it must have a shingle
+roof with extended eves so as [to] keep the wet from driving in etc&#8212; I
+wish to get <persName>Joseph Baker</persName> to assist in closing the land business</p>
+
+<p>These arrangements are made on the supposition that I shall not be
+elected&#8212; <persName>Houston </persName>will, I am told, get all the <placeName>east</placeName>, and <placeName>Red river</placeName> now&#8212;
+Many of the <persName>old settlers</persName> who are too blind to see or understand their 
+interest will vote for him, and the army I believe will go for him, at least a
+majority of them&#8212; So that I have a good prospect of some rest this year,
+and time to regulate my private affairs, which need regulating very much.</p>
+
+<p><persName>S. F. Austin </persName>[Rubric]</p>
+
+<p>[Addressed:] <persName>Mr. James F. Perry</persName> <placeName>Peach point below Brazoria</placeName>
+<persName>Col. Le Grand</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

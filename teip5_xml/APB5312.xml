@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5312">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Samuel Houston to Andrew Jackson, 11-20-1836</title>
+            <author>
+                <persName>Samuel Houston</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Andrew Jackson
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 457-458
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-20">11-20-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Release of Santa Anna. Annexation</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>(Private)	</p>
+
+<p><placeName>Columbia Texas</placeName> <date when="1836-11-20">Nov. 20th 1836</date></p>
+
+<p>Dear Sir</p>
+
+<p><persName>Genl. Santa Anna</persName> has been released and when liberated it is his wish to
+go to <placeName>Washington </placeName>and there to consummate his pledges given to this 
+<persName>Government</persName>. <hi rend="italic">He is free</hi> and will enjoy the desired escort of <persName>Col Hockley</persName>
+<persName>Maj Wm H Patton</persName> (my <persName>former aid-de camp</persName>) and <persName>Col B. E. Bee</persName></p>
+
+<p>That his great object is to enter into such an arrangement with the 
+<persName>President of the <placeName>U. States.</placeName></persName> as will place <placeName>Texas </placeName>in the position which is desirable
+for her to enjoy I have no doubt.</p>
+
+<p>I have dispatched an <persName>accredited agent</persName> or <persName>Minister plenipotentiary </persName>to you
+which will doubtless arrive before <persName>Genl. Santa Anna</persName> can reach 
+<placeName>Washington</placeName>. My great desire is that our country <placeName>Texas </placeName>shall be annexed to the
+<placeName>U. States</placeName> and on a footing of Justice and reciprosity to the <persName>parties</persName>. It is
+policy to hold out the idea (and few there are who Know to the contrary)
+that we are very able to sustain ourselves, against any power, who are not
+impotent, yet I am free to say <hi rend="italic">to you</hi> that we cannot do it Do not 
+understand me as yielding to any unfounded apprehensions in behalf of <placeName>Texas</placeName>&#8212;</p>
+
+<p>Whenever I see that the crisis has arrived I will repair to the van of
+danger and show to the world, that I can act, and fall as a man.</p>
+
+<p>Whatever of unpleasant forebodings meet my view, is matter of great
+distress. It is not my individual hazard or difficulties that of regard but it
+is to contemplate a country so nearly redeemed that may be lossed by 
+remissness in the <persName>friends of liberty</persName> or by the want of forecast in those who
+are coordinate powers with me! To witness the fairest portion of the Globe
+cast on the hazard, more uncertain than "a die" must awaken in the patriot<pb n="458"/>
+sensations of the most lively and painful character. I look to you, as the
+friend and patron of my youth and the benefactor of mankind to interpose
+in our behalf and save us.</p>
+
+<p>Your wishes are regarded by every <persName>patriot </persName>in <placeName>Texas</placeName>, and did I not believe
+by liberating <persName>Santa Anna</persName> I was acting in accordance with your wishes, I
+might distrust the measure&#8212; as it is I feel no distrust in its propriety and
+policy!</p>
+
+<p>To you Sir, I confide the course and the measures so far as may be in
+your power of making a free and happy people mingling I hope with our
+<persName>kindred people of the <placeName>United States</placeName></persName>&#8212;</p>
+
+<p><persName>Sam Houston</persName></p>
+
+<p><persName>Genl. A. Jackson</persName></p>
+
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

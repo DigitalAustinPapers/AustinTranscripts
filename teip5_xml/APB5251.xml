@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5251">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas J Rusk, 08-09-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-16">08-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas J Rusk
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Navidad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 412-414
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-08-09">08-09-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explaining his attitude toward Santa Anna's release and disclaiming interest in Williams's land speculations</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Navidad</placeName>, <date when="1836-08-09">August 9, 1836</date></p>
+
+<p><persName>BRGR. GEN. T. J. RUSK</persName></p>
+
+<p>Dr Sir&#8212;</p>
+
+<p>I met <persName>Dr. Archer</persName> and <persName>Mr. Wharton</persName> at this place&#8212; They showed me
+your letter to the <persName>secretary of War</persName> and instructions to them, as to the 
+contemplated movement of the army against <placeName>Matamoros</placeName>&#8212; <persName>Archer </persName>requested
+me to return with them so as to combine all our efforts in support of this
+measure and I shall do so&#8212;</p>
+
+<p>It was my intention to have visited you before this, but hearing that the
+<persName>enemy </persName>had Made no move from <placeName>Matamoros </placeName>I remained at my <placeName><persName>brother in
+law</persName>s</placeName> to obtain a few days rest and recruit my health&#8212;</p>
+
+<p><persName>Dr Archer</persName> and Many others whose opinions I feel bound to respect, 
+insisted that I should be a <persName>candidate </persName>for <persName>President </persName>at the <date n="09-xx-1836">September </date>
+elections&#8212; <persName>Mr. W. H. Wharton</persName> was also of the number who requested it.
+My name is accordingly before the <persName>people</persName>&#8212; I have consented to this for
+only one reason, which is that I believe I can be of material service in 
+procuring the annexation of <placeName>Texas </placeName>to the <placeName>U. S.</placeName> should the <persName>people </persName>here wish it,
+as I have no doubt they do.</p>
+
+<p>As is usual in such cases, there no doubt are many erronious reports in
+circulation&#8212;I have heard two&#8212; One that I am interested in the land<pb n="413"/>
+speculations of <persName>Williams </persName>and others when they were at <placeName>Monclova</placeName>&#8212; This
+is utterly false&#8212;I never have been, am not, and never will be interested in
+those speculations, directly nor indirectly, and no one in <placeName>Texas </placeName>is more
+opposed to them than I am, and this I say in the nature of a rule of Action,
+so far as one can be formed from my knowledge of the subject, for the fact
+is that I never have fully understood it, untill within a few days, and I do
+not know that I understand it all yet, for these events all took place in my
+absence.</p>
+
+<p>The other report is that I have been the means of saving <persName>General Santa
+Anna</persName>. That man was saved by <persName>Gen. Sam. Houston</persName>, as you know better
+than I do, and was used by him to procure the Armistice, or arrangement
+of <date when="1836-04-22">22d. April</date> by which I am told orders were issued by <persName>Santa Anna</persName> to
+<persName>Filisola</persName>&#8212;he was also saved by the <persName>Cabinet of <placeName>Texas</placeName></persName> subsequently, and
+treaties made with him. I disapprove of all these measures-The first
+I think was almost ruinous to <placeName>Texas </placeName>for it saved the balance of the 
+<persName>Mexican Army</persName>, and the other I think was wrong in principle, and more so in
+the <hi rend="italic">mode </hi>or <hi rend="italic">manner </hi>of using <persName>Santa Anna</persName></p>
+<p>If the principle was adopted at all of using <persName>Santa Anna</persName> for the public
+good of <placeName>Texas</placeName>, on the basis of saving his life, the only use that could or
+ought to have been made of him in my opinion was with the <persName>U. S. Govt</persName>,
+and not by an armistice or a treaty&#8212; An application from <persName>Santa Anna</persName>
+to that <persName>Govt</persName>, to mediate between <placeName>Mexico </placeName>and <placeName>Texas</placeName>, on the basis of a 
+recognition of the independence of the latter, in all probability would have led
+to a correspondence on the subject between the <persName>U. S. Govt</persName>, and that of
+<placeName>Mexico</placeName>&#8212; If <persName>Santa Anna's friends or party</persName> had remained in power, they
+would no doubt have come to an arrangement through the Mediation of
+the <placeName>U. S.</placeName>&#8212; If his party had lost their influence, no good would have 
+resulted, and we should still have kept <persName>Santa Anna </persName>a close prisoner, and all
+the bad effects of attempting to liberate him by the treaty with him would
+have been avoided&#8212; I expressed this opinion to <persName>Mr Burnet</persName> and other 
+<persName>members of the Govt</persName>, and asked whether <persName>Santa Anna</persName> had written to the <persName>U. S.
+Govt.</persName>&#8212; The answer was that he had not I was at <placeName>Colombia </placeName>a few days
+afterwards and saw <persName>Santa Anna</persName>,&#8212;he said much about his desire to procure
+the mediation of the <placeName>U. S.</placeName>&#8212; I told him that no mediation would be 
+accepted by <placeName>Texas</placeName>, except on the basis of a recognition of our independence&#8212;
+he said that was the basis on which he acted and proposed to write to <persName>Gen.
+Jackson</persName>&#8212; I replyed that he ought to do so, and to state in his letter his
+firm and full conviction that <placeName>Mexico </placeName>could not continue the war with
+<placeName>Texas </placeName>etc&#8212;</p>
+
+<p>It is certainly clear that no harm can grow out of this letter, and 
+admitting that no good results, as to <placeName>Mexico</placeName>, it will evidently do good to
+<placeName>Texas </placeName>in public estimation, elsewhere, by showing to the world that the<pb n="414"/>
+proud despot of <placeName>Mexico</placeName>, acknowledges that the physical force and 
+resources of <placeName>Texas </placeName>are Sufficient to sustain herself, and that he has yielded
+the point.</p>
+
+<p>As to whether <persName>Santa Anna</persName> is sincere or not, every one will doubt or 
+disbelieve, and justly so, As regards his promises or declarations made to the
+<persName>Govt</persName>, or <persName>people of <placeName>Texas</placeName></persName>;&#8212;but, very few will believe that he would 
+attempt to make -a tool of <persName>Gen. Jackson</persName> by telling him lies under his own
+signature&#8212;The <hi rend="italic">Moral </hi>effect therefore of <persName>Santa Anna</persName>'s letter to <persName>Gen. 
+Jackson</persName> must be in favor of <placeName>Texas</placeName>, because it will be considered as a confession
+by our principal <persName>enemy</persName>, that <placeName>Texas </placeName>has the power to sustain herself&#8212; I
+wrote to <persName>Gen Jackson</persName>&#8212;my object was to try and get the intervention of
+the<placeName> U. S.</placeName> and to have <placeName>Texas </placeName>annexed to the <placeName>U. S.</placeName></p>
+
+<p>This is all I have done in this matter, and such have been the motives
+which influenced me&#8212; They are pure and disinterested. I could derive
+no benifit, but on the contrary I knew that it would injure me even to see
+<persName>Santa Anna</persName>&#8212; I disregarded that injury because I saw that it was <hi rend="italic">possible</hi>
+to do good to <placeName>Texas</placeName>, and <hi rend="italic">impossible </hi>to do harm by <persName>Santa Anna</persName>'s letter to
+<persName>Gen. Jackson</persName>&#8212; If a man who is governed by these kind of motives is to
+receive the curses of those he is laboring to serve, then I should say that
+purity of intention and disinterestedness have lost their moral influence.
+I never did approve of the principle that was adopted as to <persName>Santa Anna</persName>
+when he was first taken I think he merited death, and that the <placeName>country</placeName>
+ought not to have been compromised to save him, nor do I approve of the
+acts of the <persName>Cabinet </persName>in this, and other things, but I would not on that 
+account do any thing to overturn our <persName>civil govt</persName>. I will always resist such
+an attempt so far as I can&#8212; As a <persName>Texian </persName>I have no sympathies for <persName>Santa
+Anna</persName>, and every possible cause to hate him. My sympathies are all for
+the <persName>people of <placeName>Texas</placeName></persName> and I have labored faithfully to serve them regardless
+of myself or popularity as the past and also this <persName>Santa Anna</persName>'s letter proves.
+I shall return to <placeName>Velasco </placeName>and cooperate all I can to carry into effect the
+plan of campaign which has been adopted In doing this I shall also be
+slandered because it will be used against me by those who are opposed to
+the <persName><placeName>Matamoras </placeName>expedition</persName>, and also because it will retard my visit to the
+<persName>Army </persName>and the false reports which have been circulated against me will 
+remain uncontradicted, except by this letter which I must beg the favor of
+you to communicate to Generals <persName>Green</persName> and <persName>F. Huston</persName> and to the <persName>officers</persName>
+and <persName>men </persName>so far as you can conveniently&#8212;</p>
+
+<p>I am also very anxious to see you, the friendship we formed in time of
+my ill health before <placeName>Bexar</placeName>, is I assure you unabated on my part and
+strengthened rather than diminished by absence&#8212; I feel truly grateful to
+you for the services you have rendered <placeName>Texas</placeName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

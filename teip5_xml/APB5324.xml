@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5324">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, xx-xx-xxxx</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+                <person>
+                    <persName type="sender">
+                        Unknown
+                    </persName>
+                </person>
+
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 463
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Georaphical Notes</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date>xx-xx-xxxx</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Geographical notes by Austin.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>According to the most accurate data we can obtain the<placeName> mouth of Sabine</placeName>
+is in Latitude 29 30 north</p>
+
+<p>The point on <placeName>Red River</placeName> where the <placeName>boundary between the U. S. and Texas</placeName>
+strikes <placeName>Red River</placeName> is Lat. 33 N. which makes this <placeName>boundary </placeName>three degrees and
+a half long North and South or 243 miles&#8212;</p>
+
+<p>The <placeName>mouth of Nueces River</placeName>, by which is meant the outlet of the <placeName>Nueces
+bay</placeName> known as the <placeName>pass of <hi rend="italic">Corpus Cristi</hi></placeName> is in Lat 27 30</p>
+
+<p>The <placeName>head of Red River</placeName> is in about Lat. 34 which gives six and a half 
+degrees of Lat. equal to 451 1/2 miles&#8212; This would give 347 1/4 miles as the
+average width of <placeName>Texas </placeName>North and South.</p>
+
+<p>The <placeName>mouth of the Sabine</placeName> is about Longitude 17 west of <placeName>Washington</placeName>&#8212;
+The <placeName>pass of Corpus Cristi</placeName> is about 20 &#8212;<placeName>West of Washington</placeName>&#8212; which gives
+3 degrees of Longitude, in a direct line East and West</p>
+
+<p>The length of an East and West line on Lat. 33 from the <placeName>boundary of the
+U. S.</placeName> to the <placeName>head of Red River</placeName> is about 12 degrees of Longitude&#8212; Which
+gives seven and a half degrees of Longitude, as the average length of <placeName>Texas</placeName>
+East and West calculating the degrees of Longitude at 50 miles on an 
+average it gives 375 miles&#8212;</p>
+
+<p>according to this estimate <placeName>Texas </placeName>contains 1931021 square miles <placeName>between
+the Sabine and Nueces</placeName>, and b<placeName>etween Red River and Gulf of Mexico&#8212;</placeName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

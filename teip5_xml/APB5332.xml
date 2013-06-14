@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5332">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Merle and Company, 12-10-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Merle 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Company
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 474
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-12-10">12-10-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Certain drafts</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Colombia Decr. 10th. 1836</p>
+
+<p>Messrs <persName>John A Merle and Co. <placeName>New Orleans</placeName></persName>&#8212;</p>
+
+<p>Gentlemen</p>
+
+<p>I inclose to you a letter to <persName>Messrs Parish Gasquet and Co.</persName> of your City,
+also an unsigned draft from <persName>Col Barnard E. Bee</persName> on said house for $1800)
+one thousand eight hundred dollars&#8212; This matter appears to be in rather
+an awkward situation owing to the want of the signature of <persName>Col Bee</persName>&#8212;
+This is explained in my letter to <persName>P. G. and Co.</persName>&#8212; <persName>Col Bee</persName>'s instructions
+to them which he asured me should be given on his arrival will however
+be sufficient I presume and I hope there will be no delay in paying the
+money over to you&#8212; I am responsible for the statement I have made and
+for the money should <persName>Col Bee</persName> refuse to recognise the transaction, which I
+know he will not&#8212;</p>
+
+<p>I have drawn on you for five hundred dollars favor of <persName>G. Borden</persName> to be
+paid out of said draft on <persName>P. G. and Co</persName> The balance say $1300) one 
+thousand three hundred dollars you will please retain subject to my order</p>
+
+<p>I shall probably commence improving a <placeName>Cotton plantation</placeName> <date n="xx-xx-1837">next year</date>
+and shall necessarily need the services of a <persName>Merchant in <placeName>N. Orleans</placeName></persName>, and
+I wish to do all my business through your <placeName>house</placeName>. My brother in law
+<persName>James F. Perry</persName> will send on his crop to you shortly</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>P. S. What is the price of <persName>negros </persName>and the prospect of a rise or fall in</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

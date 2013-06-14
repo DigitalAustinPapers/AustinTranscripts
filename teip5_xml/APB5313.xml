@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5313">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Samuel Houston, 11-21-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Samuel Houston
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 458
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-21">11-21-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Recommending translation and publication of Filisola's report of the Mexican campaign in Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Department of State</placeName> <placeName>Colombia </placeName><date when="1836-11-21">Novr. 21. 1836</date></p>
+
+<p>To his <persName>Excellency Sam. Houston</persName></p>
+
+<p><persName>President of Texas</persName></p>
+
+<p>I have the honor to report to the <persName>President of Texas</persName>, that I have lately
+obtained possession of the accompanying <placeName>pamphlet</placeName>, published in the <placeName>City
+of Mexico</placeName> in the <persName>Spanish </persName>language, entitled <hi rend="italic">"Representation dirigida al
+<persName>supremo Gobierno</persName> por el <persName>General Vicente Filisola</persName> sobre la campana de
+<placeName>Texas</placeName>"</hi> (Representation directed to the <persName>Supreme Government</persName> by <persName>General
+Vicente Filisola</persName> on the campaign of <placeName>Texas</placeName>) which gives a history of the
+military movements and views of the <persName>enemy </persName>during the invasion of <placeName>Texas</placeName>
+by the <persName>Mexican Army</persName> <date n="SPring-1836">last spring</date>, that in my opinion is of importance to
+the public interests, and will be very interesting to the people in general.&#8212;
+I therefore respectfully recommend that the said <placeName>pamphlet </placeName>be translated
+into english and published in <placeName>pamphlet </placeName>form at the expense of the 
+<persName>government</persName>, for which purpose, I also respectfully recommend that this subject
+be laid before the <persName>House of Representatives</persName> by a special message in order
+that the necessary appropriations should be solicited from <persName>Congress </persName>to pay
+the expense of translating and printing&#8212;</p>
+
+<p><persName>S. F. Austin Sec. of State</persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

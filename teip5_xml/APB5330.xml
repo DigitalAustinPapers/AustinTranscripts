@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5330">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Unknown, 12-01-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 472-473
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Partnership Agreement</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-12-01">12-01-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Forming the Texas Rail Road Navigation and Banking Company</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>We the undersigned whose names are hereunto affixed, have and by
+these presents agree in joint partnership and interest and bind ourselves
+together as <persName>co-equal partners</persName> to be equally interested in a plan and project
+of a Banking and internal improvement scheme, to be called the <hi rend="italic">"<persName>Texas
+Railroad Navigation and Banking Company</persName>"</hi> which charter privilege we
+ask of the <persName>Congress of the <placeName>Republic of Texas</placeName></persName>, in the names of <persName>Branch T.
+Archer</persName> and <persName>James Collinsworth</persName>, and which charter if passed into a law,
+we obligate ourselves each to the other, to take in such other <persName>partners </persName>as
+may be agreed upon, in manner and form hereafter to be prescribed, but in
+all respects to have the same rights and privileges as ourselves in 
+proportion to the number of Shares by each respectively held.<pb n="473"/></p>
+
+<p>Given under our hands and Seals this <date when="1836-12-10">Tenth day of December One 
+thousand eight hundred and thirty Six.</date></p>
+<p><persName>B. T. Archer</persName>	Seal</p>
+<p><persName>Jams Collinsworth</persName>	Seal</p>
+<p><persName>J. Pinckney Henderson</persName>	Seal</p>
+<p><persName>Thomas F McKinney</persName>	Seal</p>
+<p><persName>S. F. Austin</persName>	Seal</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

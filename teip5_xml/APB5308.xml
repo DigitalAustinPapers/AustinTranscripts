@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5308">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas H Benton, 11-19-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas H Benton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 455-456
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-19">11-19-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Terms on which Texas wishes annexation.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Colombia Texas</placeName> <date when="1836-11-19">Novr. 19. 1836</date></p>
+
+<p><persName>Hon. T. H. Benton</persName></p>
+
+<p>Dr Sir,</p>
+
+<p><persName>Mr Wharton</persName> returns to <placeName>Washington </placeName>as the <persName>Minister plenipotentiary of
+this <placeName>Republic</placeName></persName>&#8212; The main object of his mission is the <hi rend="italic">annexation </hi>of this
+<placeName>country </placeName>to the <placeName>U.S.</placeName>&#8212; The <persName>people of <placeName>Texas</placeName></persName> expressed their wish for this
+measure at the general election in <date n="09-xx-1836">September</date>&#8212;only <hi rend="italic">ninety three</hi> voting in
+the negative in all <placeName>Texas</placeName>, and about 40 of them were persons who had just
+come to the <placeName>country </placeName>from the <placeName>U.S.</placeName> and had not any permanent interests
+here&#8212; This vote has resulted from the warm attachment of this <persName>people </persName>to
+the <placeName>country </placeName>and <persName>govt</persName>, of their nativity, and their full confidence in the
+liberality and even munificence of that <persName>Govt</persName>, as relates to the terms or
+conditions of annexation</p>
+
+<p>Our basis is an equitable reciprocity, keeping in view the claims of <placeName>Texas</placeName>
+upon the toils and sufferings of years in redeeming this <placeName>country </placeName>from the
+<placeName>wilderness</placeName>, and achieving its independence&#8212; We took up arms against
+<placeName>Mexico </placeName>to secure the right of self Govt. We consider that we have secured
+that right, and consequently expect to retain it as a state when annexed to
+the <placeName>U. S.</placeName> The <persName>population of <placeName>Texas</placeName></persName> is sufficient to become a state under the
+constitution and laws of the <placeName>U. S.</placeName> and it is therefore confidently expected
+that no objections will be made to going into a <persName>state Govt</persName>, without passing
+through the intermediate stage of a <persName>territorial Govt.</persName>&#8212; I cannot see that
+any objection can be made to this course The <persName>officers in office</persName> and laws of
+this <placeName>Republic </placeName>in force at the time of the ratification should continue untill
+the state constitution was formed and the <persName>state Govt</persName>, organized Supposing
+that the treaty of annexation should be ratified by <date n="Spring-1837">next spring</date>&#8212;Military
+possession would be immediately taken by the <placeName>U. S.</placeName>&#8212; The <persName>civil govt,</persName>
+would go on as organized at that time&#8212;A convention would meet and form
+the state constitution so as to present it to the <persName>next congress of the <placeName>U. S.</placeName></persName>
+for approval&#8212;there would be no interregnum no sudden changes of 
+<persName>officers </persName>etc There will in fact be only a change of name and we shall avoid
+all the confusion, and perhaps I should say, degradation, of descending
+from a <placeName>Free Republic</placeName>, to a <placeName>dependent Territory</placeName>, before we can be a <placeName>State</placeName>.</p>
+
+<p>As to the future subdivision of <placeName>Texas </placeName>into a <placeName>plurality of states</placeName> or 
+<placeName>territories</placeName>&#8212;equity evidently requires that it should be left intirely and 
+exclusively to the option and decision of the <persName>people of <placeName>Texas</placeName></persName></p>
+
+<p>I do not anticipate any difficulty as to the terms of annexation&#8212;we 
+expect nothing unreasonable, and have full confidence that what is equitable
+will be granted.<pb n="456"/></p>
+
+<p>I must solicit your support in this matter and that you will extend to
+<persName>Mr. Wharton</persName> such aid as may be proper</p>
+
+<p><persName>S. F. A</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

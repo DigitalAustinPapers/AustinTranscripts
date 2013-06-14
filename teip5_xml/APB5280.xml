@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5280">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Henry Austin to Stephen F Austin, 10-10-1836</title>
+            <author>
+                <persName>Henry Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-17">08-17-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New Orleans, Louisiana</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Columbia, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 434-435
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-10-10">10-10-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-17" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting compromise; with Texas creditors. Texas in English parliament. Financial crisis in the United States</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New Orleans</placeName> <date when="1836-10-10">10th Oct /36</date></p>
+
+<p><persName>Genl S F Austin</persName></p>
+
+<p>My dear Sir</p>
+
+<p>I wrote you on <date when="1836-10-07">Friday </date>since then I have had a sitting with <persName>Breedlove</persName>
+and <persName>D Mieux</persName> <persName>agents for the contractors</persName>&#8212; I apprised them distinctly that
+I had nothing to do with the <persName>Govt</persName>&#8212;but would take and deliver to you any
+distinct proposition which they might think proper to make, defining in
+terms not to be misunderstood what they understood the compromise to 
+entitle them to, and that they would consider the compromise binding if the
+govt Acceeded to those terms to pay the 180.000$</p>
+
+<p><persName>Dr Mieux</persName> stated that the issue of Scrip in conformity with the 
+compromise <hi rend="italic">without </hi>the proviso introduced by the <persName>Cabinet</persName>, that is to say with 
+liberty to locate at their own expense when they please, would be satisfactory
+but as few of the <persName>parties </persName>were here they could only make the proposition
+binding on those here and give an assurance of their belief that the others
+would concur&#8212; <persName>Dr Mieux</persName> will prepare the paper and address it to you,
+by me. As I have been denounced as a cracked brained old citizen, for
+apprising <persName>Burnet </persName>as an individual acquaintance of the impending danger of
+a total prostration of public credit, it is not proper for my name to appear
+in any public matter, but the fact that not a dollar can now be had either
+on public or private credit of <placeName>Texas </placeName>will enable any one to judge whether
+I was or not cracked brained when I anticipated this result from the course
+pursued and did what as a Citizen I was bound to do; <hi rend="italic">all in my power to
+avert it?</hi></p>
+
+<p>Nothing can resuscitate the public credit but redeeming the public faith
+by compliance with contract as compromised, The bonds of the new loan
+will not command money until confidence in the Moral integrity of <persName>Govt</persName>
+shall be restored by sound legislation.</p>
+
+<p>I have offered my best <placeName>land </placeName>at 2$ pr Acre with bond to repay the Money
+and 20 pr Ct if the <persName>party </persName>shall be disatisfied with his purchase at the end
+of 12 months I cannot get a dollar neither <placeName>up country</placeName> or here, and have
+my <persName>family </persName>unprovided</p>
+
+<p>Cracked brained or not I have taken measures to counteract the 
+impression made in <placeName>England </placeName>by the debate on <placeName>Texas </placeName>in <placeName>Parliament</placeName>, by sending to
+<persName>Mr. Gordon</persName> and the <persName>Editor of the <placeName>London Atheneum</placeName></persName> each a copy of <persName>Mrs<pb n="435"/>
+Holley</persName>s book with my view of the effect of the revolution in <placeName>Texas </placeName>upon
+<persName>British </persName>interests, they are both old <persName>correspondents</persName>&#8212;</p>
+
+<p><persName>Mr Beal</persName> and <persName>Mr Ringold</persName> come out with me whether in the Independence
+or <persName>Fannin </persName>undecided&#8212;</p>
+
+<p>you can subscribe 5,000 Ds for me to the new loan as stated in the 
+Telegra[p]h of <date when="1836-09-13">13th Sept</date> if you think proper</p>
+
+<p>There is a frightfull collaps in the circulating medium, the <placeName>Western
+Banks</placeName> will in all probability be compelled to stop before christmas and
+there are fears for the <placeName>Banks of this City</placeName> None of them discount a dollar
+but for the <persName>debtors of the Bank</persName>, Not even exchange unless the money is
+to be paid to the <placeName>Bank</placeName>, save in <placeName>N York</placeName>, best security 3 or 4 prCt pr
+Month here and there&#8212; Respectfully</p>
+
+<p><persName>H Austin</persName></p>
+
+<p>[Addressed:] To <persName>Genl. S F Austin</persName> <placeName>Columbia Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5343">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William G Hall to Stephen F Austin, 12-20-1836</title>
+            <author>
+                <persName>William G Hall</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-31">08-31-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 477-478
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-12-20">12-20-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Stock certificate. Texas Rail Road, Navigation and Banking Company
+</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>[Columbia, December 20, 1836. See Calendar.]</p>
+
+<p>Stock Certificate</p>
+
+<p><persName>TEXAS RAIL ROAD, NAVIGATION, AND BANKING COMPANY</persName></p>
+
+<p>No. 4	3100 Shares</p>
+
+<p>WHEREAS <hi rend="italic">the <persName>Congress of the </hi><placeName>REPUBLIC OF TEXAS </placeName><hi rend="italic"></persName>did, on the
+<date when="1836-12-16">sixteenth day of December, one thousand eight hundred and thirty six,</date>
+grant to </hi><persName>BRANCH T. ARCHER</persName> AND <persName>JAMES COLLINSWORTH</persName>, <hi rend="italic">and their
+<persName>associates </persName>and <persName>assigns</persName>, a Charter of Incorporation, under the name and
+style of the </hi>"<persName>TEXAS RAIL ROAD, NAVIGATION, AND BANKING
+COMPANY</persName>," <hi rend="italic">which <persName>associates </persName>are the persons signing below, and who are<pb n="478"/>
+the owners of all the stock of said institution; and who now, for the 
+purpose of carrying said Charter into effect, certify that <persName>S. F. Austin</persName> is entitled
+to Five thousand one hundred________________________________Shares, out of the </hi>FIFTY
+THOUSAND SHARES <hi rend="italic">into which the capital Stock of FIVE MILLIONS
+OF DOLLARS is divided; and that he is further entitled to Three thousand
+one hundred and twenty five Shares to be created by AN Enlargement of
+the capital Stock of the Bank, over and above </hi>FIVE MILLIONS of 
+DOLLARS, <hi rend="italic">with a proportionate interest in all the privileges granted by said
+Charter; and he is hereby placed precisely on the same footing as the
+original parties and associates in-said Incorporated Charter.</hi></p>
+
+<p>THIS CERTIFICATE SHALL BE TRANSFERABLE BY SIMPLE
+ENDORSEMENT ON THE BACK OF THE SAME, <hi rend="italic">and the <persName>holder </persName>or
+<persName>holders </persName>shall be entitled to demand and receive the same rights and 
+privileges as the original <persName>holder</persName>.</p>
+
+<p>Done in the town of <placeName>Columbia</placeName>, this <date when="1836-12-20">Twentieth day of December one
+thousand eight hundred and thirty-six</date></hi></p>
+
+<p><persName>B. T. Archer </persName> L.S.</p>
+<p><persName>Jas Collinsworth</persName> L.S.</p>
+<p><persName>J Pinckney Henderson</persName> L.S.</p>
+<p><persName>Thomas F. McKinney</persName> L.S.</p>
+<p><persName>S. F. Austin</persName> L.S.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

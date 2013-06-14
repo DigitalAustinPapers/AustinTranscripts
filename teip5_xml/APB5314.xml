@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5314">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mary Austin Holley to Stephen F Austin, 11-22-1836</title>
+            <author>
+                <persName>Mary Austin Holley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 458-460
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-22">11-22-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting lobby in Washington to work for annexation of Texas</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington</placeName>, <date when="1836-11-22">Nov: 22. 1836</date>.</p>
+
+<p>Dear Sir,</p>
+
+<p><persName>R. A. Ferguson Esq,</persName> already in the employ of the <persName>government</persName>, and 
+favorably known to you, has been for some time in this place, and of course we<pb n="459"/>
+have [had] many conversations on the present crisis of <persName>Texan </persName>affairs. He
+has used his time well and won over to our cause many influential 
+characters before luke warm or violently opposed. Among these are <persName>Robert 
+Wickliffe Esq.</persName> who would never listen to any one else, is now eloquent about 
+justice, liberal principles etc. <persName>Chilton Allen Esq,</persName> who wanted information
+sent for <persName>Mr Fergusson</persName>&#8212;and having obtained it, became warmly 
+interested:&#8212; <persName>President Coit</persName>, <persName>Judges Hicky</persName> and <persName>Robertson </persName>and others are also
+through his influence much interested for <placeName>Texas</placeName>. We have had a sort of
+consultation the result of which is we think it <hi rend="italic">necessary </hi>that a well 
+qualified <persName>agent </persName>duly authorized should be forthwith sent to <placeName>Washington</placeName>, to 
+resist, on whatever grounds, opposition to the vital question&#8212;<hi rend="italic">recognition </hi>and
+<hi rend="italic">annexation</hi>; and we think <persName>Mr Fergusson</persName> the person best qualified for this
+commission</p>
+
+<p>These qualifications are a clear, strong intellect, prompt and powerful, in
+speaking or writing, a profound knowledge of law and politics&#8212;the 
+present state of <persName>parties</persName>&#8212;with a thorough acquaintance with the <persName>leaders </persName>of the
+dominant one&#8212;having been an <persName>Editor</persName>, corresponding <persName>secretary </persName>etc.&#8212;
+possessing their confidence. He has written to <persName>Mr Van Buren</persName> and visits <persName>Col.
+Johnson</persName> today, to secure their influence. He is devoted heart and soul to
+<placeName>Texas</placeName>&#8212;sees what she needs and wants but authority and means to render
+her further survice.</p>
+
+<p>Should a <persName>commissioner </persName>be appointed&#8212;you for instance&#8212;as I hope&#8212;he
+would gladly cooperate with you. Holding a ready pen, as well as fluent
+tongue, he could reply to misrepresentations in <placeName>papers </placeName>of the day before
+they had a chance to effect serious mischief.</p>
+
+<p>I give you in these opinions, not only my own, but those of <persName>Mr Allen</persName>,
+who is an influential <persName>member of Congress</persName> from <placeName>Clark County</placeName> and knows
+well the value of such service. He urges strenuously the measure&#8212;as does
+<persName>Mr Crittenden</persName> and others. <persName>Mr Allen</persName> does not stop here&#8212; He insists that
+<hi rend="italic">I</hi> also should be there: that my knowledge of the subject and my 
+acquaintance with the <persName>Northern delegation</persName> from whom alone there is 
+danger&#8212;would effect more than any thing else; and flattered me to that degree
+that could I afford to appear there in the style my ambition would demand,
+I should not fail to present myself at <hi rend="italic"><placeName>court </placeName></hi>with my two <persName>nieces </persName>as 
+<hi rend="italic">credentials&#8212;a pretty, fair</hi> representation that could not fail to make an 
+impression on the hearts, if not on the heads, of <persName>bachelor diplomatics</persName> Seriously,
+if you come on why can not we be your <hi rend="italic"><persName>attaches</persName></hi>? <persName>Emily </persName>is in <placeName>New York</placeName>
+and could join us. I would sacrifice a <hi rend="italic">league </hi>to accomplish so grand an
+object. Nothing is wanting but <hi rend="italic">cash</hi>.</p>
+
+<p>I am the more interested in the success of <persName>Mr Fergusson</persName> because from
+me came his first suggestion of joining the <persName>Texan ranks</persName>, and because he
+does so much credit to the cause to which he has so warmly attached
+himself.<pb n="460"/></p>
+
+<p>We are all very well, and pray fervently for your prosperity and 
+happiness&#8212;in other words&#8212;for the entire success of <placeName>Texas</placeName>.</p>
+
+<p><persName>Mary Austin Holley</persName></p>
+
+<p><persName>S: F: Austin Esq</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

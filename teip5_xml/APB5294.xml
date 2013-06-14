@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5294">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Joseph Ficklin, 10-30-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Joseph Ficklin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Peach Point, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 441-444
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-10-30">10-30-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Conditions in Texas. Explaining why no more volunteers are needed</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Peach Point</placeName> near <placeName>Brazoria </placeName><date when="1836-10-30">Oct. 30th 1836</date></p>
+<p><persName>Jos. Ficklin</persName></p>
+<p>My dear Sir</p>
+<p>I have recd, several letters from you, and I fear you have accused me of
+neglect in not answering them sooner, As an apology I have to say that
+on my arrival at <placeName>Velasco</placeName>, (<placeName>mouth of Brazos</placeName>) on <date when="1836-06-27">27 June </date>I was called up the
+country on important business, and was in motion the whole of <date n="07-xx-1836">July </date>and
+<date n="08-xx-1836">August</date>&#8212; The <date when="1836-08-30">last of August</date> I was taken sick, with fever, at the <placeName>head
+quarters of the <persName>Army </persName>at Victoria on Guadalupe</placeName> and with difficulty reached
+this place (the residence of my <persName>brother in law</persName> <persName>Mr James F. Perry</persName>) I have
+had a severe attack, but am now convalescent, tho dispeptic to a great 
+degree, and so debilitated that I am barely able to get about&#8212;<pb n="442"/></p>
+
+<p>There have been some few local or isolated excitements produced 
+principally by the various constructions that were put upon some of the acts of
+the march Convention, which have no doubt been greatly magnified abroad,
+but they have all terminated&#8212; The <persName>administration of Genl. Houston</persName> has
+entered upon its duties under the most favorable auspices, and the utmost
+harmony, and union prevails in all the <persName>departments </persName>and also in the 
+community at large&#8212; The <persName>Santa Anna</persName> excitement (as it was called) I believe
+is <hi rend="italic">dead</hi>&#8212;when I arrived in June it was at its extreme point, and there was
+a strong disposition to take him to the army and <hi rend="italic">court martial</hi> him&#8212; I
+opposed this measure by every means in my power, and in consequence soon
+drew upon myself the hatred of most of the <persName>army </persName>and the ill will of a large
+portion of the community&#8212; All that however was temporary&#8212;it has
+passed away. What might be considered an act of retributive justice, <hi rend="italic">at the
+time <persName>Santa Anna</persName> was taken, on the field of battle, before</hi> The <placeName>country </placeName>was
+compromised by receiving him as a <persName>prisoner of war</persName>, and treating with him;
+would evidently have been quite the reverse <hi rend="italic">afterwards</hi>&#8212; This at least
+was the view I took of it, and this is the view which <persName>Congress </persName>and the <persName>people</persName>
+now take of it&#8212; That dreadful excitement consequently entirely subsided
+The <persName>volunteer </persName>excitement as it was called, has also entirely subsided, so
+that we have union and harmony in <placeName>all quarters</placeName>&#8212;</p>
+
+<p>I pass to another subject which is purely individual and only interesting
+to myself&#8212; On my arrival in <placeName>Orleans </placeName>in <date n="06-xx-1836">June </date>on my way home I met with
+Messrs <persName>Collinsworth</persName> and <persName>Grayson</persName>, the <persName>new commissioners or 
+representatives of <placeName>Texas </placeName>to <placeName>washington City</placeName></persName>&#8212; These gentlemen were direct from
+<placeName>Velasco</placeName>, the then <placeName>seat of Government</placeName> and stated that in all probability there
+would be no more hostilities in <placeName>Texas </placeName>until late in the <date n="Fall-1836">fall</date>, that provisions
+and supplies were scarce, that it was doubtful whether <persName>volunteers </persName>would
+be needed immediately, that the sickly season was coming on etc. What
+these gentlmen said, they believed to be <hi rend="italic">facts </hi>and subsequent events have
+positively proved that they <hi rend="italic">were facts</hi>, for altho a report came on afterwards
+of the advance of the <persName>Mexican army</persName> and the <persName>govt</persName>, here acted upon it, and
+called out the <placeName>country </placeName><hi rend="italic">en masse</hi>, it was erroneous, the <persName>mexican forces
+</persName>never moved from <placeName>Matamoros </placeName>towards <placeName>Texas </placeName>and have not been able to
+move&#8212;</p>
+
+<p>Under these circumstances I was asked by some of the <persName>volunteers in 
+<placeName>Orleans</placeName></persName>, and amongst the rest by some from <placeName>Lexington</placeName>, what was the news
+from <placeName>Texas</placeName>&#8212; I of course, could only state what the above named 
+<persName>commissioners </persName>direct from their <persName>Govt</persName>, stated I did so, as it was my duty to do
+if I said anything, and for so doing I have understood I have been censured,
+and accused of <hi rend="italic">discouraging </hi>the <persName>volunteers </persName>etc. My motives and those of
+<persName>Collinsworth </persName>and <persName>Grayson </persName>have been misconstrued,&#8212;our object, clearly
+and evidently was to <hi rend="italic">benefit </hi>the <persName>volunteers</persName>, by informing them of the true<pb n="443"/>
+situation of things in <placeName>Texas</placeName>, to avoid disappointment and discontent when
+they reached there. In all my acts and conversations while in the <placeName>U. S.</placeName> I
+endeavored to be very cautions in holding out high or exaggerated 
+inducements of immediate profit, or personal comforts to <persName>volunteers</persName>&#8212; I 
+considered it to be a matter of consciencious duty to do so, in order not to
+excite expectations&#8212;which I had no doubts would not be fully realized&#8212;
+I recollect that I was asked some where (either at <placeName>Louisville </placeName>or <placeName>Lexington</placeName>
+I believe) whether <persName>volunteers </persName>would receive league <placeName>tracts of land</placeName>, besides
+their bounty, and that I replyed, I had no instructions or authority as 
+<persName>commissioner</persName>, to promise any thing of the kind, which was the fact&#8212; my 
+uniform rule has been to state <hi rend="italic">facts </hi>the plain truth so far as I was informed,
+and to try and operate upon the <hi rend="italic">judgement </hi>and the <hi rend="italic">sound moral principles</hi>
+of the heart rather than upon the passions, or any momentary excitement or
+a mere passing enthusiasm, which, altho wild and unbounded for a time,
+too often ends in the oposite extreme of disappointment, disgust and even
+hostility&#8212; I have [been] censured for pursuing this course I feel I
+should have <hi rend="italic">deserved </hi>censure, had I pursued a different one, for besides the
+evils that would result to the <persName>volunteers </persName>themselves from too sanguine
+hopes, those which this <placeName>country </placeName>would suffer from a large body of 
+disappointed and enraged men, would be incalculable as what has already 
+transpired on a small scale has sufficiently demonstrated&#8212; such evils in fact
+are more to be dreaded [than] our common <persName>enemy </persName>I have also been told
+I have been accused of not treating our <persName><placeName>Lexington </placeName>friends</persName> with sufficient
+attention etc&#8212; This has mortified me very much for I do not merit it&#8212;
+I have no house, not a roof in all <placeName>Texas</placeName>, that I can call my own&#8212; The only
+one I had was burnt at <placeName>San Felipe</placeName> during the late invasion of the <persName>enemy</persName>,
+I make my home where the business of the country calls me There is none
+here at the farm of my <persName>brother in law</persName> who only began to open this place
+three years ago, and is still in the primitive log cabbins and wild shrubbery
+of the forest&#8212; I have no farm, no cotton plantation, no income, no money,
+no comforts&#8212; I have spent the prime of my life and worn out my 
+constitution in trying to colonize this <placeName>country</placeName>. Many persons boast of their
+300 and <placeName>400 leagues</placeName> acquired by speculation without personal labor or the
+sacrifice of years or even days, I shall be content to save <placeName>twenty leagues</placeName>
+or about nineteen [ninety] thousand acres, <hi rend="italic">acquired very hard and very
+dear indeed</hi>. All my wealth is prospective and contingent upon the events
+of the future, what I have been able from time to time to realise in active
+means, has gone as fast as realised, and much faster (for I am still in debt
+for the expences of my trip to <placeName>Mexico </placeName>in <date n="xx-xx-1833">1833</date> -<date n="xx-xx-1834">34 </date>and <date n="xx-xx-1835">35</date>) where my health
+and strength and time have gone, which is in the service of <placeName>Texas </placeName>and I am
+therefore not ashamed of my present poverty. In this situation what 
+attentions could I have offered to any one? I only saw <persName>Capt. Poslethwaite</persName> for<pb n="444"/>
+a moment and expected to see him again at the <placeName>head quarters of the <persName>army</persName></placeName>
+where I was just starting and understood he was going, I met him coming
+out of <placeName><persName>President Burnett</persName>s office</placeName>, and offered him my services if they could
+be useful. I never saw <persName>Col Wilson</persName>&#8212; I held no office; had no office, had
+no power, and was then unpopular with the <persName>army </persName>and many others, on 
+account of the <persName>Santa Anna</persName> excitement etc I mention these things to you&#8212;
+they are not for publication, far from it my only object is to inform my
+old and esteemed and dearly cherished friends of the <hi rend="italic">facts </hi>so far as relates
+to myself&#8212; As to other matters I have nothing to say, for I have had no
+participation in them&#8212; I must say however that great injustice has been
+done to <placeName>Texas </placeName>in some respects&#8212;no doubt from misconceptions&#8212; 
+Denunciations of a bitter and abusive character, especially when made against a
+whole community and that too under very peculiar circumstances, 
+generally carry upon their face, a sufficient and satisfactory answer I deeply
+most deeply regret that any difficulty or dissatisfaction should have 
+occured with the <persName>volunteers</persName>&#8212; it is a misfortune, but it ought not, and 
+certainly cannot injure the cause of this <placeName>country</placeName>. Please to remember me to
+my old <persName>friends</persName>. I hope before <date n="03-xx-1837">March </date>the <placeName>U. S.</placeName> flag will wave all over
+<placeName>Texas</placeName>, God grant it may</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>A Copy. <persName>M A Bryan</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

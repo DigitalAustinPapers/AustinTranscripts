@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5304">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to James F Perry, 11-11-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 453
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-11">11-11-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting certain investments</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><date when="1836-11-11">Nov. 11. 1836</date>&#8212;</p>
+
+<p>Dr <persName>Brother</persName></p>
+
+<p><persName>McKinstre </persName>has a very likely <persName>negro </persName>27 years of age, healthy and a good
+<persName>field hand</persName>&#8212; he has ran away owing to a terrible whipping <persName>Mc</persName> gave him
+the other day, but I believe has no very bad habits&#8212; he asks twelve 
+hundred dollars cash&#8212; I have an idea of buying him&#8212;what do you think of
+the price&#8212; if I take him will send him to you untill I need him</p>
+
+<p>There are 3 mules here at $100 a piece, I have not seen them, <persName>Austin</persName>
+says they are large and young&#8212; I am told there are some Mexican chairs
+leather bottom of the kind called Poltrona, to be sold out of the prizes&#8212;
+I want one of them and one would suit <persName>Emily</persName>, they are easy chairs to sit
+on or sleep in&#8212;</p>
+
+<p>There are also some Mexican mats you ought to buy some of them&#8212;
+they are very good for floors and very neat; quite a nice article, that is
+if they are of the kind I mean wove fine with variagated colours. You may
+perhaps see some other things that will suit you, and you ought to go to
+the sale.</p>
+
+<p>you might perhaps buy or receive in payment of debts Govt, paper&#8212;
+you will need some to pay Taxes which will be high&#8212;</p>
+
+<p>I have bought a pony and send you the mule which you can keep as a
+work mule untill I need him&#8212; <persName>Collinsworth </persName>brings very favorable news
+as to our admission into the <placeName>U. S.</placeName> thinks we shall be admitted this winter
+if we push this matter I think I shall take a house at <placeName>Brazoria </placeName>and divide
+my time between that and this&#8212; I can get no house here for the land
+business</p>
+
+<p>My health is improving very slowly</p>
+
+<p>Love to <persName>Emily</persName>; tell her not to fret about any thing&#8212;all is,going well&#8212;
+There will probably be some <persName>Mexican </persName>cruiser on the <placeName>coast</placeName>, but no invasion&#8212; all is revolution in the <placeName>interior of Mexico</placeName>&#8212; <persName>Santa Anna</persName> is to
+remain for the present</p>
+
+<p>Be very cautious in talking about what I say to you&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+<p>[Addressed:] <persName>Mr. James F. Perry</persName> <placeName>Peach Point</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

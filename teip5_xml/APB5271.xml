@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5271">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Gail Borden, Jr to Stephen F Austin, 09-19-1836</title>
+            <author>
+                <persName>Gail Borden, Jr</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-16">08-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 431
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-09-19">09-19-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning the land business; papers from Nacogdoches</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia </placeName><date when="1836-09-19">19th- Sept 1836</date>.</p>
+
+<p>Dear <persName>Friend</persName>&#8212;</p>
+
+<p>Yours of this date is before me and I hasten to answer</p>
+
+<p>I am this moment been informed by <persName>Capt Baker</persName> that Drs. <persName>Miller </persName>and
+<persName>Peebles </persName>have returned from <placeName>Nacogdoches</placeName>, the latter having brought on the
+public papers&#8212; What is going to be done with them&#8212; I presume 
+however, he will keep them till the meeting of <persName>Congress</persName>.</p>
+
+<p>If <persName>Congress </persName>is held at this place a room will be very difficult to obtain
+for the present. I am in hopes, however you can have an opportunity to
+look over and regulate the papers&#8212; It would have been done before if
+I had had a <persName>Spanish Scholar</persName>&#8212; You can now be accommodated by <persName>Austin</persName>
+<persName>B </persName>and <persName>Mr. Gritton</persName>&#8212; <persName>Mr. Gritton</persName> can do more business in the spanish than
+any person I know of.</p>
+
+<p><persName>Austin </persName>will answer every purpose. <persName>Aunt Mary</persName> is at present very unwell,
+and not able to sit up You ask how she could be got down? I could send
+her in the Steam boat to any point you wish on the <placeName>Brazos</placeName>&#8212;please inform
+me where.</p>
+
+<p>I regret much to hear of your ill health, hope you will soon be 
+restored, and come up I will do every thing in my power to assist you with
+the papers, but <persName>Austin </persName>must help.</p>
+
+<p>In haste your friend</p>
+
+<p><persName>G. Borden Jr </persName>[Rubric]</p>
+
+<p>[Addressed:] <persName>Genl. S. F. Austin</persName> <placeName>Peach Point</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

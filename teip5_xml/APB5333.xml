@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5333">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Parish Gasquet and Company, 12-10-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Parish Gasquet 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Company
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, Louisiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 474-475
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-12-10">12-10-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Concerning drafts</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Colombia Texas Decr. 10. 1836</p>
+
+<p>Messrs <persName>Parish Gasquet &amp; Co</persName> <placeName>New Orleans</placeName></p>
+
+<p>Gentlemen</p>
+
+<p>On the <date when="1836-11-25">25th Ult</date> I made a contract with <persName>Col Bernard E Bee of <placeName>South
+Carolina</placeName></persName> for the sale of Land, and he gave me drafts on your <placeName>house </placeName>for<pb n="475"/>
+One thousand eight hundred dollars payable <date when="1837-01-01">first of January next</date>&#8212;seven
+thousand dollars payable <date when="1836-03-01">first of March next</date> and two thousand four 
+hundred and fifty dollars payable <date when="1836-05-01">first of may next</date>.</p>
+
+<p>In the hurry of closing this business on the departure of <persName>Col Bee</persName>, he
+omitted through mistake to sign the first mentioned drafts, that is for
+($1800) one thousand eight hundred dollars payable <date when="1836-01-01">first of January&#8212;</date>
+He handed me the drafts and contract and we both believed they were
+all signed and did not discover the mistake untill after he was gone&#8212; He
+informed me that he would instruct you to pay them, so that I have no
+doubt it will be done. I have therefore drawn on you for said sum of
+($1800) one thousand eight hundred dollars, favor of <persName>John A. Merle and
+Co.</persName> which you will please pay and charge the same to <persName>Col Bee.</persName></p>
+
+<p>I have inclosed the unsigned draft to Messrs <persName>John A Merle and Co.</persName> with
+an endorsement and am bound in property and honor to <persName>Col Bee</persName> if the
+transaction is not as I have stated in this letter&#8212;</p>
+
+<p>By the terms of the contract the sale of land is void if the money is not
+paid on the days specified.</p>
+
+<p><persName>S F Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

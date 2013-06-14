@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5316">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Hockley and Bee, 11-25-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Hockley 
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                        Bee
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 461-462
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Memorandum</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-25">11-25-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Instructions for conduct in Washington, when they arrive with Santa Anna</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><hi rend="italic">Memorandum for Cols. <persName>Hockley </persName>and <persName>Bee</persName></hi></p>
+<p><placeName>Colombia </placeName><date when="1836-11-25">Nov. 25. 1836</date></p>
+
+<p>On your arrival in <placeName>Washington City</placeName>, <persName>Gen Santa Anna</persName> will, of course,
+request an interview with <persName>President Jackson</persName>&#8212; I recommend that this 
+request should be made in writing, and that the outlines of his object in
+wishing the interview be stated&#8212;for example, after stating that he wishes
+to pay his respects etc to the<persName> President of the <placeName>U. S</placeName></persName> etc, etc, to go on and
+say that, "being fully convinced by personal observation that the true
+interests of <placeName>Mexico</placeName>, of the <placeName>U. S.</placeName> and of <placeName>Texas</placeName>, require a termination of the
+war between the latter and <placeName>Mexico </placeName>on the basis of the separation of <placeName>Texas</placeName>
+from <placeName>Mexico</placeName>, either as an <placeName>independent nation</placeName> or its annexation to the
+<placeName>U. S.</placeName> he desires to have a conversation with <persName>Gen Jackson</persName> on that subject,
+with the view of endeavoring to promote the general good of all 
+concerned"&#8212; Or some thing to that amount, that will be confirmatory of
+what he said to <persName>Jackson </persName>in his letter of <date when="1836-07-04">4th July last</date>&#8212; think that this
+course would open the way for a cordial reception, as it will be repeating
+at <placeName>Washington </placeName>where he is free, what he said to <persName>Jackson </persName>from this place on
+the <date when="1836-07-04">4 July last</date> when he was a <persName>prisoner</persName>&#8212;and thus afford the strongest 
+evidence of his good faith&#8212;</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]<pb n="462"/></p>
+
+<p>I have inclosed to <persName>Mr Wharton </persName>copies of the public and private treaties
+made by <persName>President Burnet</persName> with <persName>Santa Anna</persName></p>
+
+<p><persName>S. F. A.</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5315">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Thomas H Benton, 11-25-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Thomas H Benton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 460-461
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-25">11-25-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Santa Anna's visit to Washington</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Colombia, Texas,</placeName> <date when="1836-11-25">Novr. 25&#8212;1836</date></p>
+
+<p><persName>Hon. T. H. Benton</persName></p>
+
+<p>Dr Sir,</p>
+
+<p>I wrote you a few days since by <persName>Mr Wharton</persName>&#8212; This will be delivered
+by <persName>Col Hockley</persName> and <persName>Bernard Bee Esqr</persName>. who go on to <placeName>Washington </placeName>in 
+company with <persName>General Santa Anna&#8212;</persName></p>
+
+<p>I presume you are aware that an agreement or treaty was made with
+<persName>Santa Anna</persName> by <persName>President Burnet</persName> and <persName>Cabinet </persName>in <date n="05-xx-1836">May last</date>, in which it was
+stipulated, Amongst other things, that he should be liberated and sent to
+<placeName>Vera Cruz</placeName>&#8212; <persName>President Houston</persName> and <persName>Cabinet </persName>have determined to carry out
+the said treaty, And have accordingly liberated <persName>Gen Santa Anna</persName>&#8212;, He
+has requested that the article providing that he should be sent to <placeName>Vera Cruz</placeName>,
+should be modified so as to permit him to proceed to the <placeName>city of 
+Washington</placeName>, and he starts <date when="1836-11-26">tomorrow </date>to that city.</p>
+
+<p><persName>Gen Santa Anna</persName> expressly says that he is satisfied, the war between <placeName>Texas</placeName>
+and <placeName>Mexico </placeName>should cease, and that the independence of <placeName>Texas </placeName>should be
+recognised by <placeName>Mexico</placeName>&#8212; In as much as the <persName>people of <placeName>Texas</placeName></persName> have expressed
+their wish to be annexed to the <placeName>U. S.</placeName> he says that he, on his part, will do all
+he can to promote that object. His visit to <placeName>Washington </placeName>therefore is to have
+an interview with the <persName>President of the U. S.</persName> and to come to some kind of an
+understanding to bring the <placeName>Texas </placeName>question to an issue, On the basis of an
+acknowledgment of the independence of <placeName>Texas</placeName>, and its annexation to
+the <placeName>U. S.</placeName></p>
+
+<p>Whether any good will result from his visit depends on his good faith,
+and on his power or influence in <placeName>Mexico </placeName>to procure the consent of the 
+<persName>Mexican Govt</persName>, and <persName>Congress </persName>to the separation of <placeName>Texas</placeName>. That he is fully 
+convinced <placeName>Mexico </placeName>cannot retain <placeName>Texas</placeName>, I have no doubt&#8212;. That fact is too
+self evident for a man of his sense not to see. A continuation of the war
+therefore can only result in losses and disasters to <placeName>Mexico</placeName>, and the sooner
+it is terminated the better for that nation&#8212; He wishes the <placeName>U. S.</placeName> to mediate
+and has applied to <placeName>Gen Jackson</placeName> long since, but no attention can be paid by
+the <persName>U. S. Govt</persName>, to such an application from the <persName>President of <placeName>Mexico</placeName></persName> while
+he is a <persName>prisoner</persName>. In <placeName>Washington City</placeName> however <persName>Santa Anna</persName> will be free&#8212;<pb n="461"/></p>
+
+<p>In Short, when he reaches <placeName>Washington</placeName>, you will have a man who still
+has great influence in <placeName>Mexico</placeName>&#8212;who professes to be in favor of the 
+independence of <placeName>Texas</placeName>, or its annexation to the <placeName>U. S.</placeName> etc. You are all wise and
+experienced politicians in <placeName>Washington</placeName>, and can judge better than we can
+whether any important objects of general good to <placeName>Mexico</placeName>, the <placeName>U. S </placeName>and
+<placeName>Texas </placeName>will result from his visit to your <placeName>city</placeName>.</p>
+
+<p>I must again use the liberty, which old acquaintance and friendly 
+interest you have uniformly evinced towards <placeName>Texas </placeName>emboldens me to take,
+to solicit your advise and friendly aid in this, and all other matters 
+connected with this <placeName>country</placeName>&#8212; The true interests of <placeName>Mexico</placeName>, of the <placeName>U. S.</placeName> and
+of <placeName>Texas</placeName>, demand that the <placeName>Texas </placeName>war should cease, and that this country
+should be annexed to the <placeName>U. S.</placeName></p>
+
+<p>It will be promoting the cause of liberty, of philanthrophy and 
+humanity, to effect their objects; and if <persName>Gen Santa Anna</persName> can by his influence
+effect them, he will add to his glory, more than the conquest of nations
+could.</p>
+
+<p>Wishing you health and prosperity and hoping that one flag will soon
+cover us all I am Respectfully</p>
+
+<p><persName>S. F. Austin</persName> [Rubric]</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

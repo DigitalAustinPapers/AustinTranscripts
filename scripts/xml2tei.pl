@@ -224,11 +224,11 @@ BWB29HEREDOCTOKEN511
 	        {
 	            my $key = getPersonKey($name);
 			    $recipientsBlock .= <<SGMR29HEREDOCTOKEN511
-	                <person>
-	                    <persName type="recipient">
-	                        $name
-	                    </persName>
-	                </person>
+                <person>
+                    <persName type="recipient">
+                        $name
+                    </persName>
+                </person>
 
 SGMR29HEREDOCTOKEN511
         }        	

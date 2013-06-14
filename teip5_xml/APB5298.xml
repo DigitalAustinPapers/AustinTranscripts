@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5298">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Santa Anna to Stephen F Austin, 11-05-1836</title>
+            <author>
+                <persName>Santa Anna</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Orozimbo, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 447-448
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-05">11-05-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Explaining why he desires to visit Washington if released by the Texans</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Confidential	<placeName>Orozimbo </placeName><date when="1836-11-05">Nov 5th /36</date></p>
+<p>My much esteemed Sir,</p>
+<p>Through the channel of your <persName>Commissioners</persName>&#8212;and by my conversation
+with you on the <date when="1836-11-02">2d. inst</date>. I have manifested to you the importance of my
+visit to <placeName>Washington City</placeName>&#8212;to regulate the most effectual mode of 
+terminating the <persName>Texian </persName>Question&#8212;and as time is passing without any definitive 
+action&#8212;when it is most precious&#8212;I am desirous that you who are so deeply
+interested in the welfare of this country&#8212;should expedite the final 
+determination of this question&#8212;Using if you should deem it advisable the 
+following reason&#8212;When the treaty of the <date when="1836-05-14">14th of May</date> was entered into, it
+was based upon the principle that <placeName>Texas </placeName>should form an independent 
+nation&#8212;and should acquire a legal existence by means of the 
+acknowldgement of <placeName>Mexico</placeName>&#8212;but as that basis has been changed by the recent 
+declaration of the <persName>People of <placeName>Texas</placeName></persName> in favor of annexation to the <placeName>U. S. of the
+North</placeName>&#8212;it appears to me that the question is much simplified by this 
+declaration of the <persName>Texians</persName>&#8212;because in future&#8212;it will appertain to the <persName>cabinet
+of <placeName>Washington</placeName></persName> to regulate this matter&#8212;and a definitive treaty as is 
+desired&#8212; The mode of effecting this important object without loss of time<pb n="448"/>
+is what I hope to attain by my conference with the <persName>cabinet at <placeName>Washington</placeName></persName>,
+conciliating at the same time all interests. Convinced as I am that <placeName>Texas</placeName>
+will never reunite with <placeName>Mexico</placeName>&#8212;I am desirous on my part to improve the
+advantages which may offer, and avoid the sacrifices&#8212;which will occur&#8212;
+should an imprudent attempt be made to reconquer this <placeName>country</placeName>&#8212;which
+has hitherto proved more detrimental&#8212;than beneficial&#8212;consequently 
+reducing the <persName>Texian </persName>question to this single point the regulation of the limits
+between the <placeName>U States</placeName> and <placeName>Mexico</placeName>, which you are aware has been pending
+many years&#8212;and which may be fixed at the <placeName>Nueces</placeName>&#8212;at the <placeName>Bravo del Norte</placeName>
+or any other <placeName>boundary </placeName>it may be decided on at <placeName>Washington</placeName>&#8212;thus avoiding
+disagreeable discussions&#8212;which might delay the definite termination of
+this question&#8212;or cause a difficulty between two friendly <placeName>Nations</placeName>&#8212; This
+in substance is a plain safe and Speedy mode of terminating this important
+matter&#8212;and as all are interested, it becomes necessary that you facilitate
+my journey to <placeName>Washington </placeName>with the least possible delay</p>
+
+<p>In regard to the stipulation in the secret treaty that my journey should
+be direct to <placeName>Vera Cruz</placeName>&#8212;there should be no surprise when the reasons are
+known why I first go to <placeName>Washington City</placeName>&#8212;and in the event of sending by
+way of the latter&#8212;I would desire that Messrs. <persName>Hockley</persName>, <persName>Patton </persName>and <persName>Bee</persName>
+should accompany me&#8212;whom you can commission for that purpose should
+it meet with your approbation&#8212;</p>
+
+<p>I conclude by repeating to you what I have said in writing and verbally&#8212;
+That my name already known to the world&#8212;shall not be tarnished by any
+unworthy action; Gratitude is characteristic of me&#8212;and consequently you
+will have nothing on your part to repent of&#8212;</p>
+
+<p>To you&#8212;I owe my existence, and various other favors which are deeply
+impressed on me&#8212;and which I will endeavor to reciprocate as they so
+justly merit&#8212;</p>
+
+<p><persName>Anto L. de Santa Anna</persName></p>
+
+<p>If you have no use for <persName>Genl Jackson</persName>s letter&#8212;I will thank you to return
+it by <persName>Majr. Patten</persName>&#8212;</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

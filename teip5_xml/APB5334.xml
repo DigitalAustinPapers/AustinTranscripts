@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5334">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to John P Austin, 12-12-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        John P Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 475-476
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-12-12">12-12-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Arranging certain payments</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>&#8212;Copy&#8212;	</p>
+<p><placeName>Columbia </placeName><date when="1836-12-12">Decr&#8212; 12. 1836</date></p>
+<p><persName>John P. Austin</persName></p>
+<p>Dr. <persName>Cousin</persName>,</p>
+<p>I wrote you last month informing you that <persName>Col. Barnard E. Bee</persName> was to
+pay you five hundred and fifty dollars on my a/c to pay the money you
+advanced to <persName>Mr. Dale&#8212;</persName> I presume there will be no disappointment as
+<persName>Bee </persName>is bound by Contract to pay the money&#8212; Write to him directed to
+<placeName>Washington City</placeName> and also to the care of <persName>General James Hamilton </persName>
+<placeName>Charleston South Carolina</placeName>.&#8212; All matters are going on very well here. The
+organization of the new <persName>Govt</persName>, is complete, and all works smoothly&#8212; No
+news of the <persName>Mexicans </persName>of late date.</p>
+
+<p>Remember me to your family and all friends-</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>&#8212;Copy&#8212;	</p>
+
+<p><placeName>Washington </placeName><date when="1837-01-21">Jany 21/ 37</date></p>
+
+<p>Dr. Sir,</p>
+
+<p>I forward you a letter from the late lamented <persName>Genl. Austin</persName>&#8212;My 
+estimable friend tho of but recent acquaintance&#8212; Expecting to visit <placeName>New
+York</placeName>&#8212;I retained the letter till I saw you&#8212;, I promised I think&#8212;to pay
+you for <persName>Genl. Austin</persName> in all <date n="02-xx-1836">February </date>$550&#8212;and presume I shall, be able
+to comply&#8212; The truth is he made me promise to pay him largely on the<pb n="476"/>
+purchase in quick time&#8212;and I told him then I might have some difficulty&#8212;
+I gave him two thousand dollars which was all I had in <placeName>Texas</placeName>.</p>
+
+<p>I shall very soon be in <placeName>Charleston </placeName>however and as soon as I can consult
+with <persName>Genl. Hamilton</persName> I will write to you.&#8212;</p>
+
+<p><persName>Barnard E. Bee</persName>.</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

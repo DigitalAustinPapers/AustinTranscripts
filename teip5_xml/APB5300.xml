@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5300">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Henry Meigs, 11-07-1836</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Henry Meigs
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New York, New York</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 448-452
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-07">11-07-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting methods for negotiation with Santa Anna to quiet the Mexican claim to Texas and make way for annexation. Views on Texan boundary with Mexico</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia, Texas</placeName>, <date when="1836-11-07">Novr. 7th 1836</date></p>
+
+<p><persName>Henry Meigs Esq.</persName> <placeName>New York</placeName> (Confidential)</p>
+
+<p>My dear Sir</p>
+
+<p>I have not written to you since my return from the <placeName>U. S.</placeName> for various 
+reasons&#8212; I arrived the <date when="1836-06-27">29th [27th] June</date> and went up the country and out to<pb n="449"/>
+the <persName>army on <placeName>Guadalupe</placeName></persName>, was taken sick in <date n="08-xx-1836">august</date>, and confined all 
+<date n="09-xx-1836">September </date>and part of <date n="10-xx-1836">Oct</date>., and am now barely able to get about&#8212; I have
+just entered upon the office of <persName>secretary of state</persName>, a station which I sincerely
+hope I shall be relieved from by the speedy annexation of this <placeName>country </placeName>to
+the <placeName>U. S.</placeName> or by some other final settlement of the affairs of <placeName>Texas</placeName>&#8212; My
+constitution and health are worn out, and I wish to nurse what little 
+remnant the sixteen years of exposure and labor in this country has left me&#8212;</p>
+
+<p>I am truly happy to inform you that our internal affairs are getting on
+well&#8212; <persName>Houston </persName>has entered into the office under favorable auspices&#8212;all
+party excitements have already subsided, and public opinion has settled
+down upon one all absorbing point, which is <hi rend="italic">annexation to the <placeName>United States</placeName>
+without delay&#8212;</hi> The <persName>people</persName>, at the late general election have sanctioned
+this measure by almost an unanimous vote, and I think will not be very
+tenacious, as to the <hi rend="italic">mode </hi>of effecting this object, provided our equitable
+and just, as well as legal rights, are properly secured. Probably <placeName>Mexico</placeName>
+will not refuse to treat with the<placeName> U. S.</placeName> for a quit claim, or a final adjustment
+of limits, and thus give to <placeName>Texas </placeName>what she wants, without compromising her
+pride or prejudices by treating direct with <placeName>Texas</placeName>&#8212;or the same results may
+be attained by means of the mediation of the <placeName>U. S.</placeName> which <persName>Santa Anna</persName> has
+solicited from <persName>Genl. Jackson</persName>&#8212; Could not <persName>Santa Anna</persName> be used in this
+matter? and if he can, why not use him? I am convinced he is satisfied
+<placeName>Mexico </placeName>cannot reconquer <placeName>Texas</placeName>, nor retain it, and that it is the interest of
+<placeName>Mexico </placeName>to get rid of this troublesome <placeName>country </placeName>as soon as possible and on
+the best terms she can&#8212; I believe he would act on this basis were he in a
+situation to do so with effect&#8212; His political position in <placeName>Mexico </placeName>may 
+enable him to do much with proper management. The men now in power I
+believe are his <persName>enemies </persName>and have proscribed him&#8212;<persName>Tornel</persName>&#8212;<persName>Valencia</persName>, <persName>Bravo</persName>,
+<persName>Canalizo</persName>, and <persName>Bustamante's friends</persName>, and some of the other <persName>generals</persName>, seem
+to be struggling for power, and are jealous of each other and wish <persName>Santa
+Anna</persName> detained here as a <persName>prisoner </persName>or shot, and would do anything they could
+to induce the <persName>Texans </persName>to destroy him, at the same time keeping up 
+appearances and opperating on the <persName>subalterns </persName>and <persName>soldiers </persName>by appeals in favor of
+the captive who is popular with that class&#8212; On the other hand the 
+<persName>federalists </persName>are courting <persName>Santa Anna</persName> and have attempted to make overtures to him
+(which have not yet reached him) to use his influence in favor of that party
+by writing from here to his known and faithful personal <persName>friends </persName>in <placeName>Mexico</placeName>
+but it is also known that the <persName>leaders of that party</persName> are opposed to the release
+of <persName>Santa Anna</persName> and to his return to <placeName>Mexico</placeName>&#8212; From this it appears that
+both parties <hi rend="italic">fear </hi>him, and either would receive him as a leader rather
+than see him join the opposite side, and carry the <persName>army </persName>or a large portion
+of it with him, and rekindle the civil war again&#8212;<placeName>Mexico </placeName>needs peace and
+a stable order of things, and the nation in mass are clamorous for it and<pb n="450"/>
+dread another civil war and will be more likely to unite upon <persName>Santa Anna</persName>,
+than to split up into factions under a dozen or more local or <persName>party leaders</persName></p>
+
+<p>Under these circumstances <hi rend="italic">suppose </hi>that <persName>Santa Anna</persName> should go to 
+<placeName>Washington city </placeName>and have an interview with the <persName>President of the <placeName>U. S.</placeName></persName> come to
+a definitive conclusion as to the <placeName>Texas </placeName>question on the basis of recognition
+of our independence or on that of annexation to the <placeName>U. S.</placeName> (as he is willing
+to bind himself to do) and should from there go to <placeName>Vera Cruz</placeName>, or operate
+in <placeName>Mexico </placeName>as circumstances may require to terminate the <placeName>Texas </placeName>war and
+all other matters He distinctly and positively declares that the basis on
+which he will act, is to terminate the <placeName>Texas </placeName>war, because this country is
+lost to <placeName>Mexico </placeName>and consequently the true interests of the latter requires that
+the dispute should end without more delay or more sacrifices That the
+mode of terminating the matter is greatly facilitated by the recent 
+declaration of the <persName>people of <placeName>Texas</placeName></persName>, of their desire to be annexed to the <placeName>U. S.</placeName> in as
+much as it removes all embarrassments, so far as the <persName>people of <placeName>Texas</placeName></persName> are
+concerned to an arrangement between <placeName>Mexico </placeName>and the <placeName>U. S.</placeName> relative to 
+annexation etc. <persName>Santa Anna</persName> is useless to <placeName>Texas </placeName>so long as he is detained as
+a <persName>prisoner </persName>here, and may possibly be of service if permitted to go to 
+<placeName>Washington</placeName>&#8212; <persName>both parties in <placeName>Mexico</placeName></persName> would be well satisfied if he were to be
+shot and either would make hostile demonstrations against <placeName>Texas</placeName>, if by so
+doing his life would be jeopardized&#8212; This I believe to be pretty nearly
+the state of things in regard to this subject&#8212;the best interests of <placeName>Mexico</placeName>,
+and of the <placeName>U. S.</placeName> as well as of <placeName>Texas </placeName><hi rend="italic">demand </hi>a termination of the war and
+the annexation of <placeName>Texas </placeName>to the <placeName>U. S.</placeName>&#8212; Protracted hostilities will inevitably
+ruin all the eastern parts of the <placeName>Mexican states</placeName> or provinces of <placeName>Tamaulipas</placeName>,
+<placeName>Nuevo Leon</placeName>, <placeName>Coahuila</placeName>, <placeName>Chihuahua</placeName>, etc, for this <persName>Govt</persName>, will be compelled to
+send her <persName>army</persName>, which is accumulating, to the <placeName>other side of the Rio Bravo</placeName>
+to keep them employed&#8212; The <persName>indians </persName>will go, of their own accord to
+plunder- such a war will also place the <placeName>S. W. frontier of the U. S</placeName>. in
+such a situation as regards the <persName>Indians </persName>that it will be a source of trouble
+and expense&#8212; The opening of the <placeName>Mexican ports</placeName> to <placeName>Spain</placeName>, is another
+reason why the <placeName>U. S.</placeName> should interpose to stop this war in order to 
+counteract the <persName>Spanish </persName>influence amongst the <persName>people of <placeName>Mexico</placeName></persName> against all 
+<persName>Americans </persName>and <placeName>American </placeName>commerce&#8212;</p>
+
+<p>The <placeName>Rio Bravo</placeName> ought to be the line&#8212; If that cannot be obtained it 
+certainly should be a <hi rend="italic">sine qua non</hi> to include all the <placeName>valley of the Nueces river</placeName>
+up to its head thence westwardly along the hills or mountains to the <placeName>rio
+<hi rend="italic">Puerco </hi>or <hi rend="italic">Pecos </hi></placeName>(I believe it is called by the latter name high up, and by
+the former lower down, tho some are of opinion that they are two 
+distinct rivers, I believe however from good information that it is all one and
+the same river) which enters the <placeName>Bravo </placeName>some<placeName> 60 or 80 miles above the old
+<hi rend="italic">Precidio of Rio Grande</hi></placeName> situated at the <placeName>crossing of the upper road from
+Bexar to Monclova</placeName>&#8212; The line should then run <placeName>up this river Puerco or<pb n="451"/>
+Pecos, to its head</placeName>, including in <placeName>Texas </placeName>all its <placeName>valley on both sides</placeName>, and thence
+to the <placeName>U. S.</placeName> line at the <placeName>head of Arkansas River</placeName> so as to include in <placeName>Texas</placeName>, all
+the <placeName>valley </placeName>and waters of the <placeName>Nueces </placeName>and <placeName>Puerco</placeName>, and all the waters of the
+<placeName>Guadalupe</placeName>, <placeName>Colorado</placeName>, <placeName>Brazos</placeName>, and all <placeName>Red River</placeName> and all the waters of the
+<placeName>south side of Arkansas river west of Longitude one hundred</placeName> (which is
+the <persName>De Onis</persName> line) <placeName>between Red and Arkansas rivers</placeName>. Or in other words
+make the ridge of high land the line which divides the waters of the <placeName>Nueces</placeName>
+and <placeName>Puerco </placeName>from those of the <placeName>Bravo</placeName>, following said ridge or <placeName>mountain
+above the head of Puerco</placeName> <placeName>to the head of Arkansas</placeName>&#8212; I mention this line,
+only in the event of there being serious embarrassments to the <placeName>Bravo </placeName>as the
+line, as there may be, on account of dividing the populated parts of 
+<placeName>Tammaulipas </placeName>and <placeName>Coahuila </placeName>low down, and <placeName>Chihuahua </placeName>and <placeName>New Mexico</placeName> high
+up&#8212; The other line will take no <persName>mexican </persName>population except what 
+belongs to <placeName>Texas</placeName>, proper, such as, <placeName>Bexar</placeName>, <placeName>Goliad</placeName>, etc Money should be no
+object with the <placeName>U. S.</placeName> in this matter and <hi rend="italic">it is</hi> an object with <placeName>Mexico</placeName>. Also
+the <placeName>U. S.</placeName> might stipulate to keep the <persName>Comanche Indians </persName>quiet, who are
+dessolating the state or province of <placeName>Chihuahua</placeName>&#8212; The <persName>people </persName>of that 
+<placeName>country </placeName>would if they could, <hi rend="italic">ask </hi>the protection of the U. S. for their own Govt
+cannot protect them and they are in danger of total annihilation by the
+<hi rend="italic"><persName>Comanches </persName>and <persName>Apaches</persName></hi> A stipulation to keep those <persName>Indians </persName>quiet would
+be popular in <placeName>mexico </placeName>and in conjunction with money satisfy them for
+<placeName>Texas</placeName>&#8212;</p>
+
+<p>Where the interests of all <persName>parties </persName>demand peace, as is the case with the
+<placeName>Texas </placeName>question, I cannot see why it should be delayed&#8212; I am informed
+from a source on which I rely that <persName>Tornel the minister of war of mexico</persName>
+has said that <placeName>Texas </placeName>was lost and that the <persName>Govt</persName>, so viewed it&#8212; <hi rend="italic">Pride and
+remuneration</hi> for past losses, are all the stumbling blocks&#8212;a treaty with
+the <placeName>U. S.</placeName> Satisfies the first, and a few millions the other&#8212;</p>
+
+<p>I recommend this subject to you and hope you will do all you can to
+procure annexation to the <placeName>U. S.</placeName> without delay</p>
+
+<p>Remember me to <persName>cousin Julia </persName>and all your <persName>family</persName></p>
+
+<p><persName>S. F. Austin</persName></p>
+
+<p>A copy <persName>M Austin Bryan</persName></p>
+<p>P. S. I think no time should be lost in terminating the question of 
+annexation. Public opinion is now in favor of the measure but if it is not
+done by <date when="1837-03-04">4 march</date> next, no calculations can be made as to the consent of
+<placeName>Texas</placeName>, for the reason that new and other views, will of necessity, govern
+the policy and course of <placeName>Texas</placeName>&#8212; In short we cannot remain in suspense
+longer than <date n="03-xx-1837">March</date>, and if the question of annexation is not settled by that
+time we shall be compelled to go to work on the basis of a separate and<pb n="452"/>
+independent <placeName>republic</placeName>, and if that basis is once adopted by the <persName>people of
+<placeName>Texas</placeName></persName> it will never be abandoned&#8212; now is the time or never.</p>
+
+<p><persName>S F Austin</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

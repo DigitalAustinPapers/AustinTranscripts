@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5331">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>George W Poe to Stephen F Austin, 12-10-1836</title>
+            <author>
+                <persName>George W Poe</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-29">08-29-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Columbia, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 473-474
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-12-10">12-10-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-29" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggesting issue of Treasury notes</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Columbia </placeName><date when="1836-12-10">December 10th- 1836</date></p>
+
+<p>To the Honorable the <persName>Secretary of State</persName></p>
+
+<p>Sir</p>
+
+<p>In almost all cases a paralell may be drawn between transactions of a
+<persName>Government </persName>and those of an Individual, and the same laws of justice and
+equality govern both.</p>
+
+<p>The writer is induced to believe that the cause of the low state of the
+financial operations of this <placeName>Country </placeName>is a want of knowledge of the actual
+state of the immediate available resources of the <placeName>Country</placeName>, and a false idea
+of the magnitude of the debt</p>
+
+<p>A tax bill is before the <persName>house of Representatives</persName> which calculating the
+proceeds at a very moderate rate will produce $250,000 a revenue bill on
+Imports, which will produce $150000 and the unpaid fees on <placeName>Land</placeName>
+granted; located and unlocated, amounts to $100000 Making in all
+$500000 which will be available in less than one Year and responsibilities
+already audited amounts to $350000 and probably will by the <date when="1837-01-01">1st. of
+January 1837</date>; amount to $450000 leaving $50000 balance in favour of the
+<persName>Government</persName>.</p>
+
+<p>Without making any remarks on the establishment of a <persName>Bank </persName>or the
+probable success of our loan bill, or of the sale of Land scrip, or 
+confiscated property and public lands; or the sale of certain leagues of <placeName>land</placeName>;
+and a number of the other resources of the <persName>Government</persName>, we would simply
+suggest the propriety of permitting the Treasurer to draft countersigned
+by the Register for the different amounts in the form of Bank Notes, say
+for Five, Ten, Twenty, Fifty, One Hundred and Five Hundred Dollars, and
+these to be paid by the <persName>Treasurer </persName>on audited accounts, or the order of the
+auditor</p>
+
+<p>It is a general opinion that <placeName>Texas </placeName>is almost insolvent; that for a number
+of years she cannot pay the public debt under which she labours at present</p>
+
+<p>I have yet to learn that that debt exceeds two Millions, and the present
+population can not only pay the interest of that annually but a large 
+proportion of the principal, without relying at all on the great increase of<pb n="474"/>
+population, we shall have in a few years and they also paying their 
+proportion of the public debt and it is thought that a great portion of the 
+expenses of the first and last campaign have been audited, and if so our debt
+will prove much less than was really imagined</p>
+
+<p>A fair, clear, and lucid expose of our affairs our debts and our resources
+would do more in establishing our Credit on a firm basis than any other
+plan whatever; and by proving our abilities to pay punctually the interest
+of a loan if not the principal, we shall be enabled to borow as much as we
+want and on moderate terms</p>
+
+<p>All which is respectfully submitted</p>
+
+<p><persName>Geo. W. Poe Actg Pay Master General</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5296">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>P W Grayson to Stephen F Austin, 11-03-1836</title>
+            <author>
+                <persName>P W Grayson</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-28">08-28-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Louisville, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 445-446
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-11-03">11-03-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-28" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Thinks Jackson will delay recognition of Texas. Embarrassment caused by close relation between recognition and annexation. Thinks best way would be for United States to quiet the Mexican claim </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Louisville </placeName><date when="1836-11-03">Nov. 3. 1836</date></p>
+<p>Dr Sir</p>
+<p>I came here a few days ago, from a sort of necessity, to await further
+Communications from <placeName>Texas </placeName>if they are intended&#8212;</p>
+
+<p>On the subject of recognition I think <persName>Genl Jackson</persName> will still wait a little
+to observe the <hi rend="italic">Course and character of Civil affairs in <placeName>Texas</placeName>;</hi> this being
+the only matter at present upon which any real doubt or solicitude 
+remains; our Independence of <placeName>Mexico </placeName>being pretty generally looked upon as
+<hi rend="italic">established</hi>&#8212;</p>
+
+<p>The great misfortune of the delay to recognize consists in its bringing
+too near together, for the action on them by this <placeName>Government </placeName>of the two
+questions&#8212;<hi rend="italic">recognition and annexation</hi>.</p>
+
+<p>A <hi rend="italic">decent </hi>time you know ought to transpire after the disposition of the one
+before taking up of the other for reasons which will readily Occur to you&#8212;</p>
+
+<p>I am strongly persuaded however still, as I was many Months ago, that
+an interposition by this <persName>Government </persName>with <placeName>Mexico</placeName>, based upon <hi rend="italic">terms to
+quiet her claim to <placeName>Texas</placeName></hi> would be the safest and shortest mode of settling
+all the difficulties; (that is if recent events of which I will speak directly
+have not spoiled all the influence which this <persName>Government </persName>might otherwise
+have had with <placeName>Mexico</placeName>)&#8212; The objection with some that such a mode of
+accommodation, would be selling us to the <placeName>U States</placeName>, is altogether Nominal
+and without the least substance. It would in fact be a sensible compromise
+by an honorable <persName>third party</persName> of an unsettled question which might under the
+influence of mutual passion run on to an indefinite length and involve both
+the disputants in all manner of inconvenience loss and suffering&#8212; I think
+our <persName>Government </persName>would do well to <hi rend="italic">think </hi>of this alternative, at any rate, in
+case the expedient of <hi rend="italic">recognition </hi>and <hi rend="italic">annexation </hi>should seem likely to be
+postponed too long&#8212; In the latter Contingency instructions shd. be given
+to their <persName>Agents </persName>here, to solicit the interposition of this <persName>Government </persName>in the
+mode suggested&#8212;</p>
+
+<p>What do you think of this?&#8212; if in your opinion it deserves any 
+Consideration, please mention it to <persName>Doct. Archer</persName> that it may also receive his&#8212;
+he being as I understand a <persName>member of Congress</persName></p>
+
+<p>The recent events to which I have alluded as probably affecting the 
+influence of the <placeName>U States</placeName> with <placeName>Mexico</placeName>, are the departure of <persName>Gorostiza </persName>from
+<placeName>Washington </placeName>and the circumstancs under which it appears he left which
+were those of great dissatisfaction&#8212; There is I think no doubt he 
+required the recall of the <persName>U S troops</persName> from <placeName>beyond the Sabine</placeName>, and on that
+point found this <persName>Government </persName>immoveable&#8212;as well as on the other in regard
+to the restraining of <persName>Volunteers </persName>from going on to <placeName>Texas</placeName>&#8212; Some antici-<pb n="446"/>
+pate a rupture immediately between the two <persName>Governments</persName>&#8212; I confess I
+have no hope of it, when I consider the weakness of <placeName>Mexico </placeName>Compared
+with this <placeName>country </placeName>But who can do any thing more than guess in the dark
+about such matters?&#8212;</p>
+
+<p>I am sorry to inform you that up to the last accounts I have had on the
+subject, the Sale of Land Scrip was very dull&#8212; This is truly disheartening</p>
+
+<p>I am anxiously looking for some account of the proceedings of our 
+<persName>Congress</persName>&#8212; Every thing depends on their harmony of procedure and propriety
+of deliberation&#8212;</p>
+
+<p>Please to give my respects to <persName>Mr Perry </persName>and his <persName>family</persName></p>
+
+<p><persName>P. W. Grayson</persName></p>
+<p><persName>Genl S. F Austin</persName> <placeName>Texas</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

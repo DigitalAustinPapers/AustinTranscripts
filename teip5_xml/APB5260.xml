@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5260">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William McNair to Stephen F Austin, 08-24-1836</title>
+            <author>
+                <persName>William McNair</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-16">08-16-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">New York, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, Lousiana</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 423-424
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-08-24">08-24-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-16" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking information about his brother</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>New York</placeName> <date when="1836-08-24">Augt. 24&#8212;1836</date></p>
+
+<p>Dear Sir</p>
+
+<p>Your public duties will no doubt occupy nearly all your thoughts at
+this critical conjunction of your public affairs yet the solicitude of one
+about a <persName>Brother </persName>in the midst of danger must be my apology for asking
+your attention a few moments. I wish to enquire if you know any [thing]
+of <persName>Mr. James McNair</persName>? He may not have come to your notice, being a
+plain unassuming man, but sterling in those qualities which make a good
+citizen&#8212;industry integrity and honesty of purpose. His place is on the
+<placeName>Colorado</placeName>, near <placeName>Eagle Lake</placeName>, a little <placeName>below <persName>Wm. Alley</persName>'s ferry</placeName> and I believe
+near the place where he help'd to plant the first corn within your <placeName>colony</placeName>
+in the <date n="Spring-1822">spring of 1822</date>. But to assist you in making a little enquiry to find
+out his present condition I will briefly state that he was here <date n="Winter-1835">last winter</date>
+was a year on my invitation and return'd with Messrs. <persName>Mather </persName>and <persName>Morris</persName>,
+in the Schooner Jane Corroline (having some goods which I sent with him)
+since which time I have heard from him but twice His last letter was dated
+<date when="1836-03-03">3d of March last</date>, at <placeName>Matagorda </placeName>and stated that he was that day draughted
+into the Militia, and was to join the <persName>army </persName><date when="1836-03-04">next morning</date>. Now the Battle
+of <placeName>San Jacinto</placeName> has been fought since that and I am left to conjecture
+whether he has survived or not.</p>
+
+<p>And now, my dear Sir, as, from what I have heard of you, there is no
+person in <placeName>Texas </placeName>who I would be more likely to interest in the cause of
+humanity than yourself, I confidently trust that, the motives which dictate<pb n="424"/>
+this, finding a ready response in your bosom, you will take a little trouble
+to find out whether my <persName>Brother </persName>be alive and well, or otherwise</p>
+
+<p><persName>James </persName>being an <persName>old settler</persName> must be pretty well known along the <placeName>Colorado</placeName>
+but it is likely he is best known amongst the <persName>settlers </persName>If you would be kind
+enough to reply to this I should be very much obliged to you</p>
+
+<p><persName>Wm. McNair</persName>,<placeName> 750 Greenwich Street</placeName></p>
+
+<p>[Addressed:] <persName>General Stephen F Austin</persName> of <placeName>Texas</placeName>
+Care of <persName>Mr. James W Breedlove Collector <placeName>New Orleans</placeName></persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
