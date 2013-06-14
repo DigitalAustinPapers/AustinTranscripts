@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4991">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 10-27-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-07">06-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Port of Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 213-214
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-27">10-27-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Karankawa Indians stopped from destruction of cattle. Has made a flag, which he describes</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Port of Goliad</placeName>, <date when="1835-10-27">Oct. 27th 1835</date></p>
+<p>9 o. c. in the morning.</p>
+<p>To <persName>Gen. S. F. Austin</persName></p>
+<p><persName>Com. in Ch. of the Army of the People</persName>,</p>
+<p>Dear Sir,</p>
+
+<p>Yours of the <date when="1835-10-23">23d</date>. <persName>exs</persName>. [express] by hand of <persName>Mr. Bracken</persName>, was duly
+recd, <date when="1835-10-26">last evening</date> The information it gives is both cheering and 
+stimulating. But whilst our mutual congratulations are called for by a 
+rhetrospect of the past, whilst we indulge bright visions of the future, permit me
+to express to yourself, the lively sympathy felt by every one here, for their
+fellows, suffering so many privations, whilst contending for their rights.
+We have done, are doing, and shall continue to do, every thing in our
+power, to supply your wants, and diminish your privations&#8212;</p>
+
+<p>It was confidently anticipated when <persName>Majr. Collinsworth</persName> left for your
+<placeName>camp</placeName>, that, the teams could have been put in motion <date when="1835-10-26">yesterday</date>&#8212;but we
+found it impossible. The teams and carts below, and especially those at
+the <placeName>Mission</placeName>, had been sent to <placeName>Guardeloupe </placeName>with the <placeName>women </placeName>and <placeName>children</placeName>;
+and we have had to send there for them. However, we have succeeded in
+mustering 8 carts and waggons&#8212;all of which, will be dispatched today,
+with full freight, and the corresponding List transmitted by hand of <persName>Maj.
+Southerland</persName>, the <persName>Bearer </persName>of this letter.<pb n="214"/></p>
+
+<p>I much regret that it becomes my duty to inform you, that, the report of
+<persName>Williams </persName>and <persName>Toole </persName>having been dispatched <persName>prisoners of war</persName> to 
+<persName>Matamoros</persName>, from the <placeName>Garrison of Le Panteclan</placeName>, is now but too well confirmed,
+to admit of a doubt. They were sent off, a <date when="1835-10-18">week ago last Sunday</date>. <persName>Toole</persName>
+was in very bad health, and in preference to transportation to a distant 
+<placeName>dungeon</placeName>, there to linger out a mere fragment of existence, requested that he
+might be dispatched at once. The confirmation of this news, after the lenity
+shown to the <persName>prisoners </persName>taken here, could not fail to create a lively, and a
+strong excitement.</p>
+
+<p>The <persName>men under my command</persName> are clamorous for retaliation, either by
+clothing with suits of iron, those in <hi rend="italic">our</hi> power; or by marching immediately
+against the <placeName>garrison</placeName>, and reducing it to unconditional submission, or 
+putting it to the sword.</p>
+
+<p>I have had a <hi rend="italic">flag </hi>made&#8212;the colours, and their arrangement the same
+as the old one&#8212;with the words and figures, "Constitution of <date n="xx-xx-1824">1824</date>," 
+displayed on the <hi rend="italic">white</hi>, in the centre.</p>
+
+<p>Regular rations of flour, sugar and Coffee, have been ordered to be issued
+to the <persName>poor</persName>, of the <persName>families from the <placeName>Mission at Guardeloupe</placeName></persName>.</p>
+
+<p>Measures are taken to procure the earliest information of any important
+occurrence at <placeName>Copano</placeName>.</p>
+
+<p>I have great satisfaction in communicating the intelligence of our having
+succeeded in calling the <persName>Karankawa Indians</persName> in from the work of 
+destruction which they had commenced among the stock, on the <placeName>Navidad </placeName>and
+<placeName>Guardeloupe</placeName>. We have engaged them to remain neutral during the present
+contest, and to retire to the <placeName>Banks of the Sn. Antonio</placeName>, till the pleasure of
+the <persName>Com. in Ch.</persName> shall have been communicated to them, in such manner as
+he may dictate. I enclose herewith for your perusal and gratification, 
+several letters from <placeName>Monterey</placeName>, and an anonymous paper by<persName> Dr. Grant</persName>, to the
+<persName>people of <placeName>Texas</placeName></persName>; all delivered to me <date when="1835-10-26">last evening</date>, by <persName>Sen Jose Abendano</persName>,
+of that City. The earliest intelligence of every thing important with you,
+will greatly releive, and oblige, Sir,</p>
+
+<p><persName>P. Dimitt Comd </persName>[Rubric]</p>
+
+<p>[Addressed:] <hi rend="italic">No. 1.</hi> To <persName>Gen. S. F. Austin Com. in Ch. of the Army of
+the People</persName> <placeName>Head Quarters</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

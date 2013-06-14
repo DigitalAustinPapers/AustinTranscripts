@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4983">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimmitt to Stephen F Austin, 10-25-1835</title>
+            <author>
+                <persName>Philip Dimmitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Port of Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Head Quarters, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 207-209
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-25">10-25-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Answering Austin's orders for supplies. Local conditions </add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Port of Goliad</placeName>, <date when="1835-10-25">Oct, 25 '35</date></p>
+<p>8 oClock in the evening.</p>
+<p>To <persName>Gen Stephen F. Austin,
+Com. in ch.</persName> of the <persName>Army of the People</persName>&#8212;</p>
+
+<p>Dear Sir</p>
+
+<p>Yours of the <date when="1835-10-21">21t. inst</date>., a postscrip to that of <persName>Padillo </persName>of the same date&#8212;
+yours also of the <date when="1835-10-22">22d.</date> and <date when="1835-10-23">23d. instants</date>, and recd, at 4 oClock P. M. <date when="1835-10-25">to
+day</date>, are duly noted.<pb n="208"/></p>
+
+<p>The supplies which you call for shall be forwarded immediately. The
+teams, 5 or 6 in number, and more if they can be procured, shall be put in
+motion <date when="1835-10-26">tomorrow evening</date>, or <date when="1835-10-27">early next day morning</date>.</p>
+
+<p>Nothing has transpired relative to our liability to attack at <placeName>this place</placeName>,
+since the date of my last by hand of <persName>Mr Bracken</persName>, worthy your attention. At
+the date of that communication, I addressed the <persName>people residing <placeName>east of the
+Guardeloupe</placeName></persName>, urging the necessity of a reinforcement, and have much 
+reason to expect some increase of force from the sections of Country 
+mentioned in- yours of the <date when="1835-10-23">23d. inst</date>.</p>
+
+<p>You enquire after <persName>Linn </persName>and <persName>Powers</persName>&#8212;Both, altho' absent at the moment,
+have been with me, have acted in concert, and have been very useful to the
+service. They will probably return <date when="1835-10-25">to night</date>, or <date when="1835-10-26">tomorrow</date>. <persName>Col. Powers</persName>
+became very much alarmed for the safety of his people, (nearly all the men
+being here,) occasioned by information received by him from a <persName>confidential
+friend at <placeName>San Patricio</placeName></persName>: In consequence of which, steps have been taken to
+remove the <persName>women </persName>and <persName>children</persName>,<placeName> beyond the Guardeloupe River</placeName>. Being
+informed that this removal is now nearly, or quite accomplished I expect
+to see the <persName>Emprisario of <placeName>that Coloney</placeName></persName> here immediately. Supplies for the
+poor of these <persName>families</persName>, and for <persName>recruits</persName>, have been forwarded hence to the
+<placeName>Town of Guardeloupe Victoria</placeName> This step was recommended too, by the
+possibility of our being compelled to fall back on that point&#8212;one of the
+most defensible, by a <persName>small force</persName>, of any whatever in <placeName>Texas</placeName>.</p>
+
+<p>For some reason or other the people of<placeName> this place</placeName> have nearly all left
+<placeName>town</placeName>. I have done, and have said, every thing which I could do, or say,
+to pacify and inspire them with confidence&#8212;But they had seen the brilliant
+equipment of <persName>Cos</persName>, his sword, and retinue; and they had listened to his 
+flattering and captivating speeches; they had attended his parties, and tasted
+his wine: But we have made no such display&#8212;we have no epaulettes, nor
+swords&#8212;we have given no dinners, no parties&#8212;and as to wine, we have
+none to use in the way he used it.</p>
+
+<p>Immediately after the occupation of this <placeName>fort </placeName>by the <persName>force </persName>then 
+commanded by <persName>Capt. Collinsworth</persName>, two <persName>Volunteers</persName>,<persName> John Williams</persName> and <persName>John
+Tool</persName>, were dispatched to <placeName>San Patricio</placeName>, <persName>express</persName>, with letters to the <persName>Alcalde
+of that jurisdiction</persName>, and to others, soliciting their cooperation. <persName>Tool </persName>and
+<persName>Williams </persName>were both surrendered to the <persName>military of Le Panticlan</persName>, put in
+irons, and compelled to work on the <placeName>Garrison</placeName>.</p>
+
+<p>We are informed also, that, the population of <placeName>San Patricio</placeName>, have almost
+unanimously joined the <persName>military</persName>.</p>
+
+<p>The supplies spoken of above, will be forwarded to the <placeName>Ranche of <persName>Don
+Erasmo Seguin</persName></placeName>, about <placeName>10 leagues below Bexar</placeName>, under the safe conduct of
+<persName>Maj. George Southerland</persName>, with <persName>20 men</persName>. You can therefore, make such<pb n="209"/>
+arrangements for their transportation thence to <placeName>Head Quarters</placeName>, as you shall
+deem most advisable. By <persName>Maj. Southerland</persName>, I will write you again.</p>
+
+<p>It will be impossible for us to supply <persName>Don Juan Seguin</persName> with arms&#8212;We
+could furnish powder, also small shot, which may be run into bullets&#8212;and
+we can send him as much subsistence as he will probably need. <persName>Zentena</persName>
+is at <placeName>Le.Panteclan</placeName>, and writes to me, that, he intends establishing the 
+<placeName>Custom House</placeName> at that point. I doubt his fidelity.</p>
+
+<p><persName>P. Dimmitt</persName> Comg</p>
+<p>[Addressed:] To <persName>Gen. Stephen F. Austin Com. in Chief of The Army of
+the people.</persName> <placeName>Head Quarters</placeName>.</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

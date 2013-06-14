@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4982">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Bowie and James Fannin to Stephen F Austin, 10-24-1835</title>
+            <author>
+                <persName>James Bowie and James Fannin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mission of Espada, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Camp Salado, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 207
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-24">10-24-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Anticipating attack, ask reinforcements</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mission of Espada</placeName> <date when="1835-10-24">24th octr 35</date></p>
+<p>Saturday evening 4 oclk P. M</p>
+<p><persName>Genl. Austin</persName></p>
+
+<p>By our <persName>Courier </persName>of <date when="1835-10-24">this morning</date> I informed you every circumstance to
+this date&#8212; I requested re-inforcements to the amt of <persName>fifty men</persName>, and suggested 
+our investing the <placeName>Town </placeName><hi rend="italic">above </hi>and <hi rend="italic">below</hi>, and acting in concert.</p>
+
+<p>Being informed of your additional strength I am now emboldened to ask
+for <persName>150</persName>&#8212;as we have the <placeName>Roads to Rio Grande and Misions below</placeName> to guard,
+and the small <persName>parties </persName>necessary to do it effectually, will weaken our <persName>force</persName>
+so as to make our position not altogether as safe, at is might be, and can be,
+when you have such forces above&#8212;</p>
+
+<p>We have such information, as to apprehend an <hi rend="italic">attack <date when="1835-10-24">to night</date></hi> from 
+<persName>Baragan</persName>, as he <hi rend="italic">knows </hi>our numbers, and threatened us today&#8212;Fowd- <hi rend="italic">fifty </hi>men
+<hi rend="italic">tonight</hi>, and say to us what you wish done, and when we may expect others
+&#8212;and whether we shall take a position <placeName>near Bexar</placeName> 10-25-1835
+&#8212; Should
+any other <persName>officer </persName>be chosen to supercede <persName>Col Bowie</persName>, will you allow (me)
+(<persName>Fannin</persName>) to suggest the names of <persName>Genl. Huston</persName> and <persName>col. Hall</persName>&#8212; 
+<persName>Mr Wharton</persName> will assign my <hi rend="italic">reasons </hi>etc</p>
+
+<p><persName>James Bowie</persName> [Rubric]</p>
+<p><persName>J W Fannin Jr </persName>[Rubric]</p>
+<p>[Addressed:] <persName>Genl. S F Austin</persName> <placeName>Camp Salado</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

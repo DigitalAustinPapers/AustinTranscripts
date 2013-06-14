@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4999">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Philip Dimitt to Unknown, 10-28-1835</title>
+            <author>
+                <persName>Philip Dimitt</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-07">06-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Unknown
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Goliad, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 219-220
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">List</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-28">10-28-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">List of stores sent to army, Goliad.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>List of articles of Subsistence, camp furniture etc forwarded to <placeName>Head
+Quarters</placeName>, pr order of the <persName>Com. in Ch.</persName>, under charge of <persName>Maj. Geo. 
+Southerland</persName>, <date when="1835-10-28">Oct. 28th- 1835</date>&#8212;by <persName>P. Dimitt, Comg at <placeName>Goliad</placeName></persName>.</p>
+<p>43 Barrels Flour</p>
+<p>6 Sacks Salt</p>
+<p>3 do Coffee</p>
+<p>2	Boxes Sugar</p>
+<p>1 Cask Claret</p>
+<p>1 Barrel Gin</p>
+<p>1 do Rum</p>
+<p>1	do Cordial</p>
+<p>3	Boxes Wine</p>
+<p>4	do Soap</p>
+<p>2	do Sperm Candles<pb n="220"/></p>
+<p>3 Bales Tobacco</p>
+<p>2 doz Iron Kettles</p>
+<p>2 " Tin Pans</p>
+<p>2 " Cups</p>
+<p>2 " Frying Pans</p>
+<p>1 " Horn</p>
+<p>&#8212;As received from the Com'g of Subsistence by</p>
+<p><persName>Ira Ingram</persName> [Rubr'c]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

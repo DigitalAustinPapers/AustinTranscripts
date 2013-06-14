@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4978">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Texas Army, 10-23-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Texas Army
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Camp Sivolo</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 204
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="public"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-23">10-23-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Austin to the army. Address</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters Camp Sivolo</placeName></p>
+<p><date when="1835-10-23">October 23, 1835</date></p>
+
+<p>The <persName>Commander in chief</persName> announces to the <persName>Army </persName>information of the most
+encouraging nature from the <placeName>Interior</placeName>&#8212;that the Cause of the Constitution
+and the Federal System is <hi rend="italic">there</hi>, gaining new strength, daily&#8212;that, <persName>Genl.
+Alvarez </persName>a warm <persName>Federalist </persName>has lately gained two important Victories
+over the <persName>troops of the Dictator&#8212;Santa Anna</persName> and has been joined by two
+other <persName>Generals </persName>of distinction, <persName>Montenegro </persName>and <persName>Grozman</persName>&#8212;that the <persName>troops at
+<placeName>Saltillo </placeName>and <placeName>San Louis</placeName></persName> which had been destined and were actually on the
+march for <placeName>Texas</placeName>, had been ordered back on account of troubles behind
+them&#8212;</p>
+
+<p>He further anounces that <persName>D. Juan Seguin</persName>&#8212;the <persName>Mexican </persName>who Came to
+<placeName>Camp </placeName>last night with his <persName>followers </persName>and left <date when="1835-10-23">this morning </date>has given the
+most flattering account of the good disposition of the <persName>Citizens </persName>generally in
+<placeName>Bejar </placeName>and its <placeName>neighborhood</placeName>&#8212;their friendship to the Cause we are 
+defending and willingness to serve us.&#8212;He has appointed <persName>Mr. Seguin</persName> a <persName>Captn.
+in the Army</persName>, Vesting him with authority to raise a <persName>Company of Mexican
+Volunteers</persName> to Cooperate with us.&#8212;They will be of essential service in
+many respects&#8212;</p>
+
+<p>The <persName>Commander in chief</persName> deems it his duty to an ounce also, a Vague
+rumor he has received that <persName>troops </persName>to the number of 300 were on the march
+from <placeName>Matamoras </placeName>and other parts, destined for the <persName>garrison at the <placeName>Nueces
+</placeName></persName> and the recapture of <placeName>Labahia</placeName>&#8212;but this rumor is by no means to be 
+credited, as there is no sufficient authority to support it&#8212;</p>
+
+<p>The <persName>troops from the <placeName>Nacogdoches </placeName>Department</persName> are Confidently expected
+to join us, within a very few days&#8212;</p>
+
+<p>As soon as they arrive, the force here will be deemed Competent for
+further and more important operations&#8212;</p>
+
+<p>At all events, the time can not be long before the Valour and patriotism
+of the <persName>Freemen of <placeName>Texas</placeName></persName> will have an opportunity to display themselves
+upon the head of <persName>military despots</persName> and the <persName>enemies of Freedom</persName>.&#8212; In the
+mean time the <persName>Commander in chief</persName> exhorts his <persName>countrymen </persName>to be patient
+and firm in the discharge of their duty; enduring as <persName>Freemen </persName>have always
+been known to do, every privation for the sake of the sacred Cause they are
+defending&#8212;</p>
+
+<p><persName>S. F. Austin</persName></p>
+<p>By order<persName> Warren D. C Hall Adjt Insptr Genl</persName></p>
+<p>[Endorsed]: Address to the <placeName>Army Camp Cibolo</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

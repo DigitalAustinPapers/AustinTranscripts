@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4987">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>McKinney and Williams to R R Royall, 10-26-1835</title>
+            <author>
+                <persName>McKinney and Williams</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        R R Royall
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 211
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-26">10-26-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Recommending use of privateers</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p>Copy</p>
+<p><placeName>Brazoria</placeName> <date when="1835-10-26">Oct 26th 1835</date></p>
+<p>Messers <persName>Royall </persName>and <persName>Borden</persName></p>
+<p>Gentlemen</p>
+
+<p>Your orders by <persName>Mr Wm H. Smith</persName> has been executed and he will Give
+You the particulars we have a large long 18 Pounder which will be started
+out in a few days, a 12 pounder is here on the way let me beg you will
+not fail as Early as possible To authorize Vessels to Cruise on the <placeName>Coast</placeName>
+This done <placeName>Every port on the Gulf</placeName> Can be Blockaded in six weeks and Then
+all could safely leave to Join the <persName>army </persName>by land Yours in Much haste</p>
+
+<p><persName>McKinney </persName>and <persName>Williams </persName>[Rubric]</p>
+
+<p>A True Copy&#8212;the above will be attended to this day&#8212;</p>
+<p><persName>R. R. Royall</persName> [Rubric]</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

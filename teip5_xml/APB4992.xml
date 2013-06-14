@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4992">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James F Perry to Stephen F Austin, 10-27-1835</title>
+            <author>
+                <persName>James F Perry</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-07">06-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Peach Point, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Camp, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 214-215
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-27">10-27-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Cheering news from the United States</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Peach Point</placeName> <date when="1835-10-27">27th Oct 1835</date></p>
+<p>Dr <persName>Brother</persName></p>
+
+<p>We have heard nothing from you or the <persName>Boys</persName>, onley through the 
+<persName>expresses </persName>tell <persName>Austin </persName>and <persName>Joel </persName>to write to us when they have an opportunety
+as there <persName>mother </persName>is verry anxious to hear directly from them. <persName>Guy </persName>and<pb n="215"/>
+<persName>Eliza </persName>have been verry sick but are now both well, the news from the<placeName> U S.</placeName>
+is cheering. I hope the <persName>sixty five volenteers</persName> by the <placeName>Columbus </placeName>will reach you
+in time <placeName>San antonio</placeName> once taken and then I think we have the <placeName>coast </placeName>clear
+and will be able to keep it so our anxiety will be great untill we hear of
+that place being taken which we hope with the protection of Provedence
+you will be able to do. adue may the god of wars protect you</p>
+
+<p><persName>James F. Perry</persName> [Rubric]</p>
+<p>[Addressed:]<persName> Genl. S. F. Austin</persName> At <placeName>Camp</placeName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

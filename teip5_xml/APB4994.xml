@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4994">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Stephen F Austin to Convention, 10-28-1835</title>
+            <author>
+                <persName>Stephen F Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-06-07">06-07-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Convention
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Head Quarters, Mission of Conception, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 216-217
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-28">10-28-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-06-07" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting Battle of Conception</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Head Quarters</placeName>,<placeName> Mission of
+Conception</placeName>, <placeName>1/2 Miles From
+Bejar</placeName>, <date when="1835-10-28">October 28, 1835</date>.</p>
+<p>TO THE <persName>PRESIDENT OF THE CONVENTION OF <placeName>TEXAS</placeName></persName>.</p>
+
+<p>Sir,&#8212;I have the honor to inform you that the <persName>enemy</persName>, to the number of
+about three hundred <persName>cavalry </persName>and one hundred <persName>infantry</persName>, as nearly as can<pb n="217"/>
+be ascertained, with two pieces of cannon, at sunrise <date when="1835-10-28">this morning</date>, attacked
+a <persName>detachment from the army</persName>, consisting of ninety <persName>men</persName>, under the command
+of <persName>colonel Bowie</persName> and <persName>captain Fanning</persName>, who were posted at this place; and
+after a warm engagement of three hours, were repulsed with the loss of one
+piece of cannon, (a six-pounder) and about thirty muskets, sixteen <persName>men</persName>
+left dead <placeName>on the field</placeName>, and, from the best accounts, nearly as many more
+were carried off. The number of <persName>wounded </persName>we can only conjecture, with
+the exception of two that remained <placeName>on the field</placeName>. It is with great regret I
+have to say, that on our side we had one man, <persName>Richard Andrews, of <placeName>Mina</placeName></persName>,
+dangerously wounded&#8212;I fear mortally. But we have sustained no other
+loss, except a few horses.</p>
+
+<p>The main body of the <persName>army </persName>came up, in about thirty minutes after the
+<persName>enemy </persName>had retired. A more circumstantial account of this action, which
+has resulted so gloriously to the <persName>federal army</persName>, and more particularly to the
+individuals immediately engaged, will be given as soon as it can be
+made out.</p>
+
+<p>The overwhelming superiority of force, and the brilliancy of the victory
+gained over them, speak for themselves in terms too expressive to require
+from me any further eulogy</p>
+
+<p>I have just learned that the <persName>cavalry of the enemy</persName> was commanded by
+<persName>colonel Ugartechea</persName>, and the <persName>infantry </persName>by <persName>colonel Mariano Cos</persName>, <persName>brother of
+the general, Martin Perfecto</persName>.</p>
+
+<p><persName>S. F. Austin</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

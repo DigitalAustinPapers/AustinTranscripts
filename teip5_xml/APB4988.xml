@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4988">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>M A Bryan to James F Perry, 10-26-1835</title>
+            <author>
+                <persName>M A Bryan</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        James F Perry
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Salado, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Peach Point, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 211-212
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-26">10-26-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Opposition of army to return of members of consultation</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Salado </placeName><date when="1835-10-26">26th Oct 1835</date></p>
+<p>Dear <persName>Father </persName>and <persName>Mother</persName></p>
+
+<p>I wrote you the <date when="1835-10-24">day before yesterday</date> by <persName>express </persName>since that time the 
+<persName>members of the consultation</persName> who are here 28 or 30 met and concluded to leave
+it to the vote of the <persName>Army </persName>whether the <persName>members </persName>should return and take
+their seat in the convention or remain untill after <placeName>San Anonio</placeName> is taken a
+large majority were in favor of the <persName>members </persName>returning with the exception
+of those who belonged to the <persName>staff</persName>, and those who might volunteer to
+remain&#8212;</p>
+
+<p><persName>Travis </persName>is a <persName>member </persName>who volunteers to remain and there are others, when
+the thing was first talked of I thought it would be the means of disbanding<pb n="212"/>
+the <persName>army </persName>as I heard most every one say that he would return if the 
+<persName>members of the convention</persName> left <persName>Doct Archer </persName>was appointed by the <persName>members </persName>to
+address the <persName>army </persName>before the question was put, afterwards, <persName>Genl Houston</persName>,
+and then <persName>Jack </persName>and lastly <persName>Uncle </persName>who was just able to sit on his horse all
+purporting the same (that is) the propriety and even the necessity of 
+sending the <persName>members </persName>back (those who were willing to go with the exception of
+those belonging to the <persName>Staff</persName>) some 15 or <persName>20 men </persName>would go back any how
+perhaps more</p>
+
+<p>We are going down to the<placeName> mission of the Espada</placeName> to take up our quarters
+&#8212;I presume we will have <persName>400 men</persName> when all have gone back who are 
+dissatisfied perhaps not so many however they say with <persName>two hundred men</persName> we
+can sustain ourselves in the <placeName>mission </placeName>we will be continually recg. 
+reinforcements. and perhaps we will have <placeName>Bexar </placeName>in 4 or 5 days what are here
+have pledged themselves to stand up to the tug untill <placeName>Bexar </placeName>is taken. <persName>Uncle</persName>
+in his short speech told them that he would remain as long as <persName>10 men</persName>
+would stick to him, because the salvation of <placeName>Texas </placeName>depends on the <persName>army</persName> being sustained and at the same time the meeting of the <persName>Convention</persName>
+<persName>Uncle </persName>is better <date when="1835-10-26">this morning</date> than he has been for several days although
+slightly salivated</p>
+
+<p><persName>M. A. Bryan</persName> [Rubric]</p>
+<p><persName>Joel </persName>is well</p>
+<p>[Addressed:] <persName>Mr James F Perry</persName><placeName> Peach Point</placeName> To the care of <persName>Jno. R.
+Jones</persName> <placeName>San Felipe de Austin</placeName> who will please forward this
+by the first opportunity&#8212;</p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

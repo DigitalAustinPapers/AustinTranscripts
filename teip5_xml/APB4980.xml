@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB4980">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Bowie and James Fannin to Spephen F Austin, 10-23-1835</title>
+            <author>
+                <persName>James Bowie and James Fannin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-05-23">05-23-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Spephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Mission of Espada, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Salado, Near Bexar, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 205-206
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1835-10-23">10-23-1835</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-05-23" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Reporting a reconnoissance of the missions below Bexar.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Mission of Espada</placeName>, <date when="1835-10-23">23d octr 1835</date></p>
+<p>5 Oclk P M friday evening</p>
+
+<p><persName>Genl Austin</persName>&#8212;In conformity with your orders, and agreeably to our
+suggestions of<date when="1835-10-22"> last night</date>, we marched to the <placeName>Missions above this</placeName>, and make
+the following report of their situation and such oher information as we
+deem important&#8212;at the <placeName>Mission of St Juan</placeName>, they only planted three pecks
+of corn, and it is <hi rend="italic">yet <placeName>in the field</placeName></hi>, and very fine&#8212;The <persName>Citizens </persName>are well 
+disposed, and now look to us for protection&#8212;and should the <persName>Enimy </persName>attempt
+to withdraw their corn, information will be forthwith recd- from them</p>
+
+<p>At the <placeName>Mission of St Jose</placeName>, we find <hi rend="italic">no corn</hi>, the <placeName>dam </placeName>having been broke
+early this season and the crop abandoned&#8212;only a small crop of Peas, and
+these not yet well ripened&#8212;This <placeName>Mission </placeName>is in a dilapidated state and only
+<persName>one family</persName> at it&#8212;At the former, several respectable <persName>families</persName>, and the walls
+in a good state of preservation, and a strong hold for defence&#8212;</p>
+
+<p><placeName>St Jose</placeName> has fine <placeName>quarters </placeName>for the <persName>men</persName>, but the <hi rend="italic">water too remote</hi>, and too
+much at the mercy of the <persName>enimy</persName>&#8212; No intelligence from the <persName>Segienes</persName>, as
+yet&#8212;We learn that <persName>reinforcements </persName>to the amt of <persName>30 men</persName> arrived&#8212;in <placeName>Bexar</placeName>
+<date when="1835-10-22">last night</date>&#8212;also that you had a slight skirmish with an <placeName>outpost </placeName>in which
+they report only one killed&#8212;he being shot in the eye&#8212;</p>
+
+<p>They say two more <persName>parties of reinforcements</persName> are looked for daily&#8212;If we
+had fifty men more, we could keep out <persName>spyes </persName><placeName>on the two road</placeName>s and cut
+them off, and be in no sort of danger ourselves</p>
+
+<p>There is but little money in <placeName>Camp</placeName>&#8212;and the <persName>men </persName>are complaining that
+corn and other provisions are not furnished them&#8212;</p>
+
+<p>We will make purchases of Beef and corn <date when="1835-10-23">tonight </date>with our own funds
+and hope to hear from you <date when="1835-10-24">tomorrow </date>early&#8212;Our private resources are
+quite limited, and cannot be expected to last beyond <date when="1835-10-24">tomorrow</date>&#8212;or we
+should not apply to you for aid&#8212;You know the materials we have&#8212;they
+will fight&#8212;and fight desperately; but must <hi rend="italic">Eat</hi>.
+We expect to take a position in the timber, <placeName>near Bexar</placeName>, <date when="1835-10-24">tomorrow</date>; and
+request regular information from you, that we may be fully apprized of
+your movements, and know how far ours comport with your views; and
+will insure success to our cause.&#8212;The <persName>Courier from <placeName>Bexar</placeName></persName> has this moment
+come in, and says that the man reported shot and killed, is not dead&#8212;but
+shot where we heard, and must certainly die&#8212;and the <persName>leader of the party</persName>,
+slightly wounded by a Pistol ball and only <hi rend="italic">three </hi>Rifles heard crack&#8212;
+They have put the <persName>commander </persName>and most of the <persName>men </persName>in <hi rend="italic"><placeName>prison </placeName></hi>for 
+cowardice&#8212;The <persName>reinforcements </persName>did arrive, under <persName>Baragan </persName>with <persName>30 men</persName>&#8212;and no
+more spoken of&#8212;He is stationed in <placeName>5th street</placeName>.</p>
+
+<p>The <persName>Politcal Chief</persName> has fled&#8212;and every other principal man we wrote
+to with him&#8212; Their <persName>force </persName>was 100&#8212;and yours reported only 15&#8212;<pb n="206"/></p>
+
+<p>The <persName>owner of <placeName>this place</placeName></persName> is <hi rend="italic">suspected</hi>, and the <persName>courier </persName>would not approach
+him for fear of detection and exposure (<persName>Jose Antonio Garza</persName> is his name)
+Do let us hear from you, and receive some aid to furnish provisions for
+our <persName>men</persName>&#8212;Should you send, your <persName>courier </persName>will hear from us hear</p>
+
+<p>In haste, We subscribe ourselves</p>
+<p><persName>James Bowie </persName>[Rubric]</p>
+<p><persName>J W Fannin Jr </persName>[Rubric]</p>
+<p>[Addressed:] <persName>Genl. S. F. Austin</persName> In <persName>Camp at Salado Near Bexar</persName>
+Pr. <persName>Smith</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
