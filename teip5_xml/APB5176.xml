@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5176">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A J Yates to Stephen F Austin, 05-14-1836</title>
+            <author>
+                <persName>A J Yates</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-08">08-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Schenectady, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Washington City, U.S.</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 351-353
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-05-14">05-14-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Good meeting at Albany, but strong counter current due to Van Buren politics. Could send 2000 "emigrants" to Texas on certain conditions.</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Schenectada </placeName><date when="1836-05-14">May 14, 1836</date></p>
+
+<p>My Dear Sir,</p>
+
+<p>We had a very respectable meeting at <placeName>Albany </placeName>on <date when="1836-05-12">Thursday evening,</date> and
+I held forth to them (if I may judge by their plaudits) with much 
+acceptance&#8212; They adopted a string of resolutions, and among others, to 
+appoint a <persName>Committee of 5</persName> from <placeName>each ward in the City</placeName> to solicit aid, to 
+circulate a memorial, and to correspond with <placeName>every county in the State</placeName>. There
+was a very powerful counter current there, and I do not know what to
+ascribe it to unless it be <persName>Van Buren</persName> Politicks. I have never before 
+believed in the stories about the Regency but I am now satisfied of the truth
+of the collar business. I have been for years engaged in the Politicks of
+<placeName>New York</placeName>, and well know that political movements were and must of course<pb n="352"/>
+be controlled and <persName>party </persName>must be disciplined to rank and file, but I never
+would believe that the feelings, the sympathies, the most holy affections of
+men were to be controlled by a <persName>political party</persName>. I can ascribe it to nothing
+else, unless there may have been a reaction, on account of <persName>Urrea</persName>'s return
+of the safety of <persName>Fanning </persName>and his men, which I presume was made before
+their Massacre&#8212; [Illegible name] has published a letter from a <persName>member
+of Congress</persName> about the gullability of our <persName>Countrymen</persName>, and instances the
+case of <placeName>Texas</placeName>, and particularly of <persName>Fanning</persName>&#8212; I hope the facts of that case
+will be now elicited, and if the massacre is found to be true, the reaction
+of those who have been deceived by this course of the <persName>Mexican General</persName> and
+<persName>Minister</persName>, will be tremendous&#8212;</p>
+
+<p>If I had a power to appropriate any of the funds I receive towards 
+fitting out <persName>emigrants </persName>(ie) authorize me to draw on the <persName>Agent at <placeName>New 
+Orleans</placeName></persName>, for the monies remitted, at the same time charging the <persName>emigrant </persName>say
+$20. for his passage and outfit, I could send out a 1000 [to] 2000 within
+40 days. I would publish a <placeName>circular </placeName>establishing a rendevous at a certain
+time and place, say <placeName>Pittsburg </placeName>applications to be made by <date when="1836-06-18">18th June</date>&#8212;
+expedition to sail the 20th price of passage including equipment $15, in 
+advance&#8212;the <persName>emigrant </persName>to have a draft on the <persName>Govt</persName>, for that amount on his
+arrival in <placeName>Texas</placeName>, provided he enters the <persName>army </persName>there for 6 mos. One 
+Thousand men would give $15000, The charter and expenses of two steam
+Boats to <placeName>Natchitoches </placeName>would be say $3,000, 1000 muskets and equipments
+say $7,000. 10 baggage waggons, 4 horses each $250, each is $2500. 
+ammunition and provisions $2000. Any one thus going out, and not entering
+the service forfeits his passage money, and the arms, ammunition,
+equipments, wagons horses etc belong to the <persName>Govt</persName>, on the arrival of the <persName>emigrants
+into <placeName>Texas</placeName></persName>. Many <placeName>neighbourhoods</placeName>, would raise <persName>companies </persName>and pay their
+passage, if the arrangements could be made for their going out in this
+manner, without requiring a return of the money, and this I presume I
+have power to attend to in the powers already given me. I found many of
+the <placeName>pamplets </placeName>very imperfect, and have received no more than those I took
+up myself.</p>
+
+<p>My own private business will require my personal presence in this part
+of the country during the <date n="Summer-1836">Summer </date>but you will hear from me, and I shall
+continue my operations for <placeName>Texas </placeName>in a manner that will tell as well, and
+perhaps better than if I went through to <placeName>New Orleans</placeName>. I shall probably go
+as far as <placeName>Pittsburg</placeName>, certainly to <placeName>Buffalo</placeName>, and there are many in the <placeName>country</placeName>
+ready to go out.</p>
+
+<p>Please inform me who remains at <placeName>Washington City</placeName> as the <persName>Representative
+of the Govt</persName>, and if <persName>Mr. Childress</persName>&#8212;mention my name to him, and send me
+his address&#8212;<pb n="353"/></p>
+
+<p>I expect the proceedings of our meeting at <placeName>Albany </placeName>are in this mornings
+papers.</p>
+
+<p><persName>A. J. Yates</persName></p>
+
+<p>[Addressed:] <persName>Gen. Stephen F. Austin Commissioner of <placeName>Texas</placeName></persName></p>
+
+<p><placeName>Washington City</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

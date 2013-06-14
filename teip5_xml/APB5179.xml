@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5179">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>William Austin to Stephen F Austin, 05-18-1836</title>
+            <author>
+                <persName>William Austin</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-08">08-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lowell, Massachusetts</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 353-355
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-05-18">05-18-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Suggests diversion on west coast of Mexico. Asks terms for well manned privateer. People of New England will support Texas when they understand that it is struggling for republican government and religious toleration</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lowell, Mass</placeName>, <date when="1836-05-18">May 18th 1836</date></p>
+
+<p>Dear Sir,</p>
+
+<p>An early <persName>acquaintance </persName>with the <placeName>West Coast of Mexico</placeName> and various 
+excursions <placeName>from the Pacific to the interior</placeName>, having visited the <placeName>City of Mexico</placeName> in
+<date n="xx-xx-1822">1822</date>, and Made Some observations as to the assailible points on that <placeName>Sea
+Board</placeName>, and the <placeName>Sections of Country</placeName> through which I extended my 
+excursions, has since the Texian War commenced, been brought to my 
+recollection, and aroused by the horrible cruelties perpetrated by the <persName>forces of
+Santa Anna</persName> I have reviewed the scenes of by gon days, in that Country and
+have formed an opinion, that a diversion highly, favorable to the Cause of
+<placeName>Texas </placeName>might be made by a small <persName>Naval force</persName> employed on the <placeName>West Coast
+of Mexico</placeName>. Where a single ship of 20 guns under a judicious commander
+might create consternation and dismay without infringing the Laws of
+maritime War fare or encroaching the limits prescribed to it by the Laws
+of Nations. Much would depend however on the duration of the contest
+in as much as it would require Six to Eight months to give effect to Such
+an enterprise and render it subservient. I know not what may be the
+views of the <persName>Texian Government</persName>, in regard to Naval operations, but cannot
+entertain a doubt that could it avail itself of the Services of a Small <persName>force</persName>
+to be there employed that highly favorable results would follow.</p>
+
+<p>In <placeName>this section of the U.S</placeName>. the origin and progress of the Texian 
+revolution ar not well understood, and this people as you doubtless may be
+aware, are not so easily excited to action, as those of More Sunny regions
+but when they shall be better informed, and feel assured, that half the 
+barbarities have been exercised by the <persName>Mexican forces</persName>, that have been 
+announced in <placeName>newspapers </placeName>of the day, When they shall know that <placeName>Texas</placeName><pb n="354"/>
+contended for her rights as an <placeName>Independent State of the Mexican 
+Confederacy</placeName>, rights guaranteed by the Constitution of <date n="xx-xx-1824">1824</date>, that failing to secure
+those rights and seeing a consolidated military despotism pervading the
+country, with <persName>Catholic </persName>intolerance of <hi rend="italic">religious Worship</hi>, She availed herself
+of the sacred prerogative of <persName>freemen </persName>and declared herself independent and
+assumed the consequences, they will perceive that there is a striking affinity
+in the attitude of <placeName>Texas </placeName>and the <placeName>American Colonies</placeName> at the Commencement
+of the War of Independence, and yeald their sympathy their services
+afloat or in the field, or their wealth in support of so righteous a cause
+Constrained by circumstances which preclude at present the devotion of
+my services, in her cause, I nevertheless would break the ties that may be
+severed without dishonor, and offer myself a sacrifice for such a struggle,
+if it shall prove necessary to the attainment of the independence or the
+union of <placeName>Texas </placeName>with the <placeName>American Union</placeName>, feeble as those services Might be,
+tho' not entirely useless. So far as some experience in Maratime war is
+concerned, yet united with thousands of kindred spirits the effect of 
+combination would ensure success. In this way I presume it would be 
+practicable to procure officers and man a Ship or vessels suited to the enterprise
+before mentioned, there would be some difficulty in providing an 
+armament, or rather in Embarking it in the vessels in which to employ it, but
+not insurmountable diffculties. Would the <persName>commander </persName>of such a force if
+offered as a loan to <placeName>Texas</placeName>, with the <persName>officers </persName>he might recommend be 
+commissioned so as to give them suitable rank in the Naval Review? their
+emoluments to depend on their captures, and the usual bounty in Land but
+to be placed under such restraint as to avert the consequences of any 
+contravention of the Laws of Nations?&#8212; I feel that; I may be subject to the
+imputation of obtruding, myself on your attention but I am anxious that
+the history of the events in <placeName>Texas</placeName>, should be better understood in the <placeName>New
+England States</placeName>, and know that when the subject of <hi rend="italic">religious liberty</hi>, and
+<hi rend="italic">rational freedom</hi> are agitated and contended for and by a people claiming
+consanguinity and evincing the most laudable heroism, the <persName>citizens of this
+<placeName>Wide spread republiccan Empire</placeName></persName>, will fly to the rescue. It is obvious that
+entire secrecy would be indispensible to the success of the enterprise under
+consideration. I therefore need not enforce it. When in the <placeName>City of
+Mexico</placeName> in <date n="xx-xx-1822">1822</date>, I had the pleasure of an acquaintance with <persName>General Long</persName>
+and the <persName>officers of his staff</persName>. Among the latter was <persName>Captain Austin</persName> of the
+<persName>infantry</persName>, Whose subsequent history it would afford me pleasure to learn
+and especially if successful&#8212; The unfortunate <persName>Genl. Long</persName>; Was 
+assassinated at that time and being among those who assisted at his interment, and
+having since heard that his <persName>Widow </persName>received from the <persName>Mexican government</persName>
+a <placeName>Grant of Land</placeName> in <placeName>Texas</placeName>, I would venture to enquire whether her fate is
+Apparently <persName>John Austin</persName>, who died of cholera in <placeName>Texas </placeName>in <date n="xx-xx-1833">1833</date>.<pb n="355"/>
+known to You&#8212; I have in my possession a relick of her heroic <persName>husband</persName>
+which it would give me pleasure to transmit to her&#8212;</p>
+
+<p><persName>William Austin</persName></p>
+
+<p>P.S. Please address at this place</p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

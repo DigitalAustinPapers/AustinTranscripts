@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5172">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Lucas Van Buskirk to Stephen F Austin, 05-05-1836</title>
+            <author>
+                <persName>Lucas Van Buskirk</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-08">08-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Seneca Falls, New York</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 349-350
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836-05-05">05-05-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Asking how a company of "emigrants" can reach Texas from New York</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Seneca Falls</placeName> <date when="1836-05-05">5th- May&#8212;1836</date></p>
+
+<p><persName>General Austin</persName></p>
+
+<p>Dr Sir</p>
+
+<p>Permit us (though strangers) to introduce ourselves to your notice and
+allow us to offer as an apology for so doing a Most cordial feeling for the
+welfare of <placeName>Texas</placeName>&#8212; The cause of <placeName>Texas </placeName>is exciting deep and thrilling 
+interest in <placeName>this part of the world</placeName>&#8212; A large and Respectable meeting has been
+held in this place&#8212; the proceedings and resolutions of which please refer
+to a copy of the <placeName>Farmer and Seneca Falls dayly advertiser</placeName> published in this
+place&#8212;which Paper accompanies this letter&#8212; It is the opinion of our <persName>first
+Men in point of standing</persName>&#8212;that a c<persName>ompany of Emigrants</persName> can be raised in this
+place and <placeName>village </placeName>and <persName>twenty five to forty men</persName> with a suitable person to take
+charge of said <persName>company</persName>, which <persName>company </persName>will be ready to march to <placeName>Texas </placeName>as
+soon as pecuniary aid can be furnished them to defray their necessary 
+expences to <placeName>New York</placeName>&#8212; It is confidently believed the greater part of the<pb n="350"/>
+money necessary for this purpose can be raised in this immediate vicinity&#8212;
+Now Sir if you can inform us of the manner and the means by which such
+assistance can be forwarded from <placeName>New York</placeName>&#8212;the sympathy of our fellow
+<persName>citizens </persName>may not be in vain with regard to <placeName>Texas</placeName>&#8212; It is the object of this
+<persName>committee </persName>to get information how <persName>Emigrants </persName>can be sent from <placeName>New York</placeName> to
+<placeName>Texas</placeName>, as well as to manifest the spirit prevailing in <placeName>this section of the
+state</placeName>&#8212; We would be highly gratified to get your views in relation to the
+transportation of such aid as above stated and how Effected</p>
+
+<p><persName>Lucas Van Buskirk</persName></p>
+
+<p><persName>Charles D Williams</persName></p>
+
+<p><persName>Corresponding Committee</persName></p>
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

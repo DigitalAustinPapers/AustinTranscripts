@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5180">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>James Treat [?] to Stephen F Austin, Branch T. Archer, William H Wharton, xx-xx-1836</title>
+            <author>
+                <persName>James Treat [?]</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-08">08-08-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         Branch T. Archer
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         William H Wharton
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Unknown</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 355-357
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1836">xx-xx-1836</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-08" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Offering muskets</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<hi rend="italic">Memorandum Confidential Muskets.&#8212;</hi>
+
+<p>There are 960, muskets in <placeName>New Orleans</placeName>: English, Tower proof&#8212;<hi rend="italic">oz bore</hi>:
+a first rate article: which I can controul, if not sold, on receipt of orders,
+given for their delivery, from this place, which can go in a moment, through
+you, whenever an arrangement can be concluded as <hi rend="italic">follows</hi>:</p>
+
+<p>960 Muskets______________________________________________________6$ short price is	$5760.&#8212;</p>
+
+<p>1/3 for cash ___________________________________________________ $1920.&#8212;</p>
+
+<p>1/3 3 mot Credit_________________________________________________ 1920</p>
+
+<p>1/3 may be merged in the loan____________________________________ 1920	             5.760.&#8212;</p>
+
+<p>Should any portion of these be sold on receipt of the order that may be
+given, the balance, that are unsold (whatever be the number) may be 
+delivered instanter. &#8212;What think you of this proposition ? ?&#8212; I doubt not
+these 960 Muskets remain unsold yet, but this I cannot, of course vouch
+for.&#8212;</p>
+
+<p><hi rend="italic">Again</hi>: There are 2000 Muskets <hi rend="italic">here </hi>of same description, good article
+tower proof and ounce Ball or bore&#8212;The <persName>Holders </persName>ask for these $4.81 and
+would amt to $9620&#8212; They will not sell them, Except for <hi rend="italic">part cash,</hi> and,
+balance<hi rend="italic"> satisfactory short paper.</hi> They refused making any proposition
+for the sale of them to you or your <persName>Govnt</persName>. as they are very cautious 
+prudent folks, and know nothing of <placeName>Texas </placeName>affairs. &#8212;Probably we can manage
+it here, to make an arrangement, for them, and deliver, them, at <placeName>N. 
+Orleans</placeName>, as soon as they can be sent there, at the same <hi rend="italic">price </hi>and <hi rend="italic">terms</hi>, as the
+<hi rend="italic">960, first </hi>spoken of, on this paper&#8212;. This, I repeat I think we can
+<hi rend="italic">manage</hi>, provided <hi rend="italic">you</hi>, the <persName>commissioners</persName>, think the good cause, will be
+promoted thereby by <hi rend="italic">so doing</hi> &#8212; and you must understand; at same time,
+that the small Gain, in the operation, is not a sufficient <hi rend="italic">object </hi>for us or any
+one to Embark in this last arrangement, Unless you should consider it an
+object to the <persName>Texian Governt</persName>. to send them on</p>
+
+<p>They can be shippd <hi rend="italic">At once,</hi> and sent to <placeName>N. Orleans</placeName>, and if all is right,
+go down to <placeName>G. Bay</placeName> at once&#8212;probably without discharging at all &#8212;The
+same vessel that takes these <hi rend="italic">(if they go)</hi> can also take anything else you
+may have to send down from here&#8212; tell me what you think of the matter
+1st- as regards the 960&#8212;and then as regards the 2000 here &#8212;If we can get<pb n="356"/>
+the Loan up to 100.000 that will give us $10,000 Cash&#8212;and a portion of
+this might perhaps be appropriated to the muskets.&#8212; <hi rend="italic">Now </hi>dont forget that
+in connection with this and other <hi rend="italic">kindred topics</hi> of great interest to the
+cause, you <hi rend="italic">must </hi>give us timely Notice, when you intend to leave 
+<placeName>Washington</placeName>&#8212;and you must let us know a week or at least 4 or five days before
+Hand, so that <hi rend="italic">one </hi>of <hi rend="italic">us </hi>can go on and arrange all&#8212;</p>
+
+<p>This I consider important in many points of view, as in 6 or less Hours
+all can be done which would require days and sheets of paper and then 
+perhaps not be as well understood.&#8212;So, <hi rend="italic">tell us</hi> or me, in answer to this and if
+you can, by return post, how your time goes, and when you fix your 
+departure in anticipation, and let us know, I will run on and see you, if 
+possible and if not one of us <hi rend="italic">will </hi>go, and this will give us time to see what we
+can do in the way of extending the Loan and also with subscription 
+Donation lists etc.</p>
+
+<p>Pardon my scrawl for I have been interrupted momently since I set down
+at my desk&#8212; If <date n="05-xx-1836">tomorrow</date>s mail, or <date n="05-xx-1836">tomorrow</date>s steam boat confirms the
+rumors (in <persName>Bryan</persName>'s Letter) that <hi rend="italic"><persName>Sam </persName></hi>has whippd- the <persName><persName>Mexicans</persName></persName>. It will of
+course have a good effect on our collections and Subscriptions&#8212;</p>
+
+<p>Excuse my lengthy communications for I have not had time to make
+them <hi rend="italic">shorter</hi>&#8212; Very truly</p>
+
+<p><persName>El mismo</persName></p>
+
+<p>Dont let these papers or my letters lay about or be exposed&#8212;</p>
+
+<p><hi rend="italic">Private Continued</hi></p>
+
+<p>As regards the insurance there may be no claim on any one&#8212; If the
+office Insured the property <hi rend="italic">against all risk&#8212; Including Capture</hi> by the
+<persName>Enemy </persName>then there is no claim&#8212; If not against capture, but only against
+sea Risk then the <persName>owners </persName>have no claim on the Insurance. &#8212;but <hi rend="italic">lose the</hi>
+property, <hi rend="italic">without recourse</hi> to any one</p>
+
+<p>I shall send you the <placeName>Evening paper</placeName> and C and <placeName>Enquirer </placeName>of this <date n="05-xx-1836">morning</date>.
+<hi rend="italic">also</hi>;&#8212; The former will no doubt Copy from the <placeName>Orleans papers</placeName> of <date when="1836-05-02">2d</date>
+came to hand this morning&#8212; Nothing direct from <placeName>Texas</placeName>, but some 
+interesting advice from <placeName>Matamoros</placeName>, which ought to appear in <placeName>the Globe</placeName>&#8212;
+<persName>Gorostizal </persName>is, in <placeName>Phila</placeName>. or will be today&#8212;He intends publishing in <placeName>the Globe</placeName>
+or <hi rend="italic"><placeName>Nat Intel</placeName></hi>, his full correspondence with this <persName>Govnt</persName>. also you will see
+the <persName>President</persName>s answer to the call of the <persName>House of Reps.</persName> which has not
+reached us, &#8212;I call your attention to the enclosed paper in reference to
+<persName>M</persName>&#8212;which you will please reply to, as soon as possible, and give me a
+definite answer, as regards this transaction. Let it be a separate paper in
+reply to mine, to show to the <persName>parties</persName>.&#8212; I have this morns. Letter from
+<persName>S. F. Austin</persName> at <placeName>Phila</placeName>. dated <date when="1836-05-14">14th</date> and note its contents. I hope to hear from<pb n="357"/>
+<persName>the <hi rend="italic">head </hi>of the <hi rend="italic">Committee </hi>at <placeName>Phila</placeName>.</persName> on the subject of the men, money,
+wanted, to move them etc.&#8212; I was going to write him but shall wait, until
+<date n="05-xx-1836">tomorrow </date>to receive his Letter We shall move in this business, without
+doubt, and that promptly&#8212; See <persName>Stone</persName>s letter to you of yesterday addressd-
+either at <placeName>Baltimore </placeName>or <placeName>Washington</placeName>&#8212;I dont remember which&#8212;I agree with
+you that the <placeName>south </placeName>will save you&#8212; Still, I am sorry nothing further has
+been done here&#8212; that [than] when you left us&#8212; Tho I think something
+further <hi rend="italic">will </hi>be done&#8212;today has been the first working day among us&#8212;and
+I suppose all are at work but myself&#8212; I confess I have done nothing, and
+the reason is before you&#8212;all calls on the subject of <placeName>Texas </placeName>are made to
+me&#8212;all <persName>enquirers </persName>sent to me&#8212;I have to get the news from the files of
+papers <hi rend="italic">then</hi>, confer with <persName>Editors</persName>, and Talk up and answer inquiries etc. then
+write you etc. etc. So that I trust you will find some excuse for me at
+least for today&#8212; I do all I can and will do my utmost of this you must not
+doubt. But I have to do all myself, none can act for me: or write for me&#8212;
+This keeps me hard at work without fulfilling my promise of going on as I
+intended today&#8212; Still will tomorrow&#8212; The Charleston Boat, tomorrow
+might bring us news no doubt&#8212; I also send you a <placeName>western paper</placeName> just recd-&#8212;
+it might contain something of interest: Yours etc</p>
+
+<p>Very truly and cordially	The same</p>
+
+<p>Pray let me hear from you fully and as often as possible and pardon
+my scrawl Papers herewith.</p>
+
+<p>Again Truly	<persName>El Mismo</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
