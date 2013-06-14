@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5348">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mirabeau B. Lamar to Gail Borden, Jr, 01-20-1837</title>
+            <author>
+                <persName>Mirabeau B. Lamar</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-31">08-31-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Gail Borden
+                    </persName>
+                </person>
+
+                <person>
+                    <persName type="recipient">
+                         Jr
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Brazoria, Texas</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Unknown</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 482-484
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1837-01-20">01-20-1837</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Tribute to Austin. Asks help in collecting material for a biography of Austin</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Brazoria </placeName><date when="1837-01-20">20th January 1837</date></p>
+
+<p><persName>Gail Bourden [Borden] Esqr</persName>.</p>
+
+<p>Dear Sir</p>
+
+<p>For some time passed I have been collecting materials for the life of the
+late lamented <persName>Genl. Stephen F. Austin</persName>. The task was originally under-<pb n="483"/>
+taken in conformity with the wishes of the deceased; and it was upon him
+that I relied for a greater portion of the matter which was to impart 
+interest and value to the work; but before his public duties would allow
+him the necessary leisure to examine and arrange his papers, <hi rend="italic">"the insatiate
+archer"</hi> came&#8212;and laying low the brightest example of human enterprize
+and virtue, has imposed upon his <persName>Biographer </persName>the painful necessity and
+duty of seeking information from other sources. What we have lost in
+loosing him, remains to be supplied as far as possible, by the contributions
+of friendship and public spirit. The claims of <persName>General Austin</persName> upon the
+affections of the <persName>people of <placeName>Texas</placeName></persName> were of the strongest kind. He was not
+only the <persName>founder of our <placeName>Republic</placeName></persName>, but there is scarcely a blessing which
+has flowed to the <placeName>country </placeName>that may not fairly be attributed to his untiring
+efforts for its welfare; whilst almost every calamity and misfortune which
+have befallen it, might have been averted by an adherence to his wise and
+prudent counsels. The world has afforded but few examples of superior
+intelligence and sagacity; and as for disinterested and extended 
+philanthropy&#8212;his long sufferings for the weal of others&#8212;his patient endurance
+under persecution&#8212;his generous forgiveness of <persName>enemies</persName>&#8212;and his final
+sacrifice of health, happiness and life in the service of his <placeName>country</placeName>, all
+conspire to place him without a modern rival amongst the first of <persName>patriots</persName>
+and the best of men. Now that he lives no more to serve us by his 
+counsels, or to receive the reward of labors, let us manifest our gratitude, by
+doing justice to his memory&#8212;let us make a full and faithful record of his
+good works, and following the example of his own generosity give each
+venial error to the stream of Lethe. To pay due tribute to departed 
+excellence, is a pleasing performance to the generous mind; and not to do
+it&#8212;to deny just homage to exalted worth&#8212;evinces a sad insensibility to
+virtue. Surely no one who casts his eyes over our broad and beautiful
+<placeName>Prairies</placeName>, and reflects that he has come to the bright inheritance through the
+toils and afflicting vicissitudes of one whose home, for our benefit, has been
+the <placeName>wilderness </placeName>and the <placeName>dungeon</placeName>, can for a moment refuse his small 
+contribution toward erecting a monument to the memory of the noble 
+<persName>benefactor</persName>? And of what shall that monument consist?&#8212;of marble?&#8212; No&#8212;-
+The best and purest superstructure which can be reared to the honor of
+<persName>General Austin</persName>, is the record of his actions&#8212;the history of his life; and he
+who shall contribute to this object by preserving any anecdote and 
+interesting fact illustrative of his character, will not only render service to the
+cause of truth and justice, but will be making some small return for the
+many blessings which we are all enjoying from his labors. Permit me,
+therefore, to ask the favor of you, to announce in your valuable paper, my
+intention to compile his biography, and that I shall be pleased to receive,
+by voluntary contribution, any information which may be servicable to the
+undertaking. The labors of <persName>General Austin</persName> were extensive and important;<pb n="484"/>
+so intimately connected with all the interesting events of his times, that a
+faithful account of his life must necessarily embrace a large portion of the
+history of our <persName>country</persName>. It will be perceived therefore that the materials
+appropriate to such a work, will not be limited to any particular epoch,
+but will include what ever relates to past wars&#8212;to the <persName>aborigines</persName>&#8212;to the
+thrilling events of our present revolutionary struggle for Independence&#8212;
+and indeed to every subject and circumstance in any wise connected with
+the <placeName>country </placeName>and worthy to be remembered in its annals. His 
+correspondence was extensive; and if collected, will go great way in explaining our
+political history; such letters as may be entrusted to my use will be 
+carefully preserved and returned to the <persName>proprietors </persName>whenever demanded; and
+for all well authenticated facts and valuable documents, proper 
+acknowledgements will be made and due credit given to the <persName>contributors</persName>. Be so
+kind as to act as one of my <persName>agents </persName>in receiving and collecting materials for
+the object proposed; and also state in your journal, that all contributions
+intended for my use, may be address to the Care of<persName> Col Henry Austin of
+<placeName>Bolivar</placeName></persName>, to yourself at <placeName>Columbia </placeName>and to <persName>Mr. Perry</persName> below <placeName>Brazoria</placeName>. As
+<persName>Boswell </persName>said of <persName>Doctor Johnson</persName>, we ought not to <hi rend="italic">"loose one drop of our
+immortal friend"</hi>; and it is to be hoped that the early followers of <persName>Genl.
+Austin</persName>&#8212;the hardy adventurers, who blazed their way through the bottoms
+of the <placeName>Brazos</placeName>&#8212;will not permit the soul stirring scenes of former days to
+fade from memory, or go unchronicled, before the witnesses are called
+upon to follow their faithful Pioneer to other and more beautiful Prairies
+of the spirit land.</p>
+
+<p><persName>Mirabeau B. Lamar</persName></p>
+
+<p>[Note on back] : In setting up the above in type, correct the 
+<hi rend="italic">orthography</hi>, but preserve my <hi rend="italic">punctuation</hi>.	<persName>M. B. L.</persName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

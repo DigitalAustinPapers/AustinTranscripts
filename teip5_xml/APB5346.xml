@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5346">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Barnard E. Bee to Stephen F Austin, 01-01-1837</title>
+            <author>
+                <persName>Barnard E. Bee</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-31">08-31-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">Velasco, Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 480
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1837-01-01">01-01-1837</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Santa Anna's progress toward Washington</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington Kentucky</placeName> <date when="1837-01-01">Jany 1st 1837</date></p>
+
+<p>My dear Sir</p>
+
+<p>The <placeName>Papers </placeName>will have informed you we could not make our way against
+the Ice in the <placeName>Ohio</placeName>&#8212;and of the indisposition of <persName>Genl Santa Anna</persName>&#8212; The
+transition from a warm <placeName>Cabin </placeName>to the open Air&#8212;had an immediate effect
+upon his lungs&#8212;and on reaching here he found medical aid indispensable&#8212;
+<persName>Dr. Dudly</persName> thinks him better to day&#8212;and I trust we will proceed in a few
+days&#8212; I hope you all estimate <persName>Genl Bravo</persName>s Proclamation as I do&#8212;a
+"Bravado"&#8212;or if not exactly that&#8212;as a prevention to our attacking him
+this <date n="Winter-1837">Winter</date>;&#8212;a <hi rend="italic"><date n="Winter-1837">Winter </date></hi>Campaign for them is out of the question&#8212;and
+before <hi rend="italic">Spring </hi>all will be arranged&#8212; tell the <persName>President</persName>&#8212;or write him&#8212;
+that the <persName>Mexicans </persName>will not this Winter at least give another <persName>Genl Huston</persName>
+an opportunity of conquering them&#8212; I have just seen <persName>Mrs Holly</persName>&#8212;and
+<persName>Capt Austins charming daughters</persName> and very much pleased with <persName>Aunt </persName>and
+<persName>Nieces</persName>&#8212;</p>
+<p><persName>Barnard E. Bee</persName></p>
+<p>[Addressed:] <persName>Hon. S. F. Austin</persName> <placeName>Velasco Texas</placeName></p>
+<p>Care of <persName>Mr Toby and Brother</persName> <placeName>New Orleans</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>

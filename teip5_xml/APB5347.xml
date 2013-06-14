@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/sgmr29/code/digital-austin-papers/tei-2.0.2/xml/tei/custom/schema/xsd/tei_all.xsd "
+xml:lang="EN"
+xml:id="APB5347">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Mary Austin Holley to Stephen F Austin, 01-14-1837</title>
+            <author>
+                <persName>Mary Austin Holley</persName>
+            </author>
+            <respStmt xml:id="AJT">
+                <resp>Project Director and Editor</resp> 
+                <persName>Andrew J. Torget</persName>
+            </respStmt>
+            <respStmt xml:id="DL">
+                <resp>Creation of XML version</resp>
+                <persName>Debbie Liles</persName>
+            </respStmt>
+            <respStmt xml:id="SGM">
+                <resp>TEI Formatting</resp>
+                <persName>Stephen Mues</persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Stephen F. Austin Papers</publisher>
+            <date when="2011-08-31">08-31-2011</date>
+        </publicationStmt>
+        <sourceDesc>
+            <listPerson>
+
+                <person>
+                    <persName type="recipient">
+                        Stephen F Austin
+                    </persName>
+                </person>
+
+
+            </listPerson>
+            <listPlace>
+                <place>
+                    <placeName type="origin">Lexington, Kentucky</placeName>
+                </place>
+                <place>
+                    <placeName type="destination">New Orleans, Louisiana, to be forwarded to Texas</placeName>
+                </place>
+            </listPlace>
+            <bibl>
+                Eugene Barker, ed., <hi rend="italic">The Austin Papers</hi>, (Austin: University of Texas Press, 1927), 3 vols., Vol 3, pp. 480-482
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <handNotes>
+            <handNote xml:id="barker" scope="minor">
+                Eugene Barker's summaries and footnotes
+            </handNote>
+        </handNotes>
+        <textDesc>
+            <channel mode="w">Letter</channel>
+            <constitution type="single"/>
+            <derivation type="original"/>
+            <domain type="domestic"/>
+            <factuality type="fact"/>
+            <interaction type="none"/>
+            <preparedness type="prepared"/>
+            <purpose type="inform"/>
+        </textDesc>
+        <creation>
+            <date when="1837-01-14">01-14-1837</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
+        <change when="2011-08-31" who="#DL">Digital creation of XML file</change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div1 type="summary">
+            <p><add hand="#barker">Account of the passage of resolution by the Kentucky Senate requesting recognition of Texan independence</add></p>
+        </div1>
+        <div1 type="body">
+            
+
+<p><placeName>Lexington</placeName>, <date when="1836-01-14">Jany 14, 1837</date></p>
+<p>Dear <persName>Cousin</persName></p>
+
+<p>I have been again to <placeName>Frankfort </placeName>to get the <placeName>Texas </placeName>resolutions through the
+<persName>Senate</persName>. I wrote you of their passage in the <persName>House</persName>. After the recess for
+the Christmas Holidays, the weather being excessively cold I could not
+immediately get back, and when I arrived had the mortification to learn<pb n="481"/>
+they had been brought up, before all the <persName>members </persName>returned, and had been
+<hi rend="italic">laid on the table till <date n="06-xx-1836">June</date>.</hi> Could I have got home the same night I should
+have done so without showing myself. I had to stay, however, and learned,
+from conversation with my <persName>friends </persName>among the <persName>senators</persName>, that probably a
+vote of reconsideration might be obtained. On motion it proved to be the
+fact; and after a very animated and interesting discussion, for which I 
+furnished the chief matter, such ignorance prevails on the subject, the 
+Resolutions were carried, but with very considerable amendments, growing out
+of <hi rend="italic">prudential </hi>motives. Old men are excessively prudent, as if there could
+be danger in requesting <persName>congress </persName>to recognize when they see reason for so
+doing. The amendments are rather in the phraseology than in the sense.
+<persName>Mr Wiggington</persName> seemed displeased and doubted if the <persName>House </persName>would concur.
+I shall have to go again to see about it. The success of these Resolutions&#8212;
+They are called my resolutions&#8212;is ascribed entirely to the presence of the
+<persName>ladies</persName>. The seats were crowded by my influence and example. The <persName>ladies</persName>
+call out the eloquence&#8212;and they electioneer well in the <placeName>lobbies </placeName>and in
+<placeName>society</placeName>. Our friends in the senate are Mesrs <persName>Carter</persName>&#8212;<persName>Willes</persName>&#8212;Dixon&#8212;
+<persName>Barnet</persName>&#8212;<persName>Young</persName>. All were eloquent. <persName>Willes </persName>most elaborate. I gave him
+a book&#8212;and numbers of the <placeName>Telegraph</placeName>. <persName>Fergurson </persName>drew up his brief, and
+assisted him by hints as he spoke. He was very useful and devoted. They
+doubted the ability of <placeName>Texas </placeName>to <hi rend="italic">maintain her Independence</hi>, which was a
+clause left out by the amendments. With the alterations they had every
+vote but two. One of the <hi rend="italic">no </hi>was the <persName>Uncle of young Woolley</persName> who 
+returned with <persName>Wilson </persName>and <persName>Postletwhaite</persName>. Those bad men did incalculable
+mischief. Nothing can do away [with] the impression The <persName>President</persName>'s
+<placeName>Texas </placeName>message, arriving while the Resolutions were pending, had its effect
+to retard. 'He knows better than we,' they would say. <persName>Wharton</persName>s foolish
+speech did mischief by giving plausibility to the argument of our 
+<persName>opponents </persName>that the <persName>Texian </persName>battles were fought by <persName>adventurers </persName>from the <placeName>United
+States</placeName> rather than by <placeName>Texans</placeName>. <persName>Mr Burrel of the Senate</persName>, arrived direct from
+<placeName>Texas </placeName>while the discussion was going on, and had he been more of a man
+he might have aided us much by a speech in point, as I urged. He is not
+much of a talker, and I suspect, though I could not find out, that he was
+not altogether pleased. He spoke of the excitement caused by <persName>Santa Anna</persName>'s
+release, and of <persName>Houston</persName>'s intemperance and unpopularity. He said he had
+been with you some days. He only voted with us&#8212;said nothing. I saw in
+<placeName>Frankfort </placeName>an old friend of yours&#8212;<persName>Mrs Ramsey</persName>. She told me to speak to
+you of <persName><hi rend="italic">Martha Lockwood</hi>&#8212;of <placeName>St. Louis</placeName></persName>. She said she had led many a
+dance with you. I replied, no doubt she would again, for she is going to
+<placeName>Texas </placeName>to reside, being a <hi rend="italic"><persName>widow</persName></hi>, and having a <persName>sister </persName>there, living in <placeName>Nacog-<pb n="482"/>
+doches</placeName>. We were attracted to each other simply by <placeName>Texas </placeName>sympathy&#8212;
+sitting together during the debates.</p>
+
+<p>I wish I could go on to <placeName>Washington</placeName>, now I see how much I could do.
+If the money comes soon enough I shall do so. All care will be necessary
+<placeName>Texas </placeName>has <persName>enemies</persName>. Unless the mission of <persName>Santa Anna</persName> should effect all.
+He is nearly there by this time. He was sick here a week, as you were&#8212;
+through severe cold. As soon as able he took carriages from <placeName>Wheeling</placeName>,
+the river being frozen&#8212;to be there in ten days. It is now the tenth. Then
+he would take stage. He has been heard from at <placeName>Chilacothe</placeName>&#8212;doing well.
+<persName>Gen. Jackson</persName> is reported doing well also&#8212;they will therefore meet before
+many days. While here he was not very accessible to <persName>visitors</persName>&#8212; I saw
+and conversed with him in his room&#8212;found in him all the urbanity of the
+perfect gentleman. Could not discover in him the <hi rend="italic">cloven foot</hi>&#8212;or talk of
+monster any more. He spoke of you as his <hi rend="italic">amigo</hi>. Complimented us a
+good deal&#8212;said he had seen my book etc: said <persName>Henrietta </persName>did not much
+resemble the <persName>ladies </persName>he saw in <placeName>Texas</placeName>&#8212; I replied he could not have seen
+many there&#8212;they had to <hi rend="italic">fly before</hi> him etc: He laughed at all I said was
+very pleasant, as was <persName>Almonte</persName>. They promised to pass an even'g at my
+<placeName>house </placeName>with some <persName>Kentucky ladies</persName>. They did not however give me a chance.
+They produced quite a sensation. Our lamented friend <persName>Charlton Hunt</persName> was
+buried with military honors the day they arrived, which caused a concourse
+in the streets. He was frightened at the sight of Military supposing him-
+[self] the object of attention. Reports of him have gone ahead of him
+all the way&#8212;and people, tired of the cry of wolf, suffered him to pass
+unmolested. God speed him and <placeName>Texas</placeName>.&#8212; I wrote you about <persName>Fergurson</persName>.
+You did not get the letters in season&#8212; <persName>Wharton </persName>passed while he was
+busy at <placeName>Frankfort</placeName>. He will probably return to <placeName>Texas</placeName>. Ever yours</p>
+
+<p><persName>M A H</persName>.</p>
+
+<p>Since writing&#8212;I have a letter from <persName>Henry</persName>, <date when="1836-12-09">9 Dec</date>: Some hope of the
+money glad affairs go on so well. <persName>Henrietta </persName>and I will go to <persName>Washington</persName>
+rather than <placeName>N Orleans</placeName>. <persName>Emily </persName>has returned from <placeName>N York</placeName>&#8212; We are all
+very well. Have an approv'g letter from <persName>Edwards teacher</persName>&#8212; Best love to
+cousin <persName>Emily</persName>. <persName>Girls </persName>send theirs also to her and you&#8212;</p>
+
+<p>[Addressed:] <persName>S F Austin Texas</persName>.</p>
+
+<p>Care of <persName>Messrs Toby and Brothers</persName> <placeName>New Orleans</placeName></p>
+
+
+
+        </div1>
+    </body>
+</text>
+</TEI>
