@@ -170,7 +170,7 @@ while (scalar(@ARGV) != 0)
         #$digitalDate = "$3-$1-$2";
     }
 
-    if ($fileContents =~ m/\<barker_citation\>(.*)\<\/barker_citation\>/)
+    if ($fileContents =~ m/\<barker_citation\>(.*)\<\/barker_citation\>/s)
     {
         $citation = $1;
     }
