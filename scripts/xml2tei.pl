@@ -137,7 +137,7 @@ while (scalar(@ARGV) != 0)
             print "Warning!  Non-standard domain!\n";
         }
     }
-    if ($fileContents =~ m/\<barker_summary\>([^<]*)\<\/barker_summary\>/)
+    if ($fileContents =~ m/\<barker_summary\>(.*)\<\/barker_summary\>/s)
     {
         $summary = $1;
     }
