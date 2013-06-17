@@ -116,7 +116,7 @@ while (scalar(@ARGV) != 0)
     {   
         $textId = $1;
     }
-    if ($fileContents =~ m/\<document_title\>([^<]*)\<\/document_title\>/)
+    if ($fileContents =~ m/\<document_title\>(.*)\<\/document_title\>/s)
     {
         $title = $1;
     }
