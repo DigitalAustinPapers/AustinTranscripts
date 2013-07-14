@@ -170,6 +170,30 @@ while (scalar(@ARGV) != 0)
         #$digitalDate = "$3-$1-$2";
     }
 
+	if ($fileContents =~ m/<\/name>.*<name>(.*)<\/name>/s)
+	{
+		$digitizers = $1;
+        foreach my $digitizer(split(/,\s*/, $digitizers)) {
+        	print "DIGITIZER=";
+        	print $digitizer;
+        	print " INITIAL=";
+        	if($digitizer =~ m/(\w)\w*\s+(\w)\S*(\s+(\w)\w*)?/)
+        	{
+        		$initial="$1$2$4";
+        	}
+        	print $initial;
+        	print "\n";
+		    $encodersBlock .= <<BWB29HEREDOCTOKEN186;
+            <respStmt xml:id="$initial">
+                <resp>Creation of XML version</resp>
+                <persName>$digitizer</persName>
+            </respStmt>
+BWB29HEREDOCTOKEN186
+
+        }
+		
+	}
+
     if ($fileContents =~ m/\<barker_citation\>(.*)\<\/barker_citation\>/s)
     {
         $citation = $1;
@@ -272,10 +296,7 @@ xml:id="$textId">
                 <resp>Project Director and Editor</resp> 
                 <persName>Andrew J. Torget</persName>
             </respStmt>
-            <respStmt xml:id="DL">
-                <resp>Creation of XML version</resp>
-                <persName>Debbie Liles</persName>
-            </respStmt>
+$encodersBlock
             <respStmt xml:id="SGM">
                 <resp>TEI Formatting</resp>
                 <persName>Stephen Mues</persName>
