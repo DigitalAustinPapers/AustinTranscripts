@@ -21,8 +21,12 @@ xml:id="APB1899">
             </respStmt>
 
             <respStmt xml:id="SGM">
-                <resp>TEI Formatting</resp>
+                <resp>Initial TEI Formatting</resp>
                 <persName>Stephen Mues</persName>
+            </respStmt>
+            <respStmt xml:id="BWB">
+                <resp>Programmatic and Manual TEI P5 Compliance</resp>
+                <persName>Ben W. Brumfield</persName>
             </respStmt>
         </titleStmt>
         <publicationStmt>
@@ -74,6 +78,7 @@ xml:id="APB1899">
         </creation>
     </profileDesc>
     <revisionDesc>
+        <change when="2013-07-15" who="#BWB">Programmatic restructuring and manual clean-up to comply with TEI P5 2.3.0</change>
         <change when="2012-02-15" who="#SGM">Restructured to meet TEI P5 standards</change>
         <change when="2010-08-19" who="#DL">Digital creation of XML file</change>
     </revisionDesc>
